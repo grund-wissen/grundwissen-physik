@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg21669"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="lichtweg-schlagschatten.svg">
+  <title
+     id="title60480">Lichtweg (Schlagschatten)</title>
+  <defs
+     id="defs21671">
+    <marker
+       style="overflow:visible"
+       id="TriangleInM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.4,-0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path13059" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.4,-0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path13059-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.4,-0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path13059-3" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="371.12941"
+     inkscape:cy="364.11044"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata21674">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Lichtweg (Schlagschatten)</dc:title>
+        <dc:date>2012-10-05</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Optik</rdf:li>
+            <rdf:li>Uebungsaufgabe</rdf:li>
+            <rdf:li>Lichtausbreitung</rdf:li>
+            <rdf:li>Schlagschatten</rdf:li>
+            <rdf:li>Lichtstrahl</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect24730"
+       width="525.71429"
+       height="380"
+       x="109.19009"
+       y="336.18109"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/lichtweg-schlagschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect21677"
+       width="448.57144"
+       height="322.85715"
+       x="147.76152"
+       y="364.7525"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/lichtweg-schlagschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       inkscape:label="Ebene 1"
+       id="layer1-6"
+       transform="matrix(0,-0.40896366,0.40896366,0,-102.39177,602.258)"
+       style="stroke:#000000;stroke-width:2.44520497"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/lichtweg-schlagschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         transform="translate(46.153531,926.30724)"
+         id="g51941"
+         style="stroke:#000000;stroke-width:2.44520497">
+        <g
+           transform="translate(-1.5,-688.29984)"
+           id="g50370"
+           style="stroke:#000000;stroke-width:2.44520497">
+          <g
+             id="g50372"
+             style="stroke:#000000;stroke-width:2.44520497">
+            <path
+               sodipodi:type="arc"
+               style="color:#000000;fill:none;stroke:#000000;stroke-width:0.56248379;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
+               id="path50376"
+               sodipodi:cx="421.65353"
+               sodipodi:cy="100.86611"
+               sodipodi:rx="14.173228"
+               sodipodi:ry="10.629921"
+               d="m 435.82676,100.86611 c 0,5.87074 -6.34557,10.62992 -14.17323,10.62992 -7.82765,0 -14.17322,-4.75918 -14.17322,-10.62992 0,-5.870741 6.34557,-10.629919 14.17322,-10.629919 7.82766,0 14.17323,4.759178 14.17323,10.629919 z"
+               transform="matrix(-3.7647525,0,0,5.0196575,1728.7913,176.93908)" />
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.44520497;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 102.17144,32.651239 75.39732,-75.39733"
+           id="path51937"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path51939"
+           d="m 177.56876,32.651239 -75.39732,-75.39733"
+           style="fill:none;stroke:#000000;stroke-width:2.44520497;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.44520497;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 239.38233,921.25981 59.55279,0"
+         id="path12110"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path12108"
+         d="m 73.112148,921.25981 59.552792,0"
+         style="fill:none;stroke:#000000;stroke-width:2.44520497;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path22515"
+         d="m 298.93512,921.25981 0,-211.79647"
+         style="fill:none;stroke:#000000;stroke-width:2.44520497;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.44520497;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 73.11215,921.25981 0,-211.79647"
+         id="path22517"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       inkscape:label="Ebene 1"
+       id="layer1-5"
+       transform="matrix(0,-0.40896386,0.40896386,0,-189.009,602.25803)"
+       style="stroke:#000000;stroke-width:2.44520354"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/lichtweg-schlagschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g11934"
+         transform="translate(-0.74996948,-24.25744)"
+         style="stroke:#000000;stroke-width:2.44520354">
+        <g
+           id="g11930"
+           style="stroke:#000000;stroke-width:2.44520354">
+          <line
+             id="line69376"
+             y2="945.51721"
+             x2="129.18649"
+             y1="945.51721"
+             x1="73.862152"
+             class="fil0 str0"
+             style="fill:none;stroke:#000000;stroke-width:2.44520354;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+          <line
+             id="line69382"
+             y2="945.51721"
+             x2="299.68503"
+             y1="945.51721"
+             x1="243.61073"
+             class="fil0 str0"
+             style="fill:none;stroke:#000000;stroke-width:2.44520354;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+        <g
+           transform="translate(30.995912,-580.30323)"
+           id="g77483"
+           style="stroke:#000000;stroke-width:2.44520354">
+          <circle
+             id="circle69378"
+             r="4.35006"
+             cy="39.485901"
+             cx="9.4012003"
+             class="fil0 str0"
+             sodipodi:cx="9.4012003"
+             sodipodi:cy="39.485901"
+             sodipodi:rx="4.35006"
+             sodipodi:ry="4.35006"
+             style="fill:none;stroke:#000000;stroke-width:0.5383274;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 13.75126,39.485901 c 0,2.402472 -1.947588,4.35006 -4.3500597,4.35006 -2.4024718,0 -4.35006,-1.947588 -4.35006,-4.35006 0,-2.402472 1.9475882,-4.35006 4.35006,-4.35006 2.4024717,0 4.3500597,1.947588 4.3500597,4.35006 z"
+             transform="matrix(4.5422244,0,0,4.5422244,75.997131,1346.4666)" />
+          <circle
+             id="circle69380"
+             r="4.35006"
+             cy="39.485901"
+             cx="35.854401"
+             class="fil0 str0"
+             sodipodi:cx="35.854401"
+             sodipodi:cy="39.485901"
+             sodipodi:rx="4.35006"
+             sodipodi:ry="4.35006"
+             style="fill:none;stroke:#000000;stroke-width:0.5383274;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 40.204461,39.485901 c 0,2.402472 -1.947589,4.35006 -4.35006,4.35006 -2.402472,0 -4.35006,-1.947588 -4.35006,-4.35006 0,-2.402472 1.947588,-4.35006 4.35006,-4.35006 2.402471,0 4.35006,1.947588 4.35006,4.35006 z"
+             transform="matrix(4.5422244,0,0,4.5422244,29.997131,1346.4666)" />
+        </g>
+        <g
+           style="stroke:#000000;stroke-width:5.61302471;stroke-miterlimit:4;stroke-dasharray:none"
+           id="g77526"
+           transform="matrix(0.43563034,0,0,0.43563034,184.91324,269.75461)">
+          <g
+             id="g162690"
+             style="stroke:#000000;stroke-width:5.61302471" />
+        </g>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 472.40196,449.11035 0,154.14149"
+       id="path24174"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/lichtweg-schlagschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

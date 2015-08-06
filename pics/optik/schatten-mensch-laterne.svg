@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="schatten-mensch-laterne.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="436.13731"
+     inkscape:cy="594.43615"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       id="guide127889"
+       orientation="1052.3622,0"
+       position="0.0,0" />
+    <sodipodi:guide
+       id="guide127891"
+       orientation="1052.3622,0"
+       position="372.0472,0" />
+    <sodipodi:guide
+       id="guide127893"
+       orientation="1052.3622,0"
+       position="744.0945,0" />
+    <sodipodi:guide
+       id="guide127895"
+       orientation="0,744.0945"
+       position="0,0.0" />
+    <sodipodi:guide
+       id="guide127897"
+       orientation="0,744.0945"
+       position="0,526.1811" />
+    <sodipodi:guide
+       id="guide127899"
+       orientation="0,744.0945"
+       position="0,1052.3622" />
+  </sodipodi:namedview>
+  <title
+     id="title3049">Schattenwurf</title>
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       id="filter4881">
+      <feBlend
+         inkscape:collect="always"
+         mode="multiply"
+         in2="BackgroundImage"
+         id="feBlend4883" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4841">
+      <path
+         style="fill:#d4aa00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 300.06261,534.14246 C 280.00383,534.53779 261.38527,543.15319 243.56261,551.57996 C 208.11088,553.29502 169.76764,551.43391 138.40636,570.54871 C 128.88593,575.72674 124.13467,586.54872 114.87511,591.95496 C 104.75446,589.81444 104.91581,577.25867 105.12511,569.29871 C 101.78467,568.80079 98.59005,572.90701 95.3486,573.72881 C 58.42762,594.77215 38.88393,637.4382 37.68573,678.95289 C 35.15,718.77914 44.6318,761.37521 72.31261,791.26746 C 83.92981,801.6029 100.42453,801.11494 114.90636,799.51746 C 125.83163,800.10788 136.81788,803.84762 147.60989,800.40617 C 163.62711,797.40353 179.33519,791.80015 195.59386,790.14246 C 217.6312,784.11698 240.72999,779.83805 259.79466,766.4535 C 267.97466,761.30013 274.74761,754.15149 280.90636,746.79871 C 293.48216,745.89755 306.73199,745.83563 317.62511,738.82996 C 329.60962,733.32898 338.98406,723.6171 347.75011,714.23621 C 356.84697,714.27798 363.25307,723.1352 372.62511,722.32996 C 382.01887,723.45827 391.94254,720.24089 401.00011,723.42371 C 411.78078,740.07316 433.23994,746.26468 452.40636,744.32996 C 469.01847,750.79235 487.53757,748.80571 504.81261,746.29871 C 525.48537,754.82796 552.76588,745.14317 560.37511,723.36121 C 567.10813,706.81627 560.49244,688.85139 562.95528,671.6793 C 564.31606,648.06672 564.55406,622.23146 550.40636,602.07996 C 535.92639,579.98004 508.15559,572.29838 483.34386,568.67371 C 470.58787,566.67074 456.9778,567.78724 444.78136,563.45496 C 437.36766,558.85118 434.29449,546.35632 424.00011,547.20496 C 407.84433,545.07488 391.97232,550.39771 377.21886,556.26746 C 356.59383,554.81495 337.05155,547.16279 318.03136,539.67371 C 312.59771,536.43872 306.49082,533.77627 300.06261,534.14246 z"
+         id="path4843" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4274"
+       id="radialGradient4272"
+       cx="-28.422426"
+       cy="640.85486"
+       fx="-28.422426"
+       fy="640.85486"
+       r="39.34375"
+       gradientTransform="matrix(0.1630008,1.9542076,-1.7988848,0.1500515,1153.9502,575.11425)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4260"
+       id="linearGradient4266"
+       x1="-36.158424"
+       y1="672.60968"
+       x2="42.25"
+       y2="661.48438"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4252"
+       id="radialGradient4258"
+       cx="-15.052433"
+       cy="562.42212"
+       fx="-15.052433"
+       fy="562.42212"
+       r="67.419594"
+       gradientTransform="matrix(0.3308609,1.2145846,-1.1751156,0.3201081,650.8388,401.33864)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-5.0340495e-3,1.2605383,-1.3912453,-4.4138457e-3,641.50588,-95.436634)"
+       r="127.85714"
+       fy="299.66873"
+       fx="226.60933"
+       cy="296.42548"
+       cx="252.54221"
+       id="radialGradient2947"
+       xlink:href="#linearGradient2931"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient2931"
+       inkscape:collect="always">
+      <stop
+         id="stop2933"
+         offset="0"
+         style="stop-color:#fff6d5;stop-opacity:1" />
+      <stop
+         style="stop-color:#fff4cb;stop-opacity:1;"
+         offset="0.10220592"
+         id="stop2951" />
+      <stop
+         style="stop-color:#ffce0e;stop-opacity:1;"
+         offset="0.71005458"
+         id="stop2949" />
+      <stop
+         id="stop2935"
+         offset="1"
+         style="stop-color:#d4aa00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4252">
+      <stop
+         style="stop-color:#fff6d5;stop-opacity:1"
+         offset="0"
+         id="stop4254" />
+      <stop
+         style="stop-color:#ffdd55;stop-opacity:1"
+         offset="1"
+         id="stop4256" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4260">
+      <stop
+         style="stop-color:#e3dbdb;stop-opacity:1"
+         offset="0"
+         id="stop4262" />
+      <stop
+         id="stop4268"
+         offset="0.49240556"
+         style="stop-color:#c8b7b7;stop-opacity:1" />
+      <stop
+         style="stop-color:#e3dedb;stop-opacity:1"
+         offset="1"
+         id="stop4264" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4274"
+       inkscape:collect="always">
+      <stop
+         id="stop4276"
+         offset="0"
+         style="stop-color:#e3dbdb;stop-opacity:0" />
+      <stop
+         style="stop-color:#d7cecb;stop-opacity:0.43921569;"
+         offset="0.80281109"
+         id="stop4282" />
+      <stop
+         id="stop4280"
+         offset="1"
+         style="stop-color:#c8b7b7;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(0,3215.2197)"
+       y2="661.48438"
+       x2="42.25"
+       y1="672.60968"
+       x1="-36.158424"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4874"
+       xlink:href="#linearGradient4260"
+       inkscape:collect="always" />
+    <radialGradient
+       r="67.419594"
+       fy="562.42212"
+       fx="-15.052433"
+       cy="562.42212"
+       cx="-15.052433"
+       gradientTransform="matrix(0.52652758,1.9328736,-1.8700631,0.50941572,1035.4217,3510.7451)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4876"
+       xlink:href="#linearGradient4252"
+       inkscape:collect="always" />
+    <radialGradient
+       r="39.34375"
+       fy="640.85486"
+       fx="-28.422426"
+       cy="640.85486"
+       cx="-28.422426"
+       gradientTransform="matrix(0.1630008,1.9542076,-1.7988848,0.1500515,1153.9502,3790.334)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4878"
+       xlink:href="#linearGradient4274"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(0,3215.2197)"
+       y2="661.48438"
+       x2="42.25"
+       y1="672.60968"
+       x1="-36.158424"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4880"
+       xlink:href="#linearGradient4260"
+       inkscape:collect="always" />
+    <radialGradient
+       r="67.419594"
+       fy="562.42212"
+       fx="-15.052433"
+       cy="562.42212"
+       cx="-15.052433"
+       gradientTransform="matrix(0.52652758,1.9328736,-1.8700631,0.50941572,1035.4217,3510.7451)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4882"
+       xlink:href="#linearGradient4252"
+       inkscape:collect="always" />
+    <radialGradient
+       r="39.34375"
+       fy="640.85486"
+       fx="-28.422426"
+       cy="640.85486"
+       cx="-28.422426"
+       gradientTransform="matrix(0.1630008,1.9542076,-1.7988848,0.1500515,1153.9502,3790.334)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4884"
+       xlink:href="#linearGradient4274"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4260"
+       id="linearGradient128015"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,3215.2197)"
+       x1="-36.158424"
+       y1="672.60968"
+       x2="42.25"
+       y2="661.48438" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4252"
+       id="radialGradient128017"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.52652758,1.9328736,-1.8700631,0.50941572,1035.4217,3510.7451)"
+       cx="-15.052433"
+       cy="562.42212"
+       fx="-15.052433"
+       fy="562.42212"
+       r="67.419594" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4274"
+       id="radialGradient128019"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.1630008,1.9542076,-1.7988848,0.1500515,1153.9502,3790.334)"
+       cx="-28.422426"
+       cy="640.85486"
+       fx="-28.422426"
+       fy="640.85486"
+       r="39.34375" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4260"
+       id="linearGradient128021"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,3215.2197)"
+       x1="-36.158424"
+       y1="672.60968"
+       x2="42.25"
+       y2="661.48438" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4252"
+       id="radialGradient128023"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.52652758,1.9328736,-1.8700631,0.50941572,1035.4217,3510.7451)"
+       cx="-15.052433"
+       cy="562.42212"
+       fx="-15.052433"
+       fy="562.42212"
+       r="67.419594" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4274"
+       id="radialGradient128025"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.1630008,1.9542076,-1.7988848,0.1500515,1153.9502,3790.334)"
+       cx="-28.422426"
+       cy="640.85486"
+       fx="-28.422426"
+       fy="640.85486"
+       r="39.34375" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4260"
+       id="linearGradient128062"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,3215.2197)"
+       x1="-36.158424"
+       y1="672.60968"
+       x2="42.25"
+       y2="661.48438" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4252"
+       id="radialGradient128064"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.52652758,1.9328736,-1.8700631,0.50941572,1035.4217,3510.7451)"
+       cx="-15.052433"
+       cy="562.42212"
+       fx="-15.052433"
+       fy="562.42212"
+       r="67.419594" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4274"
+       id="radialGradient128066"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.1630008,1.9542076,-1.7988848,0.1500515,1153.9502,3790.334)"
+       cx="-28.422426"
+       cy="640.85486"
+       fx="-28.422426"
+       fy="640.85486"
+       r="39.34375" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4260"
+       id="linearGradient128068"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,3215.2197)"
+       x1="-36.158424"
+       y1="672.60968"
+       x2="42.25"
+       y2="661.48438" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4252"
+       id="radialGradient128070"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.52652758,1.9328736,-1.8700631,0.50941572,1035.4217,3510.7451)"
+       cx="-15.052433"
+       cy="562.42212"
+       fx="-15.052433"
+       fy="562.42212"
+       r="67.419594" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4274"
+       id="radialGradient128072"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.1630008,1.9542076,-1.7988848,0.1500515,1153.9502,3790.334)"
+       cx="-28.422426"
+       cy="640.85486"
+       fx="-28.422426"
+       fy="640.85486"
+       r="39.34375" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4260"
+       id="linearGradient128107"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,3215.2197)"
+       x1="-36.158424"
+       y1="672.60968"
+       x2="42.25"
+       y2="661.48438" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4252"
+       id="radialGradient128109"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.52652758,1.9328736,-1.8700631,0.50941572,1035.4217,3510.7451)"
+       cx="-15.052433"
+       cy="562.42212"
+       fx="-15.052433"
+       fy="562.42212"
+       r="67.419594" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4274"
+       id="radialGradient128111"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.1630008,1.9542076,-1.7988848,0.1500515,1153.9502,3790.334)"
+       cx="-28.422426"
+       cy="640.85486"
+       fx="-28.422426"
+       fy="640.85486"
+       r="39.34375" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4260"
+       id="linearGradient128128"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,3215.2197)"
+       x1="-36.158424"
+       y1="672.60968"
+       x2="42.25"
+       y2="661.48438" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4252"
+       id="radialGradient128130"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.52652758,1.9328736,-1.8700631,0.50941572,1035.4217,3510.7451)"
+       cx="-15.052433"
+       cy="562.42212"
+       fx="-15.052433"
+       fy="562.42212"
+       r="67.419594" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4274"
+       id="radialGradient128132"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.1630008,1.9542076,-1.7988848,0.1500515,1153.9502,3790.334)"
+       cx="-28.422426"
+       cy="640.85486"
+       fx="-28.422426"
+       fy="640.85486"
+       r="39.34375" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Schattenwurf</dc:title>
+        <dc:date>2012-02-01</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Optik</rdf:li>
+            <rdf:li>Lichtausbreitung</rdf:li>
+            <rdf:li>Schatten</rdf:li>
+            <rdf:li>Laterne</rdf:li>
+            <rdf:li>Winkel</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <rect
+       y="395.4668"
+       x="59.190094"
+       height="261.42856"
+       width="625.71429"
+       id="rect4905"
+       style="fill:#ffffff;stroke:none"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/schatten-mensch-laterne.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#cccccc;stroke:#cccccc;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4741"
+       width="251.42857"
+       height="10.215368"
+       x="416.83517"
+       y="628.47491"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/schatten-mensch-laterne.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4759"
+       sodipodi:cx="172.85715"
+       sodipodi:cy="284.14789"
+       sodipodi:rx="24.285715"
+       sodipodi:ry="5.3571429"
+       d="m 197.14286,284.14789 a 24.285715,5.3571429 0 1 1 -48.57143,0 24.285715,5.3571429 0 1 1 48.57143,0 z"
+       transform="matrix(2.6607888,0,0,0.82197104,24.897358,399.66413)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/schatten-mensch-laterne.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(0.19054258,0,0,0.19165887,481.54584,514.66475)"
+       id="g4761"
+       inkscape:label="Layer 1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/schatten-mensch-laterne.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         d="m 320.15748,13.30189 c -23.81068,0 -43.02535,19.428795 -43.02535,43.239411 0,23.810617 19.21467,43.025012 43.02535,43.025012 23.81076,6.85e-4 43.23941,-19.214395 43.23941,-43.025012 0,-23.810616 -19.42865,-43.239411 -43.23941,-43.239411 z m -67.21374,110.23875 c -22.3166,0 -40.02856,17.08068 -40.02856,38.10274 l 0,174.4557 c 0,26.66835 38.53017,26.66835 38.53017,0 l 0,-137.85238 13.69961,0 0,393.00771 c 0,12.02827 10.77783,22.04748 23.54622,22.04748 12.76824,0 22.47593,-10.02058 22.47593,-22.04748 l 0,-216.41077 17.98074,0 0,216.41077 c 0,12.0269 9.92175,22.04748 22.68999,22.04748 12.76832,0 23.54622,-10.01921 23.54622,-22.04748 l 0,-393.00771 13.48556,0 0,137.85238 c 0,26.66835 38.53016,26.66835 38.53016,0 l 0,-174.4557 c 0,-21.02206 -17.71196,-38.10274 -40.02856,-38.10274 l -134.42748,0 z"
+         id="path4763" />
+    </g>
+    <g
+       transform="translate(79.727837,351.22043)"
+       id="g4773"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/schatten-mensch-laterne.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         transform="matrix(0.56975515,0,0,0.56975515,437.89299,40.186775)"
+         id="g4743">
+        <g
+           style="enable-background:new"
+           id="g4745"
+           transform="matrix(0.19172593,0,0,-0.19172593,155.05694,127.33452)">
+          <g
+             transform="translate(-535.16296,-291.12114)"
+             inkscape:label="Layer 1"
+             id="g4747">
+            <g
+               transform="translate(602.05092,-224.25386)"
+               id="g4749">
+              <path
+                 style="fill:url(#linearGradient128128);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+                 d="m 42.25,627.0625 c -21.656934,18.44672 -54.196491,24.74898 -78.6875,9.59375 1.493204,3.4096 2.375,6.15607 2.375,7.96875 0,23.20229 -0.512797,51.28127 34.59375,51.28125 35.106546,0 34.593751,-28.07896 34.59375,-51.28125 0,-3.29309 2.992577,-9.68779 7.125,-17.5625 z"
+                 id="path4751"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:url(#radialGradient128130);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+                 d="m 0.53102565,477.00129 c -74.87994665,0 -100.18950165,43.1904 -106.77209565,75.78978 -5.55406,27.50567 35.108694,87.91523 47.940524,117.21557 38.974663,24.11782 90.757676,14.08849 125.222229,-15.26737 C 83.51279,623.12339 112.01718,576.13681 107.30312,552.79107 100.72053,520.19174 75.410971,477.00126 0.53102565,477.00129 z"
+                 id="path4753"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4755"
+                 d="m 42.25,627.0625 c -21.656934,18.44672 -54.196491,24.74898 -78.6875,9.59375 1.493204,3.4096 2.375,6.15607 2.375,7.96875 0,23.20229 -0.512797,51.28127 34.59375,51.28125 35.106546,0 34.593751,-28.07896 34.59375,-51.28125 0,-3.29309 2.992577,-9.68779 7.125,-17.5625 z"
+                 style="fill:url(#radialGradient128132);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4881);enable-background:accumulate"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+        <path
+           style="fill:#cccccc;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 124.75384,120.60587 27.72172,-47.619763 32.38236,0 27.26484,47.619763 c -28.88912,-6.7816 -58.00364,-7.02702 -87.36892,0 z"
+           id="path4757"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4765"
+         d="m 533.86158,81.558609 0,-19.107143"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:transform-center-y="15.750191"
+       inkscape:transform-center-x="14.571658"
+       inkscape:connector-curvature="0"
+       id="path4790"
+       d="M 420.37013,630.88725 601.55983,457.74993"
+       style="fill:none;stroke:#ff7f2a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/schatten-mensch-laterne.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#ff7f2a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       d="M 553.71256,628.25911 611.43168,468.59237"
+       id="path4792"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-28.123894"
+       inkscape:transform-center-y="-76.706861"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/schatten-mensch-laterne.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       y="628.47491"
+       x="75.830742"
+       height="10.215368"
+       width="251.42857"
+       id="rect2985"
+       style="fill:#cccccc;stroke:#cccccc;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/schatten-mensch-laterne.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(0.56975515,0,0,0.56975515,105.57644,391.40721)"
+       id="g4710"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/schatten-mensch-laterne.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="enable-background:new"
+         id="g4703"
+         transform="matrix(0.19172593,0,0,-0.19172593,155.05694,127.33452)">
+        <g
+           transform="translate(-535.16296,-291.12114)"
+           inkscape:label="Layer 1"
+           id="layer1-5">
+          <g
+             transform="translate(602.05092,-224.25386)"
+             id="g4885">
+            <path
+               style="fill:url(#linearGradient128107);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+               d="m 42.25,627.0625 c -21.656934,18.44672 -54.196491,24.74898 -78.6875,9.59375 1.493204,3.4096 2.375,6.15607 2.375,7.96875 0,23.20229 -0.512797,51.28127 34.59375,51.28125 35.106546,0 34.593751,-28.07896 34.59375,-51.28125 0,-3.29309 2.992577,-9.68779 7.125,-17.5625 z"
+               id="path4244"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:url(#radialGradient128109);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+               d="m 0.53102565,477.00129 c -74.87994665,0 -100.18950165,43.1904 -106.77209565,75.78978 -5.55406,27.50567 35.108694,87.91523 47.940524,117.21557 38.974663,24.11782 90.757676,14.08849 125.222229,-15.26737 C 83.51279,623.12339 112.01718,576.13681 107.30312,552.79107 100.72053,520.19174 75.410971,477.00126 0.53102565,477.00129 z"
+               id="path4239"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path4270"
+               d="m 42.25,627.0625 c -21.656934,18.44672 -54.196491,24.74898 -78.6875,9.59375 1.493204,3.4096 2.375,6.15607 2.375,7.96875 0,23.20229 -0.512797,51.28127 34.59375,51.28125 35.106546,0 34.593751,-28.07896 34.59375,-51.28125 0,-3.29309 2.992577,-9.68779 7.125,-17.5625 z"
+               style="fill:url(#radialGradient128111);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4881);enable-background:accumulate"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+      <path
+         style="fill:#cccccc;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 124.75384,120.60587 27.72172,-47.619763 32.38236,0 27.26484,47.619763 c -28.88912,-6.7816 -58.00364,-7.02702 -87.36892,0 z"
+         id="path4527"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <path
+       transform="matrix(1.1471159,0,0,0.86692538,2.543569,386.89045)"
+       d="m 197.14286,284.14789 a 24.285715,5.3571429 0 1 1 -48.57143,0 24.285715,5.3571429 0 1 1 48.57143,0 z"
+       sodipodi:ry="5.3571429"
+       sodipodi:rx="24.285715"
+       sodipodi:cy="284.14789"
+       sodipodi:cx="172.85715"
+       id="path4737"
+       style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/schatten-mensch-laterne.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-4"
+       transform="matrix(0.19054258,0,0,0.19165887,140.5414,514.66475)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/schatten-mensch-laterne.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         id="path7062"
+         d="m 320.15748,13.30189 c -23.81068,0 -43.02535,19.428795 -43.02535,43.239411 0,23.810617 19.21467,43.025012 43.02535,43.025012 23.81076,6.85e-4 43.23941,-19.214395 43.23941,-43.025012 0,-23.810616 -19.42865,-43.239411 -43.23941,-43.239411 z m -67.21374,110.23875 c -22.3166,0 -40.02856,17.08068 -40.02856,38.10274 l 0,174.4557 c 0,26.66835 38.53017,26.66835 38.53017,0 l 0,-137.85238 13.69961,0 0,393.00771 c 0,12.02827 10.77783,22.04748 23.54622,22.04748 12.76824,0 22.47593,-10.02058 22.47593,-22.04748 l 0,-216.41077 17.98074,0 0,216.41077 c 0,12.0269 9.92175,22.04748 22.68999,22.04748 12.76832,0 23.54622,-10.01921 23.54622,-22.04748 l 0,-393.00771 13.48556,0 0,137.85238 c 0,26.66835 38.53016,26.66835 38.53016,0 l 0,-174.4557 c 0,-21.02206 -17.71196,-38.10274 -40.02856,-38.10274 l -134.42748,0 z"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4739"
+       d="m 201.54503,432.77904 0,-19.10714"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/schatten-mensch-laterne.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#ff7f2a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       d="M 172.84736,633.24735 189.91059,457.93226"
+       id="path4794"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="0.62288562"
+       inkscape:transform-center-y="7.8312879"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/schatten-mensch-laterne.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="7.8312879"
+       inkscape:transform-center-x="-0.62288562"
+       inkscape:connector-curvature="0"
+       id="path4796"
+       d="M 230.62488,633.24735 213.56165,457.93226"
+       style="fill:none;stroke:#ff7f2a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/schatten-mensch-laterne.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

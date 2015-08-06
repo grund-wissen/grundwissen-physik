@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="zentrifuge.svg">
+  <title
+     id="title11167">Zentrifuge (Modell)</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.93774513"
+     inkscape:cx="261.52335"
+     inkscape:cy="370.6568"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Zentrifuge (Modell)</dc:title>
+        <dc:date>2014-04-11</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Dynamik</rdf:li>
+            <rdf:li>Radialkraft</rdf:li>
+            <rdf:li>Zentripetalkraft</rdf:li>
+            <rdf:li>Zentrifugalkraft</rdf:li>
+            <rdf:li>Zentrifuge</rdf:li>
+            <rdf:li>Sedimentation</rdf:li>
+            <rdf:li>Stofftrennung</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3233"
+       width="637.69995"
+       height="333.77939"
+       x="53.197266"
+       y="359.29141"
+       ry="5.0894308"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       transform="matrix(-0.83391002,0,0,0.83411626,2406.7097,356.62757)"
+       d="m 2330.1155,104.52731 a 4.2881513,4.2881513 0 1 1 -8.5763,0 4.2881513,4.2881513 0 1 1 8.5763,0 z"
+       sodipodi:ry="4.2881513"
+       sodipodi:rx="4.2881513"
+       sodipodi:cy="104.52731"
+       sodipodi:cx="2325.8274"
+       id="path6173"
+       style="fill:#ffcc00;fill-rule:evenodd;stroke:#000000;stroke-width:1.19902194;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 276.29457,443.8155 190.8844,0"
+       id="path6175"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g11104"
+       transform="translate(-0.31046629,3.096741)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:connector-curvature="0"
+         id="path36465"
+         d="m 393.73367,408.89862 c 0,0 0,0 0,0 -6.50832,-3.75758 -22.08367,-5.7153 -34.78853,-4.37269 -12.70485,1.3426 -17.72813,5.47712 -11.21981,9.2347"
+         style="fill:none;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:none" />
+      <path
+         inkscape:transform-center-x="-2.3507742"
+         transform="matrix(0.068981,-0.10201745,0.10201745,0.068981,233.0267,231.13813)"
+         inkscape:transform-center-y="0.35289773"
+         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.6179939"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="6.060915"
+         sodipodi:r1="12.121831"
+         sodipodi:cy="1607.946"
+         sodipodi:cx="-707.10675"
+         sodipodi:sides="3"
+         id="path42818-4"
+         style="fill:#800080;fill-opacity:1;stroke:#4d4d4d;stroke-width:12.18026161;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="star" />
+    </g>
+    <path
+       style="fill:#808080;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 363.0652,652.30428 0,-246.57437 c 0,-7.59241 17.34314,-7.53289 17.34314,0 l 0,246.57437"
+       id="path6177"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g11108"
+       transform="translate(-0.31046629,3.096741)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:connector-curvature="0"
+         id="path36463"
+         d="m 350.36081,415.38402 c 0,0 0,0 0,0 l 0,0 c 6.50832,3.75758 22.08367,5.7153 34.78853,4.37269 12.70485,-1.34261 17.72813,-5.47712 11.21981,-9.2347"
+         style="fill:none;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:none" />
+      <path
+         sodipodi:type="star"
+         style="fill:#800080;fill-opacity:1;stroke:#4d4d4d;stroke-width:12.18026161;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path6714"
+         sodipodi:sides="3"
+         sodipodi:cx="-707.10675"
+         sodipodi:cy="1607.946"
+         sodipodi:r1="12.121831"
+         sodipodi:r2="6.060915"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+         inkscape:transform-center-y="-0.35290074"
+         transform="matrix(-0.068981,0.10201745,-0.10201745,-0.068981,510.8593,593.25351)"
+         inkscape:transform-center-x="2.350772" />
+    </g>
+    <rect
+       style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11114"
+       width="30.418999"
+       height="12"
+       x="356.52728"
+       y="437.81549"
+       ry="6"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g11034"
+       transform="translate(-0.31046629,1.096741)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3905"
+         d="m 252.80136,528.63246 47.82682,0 0,62.6281 c -2.4589,30.05351 -44.17972,31.83556 -47.82682,0 z"
+         style="fill:#afc6e9;fill-opacity:1;stroke:#87aade;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         style="stroke:#808080"
+         transform="translate(-1.87905,0)"
+         id="g3893">
+        <g
+           style="stroke:#808080"
+           id="g3875">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path3101"
+             d="m 278.59382,429.51682 -27.87217,0 3.95876,8.67158 0,153.07216 c 1.19609,12.50237 8.96628,23.08281 23.91341,23.08281"
+             style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 278.59382,429.51682 27.87217,0 -3.95876,8.67158 0,153.07216 c -1.19609,12.50237 -8.96628,23.08281 -23.91341,23.08281"
+             id="path3105"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+        <path
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#cccccc;fill-opacity:1;stroke:#808080;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           d="m 255.25,436.71875 a 6.0073401,6.0073401 0 1 0 0.59375,12 l 45.5,0 a 6.0006,6.0006 0 1 0 0,-12 l -45.5,0 a 6.0006,6.0006 0 0 0 -0.59375,0 z"
+           id="path3885"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/mechanik/dynamik/kraftwandler/flaschenzug-seilspannung.png"
+         transform="matrix(-0.83391002,0,0,0.83411626,2216.1358,355.53083)"
+         d="m 2330.1155,104.52731 c 0,2.36828 -1.9198,4.28815 -4.2881,4.28815 -2.3683,0 -4.2882,-1.91987 -4.2882,-4.28815 0,-2.36828 1.9199,-4.28815 4.2882,-4.28815 2.3683,0 4.2881,1.91987 4.2881,4.28815 z"
+         sodipodi:ry="4.2881513"
+         sodipodi:rx="4.2881513"
+         sodipodi:cy="104.52731"
+         sodipodi:cx="2325.8274"
+         id="path10746-8-1"
+         style="fill:#ffcc00;fill-rule:evenodd;stroke:#000000;stroke-width:1.19902194;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path11116"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="translate(-0.31046629,7.3176541)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="translate(9.8476017,-8.70591)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path11122"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path11124"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="translate(-2.405712,-14.738311)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="translate(-4.2908372,-28.1227)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path11126"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path11128"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="translate(26.059679,-43.015189)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="translate(12.863803,-28.311213)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path11130"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path11132"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="translate(25.494141,-20.205175)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path11134"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="translate(6.8314017,-43.957752)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="translate(-5.6104245,-52.81784)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path11136"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path11157"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="translate(17.765128,0.34269093)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="translate(17.199591,14.104105)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path11159"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="translate(26.813729,-7.1978099)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path11161"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="translate(19.650253,-57.646261)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path11163"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g3072"
+       transform="matrix(-1,0,0,1,744.14794,-0.56589659)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g3074"
+         transform="translate(-0.31046629,1.096741)">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path3076"
+           d="m 252.80136,528.63246 47.82682,0 0,62.6281 c -2.4589,30.05351 -44.17972,31.83556 -47.82682,0 z"
+           style="fill:#afc6e9;fill-opacity:1;stroke:#87aade;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <g
+           style="stroke:#808080"
+           transform="translate(-1.87905,0)"
+           id="g3078">
+          <g
+             style="stroke:#808080"
+             id="g3080">
+            <path
+               sodipodi:nodetypes="ccccc"
+               inkscape:connector-curvature="0"
+               id="path3082"
+               d="m 278.59382,429.51682 -27.87217,0 3.95876,8.67158 0,153.07216 c 1.19609,12.50237 8.96628,23.08281 23.91341,23.08281"
+               style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+            <path
+               style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 278.59382,429.51682 27.87217,0 -3.95876,8.67158 0,153.07216 c -1.19609,12.50237 -8.96628,23.08281 -23.91341,23.08281"
+               id="path3084"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccccc" />
+          </g>
+          <path
+             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#cccccc;fill-opacity:1;stroke:#808080;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+             d="m 255.25,436.71875 a 6.0073401,6.0073401 0 1 0 0.59375,12 l 45.5,0 a 6.0006,6.0006 0 1 0 0,-12 l -45.5,0 a 6.0006,6.0006 0 0 0 -0.59375,0 z"
+             id="path3086"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/mechanik/dynamik/kraftwandler/flaschenzug-seilspannung.png"
+           transform="matrix(-0.83391002,0,0,0.83411626,2216.1358,355.53083)"
+           d="m 2330.1155,104.52731 c 0,2.36828 -1.9198,4.28815 -4.2881,4.28815 -2.3683,0 -4.2882,-1.91987 -4.2882,-4.28815 0,-2.36828 1.9199,-4.28815 4.2882,-4.28815 2.3683,0 4.2881,1.91987 4.2881,4.28815 z"
+           sodipodi:ry="4.2881513"
+           sodipodi:rx="4.2881513"
+           sodipodi:cy="104.52731"
+           sodipodi:cx="2325.8274"
+           id="path3088"
+           style="fill:#ffcc00;fill-rule:evenodd;stroke:#000000;stroke-width:1.19902194;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           sodipodi:type="arc" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3090"
+         sodipodi:cx="266.5567"
+         sodipodi:cy="592.39166"
+         sodipodi:rx="3.0162003"
+         sodipodi:ry="3.0162003"
+         d="m 269.5729,592.39166 c 0,1.6658 -1.3504,3.0162 -3.0162,3.0162 -1.6658,0 -3.0162,-1.3504 -3.0162,-3.0162 0,-1.6658 1.3504,-3.0162 3.0162,-3.0162 1.6658,0 3.0162,1.3504 3.0162,3.0162 z"
+         transform="translate(-0.31046629,7.3176541)" />
+      <path
+         transform="translate(9.8476017,-8.70591)"
+         d="m 269.5729,592.39166 c 0,1.6658 -1.3504,3.0162 -3.0162,3.0162 -1.6658,0 -3.0162,-1.3504 -3.0162,-3.0162 0,-1.6658 1.3504,-3.0162 3.0162,-3.0162 1.6658,0 3.0162,1.3504 3.0162,3.0162 z"
+         sodipodi:ry="3.0162003"
+         sodipodi:rx="3.0162003"
+         sodipodi:cy="592.39166"
+         sodipodi:cx="266.5567"
+         id="path3092"
+         style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3094"
+         sodipodi:cx="266.5567"
+         sodipodi:cy="592.39166"
+         sodipodi:rx="3.0162003"
+         sodipodi:ry="3.0162003"
+         d="m 269.5729,592.39166 c 0,1.6658 -1.3504,3.0162 -3.0162,3.0162 -1.6658,0 -3.0162,-1.3504 -3.0162,-3.0162 0,-1.6658 1.3504,-3.0162 3.0162,-3.0162 1.6658,0 3.0162,1.3504 3.0162,3.0162 z"
+         transform="translate(-2.405712,-14.738311)" />
+      <path
+         transform="translate(-4.2908372,-28.1227)"
+         d="m 269.5729,592.39166 c 0,1.6658 -1.3504,3.0162 -3.0162,3.0162 -1.6658,0 -3.0162,-1.3504 -3.0162,-3.0162 0,-1.6658 1.3504,-3.0162 3.0162,-3.0162 1.6658,0 3.0162,1.3504 3.0162,3.0162 z"
+         sodipodi:ry="3.0162003"
+         sodipodi:rx="3.0162003"
+         sodipodi:cy="592.39166"
+         sodipodi:cx="266.5567"
+         id="path3096"
+         style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3098"
+         sodipodi:cx="266.5567"
+         sodipodi:cy="592.39166"
+         sodipodi:rx="3.0162003"
+         sodipodi:ry="3.0162003"
+         d="m 269.5729,592.39166 c 0,1.6658 -1.3504,3.0162 -3.0162,3.0162 -1.6658,0 -3.0162,-1.3504 -3.0162,-3.0162 0,-1.6658 1.3504,-3.0162 3.0162,-3.0162 1.6658,0 3.0162,1.3504 3.0162,3.0162 z"
+         transform="translate(26.059679,-43.015189)" />
+      <path
+         transform="translate(12.863803,-28.311213)"
+         d="m 269.5729,592.39166 c 0,1.6658 -1.3504,3.0162 -3.0162,3.0162 -1.6658,0 -3.0162,-1.3504 -3.0162,-3.0162 0,-1.6658 1.3504,-3.0162 3.0162,-3.0162 1.6658,0 3.0162,1.3504 3.0162,3.0162 z"
+         sodipodi:ry="3.0162003"
+         sodipodi:rx="3.0162003"
+         sodipodi:cy="592.39166"
+         sodipodi:cx="266.5567"
+         id="path3100"
+         style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3102"
+         sodipodi:cx="266.5567"
+         sodipodi:cy="592.39166"
+         sodipodi:rx="3.0162003"
+         sodipodi:ry="3.0162003"
+         d="m 269.5729,592.39166 c 0,1.6658 -1.3504,3.0162 -3.0162,3.0162 -1.6658,0 -3.0162,-1.3504 -3.0162,-3.0162 0,-1.6658 1.3504,-3.0162 3.0162,-3.0162 1.6658,0 3.0162,1.3504 3.0162,3.0162 z"
+         transform="translate(25.494141,-20.205175)" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3104"
+         sodipodi:cx="266.5567"
+         sodipodi:cy="592.39166"
+         sodipodi:rx="3.0162003"
+         sodipodi:ry="3.0162003"
+         d="m 269.5729,592.39166 c 0,1.6658 -1.3504,3.0162 -3.0162,3.0162 -1.6658,0 -3.0162,-1.3504 -3.0162,-3.0162 0,-1.6658 1.3504,-3.0162 3.0162,-3.0162 1.6658,0 3.0162,1.3504 3.0162,3.0162 z"
+         transform="translate(6.8314017,-43.957752)" />
+      <path
+         transform="translate(-5.6104245,-52.81784)"
+         d="m 269.5729,592.39166 c 0,1.6658 -1.3504,3.0162 -3.0162,3.0162 -1.6658,0 -3.0162,-1.3504 -3.0162,-3.0162 0,-1.6658 1.3504,-3.0162 3.0162,-3.0162 1.6658,0 3.0162,1.3504 3.0162,3.0162 z"
+         sodipodi:ry="3.0162003"
+         sodipodi:rx="3.0162003"
+         sodipodi:cy="592.39166"
+         sodipodi:cx="266.5567"
+         id="path3106"
+         style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3108"
+         sodipodi:cx="266.5567"
+         sodipodi:cy="592.39166"
+         sodipodi:rx="3.0162003"
+         sodipodi:ry="3.0162003"
+         d="m 269.5729,592.39166 c 0,1.6658 -1.3504,3.0162 -3.0162,3.0162 -1.6658,0 -3.0162,-1.3504 -3.0162,-3.0162 0,-1.6658 1.3504,-3.0162 3.0162,-3.0162 1.6658,0 3.0162,1.3504 3.0162,3.0162 z"
+         transform="translate(17.765128,0.34269093)" />
+      <path
+         transform="translate(17.199591,14.104105)"
+         d="m 269.5729,592.39166 c 0,1.6658 -1.3504,3.0162 -3.0162,3.0162 -1.6658,0 -3.0162,-1.3504 -3.0162,-3.0162 0,-1.6658 1.3504,-3.0162 3.0162,-3.0162 1.6658,0 3.0162,1.3504 3.0162,3.0162 z"
+         sodipodi:ry="3.0162003"
+         sodipodi:rx="3.0162003"
+         sodipodi:cy="592.39166"
+         sodipodi:cx="266.5567"
+         id="path3110"
+         style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(26.813729,-7.1978099)"
+         d="m 269.5729,592.39166 c 0,1.6658 -1.3504,3.0162 -3.0162,3.0162 -1.6658,0 -3.0162,-1.3504 -3.0162,-3.0162 0,-1.6658 1.3504,-3.0162 3.0162,-3.0162 1.6658,0 3.0162,1.3504 3.0162,3.0162 z"
+         sodipodi:ry="3.0162003"
+         sodipodi:rx="3.0162003"
+         sodipodi:cy="592.39166"
+         sodipodi:cx="266.5567"
+         id="path3112"
+         style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(19.650253,-57.646261)"
+         d="m 269.5729,592.39166 c 0,1.6658 -1.3504,3.0162 -3.0162,3.0162 -1.6658,0 -3.0162,-1.3504 -3.0162,-3.0162 0,-1.6658 1.3504,-3.0162 3.0162,-3.0162 1.6658,0 3.0162,1.3504 3.0162,3.0162 z"
+         sodipodi:ry="3.0162003"
+         sodipodi:rx="3.0162003"
+         sodipodi:cy="592.39166"
+         sodipodi:cx="266.5567"
+         id="path3114"
+         style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       style="opacity:0.5"
+       inkscape:transform-center-y="9.9634402"
+       inkscape:transform-center-x="-75.791818"
+       transform="matrix(-0.17364818,0.98480776,0.98480776,0.17364818,79.271508,93.914305)"
+       id="g3191"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3193"
+         d="m 252.80136,528.63246 47.82682,0 0,62.6281 c -2.4589,30.05351 -44.17972,31.83556 -47.82682,0 z"
+         style="fill:#afc6e9;fill-opacity:1;stroke:#87aade;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         style="stroke:#808080;stroke-width:1"
+         transform="translate(-1.87905,0)"
+         id="g3195">
+        <g
+           style="stroke:#808080;stroke-width:1"
+           id="g3197">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path3199"
+             d="m 278.59382,429.51682 -27.87217,0 3.95876,8.67158 0,153.07216 c 1.19609,12.50237 8.96628,23.08281 23.91341,23.08281"
+             style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 278.59382,429.51682 27.87217,0 -3.95876,8.67158 0,153.07216 c -1.19609,12.50237 -8.96628,23.08281 -23.91341,23.08281"
+             id="path3201"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+        <path
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#cccccc;fill-opacity:1;stroke:#808080;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           d="m 255.25,436.71875 a 6.0073401,6.0073401 0 1 0 0.59375,12 l 45.5,0 a 6.0006,6.0006 0 1 0 0,-12 l -45.5,0 a 6.0006,6.0006 0 0 0 -0.59375,0 z"
+           id="path3203"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/mechanik/dynamik/kraftwandler/flaschenzug-seilspannung.png"
+         transform="matrix(-0.83391002,0,0,0.83411626,2216.1358,355.53083)"
+         d="m 2330.1155,104.52731 c 0,2.36828 -1.9198,4.28815 -4.2881,4.28815 -2.3683,0 -4.2882,-1.91987 -4.2882,-4.28815 0,-2.36828 1.9199,-4.28815 4.2882,-4.28815 2.3683,0 4.2881,1.91987 4.2881,4.28815 z"
+         sodipodi:ry="4.2881513"
+         sodipodi:rx="4.2881513"
+         sodipodi:cy="104.52731"
+         sodipodi:cx="2325.8274"
+         id="path3205"
+         style="fill:#ffcc00;fill-rule:evenodd;stroke:#000000;stroke-width:1.19902194;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path11045"
+       d="m 187.55262,435.2922 8.30504,47.10023 -61.67664,10.87525 c -30.02391,2.7972 -39.023636,-37.98034 -8.30504,-47.10022 z"
+       style="opacity:0.5;fill:#afc6e9;fill-opacity:1;stroke:#87aade;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.25881904,0.96592583,-0.96592583,0.25881904,614.85937,59.748269)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path3137"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       style="opacity:0.5;stroke:#808080;stroke-width:1"
+       transform="matrix(0.17364818,0.98480776,-0.98480776,0.17364818,663.92918,92.684894)"
+       id="g11047"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="stroke:#808080;stroke-width:1"
+         id="g11049">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path11051"
+           d="m 278.59382,429.51682 -27.87217,0 3.95876,8.67158 0,153.07216 c 1.19609,12.50237 8.96628,23.08281 23.91341,23.08281"
+           style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="m 278.59382,429.51682 27.87217,0 -3.95876,8.67158 0,153.07216 c -1.19609,12.50237 -8.96628,23.08281 -23.91341,23.08281"
+           id="path11053"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#cccccc;fill-opacity:1;stroke:#808080;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 255.25,436.71875 a 6.0073401,6.0073401 0 1 0 0.59375,12 l 45.5,0 a 6.0006,6.0006 0 1 0 0,-12 l -45.5,0 a 6.0006,6.0006 0 0 0 -0.59375,0 z"
+         id="path11055"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       transform="matrix(-0.14480696,-0.82124106,-0.82144417,0.14484277,698.9539,2338.7404)"
+       d="m 2330.1155,104.52731 a 4.2881513,4.2881513 0 1 1 -8.5763,0 4.2881513,4.2881513 0 1 1 8.5763,0 z"
+       sodipodi:ry="4.2881513"
+       sodipodi:rx="4.2881513"
+       sodipodi:cy="104.52731"
+       sodipodi:cx="2325.8274"
+       id="path11057"
+       style="opacity:0.5;fill:#ffcc00;fill-rule:evenodd;stroke:#000000;stroke-width:1.19902194;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3139"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="matrix(0.25881904,0.96592583,-0.96592583,0.25881904,623.54043,65.978546)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.25881904,0.96592583,-0.96592583,0.25881904,615.8277,52.769969)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path3141"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3143"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="matrix(0.25881904,0.96592583,-0.96592583,0.25881904,619.03101,46.165351)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.25881904,0.96592583,-0.96592583,0.25881904,621.28901,58.619878)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path3145"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3147"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="matrix(0.25881904,0.96592583,-0.96592583,0.25881904,628.04567,70.546684)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.25881904,0.96592583,-0.96592583,0.25881904,627.80558,56.335146)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path3149"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.25881904,0.96592583,-0.96592583,0.25881904,624.41863,45.764997)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path3151"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3153"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="matrix(0.25881904,0.96592583,-0.96592583,0.25881904,622.74933,52.072063)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.25881904,0.96592583,-0.96592583,0.25881904,627.02904,76.722292)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path3155"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3157"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="matrix(0.25881904,0.96592583,-0.96592583,0.25881904,616.85309,67.098704)"
+       inkscape:transform-center-x="1.6966127"
+       inkscape:transform-center-y="4.5243004"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3159"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="matrix(0.25881904,0.96592583,-0.96592583,0.25881904,621.00801,73.142755)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3161"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="matrix(0.25881904,0.96592583,-0.96592583,0.25881904,629.11846,62.862491)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3207"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,128.6676,59.127177)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,119.98654,65.357454)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path3209"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3211"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,127.69927,52.148877)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,124.49596,45.544259)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path3213"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3215"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,122.23796,57.998786)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,115.4813,69.925592)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path3217"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3219"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,115.72139,55.714054)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3221"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,119.10834,45.143905)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,120.77764,51.450971)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path3223"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3225"
+       sodipodi:cx="266.5567"
+       sodipodi:cy="592.39166"
+       sodipodi:rx="3.0162003"
+       sodipodi:ry="3.0162003"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,116.49793,76.1012)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="4.5243004"
+       inkscape:transform-center-x="-1.6966162"
+       transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,126.67388,66.477612)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path3227"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,122.51896,72.521663)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path3229"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(-0.25881904,0.96592583,0.96592583,0.25881904,114.40851,62.241399)"
+       d="m 269.5729,592.39166 a 3.0162003,3.0162003 0 1 1 -6.0324,0 3.0162003,3.0162003 0 1 1 6.0324,0 z"
+       sodipodi:ry="3.0162003"
+       sodipodi:rx="3.0162003"
+       sodipodi:cy="592.39166"
+       sodipodi:cx="266.5567"
+       id="path3231"
+       style="color:#000000;fill:#6f7c91;fill-opacity:1;fill-rule:nonzero;stroke:#535d6c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/zentrifuge.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

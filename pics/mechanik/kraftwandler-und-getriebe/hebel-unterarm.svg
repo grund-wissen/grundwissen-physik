@@ -1,0 +1,1394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg51411"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="hebel-unterarm.svg">
+  <title
+     id="title21922">Hebel Unterarm</title>
+  <defs
+     id="defs51413">
+    <inkscape:perspective
+       id="perspective5010"
+       inkscape:persp3d-origin="526.18109 : 248.03149 : 1"
+       inkscape:vp_z="1052.3622 : 372.04724 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 372.04724 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient4993">
+      <stop
+         id="stop4995"
+         offset="0"
+         style="stop-color:#4e9a06;stop-opacity:1;" />
+      <stop
+         style="stop-color:#fbfdfc;stop-opacity:0.99647887"
+         offset="0.7899189"
+         id="stop4997" />
+      <stop
+         id="stop4999"
+         offset="1"
+         style="stop-color:#4e9a06;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4715">
+      <stop
+         style="stop-color:#2d2d2d;stop-opacity:0.95364237;"
+         offset="0"
+         id="stop4717" />
+      <stop
+         id="stop4719"
+         offset="0.23613903"
+         style="stop-color:#ffffff;stop-opacity:0.54966885;" />
+      <stop
+         style="stop-color:#484847;stop-opacity:1"
+         offset="1"
+         id="stop4721" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4786">
+      <stop
+         id="stop4788"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop4790"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <filter
+       height="1.3372396"
+       y="-0.1686198"
+       width="1.2569444"
+       x="-0.12847222"
+       id="filter4954"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur4956"
+         stdDeviation="2.2482639"
+         inkscape:collect="always" />
+    </filter>
+    <linearGradient
+       id="linearGradient4768">
+      <stop
+         id="stop4770"
+         offset="0"
+         style="stop-color:#62a5d6;stop-opacity:1;" />
+      <stop
+         id="stop4772"
+         offset="1"
+         style="stop-color:#62a523;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4652"
+       inkscape:collect="always">
+      <stop
+         id="stop4654"
+         offset="0"
+         style="stop-color:#eeeeec;stop-opacity:1;" />
+      <stop
+         id="stop4656"
+         offset="1"
+         style="stop-color:#eeeeec;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4360">
+      <stop
+         id="stop4362"
+         offset="0"
+         style="stop-color:#0000d9;stop-opacity:1;" />
+      <stop
+         id="stop4364"
+         offset="1"
+         style="stop-color:#0000cf;stop-opacity:0;" />
+    </linearGradient>
+    <filter
+       height="1.6666667"
+       y="-0.33333334"
+       width="1.6666667"
+       x="-0.33333334"
+       id="filter4558"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur4560"
+         stdDeviation="2.4552319"
+         inkscape:collect="always" />
+    </filter>
+    <linearGradient
+       id="linearGradient4317">
+      <stop
+         id="stop4319"
+         offset="0"
+         style="stop-color:#4e9aff;stop-opacity:1;" />
+      <stop
+         id="stop4321"
+         offset="1"
+         style="stop-color:#4e9a06;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4562">
+      <stop
+         style="stop-color:#4e9afc;stop-opacity:1;"
+         offset="0"
+         id="stop4564" />
+      <stop
+         id="stop4566"
+         offset="0.7411384"
+         style="stop-color:#fbfdfc;stop-opacity:0.87417221;" />
+      <stop
+         style="stop-color:#4e9aff;stop-opacity:1;"
+         offset="1"
+         id="stop4568" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4715"
+       id="linearGradient53281"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5109172,0,0,0.5501754,366.24923,267.63707)"
+       x1="874.5"
+       y1="130.61218"
+       x2="875"
+       y2="157.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4786"
+       id="linearGradient53285"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49841497,0,0,0.5501754,335.75792,268.0471)"
+       x1="905.53552"
+       y1="237.82664"
+       x2="913.53552"
+       y2="237.82664" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4652"
+       id="radialGradient53288"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49685705,-0.19574156,0.10064349,0.27358777,340.63818,546.41852)"
+       cx="912.76678"
+       cy="378.65784"
+       fx="912.76678"
+       fy="378.65784"
+       r="97.006454" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4768"
+       id="linearGradient53291"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5316426,0,0,0.5501754,348.33056,268.59727)"
+       x1="878.43744"
+       y1="189.71875"
+       x2="959.44391"
+       y2="351.71875" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4993"
+       id="linearGradient53294"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5316426,0,0,0.5501754,348.56324,268.11717)"
+       x1="837"
+       y1="117.06824"
+       x2="919"
+       y2="117.06824" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4360"
+       id="linearGradient53297"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5316426,0,0,0.5501754,348.13128,267.49692)"
+       x1="878.8125"
+       y1="918.56403"
+       x2="878.8125"
+       y2="894.46948" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4317"
+       id="linearGradient53301"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5316426,0,0,0.5501754,348.06682,276.75551)"
+       x1="800.44489"
+       y1="857.90778"
+       x2="957.42261"
+       y2="857.90778" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4562"
+       id="linearGradient53304"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5316426,0,0,0.5501754,348.13079,268.59727)"
+       spreadMethod="reflect"
+       x1="800.20599"
+       y1="618.82214"
+       x2="975.83405"
+       y2="618.82214" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4562"
+       id="linearGradient21001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5316426,0,0,0.5501754,348.13079,268.59727)"
+       spreadMethod="reflect"
+       x1="800.20599"
+       y1="618.82214"
+       x2="975.83405"
+       y2="618.82214" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4317"
+       id="linearGradient21003"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5316426,0,0,0.5501754,348.06682,276.75551)"
+       x1="800.44489"
+       y1="857.90778"
+       x2="957.42261"
+       y2="857.90778" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4360"
+       id="linearGradient21005"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5316426,0,0,0.5501754,348.13128,267.49692)"
+       x1="878.8125"
+       y1="918.56403"
+       x2="878.8125"
+       y2="894.46948" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4993"
+       id="linearGradient21007"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5316426,0,0,0.5501754,348.56324,268.11717)"
+       x1="837"
+       y1="117.06824"
+       x2="919"
+       y2="117.06824" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4768"
+       id="linearGradient21009"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5316426,0,0,0.5501754,348.33056,268.59727)"
+       x1="878.43744"
+       y1="189.71875"
+       x2="959.44391"
+       y2="351.71875" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4652"
+       id="radialGradient21011"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49685705,-0.19574156,0.10064349,0.27358777,340.63818,546.41852)"
+       cx="912.76678"
+       cy="378.65784"
+       fx="912.76678"
+       fy="378.65784"
+       r="97.006454" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4786"
+       id="linearGradient21013"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.49841497,0,0,0.5501754,335.75792,268.0471)"
+       x1="905.53552"
+       y1="237.82664"
+       x2="913.53552"
+       y2="237.82664" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4715"
+       id="linearGradient21015"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5109172,0,0,0.5501754,366.24923,267.63707)"
+       x1="874.5"
+       y1="130.61218"
+       x2="875"
+       y2="157.36218" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.1601562"
+     inkscape:cx="193.34223"
+     inkscape:cy="455.85005"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-global="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="517.1981,5.8921303"
+       id="guide53638" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="142.06581,482.50001"
+       id="guide14741" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata51416">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Hebel Unterarm</dc:title>
+        <dc:date>2012-06-23</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Dynamik</rdf:li>
+            <rdf:li>Kraftwandler</rdf:li>
+            <rdf:li>Hebel</rdf:li>
+            <rdf:li>einseitig</rdf:li>
+            <rdf:li>Drehmoment</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect53691"
+       width="672.04462"
+       height="557.30707"
+       x="36.024933"
+       y="247.52756"
+       ry="3.1752207"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffb380;fill-opacity:1;stroke:#d45500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 527.52369,624.40077 c 0,0 0.15438,-4.26357 5.65968,-9.09039 2.47963,-2.17403 3.28718,-3.48815 6.8857,-5.94287 7.57408,-5.16667 18.4156,-12.52419 24.65266,-17.55785 1.58541,-1.27951 2.31214,-1.42486 5.39272,-3.45687 5.72749,-3.77796 8.47768,-5.84963 18.54563,-12.89015 1.47382,-1.03064 3.14736,-1.17386 4.47154,-2.22597 24.4813,-19.45114 20.95456,4.27885 7.48262,13.21274 0,0 -2.22839,1.73776 -5.23845,2.93097 -2.33608,0.92603 -11.23182,8.32904 -16.33264,13.684 -5.41258,3.33814 -5.07503,4.18487 -8.05906,5.96863 -10.82125,7.86379 -18.57585,14.44852 -18.57585,14.44852"
+       id="path15175"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssssssccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g15177"
+       inkscape:transform-center-x="-31.674389"
+       inkscape:transform-center-y="-23.976801"
+       transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,178.85436,-119.33289)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       style="stroke-width:0.58699999999999997;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.5">
+      <path
+         sodipodi:nodetypes="scssssassssssss"
+         inkscape:connector-curvature="0"
+         id="path52082-4-9"
+         d="m 547.70776,621.46404 c 2.14586,-1.34417 3.15999,-6.33301 3.15999,-6.33301 0,0 1.86438,-6.03291 3.72013,-8.41859 1.59362,-2.04862 3.8226,-4.03813 6.22571,-5.01044 1.01423,-0.41029 1.76709,-0.60144 2.73232,-1.14597 1.38177,-0.77942 2.1084,-1.67087 2.73113,-3.16826 0.6565,-1.57887 0.72783,-3.54003 -0.0507,-5.01275 -0.90339,-1.70895 -2.88278,-2.61705 -4.59924,-2.99537 -1.10194,-0.24283 -2.3255,-0.0473 -3.27117,0.55126 -1.5752,0.99725 -2.28129,3.12841 -3.4187,4.69571 -3.36153,4.63184 -5.86557,10.23517 -10.06563,13.91307 -1.39417,1.22083 -3.46968,1.38309 -4.56915,2.93558 -1.0186,1.43843 -1.14151,3.14564 -0.64847,4.97667 0.53691,1.99411 1.61086,3.57427 3.29544,4.59796 1.65429,1.00535 3.07139,1.47103 4.75834,0.41414 z"
+         style="fill:#b3b3b3;stroke:#333333;stroke-width:0.58699999999999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cscsssssssscscc"
+         inkscape:connector-curvature="0"
+         id="path52084-0"
+         d="m 569.60862,592.99783 c 0.91662,0.49905 1.09513,0.96223 1.84475,0.10812 1.1138,-1.269 1.41907,-4.50293 1.41907,-4.50293 0,0 1.12501,-5.4794 2.5472,-7.63356 1.22363,-1.85345 2.96803,-3.34103 4.88995,-4.1586 0.93648,-0.39838 1.38206,-0.45636 2.16083,-1.15415 1.05666,-0.9468 1.37688,-2.18015 1.38393,-3.48645 0.004,-0.82307 -0.39831,-1.65811 -0.84753,-2.33589 -1.00225,-1.51197 -1.52468,-2.50734 -3.13246,-2.73164 -0.89156,-0.12435 -2.32715,0.36944 -2.94015,0.88367 -1.48218,1.24339 -1.35975,3.00077 -2.27253,4.44502 -1.80129,2.85005 -4.11637,5.25317 -6.52512,7.4357 -1.613,1.55441 -5.33957,4.41487 -5.17088,4.73494 0.99377,1.88572 2.30882,3.01448 3.67679,4.15475 1.36804,1.14026 1.9434,3.63114 2.96615,4.24099 z"
+         style="fill:#b3b3b3;stroke:#333333;stroke-width:0.58699999999999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="ssssscssscsss"
+         inkscape:connector-curvature="0"
+         id="path52086-1"
+         d="m 584.99936,569.77754 c 0.6889,0.69637 0.83628,1.6715 1.71063,1.93484 0.73681,0.22187 1.47652,-0.0866 1.6804,-0.89637 1.09434,-4.34636 0.60389,-3.62522 1.26542,-5.26536 0.66556,-1.65009 1.94917,-2.86582 2.67107,-4.48158 0.46016,-1.02989 1.03881,-3.27923 1.03881,-3.27923 0,0 0.0802,-2.60171 -0.66695,-3.44279 -0.59197,-0.66636 -1.66443,-0.89921 -2.39221,-0.5599 -1.22337,0.57038 -1.3463,2.58356 -2.11146,3.80074 -0.97598,1.5525 -3.15415,4.45359 -3.15415,4.45359 0,0 -2.78866,1.90944 -4.28473,3.1503 -0.55204,0.45786 1.25933,0.92544 1.81513,1.49619 0.90092,0.92511 1.36012,2.01002 2.42808,3.08956 z"
+         style="fill:#b3b3b3;stroke:#333333;stroke-width:0.58699999999999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g53307"
+       transform="matrix(0.85084746,0,0,0.85084746,-76.32898,121.3496)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         id="rect3781"
+         d="m 815.34542,325.97464 -16.48091,0.27508 c 0,0 -4.51921,1.41141 -5.31643,5.34702 -0.56213,2.77495 8.8e-4,5.99404 0,7.30702 -1.86013,0.67788 -3.18986,2.51395 -3.18986,4.67649 l 0,6.05193 c 0,2.15681 1.32088,3.97711 3.17323,4.6593 -0.0188,29.59858 -0.0422,76.28096 0.0167,88.59544 -27.85781,15.92229 -29.65691,40.67273 -29.77198,43.70456 -0.008,0.20212 0,0.30947 0,0.30947 l 0,270.13614 c 0,0 1.57453,13.23988 21.2657,17.05544 2.96691,0.17911 7.66071,0.29638 13.3243,0.36105 0.12148,8e-4 0.22723,-7.9e-4 0.34889,0 4.00396,0.0262 8.10036,0.0405 12.1447,0.0516 2.37356,0.004 4.64621,0.0222 7.11073,0.0172 0.62906,-2.5e-4 1.23962,-0.0164 1.86074,-0.0172 4.04436,-0.0111 8.14076,-0.0254 12.14472,-0.0516 0.0637,-4.2e-4 0.11907,4.1e-4 0.18274,0 0.0591,-6.6e-4 0.10727,6.7e-4 0.16615,0 5.66358,-0.0646 10.35739,-0.18194 13.32429,-0.36105 19.6912,-3.81556 21.26571,-17.05544 21.26571,-17.05544 l 0,-270.13614 c 0,0 0.008,-0.10735 0,-0.30947 -0.1151,-3.03183 -1.91417,-27.78227 -29.77199,-43.70456 0.0589,-12.31448 0.0355,-58.99686 0.0167,-88.59544 1.85235,-0.68219 3.17324,-2.50249 3.17324,-4.6593 l 0,-6.05193 c 0,-2.16254 -1.32974,-3.99861 -3.18986,-4.67649 -8.8e-4,-1.31298 0.56212,-4.53207 0,-7.30702 -0.79722,-3.93561 -5.31643,-5.34702 -5.31643,-5.34702 l -16.48093,-0.27508 z"
+         style="opacity:0.73999999;fill:#62a5d7;fill-opacity:0.74117647;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3790"
+         d="m 816.79039,326.3657 -16.48092,0.27508 c -2e-5,0 -4.51921,1.41141 -5.31644,5.34702 -0.56213,2.77495 8.8e-4,5.99404 0,7.30702 -1.86013,0.67789 -3.18985,2.51394 -3.18985,4.67649 l 0,6.05193 c 0,2.15681 1.32089,3.97711 3.17324,4.6593 -0.0189,29.59859 -0.0422,76.28096 0.0167,88.59544 -0.75022,0.42879 -1.46352,0.88285 -2.17642,1.32386 0.45292,0.76729 0.90962,1.47416 1.36234,2.14911 -1.15432,-0.67331 -2.30146,-1.39754 -3.42245,-2.18351 -25.19343,15.9261 -26.8698,39.09223 -26.98086,42.01965 -0.008,0.20213 0,0.30948 0,0.30948 l 0,270.13614 c -5e-5,2e-5 1.57451,13.23987 21.2657,17.05544 2.96684,0.17913 7.66071,0.29639 13.3243,0.36105 0.12142,8.2e-4 0.2273,-7.9e-4 0.34889,0 4.00402,0.0262 8.10035,0.0405 12.14471,0.0516 2.37352,0.004 4.64618,0.0222 7.11072,0.0172 0.62899,-2.4e-4 1.23963,-0.0163 1.86075,-0.0172 4.04426,-0.0111 8.14075,-0.0254 12.1447,-0.0516 0.0638,-4e-4 0.11907,4.2e-4 0.18276,0 0.059,-6.5e-4 0.10727,6.7e-4 0.16614,0 5.66354,-0.0646 10.35731,-0.18194 13.32431,-0.36105 19.6911,-3.81555 21.2657,-17.05544 21.2657,-17.05544 l 0,-270.13614 c -10e-5,0 0.01,-0.10735 0,-0.30948 -0.1125,-2.96207 -1.8364,-26.64997 -27.89464,-42.58701 0.073,-0.11555 0.14479,-0.22626 0.21598,-0.34386 -0.21446,-0.12546 -0.4303,-0.25386 -0.64794,-0.37824 0.0589,-12.31447 0.0355,-58.99687 0.0167,-88.59544 1.85235,-0.68217 3.1732,-2.5025 3.1732,-4.6593 l 0,-6.05193 c 0,-2.16254 -1.32968,-3.99861 -3.18981,-4.67649 -8.8e-4,-1.31297 0.56212,-4.53207 0,-7.30702 -0.79723,-3.93561 -5.31643,-5.34702 -5.31643,-5.34702 l -16.48094,-0.27508 z"
+         style="opacity:0.73999999;fill:url(#linearGradient21001);fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="csssc"
+         id="path4314"
+         d="m 857.07349,755.1135 c 0,11.84528 -18.31822,19.12465 -41.35212,19.12465 -23.03385,0 -42.10393,-7.27937 -42.10393,-19.12465 0,-11.84531 19.71816,-34.17524 42.752,-34.17524 23.0339,0 40.70405,22.32993 40.70405,34.17524 z"
+         style="opacity:0.73999999;fill:url(#linearGradient21003);fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.48911126,0,0,0.5501754,344.0734,279.98982)"
+         d="m 912.87485,820.07758 c 0,4.88155 -3.95729,8.83883 -8.83884,8.83883 -4.88155,0 -8.83883,-3.95728 -8.83883,-8.83883 0,-4.88156 3.95728,-8.83884 8.83883,-8.83884 4.88155,0 8.83884,3.95728 8.83884,8.83884 z"
+         sodipodi:ry="8.8388348"
+         sodipodi:rx="8.8388348"
+         sodipodi:cy="820.07758"
+         sodipodi:cx="904.03601"
+         id="path4368"
+         style="opacity:0.73999999;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4558)"
+         sodipodi:type="arc" />
+      <path
+         id="path4351"
+         d="m 763.77614,746.35587 0,9.02629 c -5e-5,0 1.5745,13.23991 21.26569,17.05544 2.96684,0.17913 7.66072,0.29637 13.32429,0.36107 0.12144,7.7e-4 0.22732,-8.2e-4 0.3489,0 4.00402,0.0262 8.10035,0.0405 12.14471,0.0516 2.37352,0.004 4.64619,0.0222 7.11073,0.0172 0.62899,-2.7e-4 1.23963,-0.0163 1.86074,-0.0172 4.04426,-0.0111 8.14075,-0.0254 12.14471,-0.0516 0.0638,-4.3e-4 0.11907,3.9e-4 0.18276,0 0.059,-6.6e-4 0.10727,6.6e-4 0.16614,0 5.66353,-0.0647 10.35735,-0.18188 13.32429,-0.36107 19.69113,-3.81559 21.26571,-17.05544 21.26571,-17.05544 l 0,-9.02629 -103.13867,0 z"
+         style="opacity:0.73999999;fill:url(#linearGradient21005);fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccsccccc"
+         id="rect4980"
+         d="m 797.80127,324.99156 c 0.83915,2.52871 -1.05776,-0.56569 -1.05776,4.4014 l -3.19539,9.43895 c 0.42448,-0.10777 0.86544,-0.13677 1.32912,-0.086 15.97694,1.75065 23.9552,1.75065 41.99975,0 0.0911,-0.009 0.17597,-0.0148 0.26583,-0.0172 l -1.69167,-8.3632 c 0,-2.43838 -0.95708,-4.4014 -3.31333,-4.4014 l -34.33655,-0.97259 z"
+         style="opacity:0.73999999;fill:url(#linearGradient21007);fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4660"
+         d="m 815.66102,325.26534 -16.48092,0.27509 c 0,0 -4.51918,1.41141 -5.31642,5.34702 -0.5621,2.77495 8.8e-4,5.99404 0,7.30701 -1.86011,0.67789 -3.18986,2.51395 -3.18986,4.6765 l 0,6.05193 c 0,2.15681 1.32091,3.97711 3.17328,4.6593 -0.0189,29.59859 -0.0422,76.28096 0.0167,88.59543 -0.71458,0.40842 -1.39759,0.83394 -2.0767,1.25509 -0.34233,-0.22765 -0.69088,-0.44989 -1.03007,-0.68772 -25.19342,15.9261 -26.86975,39.09223 -26.98085,42.01965 -0.008,0.20213 0,0.30947 0,0.30947 l 0,48.2607 c 11.56534,22.40038 30.47316,36.9993 51.81851,36.9993 21.04864,0 39.71535,-14.19705 51.32015,-36.07087 l 0,-49.18913 c -6e-5,10e-6 0.008,-0.10735 0,-0.30947 -0.1134,-2.98638 -1.8666,-27.0449 -28.54256,-42.98246 -0.23663,0.17733 -0.47615,0.34346 -0.71443,0.51579 -0.0672,-0.0392 -0.13184,-0.0817 -0.19936,-0.12035 0.0589,-12.31446 0.0355,-58.99685 0.0167,-88.59543 1.85234,-0.68218 3.17322,-2.5025 3.17322,-4.6593 l 0,-6.05193 c 0,-2.16254 -1.32969,-3.99861 -3.18986,-4.6765 -8.7e-4,-1.31297 0.56215,-4.53206 0,-7.30701 -0.7972,-3.93561 -5.31643,-5.34702 -5.31643,-5.34702 l -16.48092,-0.27509 z"
+         style="opacity:0.73999999;fill:url(#linearGradient21009);fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4635"
+         d="m 838.3723,444.80848 c -7.47144,5.5992 -15.75321,8.71684 -24.47221,8.71684 -8.20579,0 -16.02264,-2.76168 -23.14309,-7.75404 -25.19342,15.92611 -26.86975,39.09223 -26.98086,42.01965 -0.008,0.20214 0,0.30948 0,0.30948 l 0,48.2607 c 11.56535,22.40037 30.47322,36.9993 51.81856,36.9993 21.04859,0 39.71531,-14.19706 51.32011,-36.07088 l 0,-49.18912 c -6e-5,0 0.008,-0.10735 0,-0.30948 -0.1134,-2.98636 -1.86655,-27.04489 -28.54251,-42.98245 z"
+         style="opacity:0.73999999;fill:url(#radialGradient21011);fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         ry="4.4014034"
+         y="355.9798"
+         x="783.10303"
+         height="85.82737"
+         width="7.9746394"
+         id="rect4776"
+         style="opacity:0.73999999;fill:url(#linearGradient21013);fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         transform="matrix(0.5316426,0,0,0.5501754,299.90899,236.81388)"
+         d="m 940,384.36218 c 0,8.83656 -9.40202,16 -21,16 -11.59798,0 -21,-7.16344 -21,-16 0,-8.83655 9.40202,-16 21,-16 11.59798,0 21,7.16345 21,16 z"
+         sodipodi:ry="16"
+         sodipodi:rx="21"
+         sodipodi:cy="384.36218"
+         sodipodi:cx="919"
+         id="path4733"
+         style="opacity:0.73999999;fill:#fdfffe;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4954)"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccccscccc"
+         id="rect4680"
+         d="m 795.16423,338.25879 c 15.35411,1.75065 23.02135,1.75065 40.36246,0 2.53677,-0.25087 4.59826,2.20841 4.59826,4.95157 l 0,6.05193 c 0,2.74318 -2.07239,4.59542 -4.59826,4.95159 -17.16047,2.33419 -23.92454,2.33419 -40.36246,0 -2.52523,-0.36136 -4.59825,-2.20841 -4.59825,-4.95159 l 0,-6.05193 c 0,-2.74316 2.06497,-5.24041 4.59825,-4.95157 z"
+         style="opacity:0.73999999;fill:url(#linearGradient21015);fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:#ffb380;stroke:#d45500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 96.095722,281.13091 c 21.182698,0.45038 36.372298,0.14846 57.558098,0.23619 17.833,0 10.55559,0 28.38849,0 1.2335,21.94837 2.0628,43.93245 3.9434,65.83489 1.237,6.15118 2.0191,12.42435 3.781,18.45025 5.2447,13.53747 9.159,27.53025 13.4582,41.38409 3.9811,12.64101 7.6845,25.38343 10.535,38.33124 6.1839,28.70105 -3.04195,52.23497 -8.24363,78.74754 -3.89241,19.83935 -4.7716,16.71102 -8.7513,36.5302 -4.16769,20.75539 7.31794,48.91615 9.19054,52.62045 6.88572,6.54393 22.93725,5.79956 33.62306,6.39088 22.38669,1.23881 44.67588,5.43544 66.06738,7.61775 44.05208,4.49408 68.35827,6.38316 99.69854,6.83582 13.91415,0.20097 41.18128,-0.59346 55.09845,-0.72788 32.16342,-0.31065 32.44517,-0.13496 48.31842,-3.0708 6.00882,-1.11136 23.33826,-13.17293 29.3065,-12.86272 7.96002,0.41374 17.94849,0.72392 24.26952,-0.75978 11.79283,-2.76807 21.00759,-9.29815 32.08379,-12.74864 5.86146,-1.82599 23.46032,-6.52314 33.75545,-8.91316 10.76121,-2.49822 12.48126,-2.6008 23.94385,-3.2008 23.35984,-1.22276 15.78088,9.35205 2.41848,12.48799 -6.75499,1.58528 -12.66429,3.78147 -18.9588,5.35693 -4.33558,1.08517 -27.86171,10.17218 -33.54322,11.73095 -18.18136,4.98819 -23.09775,5.65049 -36.68499,11.29699 9.93776,-0.54556 20.09943,-3.17799 29.19519,-5.63675 3.18568,-0.86115 8.37963,-3.28365 10.45002,-3.13744 8.63068,0.60948 20.85598,-0.61247 29.22788,-1.66716 2.9372,-0.37002 5.40009,-0.71946 7.06703,-0.962 0.72859,-0.10601 15.12667,0.0289 21.25933,0.0989 10.72206,0.12242 14.85234,-0.1354 15.31328,5.05973 0.55482,6.25329 -6.41119,7.2228 -12.13459,7.34052 -2.90906,0.0598 -3.30136,0.60176 -4.53038,0.94218 -3.19062,0.88376 -12.14865,0.62925 -17.22735,1.91282 -2.24113,0.56641 -2.20569,1.06078 -5.69522,1.48745 -6.57102,0.80344 -17.36986,1.96927 -29.05577,4.28749 -2.89879,0.57505 -0.87081,0.17586 -6.42183,1.10001 -6.4166,1.06826 -23.0492,2.53757 -32.27926,2.57342 22.67765,0.17812 0.18839,0.0819 23.26845,-0.22994 3.32985,-0.045 5.29704,-0.4056 7.13193,-0.0726 3.96082,0.71881 14.77528,2.35183 28.48848,4.78082 2.14339,0.37965 3.72696,0.19457 5.58239,0.74314 9.60037,2.83843 11.51042,2.91825 16.73169,4.29593 1.29507,0.34172 3.92075,1.10048 5.01002,1.37974 22.54355,5.77946 11.55308,14.28152 -1.08221,11.11872 -1.23657,-0.30953 -3.73446,-0.9131 -4.56299,-0.96197 -2.60156,-0.15346 -6.62679,-0.28368 -17.0139,-1.28767 -1.91674,-0.18527 -4.49648,-0.81106 -7.70667,-1.26492 -8.31521,-1.17559 -18.84292,-1.53204 -25.77431,-2.62316 -1.3559,-0.21344 -5.63416,-0.87441 -6.68923,-1.13047 -7.18755,-1.74439 -19.88269,-2.11359 -25.01613,-2.20304 6.71245,1.80634 12.89799,1.93426 21.60243,4.15265 2.13976,0.54533 8.06023,1.44863 10.10495,2.97308 6.71216,5.00427 13.42065,8.39557 20.01671,13.09812 1.37166,0.9779 3.1075,1.65298 4.42713,2.50089 4.6394,2.98099 8.57308,4.90664 9.52861,5.43056 0.86219,0.47274 3.67086,1.8378 4.46826,2.21175 15.83699,7.42694 7.08217,13.39883 -3.2354,9.75301 -1.203,-0.4251 -2.86532,-1.53068 -4.27406,-1.99272 -4.22118,-1.38449 -7.74656,-2.79311 -12.51147,-5.00569 -1.69805,-0.78849 -2.61772,-1.35099 -4.37869,-2.28064 -5.04541,-2.66358 -12.04728,-5.64643 -21.84333,-10.31388 -2.32484,-1.1077 -4.35529,-1.5351 -7.52862,-2.55085 -6.51445,-2.0852 -15.19312,-4.56405 -20.74591,-6.08208 -5.47095,-0.53601 -9.26231,1.11325 -11.77953,1.27598 -14.65193,0.94722 -24.9013,-2.22383 -26.02042,-2.59225 -10.48765,-3.45258 -11.74792,-1.79373 -29.96725,-0.25214 -77.31014,6.54142 -157.48067,16.91067 -229.47455,20.24553 -24.33806,1.12737 -59.24289,0.56083 -84.42615,-5.02563 -47.78429,-10.6001 -66.90987,-15.56604 -71.99459,-59.10042 -3.0283,-29.99877 -5.8396,-60.01943 -8.6078,-90.04299 -2.508698,-29.08522 -7.052445,-57.73151 -8.873645,-86.86822 -1.9787,-31.24554 -0.347153,-63.01478 -1.422053,-94.29959 -0.7014,-22.46313 -1.3847,-44.92681 -2.0791,-67.39017 0.3514,-3.00273 2.9294,-6.1189 6.2231,-5.35657 z"
+       id="path3597-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccsscssssssssssssscsssssssssssscsssssssssssscsssssssssssscsssssccccccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       style="fill:#b3b3b3;stroke:#333333;stroke-width:1.17480380000000006;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.5"
+       id="g51719-0"
+       transform="matrix(-0.4996579,0,0,0.4996579,529.07294,126.00618)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccssssscccssccc"
+         inkscape:connector-curvature="0"
+         id="path51507-9-2"
+         d="m 748.25262,529.25546 c 9.60253,17.29438 2.81575,446.13262 -2.73733,444.78642 0,0 -16.20227,10.10044 -19.63079,16.54474 -6.59145,12.38938 1.01545,21.94858 7.1754,30.96178 6.15995,9.0132 19.13159,16.9761 30.61798,18.3311 7.53877,0.8893 15.0028,-1.339 20.56288,-6.5071 12.46761,-11.5887 20.43197,-18.5727 24.5012,-35.10091 1.78066,-7.2325 -4.42748,-26.84961 -4.6327,-34.29531 -2.81821,-90.13478 1.07207,-345.37611 0.12451,-434.33777 l 1.26086,-66.77873 c 0,0 -1.04446,-41.64078 4.45843,-61.41486 4.33041,-15.56088 21.96143,-43.19416 21.96143,-43.19416 18.05718,-35.51521 -41.49103,-68.41575 -96.47339,-26.4928 -37.70777,28.46779 -5.50601,57.79156 10.21274,89.44414 z"
+         style="fill:#b3b3b3;stroke:#333333;stroke-width:1.17480380000000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="ssscacssascsscsscssss"
+         inkscape:connector-curvature="0"
+         id="path51650-1"
+         d="m 11.213055,1062.508 c 1.550538,-4.4425 -1.5653198,-8.8871 6.399729,-8.9942 6.413602,-0.086 10.1436,5.7078 20.785244,6.113 121.402502,4.6226 496.411922,32.2573 593.495002,12.7346 39.68724,-3.8598 50.32219,-28.0637 74.92817,-43.0344 5.33402,-3.2453 15.7512,-10.1368 15.7512,-10.1368 0,0 8.81525,12.077 16.72597,18.3582 5.3187,4.2231 12.29391,6.2162 18.98011,7.4069 7.7494,1.38 15.53697,0.2605 22.56781,-2.5461 5.7039,-2.2769 11.33247,-6.7204 14.69802,-11.1103 3.54912,-4.6293 6.35883,-10.4979 9.95297,-11.7244 l 3.14843,0.9871 c 12.49803,3.9185 -6.71563,44.3652 -20.67331,56.0925 -12.66456,10.6409 -33.06293,7.9193 -48.14015,11.9512 -15.07722,4.0319 -27.65856,8.295 -42.33439,12.1398 -26.36842,6.9079 -39.05395,7.6937 -79.98053,11.3192 -43.68621,3.8699 -97.60314,1.4669 -201.70113,-4.1802 -64.65978,-6.279 -201.0384,-17.298 -301.14364,-27.9549 -23.09768,-2.4589 -54.296729,-4.6164 -71.561061,-6.4994 -25.369618,-2.7671 -37.0512384,-0.7424 -35.2713595,-6.369 0.4294827,-1.3577 2.8509805,-3.0574 3.3729155,-4.5528 z"
+         style="fill:#b3b3b3;stroke:#333333;stroke-width:1.17480380000000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="sscsscssssscssssssss"
+         inkscape:connector-curvature="0"
+         id="path51652-8"
+         d="m 5.4978284,1028.875 c -18.5233814,-27.1036 15.5261806,-14.114 34.9508896,-2.9774 8.81831,5.0557 18.354261,4.473 105.188932,7.3128 29.40464,0.3261 49.99955,2.2921 92.20453,0.9955 59.62254,-1.8318 124.63006,0.4093 187.41493,-6.7267 63.17281,-7.18 116.72099,-17.16 148.77091,-19.5205 19.87992,-4.2127 45.18188,-8.33271 66.9262,-4.9752 13.87594,2.1426 25.59229,3.9423 38.34138,2.9094 8.00626,-0.6486 28.37912,-11.19366 35.52833,-5.6655 4.37852,3.3858 3.73228,9.3027 5.85603,14.7356 2.0662,5.2856 -14.42663,10.9444 -18.52632,13.4373 -9.94547,6.0476 -19.02505,13.0107 -29.73476,15.0829 -37.21161,-2.1826 -72.14656,3.9808 -107.50781,4.8551 -15.90118,0.3931 -96.36304,2.9515 -144.94973,5.7067 -61.85667,3.5078 -135.00866,-1.6849 -206.53065,-2.3779 -45.23924,-0.4383 -92.51976,-4.7296 -127.457714,-5.0639 -17.369808,-0.1662 -31.676185,-1.0781 -44.026619,-0.4009 -11.181275,0.613 -17.289378,2.5883 -26.606643,2.7785 -3.765679,0.077 -3.256832,-1.9371 -3.485081,-4.1249 -0.408591,-3.9163 -2.1771624,-9.8652 -6.3568046,-15.9809 z"
+         style="fill:#b3b3b3;stroke:#333333;stroke-width:1.17480380000000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <path
+       style="fill:#b3b3b3;stroke:#333333;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 552.90325,650.8228 c 0,0 -3.02934,-2.02747 -4.68465,-2.24878 -1.79467,-0.23994 -4.47751,0.74594 -5.24039,1.05833 -0.76287,0.31252 -3.73402,3.47985 -3.73402,3.47985 l -1.75411,1.25392"
+       id="path52116-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cascc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g15775"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="cssscsscccsscsasc"
+         inkscape:connector-curvature="0"
+         id="path52072-0"
+         d="m 599.40514,613.90846 c -0.90907,-1.80091 -1.9834,-3.63346 -3.70236,-4.24692 -1.45841,-0.52052 -3.05344,-0.22338 -4.48426,0.1944 -3.77099,1.10109 -6.73355,4.30115 -10.32011,5.95166 -5.75844,2.65002 -17.86941,6.2929 -17.86941,6.2929 0,0 -3.55066,1.57203 -6.05506,1.34923 -1.71178,-0.15241 -5.63397,-2.38432 -7.32932,-0.0232 -0.7327,1.02044 1.73204,2.91012 1.32405,7.6217 -0.53633,2.52883 -2.45203,4.66716 1.06797,5.4936 3.23469,0.59167 7.15959,-4.03498 7.15959,-4.03498 0,0 6.39894,-4.31838 10.44429,-6.2399 3.81861,-1.81379 7.95395,-2.78019 12.03124,-3.79622 2.61037,-0.65034 6.13299,-1.25035 6.13299,-1.25035 0,0 4.67875,-0.25197 6.06823,-0.54912 2.18752,-0.46784 4.52532,-0.60696 5.618,-2.51749 0.65739,-1.14943 0.65579,-2.77602 -0.0858,-4.24518 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="csssscssccc"
+         inkscape:connector-curvature="0"
+         id="path52074-2"
+         d="m 594.60086,630.93067 c -2.29853,0.43945 -4.06859,2.49939 -6.29275,3.23446 -6.19368,2.04696 -12.72998,3.46204 -19.29927,3.16255 -3.58404,-0.1633 -8.7525,-1.96384 -12.19123,-1.06115 -2.62236,0.68848 -4.52565,1.32144 -4.54879,4.15485 -0.041,4.99924 2.74356,5.08739 3.84809,5.28046 5.91729,-0.21112 7.49821,-0.80222 10.78519,-1.73782 7.90884,-2.25128 16.46757,-1.88887 24.7125,-2.26737 2.73496,-0.12552 4.94662,1.1515 7.51489,0.21975 3.81049,-2.47241 6.07627,-2.21125 4.8335,-7.37342 -0.66362,-3.77751 -5.10378,-4.33011 -9.36213,-3.61236 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="csscccsasccccsscc"
+         inkscape:connector-curvature="0"
+         id="path52076-5"
+         d="m 596.75663,649.24348 c -1.1816,-0.68898 -2.36411,-0.82265 -3.86751,-0.6685 -1.57506,0.16153 -3.09314,1.195 -4.61119,1.6367 -3.22485,0.93824 -10.13801,-0.0357 -10.13801,-0.0357 l -11.22424,-0.61721 -4.05153,-1.56366 c 0,0 -3.48702,-1.47322 -5.65248,0.0965 -0.6399,0.46387 -2.33912,0.92951 -2.62951,2.12838 -0.30525,1.26052 0.1504,3.25257 1.30298,3.79744 l 2.95256,1.39584 c 1.69919,0.24731 2.0764,-0.11224 5.1679,-0.70107 2.8565,-0.40265 8.07301,0.44988 8.07301,0.44988 l 9.69555,0.27484 c 0,0 4.31124,0.49871 6.76669,1.33485 0.89116,0.30345 2.39967,0.81688 3.30635,1.02574 2.02155,0.46557 4.03406,0.21926 5.61359,-1.07937 1.68287,-2.3882 0.87123,-6.40926 -0.70415,-7.47487 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="csccsccsssassssc"
+         inkscape:connector-curvature="0"
+         id="path52078-1"
+         d="m 592.94396,667.39819 c -1.43299,-1.1 -2.34737,-1.64913 -4.02336,-1.84671 -1.41373,-0.16665 -4.19771,0.40545 -4.19771,0.40545 l -13.41024,-2.88349 c 0,0 -4.08431,-0.87478 -5.93058,-1.96427 -1.23935,-0.73133 -3.30223,-2.97931 -3.30223,-2.97931 l -3.06209,-1.92793 c 0,0 -3.57045,-0.17769 -4.93055,0.84938 -1.38521,1.04599 -2.01926,2.36452 -1.86499,4.3212 0.16071,2.0386 1.2626,4.24217 2.75976,5.45379 1.68287,1.36198 3.9425,0.84018 5.91343,0.84525 1.58842,0.004 2.85343,-0.7688 4.69282,-0.65678 5.97667,0.36394 11.90797,2.55766 17.66502,4.81559 1.60561,0.62975 2.52218,2.28002 4.36002,2.5827 0.97618,0.16076 3.63217,-0.48866 3.63217,-0.48866 1.56765,-0.27836 4.96926,-3.70743 1.69853,-6.52621 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="csssssssssssscsssccssc"
+         inkscape:connector-curvature="0"
+         id="path52080-6"
+         d="m 531.64354,663.57953 c 0,0 1.56873,2.18498 2.6251,2.82005 2.30067,1.38305 4.41182,1.66011 6.68249,1.41684 2.89949,-0.31066 5.80857,-1.51611 7.87727,-3.6995 0.94676,-0.99921 0.37952,-3.71377 0.93281,-5.05565 0.67254,-1.63116 2.62133,-2.93868 2.90227,-4.59438 0.25718,-1.5153 -1.2773,-2.99743 -1.05094,-4.30728 0.19491,-1.12746 0.92325,-1.45157 1.17552,-2.38029 0.28447,-1.04725 -1.43433,-1.54744 -1.76299,-2.4815 -0.70662,-2.00831 -1.58196,-4.7384 -2.23928,-6.4868 -0.41447,-1.10242 -1.13717,-2.15214 -1.19552,-3.32731 -0.0757,-1.5259 1.00566,-4.06455 0.97231,-5.58937 -0.0551,-2.51012 -0.61676,-4.52408 -2.01267,-5.97156 -1.55914,-1.6167 -5.51076,-1.58964 -5.51076,-1.58964 0,0 -3.59671,-1.40486 -4.96942,-0.4418 -1.85701,1.30284 -1.65023,4.40659 -3.04043,6.31129 -0.93337,1.27864 -2.24553,2.9501 -3.05543,4.23326 -0.8099,1.28314 -1.2304,3.9414 -1.2304,3.9414 l -1.49369,5.57122 c 0,0 -0.89276,4.56537 -0.87339,6.89008 0.0263,3.14968 1.2967,9.4046 1.2967,9.4046 0.20413,1.63658 2.66013,4.58829 3.9704,5.33637 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="csscccsssscsszscsc"
+         inkscape:connector-curvature="0"
+         id="path52088-0"
+         d="m 605.16848,618.20285 c 0,0 1.41903,-0.22292 1.98986,-0.64844 0.99609,-0.74269 1.31407,-2.32526 2.26152,-3.14365 2.18957,-1.89136 7.59194,-3.80766 7.59194,-3.80766 0,0 6.0207,-1.97914 8.30118,-2.18892 2.59539,-0.40721 3.654,-10e-4 5.4581,-2.16542 0.24641,-0.71768 0.22271,-2.01081 -0.0296,-3.33547 -0.22695,-1.19148 0.0731,-2.86628 -0.72196,-3.71519 -0.79297,-0.84658 -2.08837,-0.74038 -3.13181,-0.66752 -1.71609,0.11981 -2.21699,0.40798 -3.66422,1.3814 -0.45399,0.30549 -2.31873,1.64404 -2.31873,1.64404 0,0 -8.3009,4.13058 -12.95287,4.2749 -1.36734,0.0423 -2.7219,-0.52427 -4.22156,-0.74272 -0.99582,-0.14506 -2.42848,-0.66655 -3.31354,-0.23498 -0.88503,0.43155 -1.46461,0.47918 -1.73297,1.61501 -0.28073,1.18829 1.09729,2.83888 1.09729,2.83888 0,0 2.77041,3.46636 2.35291,5.30659 -0.4263,1.87902 0.27791,4.01307 3.03455,3.58915 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="sssssscsssss"
+         inkscape:connector-curvature="0"
+         id="path52090-0"
+         d="m 633.60481,605.98991 c -1.19009,-0.83293 -0.25954,-2.47567 -0.69044,-3.88815 -0.53369,-1.74956 -2.2092,-3.33604 -1.36097,-4.84756 0.97951,-1.74531 4.11695,-0.16494 6.16157,-0.36642 2.0527,-0.20231 3.57733,-0.006 5.61808,-0.28986 1.26774,-0.17629 2.96181,-2.11974 4.30777,-1.08848 1.04582,0.80137 0.93129,3.03447 0.93129,3.03447 0,0 0.61711,3.04389 0.17571,3.46846 -0.87243,0.83921 -1.4578,1.30138 -2.78518,1.30363 -0.90651,10e-4 -2.09607,-0.16106 -3.00256,-0.1594 -1.74345,0.003 -3.32003,0.9989 -4.97911,1.50151 -1.45927,0.44205 -2.57958,2.58915 -4.37618,1.3317 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="sssscssssss"
+         inkscape:connector-curvature="0"
+         id="path52092-1"
+         d="m 651.58005,601.73167 c -1.23454,-0.71013 -1.42342,-1.81899 -1.60789,-3.35639 -0.15786,-1.3157 -0.32217,-2.52398 0.60679,-3.23642 0.88766,-0.68071 2.11489,0.0986 3.21725,0.1508 1.09614,0.0518 3.23157,-0.46134 3.23157,-0.46134 0,0 1.7241,-0.45904 2.66508,-0.48559 1.21786,-0.0344 1.90206,0.0138 2.7082,1.1218 0.83842,1.15259 -0.0616,2.98894 -0.45447,3.35523 -0.39306,0.36634 -1.79456,0.46057 -2.76268,0.84871 -1.17399,0.47073 -2.98048,1.01739 -3.96929,1.3478 -1.47296,0.49209 -2.20244,1.53913 -3.63455,0.71545 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="cssssscsccc"
+         inkscape:connector-curvature="0"
+         id="path52094-5"
+         d="m 642.93604,633.58225 c 1.28092,0.67739 5.39794,-0.71089 8.19553,-0.90358 1.4748,-0.10158 2.878,-0.84079 4.36426,-0.72001 1.18791,0.0966 2.48253,0.40399 3.66815,0.40684 1.36938,0.003 1.93217,-0.59194 2.6483,-1.71091 0.87559,-1.36831 -0.56267,-2.44603 -0.27395,-3.80907 0.47871,-2.25593 -0.91025,-2.73988 -2.50254,-2.60886 -1.49769,0.18057 -3.00574,1.4686 -4.47897,1.78329 -1.48538,0.31705 -6.08361,-0.54669 -6.08361,-0.54669 0,0 -4.18969,-2.5532 -6.8832,-0.91703 -1.95208,1.872 0.0758,7.6962 1.34603,9.02602 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="scssss"
+         inkscape:connector-curvature="0"
+         id="path52096-8"
+         d="m 665.05175,630.68427 4.23547,-0.0132 4.03549,-0.73577 c 3.10098,-0.56546 3.60411,-3.91435 -1.09206,-5.53148 -1.99119,-0.68572 -5.53668,-0.80807 -6.81672,0.0119 -1.66043,1.06366 -1.41063,6.27181 -0.36218,6.26853 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="csaccsssscccssc"
+         inkscape:connector-curvature="0"
+         id="path52098-3"
+         d="m 639.04828,633.96932 c -1.01528,1.99488 -1.94788,1.40005 -3.94699,1.5374 -0.95721,0.0658 -2.33853,-0.34376 -3.50125,-0.31361 -6.01863,0.15599 -17.80457,2.5545 -17.80457,2.5545 -2.07424,1.05508 -6.50988,3.61154 -7.43084,2.13537 -0.72499,-1.24527 0.12749,-1.33519 0.38107,-2.7379 0.25811,-1.42758 -0.12153,-3.02795 -0.6505,-4.41442 -0.51219,-1.34246 -2.55971,-2.20454 -2.34569,-3.52459 0.59867,-3.69181 3.15087,-2.6592 4.59739,-2.05539 l 3.34788,1.39757 13.28632,-0.26852 6.37983,-0.76549 c 0,0 1.67131,-1.51937 2.70492,-1.72382 1.33418,-0.26404 2.02733,0.365 4.01828,1.69773 1.85833,1.2439 1.39876,5.50185 0.96415,6.48117 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="ssssssssssccsss"
+         inkscape:connector-curvature="0"
+         id="path52100-5"
+         d="m 630.07664,661.31698 c 0,0 -2.57467,1.39242 -4.23599,0.75986 -0.52534,-0.19997 -1.18173,-0.58419 -1.78931,-0.81417 -5.24851,-1.9863 -10.4194,-3.36496 -15.57731,-2.45776 -2.0105,0.3536 -3.80214,0.97313 -5.90838,1.00349 -0.89842,0.0129 -2.73487,0.26735 -2.96532,-0.98217 -0.29524,-1.60065 0.52656,-3.08754 0.59884,-4.42312 0.11532,-2.13019 -0.66197,-3.26869 -0.15921,-4.8724 0.37105,-1.18355 1.18536,-1.11143 2.00208,-1.14846 1.64906,-0.0749 3.44013,1.49591 4.01327,1.91814 0.57311,0.42216 6.72347,1.78319 6.72347,1.78319 l 11.0345,1.35189 c 0,0 3.23694,-0.22271 4.86261,0.29752 0.39951,0.12784 1.44874,0.97788 1.44874,0.97788 2.16329,1.56906 1.47077,6.17403 -0.0479,6.60611 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="sccsssssss"
+         inkscape:connector-curvature="0"
+         id="path52102-5"
+         d="m 634.61415,654.67878 c 3.73555,-0.0185 6.01682,3.08906 10.03551,3.17708 1.64427,0.23141 3.16251,0.23068 4.77477,0.33431 1.13606,0.0958 2.05453,0.24882 2.79672,1.58566 0.78897,1.42106 0.85839,2.37339 0.064,3.77518 -0.56887,1.00382 -0.71459,1.03064 -2.02194,1.11393 -1.09114,0.0694 -1.93576,-0.30618 -3.02162,-0.58015 -4.54953,-1.14783 -9.37903,0.39736 -12.60443,-0.59678 -1.344,-0.41425 -2.00418,-1.85135 -2.00952,-3.35411 -0.008,-2.22196 -0.005,-5.44532 1.98651,-5.45512 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="sassssas"
+         inkscape:connector-curvature="0"
+         id="path52104-6"
+         d="m 654.57239,663.14258 c -0.18474,1.45791 0.53361,1.64018 1.13316,2.09189 1.22566,0.92353 2.74394,0.33229 4.2679,0.68476 1.89126,0.43733 2.25995,0.63349 4.12125,0.30336 3.15921,-0.56034 3.02183,-3.54308 1.3452,-3.76399 0,0 -3.35279,-0.3409 -4.36617,-0.59314 -2.28181,-0.56804 -4.1161,-2.99002 -5.80234,-1.92449 -0.83237,0.52598 -0.50217,1.64822 -0.699,3.20161 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="sccsscss"
+         inkscape:connector-curvature="0"
+         id="path52106-8"
+         d="m 640.80762,697.13942 c 0.4752,0.0913 1.53659,0.26699 2.27636,0.0951 2.26477,-0.45552 2.69854,-1.12433 1.06407,-2.40934 -0.7495,-0.64474 -1.75496,-1.1884 -2.62317,-1.57456 -1.20444,-0.53567 -2.32707,-2.00885 -3.65146,-1.77051 -1.24564,0.2242 -1.48663,1.94258 -1.48663,1.94258 0,0 -0.56729,1.01317 -0.10977,2.04767 0.93995,2.12505 2.88526,1.35221 4.53052,1.66867 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="csasssssscc"
+         inkscape:connector-curvature="0"
+         id="path52108-0"
+         d="m 633.91047,693.91049 c 1.39987,-0.88842 1.37597,-1.91756 0.6404,-3.51082 -0.31416,-0.68046 -1.15934,-1.10027 -1.81071,-1.51391 -1.02496,-0.65082 -1.90732,-0.91781 -3.24712,-1.48906 -1.34363,-0.57291 -1.49674,-1.23906 -3.05921,-2.34754 -1.17651,-0.83469 -2.73102,-2.16362 -3.92944,-1.55106 -1.54336,0.78888 -2.03264,2.79704 -1.84478,4.56797 0.10453,0.98517 1.11674,1.67573 1.86901,2.30654 0.74895,0.62796 2.04778,0.98878 2.90822,1.35972 1.46841,0.63297 3.18044,0.67925 4.50371,1.67272 2.02904,0.73998 2.3513,1.48244 3.96992,0.50544 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="ssssscccsssasasass"
+         inkscape:connector-curvature="0"
+         id="path52110-7"
+         d="m 618.27279,687.50343 c 0.90502,-0.48262 1.71432,-1.46627 2.00848,-2.56483 0.24196,-0.90344 0.22196,-1.62771 -0.10971,-2.53646 -0.23689,-0.64883 -0.88258,-1.21311 -1.48783,-1.74971 -1.08018,-0.95759 -2.02723,-0.7835 -3.1277,-1.2719 -1.32303,-0.58713 -3.83176,-2.16699 -3.83176,-2.16699 l -4.38164,-3.00938 -5.038,-3.27432 c 0,0 -2.03539,-3.06269 -3.6064,-3.38892 -1.11964,-0.23251 -1.73174,0.33576 -2.20056,1.47046 -0.32526,0.78737 -0.0783,1.58239 -0.17984,2.31767 -0.22138,1.60351 -1.93995,2.56417 -2.02148,4.19493 -0.0225,0.43531 0.22455,0.57814 0.42101,1.25305 0.28894,0.99263 1.74475,1.44368 2.73172,1.85672 1.27645,0.53421 2.65544,0.26054 3.98083,0.74334 2.77252,1.00991 5.77142,2.68251 8.5953,4.20223 2.30912,1.24276 4.13455,3.41923 6.81649,4.01488 0.35072,0.0779 0.93541,0.17362 1.43106,-0.0907 z"
+         style="opacity:0.5;fill:#b3b3b3;stroke:#333333;stroke-width:0.58700001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g15726"
+       style="opacity:0.8;stroke:#916f6f;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="csasc"
+         inkscape:connector-curvature="0"
+         id="path52112-7"
+         d="m 547.2682,665.47631 c 0,0 0.11282,-3.79209 -0.73086,-5.22887 -1.15402,-1.96591 -3.45738,-2.21228 -5.21824,-3.2415 -1.40326,-0.8202 -3.56524,-3.75436 -4.25811,-2.33638 -1.75451,3.59048 -5.41745,8.90997 -5.41745,8.90997"
+         style="fill:none;stroke:#916f6f;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="cssssssc"
+         inkscape:connector-curvature="0"
+         id="path52114-7"
+         d="m 536.8534,654.86218 c 0,0 -0.95032,-2.78819 -1.66311,-4.09389 -0.78665,-1.44094 -2.56994,-2.62037 -2.70053,-4.27176 -0.14827,-1.87508 0.82086,-3.74002 1.95467,-5.00934 1.81546,-2.03245 5.67739,-0.98939 7.08561,-3.41557 0.54352,-0.93639 0.51506,-2.40817 0.0426,-3.46657 -0.63162,-1.41516 -2.26079,-1.87513 -3.38544,-2.82202 -1.28617,-1.08293 -5.1579,-3.5804 -5.1579,-3.5804"
+         style="fill:none;stroke:#916f6f;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path52118-7"
+         d="m 547.53683,637.85094 c 0,0 -1.8582,0.47853 -3.61458,0.78061 -1.2272,0.21101 -2.39221,-0.55993 -2.39221,-0.55993"
+         style="fill:none;stroke:#916f6f;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.5"
+       d="m 194.40606,628.18921 c 0,0 -6.90445,-15.49835 -9.45332,-22.94074 -4.59318,-13.41157 -7.37274,-27.71339 -10.58897,-41.75154 -3.2235,-14.06983 -8.72034,-42.53929 -8.72034,-42.53929 0,0 -3.59779,-30.84464 -3.73729,-46.47812 -0.16739,-18.76055 2.66061,-37.2707 3.73729,-55.93129 0.66689,-11.55817 2.44438,-20.53202 1.6862,-34.70125 -0.8138,-15.20891 -6.66925,-52.74064 -6.66925,-52.74064 l 4.36017,-11.81647 c 0,0 3.73614,28.72181 8.5379,41.98226 4.15055,11.46215 11.96041,25.02721 17.22044,35.73613 9.85646,20.06679 13.37408,30.40647 16.32248,45.70534 2.94839,15.29889 2.8977,33.15042 1.94421,42.79463 -1.41895,14.35206 -5.53783,27.77379 -7.9977,41.75152 -2.11728,12.03114 -5.29749,21.66714 -5.81761,36.23718 -0.3218,9.01484 0.28852,24.38497 2.18009,33.08612 2.02388,9.30979 9.38099,29.84769 9.38099,29.84769 z"
+       id="path53385"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscsasccsscsasscc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.99999994000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.5"
+       d="m 123.79737,647.9236 c -6.53422,-1.37682 -6.25204,-15.92491 -8.05308,-24.41248 -2.77961,-13.09923 -2.87757,-27.46329 -4.1113,-40.26939 -0.61322,-6.36527 -1.55495,-19.46228 -2.21024,-25.82139 -0.75117,-7.28959 -1.13835,-12.5749 -2.07246,-19.83336 -1.45842,-11.33269 -3.23389,-22.60962 -4.43845,-33.98604 -1.10162,-10.40435 -1.9744,-20.85052 -2.5477,-31.31715 -0.933843,-17.04899 -1.710778,-34.14581 -1.450243,-51.2294 0.179673,-11.78124 0.777719,-22.22449 0.927657,-34.98153 0.08574,-7.29536 1.064466,-16.49372 1.063856,-24.87995 -8.3e-4,-11.27539 -1.3077,-25.23603 1.48832,-37.16809 1.93128,-8.24172 8.22328,-21.94316 10.25915,-22.49525 2.43541,-0.66045 3.24826,9.49487 3.24826,9.49487 0,0 -1.95546,2.12167 -3.20458,7.68214 -1.37355,6.11438 -2.87541,13.76735 -3.12693,18.94936 -0.54758,11.28127 1.62241,23.21817 2.79846,34.4287 0.92884,8.85396 3.22546,17.42011 4.61366,26.18533 1.46717,9.26376 2.99827,18.53016 3.925,27.89594 0.79896,8.07444 1.2524,16.20724 1.40404,24.33746 0.24394,13.07936 -0.63004,26.15508 -0.7967,39.23622 -0.13896,10.90772 -0.16943,32.7264 -0.16943,32.7264 0,0 -0.61591,19.66958 -0.91118,29.77901 -0.48603,16.64042 -2.37238,36.91141 -1.56471,50.46217 0.43726,7.336 1.32493,13.13563 2.50047,23.37617 0.76508,6.66483 2.27927,10.99653 2.27927,10.99653 0,0 3.0875,11.46292 0.14886,10.84373 z"
+       id="path53387"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sassssasssascsssssaacssscs"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g15171"
+       transform="translate(15.855609,3.15009)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="star"
+         style="fill:#d40000;stroke:#d40000;stroke-width:34.43625259;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path53622"
+         sodipodi:sides="3"
+         sodipodi:cx="-707.10675"
+         sodipodi:cy="1607.946"
+         sodipodi:r1="12.121831"
+         sodipodi:r2="6.060915"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+         inkscape:transform-center-y="-0.00017641075"
+         transform="matrix(0.43424864,1.3998515e-5,-1.3998515e-5,0.43424864,908.63263,-3.7660326)"
+         inkscape:transform-center-x="-3.0302635" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:14.94499969;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 601.55004,654.31418 0,31.65013"
+         id="path53624"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path53634"
+       d="m 197.94123,629.31007 0,-298.18296"
+       style="fill:#d40000;stroke:#d40000;stroke-width:14.94471359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#d40000;stroke:#d40000;stroke-width:34.43625259;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path53636"
+       sodipodi:sides="3"
+       sodipodi:cx="-707.10675"
+       sodipodi:cy="1607.946"
+       sodipodi:r1="12.121831"
+       sodipodi:r2="6.060915"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:transform-center-y="-0.00017641075"
+       transform="matrix(0.43424863,-1.4000686e-5,-1.4000686e-5,-0.43424863,505.0238,1022.8575)"
+       inkscape:transform-center-x="-3.0302635"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       style="fill:#d40000;fill-opacity:1"
+       transform="matrix(4.3219607,0,0,4.3219607,-754.15462,-264.75661)"
+       ns0:text="$\\vec{F}_{\\rm{1}}$"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       id="g5647"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs5649">
+        <g
+           id="g5651">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4266f9fb-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 5.359375,-5.9375 c -0.140625,0.140625 -0.46875,0.421875 -0.46875,0.59375 0,0.09375 0.09375,0.203125 0.1875,0.203125 0.09375,0 0.140625,-0.078125 0.203125,-0.140625 C 5.390625,-5.421875 5.625,-5.703125 6.0625,-5.921875 6.125,-5.96875 6.234375,-6.015625 6.234375,-6.125 6.234375,-6.234375 6.15625,-6.28125 6.09375,-6.328125 5.875,-6.484375 5.765625,-6.65625 5.6875,-6.890625 5.65625,-6.984375 5.625,-7.125 5.484375,-7.125 c -0.140625,0 -0.203125,0.140625 -0.203125,0.21875 0,0.046875 0.078125,0.359375 0.234375,0.578125 l -3.359375,0 c -0.15625,0 -0.34375,0 -0.34375,0.203125 0,0.1875 0.1875,0.1875 0.34375,0.1875 z m 0,0"
+               id="path5654" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4266f9fb-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.015625,-3.234375 0.96875,0 c 0.75,0 0.828125,0.15625 0.828125,0.4375 0,0.078125 0,0.1875 -0.0625,0.5 C 4.71875,-2.25 4.71875,-2.21875 4.71875,-2.1875 c 0,0.078125 0.0625,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.203125 L 5.53125,-4.453125 C 5.5625,-4.5625 5.5625,-4.578125 5.5625,-4.609375 5.5625,-4.625 5.546875,-4.71875 5.4375,-4.71875 5.34375,-4.71875 5.328125,-4.671875 5.296875,-4.5 5.078125,-3.734375 4.859375,-3.546875 4,-3.546875 l -0.90625,0 0.640625,-2.53125 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.3125,0 c 1.21875,0 1.453125,0.328125 1.453125,1.09375 0,0.234375 0,0.265625 -0.03125,0.546875 C 7,-4.703125 7,-4.6875 7,-4.65625 c 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.109375,-0.0625 0.125,-0.25 L 7.453125,-6.515625 C 7.484375,-6.78125 7.4375,-6.78125 7.1875,-6.78125 l -4.890625,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.5625,-0.03125 1.84375,-0.03125 2.171875,-0.03125 3,0 3.328125,0 3.421875,0 3.53125,0 3.53125,-0.1875 3.53125,-0.265625 3.484375,-0.296875 3.484375,-0.296875 3.453125,-0.3125 3.421875,-0.3125 3.203125,-0.3125 c -0.21875,0 -0.265625,0 -0.515625,-0.015625 -0.296875,-0.03125 -0.328125,-0.078125 -0.328125,-0.203125 0,-0.015625 0,-0.078125 0.046875,-0.21875 z m 0,0"
+               id="path5657" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4266f9fb-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.328125,-4.4375 c 0,-0.1875 0,-0.1875 -0.203125,-0.1875 -0.453125,0.4375 -1.078125,0.4375 -1.359375,0.4375 l 0,0.25 c 0.15625,0 0.625,0 1,-0.1875 l 0,3.546875 c 0,0.234375 0,0.328125 -0.6875,0.328125 l -0.265625,0 0,0.25 c 0.125,0 0.984375,-0.03125 1.234375,-0.03125 0.21875,0 1.09375,0.03125 1.25,0.03125 l 0,-0.25 -0.265625,0 c -0.703125,0 -0.703125,-0.09375 -0.703125,-0.328125 z m 0,0"
+               id="path5660" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="textext-4266f9fb-3">
+        <g
+           style="fill:#d40000;fill-opacity:1"
+           id="g5663">
+          <use
+             style="fill:#d40000;fill-opacity:1"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-4266f9fb-0"
+             x="224.901"
+             y="132.246"
+             id="use5665" />
+        </g>
+        <g
+           style="fill:#d40000;fill-opacity:1"
+           id="g5667">
+          <use
+             style="fill:#d40000;fill-opacity:1"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-4266f9fb-1"
+             x="223.43201"
+             y="134.765"
+             id="use5669" />
+        </g>
+        <g
+           style="fill:#d40000;fill-opacity:1"
+           id="g5671">
+          <use
+             style="fill:#d40000;fill-opacity:1"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-4266f9fb-2"
+             x="229.839"
+             y="136.259"
+             id="use5673" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g6371"
+       style="fill:#d40000;fill-opacity:1"
+       transform="matrix(4.3219607,0,0,4.3219607,-352.79672,169.35291)"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       ns0:text="$\\vec{F}_{\\rm{2}}$"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs6373">
+        <g
+           id="g6375">
+          <symbol
+             id="textext-25d3bfb5-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6378"
+               d="m 5.359375,-5.9375 c -0.140625,0.140625 -0.46875,0.421875 -0.46875,0.59375 0,0.09375 0.09375,0.203125 0.1875,0.203125 0.09375,0 0.140625,-0.078125 0.203125,-0.140625 C 5.390625,-5.421875 5.625,-5.703125 6.0625,-5.921875 6.125,-5.96875 6.234375,-6.015625 6.234375,-6.125 6.234375,-6.234375 6.15625,-6.28125 6.09375,-6.328125 5.875,-6.484375 5.765625,-6.65625 5.6875,-6.890625 5.65625,-6.984375 5.625,-7.125 5.484375,-7.125 c -0.140625,0 -0.203125,0.140625 -0.203125,0.21875 0,0.046875 0.078125,0.359375 0.234375,0.578125 l -3.359375,0 c -0.15625,0 -0.34375,0 -0.34375,0.203125 0,0.1875 0.1875,0.1875 0.34375,0.1875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-25d3bfb5-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6381"
+               d="m 3.015625,-3.234375 0.96875,0 c 0.75,0 0.828125,0.15625 0.828125,0.4375 0,0.078125 0,0.1875 -0.0625,0.5 C 4.71875,-2.25 4.71875,-2.21875 4.71875,-2.1875 c 0,0.078125 0.0625,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.203125 L 5.53125,-4.453125 C 5.5625,-4.5625 5.5625,-4.578125 5.5625,-4.609375 5.5625,-4.625 5.546875,-4.71875 5.4375,-4.71875 5.34375,-4.71875 5.328125,-4.671875 5.296875,-4.5 5.078125,-3.734375 4.859375,-3.546875 4,-3.546875 l -0.90625,0 0.640625,-2.53125 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.3125,0 c 1.21875,0 1.453125,0.328125 1.453125,1.09375 0,0.234375 0,0.265625 -0.03125,0.546875 C 7,-4.703125 7,-4.6875 7,-4.65625 c 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.109375,-0.0625 0.125,-0.25 L 7.453125,-6.515625 C 7.484375,-6.78125 7.4375,-6.78125 7.1875,-6.78125 l -4.890625,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.5625,-0.03125 1.84375,-0.03125 2.171875,-0.03125 3,0 3.328125,0 3.421875,0 3.53125,0 3.53125,-0.1875 3.53125,-0.265625 3.484375,-0.296875 3.484375,-0.296875 3.453125,-0.3125 3.421875,-0.3125 3.203125,-0.3125 c -0.21875,0 -0.265625,0 -0.515625,-0.015625 -0.296875,-0.03125 -0.328125,-0.078125 -0.328125,-0.203125 0,-0.015625 0,-0.078125 0.046875,-0.21875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-25d3bfb5-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6384"
+               d="m 3.515625,-1.265625 -0.234375,0 c -0.015625,0.15625 -0.09375,0.5625 -0.1875,0.625 -0.046875,0.046875 -0.578125,0.046875 -0.6875,0.046875 l -1.28125,0 c 0.734375,-0.640625 0.984375,-0.84375 1.390625,-1.171875 0.515625,-0.40625 1,-0.84375 1,-1.5 0,-0.84375 -0.734375,-1.359375 -1.625,-1.359375 -0.859375,0 -1.453125,0.609375 -1.453125,1.25 0,0.34375 0.296875,0.390625 0.375,0.390625 0.15625,0 0.359375,-0.125 0.359375,-0.375 0,-0.125 -0.046875,-0.375 -0.40625,-0.375 C 0.984375,-4.21875 1.453125,-4.375 1.78125,-4.375 c 0.703125,0 1.0625,0.546875 1.0625,1.109375 0,0.609375 -0.4375,1.078125 -0.65625,1.328125 L 0.515625,-0.265625 C 0.4375,-0.203125 0.4375,-0.1875 0.4375,0 l 2.875,0 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-25d3bfb5-3"
+         style="fill:#d40000;fill-opacity:1">
+        <g
+           id="g6387"
+           style="fill:#d40000;fill-opacity:1">
+          <use
+             id="use6389"
+             y="132.246"
+             x="224.901"
+             xlink:href="#textext-25d3bfb5-0"
+             style="fill:#d40000;fill-opacity:1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g6391"
+           style="fill:#d40000;fill-opacity:1">
+          <use
+             id="use6393"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-25d3bfb5-1"
+             style="fill:#d40000;fill-opacity:1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g6395"
+           style="fill:#d40000;fill-opacity:1">
+          <use
+             id="use6397"
+             y="136.259"
+             x="229.839"
+             xlink:href="#textext-25d3bfb5-2"
+             style="fill:#d40000;fill-opacity:1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g7729"
+       style="stroke:#008000"
+       transform="translate(-121.32227,144.62273)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="stroke:#008000"
+         inkscape:transform-center-x="-58.616136"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftzerlegung-strassenlampe.png"
+         id="g7653"
+         transform="matrix(0.52712863,0.30445559,-0.30445559,0.52712863,231.1702,86.861181)"
+         inkscape:transform-center-y="0.018514366">
+        <g
+           style="stroke:#008000"
+           inkscape:transform-center-y="-86.327536"
+           transform="matrix(0.86602541,-0.50000001,0.50000001,0.86602541,-49.354106,414.92436)"
+           inkscape:transform-center-x="-149.52172"
+           id="g7655">
+          <g
+             style="stroke:#008000"
+             transform="matrix(1,0,0,-1,-85.03402,474.27777)"
+             id="g7657">
+            <path
+               inkscape:connector-curvature="0"
+               id="path7659"
+               d="m 392.39916,156.15592 c 28.09195,-0.006 52.02055,-0.0112 79.27002,-0.017"
+               style="fill:#d40000;stroke:#008000;stroke-width:9.85651207;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               sodipodi:nodetypes="cc" />
+            <path
+               sodipodi:type="star"
+               style="fill:#008000;stroke:#008000;stroke-width:25.74988174;stroke-miterlimit:4;stroke-dasharray:none"
+               id="path7661"
+               sodipodi:sides="3"
+               sodipodi:cx="-707.10675"
+               sodipodi:cy="1607.946"
+               sodipodi:r1="12.121831"
+               sodipodi:r2="6.060915"
+               sodipodi:arg1="1.5707963"
+               sodipodi:arg2="2.6179939"
+               inkscape:flatsided="false"
+               inkscape:rounded="0"
+               inkscape:randomized="0"
+               d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+               inkscape:transform-center-y="-0.00017641075"
+               transform="matrix(1.645499e-5,-0.5103719,0.5103719,1.645499e-5,-358.11212,-204.77708)"
+               inkscape:transform-center-x="-3.0302635" />
+          </g>
+        </g>
+      </g>
+      <g
+         style="stroke:#008000"
+         inkscape:transform-center-y="0.018514366"
+         transform="matrix(-0.52712863,0.30445559,0.30445559,0.52712863,374.90979,86.861181)"
+         id="g7663"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftzerlegung-strassenlampe.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"
+         inkscape:transform-center-x="58.616135">
+        <g
+           style="stroke:#008000"
+           id="g7665"
+           inkscape:transform-center-x="-149.52172"
+           transform="matrix(0.86602541,-0.50000001,0.50000001,0.86602541,-49.354106,414.92436)"
+           inkscape:transform-center-y="-86.327536">
+          <g
+             style="stroke:#008000"
+             id="g7667"
+             transform="matrix(1,0,0,-1,-85.03402,474.27777)">
+            <path
+               sodipodi:nodetypes="cc"
+               style="fill:#d40000;stroke:#008000;stroke-width:9.85651207;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="m 459.66829,156.16718 c 16.26573,-0.009 30.12081,-0.0148 45.89874,-0.0226"
+               id="path7669"
+               inkscape:connector-curvature="0" />
+            <path
+               inkscape:transform-center-x="-3.0302635"
+               transform="matrix(1.645499e-5,-0.5103719,0.5103719,1.645499e-5,-316.4761,-204.77013)"
+               inkscape:transform-center-y="-0.00017641075"
+               d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+               inkscape:randomized="0"
+               inkscape:rounded="0"
+               inkscape:flatsided="false"
+               sodipodi:arg2="2.6179939"
+               sodipodi:arg1="1.5707963"
+               sodipodi:r2="6.060915"
+               sodipodi:r1="12.121831"
+               sodipodi:cy="1607.946"
+               sodipodi:cx="-707.10675"
+               sodipodi:sides="3"
+               id="path7671"
+               style="fill:#008000;stroke:#008000;stroke-width:25.74988174;stroke-miterlimit:4;stroke-dasharray:none"
+               sodipodi:type="star" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g13163"
+       style="fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1.38825881"
+       transform="matrix(4.3219607,0,0,4.3219607,-815.2917,133.88075)"
+       ns0:preamble=""
+       ns0:text="$\\vec{s}_{\\rm{1}}$"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs13165">
+        <g
+           id="g13167">
+          <symbol
+             id="textext-409a9754-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path13170"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-409a9754-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path13173"
+               d="m 5.359375,-5.9375 c -0.140625,0.140625 -0.46875,0.421875 -0.46875,0.59375 0,0.09375 0.09375,0.203125 0.1875,0.203125 0.09375,0 0.140625,-0.078125 0.203125,-0.140625 C 5.390625,-5.421875 5.625,-5.703125 6.0625,-5.921875 6.125,-5.96875 6.234375,-6.015625 6.234375,-6.125 6.234375,-6.234375 6.15625,-6.28125 6.09375,-6.328125 5.875,-6.484375 5.765625,-6.65625 5.6875,-6.890625 5.65625,-6.984375 5.625,-7.125 5.484375,-7.125 c -0.140625,0 -0.203125,0.140625 -0.203125,0.21875 0,0.046875 0.078125,0.359375 0.234375,0.578125 l -3.359375,0 c -0.15625,0 -0.34375,0 -0.34375,0.203125 0,0.1875 0.1875,0.1875 0.34375,0.1875 z"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-409a9754-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path13176"
+               d="M 3.890625,-3.734375 C 3.625,-3.71875 3.421875,-3.5 3.421875,-3.28125 c 0,0.140625 0.09375,0.296875 0.3125,0.296875 0.21875,0 0.453125,-0.171875 0.453125,-0.5625 C 4.1875,-4 3.765625,-4.40625 3,-4.40625 c -1.3125,0 -1.6875,1.015625 -1.6875,1.453125 0,0.78125 0.734375,0.921875 1.03125,0.984375 0.515625,0.109375 1.03125,0.21875 1.03125,0.765625 0,0.25 -0.21875,1.09375 -1.421875,1.09375 -0.140625,0 -0.90625,0 -1.140625,-0.53125 0.390625,0.046875 0.640625,-0.25 0.640625,-0.53125 0,-0.21875 -0.171875,-0.34375 -0.375,-0.34375 -0.265625,0 -0.5625,0.203125 -0.5625,0.65625 0,0.5625 0.578125,0.96875 1.421875,0.96875 1.625,0 2.015625,-1.203125 2.015625,-1.65625 0,-0.359375 -0.1875,-0.609375 -0.3125,-0.71875 -0.265625,-0.28125 -0.5625,-0.34375 -1,-0.421875 -0.359375,-0.078125 -0.75,-0.15625 -0.75,-0.609375 C 1.890625,-3.578125 2.125,-4.1875 3,-4.1875 c 0.25,0 0.75,0.078125 0.890625,0.453125 z"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-409a9754-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path13179"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-409a9754-4"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path13182"
+               d="m 2.328125,-4.4375 c 0,-0.1875 0,-0.1875 -0.203125,-0.1875 -0.453125,0.4375 -1.078125,0.4375 -1.359375,0.4375 l 0,0.25 c 0.15625,0 0.625,0 1,-0.1875 l 0,3.546875 c 0,0.234375 0,0.328125 -0.6875,0.328125 l -0.265625,0 0,0.25 c 0.125,0 0.984375,-0.03125 1.234375,-0.03125 0.21875,0 1.09375,0.03125 1.25,0.03125 l 0,-0.25 -0.265625,0 c -0.703125,0 -0.703125,-0.09375 -0.703125,-0.328125 z"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-409a9754-5"
+         style="fill:#008000;stroke:#008000;stroke-width:1.38825881">
+        <g
+           id="g13185"
+           style="fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1.38825881">
+          <use
+             id="use13187"
+             y="134.765"
+             x="223.064"
+             xlink:href="#textext-409a9754-1"
+             style="fill:#008000;stroke:#008000;stroke-width:1.38825881"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g13189"
+           style="fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1.38825881">
+          <use
+             id="use13191"
+             y="134.765"
+             x="223.43262"
+             xlink:href="#textext-409a9754-2"
+             style="fill:#008000;stroke:#008000;stroke-width:1.38825881"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g13193"
+           style="fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1.38825881">
+          <use
+             id="use13195"
+             y="136.259"
+             x="228.10201"
+             xlink:href="#textext-409a9754-4"
+             style="fill:#008000;stroke:#008000;stroke-width:1.38825881"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(-1.2144067,0,0,1.2191878,1061.58,460.53478)"
+       id="g5312"
+       style="fill:none;stroke:#008000;stroke-width:6.57464933"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5314"
+         d="m 377.07727,156.65875 372.01984,0"
+         style="fill:none;stroke:#008000;stroke-width:6.57464933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:type="star"
+         style="fill:none;stroke:#008000;stroke-width:21.77827644;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path5316"
+         sodipodi:sides="3"
+         sodipodi:cx="-707.10675"
+         sodipodi:cy="1607.946"
+         sodipodi:r1="12.121831"
+         sodipodi:r2="6.060915"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+         inkscape:transform-center-y="-0.00010745177"
+         transform="matrix(9.7332971e-6,-0.30189027,0.30189027,9.7332971e-6,263.24711,-56.825489)"
+         inkscape:transform-center-x="-1.7924318" />
+      <path
+         inkscape:transform-center-x="-1.7924318"
+         transform="matrix(-9.7332971e-6,-0.30189027,-0.30189027,9.7332971e-6,860.04581,-56.825489)"
+         inkscape:transform-center-y="9.383714e-05"
+         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.6179939"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="6.060915"
+         sodipodi:r1="12.121831"
+         sodipodi:cy="1607.946"
+         sodipodi:cx="-707.10675"
+         sodipodi:sides="3"
+         id="path5318"
+         style="fill:none;stroke:#008000;stroke-width:21.77827644;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:type="star" />
+    </g>
+    <g
+       ns0:text="$\\vec{s}_{\\rm{2}}$"
+       ns0:preamble=""
+       transform="matrix(4.3219607,0,0,4.3219607,-604.95612,133.88075)"
+       style="fill:#008000;fill-opacity:1;stroke:#008000"
+       id="g12383"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftwandler/hebel-unterarm.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs12385">
+        <g
+           id="g12387">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-90662a00-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path12390" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-90662a00-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 5.359375,-5.9375 c -0.140625,0.140625 -0.46875,0.421875 -0.46875,0.59375 0,0.09375 0.09375,0.203125 0.1875,0.203125 0.09375,0 0.140625,-0.078125 0.203125,-0.140625 C 5.390625,-5.421875 5.625,-5.703125 6.0625,-5.921875 6.125,-5.96875 6.234375,-6.015625 6.234375,-6.125 6.234375,-6.234375 6.15625,-6.28125 6.09375,-6.328125 5.875,-6.484375 5.765625,-6.65625 5.6875,-6.890625 5.65625,-6.984375 5.625,-7.125 5.484375,-7.125 c -0.140625,0 -0.203125,0.140625 -0.203125,0.21875 0,0.046875 0.078125,0.359375 0.234375,0.578125 l -3.359375,0 c -0.15625,0 -0.34375,0 -0.34375,0.203125 0,0.1875 0.1875,0.1875 0.34375,0.1875 z"
+               id="path12393" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-90662a00-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 3.890625,-3.734375 C 3.625,-3.71875 3.421875,-3.5 3.421875,-3.28125 c 0,0.140625 0.09375,0.296875 0.3125,0.296875 0.21875,0 0.453125,-0.171875 0.453125,-0.5625 C 4.1875,-4 3.765625,-4.40625 3,-4.40625 c -1.3125,0 -1.6875,1.015625 -1.6875,1.453125 0,0.78125 0.734375,0.921875 1.03125,0.984375 0.515625,0.109375 1.03125,0.21875 1.03125,0.765625 0,0.25 -0.21875,1.09375 -1.421875,1.09375 -0.140625,0 -0.90625,0 -1.140625,-0.53125 0.390625,0.046875 0.640625,-0.25 0.640625,-0.53125 0,-0.21875 -0.171875,-0.34375 -0.375,-0.34375 -0.265625,0 -0.5625,0.203125 -0.5625,0.65625 0,0.5625 0.578125,0.96875 1.421875,0.96875 1.625,0 2.015625,-1.203125 2.015625,-1.65625 0,-0.359375 -0.1875,-0.609375 -0.3125,-0.71875 -0.265625,-0.28125 -0.5625,-0.34375 -1,-0.421875 -0.359375,-0.078125 -0.75,-0.15625 -0.75,-0.609375 C 1.890625,-3.578125 2.125,-4.1875 3,-4.1875 c 0.25,0 0.75,0.078125 0.890625,0.453125 z"
+               id="path12396" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-90662a00-3">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path12399" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-90662a00-4">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.515625,-1.265625 -0.234375,0 c -0.015625,0.15625 -0.09375,0.5625 -0.1875,0.625 -0.046875,0.046875 -0.578125,0.046875 -0.6875,0.046875 l -1.28125,0 c 0.734375,-0.640625 0.984375,-0.84375 1.390625,-1.171875 0.515625,-0.40625 1,-0.84375 1,-1.5 0,-0.84375 -0.734375,-1.359375 -1.625,-1.359375 -0.859375,0 -1.453125,0.609375 -1.453125,1.25 0,0.34375 0.296875,0.390625 0.375,0.390625 0.15625,0 0.359375,-0.125 0.359375,-0.375 0,-0.125 -0.046875,-0.375 -0.40625,-0.375 C 0.984375,-4.21875 1.453125,-4.375 1.78125,-4.375 c 0.703125,0 1.0625,0.546875 1.0625,1.109375 0,0.609375 -0.4375,1.078125 -0.65625,1.328125 L 0.515625,-0.265625 C 0.4375,-0.203125 0.4375,-0.1875 0.4375,0 l 2.875,0 z"
+               id="path12402" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#008000"
+         id="textext-90662a00-5">
+        <g
+           style="fill:#008000;fill-opacity:1"
+           id="g12405">
+          <use
+             style="fill:#008000"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-90662a00-1"
+             x="223.064"
+             y="134.765"
+             id="use12407" />
+        </g>
+        <g
+           style="fill:#008000;fill-opacity:1"
+           id="g12409">
+          <use
+             style="fill:#008000"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-90662a00-2"
+             x="223.43262"
+             y="134.765"
+             id="use12411" />
+        </g>
+        <g
+           style="fill:#008000;fill-opacity:1"
+           id="g12413">
+          <use
+             style="fill:#008000"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-90662a00-4"
+             x="228.10201"
+             y="136.259"
+             id="use12415" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

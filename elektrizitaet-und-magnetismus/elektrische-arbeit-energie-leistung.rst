@@ -176,6 +176,6 @@ gleichermaßen von Bedeutung.
 
 .. hint:: 
 
-    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu Elektrische
+    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu elektrischer
     Arbeit, Energie und Leistung>`.
 

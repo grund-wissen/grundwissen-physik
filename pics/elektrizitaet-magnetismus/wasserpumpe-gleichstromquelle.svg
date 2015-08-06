@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="wasserpumpe-gleichstromquelle.svg"
+   inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6552"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6548"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6544"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6442"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6438"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6234"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6230"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6226"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4815"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4212"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3976"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3948"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3944"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3940"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3936"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3902"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3898"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3865"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3850"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3846"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3074"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3069"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3065"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3061"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3057"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3902-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3102"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3108"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3964"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3982"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3989"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3995"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3999"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3902-2-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3057-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3061-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3065-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3069-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3074-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3846-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3850-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3865-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3898-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3902-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3936-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3940-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3944-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3948-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3976-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4212-4"
+       effect="spiro" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.47363281"
+     inkscape:cx="-50.767777"
+     inkscape:cy="932.57023"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-center="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-global="false"
+     inkscape:object-paths="true"
+     inkscape:snap-object-midpoints="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="813.22052,948.14987"
+       id="guide4513" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="232.77266,611.35335"
+       id="guide3629" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4623"
+       width="732.19037"
+       height="781.51349"
+       x="5.9520569"
+       y="135.42435"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g4005">
+      <g
+         id="g3970" />
+      <g
+         transform="matrix(-1,0,0,1,704.04404,0)"
+         id="g4001" />
+    </g>
+    <g
+       transform="matrix(0,0.86610521,1,0,-236.06571,596.88914)"
+       id="g3988" />
+    <g
+       id="g4246"
+       transform="matrix(-1,0,0,1.0382097,705.6799,-26.531004)">
+      <g
+         transform="matrix(0,0.86610521,-1,0,942.74614,617.72103)"
+         id="g4248">
+        <g
+           id="g4250" />
+      </g>
+      <g
+         id="g4255"
+         transform="matrix(0,0.86610521,-1,0,942.74614,606.14216)" />
+    </g>
+    <g
+       id="g3196"
+       transform="matrix(0,1,-1,0,942.60435,636.50407)" />
+    <g
+       id="g3980"
+       transform="matrix(0,0.86610521,1,0,-232.62517,606.14216)" />
+    <g
+       id="g3984"
+       transform="matrix(0,0.86610521,1,0,-236.06571,610.49571)" />
+    <g
+       id="g4859"
+       transform="matrix(-1.6057496,0,0,0.24579714,1230.3162,644.44504)" />
+    <g
+       id="g3970-5"
+       transform="translate(775.95275,217.18108)" />
+    <g
+       id="g4001-7"
+       transform="matrix(-1,0,0,1,1479.9968,217.18108)" />
+    <g
+       id="g4248-3"
+       transform="matrix(0,0.89919883,1,0,538.88656,831.97405)">
+      <g
+         id="g4250-6" />
+    </g>
+    <g
+       transform="matrix(0,0.89919883,1,0,538.88656,819.95275)"
+       id="g4255-0" />
+    <path
+       style="fill:#5fbcd3;fill-opacity:1;stroke:#5fbcd3;stroke-width:21;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 371.1853,382.07857 c 5.45908,18.35623 6.04057,86.1523 4.5,177.5"
+       id="path4499"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cssssc"
+       inkscape:connector-curvature="0"
+       id="path6540"
+       d="m 38.45333,795.68532 0,65 c 0,7.202 8.656076,13 19.408245,13 l 633.622115,0 c 10.75216,0 19.40824,-5.798 19.40824,-13 l 0,-65"
+       style="fill:#5fbcd3;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 37.882158,643.82125 0,212.77345 c 0,9.3929 8.670783,16.95469 19.441216,16.95469 l 634.698516,0 c 10.77043,0 19.44121,-7.56179 19.44121,-16.95469 l 0,-212.77345"
+       id="rect6537"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5701"
+       width="17"
+       height="120"
+       x="-435.42264"
+       y="753.6853"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       y="753.6853"
+       x="-330.92264"
+       height="120"
+       width="17"
+       id="rect5703"
+       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:none"
+       id="rect6965"
+       width="30.862089"
+       height="333.03546"
+       x="-231.89738"
+       y="539.38782"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g4082"
+       transform="matrix(-0.45169574,0,0,0.45169574,849.71238,210.20511)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g4067">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#999999;stroke:#1a1a1a;stroke-width:8.85551834;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 1432.2118,725.93876 -0.3531,-446.38869 -59.5318,0.29223 0,0 c 1.2998,148.32413 0.203,297.53698 -0.3609,446.4472"
+           id="path3985" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           style="fill:none;stroke:#000000;stroke-width:8.85551834;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 1363.936,716.00736 c -0.5889,245.17361 2.2038,489.96244 4.1914,733.19884 l 0,13.3258 71.8776,0 c 0,0 -0.013,-501.54385 -0.019,-752.35174"
+           id="path3083"
+           inkscape:connector-curvature="0" />
+        <path
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#808080;fill-opacity:1;stroke:#1a1a1a;stroke-width:8.85551834;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           d="m 1108.2674,281.8819 c -1.7206,0.0373 -4.1146,0.41162 -7.9676,1.66419 -17.4555,5.67454 -33.0966,16.53563 -44.1945,31.8422 -9.5428,13.16163 -12.6093,26.63218 -15.5636,38.48251 -2.9544,11.85033 -4.4829,21.77188 -4.4829,21.77188 l 46.9441,7.1127 c 0,0 1.2247,-7.97618 3.6112,-17.54887 2.3865,-9.57269 7.2101,-21.05929 7.9203,-22.03879 3.9124,-5.39615 10.7488,-10.44613 17.5835,-13.30516 l 0.5625,-0.003 303.3929,-0.96996 -0.038,-47.49943 -302.3616,0.96489 c -0.6489,-0.0664 -0.6866,-0.10185 -1.5314,-0.14871 -1.1033,-0.0612 -2.1548,-0.36198 -3.8753,-0.32468 z m 1.0378,47.7445 1.0314,0.15117 c -0.8627,0.046 -1.0013,-0.1495 -1.0314,-0.15117 z"
+           id="path3887"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csssccsccccccsccccc" />
+        <rect
+           style="fill:#b3b3b3;stroke:#1a1a1a;stroke-width:8.85555649;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3956"
+           width="87.117981"
+           height="12.937901"
+           x="1358.1161"
+           y="-715.21246"
+           ry="6.4689503"
+           transform="matrix(0.99998789,-0.00492045,-7.9104159e-4,-0.99999969,0,0)"
+           rx="6.4689503" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#b3b3b3;stroke:#1a1a1a;stroke-width:8.85551834;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 1355.2985,725.32295 93.8772,-0.46193 c 4.5356,-0.0223 8.1841,-3.69159 8.1805,-8.22707 0,-4.53549 -3.6579,-8.16884 -8.1935,-8.14652 l -93.8771,0.46193 c -4.5356,0.0223 -8.1841,3.69159 -8.1805,8.22708 0,4.53549 3.6579,8.16882 8.1934,8.14651 z"
+           id="rect3958" />
+        <rect
+           style="fill:#808080;stroke:#1a1a1a;stroke-width:8.85555649;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3970"
+           width="14.000284"
+           height="279.9967"
+           x="1394.6749"
+           y="15.918616"
+           ry="6.9999175"
+           transform="matrix(0.99998789,-0.00492045,7.9104159e-4,0.99999969,0,0)"
+           rx="6.9999175" />
+        <rect
+           style="fill:#b3b3b3;stroke:#1a1a1a;stroke-width:10.4750309;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3960"
+           width="90.094803"
+           height="226.53598"
+           x="1356.6277"
+           y="-481.0719"
+           ry="80.824753"
+           transform="matrix(0.99998789,-0.00492045,-7.9104159e-4,-0.99999969,0,0)"
+           rx="0" />
+        <path
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:8.85551834;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           d="m 1450.1389,-71.68392 c -5.2792,0.155155 -10.5629,0.937677 -15.7407,2.448642 -14.4613,4.220043 -26.9532,13.728512 -34.9095,26.530516 -7.9563,12.802015 -10.9262,28.177972 -8.2854,42.97758623 a 12.724974,12.777631 46.896633 1 0 25.0939,-4.60178833 c -1.5,-8.4066399 0.2961,-17.7310709 4.8155,-25.0029989 4.5194,-7.271938 12.1216,-13.025078 20.3361,-15.422188 5.9681,-1.741593 12.6243,-1.917793 18.9963,-0.578378 6.3937,1.343959 12.718,4.222236 18.3772,8.220366 11.2606,7.955357 20.1061,20.874236 28.8864,35.0774551 L 1679.1238,275.27662 c 3.4623,5.60068 7.3936,11.82763 12.8925,17.6373 5.4879,5.79804 11.9708,10.50016 19.0721,13.99124 14.3354,7.04746 28.0611,8.22279 37.9904,11.91022 12.3435,4.58404 23.068,14.43455 28.6592,26.3495 5.5912,11.91496 6.3448,26.51025 2.0011,38.97412 a 12.728695,12.781369 46.896642 0 0 24.0969,8.28189 c 6.6118,-18.97231 5.5154,-40.02732 -2.9954,-58.16404 -8.5108,-18.13673 -24.0015,-32.38483 -42.7907,-39.36255 -14.1912,-5.2702 -26.8983,-6.57681 -35.6464,-10.87751 -4.4405,-2.183 -8.4803,-5.1301 -11.8287,-8.6678 -3.3375,-3.52611 -6.4394,-8.2153 -9.7374,-13.55026 L 1529.4223,-15.51258 c -9.0469,-14.634464 -19.3868,-30.817123 -35.8164,-42.424345 -8.1859,-5.783143 -17.6,-10.205684 -27.8152,-12.352962 -5.1185,-1.075906 -10.3726,-1.549199 -15.6518,-1.394033 z"
+           id="path3987"
+           inkscape:connector-curvature="0"
+           inkscape:transform-center-x="-26.587329"
+           inkscape:transform-center-y="83.66222" />
+        <path
+           id="path3991"
+           d="m 1375.0494,21.145169 53.2615,-0.262074 c 2.5733,-0.01266 4.6407,-5.336611 4.6355,-11.9371013 -0.01,-6.6004901 -2.0811,-11.9040622 -4.6543,-11.8914004 l -53.2616,0.2620739 c -2.5732,0.012662 -4.6407,5.3366209 -4.6354,11.937111 0.01,6.6004898 2.081,11.9040518 4.6543,11.8913908 z"
+           style="fill:#b3b3b3;stroke:#1a1a1a;stroke-width:6.4016614;stroke-linecap:square;stroke-miterlimit:4;stroke-dashoffset:0"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:8.85551834;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           d="M 1410.4388,227.55207 1557.2379,62.809317 c 0,0 26.1137,-10.51607 35.6847,-1.995811 9.5711,8.52026 2.1308,35.659607 2.1308,35.659607 l -148.7393,294.203807 1.9402,-129.46106 z"
+           id="rect4021"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccscccc" />
+        <path
+           style="fill:#808080;stroke:#1a1a1a;stroke-width:8.85551834;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 1348.82,238.06541 c 33.6777,-11.0089 68.6052,-13.94136 106.0633,-0.52188 4.7995,1.71941 9.2179,4.06428 9.2219,9.16905 0,5.10478 -4.1024,9.23462 -9.2073,9.25974 l -106.0633,0.52189 c -5.1049,0.0251 -9.2178,-4.06428 -9.2219,-9.16906 0,-5.10478 4.3492,-7.67167 9.2073,-9.25974 z"
+           id="rect3972"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sssssss" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:#000000;stroke-width:8.37998867;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path4041"
+           sodipodi:cx="1574.5"
+           sodipodi:cy="82.362183"
+           sodipodi:rx="9"
+           sodipodi:ry="9"
+           d="m 1583.5,82.362183 c 0,4.970562 -4.0294,9 -9,9 -4.9706,0 -9,-4.029438 -9,-9 0,-4.970563 4.0294,-9 9,-9 4.9706,0 9,4.029437 9,9 z"
+           transform="translate(-1,-0.5)" />
+      </g>
+    </g>
+    <rect
+       rx="21.213203"
+       ry="21.213203"
+       y="588.59161"
+       x="262.27515"
+       height="164.96664"
+       width="224.79498"
+       id="rect3690"
+       style="color:#000000;fill:#5fbcd3;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="color:#000000;fill:#5fbcd3;fill-opacity:1;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3692"
+       width="224.79498"
+       height="164.96664"
+       x="262.27515"
+       y="552.52917"
+       ry="0"
+       rx="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 354.51638,418.18514 0,29.6875 -71.03125,0 c -11.75212,0 -21.21875,9.46664 -21.21875,21.21875 l 0,263.25 c 0,11.75211 9.46663,21.21875 21.21875,21.21875 l 182.375,0 c 11.75212,0 21.21875,-9.46664 21.21875,-21.21875 l 0,-263.25 c 0,-11.75211 -9.46663,-21.21875 -21.21875,-21.21875 l -71.03125,0 0,-29.6875 -40.3125,0 z"
+       id="rect3686"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g3911"
+       transform="matrix(-0.30811442,0,0,0.30811442,847.55027,488.81176)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#5fbcd3;fill-opacity:1;stroke:none;stroke-width:70;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 759.96503,534.01964 c -85.89151,42.89086 -136.39382,46.8855 -136.39382,167.34874 l -0.14474,314.55612 69.57352,1.7212 0,-319.55571 c 0.84334,-91.96855 113.14152,-89.22429 137.46039,-83.06318 -0.39263,-0.0717 9.46973,14.97541 9.46973,14.97541 l 61.99935,-0.61692 15.83779,-14.99475 c 56.08542,0.34017 218.09345,-1.37538 270.20885,-1.88627 0,-23.33333 0.3535,-53.38418 0.3535,-76.71751 -29.8802,0 -235.25573,-1.46323 -235.25573,-1.46323 0,0 -16.75392,-24.97441 -28.08521,-35.60533 -54.80375,0.6567 -116.65186,-0.60051 -116.65186,-0.60051 -7.85943,26.14841 -3.84327,35.90194 -48.37177,35.90194 z"
+         id="path3896"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:12.98219013;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1169.2029,614.47997 -252.70262,0 m -85.33881,0 -66.03754,0 c -20.96797,2.94903 -40.63346,14.30293 -53.67136,30.98723 -12.28224,15.7173 -18.59112,35.98987 -17.3966,55.90118 m -70.48476,0 c -5.88028,-38.50688 6.78359,-79.42493 33.38758,-107.87813 16.81277,-17.9814 38.40068,-30.79605 60.55399,-41.53061 13.83099,-6.70192 28.00666,-12.69245 42.45225,-17.94 l 44.5285,0 0,-61.43821 m 145.45327,61.43821 219.2561,0"
+         id="path3900"
+         inkscape:path-effect="#path-effect3902-5"
+         inkscape:original-d="m 1169.2029,614.47997 -252.70262,0 m -85.33881,0 -66.03754,0 c 0,0 -40.38839,3.99143 -53.67136,30.98723 -9.89161,20.10335 -17.3966,55.90118 -17.3966,55.90118 m -70.48476,0 c 0,0 7.21084,-73.76397 33.38758,-107.87813 12.06782,-15.72708 37.81938,-30.59473 60.55399,-41.53061 22.7346,-10.93589 42.45225,-17.94 42.45225,-17.94 22.33182,0 44.5285,0 44.5285,0 0.30175,0.77515 0.14698,-61.42288 0,-61.43821 m 145.45327,61.43821 219.2561,0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccsccsscsccc" />
+    </g>
+    <path
+       sodipodi:nodetypes="cscc"
+       inkscape:connector-curvature="0"
+       id="path4301"
+       d="m 588.48277,629.93442 c -2.29549,-0.30321 -4.17543,-0.24103 -4.21514,0.13955 -0.0397,0.38058 1.77632,0.93111 4.07179,1.23437 0.008,0.0289 0.14335,-1.37392 0.14335,-1.37392 z"
+       style="fill:#999999;stroke:#000000;stroke-width:0.5160284;stroke-linecap:round;stroke-miterlimit:4;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#999999;stroke:#000000;stroke-width:0.5160284;stroke-linecap:round;stroke-miterlimit:4;stroke-dashoffset:0"
+       d="m 588.48091,633.49382 c -2.29549,-0.3032 -4.17543,-0.24102 -4.21514,0.13956 -0.0397,0.38057 1.77631,0.9311 4.07179,1.23436 0.008,0.0289 0.14335,-1.37392 0.14335,-1.37392 z"
+       id="path4303"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g4499"
+       transform="matrix(-0.30811442,0,0,0.34375001,688.94872,468.49659)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4003"
+         d="m 340.47014,506.01977 -50.05586,0 0,-20.45727 c 0,0 50.11056,0.0584 50.05586,0.0584 z"
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dashoffset:0" />
+    </g>
+    <rect
+       ry="6.217608"
+       rx="6.217608"
+       y="631.06653"
+       x="-600.6759"
+       height="3.8314693"
+       width="41.6353"
+       id="rect3891"
+       style="fill:#cccccc;stroke:#000000;stroke-width:1.54057205;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:1.54057205;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3049"
+       width="50.732536"
+       height="4.6686387"
+       x="-605.22449"
+       y="625.55353"
+       rx="7.5761447"
+       ry="7.5761447"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g3968"
+       transform="matrix(-0.30811442,0,0,0.30811442,688.94872,486.93914)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="fill:#ececec"
+         transform="translate(-400.12979,462.1377)"
+         id="g3950">
+        <path
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           d="m 774.19713,-17.573623 0,-32.02813 m -42.09058,31.90542 0,-31.90541 m -42.23211,-0.31541 126.55475,0 0,32.65892 -126.55475,0 0,-32.65892"
+           inkscape:original-d="m 774.19713,-17.573623 0,-32.02813 m -42.09058,31.90542 0,-31.90541 m -42.23211,-0.31541 126.55475,0 0,32.65892 -126.55475,0 z"
+           inkscape:path-effect="#path-effect3948-5"
+           style="fill:#ececec;stroke:#000000;stroke-width:9.73664284;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path3946" />
+      </g>
+      <rect
+         y="365.29984"
+         x="312.77213"
+         height="43.195023"
+         width="80.499817"
+         id="rect3966"
+         style="fill:#b3b3b3;stroke:#000000;stroke-width:9.73664284;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4508"
+         d="m 319.6875,328.1707 0,0.28125 c -7.19098,0 -13,3.29897 -13,7.375 0,4.07603 5.80902,3.375 13,3.375 l 0,25.78125 66.65625,0 0,-25.78125 c 7.191,0 13.03125,0.70103 13.03125,-3.375 0,-4.07603 -5.84025,-7.375 -13.03125,-7.375 l 0,-0.28125 -66.65625,0 z"
+         style="fill:#999999;stroke:#000000;stroke-width:9.73664284;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g4495"
+       transform="matrix(-0.30811442,0,0,0.30811442,688.94872,486.91246)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dashoffset:0"
+         d="m 365.25086,506.01977 46.21441,0 c 0,0 0.28958,-21.58052 3.02982,-23.77051 -1.52427,-0.11737 -34.67393,-0.18703 -49.24423,-0.18703 z"
+         id="path3925"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g3574"
+       transform="translate(-14.089677,9.8036972)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(-0.36167241,0,0,0.36167241,787.97491,449.15992)"
+         id="g3867">
+        <path
+           style="fill:#808080;stroke:#000000;stroke-width:8.29479885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 502.97662,205.50154 0,44.63037 15.70216,9.05894 15.27941,0 3.26122,0 15.27941,0 15.70216,-9.05894 0,-44.63037 c -10.87073,0 -21.74145,-9.66287 -32.61218,-9.66287 -10.87073,0 -21.74145,9.66287 -32.61218,9.66287 z"
+           id="path3063"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccsc" />
+        <path
+           id="path3848"
+           style="fill:#cccccc;stroke:#000000;stroke-width:8.29479885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           inkscape:path-effect="#path-effect3850-3"
+           inkscape:original-d="m 498.71704,208.1772 -86.85714,-4 c 0,0 -10.34426,-0.97778 -13.84094,2.11338 -2.09112,1.84861 -2.26952,8.05981 -2.26952,8.05981 l 0,27.55362 c 0,0 0.1784,6.2112 2.26952,8.05981 3.49668,3.09116 13.84094,2.11338 13.84094,2.11338 l 86.85714,-4 z"
+           d="m 498.71704,208.1772 -86.85714,-4 c -2.39856,-0.11046 -4.79901,-0.31237 -7.19798,-0.21136 -1.19949,0.0505 -2.40226,0.19553 -3.54935,0.54978 -1.1471,0.35426 -2.24231,0.92843 -3.09361,1.77496 -1.01792,1.01222 -1.63963,2.37256 -1.94923,3.77431 -0.3096,1.40176 -0.32029,2.84996 -0.32029,4.2855 l 0,27.55362 c 0,1.43554 0.0107,2.88374 0.32029,4.2855 0.3096,1.40175 0.93131,2.76209 1.94923,3.77431 0.8513,0.84653 1.94651,1.4207 3.09361,1.77496 1.14709,0.35425 2.34986,0.49927 3.54935,0.54978 2.39897,0.10101 4.79942,-0.1009 7.19798,-0.21136 l 86.85714,-4 0,-39.9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsccsccc" />
+        <path
+           sodipodi:nodetypes="ccsccsccc"
+           inkscape:connector-curvature="0"
+           d="m 572.46056,208.1772 86.85714,-4 c 2.39856,-0.11046 4.79901,-0.31237 7.19798,-0.21136 1.19949,0.0505 2.40226,0.19553 3.54935,0.54978 1.1471,0.35426 2.24231,0.92843 3.09361,1.77496 1.01792,1.01222 1.63963,2.37256 1.94923,3.77431 0.3096,1.40176 0.32029,2.84996 0.32029,4.2855 l 0,27.55362 c 0,1.43554 -0.0107,2.88374 -0.32029,4.2855 -0.3096,1.40175 -0.93131,2.76209 -1.94923,3.77431 -0.8513,0.84653 -1.94651,1.4207 -3.09361,1.77496 -1.14709,0.35425 -2.34986,0.49927 -3.54935,0.54978 -2.39897,0.10101 -4.79942,-0.1009 -7.19798,-0.21136 l -86.85714,-4 0,-39.9"
+           inkscape:original-d="m 572.46056,208.1772 86.85714,-4 c 0,0 10.34426,-0.97778 13.84094,2.11338 2.09112,1.84861 2.26952,8.05981 2.26952,8.05981 l 0,27.55362 c 0,0 -0.1784,6.2112 -2.26952,8.05981 -3.49668,3.09116 -13.84094,2.11338 -13.84094,2.11338 l -86.85714,-4 z"
+           inkscape:path-effect="#path-effect3865-6"
+           style="fill:#cccccc;stroke:#000000;stroke-width:8.29479885;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path3863" />
+      </g>
+      <rect
+         transform="scale(-1,1)"
+         y="543.13422"
+         x="-597.79681"
+         height="94.354431"
+         width="7.0591846"
+         id="rect3051"
+         style="fill:#cccccc;stroke:#333333;stroke-width:3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         style="stroke:#4d4d4d"
+         transform="matrix(-0.21239188,0,0,0.30876084,608.05251,519.1195)"
+         id="g4191">
+        <g
+           style="stroke:#4d4d4d"
+           id="g4167"
+           transform="translate(106.90223,142.10284)">
+          <rect
+             style="fill:#cccccc;stroke:#4d4d4d;stroke-width:1.58405685;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+             id="rect4169"
+             width="53.212124"
+             height="4.4828558"
+             x="-91.57164"
+             y="222.67303"
+             rx="39.373055"
+             ry="7.2746611"
+             transform="matrix(0.98827637,-0.1526755,0.09873384,0.99511388,0,0)" />
+          <rect
+             transform="matrix(0.98827637,-0.1526755,0.09873384,0.99511388,0,0)"
+             ry="7.2746611"
+             rx="39.373055"
+             y="211.21637"
+             x="-90.427071"
+             height="4.4828558"
+             width="53.212124"
+             id="rect4171"
+             style="fill:#cccccc;stroke:#4d4d4d;stroke-width:1.58405685;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+          <rect
+             style="fill:#cccccc;stroke:#4d4d4d;stroke-width:1.58405685;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+             id="rect4173"
+             width="53.212124"
+             height="4.4828558"
+             x="-89.282494"
+             y="199.75969"
+             rx="39.373055"
+             ry="7.2746611"
+             transform="matrix(0.98827637,-0.1526755,0.09873384,0.99511388,0,0)" />
+          <rect
+             transform="matrix(0.98827637,-0.1526755,0.09873384,0.99511388,0,0)"
+             ry="7.2746611"
+             rx="39.373055"
+             y="188.30302"
+             x="-88.137917"
+             height="4.4828558"
+             width="53.212124"
+             id="rect4177"
+             style="fill:#cccccc;stroke:#4d4d4d;stroke-width:1.58405685;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+        </g>
+        <g
+           style="stroke:#4d4d4d"
+           transform="translate(106.90223,83.994607)"
+           id="g4179">
+          <rect
+             transform="matrix(0.98827637,-0.1526755,0.09873384,0.99511388,0,0)"
+             ry="7.2746611"
+             rx="39.373055"
+             y="222.67303"
+             x="-91.57164"
+             height="4.4828558"
+             width="53.212124"
+             id="rect4181"
+             style="fill:#cccccc;stroke:#4d4d4d;stroke-width:1.58405685;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+          <rect
+             style="fill:#cccccc;stroke:#4d4d4d;stroke-width:1.58405685;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+             id="rect4187"
+             width="53.212124"
+             height="4.4828558"
+             x="-92.716248"
+             y="234.1297"
+             rx="39.373055"
+             ry="7.2746611"
+             transform="matrix(0.98827637,-0.1526755,0.09873384,0.99511388,0,0)" />
+        </g>
+      </g>
+      <rect
+         transform="scale(-1,1)"
+         y="633.76678"
+         x="-607.18378"
+         height="3.734911"
+         width="25.833132"
+         id="rect3053"
+         style="fill:#cccccc;stroke:#4d4d4d;stroke-width:3;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 564.53598,677.93548 4.86584,4.86585 19.94467,0 2.13755,-2.75375 0,-23.39355 -5.63682,0 m -11.18288,0 -5.63682,0 0,5.66792 -6.20519,0 -8.14593,-9.05337 c 2.58295,-1.70687 4.68453,-4.13395 6.00447,-6.93445 1.6981,-3.60286 2.07352,-7.81163 1.03989,-11.65816"
+       id="path3974"
+       inkscape:path-effect="#path-effect3976-8"
+       inkscape:original-d="m 564.53598,677.93548 4.86584,4.86585 19.94467,0 2.13755,-2.75375 0,-23.39355 -5.63682,0 m -11.18288,0 -5.63682,0 0,5.66792 -6.20519,0 -8.14593,-9.05337 c 0,0 4.64437,-3.65088 6.00447,-6.93445 1.69839,-4.10026 1.03989,-11.65816 1.03989,-11.65816"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccsc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       rx="4.5961943"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4586"
+       width="29.085619"
+       height="9.1505318"
+       x="-659.10059"
+       y="704.62213"
+       ry="4.5961943"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#5fbcd3;fill-opacity:1;stroke:#000000;stroke-width:1.61814451;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4532"
+       sodipodi:cx="218.23083"
+       sodipodi:cy="817.6911"
+       sodipodi:rx="7.3362327"
+       sodipodi:ry="7.3362327"
+       d="m 225.56707,817.6911 a 7.3362327,7.3362327 0 1 1 -14.67247,0 7.3362327,7.3362327 0 1 1 14.67247,0 z"
+       transform="matrix(1.2359835,0,0,1.2359835,-54.328748,-158.69633)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       d="m 207.55715,856.76651 14.81576,0 m -16.71361,-4.85925 19.06877,0 m -18.12038,-4.85915 16.93125,0 m -12.94305,11.76922 0,-14.70211 m 4.85926,16.61459 0,-18.21191 m 4.85924,15.88734 0,-14.96035"
+       style="fill:none;stroke:#000000;stroke-width:0.39314852pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4523"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

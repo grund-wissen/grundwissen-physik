@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg9848"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="lichtmikroskop.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.46790582"
+     inkscape:cx="496.91545"
+     inkscape:cy="226.68658"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-global="true"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="373.92922,254.29897"
+       id="guide15266" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="372.04724,45.949418"
+       id="guide15274" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="306.96133,385.36009"
+       id="guide15336" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="306.96576,603.10542"
+       id="guide15338" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="373.92922,459.31659"
+       id="guide15344" />
+    <sodipodi:guide
+       orientation="-0.96681676,-0.25547086"
+       position="418.63333,180.50474"
+       id="guide15346" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="257.42597,302.33615"
+       id="guide15358" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="486.66851,302.33615"
+       id="guide15360" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="328.97626,774.68878"
+       id="guide15366" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="257.42597,671.692"
+       id="guide15934" />
+    <sodipodi:guide
+       orientation="0.99687745,0.07896423"
+       position="418.63333,180.50474"
+       id="guide15936" />
+  </sodipodi:namedview>
+  <title
+     id="title17435">Lichtmikroskop</title>
+  <defs
+     id="defs9850">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17431"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect17273"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Send"
+       style="overflow:visible;">
+      <path
+         id="path5200"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect15957"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15953"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect15949"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15945"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15928"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect15374"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15370"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect15364"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect15354"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15350"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect15342"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect25134"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect16173"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4744" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10479"
+       is_visible="true" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-7-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4744-6" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4843"
+       is_visible="true" />
+  </defs>
+  <metadata
+     id="metadata9853">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Lichtmikroskop</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2014-02-08</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Optik</rdf:li>
+            <rdf:li>Optische Geraete</rdf:li>
+            <rdf:li>Lichtmikroskop</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:coverage>Lichtmikroskop</dc:coverage>
+        <dc:description>Strahlengang im Lichtmikroskop</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect17433"
+       width="661.91266"
+       height="899.71393"
+       x="41.090912"
+       y="85.876869"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/auge-kurzsichtigkeit.png"
+       y="72.454468"
+       x="75.651367"
+       height="907.45325"
+       width="592.79175"
+       id="rect18792"
+       style="color:#000000;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:0.42732137;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.28196473, 2.56392945;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       style="color:#000000;fill:#8a8a8a;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 257.4375,359.30962 0,20.5625 -21.4375,0 0,316.09375 21.4375,0 0,16.5625 229.21875,0 0,-16.5625 21.4375,0 0,-316.09375 -21.4375,0 0,-20.5625 z"
+       id="path15938"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g7155"
+       transform="matrix(0,-1.104273,1.134573,0,128.77319,453.63239)"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#808080;stroke-width:0.36478293"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         transform="matrix(0.45459254,0,0,0.44136732,-43.640886,127.30982)"
+         d="M 430.76606,119.86219 C 473.56813,45.726829 568.36464,20.326177 642.5,63.128243 716.63535,105.93031 742.03601,200.72682 699.23394,274.86218 656.43187,348.99754 561.63536,374.39819 487.5,331.59612 463.93702,317.99203 444.37015,298.42516 430.76606,274.86218"
+         sodipodi:ry="155"
+         sodipodi:rx="155"
+         sodipodi:cy="197.36218"
+         sodipodi:cx="565"
+         id="path6059-9"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:#808080;stroke-width:3.98900247;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         sodipodi:start="3.6651914"
+         sodipodi:end="8.9011792"
+         sodipodi:open="true" />
+      <g
+         id="g6053"
+         transform="matrix(0.75924572,0,0,0.75924572,-64.432618,113.92362)"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:#808080;stroke-width:0.36478293">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6055-2"
+           d="m 294.73509,82.362185 c -19.38829,33.498715 -19.16505,66.838025 0,99.999995"
+           style="fill:#ececec;fill-opacity:1;stroke:#808080;stroke-width:1.17669308;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:#ececec;fill-opacity:1;stroke:#808080;stroke-width:1.17669308;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 295.02081,82.362185 c 19.38829,33.498715 19.16505,66.838025 0,99.999995"
+           id="path6057-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+    <g
+       style="fill:#ececec;fill-opacity:1"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       transform="matrix(0,-0.33831763,0.57404189,0,66.963917,869.33946)"
+       id="g16127">
+      <path
+         sodipodi:open="true"
+         sodipodi:end="6.8067841"
+         sodipodi:start="5.7595865"
+         transform="matrix(2.0515774,0,0,3.3645485,-1673.2489,-2143.7114)"
+         d="m 1065.9716,735.76072 c 21.2024,36.72371 21.2024,81.9692 0,118.69292"
+         sodipodi:ry="118.69292"
+         sodipodi:rx="118.69292"
+         sodipodi:cy="795.10718"
+         sodipodi:cx="963.18048"
+         id="path16129"
+         style="fill:#ececec;fill-opacity:1;stroke:#808080;stroke-width:1.7549113;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ececec;fill-opacity:1;stroke:#808080;stroke-width:1.7549113;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path16131"
+         sodipodi:cx="963.18048"
+         sodipodi:cy="795.10718"
+         sodipodi:rx="118.69292"
+         sodipodi:ry="118.69292"
+         d="m 1065.9716,735.76072 c 21.2024,36.72371 21.2024,81.9692 0,118.69292"
+         transform="matrix(-2.0515774,0,0,3.3645485,2700.7882,-2143.7114)"
+         sodipodi:start="5.7595865"
+         sodipodi:end="6.8067841"
+         sodipodi:open="true" />
+    </g>
+    <rect
+       style="color:#000000;fill:#8a8a8a;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect19247"
+       width="272.09375"
+       height="32.867867"
+       x="236"
+       y="379.87213"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g3855"
+       transform="matrix(0,-0.47108079,0.5740419,0,66.963914,622.57241)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       style="fill:#ececec;fill-opacity:1">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ececec;fill-opacity:1;stroke:#808080;stroke-width:1.46387208;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3857"
+         sodipodi:cx="963.18048"
+         sodipodi:cy="795.10718"
+         sodipodi:rx="118.69292"
+         sodipodi:ry="118.69292"
+         d="m 1065.9716,735.76072 c 21.2024,36.72371 21.2024,81.9692 0,118.69292"
+         transform="matrix(2.0515774,0,0,3.3645485,-1673.4184,-2143.7114)"
+         sodipodi:start="5.7595865"
+         sodipodi:end="6.8067841"
+         sodipodi:open="true" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="6.8067841"
+         sodipodi:start="5.7595865"
+         transform="matrix(-2.0515774,0,0,3.3645485,2700.7882,-2143.7114)"
+         d="m 1065.9716,735.76072 c 21.2024,36.72371 21.2024,81.9692 0,118.69292"
+         sodipodi:ry="118.69292"
+         sodipodi:rx="118.69292"
+         sodipodi:cy="795.10718"
+         sodipodi:cx="963.18048"
+         id="path3859"
+         style="fill:#ececec;fill-opacity:1;stroke:#808080;stroke-width:1.46387208;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.87830784, 1.7566156;stroke-dashoffset:0"
+       d="m 372.04694,964.3208 0,-878.443931"
+       id="path11090"
+       inkscape:path-effect="#path-effect16173"
+       inkscape:original-d="m 372.04694,964.3208 0,-878.443931"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:0.8;color:#000000;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect15941"
+       width="392.91617"
+       height="12.089728"
+       x="175.58916"
+       y="876.99329"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-width:0.3970935;stroke-linecap:round;stroke-miterlimit:4;stroke-dashoffset:0"
+       d="m 418.63336,871.85741 -12.71013,-12.74553 0,8.87575 -33.40852,0 0,7.70413 33.40852,0 0,8.87587 z"
+       id="path24962"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:#000000;stroke-width:172.63775635;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path6608"
+       sodipodi:cx="963.18048"
+       sodipodi:cy="795.10718"
+       sodipodi:rx="118.69292"
+       sodipodi:ry="118.69292"
+       d="m 1081.8734,795.10718 a 118.69292,118.69292 0 1 1 -237.38584,0 118.69292,118.69292 0 1 1 237.38584,0 z"
+       transform="matrix(0.01585588,0,0,0.01585588,356.77517,785.45609)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       id="path25008"
+       d="m 306.97284,449.28356 16.78968,-19.56876 0,13.62697 47.28165,0 0,11.82874 -47.28165,0 0,13.62824 z"
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.44007418;stroke-linecap:round;stroke-miterlimit:4;stroke-dashoffset:0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.5;fill:#000000;stroke:#000000;stroke-width:172.63775635;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path6608-5"
+       sodipodi:cx="963.18048"
+       sodipodi:cy="795.10718"
+       sodipodi:rx="118.69292"
+       sodipodi:ry="118.69292"
+       d="m 1081.8734,795.10718 a 118.69292,118.69292 0 1 1 -237.38584,0 118.69292,118.69292 0 1 1 237.38584,0 z"
+       transform="matrix(0.01585588,0,0,0.01585588,356.77517,478.74942)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.01585588,0,0,0.01585588,356.77517,580.43847)"
+       d="m 1081.8734,795.10718 a 118.69292,118.69292 0 1 1 -237.38584,0 118.69292,118.69292 0 1 1 237.38584,0 z"
+       sodipodi:ry="118.69292"
+       sodipodi:rx="118.69292"
+       sodipodi:cy="795.10718"
+       sodipodi:cx="963.18048"
+       id="path15272"
+       style="fill:#000000;stroke:#000000;stroke-width:172.63775635;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.01585588,0,0,0.01585588,356.77517,887.9649)"
+       d="m 1081.8734,795.10718 a 118.69292,118.69292 0 1 1 -237.38584,0 118.69292,118.69292 0 1 1 237.38584,0 z"
+       sodipodi:ry="118.69292"
+       sodipodi:rx="118.69292"
+       sodipodi:cy="795.10718"
+       sodipodi:cx="963.18048"
+       id="path15276"
+       style="opacity:0.5;fill:#000000;stroke:#000000;stroke-width:172.63775635;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="M 380.71604,277.6734 430.92479,172.01013"
+       inkscape:path-effect="#path-effect15374"
+       id="path15376"
+       d="M 380.71604,277.6734 430.92479,172.01013"
+       style="fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)" />
+    <path
+       style="fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)"
+       d="M 389.59035,277.67339 430.92479,172.01013"
+       id="path15372"
+       inkscape:path-effect="#path-effect15928"
+       inkscape:original-d="M 389.59035,277.67339 430.92479,172.01013"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:#000000;stroke-width:172.63775635;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path17427"
+       sodipodi:cx="963.18048"
+       sodipodi:cy="795.10718"
+       sodipodi:rx="118.69292"
+       sodipodi:ry="118.69292"
+       d="m 1081.8734,795.10718 a 118.69292,118.69292 0 1 1 -237.38584,0 118.69292,118.69292 0 1 1 237.38584,0 z"
+       transform="matrix(0.01585588,0,0,0.01585588,356.77517,287.23266)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 306.96576,449.25676 0,-68.58658"
+       inkscape:path-effect="#path-effect15354"
+       id="path15356"
+       d="m 306.96576,449.25676 0,-68.58658"
+       style="fill:none;stroke:#ff6600;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)"
+       d="M 306.96576,449.25676 288.84249,380.67018"
+       id="path15352"
+       inkscape:path-effect="#path-effect17431"
+       inkscape:original-d="M 306.96576,449.25676 288.84249,380.67018"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="5.8490098"
+       inkscape:transform-center-x="-77.554383"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 306.96133,695.55436 0,-246.2976"
+       inkscape:path-effect="#path-effect4843"
+       id="path4841"
+       d="m 306.96133,695.55436 0,-246.2976"
+       style="fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="M 418.63333,871.85744 306.99987,696.21404"
+       inkscape:path-effect="#path-effect10479"
+       id="path10419"
+       d="M 418.63333,871.85744 306.99987,696.21404"
+       style="fill:none;stroke:#ff6600;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="M 372.04724,695.55441 306.96576,449.2568"
+       inkscape:path-effect="#path-effect15350"
+       id="path15348"
+       d="M 372.04724,695.55441 306.96576,449.2568"
+       style="fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)" />
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#808080;stroke-width:5.64721632"
+       transform="matrix(0.01465928,-1.0480846,1.0768429,0.01506152,139.83966,434.69942)"
+       id="g15396">
+      <path
+         sodipodi:end="0.72603788"
+         sodipodi:start="0"
+         sodipodi:type="arc"
+         style="opacity:0.8;fill:none;stroke:#000000;stroke-width:12.60733128;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path15398"
+         sodipodi:cx="565"
+         sodipodi:cy="197.36218"
+         sodipodi:rx="155"
+         sodipodi:ry="155"
+         d="m 720,197.36218 c 0,37.92941 -13.90754,74.54233 -39.08933,102.90635"
+         transform="matrix(0.45459254,0,0,0.44136732,-43.640886,127.30982)"
+         sodipodi:open="true" />
+      <g
+         style="fill:#f2f2f2;fill-opacity:1;stroke:#808080;stroke-width:7.43793011"
+         transform="matrix(0.75924572,0,0,0.75924572,-64.432618,113.92362)"
+         id="g15400" />
+    </g>
+    <path
+       style="opacity:0.8;fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 431.15612,150.43427 -16.4129,19.45796 17.91044,-1.52047 -1.49754,-17.93749"
+       id="path15406"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="9.44739"
+       inkscape:transform-center-y="-8.29661"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.01585588,0,0,0.01585588,356.77517,448.89346)"
+       d="m 1081.8734,795.10718 a 118.69292,118.69292 0 1 1 -237.38584,0 118.69292,118.69292 0 1 1 237.38584,0 z"
+       sodipodi:ry="118.69292"
+       sodipodi:rx="118.69292"
+       sodipodi:cy="795.10718"
+       sodipodi:cx="963.18048"
+       id="path15930"
+       style="fill:#000000;stroke:#000000;stroke-width:172.63775635;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 440.29899,958.07077 0,-56.62084"
+       inkscape:path-effect="#path-effect15945"
+       id="path15943"
+       d="m 440.29899,958.07077 0,-56.62084"
+       style="fill:none;stroke:#ff6600;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)"
+       d="m 303.82373,958.07077 0,-56.62084"
+       id="path15947"
+       inkscape:path-effect="#path-effect15949"
+       inkscape:original-d="m 303.82373,958.07077 0,-56.62084"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 235.58611,958.07077 0,-56.62084"
+       inkscape:path-effect="#path-effect15953"
+       id="path15951"
+       d="m 235.58611,958.07077 0,-56.62084"
+       style="fill:none;stroke:#ff6600;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)"
+       d="m 508.53662,958.07077 0,-56.62084"
+       id="path15955"
+       inkscape:path-effect="#path-effect15957"
+       inkscape:original-d="m 508.53662,958.07077 0,-56.62084"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#800080;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 418.63341,871.85744 360.73106,140.87401"
+       id="path15965"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)"
+       d="M 288.84249,380.67018 380.71604,277.6734"
+       id="path15362"
+       inkscape:path-effect="#path-effect15364"
+       inkscape:original-d="m 288.84249,380.67018 c 30.18375,-34.33226 52.88534,89.81586 91.87355,-102.99678"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 306.96133,380.67017 82.9346,-102.99678"
+       inkscape:path-effect="#path-effect15370"
+       id="path15368"
+       d="m 306.96133,380.67017 82.9346,-102.99678"
+       style="fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)"
+       d="M 418.63341,871.85743 372.04724,695.5544"
+       id="path15340"
+       inkscape:path-effect="#path-effect15342"
+       inkscape:original-d="M 418.63341,871.85743 372.04724,695.5544"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)"
+       d="m 372.04724,958.07077 0,-56.62087"
+       id="path17271"
+       inkscape:path-effect="#path-effect17273"
+       inkscape:original-d="m 372.04724,958.07077 0,-56.62087"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g17275"
+       transform="matrix(0.05239377,-1.0468768,1.075602,0.0538314,130.39438,425.88529)"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#800080;stroke-width:5.64721632;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:open="true"
+         transform="matrix(0.45459254,0,0,0.44136732,-43.640886,127.30982)"
+         d="m 717.73822,170.9797 c 0.90562,5.24299 1.54068,10.52912 1.90266,15.83741"
+         sodipodi:ry="155"
+         sodipodi:rx="155"
+         sodipodi:cy="197.36218"
+         sodipodi:cx="565"
+         id="path17277"
+         style="opacity:0.8;fill:none;stroke:#800080;stroke-width:6.30366611;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         sodipodi:start="6.112143"
+         sodipodi:end="6.2151" />
+      <g
+         id="g17279"
+         transform="matrix(0.75924572,0,0,0.75924572,-64.432618,113.92362)"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:#800080;stroke-width:7.43793011;stroke-opacity:1" />
+    </g>
+    <path
+       style="opacity:0.8;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 363.53632,143.60763 -0.4573,-5.3868 -2.46132,2.91797 2.91862,2.46883"
+       id="path15406-4"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-4.2111"
+       inkscape:transform-center-y="-0.45807"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       ns0:text="$\\rm{F}_1$"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(2.0733926,0,0,2.0733926,-118.98374,524.12373)"
+       id="g3825"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs3827">
+        <g
+           id="g3829">
+          <symbol
+             overflow="visible"
+             id="textext-4d8da011-0"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d=""
+               id="path3832"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-4d8da011-1"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 5.796875,-6.78125 -5.46875,0 0,0.3125 0.234375,0 c 0.765625,0 0.796875,0.109375 0.796875,0.46875 l 0,5.21875 c 0,0.359375 -0.03125,0.46875 -0.796875,0.46875 l -0.234375,0 0,0.3125 c 0.34375,-0.03125 1.125,-0.03125 1.515625,-0.03125 0.40625,0 1.3125,0 1.671875,0.03125 l 0,-0.3125 -0.328125,0 C 2.25,-0.3125 2.25,-0.4375 2.25,-0.78125 l 0,-2.453125 0.84375,0 c 0.96875,0 1.0625,0.3125 1.0625,1.15625 l 0.25,0 0,-2.640625 -0.25,0 c 0,0.84375 -0.09375,1.171875 -1.0625,1.171875 l -0.84375,0 0,-2.53125 c 0,-0.328125 0.015625,-0.390625 0.484375,-0.390625 l 1.1875,0 c 1.5,0 1.75,0.5625 1.90625,1.9375 l 0.25,0 z"
+               id="path3835"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-4d8da011-2"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d=""
+               id="path3838"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-4d8da011-3"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 2.328125,-4.4375 c 0,-0.1875 0,-0.1875 -0.203125,-0.1875 -0.453125,0.4375 -1.078125,0.4375 -1.359375,0.4375 l 0,0.25 c 0.15625,0 0.625,0 1,-0.1875 l 0,3.546875 c 0,0.234375 0,0.328125 -0.6875,0.328125 l -0.265625,0 0,0.25 c 0.125,0 0.984375,-0.03125 1.234375,-0.03125 0.21875,0 1.09375,0.03125 1.25,0.03125 l 0,-0.25 -0.265625,0 c -0.703125,0 -0.703125,-0.09375 -0.703125,-0.328125 z"
+               id="path3841"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-4d8da011-4">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g3844">
+          <use
+             xlink:href="#textext-4d8da011-1"
+             x="223.43201"
+             y="134.765"
+             id="use3846"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g3848">
+          <use
+             xlink:href="#textext-4d8da011-3"
+             x="229.936"
+             y="136.259"
+             id="use3850"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3956"
+       transform="matrix(2.0733926,0,0,2.0733926,-75.499135,187.5611)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$\\rm{F}_2$"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/lichtmikroskop.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs3958">
+        <g
+           id="g3960">
+          <symbol
+             id="textext-5b846500-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path3963"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-5b846500-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path3966"
+               d="m 5.796875,-6.78125 -5.46875,0 0,0.3125 0.234375,0 c 0.765625,0 0.796875,0.109375 0.796875,0.46875 l 0,5.21875 c 0,0.359375 -0.03125,0.46875 -0.796875,0.46875 l -0.234375,0 0,0.3125 c 0.34375,-0.03125 1.125,-0.03125 1.515625,-0.03125 0.40625,0 1.3125,0 1.671875,0.03125 l 0,-0.3125 -0.328125,0 C 2.25,-0.3125 2.25,-0.4375 2.25,-0.78125 l 0,-2.453125 0.84375,0 c 0.96875,0 1.0625,0.3125 1.0625,1.15625 l 0.25,0 0,-2.640625 -0.25,0 c 0,0.84375 -0.09375,1.171875 -1.0625,1.171875 l -0.84375,0 0,-2.53125 c 0,-0.328125 0.015625,-0.390625 0.484375,-0.390625 l 1.1875,0 c 1.5,0 1.75,0.5625 1.90625,1.9375 l 0.25,0 z"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-5b846500-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path3969"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-5b846500-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path3972"
+               d="m 3.515625,-1.265625 -0.234375,0 c -0.015625,0.15625 -0.09375,0.5625 -0.1875,0.625 -0.046875,0.046875 -0.578125,0.046875 -0.6875,0.046875 l -1.28125,0 c 0.734375,-0.640625 0.984375,-0.84375 1.390625,-1.171875 0.515625,-0.40625 1,-0.84375 1,-1.5 0,-0.84375 -0.734375,-1.359375 -1.625,-1.359375 -0.859375,0 -1.453125,0.609375 -1.453125,1.25 0,0.34375 0.296875,0.390625 0.375,0.390625 0.15625,0 0.359375,-0.125 0.359375,-0.375 0,-0.125 -0.046875,-0.375 -0.40625,-0.375 C 0.984375,-4.21875 1.453125,-4.375 1.78125,-4.375 c 0.703125,0 1.0625,0.546875 1.0625,1.109375 0,0.609375 -0.4375,1.078125 -0.65625,1.328125 L 0.515625,-0.265625 C 0.4375,-0.203125 0.4375,-0.1875 0.4375,0 l 2.875,0 z"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-5b846500-4">
+        <g
+           id="g3975"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use3977"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-5b846500-1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g3979"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use3981"
+             y="136.259"
+             x="229.936"
+             xlink:href="#textext-5b846500-3"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

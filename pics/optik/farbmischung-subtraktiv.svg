@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="farbmischung-subtraktiv.svg">
+  <title
+     id="title8526">Subtraktive Farbmischung</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.41603089"
+     inkscape:cx="745.25222"
+     inkscape:cy="980.05903"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-object-midpoints="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-intersection-paths="true" />
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5368"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Subtraktive Farbmischung</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2015-02-26</dc:date>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Optik</rdf:li>
+            <rdf:li>Farbwahrnehmung</rdf:li>
+            <rdf:li>Subtraktive Farbmischung</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:source>http://web.physik.rwth-aachen.de/~hebbeker/lectures/ph3_0203/sub1.gif</dc:source>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8528"
+       width="723.54602"
+       height="620.49548"
+       x="19.733076"
+       y="219.18799"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/optik/farbmischung-subtraktiv.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7708"
+       width="591.75"
+       height="562.5"
+       x="76.172241"
+       y="244.93109"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/optik/farbmischung-subtraktiv.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(1.2260968,0,0,1.2260968,-88.009634,86.985403)"
+       d="m 580.22845,427.948 a 123.64254,123.64254 0 1 1 -247.28508,0 123.64254,123.64254 0 1 1 247.28508,0 z"
+       sodipodi:ry="123.64254"
+       sodipodi:rx="123.64254"
+       sodipodi:cy="427.948"
+       sodipodi:cx="456.58591"
+       id="path8522"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.40779813999999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/optik/farbmischung-subtraktiv.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.40779813999999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path8524"
+       sodipodi:cx="456.58591"
+       sodipodi:cy="427.948"
+       sodipodi:rx="123.64254"
+       sodipodi:ry="123.64254"
+       d="m 580.22845,427.948 a 123.64254,123.64254 0 1 1 -247.28508,0 123.64254,123.64254 0 1 1 247.28508,0 z"
+       transform="matrix(1.2260968,0,0,1.2260968,-287.53292,86.985403)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/optik/farbmischung-subtraktiv.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 372.0625 497.53125 C 340.28294 525.31985 320.21875 566.15561 320.21875 611.6875 C 320.21875 657.21939 340.28294 698.05515 372.0625 725.84375 C 403.83184 698.05546 423.875 657.21095 423.875 611.6875 C 423.875 566.16405 403.83184 525.31954 372.0625 497.53125 z "
+       id="path8504"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/optik/farbmischung-subtraktiv.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(1.2260968,0,0,1.2260968,-187.77128,-84.034562)"
+       d="m 580.22845,427.948 a 123.64254,123.64254 0 1 1 -247.28508,0 123.64254,123.64254 0 1 1 247.28508,0 z"
+       sodipodi:ry="123.64254"
+       sodipodi:rx="123.64254"
+       sodipodi:cy="427.948"
+       sodipodi:cx="456.58591"
+       id="path7714"
+       style="color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.40779813999999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/optik/farbmischung-subtraktiv.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 471.8125 460.09375 C 397.5204 460.09375 335.73489 513.52597 322.75 584.0625 C 338.21003 589.37812 354.79834 592.28125 372.0625 592.28125 C 446.3444 592.28125 508.12849 538.83466 521.125 468.3125 C 505.66444 462.99646 489.07736 460.09375 471.8125 460.09375 z "
+       id="path8502"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/optik/farbmischung-subtraktiv.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 272.28125 460.09375 C 255.01639 460.09375 238.42931 462.99646 222.96875 468.3125 C 235.96526 538.83466 297.7806 592.28125 372.0625 592.28125 C 389.32666 592.28125 405.88372 589.37812 421.34375 584.0625 C 408.35886 513.52597 346.57335 460.09375 272.28125 460.09375 z "
+       id="path7710"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/optik/farbmischung-subtraktiv.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 372.03125 497.5625 C 346.8698 519.58811 329.05497 549.81266 322.75 584.0625 C 323.65683 584.37433 324.58549 584.70498 325.5 585 C 326.52481 585.33046 327.55955 585.62827 328.59375 585.9375 C 328.61583 585.9441 328.63416 585.96216 328.65625 585.96875 C 329.61799 586.25584 330.59286 586.51275 331.5625 586.78125 C 332.33097 586.99391 333.10169 587.20544 333.875 587.40625 C 334.1038 587.46574 334.33328 587.5353 334.5625 587.59375 C 334.72907 587.63616 334.89571 587.67689 335.0625 587.71875 C 335.89633 587.92832 336.72326 588.11676 337.5625 588.3125 C 338.57006 588.54749 339.57859 588.78517 340.59375 589 C 341.37004 589.16428 342.15688 589.31639 342.9375 589.46875 C 343.17771 589.51563 343.41564 589.57925 343.65625 589.625 C 344.06029 589.70164 344.46983 589.77033 344.875 589.84375 C 345.49193 589.95579 346.09924 590.0517 346.71875 590.15625 C 347.68629 590.31921 348.65133 590.48047 349.625 590.625 C 349.69734 590.63578 349.77138 590.64558 349.84375 590.65625 C 350.58193 590.76473 351.32091 590.87096 352.0625 590.96875 C 352.88262 591.0769 353.70705 591.18627 354.53125 591.28125 C 354.86427 591.31963 355.19758 591.33879 355.53125 591.375 C 356.19627 591.44744 356.86367 591.52996 357.53125 591.59375 C 357.78244 591.61764 358.0297 591.63359 358.28125 591.65625 C 358.93535 591.71548 359.59353 591.76163 360.25 591.8125 C 360.97625 591.86877 361.70842 591.92279 362.4375 591.96875 C 363.33102 592.02468 364.22736 592.08462 365.125 592.125 C 365.92447 592.16123 366.7286 592.19501 367.53125 592.21875 C 367.88417 592.22912 368.24023 592.24205 368.59375 592.25 C 369.75023 592.27619 370.89975 592.28125 372.0625 592.28125 C 373.13951 592.28125 374.2096 592.27236 375.28125 592.25 C 375.71888 592.2408 376.15708 592.23167 376.59375 592.21875 C 377.54009 592.19095 378.4956 592.13882 379.4375 592.09375 C 380.18971 592.05747 380.93829 592.01601 381.6875 591.96875 C 382.41618 591.92279 383.14923 591.86877 383.875 591.8125 C 384.53266 591.76183 385.18847 591.71529 385.84375 591.65625 C 386.09369 591.6336 386.34417 591.61762 386.59375 591.59375 C 387.24457 591.53185 387.88286 591.44511 388.53125 591.375 C 388.93963 591.33063 389.34262 591.29761 389.75 591.25 C 390.21844 591.19552 390.68912 591.1525 391.15625 591.09375 C 392.11546 590.9725 393.07775 590.82665 394.03125 590.6875 C 394.17709 590.66632 394.32305 590.6466 394.46875 590.625 C 396.25619 590.35882 398.04603 590.07813 399.8125 589.75 C 400.23908 589.67103 400.66844 589.58254 401.09375 589.5 C 401.90377 589.34226 402.69462 589.17059 403.5 589 C 405.36071 588.60588 407.22738 588.1804 409.0625 587.71875 C 409.14524 587.69794 409.22982 587.6772 409.3125 587.65625 C 409.57483 587.58993 409.83197 587.50519 410.09375 587.4375 C 413.90472 586.45008 417.65255 585.33164 421.34375 584.0625 C 421.14086 582.96037 420.91408 581.87489 420.6875 580.78125 C 420.46092 579.68761 420.24999 578.58488 420 577.5 C 419.72611 576.3114 419.42665 575.11523 419.125 573.9375 C 418.87676 572.96923 418.61054 571.99194 418.34375 571.03125 C 418.06285 570.01912 417.80124 569.03474 417.5 568.03125 C 417.43354 567.80984 417.34869 567.59598 417.28125 567.375 C 417.13797 566.90556 416.99145 566.43624 416.84375 565.96875 C 416.67838 565.44537 416.51463 564.92716 416.34375 564.40625 C 416.03457 563.46354 415.70206 562.52821 415.375 561.59375 C 414.97938 560.46339 414.57771 559.30545 414.15625 558.1875 C 413.80068 557.24498 413.43621 556.30846 413.0625 555.375 C 412.92875 555.04066 412.79231 554.70816 412.65625 554.375 C 412.32984 553.57633 411.99583 552.79178 411.65625 552 C 411.28009 551.12218 410.89216 550.27543 410.5 549.40625 C 410.05175 548.41275 409.59389 547.41946 409.125 546.4375 C 408.21727 544.53652 407.26483 542.63746 406.28125 540.78125 C 406.22018 540.66611 406.15511 540.55247 406.09375 540.4375 C 405.95525 540.17776 405.82746 539.91509 405.6875 539.65625 C 405.34211 539.01802 404.97925 538.38267 404.625 537.75 C 404.09584 536.80432 403.57995 535.87053 403.03125 534.9375 C 402.48255 534.00447 401.91171 533.07635 401.34375 532.15625 C 400.73177 531.16483 400.13401 530.16358 399.5 529.1875 C 398.3688 527.44598 397.16853 525.75365 395.96875 524.0625 C 395.38333 523.23732 394.82015 522.40659 394.21875 521.59375 C 394.11669 521.45585 394.00877 521.32504 393.90625 521.1875 C 392.68058 519.54255 391.41487 517.93631 390.125 516.34375 C 389.47074 515.53595 388.79541 514.73145 388.125 513.9375 C 388.09149 513.89784 388.0648 513.85212 388.03125 513.8125 C 387.8214 513.5645 387.61766 513.30913 387.40625 513.0625 C 386.92592 512.50249 386.42582 511.95913 385.9375 511.40625 C 385.22543 510.59952 384.51009 509.79131 383.78125 509 C 383.41424 508.60153 383.05871 508.20701 382.6875 507.8125 C 381.55983 506.61473 380.41575 505.44184 379.25 504.28125 C 379.22913 504.26045 379.20838 504.23953 379.1875 504.21875 C 378.34477 503.38072 377.48715 502.53692 376.625 501.71875 C 376.51274 501.61215 376.39384 501.51251 376.28125 501.40625 C 376.20626 501.33551 376.13764 501.25809 376.0625 501.1875 C 375.15897 500.3387 374.23666 499.51419 373.3125 498.6875 C 372.88902 498.30869 372.45899 497.93661 372.03125 497.5625 z "
+       id="path8512"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/optik/farbmischung-subtraktiv.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

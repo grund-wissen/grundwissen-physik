@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg37992"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="lichtbrechung-umkehrprisma.svg"
+   inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/ebener-spiegel.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.56266219"
+     inkscape:cx="366.36878"
+     inkscape:cy="540.84591"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:snap-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="143.11156,372.04724"
+       id="guide6404" />
+    <sodipodi:guide
+       orientation="-0.70710678,0.70710678"
+       position="143.29628,187.23228"
+       id="guide6412" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="526.18109,490.11938"
+       id="guide5758" />
+  </sodipodi:namedview>
+  <title
+     id="title58162">Lichtbrechung an Umkehrprismen</title>
+  <defs
+     id="defs37994">
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient37156"
+       xlink:href="#linearGradient35265"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient35265">
+      <stop
+         id="stop35267"
+         offset="0"
+         style="stop-color:#ff9955;stop-opacity:1;" />
+      <stop
+         id="stop35269"
+         offset="1"
+         style="stop-color:#fffb36;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect34665"
+       effect="spiro" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient37158"
+       xlink:href="#linearGradient35265"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient37938">
+      <stop
+         id="stop37940"
+         offset="0"
+         style="stop-color:#ff9955;stop-opacity:1;" />
+      <stop
+         id="stop37942"
+         offset="1"
+         style="stop-color:#fffb36;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect37944"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         id="path4744"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker37948"
+       style="overflow:visible">
+      <path
+         id="path37950"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker37952"
+       style="overflow:visible">
+      <path
+         id="path37954"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker37956"
+       style="overflow:visible">
+      <path
+         id="path37958"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker37960"
+       style="overflow:visible">
+      <path
+         id="path37962"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker37964"
+       style="overflow:visible">
+      <path
+         id="path37966"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5253"
+       xlink:href="#linearGradient35265"
+       inkscape:collect="always" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5255"
+       xlink:href="#linearGradient35265"
+       inkscape:collect="always" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010774,3826.4898)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient40385"
+       xlink:href="#linearGradient35265"
+       inkscape:collect="always" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010774,4532.8612)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient40387"
+       xlink:href="#linearGradient35265"
+       inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1"
+       id="radialGradient35297"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <linearGradient
+       id="linearGradient35265-1">
+      <stop
+         id="stop35267-9"
+         offset="0"
+         style="stop-color:#ff9955;stop-opacity:1;" />
+      <stop
+         id="stop35269-6"
+         offset="1"
+         style="stop-color:#fffb36;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect34665-4"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7440"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7442"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4744-2"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path8789"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path8783"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path8780"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4744-2-6"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata37997">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Lichtbrechung an Umkehrprismen</dc:title>
+        <dc:date>2013-06-25</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Optik</rdf:li>
+            <rdf:li>Lichtbrechung</rdf:li>
+            <rdf:li>Prisma</rdf:li>
+            <rdf:li>Umkehrprisma</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1"
+     transform="translate(0,-308.2677)">
+    <rect
+       transform="scale(-1,-1)"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+       y="-958.91681"
+       x="-1037.5153"
+       height="557.2038"
+       width="1022.6684"
+       id="rect37131"
+       style="opacity:0.5;fill:#ffffff;stroke:#f9f9f9;stroke-width:1.00000012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+       y="422.44244"
+       x="546.04199"
+       height="515.745"
+       width="480.57767"
+       id="rect5795"
+       style="color:#000000;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:0.42732152;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.28196476, 2.56392952;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:0.42732152;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.28196476, 2.56392952;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect59365"
+       width="480.57767"
+       height="515.745"
+       x="25.742493"
+       y="422.44244"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g7887-8"
+       transform="matrix(3.3204266,0,0,3.3204266,-363.77242,-762.5207)"
+       ns0:preamble=""
+       ns0:text="Lot">
+      <defs
+         id="defs7889-4">
+        <g
+           id="g7891-3">
+          <symbol
+             id="textext-b395f716-0-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path7894-4"
+               d="m 5.796875,-2.578125 -0.25,0 c -0.109375,1.015625 -0.25,2.265625 -2,2.265625 l -0.8125,0 C 2.265625,-0.3125 2.25,-0.375 2.25,-0.703125 l 0,-5.3125 C 2.25,-6.359375 2.25,-6.5 3.1875,-6.5 l 0.328125,0 0,-0.3125 C 3.15625,-6.78125 2.25,-6.78125 1.84375,-6.78125 c -0.390625,0 -1.171875,0 -1.515625,-0.03125 l 0,0.3125 0.234375,0 c 0.765625,0 0.796875,0.109375 0.796875,0.46875 l 0,5.25 c 0,0.359375 -0.03125,0.46875 -0.796875,0.46875 l -0.234375,0 0,0.3125 5.1875,0 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-b395f716-1-9"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path7897-2"
+               d="M 4.6875,-2.140625 C 4.6875,-3.40625 3.703125,-4.46875 2.5,-4.46875 c -1.25,0 -2.21875,1.09375 -2.21875,2.328125 0,1.296875 1.03125,2.25 2.203125,2.25 1.203125,0 2.203125,-0.984375 2.203125,-2.25 z m -2.1875,2 c -0.4375,0 -0.875,-0.203125 -1.140625,-0.671875 -0.25,-0.4375 -0.25,-1.046875 -0.25,-1.40625 0,-0.390625 0,-0.921875 0.234375,-1.359375 C 1.609375,-4.03125 2.078125,-4.25 2.484375,-4.25 c 0.4375,0 0.859375,0.21875 1.125,0.65625 0.265625,0.421875 0.265625,1 0.265625,1.375 0,0.359375 0,0.90625 -0.21875,1.34375 C 3.421875,-0.421875 2.984375,-0.140625 2.5,-0.140625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-b395f716-2-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path7900-6"
+               d="m 1.71875,-3.984375 1.4375,0 0,-0.3125 -1.4375,0 0,-1.828125 -0.25,0 c 0,0.8125 -0.296875,1.875 -1.28125,1.921875 l 0,0.21875 0.84375,0 0,2.75 c 0,1.21875 0.9375,1.34375 1.296875,1.34375 0.703125,0 0.984375,-0.703125 0.984375,-1.34375 l 0,-0.5625 -0.25,0 0,0.546875 c 0,0.734375 -0.296875,1.109375 -0.671875,1.109375 -0.671875,0 -0.671875,-0.90625 -0.671875,-1.078125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-b395f716-3-8" />
+    </g>
+    <g
+       id="g5797"
+       transform="matrix(0.89369891,0,0,0.89369891,42.716969,73.100594)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         inkscape:transform-center-x="-131.99274"
+         style="color:#000000;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:3.35683537;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:transform-center-y="-264.62707"
+         d="m 757.9723,943.34122 0.0951,-526.05255 261.1066,261.62905 z"
+         id="path5788"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         inkscape:connector-curvature="0"
+         id="path6378"
+         d="m 646.2375,612.31448 304.87771,0"
+         style="fill:none;stroke:#ff6600;stroke-width:2.23789024;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+      <path
+         style="fill:none;stroke:#ff6600;stroke-width:2.23789024;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+         d="m 646.2375,535.39096 229.69636,0"
+         id="path6380"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#ff6600;stroke-width:2.23789024;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+         d="m 950.88311,747.23614 -304.64558,0"
+         id="path6382"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         inkscape:connector-curvature="0"
+         id="path6384"
+         d="m 875.70172,824.15966 -229.4642,0"
+         style="fill:none;stroke:#ff6600;stroke-width:2.23789024;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+      <path
+         style="fill:none;stroke:#d40000;stroke-width:2.23789001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+         d="m 875.93385,535.39096 0,288.53371"
+         id="path6386"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         inkscape:connector-curvature="0"
+         id="path6388"
+         d="m 951.12122,612.31448 0,135.49542"
+         style="fill:none;stroke:#d40000;stroke-width:2.23789001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         style="fill:none;stroke:#808080;stroke-width:1.11894512;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.23789017, 2.23789017;stroke-dashoffset:0"
+         d="m 911.47716,499.81182 -71.08663,71.15827"
+         id="path6394"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6396"
+         d="M 986.65853,576.73534 915.5719,647.89361"
+         style="fill:none;stroke:#808080;stroke-width:1.11894512;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.23789017, 2.23789017;stroke-dashoffset:0"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         style="fill:none;stroke:#808080;stroke-width:1.11894512;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.23789017, 2.23789017;stroke-dashoffset:0"
+         d="M 986.42645,782.81527 915.33977,711.65701"
+         id="path6398"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6400"
+         d="M 911.47719,859.5038 840.39051,788.34554"
+         style="fill:none;stroke:#808080;stroke-width:1.11894512;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.23789017, 2.23789017;stroke-dashoffset:0"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         transform="matrix(-0.70710678,-0.70710679,0.70710679,-0.70710678,1240.4975,1964.042)"
+         id="g6435">
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:2.72913432;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path6408-7"
+           sodipodi:cx="125.06291"
+           sodipodi:cy="690.09003"
+           sodipodi:rx="47.372318"
+           sodipodi:ry="47.372318"
+           d="m 125.06291,642.71771 c 26.16301,0 47.37232,21.20931 47.37232,47.37232"
+           transform="matrix(0.82000001,0,0,0.82000001,962.66789,186.34689)"
+           sodipodi:start="4.712389"
+           sodipodi:end="6.2831853"
+           sodipodi:open="true" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:#000000;stroke:#000000;stroke-width:2.23789024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path6410-8"
+           sodipodi:cx="62.057735"
+           sodipodi:cy="493.96866"
+           sodipodi:rx="1.8948927"
+           sodipodi:ry="1.8948927"
+           d="m 63.952628,493.96866 c 0,1.04652 -0.848372,1.89489 -1.894893,1.89489 -1.04652,0 -1.894892,-0.84837 -1.894892,-1.89489 0,-1.04652 0.848372,-1.89489 1.894892,-1.89489 1.046521,0 1.894893,0.84837 1.894893,1.89489 z"
+           transform="translate(1018.2676,243.14625)" />
+      </g>
+    </g>
+    <g
+       id="g5782"
+       transform="matrix(0.89369891,0,0,0.89369891,35.444074,31.239885)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path6374"
+         d="M 499.5453,866.26899 127.50274,494.3609 l 0.36943,369.62992 z"
+         inkscape:transform-center-y="-186.10176"
+         style="color:#000000;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:#666666;stroke-width:3.35683537;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:transform-center-x="188.13743" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11626"
+         d="m 296.46879,599.19459 -71.08663,71.15827"
+         style="fill:none;stroke:#808080;stroke-width:1.11894512;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.23789017, 2.23789017;stroke-dashoffset:0"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         inkscape:connector-curvature="0"
+         id="path5196"
+         d="m 260.92548,634.77372 0,322.13868"
+         style="fill:none;stroke:#d40000;stroke-width:2.23789001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+      <path
+         style="fill:none;stroke:#ff6600;stroke-width:2.23789024;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+         d="m 15.924173,634.77372 245.001307,0"
+         id="path36147"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#d40000;stroke-width:2.23789001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+         d="m 382.49511,750.40019 0,206.51221"
+         id="path5774"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         inkscape:connector-curvature="0"
+         id="path5770"
+         d="m 15.924171,750.40019 366.570939,0"
+         style="fill:none;stroke:#ff6600;stroke-width:2.23789024;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         style="fill:none;stroke:#808080;stroke-width:1.11894512;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.23789017, 2.23789017;stroke-dashoffset:0"
+         d="m 418.03842,714.82106 -71.08663,71.15827"
+         id="path5778"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         sodipodi:open="true"
+         sodipodi:end="6.2831853"
+         sodipodi:start="4.712389"
+         transform="matrix(0.82000001,0,0,0.82000001,25.320582,299.25607)"
+         d="m 125.06291,642.71771 c 26.16301,0 47.37232,21.20931 47.37232,47.37232"
+         sodipodi:ry="47.372318"
+         sodipodi:rx="47.372318"
+         sodipodi:cy="690.09003"
+         sodipodi:cx="125.06291"
+         id="path6408"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:2.72913432;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+         transform="translate(80.920248,356.05543)"
+         d="m 63.952628,493.96866 c 0,1.04652 -0.848372,1.89489 -1.894893,1.89489 -1.04652,0 -1.894892,-0.84837 -1.894892,-1.89489 0,-1.04652 0.848372,-1.89489 1.894892,-1.89489 1.046521,0 1.894893,0.84837 1.894893,1.89489 z"
+         sodipodi:ry="1.8948927"
+         sodipodi:rx="1.8948927"
+         sodipodi:cy="493.96866"
+         sodipodi:cx="62.057735"
+         id="path6410"
+         style="color:#000000;fill:#000000;stroke:#000000;stroke-width:2.23789024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-umkehrprisma.png"
+       inkscape:connector-curvature="0"
+       id="path9208"
+       d="m 526.18109,458.99052 0,442.64884"
+       style="fill:none;stroke:#808080;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

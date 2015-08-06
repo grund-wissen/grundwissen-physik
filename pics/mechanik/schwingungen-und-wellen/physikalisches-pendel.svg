@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg13214"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="physikalisches-pendel.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.4515032"
+     inkscape:cx="549.69232"
+     inkscape:cy="623.72018"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <title
+     id="title13222">Physikalisches Pendel</title>
+  <defs
+     id="defs13216">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3943"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3940"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13823"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path13825"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13827"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path13829"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata13219">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:title>Physikalisches Pendel</dc:title>
+        <dc:date>2015-01-31</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Schwingung</rdf:li>
+            <rdf:li>Physikalisches Pendel</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <rect
+       y="39.567097"
+       x="-868.91101"
+       height="681.17548"
+       width="685.45984"
+       id="rect7874"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.99999952;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1.06331897;stroke-opacity:1"
+       transform="matrix(6.0473506,0,0,6.0473506,-1152.8581,-0.82723219)"
+       ns0:text="$\\vec{F}_{\\rm{G}}$"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       id="g27071">
+      <defs
+         id="defs27073">
+        <g
+           id="g27075">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol27077">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 5.359375,-5.9375 c -0.140625,0.140625 -0.46875,0.421875 -0.46875,0.59375 0,0.09375 0.09375,0.203125 0.1875,0.203125 0.09375,0 0.140625,-0.078125 0.203125,-0.140625 C 5.390625,-5.421875 5.625,-5.703125 6.0625,-5.921875 6.125,-5.96875 6.234375,-6.015625 6.234375,-6.125 6.234375,-6.234375 6.15625,-6.28125 6.09375,-6.328125 5.875,-6.484375 5.765625,-6.65625 5.6875,-6.890625 5.65625,-6.984375 5.625,-7.125 5.484375,-7.125 c -0.140625,0 -0.203125,0.140625 -0.203125,0.21875 0,0.046875 0.078125,0.359375 0.234375,0.578125 l -3.359375,0 c -0.15625,0 -0.34375,0 -0.34375,0.203125 0,0.1875 0.1875,0.1875 0.34375,0.1875 z m 0,0"
+               id="path27079" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol27081">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.015625,-3.234375 0.96875,0 c 0.75,0 0.828125,0.15625 0.828125,0.4375 0,0.078125 0,0.1875 -0.0625,0.5 C 4.71875,-2.25 4.71875,-2.21875 4.71875,-2.1875 c 0,0.078125 0.0625,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.203125 L 5.53125,-4.453125 C 5.5625,-4.5625 5.5625,-4.578125 5.5625,-4.609375 5.5625,-4.625 5.546875,-4.71875 5.4375,-4.71875 5.34375,-4.71875 5.328125,-4.671875 5.296875,-4.5 5.078125,-3.734375 4.859375,-3.546875 4,-3.546875 l -0.90625,0 0.640625,-2.53125 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.3125,0 c 1.21875,0 1.453125,0.328125 1.453125,1.09375 0,0.234375 0,0.265625 -0.03125,0.546875 C 7,-4.703125 7,-4.6875 7,-4.65625 c 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.109375,-0.0625 0.125,-0.25 L 7.453125,-6.515625 C 7.484375,-6.78125 7.4375,-6.78125 7.1875,-6.78125 l -4.890625,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.5625,-0.03125 1.84375,-0.03125 2.171875,-0.03125 3,0 3.328125,0 3.421875,0 3.53125,0 3.53125,-0.1875 3.53125,-0.265625 3.484375,-0.296875 3.484375,-0.296875 3.453125,-0.3125 3.421875,-0.3125 3.203125,-0.3125 c -0.21875,0 -0.265625,0 -0.515625,-0.015625 -0.296875,-0.03125 -0.328125,-0.078125 -0.328125,-0.203125 0,-0.015625 0,-0.078125 0.046875,-0.21875 z m 0,0"
+               id="path27083" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol27085">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 5.1875,-1.359375 c 0,-0.3125 0.078125,-0.3125 0.546875,-0.3125 l 0,-0.25 c -0.0625,0 -0.5625,0.03125 -0.90625,0.03125 -0.375,0 -0.890625,0 -1.265625,-0.03125 l 0,0.25 0.265625,0 c 0.703125,0 0.703125,0.09375 0.703125,0.3125 l 0,0.453125 c 0,0.15625 0,0.421875 -0.40625,0.625 -0.328125,0.171875 -0.71875,0.171875 -0.8125,0.171875 -0.796875,0 -2.078125,-0.453125 -2.078125,-2.28125 0,-1.84375 1.328125,-2.25 2.015625,-2.25 0.671875,0 1.515625,0.453125 1.6875,1.65625 0.015625,0.078125 0.078125,0.078125 0.125,0.078125 0.125,0 0.125,-0.046875 0.125,-0.1875 l 0,-1.625 c 0,-0.125 0,-0.1875 -0.09375,-0.1875 -0.03125,0 -0.0625,0 -0.125,0.09375 l -0.359375,0.53125 c -0.34375,-0.359375 -0.84375,-0.625 -1.453125,-0.625 -1.453125,0 -2.671875,1.125 -2.671875,2.515625 0,1.390625 1.1875,2.53125 2.6875,2.53125 0.390625,0 1.15625,-0.078125 1.484375,-0.5625 C 4.78125,-0.234375 5.03125,0 5.109375,0 5.1875,0 5.1875,-0.078125 5.1875,-0.1875 z m 0,0"
+               id="path27087" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1.06331897;stroke-opacity:1"
+         id="g27089">
+        <g
+           style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1.06331897;stroke-opacity:1"
+           id="g27091">
+          <g
+             transform="translate(224.901,132.24699)"
+             style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1.06331897;stroke-opacity:1"
+             id="use27093">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 5.359375,-5.9375 c -0.140625,0.140625 -0.46875,0.421875 -0.46875,0.59375 0,0.09375 0.09375,0.203125 0.1875,0.203125 0.09375,0 0.140625,-0.078125 0.203125,-0.140625 C 5.390625,-5.421875 5.625,-5.703125 6.0625,-5.921875 6.125,-5.96875 6.234375,-6.015625 6.234375,-6.125 6.234375,-6.234375 6.15625,-6.28125 6.09375,-6.328125 5.875,-6.484375 5.765625,-6.65625 5.6875,-6.890625 5.65625,-6.984375 5.625,-7.125 5.484375,-7.125 c -0.140625,0 -0.203125,0.140625 -0.203125,0.21875 0,0.046875 0.078125,0.359375 0.234375,0.578125 l -3.359375,0 c -0.15625,0 -0.34375,0 -0.34375,0.203125 0,0.1875 0.1875,0.1875 0.34375,0.1875 z m 0,0"
+               id="path12949" />
+          </g>
+        </g>
+        <g
+           style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1.06331897;stroke-opacity:1"
+           id="g27095">
+          <g
+             transform="translate(223.43201,134.765)"
+             style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1.06331897;stroke-opacity:1"
+             id="use27097">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.015625,-3.234375 0.96875,0 c 0.75,0 0.828125,0.15625 0.828125,0.4375 0,0.078125 0,0.1875 -0.0625,0.5 C 4.71875,-2.25 4.71875,-2.21875 4.71875,-2.1875 c 0,0.078125 0.0625,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.203125 L 5.53125,-4.453125 C 5.5625,-4.5625 5.5625,-4.578125 5.5625,-4.609375 5.5625,-4.625 5.546875,-4.71875 5.4375,-4.71875 5.34375,-4.71875 5.328125,-4.671875 5.296875,-4.5 5.078125,-3.734375 4.859375,-3.546875 4,-3.546875 l -0.90625,0 0.640625,-2.53125 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.3125,0 c 1.21875,0 1.453125,0.328125 1.453125,1.09375 0,0.234375 0,0.265625 -0.03125,0.546875 C 7,-4.703125 7,-4.6875 7,-4.65625 c 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.109375,-0.0625 0.125,-0.25 L 7.453125,-6.515625 C 7.484375,-6.78125 7.4375,-6.78125 7.1875,-6.78125 l -4.890625,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.5625,-0.03125 1.84375,-0.03125 2.171875,-0.03125 3,0 3.328125,0 3.421875,0 3.53125,0 3.53125,-0.1875 3.53125,-0.265625 3.484375,-0.296875 3.484375,-0.296875 3.453125,-0.3125 3.421875,-0.3125 3.203125,-0.3125 c -0.21875,0 -0.265625,0 -0.515625,-0.015625 -0.296875,-0.03125 -0.328125,-0.078125 -0.328125,-0.203125 0,-0.015625 0,-0.078125 0.046875,-0.21875 z m 0,0"
+               id="path12957" />
+          </g>
+        </g>
+        <g
+           style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1.06331897;stroke-opacity:1"
+           id="g27099">
+          <g
+             transform="translate(229.839,136.259)"
+             style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1.06331897;stroke-opacity:1"
+             id="use27101">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 5.1875,-1.359375 c 0,-0.3125 0.078125,-0.3125 0.546875,-0.3125 l 0,-0.25 c -0.0625,0 -0.5625,0.03125 -0.90625,0.03125 -0.375,0 -0.890625,0 -1.265625,-0.03125 l 0,0.25 0.265625,0 c 0.703125,0 0.703125,0.09375 0.703125,0.3125 l 0,0.453125 c 0,0.15625 0,0.421875 -0.40625,0.625 -0.328125,0.171875 -0.71875,0.171875 -0.8125,0.171875 -0.796875,0 -2.078125,-0.453125 -2.078125,-2.28125 0,-1.84375 1.328125,-2.25 2.015625,-2.25 0.671875,0 1.515625,0.453125 1.6875,1.65625 0.015625,0.078125 0.078125,0.078125 0.125,0.078125 0.125,0 0.125,-0.046875 0.125,-0.1875 l 0,-1.625 c 0,-0.125 0,-0.1875 -0.09375,-0.1875 -0.03125,0 -0.0625,0 -0.125,0.09375 l -0.359375,0.53125 c -0.34375,-0.359375 -0.84375,-0.625 -1.453125,-0.625 -1.453125,0 -2.671875,1.125 -2.671875,2.515625 0,1.390625 1.1875,2.53125 2.6875,2.53125 0.390625,0 1.15625,-0.078125 1.484375,-0.5625 C 4.78125,-0.234375 5.03125,0 5.109375,0 5.1875,0 5.1875,-0.078125 5.1875,-0.1875 z m 0,0"
+               id="path12965" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g31544"
+       style="fill:#008000;fill-opacity:1;stroke:#d40000;stroke-width:1.52844524;stroke-opacity:1"
+       transform="matrix(4.2070611,0,0,4.2070611,-660.15053,27.890348)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$s^{*}$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs31546">
+        <g
+           id="g31548">
+          <symbol
+             id="textext-6572c48b-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path31551"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-6572c48b-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path31554"
+               d="M 3.890625,-3.734375 C 3.625,-3.71875 3.421875,-3.5 3.421875,-3.28125 c 0,0.140625 0.09375,0.296875 0.3125,0.296875 0.21875,0 0.453125,-0.171875 0.453125,-0.5625 C 4.1875,-4 3.765625,-4.40625 3,-4.40625 c -1.3125,0 -1.6875,1.015625 -1.6875,1.453125 0,0.78125 0.734375,0.921875 1.03125,0.984375 0.515625,0.109375 1.03125,0.21875 1.03125,0.765625 0,0.25 -0.21875,1.09375 -1.421875,1.09375 -0.140625,0 -0.90625,0 -1.140625,-0.53125 0.390625,0.046875 0.640625,-0.25 0.640625,-0.53125 0,-0.21875 -0.171875,-0.34375 -0.375,-0.34375 -0.265625,0 -0.5625,0.203125 -0.5625,0.65625 0,0.5625 0.578125,0.96875 1.421875,0.96875 1.625,0 2.015625,-1.203125 2.015625,-1.65625 0,-0.359375 -0.1875,-0.609375 -0.3125,-0.71875 -0.265625,-0.28125 -0.5625,-0.34375 -1,-0.421875 -0.359375,-0.078125 -0.75,-0.15625 -0.75,-0.609375 C 1.890625,-3.578125 2.125,-4.1875 3,-4.1875 c 0.25,0 0.75,0.078125 0.890625,0.453125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-6572c48b-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path31557"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-6572c48b-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path31560"
+               d="m 2.25,-1.734375 c 0.578125,-0.25 0.828125,-0.34375 1,-0.4375 0.140625,-0.046875 0.203125,-0.078125 0.203125,-0.21875 0,-0.109375 -0.09375,-0.21875 -0.21875,-0.21875 -0.046875,0 -0.0625,0 -0.140625,0.0625 L 2.140625,-1.90625 2.25,-2.9375 c 0.015625,-0.125 0,-0.296875 -0.21875,-0.296875 -0.078125,0 -0.21875,0.046875 -0.21875,0.203125 0,0.0625 0.03125,0.265625 0.046875,0.34375 0.015625,0.109375 0.0625,0.625 0.078125,0.78125 L 0.984375,-2.546875 c -0.0625,-0.03125 -0.078125,-0.0625 -0.140625,-0.0625 -0.140625,0 -0.21875,0.109375 -0.21875,0.21875 0,0.140625 0.078125,0.1875 0.140625,0.203125 L 1.8125,-1.734375 c -0.5625,0.25 -0.828125,0.34375 -1,0.421875 -0.125,0.0625 -0.1875,0.09375 -0.1875,0.21875 0,0.125 0.078125,0.21875 0.21875,0.21875 0.046875,0 0.0625,0 0.140625,-0.0625 l 0.953125,-0.625 -0.125,1.109375 c 0,0.15625 0.140625,0.21875 0.21875,0.21875 0.09375,0 0.21875,-0.0625 0.21875,-0.21875 0,-0.0625 -0.03125,-0.265625 -0.03125,-0.328125 -0.015625,-0.125 -0.0625,-0.625 -0.078125,-0.78125 L 2.96875,-1.015625 C 3.15625,-0.875 3.171875,-0.875 3.234375,-0.875 c 0.125,0 0.21875,-0.09375 0.21875,-0.21875 0,-0.140625 -0.09375,-0.171875 -0.15625,-0.203125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-6572c48b-4"
+         style="fill:#008000;stroke-width:1.52844524">
+        <g
+           id="g31563"
+           style="fill:#008000;fill-opacity:1;stroke-width:1.52844524">
+          <use
+             id="use31565"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-6572c48b-1"
+             style="fill:#008000;stroke-width:1.52844524"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g31567"
+           style="fill:#008000;fill-opacity:1;stroke-width:1.52844524">
+          <use
+             id="use31569"
+             y="131.149"
+             x="228.10201"
+             xlink:href="#textext-6572c48b-3"
+             style="fill:#008000;stroke-width:1.52844524"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$s$"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(3.8328176,0,0,3.8328176,-559.76995,3.6194078)"
+       style="fill:#008000;fill-opacity:1;stroke:#d40000;stroke-width:1.6776855;stroke-opacity:1"
+       id="g30255"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs30257">
+        <g
+           id="g30259">
+          <symbol
+             overflow="visible"
+             id="textext-109744d3-0"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d=""
+               id="path30262"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-109744d3-1"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="M 3.890625,-3.734375 C 3.625,-3.71875 3.421875,-3.5 3.421875,-3.28125 c 0,0.140625 0.09375,0.296875 0.3125,0.296875 0.21875,0 0.453125,-0.171875 0.453125,-0.5625 C 4.1875,-4 3.765625,-4.40625 3,-4.40625 c -1.3125,0 -1.6875,1.015625 -1.6875,1.453125 0,0.78125 0.734375,0.921875 1.03125,0.984375 0.515625,0.109375 1.03125,0.21875 1.03125,0.765625 0,0.25 -0.21875,1.09375 -1.421875,1.09375 -0.140625,0 -0.90625,0 -1.140625,-0.53125 0.390625,0.046875 0.640625,-0.25 0.640625,-0.53125 0,-0.21875 -0.171875,-0.34375 -0.375,-0.34375 -0.265625,0 -0.5625,0.203125 -0.5625,0.65625 0,0.5625 0.578125,0.96875 1.421875,0.96875 1.625,0 2.015625,-1.203125 2.015625,-1.65625 0,-0.359375 -0.1875,-0.609375 -0.3125,-0.71875 -0.265625,-0.28125 -0.5625,-0.34375 -1,-0.421875 -0.359375,-0.078125 -0.75,-0.15625 -0.75,-0.609375 C 1.890625,-3.578125 2.125,-4.1875 3,-4.1875 c 0.25,0 0.75,0.078125 0.890625,0.453125 z m 0,0"
+               id="path30265"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#008000;stroke-width:1.6776855"
+         id="textext-109744d3-2">
+        <g
+           style="fill:#008000;fill-opacity:1;stroke-width:1.6776855"
+           id="g30268">
+          <use
+             style="fill:#008000;stroke-width:1.6776855"
+             xlink:href="#textext-109744d3-1"
+             x="223.43201"
+             y="134.765"
+             id="use30270"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       id="g9938"
+       transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,247.89102,-21.648182)">
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         ry="11.917218"
+         y="211.88686"
+         x="-825.78021"
+         height="87.461739"
+         width="681.565"
+         id="rect9890"
+         style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         transform="translate(22.931465,-40.707077)"
+         d="m 241.14758,218.92232 c 0,4.67305 -3.78826,8.46132 -8.46132,8.46132 -4.67305,0 -8.46131,-3.78827 -8.46131,-8.46132 0,-4.67306 3.78826,-8.46132 8.46131,-8.46132 4.67306,0 8.46132,3.78826 8.46132,8.46132 z"
+         sodipodi:ry="8.461318"
+         sodipodi:rx="8.461318"
+         sodipodi:cy="218.92232"
+         sodipodi:cx="232.68626"
+         id="path9886"
+         style="color:#000000;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       inkscape:transform-center-y="152.57279"
+       inkscape:transform-center-x="0.78236186"
+       transform="matrix(-0.47022588,0.81445517,-0.81445517,-0.47022588,358.89377,743.58119)"
+       id="g8049"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g3460"
+         inkscape:transform-center-x="-149.52172"
+         transform="matrix(0.86602541,-0.50000001,0.50000001,0.86602541,-49.354106,414.92436)"
+         inkscape:transform-center-y="-86.327536">
+        <g
+           id="g6315"
+           transform="matrix(1,0,0,-1,-85.03402,474.27777)">
+          <path
+             sodipodi:nodetypes="ccccc"
+             style="fill:#d40000;stroke:#d40000;stroke-width:10.63318729;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 102.97623,669.07217 51.16853,0 51.16851,0 51.1685,0 51.16852,0"
+             id="path6317"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:transform-center-x="-3.0302635"
+             transform="matrix(1.645499e-5,-0.5103719,0.5103719,1.645499e-5,-508.98901,308.15839)"
+             inkscape:transform-center-y="-0.00017641075"
+             d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+             inkscape:randomized="0"
+             inkscape:rounded="0"
+             inkscape:flatsided="false"
+             sodipodi:arg2="2.6179939"
+             sodipodi:arg1="1.5707963"
+             sodipodi:r2="6.060915"
+             sodipodi:r1="12.121831"
+             sodipodi:cy="1607.946"
+             sodipodi:cx="-707.10675"
+             sodipodi:sides="3"
+             id="path6319"
+             style="fill:#d40000;stroke:#d40000;stroke-width:31.1552372;stroke-miterlimit:4;stroke-dasharray:none"
+             sodipodi:type="star" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       ns0:text="S"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(3.8328176,0,0,3.8328176,-655.893,39.717627)"
+       style="fill:#008000;fill-opacity:1;stroke:#d40000;stroke-width:1.6776855;stroke-opacity:1"
+       id="g10617">
+      <defs
+         id="defs10619">
+        <g
+           id="g10621">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-b11e7fcc-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path10624" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-b11e7fcc-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.484375,-3.875 -1.28125,-0.296875 c -0.625,-0.15625 -1,-0.6875 -1,-1.265625 0,-0.703125 0.53125,-1.3125 1.3125,-1.3125 1.65625,0 1.875,1.640625 1.9375,2.078125 0.015625,0.0625 0.015625,0.125 0.125,0.125 0.125,0 0.125,-0.046875 0.125,-0.234375 l 0,-2 c 0,-0.171875 0,-0.25 -0.109375,-0.25 -0.0625,0 -0.078125,0.015625 -0.140625,0.140625 l -0.359375,0.5625 C 3.796875,-6.625 3.390625,-7.03125 2.5,-7.03125 c -1.109375,0 -1.9375,0.875 -1.9375,1.9375 0,0.828125 0.53125,1.5625 1.296875,1.828125 0.109375,0.03125 0.625,0.15625 1.328125,0.328125 0.265625,0.0625 0.5625,0.140625 0.84375,0.5 0.203125,0.265625 0.3125,0.59375 0.3125,0.921875 0,0.703125 -0.5,1.421875 -1.34375,1.421875 -0.28125,0 -1.046875,-0.046875 -1.578125,-0.53125 C 0.84375,-1.171875 0.8125,-1.796875 0.8125,-2.15625 0.796875,-2.265625 0.71875,-2.265625 0.6875,-2.265625 c -0.125,0 -0.125,0.078125 -0.125,0.25 l 0,2 c 0,0.171875 0,0.234375 0.109375,0.234375 0.0625,0 0.078125,-0.015625 0.140625,-0.125 0,-0.015625 0.03125,-0.046875 0.359375,-0.578125 0.3125,0.34375 0.953125,0.703125 1.84375,0.703125 1.15625,0 1.953125,-0.96875 1.953125,-2.078125 0,-0.984375 -0.65625,-1.8125 -1.484375,-2.015625 z m 0,0"
+               id="path10627" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#008000"
+         id="textext-b11e7fcc-2">
+        <g
+           style="fill:#008000;fill-opacity:1"
+           id="g10630">
+          <use
+             style="fill:#008000"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-b11e7fcc-1"
+             x="223.43201"
+             y="134.765"
+             id="use10632" />
+        </g>
+      </g>
+    </g>
+    <path
+       sodipodi:open="true"
+       sodipodi:end="2.0943951"
+       sodipodi:start="1.0471976"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       transform="matrix(0.77173649,0,0,0.77173649,83.322422,-100.02339)"
+       d="m 581.84785,811.42259 a 395.9798,395.9798 0 0 1 -395.97978,-10e-6"
+       sodipodi:ry="395.9798"
+       sodipodi:rx="395.9798"
+       sodipodi:cy="468.49402"
+       sodipodi:cx="383.85797"
+       id="path11311"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:3.88733792;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.88733817, 11.66201471;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow2Mend)"
+       d="m 229.25894,526.18103 148.3442,0"
+       id="path29596"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       ns0:text="$l$"
+       ns0:preamble=""
+       transform="matrix(6.0473506,0,0,6.0473506,-1072.3253,-419.06282)"
+       style="fill:#008000;fill-opacity:1;stroke:#d40000;stroke-width:1.06331897;stroke-opacity:1"
+       id="g25362"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs25364">
+        <g
+           id="g25366">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-a305dbee-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path25369" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-a305dbee-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.578125,-6.8125 c 0,0 0,-0.109375 -0.140625,-0.109375 -0.21875,0 -0.953125,0.078125 -1.21875,0.109375 -0.078125,0 -0.1875,0.015625 -0.1875,0.203125 0,0.109375 0.109375,0.109375 0.25,0.109375 0.484375,0 0.5,0.09375 0.5,0.171875 L 1.75,-6.125 0.484375,-1.140625 C 0.453125,-1.03125 0.4375,-0.96875 0.4375,-0.8125 c 0,0.578125 0.4375,0.921875 0.90625,0.921875 0.328125,0 0.578125,-0.203125 0.75,-0.5625 0.171875,-0.375 0.296875,-0.953125 0.296875,-0.96875 0,-0.109375 -0.09375,-0.109375 -0.125,-0.109375 -0.09375,0 -0.109375,0.046875 -0.125,0.1875 C 1.96875,-0.703125 1.78125,-0.109375 1.375,-0.109375 c -0.296875,0 -0.296875,-0.3125 -0.296875,-0.453125 0,-0.25 0.015625,-0.296875 0.0625,-0.484375 z m 0,0"
+               id="path25372" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#008000;stroke-width:1.06331897"
+         id="textext-a305dbee-2">
+        <g
+           style="fill:#008000;fill-opacity:1;stroke-width:1.06331897"
+           id="g25375">
+          <use
+             style="fill:#008000;stroke-width:1.06331897"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-a305dbee-1"
+             x="223.43201"
+             y="134.765"
+             id="use25377" />
+        </g>
+      </g>
+    </g>
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       sodipodi:type="arc"
+       style="opacity:0.6;color:#000000;fill:#ffffff;stroke:none;stroke-width:8.53874111;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path12305"
+       sodipodi:cx="383.85797"
+       sodipodi:cy="468.49402"
+       sodipodi:rx="395.9798"
+       sodipodi:ry="395.9798"
+       d="M 383.91572,864.47381 A 395.9798,395.9798 0 0 1 182.05919,809.19514 L 383.85797,468.49402 z"
+       transform="matrix(0.35133989,0,0,0.35133989,245.29023,95.898971)"
+       sodipodi:start="1.5706505"
+       sodipodi:end="2.1055381" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path24685"
+       d="m 380.15485,567.12202 -1e-5,-306.62241"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.99999998, 8.9999999;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       transform="translate(-66.93006,266.68031)"
+       id="g9946">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9942"
+         d="m 290.15535,253.3722 7.0766,12.25703"
+         style="color:#000000;fill:none;stroke:#333333;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         style="color:#000000;fill:none;stroke:#333333;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 297.23195,253.3722 -7.0766,12.25703"
+         id="path9944"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend)"
+       d="M 228.48402,523.20117 379.02963,262.44853"
+       id="path4504"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:open="true"
+       sodipodi:end="2.0772107"
+       sodipodi:start="1.5744517"
+       transform="matrix(-0.30426927,-0.17566994,-0.17566994,0.30426927,580.09746,185.42404)"
+       d="M 382.41052,864.47117 A 395.9798,395.9798 0 0 1 191.79004,814.77412"
+       sodipodi:ry="395.9798"
+       sodipodi:rx="395.9798"
+       sodipodi:cy="468.49402"
+       sodipodi:cx="383.85797"
+       id="path24730"
+       style="color:#000000;fill:none;stroke:#333333;stroke-width:8.53874111;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g4093"
+       style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1.20591533;stroke-opacity:1"
+       transform="matrix(5.3322668,0,0,5.3322668,-856.89858,-349.93006)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$\\varphi$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/physikalisches-pendel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs4095">
+        <g
+           id="g4097">
+          <symbol
+             id="textext-f3268422-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4100"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-f3268422-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4103"
+               d="M 1.6875,1.6875 C 1.65625,1.828125 1.640625,1.84375 1.640625,1.890625 c 0,0.21875 0.1875,0.28125 0.296875,0.28125 0.046875,0 0.265625,-0.03125 0.359375,-0.265625 C 2.328125,1.828125 2.375,1.5 2.65625,0.09375 c 0.078125,0 0.15625,0.015625 0.328125,0.015625 1.65625,0 3.1875,-1.5625 3.1875,-3.140625 0,-0.78125 -0.390625,-1.375 -1.140625,-1.375 -1.4375,0 -2.046875,1.9375 -2.640625,3.875 C 1.3125,-0.734375 0.75,-1.28125 0.75,-2 c 0,-0.28125 0.234375,-1.375 0.828125,-2.0625 0.09375,-0.09375 0.09375,-0.109375 0.09375,-0.140625 0,-0.03125 -0.03125,-0.09375 -0.125,-0.09375 -0.28125,0 -1.046875,1.453125 -1.046875,2.40625 0,0.9375 0.65625,1.65625 1.71875,1.90625 z m 1.390625,-2.15625 c -0.09375,0 -0.109375,0 -0.1875,-0.015625 -0.125,0 -0.125,0 -0.125,-0.03125 0,-0.015625 0.171875,-0.9375 0.1875,-1.078125 0.3125,-1.28125 1.09375,-2.234375 1.984375,-2.234375 0.6875,0 0.953125,0.53125 0.953125,1.015625 0,1.125 -1.28125,2.34375 -2.8125,2.34375 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-f3268422-2">
+        <g
+           id="g4106"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use4108"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-f3268422-1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

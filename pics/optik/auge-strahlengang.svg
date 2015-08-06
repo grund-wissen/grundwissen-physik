@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg7834"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="auge-strahlengang.svg">
+  <title
+     id="title8449">Strahlengang im Auge</title>
+  <defs
+     id="defs7836">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8544"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect8513"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17685-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect16173"
+       effect="spiro" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient14756"
+       xlink:href="#linearGradient35265-1"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient35265-1">
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1;"
+         offset="0"
+         id="stop35267-9" />
+      <stop
+         style="stop-color:#fffb36;stop-opacity:1;"
+         offset="1"
+         id="stop35269-6" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect34665-4"
+       is_visible="true" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient14756-5"
+       xlink:href="#linearGradient35265-1-8"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient35265-1-8">
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1;"
+         offset="0"
+         id="stop35267-9-1" />
+      <stop
+         style="stop-color:#fffb36;stop-opacity:1;"
+         offset="1"
+         id="stop35269-6-2" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect34665-4-3"
+       is_visible="true" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8474"
+       xlink:href="#linearGradient35265-1-8"
+       inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1-8"
+       id="radialGradient8509"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90520496,-0.42134947,1.0420856,2.2007235,2212.1667,207.26221)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4802"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10122"
+       effect="spiro" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.63698339"
+     inkscape:cx="617.50789"
+     inkscape:cy="590.75093"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="63.746069,774.94198"
+       id="guide8451" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="427.08498,615.44062"
+       id="guide8453" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="683.94522,629.65311"
+       id="guide8511" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7839">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Strahlengang im Auge</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2014-02-08</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Optik</rdf:li>
+            <rdf:li>Optische Geraete</rdf:li>
+            <rdf:li>Auge</rdf:li>
+            <rdf:li>Bildentstehung</rdf:li>
+            <rdf:li>Strahlengang</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect9244"
+       width="711.90198"
+       height="367.43869"
+       x="16.096252"
+       y="342.46173"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/auge-strahlengang.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g7155"
+       transform="matrix(2.2085461,0,0,2.269146,75.166989,39.63299)"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#808080;stroke-width:0.36478293"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/auge-strahlengang.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         transform="matrix(0.45459254,0,0,0.44136732,-43.640886,127.30982)"
+         d="M 430.76606,119.86219 C 473.56813,45.726829 568.36464,20.326177 642.5,63.128243 716.63535,105.93031 742.03601,200.72682 699.23394,274.86218 656.43187,348.99754 561.63536,374.39819 487.5,331.59612 463.93702,317.99203 444.37015,298.42516 430.76606,274.86218"
+         sodipodi:ry="155"
+         sodipodi:rx="155"
+         sodipodi:cy="197.36218"
+         sodipodi:cx="565"
+         id="path6059-9"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:#808080;stroke-width:1.99450159;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         sodipodi:start="3.6651914"
+         sodipodi:end="8.9011792"
+         sodipodi:open="true" />
+      <g
+         id="g6053"
+         transform="matrix(0.75924572,0,0,0.75924572,-64.432618,113.92362)"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:#808080;stroke-width:0.36478293">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6055-2"
+           d="m 294.73509,82.362185 c -19.38829,33.498715 -19.16505,66.838025 0,99.999995"
+           style="fill:#ececec;fill-opacity:1;stroke:#808080;stroke-width:0.5883466;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:#ececec;fill-opacity:1;stroke:#808080;stroke-width:0.5883466;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 295.02081,82.362185 c 19.38829,33.498715 19.16505,66.838025 0,99.999995"
+           id="path6057-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.87830781, 1.75661556;stroke-dashoffset:0"
+       d="m 29.354204,537.89355 685.386076,0"
+       id="path11090"
+       inkscape:path-effect="#path-effect16173"
+       inkscape:original-d="m 29.354204,537.89355 685.386076,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/auge-strahlengang.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       sodipodi:nodetypes="cc" />
+    <g
+       transform="matrix(0.24646081,0,0,0.24858167,1988.079,1190.8214)"
+       id="g35273-4"
+       style="stroke:#501616;stroke-width:4.04009438"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/auge-strahlengang.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         y="-2837.7759"
+         x="-7820.0957"
+         height="51.51778"
+         width="5.0507627"
+         id="rect34661-5"
+         style="fill:#666666;stroke:#501616;stroke-width:2.02004719;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         y="-2788.2378"
+         x="-7853.936"
+         height="161.6244"
+         width="72.73098"
+         id="rect34659-7"
+         style="fill:#782121;stroke:#501616;stroke-width:4.04009438;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         ry="7.0710678" />
+      <path
+         sodipodi:nodetypes="ccccssc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m -7808.3494,-2825.5617 c 0,0 -41.3481,-11.1222 -38.3402,-32.9764 1.5039,-10.927 0.7821,-23.2529 15.3676,-33.6492 14.5855,-10.3962 20.4245,-60.5575 13.8673,-76.6548 20.4237,-4.9901 17.6166,53.3136 23.8806,85.5259 6.264,32.2123 8.2369,37.2168 -1.5322,48.856 -19.3194,23.0178 34.3564,-27.1838 -13.2431,8.8985 z"
+         inkscape:path-effect="#path-effect34665-4-3"
+         id="path34663-5"
+         d="m -7808.3494,-2825.5617 c -9.5563,2.2682 -20.1341,-0.3051 -27.5805,-6.7098 -7.4464,-6.4046 -11.573,-16.4785 -10.7597,-26.2666 0.5154,-6.2033 2.8746,-12.1201 5.8106,-17.6089 2.936,-5.4888 6.4625,-10.6393 9.557,-16.0403 13.1628,-22.9738 18.147,-50.5255 13.8673,-76.6548 7.6633,28.5904 15.624,57.1011 23.8806,85.5259 2.3673,8.1499 4.7753,16.3874 5.1718,24.8649 0.3965,8.4775 -1.4135,17.3552 -6.704,23.9911 -3.3677,4.2242 -8.0595,7.3768 -13.2431,8.8985"
+         style="fill:url(#radialGradient8474);fill-opacity:1;stroke:#501616;stroke-width:2.02004719;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/auge-strahlengang.png"
+       style="opacity:0.75;stroke:#501616;stroke-width:5.70983315"
+       id="g8501"
+       transform="matrix(0.17438774,0,0,-0.17588839,2065.1873,76.41503)">
+      <rect
+         style="fill:#666666;stroke:#501616;stroke-width:2.92411041;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect8503"
+         width="5.0507627"
+         height="54.045292"
+         x="-6966.4717"
+         y="-2979.9041"
+         transform="matrix(1,0,0.30223482,0.9532335,0,0)" />
+      <rect
+         ry="7.1283116"
+         style="fill:#782121;stroke:#501616;stroke-width:5.73289871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect8505"
+         width="72.73098"
+         height="162.93283"
+         x="-7524.5513"
+         y="-2811.6052"
+         transform="matrix(1,0,0.1264769,0.99196955,0,0)" />
+      <path
+         style="fill:url(#radialGradient8509);fill-opacity:1;stroke:#501616;stroke-width:2.85491657;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -7859.8388,-2843.321 c -7.7322,6.0895 -18.4242,8.2219 -27.9009,5.5645 -9.4767,-2.6575 -17.501,-10.0383 -20.9396,-19.2603 -2.1712,-5.8231 -2.5674,-12.1682 -2.2659,-18.3756 0.3015,-6.2074 1.2751,-12.3627 1.7536,-18.5589 2.0392,-26.405 -5.2565,-53.4377 -20.3039,-75.2313 19.1402,22.6967 38.5676,45.1512 58.276,67.3564 5.6432,6.3581 11.3653,12.775 15.3631,20.2776 3.9977,7.5027 6.1614,16.3228 4.1912,24.5926 -1.2475,5.2362 -4.1433,10.067 -8.1736,13.635"
+         id="path8507"
+         inkscape:path-effect="#path-effect8513"
+         inkscape:original-d="m -7859.8388,-2843.321 c 0,0 -42.196,7.3541 -48.8405,-13.6958 -3.3224,-10.5248 -9.2589,-21.3781 -0.5123,-36.9345 8.7469,-15.5564 -7.4685,-63.4228 -20.3039,-75.2313 16.3486,-13.1228 38.7985,40.8369 58.276,67.3564 19.4775,26.5193 23.4087,30.218 19.5543,44.8702 -7.6218,28.976 19.4477,-39.0831 -8.1736,13.635 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccssc" />
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)"
+       d="M 427.08498,452.8217 680.40311,596.10703"
+       id="path10120"
+       inkscape:path-effect="#path-effect10122"
+       inkscape:original-d="M 427.08498,452.8217 680.40311,596.10703"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/auge-strahlengang.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/auge-strahlengang.png"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 427.50596,538.03669 252.52613,59.15718"
+       inkscape:path-effect="#path-effect8544"
+       id="path8542"
+       d="m 427.50596,538.03669 252.52613,59.15718"
+       style="fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-mid:none;marker-end:url(#Arrow2Send)"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#ff6600;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Send)"
+       d="m 61.38278,452.82167 365.7022,3e-5"
+       id="path7217"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/auge-strahlengang.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/optik/auge-strahlengang.png"
+       inkscape:connector-curvature="0"
+       id="path9242"
+       d="m 61.38278,452.82167 366.12318,85.21502"
+       style="fill:none;stroke:#ff6600;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Send)"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

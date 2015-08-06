@@ -3,15 +3,16 @@
 Einleitung
 ==========
 
-Die Teilbereiche der Physik
----------------------------
-
 .. only:: latex
 
     Früher hieß "Physik" die Lehre von der ganzen Natur (*physis* = griech. Natur).
     Heute geht es in der Physik um das Studium der unbelebten Natur ohne chemische
     Veränderungen -- Biologie und Chemie haben sich selbst zu großen
     Wissenschaftsbereichen entwickelt. 
+
+
+Die Teilbereiche der Physik
+---------------------------
 
 Die Physik kann ihrerseits in weitere Teilbereiche untergliedert werden. Hierbei
 unterscheidet man für gewöhnlich die "klassische" Physik (Mechanik, Akustik,

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg4009"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="atommodell-demokrit.svg"
+   inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/atomphysik/atommodell-dalton.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title29336">Atommodell nach Demokrit</title>
+  <defs
+     id="defs4011">
+    <filter
+       inkscape:collect="always"
+       id="filter4801"
+       x="-0.48"
+       width="1.96"
+       y="-0.48"
+       height="1.96">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.5714287"
+         id="feGaussianBlur4803" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="220.88493"
+     inkscape:cy="483.25564"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4014">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Atommodell nach Demokrit</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2012-04-19</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Atommodell</rdf:li>
+            <rdf:li>Demokrit</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:language>de-DE</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4809"
+       width="575.78693"
+       height="442.44681"
+       x="84.153778"
+       y="304.9577"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/atomphysik/atommodell-demokrit.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4017"
+       sodipodi:cx="342.85715"
+       sodipodi:cy="400.93362"
+       sodipodi:rx="131.42857"
+       sodipodi:ry="131.42857"
+       d="m 474.28572,400.93362 a 131.42857,131.42857 0 1 1 -262.85715,0 131.42857,131.42857 0 1 1 262.85715,0 z"
+       transform="translate(29.190094,125.24747)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/atomphysik/atommodell-demokrit.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4801)"
+       id="path4019"
+       sodipodi:cx="290"
+       sodipodi:cy="350.93362"
+       sodipodi:rx="11.428572"
+       sodipodi:ry="11.428572"
+       d="m 301.42857,350.93362 a 11.428572,11.428572 0 1 1 -22.85714,0 11.428572,11.428572 0 1 1 22.85714,0 z"
+       transform="translate(29.190094,125.24747)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/atomphysik/atommodell-demokrit.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

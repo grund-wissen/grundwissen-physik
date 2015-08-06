@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="feldlinien-elektrische-ladungen.svg">
+  <title
+     id="title3074">Elektrische Feldlinien einzelner Ladungen</title>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path5528"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5488"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4901-4"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3912-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4901-6"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3912-0" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3041"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3047"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3057"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3061"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3892"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3912" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4901"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5171"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6420"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6422"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6424"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6426"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6428"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6430"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6432"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6434"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6436"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6438"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6440"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6442"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6444"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6446"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6448"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6450"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6452"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6454"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6456"
+       is_visible="true" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3962-1"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend-60"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path3962" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.33427734"
+     inkscape:cx="760.7572"
+     inkscape:cy="646.77639"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-object-midpoints="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="195.75926,341.63376"
+       id="guide5478" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="348.09626,329.9532"
+       id="guide5480" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="195.77848,364.98973"
+       id="guide5953" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="187.23663,373.54565"
+       id="guide5955" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="175.542,376.66515"
+       id="guide5957" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="252.25306,430.20517"
+       id="guide5975" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="261.81913,283.45418"
+       id="guide5985" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-65.813614,-1579.5267"
+       id="guide6001" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="69.267299,416.03413"
+       id="guide6027" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="455.65524,416.00088"
+       id="guide6029" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="757.73528,465.30917"
+       id="guide6287" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="761.03692,349.26088"
+       id="guide6289" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="954.43474,415.84073"
+       id="guide6331" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="768.33858,241.30917"
+       id="guide6333" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="266.50119,618.69202"
+       id="guide6335" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="265.40365,87.938009"
+       id="guide6337" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="567.45288,415.50523"
+       id="guide6339" />
+    <sodipodi:guide
+       orientation="-0.5,0.8660254"
+       position="694.75624,364.98973"
+       id="guide6349" />
+    <sodipodi:guide
+       orientation="-0.8660254,0.5"
+       position="686.55934,373.46973"
+       id="guide6351" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="163.82702,333.11111"
+       id="guide6357" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Elektrische Feldlinien einzelner Ladungen</dc:title>
+        <dc:date>2015-02-05</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Berhnard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Berhnard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Berhnard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Elektrizität</rdf:li>
+            <rdf:li>Feldlinien</rdf:li>
+            <rdf:li>Elektrische Feldstärke</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6377"
+       width="979.7254"
+       height="604.28864"
+       x="36.31839"
+       y="378.17062"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 213.41029,680.31494 125.8423,0"
+       id="path3197"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g6005"
+       transform="translate(14.512308,-18.738069)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#000080;stroke-width:2.08308959;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path3173"
+         sodipodi:cx="253.83955"
+         sodipodi:cy="780.80676"
+         sodipodi:rx="24.326292"
+         sodipodi:ry="24.326292"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         transform="matrix(0.96011234,0,0,0.96011234,104.38177,-50.609202)" />
+      <text
+         transform="scale(-1.0001022,0.99989781)"
+         xml:space="preserve"
+         style="font-size:76.23279572px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:0.70745218;font-family:Sans"
+         x="-361.81461"
+         y="720.19989"
+         id="text17774"
+         sodipodi:linespacing="125%"><tspan
+           style="stroke-width:0.70745218"
+           sodipodi:role="line"
+           id="tspan17776"
+           x="-361.81461"
+           y="720.19989">-</tspan></text>
+    </g>
+    <g
+       id="g6010"
+       transform="translate(14.512308,-18.738069)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         transform="matrix(0.96011234,0,0,0.96011234,-68.172485,-50.609202)"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         sodipodi:ry="24.326292"
+         sodipodi:rx="24.326292"
+         sodipodi:cy="780.80676"
+         sodipodi:cx="253.83955"
+         id="path3171"
+         style="color:#000000;fill:none;stroke:#800000;stroke-width:2.08308959000000016;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         transform="scale(-1.0001023,0.99989772)"
+         xml:space="preserve"
+         style="font-size:38.12050246999999814px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1;font-family:Sans;stroke-opacity:1"
+         x="-191.49446"
+         y="711.0744"
+         id="text5882"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5884"
+           x="-191.49446"
+           y="711.0744"
+           style="fill:#800000;stroke:#800000;stroke-width:1;fill-opacity:1;stroke-opacity:1">+</tspan></text>
+    </g>
+    <path
+       inkscape:transform-center-x="-91.394588"
+       inkscape:connector-curvature="0"
+       id="path5961"
+       d="m 210.29079,668.63438 c 54.49131,-31.46057 77.61284,-31.46056 132.10415,1e-5"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 201.74894,660.07846 c 31.46057,-54.4913 117.7299,-54.49129 149.19048,1e-5"
+       id="path5963"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-103.10892"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-x="-119.12628"
+       inkscape:connector-curvature="0"
+       id="path5965"
+       d="m 190.05431,656.95896 c 0.0192,-125.8615 172.55428,-125.84229 172.55313,10e-6"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 470.16754,680.31494 -82.55426,10e-6"
+       id="path5967"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="57.423333"
+       inkscape:transform-center-y="0.03843289"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-x="-135.19058"
+       inkscape:connector-curvature="0"
+       id="path5969"
+       d="m 178.33933,700.513 c -188.763451,326.9479 384.74766,326.9479 195.98422,10e-6"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 210.27157,691.99035 c 54.49131,31.46057 77.61284,31.46056 132.10415,-1e-5"
+       id="path5995"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-91.38498"
+       inkscape:transform-center-y="-0.016641102"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="-103.09228"
+       inkscape:connector-curvature="0"
+       id="path5997"
+       d="m 201.71566,700.5322 c 31.46057,54.4913 117.7299,54.49129 149.19048,-10e-6"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:transform-center-y="-0.0096122175"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 190.05431,703.67091 c 0.0192,125.8615 172.55428,125.84229 172.55313,-1e-5"
+       id="path5999"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-119.10706"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 178.33933,660.07846 C -10.424122,333.13053 563.08699,333.13053 374.32355,660.07845"
+       id="path6003"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-135.19058"
+       inkscape:transform-center-y="0.0096037995"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="0.038432895"
+       inkscape:transform-center-x="57.673203"
+       inkscape:connector-curvature="0"
+       id="path6025"
+       d="m 166.69834,680.31494 -82.918733,10e-6"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g6033"
+       transform="translate(15.039134,-18.738069)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       style="stroke:#800080;stroke-opacity:1">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:transform-center-x="-146.88586"
+         inkscape:connector-curvature="0"
+         id="path5949"
+         d="M 455.12841,761.7396 C 427.00637,744.87819 398.08452,727.86338 368.34829,710.69517"
+         style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:transform-center-y="0.016641465"
+         style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 155.52059,710.72842 c -28.12204,16.86141 -57.043887,33.87622 -86.780117,51.04443"
+         id="path6031"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-146.89547"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,15.039134,1379.3628)"
+       id="g6037"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       style="stroke:#800080;stroke-opacity:1">
+      <path
+         style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="M 455.12841,761.7396 C 427.00637,744.87819 398.08452,727.86338 368.34829,710.69517"
+         id="path6039"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-146.88586"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:transform-center-x="-146.89547"
+         inkscape:connector-curvature="0"
+         id="path6041"
+         d="m 155.52059,710.72842 c -28.12204,16.86141 -57.043887,33.87622 -86.780117,51.04443"
+         style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:transform-center-y="0.016641465" />
+    </g>
+    <g
+       id="g6053"
+       transform="translate(513.73011,-18.738069)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#800000;stroke-width:2.08308959000000016;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path6055"
+         sodipodi:cx="253.83955"
+         sodipodi:cy="780.80676"
+         sodipodi:rx="24.326292"
+         sodipodi:ry="24.326292"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         transform="matrix(0.96011234,0,0,0.96011234,-68.172485,-50.609202)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6057"
+         y="711.0744"
+         x="-191.49446"
+         style="font-size:38.12050246999999814px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1;font-family:Sans;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(-1.0001023,0.99989772)"><tspan
+           style="fill:#800000;stroke:#800000;stroke-width:1;fill-opacity:1;stroke-opacity:1"
+           y="711.0744"
+           x="-191.49446"
+           id="tspan6059"
+           sodipodi:role="line">+</tspan></text>
+    </g>
+    <g
+       transform="translate(686.28436,-18.738069)"
+       id="g6069"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         transform="matrix(0.96011234,0,0,0.96011234,-68.172485,-50.609202)"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         sodipodi:ry="24.326292"
+         sodipodi:rx="24.326292"
+         sodipodi:cy="780.80676"
+         sodipodi:cx="253.83955"
+         id="path6071"
+         style="color:#000000;fill:none;stroke:#800000;stroke-width:2.08308959000000016;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         transform="scale(-1.0001023,0.99989772)"
+         xml:space="preserve"
+         style="font-size:38.12050246999999814px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1;font-family:Sans;stroke-opacity:1"
+         x="-191.49446"
+         y="711.0744"
+         id="text6073"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan6075"
+           x="-191.49446"
+           y="711.0744"
+           style="fill:#800000;stroke:#800000;stroke-width:1;stroke-opacity:1;fill-opacity:1">+</tspan></text>
+    </g>
+    <path
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 712.62809,680.31494 c 63.01541,0.0893 55.62057,-195.82118 55.6195,-266.06369"
+       id="path6089"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6285"
+       d="m 689.27211,656.95896 0,-242.02687"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 701.07165,660.15438 c 24.05521,-57.00127 18.87271,-189.15732 18.87271,-245.22229"
+       id="path6291"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6293"
+       d="m 709.26855,668.63438 c 48.53188,-28.01989 37.2901,-211.28219 38.01366,-253.70229"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 882.16693,668.82781 c 28.12204,-16.86141 57.04389,-33.87622 86.78012,-51.04443"
+       id="path6297"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="146.88586"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="-146.89547"
+       inkscape:connector-curvature="0"
+       id="path6299"
+       d="M 668.74531,669.16331 C 640.62327,652.3019 611.70142,635.28709 581.96519,618.11888"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:transform-center-y="0.016641465"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 665.91614,680.31494 -82.91873,10e-6"
+       id="path6301"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="57.673203"
+       inkscape:transform-center-y="0.038432895"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-x="-57.6732"
+       inkscape:connector-curvature="0"
+       id="path6303"
+       d="m 885.18234,680.31494 82.91873,10e-6"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(1.6595124,0.95811994,0.95811994,-1.6595124,-261.98024,1690.8492)"
+       id="g6305"
+       inkscape:transform-center-x="-201.95208"
+       inkscape:transform-center-y="-17.124735"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       style="stroke:#800080;stroke-opacity:1">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:transform-center-x="-146.89547"
+         inkscape:connector-curvature="0"
+         id="path6309"
+         d="m 155.52059,710.72842 c -28.12204,16.86141 -57.043887,33.87622 -86.780117,51.04443"
+         style="color:#000000;fill:none;stroke:#800080;stroke-width:1.04371059000000010;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:transform-center-y="0.016641465" />
+    </g>
+    <g
+       inkscape:transform-center-y="16.99527"
+       inkscape:transform-center-x="-200.36281"
+       id="g6311"
+       transform="matrix(1.6464627,-0.95058568,0.95058568,1.6464627,-252.47466,-356.0915)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       style="stroke:#800080;stroke-opacity:1">
+      <path
+         inkscape:transform-center-y="0.016641465"
+         style="color:#000000;fill:none;stroke:#800080;stroke-width:1.05198299999999989;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 145.86469,725.95716 c -28.12204,16.86141 -57.043885,33.87622 -86.780115,51.04443"
+         id="path6315"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-146.89547"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="146.88586"
+       inkscape:connector-curvature="0"
+       id="path6319"
+       d="m 881.89285,692.27342 c 28.12204,16.86141 57.04389,33.87622 86.78012,51.04443"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="0.016641465"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:1.99999988000000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 668.74531,691.99035 c -28.12204,16.86141 -57.04389,33.87622 -86.78012,51.04443"
+       id="path6321"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-146.89547"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       inkscape:transform-center-y="-17.092832"
+       inkscape:transform-center-x="201.56063"
+       id="g6327"
+       transform="matrix(-1.6562987,0.95626447,-0.95626447,-1.6562987,1811.2581,1688.8537)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       style="stroke:#800080;stroke-opacity:1">
+      <path
+         inkscape:transform-center-y="0.016641465"
+         style="color:#000000;fill:none;stroke:#800080;stroke-width:1.04573571999999992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 155.52059,710.72842 c -28.12204,16.86141 -57.043887,33.87622 -86.780117,51.04443"
+         id="path6329"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-146.89547"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 689.27211,703.67091 0,242.02687"
+       id="path6341"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6343"
+       d="m 861.82636,703.67091 0,242.02687"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(-1.6562987,-0.95626447,-0.95626447,1.6562987,1810.69,-327.94674)"
+       id="g6345"
+       inkscape:transform-center-x="201.56063"
+       inkscape:transform-center-y="17.092835"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       style="stroke:#800080;stroke-opacity:1">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:transform-center-x="-146.89547"
+         inkscape:connector-curvature="0"
+         id="path6347"
+         d="m 155.52059,710.72842 c -28.12204,16.86141 -57.043887,33.87622 -86.780117,51.04443"
+         style="color:#000000;fill:none;stroke:#800080;stroke-width:1.04573571999999992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:transform-center-y="0.016641465" />
+    </g>
+    <path
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 861.82636,656.95896 0,-242.02687"
+       id="path6355"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 841.8306,668.63438 C 793.29872,640.61449 804.5405,457.35219 803.81694,414.93209"
+       id="path6359"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6361"
+       d="M 850.10339,660.15438 C 826.04818,603.15311 831.23068,470.99706 831.23068,414.93209"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6363"
+       d="m 712.62809,680.31494 c 63.01541,-0.0893 55.62057,195.82118 55.6195,266.06369"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 838.47039,680.31494 c -63.01541,-0.0893 -55.62057,195.82118 -55.6195,266.06369"
+       id="path6365"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6367"
+       d="m 838.47039,680.31494 c -63.01541,0.0893 -55.62057,-195.82118 -55.6195,-266.06369"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 709.26855,692.16158 c 48.53188,28.01989 37.2901,211.28219 38.01366,253.70229"
+       id="path6369"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6371"
+       d="m 701.07165,700.35787 c 24.05521,57.00127 18.87271,189.15732 18.87271,245.22229"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 849.78484,700.35787 c -24.05521,57.00127 -18.87271,189.15732 -18.87271,245.22229"
+       id="path6373"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6375"
+       d="m 841.69144,692.16158 c -48.53188,28.01989 -37.2901,211.28219 -38.01366,253.70229"
+       style="color:#000000;fill:none;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

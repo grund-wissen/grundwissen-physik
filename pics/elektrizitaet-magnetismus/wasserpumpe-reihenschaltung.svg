@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg8517"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="wasserpumpe-reihenschaltung.svg">
+  <defs
+     id="defs8519">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect72765"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6234"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6226"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6230"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6442"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8460"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6234-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6226-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6230-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6442-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9080"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6234-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6226-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6230-5"
+       effect="spiro" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="34.598158"
+     inkscape:cy="801.75136"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata8522">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4623"
+       width="709.20721"
+       height="560.73206"
+       x="17.443634"
+       y="245.81506"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-reihenschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.85142946;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 114.40473,705.91974 0,65.4743 c 0,7.25455 7.7114,13.09486 17.29012,13.09486 l 564.47148,0 c 9.57872,0 17.29012,-5.84031 17.29012,-13.09486 l 0,-65.4743"
+       id="rect6537"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-reihenschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cssssc"
+       inkscape:connector-curvature="0"
+       id="path6540"
+       d="m 114.40474,725.88163 0,50.06858 c 0,5.5476 7.71139,10.01372 17.29011,10.01372 l 564.47147,0 c 9.57873,0 17.29012,-4.46612 17.29012,-10.01372 l 0,-50.06858"
+       style="fill:#5fbcd3;fill-opacity:1;stroke:#000000;stroke-width:3.85142946;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-reihenschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 271.90912,522.02939 c 0,0 8.24017,32.43628 11.03682,49.57285 2.89794,17.75715 5.34725,54.26339 5.34725,54.26339"
+       inkscape:path-effect="#path-effect72765"
+       id="path7644"
+       d="m 271.90912,522.02939 c 4.63768,16.2912 8.32495,32.8529 11.03682,49.57285 2.91181,17.95266 4.69888,36.08768 5.34725,54.26339"
+       style="fill:none;stroke:#5fbcd3;stroke-width:16.40250397;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-reihenschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g7646"
+       transform="matrix(-0.77028587,0,0,0.77028587,581.54051,277.01392)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-reihenschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         style="fill:#666666;fill-opacity:1;stroke:none"
+         id="rect7648"
+         width="30.862089"
+         height="190.03545"
+         x="493.47757"
+         y="468.29279" />
+      <g
+         id="g7650"
+         inkscape:label="Ebene 1"
+         transform="matrix(0.59665953,0,0,0.59665953,316.35662,70.50914)">
+        <g
+           transform="matrix(0.75704102,0,0,0.75704102,-738.22495,114.97498)"
+           id="g7652">
+          <g
+             id="g7654">
+            <path
+               id="path7656"
+               d="m 1432.2118,725.93876 -0.3531,-446.38869 -59.5318,0.29223 0,0 c 1.2998,148.32413 0.203,297.53698 -0.3609,446.4472"
+               style="fill:#999999;stroke:#1a1a1a;stroke-width:11.06939793;stroke-miterlimit:4;stroke-dasharray:none"
+               inkscape:connector-curvature="0" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path7658"
+               d="m 1362.2837,711.97662 c -0.6146,145.24967 2.2996,290.27138 4.3736,434.37338 l 0,7.8947 75.0035,0 0,-11.7925 m 0,-37.0461 -0.02,-396.88166"
+               style="fill:none;stroke:#000000;stroke-width:12.18195629;stroke-miterlimit:4;stroke-dasharray:none"
+               sodipodi:nodetypes="ccccccc" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path7660"
+               d="m 1199.784,341.36897 c -1.7206,0.0373 -4.1146,0.41162 -7.9675,1.66419 -17.4554,5.67454 -33.0963,16.53563 -44.1941,31.8422 -9.5427,13.16163 -12.6092,26.63218 -15.5635,38.48251 -2.9544,11.85033 -4.4829,21.77188 -4.4829,21.77188 l 46.9437,7.1127 c 0,0 1.2247,-7.97618 3.6112,-17.54887 2.3865,-9.57269 7.21,-21.05929 7.9202,-22.03879 3.9124,-5.39615 10.7487,-10.44613 17.5834,-13.30516 l 0.5625,-0.003 197.1266,-0.96996 -0.038,-47.49943 -196.0953,0.96489 c -0.6489,-0.0664 -0.6866,-0.10185 -1.5314,-0.14871 -1.1033,-0.0612 -2.1548,-0.36198 -3.8753,-0.32468 z m 1.0378,47.7445 1.0314,0.15117 c -0.8627,0.046 -1.0013,-0.1495 -1.0314,-0.15117 z"
+               style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#808080;fill-opacity:1;stroke:#1a1a1a;stroke-width:11.06939793;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+            <rect
+               rx="6.4689503"
+               transform="matrix(0.99998789,-0.00492045,-7.9104159e-4,-0.99999969,0,0)"
+               ry="6.4689503"
+               y="-715.21246"
+               x="1358.1161"
+               height="12.937901"
+               width="87.117981"
+               id="rect7662"
+               style="fill:#b3b3b3;stroke:#1a1a1a;stroke-width:8.85555649;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+            <path
+               id="path7664"
+               d="m 1355.2985,725.32295 93.8772,-0.46193 c 4.5356,-0.0223 8.1841,-3.69159 8.1805,-8.22707 0,-4.53549 -3.6579,-8.16884 -8.1935,-8.14652 l -93.8771,0.46193 c -4.5356,0.0223 -8.1841,3.69159 -8.1805,8.22708 0,4.53549 3.6579,8.16882 8.1934,8.14651 z"
+               style="fill:#b3b3b3;stroke:#1a1a1a;stroke-width:8.85551834;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+               inkscape:connector-curvature="0" />
+            <rect
+               rx="6.9999175"
+               transform="matrix(0.99998789,-0.00492045,7.9104159e-4,0.99999969,0,0)"
+               ry="6.9999175"
+               y="15.918616"
+               x="1394.6749"
+               height="279.9967"
+               width="14.000284"
+               id="rect7666"
+               style="fill:#808080;stroke:#1a1a1a;stroke-width:11.06944561;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+            <rect
+               rx="0"
+               transform="matrix(0.99998789,-0.00492045,-7.9104159e-4,-0.99999969,0,0)"
+               ry="80.824753"
+               y="-481.0719"
+               x="1356.6277"
+               height="226.53598"
+               width="90.094803"
+               id="rect7668"
+               style="fill:#b3b3b3;stroke:#1a1a1a;stroke-width:10.4750309;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+            <path
+               inkscape:transform-center-y="83.66222"
+               inkscape:transform-center-x="-26.587329"
+               inkscape:connector-curvature="0"
+               id="path7670"
+               d="m 1450.1389,-71.68392 c -5.2792,0.155155 -10.5629,0.937677 -15.7407,2.448642 -14.4613,4.220043 -26.9532,13.728512 -34.9095,26.530516 -7.9563,12.802015 -10.9262,28.177972 -8.2854,42.97758623 a 12.724974,12.777631 46.896633 1 0 25.0939,-4.60178833 c -1.5,-8.4066399 0.2961,-17.7310709 4.8155,-25.0029989 4.5194,-7.271938 12.1216,-13.025078 20.3361,-15.422188 5.9681,-1.741593 12.6243,-1.917793 18.9963,-0.578378 6.3937,1.343959 12.718,4.222236 18.3772,8.220366 11.2606,7.955357 20.1061,20.874236 28.8864,35.0774551 L 1679.1238,275.27662 c 3.4623,5.60068 7.3936,11.82763 12.8925,17.6373 5.4879,5.79804 11.9708,10.50016 19.0721,13.99124 14.3354,7.04746 28.0611,8.22279 37.9904,11.91022 12.3435,4.58404 23.068,14.43455 28.6592,26.3495 5.5912,11.91496 6.3448,26.51025 2.0011,38.97412 a 12.728695,12.781369 46.896642 0 0 24.0969,8.28189 c 6.6118,-18.97231 5.5154,-40.02732 -2.9954,-58.16404 -8.5108,-18.13673 -24.0015,-32.38483 -42.7907,-39.36255 -14.1912,-5.2702 -26.8983,-6.57681 -35.6464,-10.87751 -4.4405,-2.183 -8.4803,-5.1301 -11.8287,-8.6678 -3.3375,-3.52611 -6.4394,-8.2153 -9.7374,-13.55026 L 1529.4223,-15.51258 c -9.0469,-14.634464 -19.3868,-30.817123 -35.8164,-42.424345 -8.1859,-5.783143 -17.6,-10.205684 -27.8152,-12.352962 -5.1185,-1.075906 -10.3726,-1.549199 -15.6518,-1.394033 z"
+               style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:11.06939793;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#b3b3b3;stroke:#1a1a1a;stroke-width:6.4016614;stroke-linecap:square;stroke-miterlimit:4;stroke-dashoffset:0"
+               d="m 1375.0494,21.145169 53.2615,-0.262074 c 2.5733,-0.01266 4.6407,-5.336611 4.6355,-11.9371013 -0.01,-6.6004901 -2.0811,-11.9040622 -4.6543,-11.8914004 l -53.2616,0.2620739 c -2.5732,0.012662 -4.6407,5.3366209 -4.6354,11.937111 0.01,6.6004898 2.081,11.9040518 4.6543,11.8913908 z"
+               id="path7672" />
+            <path
+               sodipodi:nodetypes="ccscccc"
+               inkscape:connector-curvature="0"
+               id="path7674"
+               d="M 1410.4388,227.55207 1557.2379,62.809317 c 0,0 26.1137,-10.51607 35.6847,-1.995811 9.5711,8.52026 2.1308,35.659607 2.1308,35.659607 l -148.7393,294.203807 1.9402,-129.46106 z"
+               style="fill:#b3b3b3;stroke:#000000;stroke-width:11.06939793;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+            <path
+               sodipodi:nodetypes="sssssss"
+               inkscape:connector-curvature="0"
+               id="path7676"
+               d="m 1348.82,238.06541 c 33.6777,-11.0089 68.6052,-13.94136 106.0633,-0.52188 4.7995,1.71941 9.2179,4.06428 9.2219,9.16905 0,5.10478 -4.1024,9.23462 -9.2073,9.25974 l -106.0633,0.52189 c -5.1049,0.0251 -9.2178,-4.06428 -9.2219,-9.16906 0,-5.10478 4.3492,-7.67167 9.2073,-9.25974 z"
+               style="fill:#808080;stroke:#1a1a1a;stroke-width:11.06939793;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+            <path
+               transform="translate(-1,-0.5)"
+               d="m 1583.5,82.362183 c 0,4.970562 -4.0294,9 -9,9 -4.9706,0 -9,-4.029438 -9,-9 0,-4.970563 4.0294,-9 9,-9 4.9706,0 9,4.029437 9,9 z"
+               sodipodi:ry="9"
+               sodipodi:rx="9"
+               sodipodi:cy="82.362183"
+               sodipodi:cx="1574.5"
+               id="path7678"
+               style="fill:#000000;stroke:#000000;stroke-width:8.37998867;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+               sodipodi:type="arc" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4859-7"
+       transform="matrix(-1.2407183,0,0,0.18992064,949.45956,664.62994)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-reihenschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(-0.56646073,0,0,0.26396273,599.65816,521.99568)"
+       id="g5684-4"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-reihenschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="cssssc"
+         inkscape:connector-curvature="0"
+         id="path5686-4"
+         d="m 638.79383,376.05881 0,241.03608 c 0,15.77281 -15.15647,28.47079 -33.98311,28.47079 l -231.62144,0 c -18.82664,0 -33.98311,-12.69798 -33.98311,-28.47079 l 0,-241.03608"
+         style="fill:#5fbcd3;fill-opacity:1;stroke:#5fbcd3;stroke-width:7.66596746;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:9.99100399;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 642,285.07267 0,328.57902 c 0,19.22961 0.88754,34.71049 -18.34207,34.71049 l -266.58779,0 C 337.84053,648.36218 336,632.8813 336,613.65169 l 0,-328.57902"
+         id="path5688-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssssc" />
+    </g>
+    <g
+       id="g5705-0"
+       transform="matrix(-0.77267231,0,0,0.77267231,687.16702,431.79419)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-reihenschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         y="338.36218"
+         x="411"
+         height="120"
+         width="17"
+         id="rect5701-7"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect5703-8"
+         width="17"
+         height="120"
+         x="515.5"
+         y="338.36218" />
+    </g>
+    <g
+       id="g9999"
+       transform="matrix(-0.77028587,0,0,0.77028587,762.46533,184.19508)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-reihenschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 401.96945,318.08382 c 0,0 -10.69755,42.1094 -14.32821,64.35643 -3.76216,23.05268 -6.9419,70.44578 -6.9419,70.44578"
+         inkscape:path-effect="#path-effect6442-4"
+         id="path6440"
+         d="m 401.96945,318.08382 c -6.02072,21.14955 -10.80761,42.65026 -14.32821,64.35643 -3.78017,23.3065 -6.10017,46.84972 -6.9419,70.44578"
+         style="fill:none;stroke:#5fbcd3;stroke-width:21.29404831;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <g
+         id="g7027">
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none"
+           id="rect6965"
+           width="30.862089"
+           height="190.03545"
+           x="493.47757"
+           y="468.29279" />
+        <g
+           id="layer1-6"
+           inkscape:label="Ebene 1"
+           transform="matrix(0.59665953,0,0,0.59665953,316.35662,70.50914)">
+          <g
+             transform="matrix(0.75704102,0,0,0.75704102,-738.22495,114.97498)"
+             id="g4082">
+            <g
+               id="g4067">
+              <path
+                 id="path3985"
+                 d="m 1432.2118,725.93876 -0.3531,-446.38869 -59.5318,0.29223 0,0 c 1.2998,148.32413 0.203,297.53698 -0.3609,446.4472"
+                 style="fill:#999999;stroke:#1a1a1a;stroke-width:11.06939793;stroke-miterlimit:4;stroke-dasharray:none"
+                 inkscape:connector-curvature="0" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3083"
+                 d="m 1362.2837,711.97662 c -0.6146,145.24967 2.2996,290.27138 4.3736,434.37338 l 0,7.8947 75.0035,0 0,-11.7925 m 0,-37.0461 -0.02,-396.88166"
+                 style="fill:none;stroke:#000000;stroke-width:12.18195629;stroke-miterlimit:4;stroke-dasharray:none"
+                 sodipodi:nodetypes="ccccccc" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path3887"
+                 d="m 1199.784,341.36897 c -1.7206,0.0373 -4.1146,0.41162 -7.9675,1.66419 -17.4554,5.67454 -33.0963,16.53563 -44.1941,31.8422 -9.5427,13.16163 -12.6092,26.63218 -15.5635,38.48251 -2.9544,11.85033 -4.4829,21.77188 -4.4829,21.77188 l 46.9437,7.1127 c 0,0 1.2247,-7.97618 3.6112,-17.54887 2.3865,-9.57269 7.21,-21.05929 7.9202,-22.03879 3.9124,-5.39615 10.7487,-10.44613 17.5834,-13.30516 l 0.5625,-0.003 197.1266,-0.96996 -0.038,-47.49943 -196.0953,0.96489 c -0.6489,-0.0664 -0.6866,-0.10185 -1.5314,-0.14871 -1.1033,-0.0612 -2.1548,-0.36198 -3.8753,-0.32468 z m 1.0378,47.7445 1.0314,0.15117 c -0.8627,0.046 -1.0013,-0.1495 -1.0314,-0.15117 z"
+                 style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#808080;fill-opacity:1;stroke:#1a1a1a;stroke-width:11.06939793;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+              <rect
+                 rx="6.4689503"
+                 transform="matrix(0.99998789,-0.00492045,-7.9104159e-4,-0.99999969,0,0)"
+                 ry="6.4689503"
+                 y="-715.21246"
+                 x="1358.1161"
+                 height="12.937901"
+                 width="87.117981"
+                 id="rect3956"
+                 style="fill:#b3b3b3;stroke:#1a1a1a;stroke-width:8.85555649;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+              <path
+                 id="rect3958"
+                 d="m 1355.2985,725.32295 93.8772,-0.46193 c 4.5356,-0.0223 8.1841,-3.69159 8.1805,-8.22707 0,-4.53549 -3.6579,-8.16884 -8.1935,-8.14652 l -93.8771,0.46193 c -4.5356,0.0223 -8.1841,3.69159 -8.1805,8.22708 0,4.53549 3.6579,8.16882 8.1934,8.14651 z"
+                 style="fill:#b3b3b3;stroke:#1a1a1a;stroke-width:8.85551834;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+                 inkscape:connector-curvature="0" />
+              <rect
+                 rx="6.9999175"
+                 transform="matrix(0.99998789,-0.00492045,7.9104159e-4,0.99999969,0,0)"
+                 ry="6.9999175"
+                 y="15.918616"
+                 x="1394.6749"
+                 height="279.9967"
+                 width="14.000284"
+                 id="rect3970"
+                 style="fill:#808080;stroke:#1a1a1a;stroke-width:11.06944561;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+              <rect
+                 rx="0"
+                 transform="matrix(0.99998789,-0.00492045,-7.9104159e-4,-0.99999969,0,0)"
+                 ry="80.824753"
+                 y="-481.0719"
+                 x="1356.6277"
+                 height="226.53598"
+                 width="90.094803"
+                 id="rect3960"
+                 style="fill:#b3b3b3;stroke:#1a1a1a;stroke-width:10.4750309;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+              <path
+                 inkscape:transform-center-y="83.66222"
+                 inkscape:transform-center-x="-26.587329"
+                 inkscape:connector-curvature="0"
+                 id="path3987"
+                 d="m 1450.1389,-71.68392 c -5.2792,0.155155 -10.5629,0.937677 -15.7407,2.448642 -14.4613,4.220043 -26.9532,13.728512 -34.9095,26.530516 -7.9563,12.802015 -10.9262,28.177972 -8.2854,42.97758623 a 12.724974,12.777631 46.896633 1 0 25.0939,-4.60178833 c -1.5,-8.4066399 0.2961,-17.7310709 4.8155,-25.0029989 4.5194,-7.271938 12.1216,-13.025078 20.3361,-15.422188 5.9681,-1.741593 12.6243,-1.917793 18.9963,-0.578378 6.3937,1.343959 12.718,4.222236 18.3772,8.220366 11.2606,7.955357 20.1061,20.874236 28.8864,35.0774551 L 1679.1238,275.27662 c 3.4623,5.60068 7.3936,11.82763 12.8925,17.6373 5.4879,5.79804 11.9708,10.50016 19.0721,13.99124 14.3354,7.04746 28.0611,8.22279 37.9904,11.91022 12.3435,4.58404 23.068,14.43455 28.6592,26.3495 5.5912,11.91496 6.3448,26.51025 2.0011,38.97412 a 12.728695,12.781369 46.896642 0 0 24.0969,8.28189 c 6.6118,-18.97231 5.5154,-40.02732 -2.9954,-58.16404 -8.5108,-18.13673 -24.0015,-32.38483 -42.7907,-39.36255 -14.1912,-5.2702 -26.8983,-6.57681 -35.6464,-10.87751 -4.4405,-2.183 -8.4803,-5.1301 -11.8287,-8.6678 -3.3375,-3.52611 -6.4394,-8.2153 -9.7374,-13.55026 L 1529.4223,-15.51258 c -9.0469,-14.634464 -19.3868,-30.817123 -35.8164,-42.424345 -8.1859,-5.783143 -17.6,-10.205684 -27.8152,-12.352962 -5.1185,-1.075906 -10.3726,-1.549199 -15.6518,-1.394033 z"
+                 style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:11.06939793;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+              <path
+                 inkscape:connector-curvature="0"
+                 style="fill:#b3b3b3;stroke:#1a1a1a;stroke-width:6.4016614;stroke-linecap:square;stroke-miterlimit:4;stroke-dashoffset:0"
+                 d="m 1375.0494,21.145169 53.2615,-0.262074 c 2.5733,-0.01266 4.6407,-5.336611 4.6355,-11.9371013 -0.01,-6.6004901 -2.0811,-11.9040622 -4.6543,-11.8914004 l -53.2616,0.2620739 c -2.5732,0.012662 -4.6407,5.3366209 -4.6354,11.937111 0.01,6.6004898 2.081,11.9040518 4.6543,11.8913908 z"
+                 id="path3991" />
+              <path
+                 sodipodi:nodetypes="ccscccc"
+                 inkscape:connector-curvature="0"
+                 id="rect4021"
+                 d="M 1410.4388,227.55207 1557.2379,62.809317 c 0,0 26.1137,-10.51607 35.6847,-1.995811 9.5711,8.52026 2.1308,35.659607 2.1308,35.659607 l -148.7393,294.203807 1.9402,-129.46106 z"
+                 style="fill:#b3b3b3;stroke:#000000;stroke-width:11.06939793;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+              <path
+                 sodipodi:nodetypes="sssssss"
+                 inkscape:connector-curvature="0"
+                 id="rect3972"
+                 d="m 1348.82,238.06541 c 33.6777,-11.0089 68.6052,-13.94136 106.0633,-0.52188 4.7995,1.71941 9.2179,4.06428 9.2219,9.16905 0,5.10478 -4.1024,9.23462 -9.2073,9.25974 l -106.0633,0.52189 c -5.1049,0.0251 -9.2178,-4.06428 -9.2219,-9.16906 0,-5.10478 4.3492,-7.67167 9.2073,-9.25974 z"
+                 style="fill:#808080;stroke:#1a1a1a;stroke-width:11.06939793;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+              <path
+                 transform="translate(-1,-0.5)"
+                 d="m 1583.5,82.362183 c 0,4.970562 -4.0294,9 -9,9 -4.9706,0 -9,-4.029438 -9,-9 0,-4.970563 4.0294,-9 9,-9 4.9706,0 9,4.029437 9,9 z"
+                 sodipodi:ry="9"
+                 sodipodi:rx="9"
+                 sodipodi:cy="82.362183"
+                 sodipodi:cx="1574.5"
+                 id="path4041"
+                 style="fill:#000000;stroke:#000000;stroke-width:8.37998867;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+                 sodipodi:type="arc" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(-1.2407183,0,0,0.18992064,1146.6536,574.5214)"
+       id="g10054"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-reihenschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g10056"
+       transform="matrix(-0.56646073,0,0,0.26396273,796.85217,431.88714)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-reihenschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:#5fbcd3;fill-opacity:1;stroke:#5fbcd3;stroke-width:7.66596746;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         d="m 638.79383,376.05881 0,241.03608 c 0,15.77281 -15.15647,28.47079 -33.98311,28.47079 l -231.62144,0 c -18.82664,0 -33.98311,-12.69798 -33.98311,-28.47079 l 0,-241.03608"
+         id="path10058"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssssc" />
+      <path
+         sodipodi:nodetypes="cssssc"
+         inkscape:connector-curvature="0"
+         id="path10060"
+         d="m 642,285.07267 0,328.57902 c 0,19.22961 0.88754,34.71049 -18.34207,34.71049 l -266.58779,0 C 337.84053,648.36218 336,632.8813 336,613.65169 l 0,-328.57902"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:9.99100399;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="matrix(-0.77267231,0,0,0.77267231,884.36103,341.68565)"
+       id="g10062"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-reihenschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect10064"
+         d="m 411,338.36218 17,0 0,235.94329 -17,0 z"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect10066"
+         d="m 515.5,338.36218 17,0 0,235.94329 -17,0 z"
+         style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccsc"
+       inkscape:connector-curvature="0"
+       id="path10068"
+       d="m 571.6553,560.49078 54.648,36.49381 c 12.85899,8.73617 24.07141,20.5287 32.68786,34.37907 16.08581,25.85686 18.05156,65.79443 18.05156,97.45907"
+       style="fill:none;stroke:#5fbcd3;stroke-width:15.45344639;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-reihenschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       id="path10070"
+       d="m 606.49793,574.04881 18.91035,10.9179"
+       style="fill:none;stroke:#000000;stroke-width:3.8633616;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-reihenschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       id="path10072"
+       d="m 606.49793,595.20885 18.91035,10.91789"
+       style="fill:none;stroke:#000000;stroke-width:3.8633616;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/wasserpumpe-reihenschaltung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

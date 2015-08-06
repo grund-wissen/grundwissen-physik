@@ -124,6 +124,5 @@ ziehen.
 
 .. hint:: 
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zur Leistung>` und
-    :ref:`Übungsaufgaben <Aufgaben zur Leistung>`.
-
+    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu mechanischer
+    Leistung>` und :ref:`Übungsaufgaben <Aufgaben zu mechanischer Leistung>`.

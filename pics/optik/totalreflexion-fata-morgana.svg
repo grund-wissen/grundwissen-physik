@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="totalreflexion-fata-morgana.svg">
+  <title
+     id="title16632">Fata Morgana (Totalreflexion)</title>
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective2899" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective2886" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective5611" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective2992" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective2972" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective5569" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective2832" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective5530" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective2959" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective5507" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4975" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4944" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4815" />
+    <inkscape:perspective
+       id="perspective4743"
+       inkscape:persp3d-origin="100 : 66.666667 : 1"
+       inkscape:vp_z="200 : 100 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 100 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4744" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4744-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-98"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4744-51" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.93581163"
+     inkscape:cx="450.24758"
+     inkscape:cy="564.67675"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="372.04724,520.6756"
+       id="guide16674" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Fata Morgana (Totalreflexion)</dc:title>
+        <dc:date>2014-02-02</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Optik</rdf:li>
+            <rdf:li>Lichtbrechung</rdf:li>
+            <rdf:li>Totalreflexion</rdf:li>
+            <rdf:li>Fata Morgana</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ececec;fill-opacity:1;stroke:#e6e6e6;stroke-width:1.50000000000000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 372.0625,423.65625 C 181.02217,423.65625 26.125,431.83693 26.125,437 l 0,94.6875 103.90625,0 c 62.3908,1.65259 147.77032,2.65625 242.03125,2.65625 94.26093,0 179.6092,-1.00366 242,-2.65625 l 103.90625,0 0,-98.6875 c 0,-5.16307 -154.86592,-9.34375 -345.90625,-9.34375 z"
+       id="path16685"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccsccss" />
+    <path
+       sodipodi:nodetypes="ssccsccss"
+       inkscape:connector-curvature="0"
+       id="path16683"
+       d="M 372.0625,469.65625 C 181.02217,469.65625 26.125,477.83693 26.125,483 l 0,48.6875 103.90625,0 c 62.3908,1.65259 147.77032,2.65625 242.03125,2.65625 94.26093,0 179.6092,-1.00366 242,-2.65625 l 103.90625,0 0,-52.6875 c 0,-5.16307 -154.86592,-9.34375 -345.90625,-9.34375 z"
+       style="fill:#f9f9f9;fill-opacity:0.49803922000000000;stroke:#cccccc;stroke-width:1.50000000000000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       style="fill:#808080;stroke:#666666;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 372.0625,511.65625 C 181.02217,511.65625 26.125,519.83693 26.125,525 l 0,6.6875 103.90625,0 c 62.3908,1.65259 147.77032,2.65625 242.03125,2.65625 94.26093,0 179.6092,-1.00366 242,-2.65625 l 103.90625,0 0,-10.6875 c 0,-5.16307 -154.86592,-9.34375 -345.90625,-9.34375 z"
+       id="rect15448"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccsccss" />
+    <g
+       transform="matrix(0.10041294,0,0,0.10041294,52.495418,477.51238)"
+       id="g15454"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/ebener-spiegel-gegenstand-und-bild.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         transform="matrix(0.35792076,0,0,0.36001763,95.90064,199.21735)"
+         id="layer1-4"
+         inkscape:label="Layer 1">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           d="m 320.15748,29.967741 c -23.81068,0 -43.02535,19.428795 -43.02535,43.239411 0,23.810617 19.21467,43.025008 43.02535,43.025008 23.81076,6.9e-4 43.23941,-19.214391 43.23941,-43.025008 0,-23.810616 -19.42865,-43.239411 -43.23941,-43.239411 z m -67.21374,93.572899 c -22.3166,0 -40.02856,17.08068 -40.02856,38.10274 l 0,174.4557 c 0,26.66835 38.53017,26.66835 38.53017,0 l 0,-137.85238 13.69961,0 0,393.00771 c 0,12.02827 10.77783,22.04748 23.54622,22.04748 12.76824,0 22.47593,-10.02058 22.47593,-22.04748 l 0,-216.41077 17.98074,0 0,216.41077 c 0,12.0269 9.92175,22.04748 22.68999,22.04748 12.76832,0 23.54622,-10.01921 23.54622,-22.04748 l 0,-393.00771 13.48556,0 0,137.85238 c 0,26.66835 38.53016,26.66835 38.53016,0 l 0,-174.4557 c 0,-21.02206 -17.71196,-38.10274 -40.02856,-38.10274 z"
+           id="path7062"
+           sodipodi:nodetypes="sscssssssccsssccsssccsssss" />
+      </g>
+      <g
+         inkscape:label="Layer 1"
+         id="g15450"
+         transform="matrix(0.35792076,0,0,0.36001763,442.38296,199.21735)"
+         style="opacity:0.5;fill:#666666" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path59057"
+       d="M 381.12026,345.45446 51.506274,280.31334"
+       style="fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-ebene-platte.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-ebene-platte.png"
+       style="fill:#ff6600;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000006, 6.00000021;stroke-dashoffset:0;marker-end:none"
+       d="M 498.35083,253.81155 308.8914,215.78488"
+       id="path16444"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-ebene-platte.png"
+       style="fill:#ff6600;stroke:#ff6600;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="M 629.89944,271.34593 441.79919,307.93849"
+       id="path15626"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-ebene-platte.png"
+       y="606.91785"
+       x="26.138124"
+       height="93.111397"
+       width="691.81824"
+       id="rect16634"
+       style="color:#000000;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.50000015, 3.00000033;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       y="699.65198"
+       x="26.138123"
+       height="9.7264366"
+       width="691.81824"
+       id="rect16636"
+       style="fill:#ececec;fill-opacity:1;stroke:#cccccc;stroke-width:1.50000059999999991;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/ebener-spiegel-gegenstand-und-bild.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/ebener-spiegel-gegenstand-und-bild.png"
+       style="fill:#808080;stroke:#666666;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect16638"
+       width="691.81824"
+       height="6.6771264"
+       x="26.138123"
+       y="709.37781" />
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/ebener-spiegel-gegenstand-und-bild.png"
+       id="g16640"
+       transform="matrix(0.39215071,0,0,0.39215071,-20.764381,543.85717)">
+      <g
+         inkscape:label="Layer 1"
+         id="g16642"
+         transform="matrix(0.35792076,0,0,0.36001763,95.90064,199.21735)">
+        <path
+           sodipodi:nodetypes="sscssssssccsssccsssccsssss"
+           id="path16644"
+           d="m 320.15748,29.967741 c -23.81068,0 -43.02535,19.428795 -43.02535,43.239411 0,23.810617 19.21467,43.025008 43.02535,43.025008 23.81076,6.9e-4 43.23941,-19.214391 43.23941,-43.025008 0,-23.810616 -19.42865,-43.239411 -43.23941,-43.239411 z m -67.21374,93.572899 c -22.3166,0 -40.02856,17.08068 -40.02856,38.10274 l 0,174.4557 c 0,26.66835 38.53017,26.66835 38.53017,0 l 0,-137.85238 13.69961,0 0,393.00771 c 0,12.02827 10.77783,22.04748 23.54622,22.04748 12.76824,0 22.47593,-10.02058 22.47593,-22.04748 l 0,-216.41077 17.98074,0 0,216.41077 c 0,12.0269 9.92175,22.04748 22.68999,22.04748 12.76832,0 23.54622,-10.01921 23.54622,-22.04748 l 0,-393.00771 13.48556,0 0,137.85238 c 0,26.66835 38.53016,26.66835 38.53016,0 l 0,-174.4557 c 0,-21.02206 -17.71196,-38.10274 -40.02856,-38.10274 z"
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="opacity:0.5;fill:#666666"
+         transform="matrix(0.35792076,0,0,0.36001763,442.38296,199.21735)"
+         id="g16646"
+         inkscape:label="Layer 1" />
+    </g>
+    <g
+       transform="matrix(2.3059604,-0.57917518,0.57917518,2.3059604,218.52368,500.50675)"
+       id="g16648">
+      <g
+         transform="matrix(0.96923172,0.24615011,-0.24615011,0.96923172,286.85529,23.444093)"
+         id="g16650">
+        <path
+           sodipodi:nodetypes="ccccccccsccccccccccscscccsccccccccccsccsscc"
+           id="path16652"
+           d="m -120.48365,111.53462 c 0.22778,0.44007 0.20035,1.01899 0.40434,1.47265 l -6.83599,6.46643 -2.07662,0.001 7.71953,-7.2544 0.78874,-0.68568 z m 13.76044,8.56163 c 0.0235,0.0528 -0.86921,5.11525 -0.83061,5.03386 l -22.43046,0.0413 c -0.42429,7.8e-4 -0.84463,-0.15741 -1.28737,-0.15715 -0.44273,6.3e-4 -0.87457,0.0597 -1.2872,0.1586 l -10.95398,0.006 -0.002,-3.67968 14.91214,-1.4657 9.94603,-0.006 0,0 11.93345,0.0688 0,-3e-5 z m -24.54812,5.92558 c 2.48835,-10e-4 4.50662,2.02672 4.50801,4.51507 10e-4,2.48836 -2.01457,4.50661 -4.50293,4.50801 -2.48835,0.001 -4.5066,-2.01456 -4.50801,-4.50292 -0.001,-2.48836 2.01457,-4.51876 4.50293,-4.52016 z m 12.97013,0.39344 c -0.10816,1.72632 -0.38287,3.41578 -0.79866,5.04026 l -6.74,0.004 c 0.0514,-0.30285 0.0846,-0.61771 0.0845,-0.93514 -0.001,-1.63508 -0.71644,-3.09375 -1.84822,-4.10368 l 9.30239,-0.005 -10e-6,-4.4e-4 z m -16.63744,0.009 c -1.13063,1.0112 -1.84451,2.48283 -1.84358,4.11791 1e-5,0.18619 0.006,0.36499 0.0247,0.54647 l -4.37205,-0.30115 -2.12768,-4.35854 8.3187,-0.005 -1e-5,0 -8e-5,3.1e-4 z m 3.6687,2.07458 c -1.12199,9.8e-4 -2.02757,0.91936 -2.02692,2.04137 9.9e-4,1.12197 0.90723,2.02755 2.02921,2.02691 1.12199,-9.8e-4 2.02756,-0.90722 2.02694,-2.02922 -9.9e-4,-1.12199 -0.90724,-2.03969 -2.02923,-2.03906 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           d="m -101.99872,111.50983 7.673479,8.06485 -6.622789,0.003 -3.12108,-6.13996 -16.63209,4.5e-4 c 0.30408,-0.66029 -0.12234,-1.29674 0.23225,-1.92702 l 18.47023,-8.3e-4 0,-4.9e-4 z m 18.523035,8.57851 1.278234,4.80405 -0.06009,0.28902 -13.9079,0.005 c -0.41151,-0.0988 -0.834754,-0.15622 -1.276447,-0.15606 -0.439021,8e-5 -0.855633,0.15962 -1.276336,0.15702 l -10.615096,-0.0656 c -0.003,-0.16117 1.66813,-0.25125 1.66813,-0.41307 -5.5e-4,-1.57377 0.14916,-3.11181 0.40768,-4.61203 l 23.781873,-0.009 -8e-6,1e-5 -4e-5,6.4e-4 0,2e-5 z m -13.965833,5.94176 c 2.46734,-9.8e-4 4.468151,2.0104 4.469096,4.47772 9.39e-4,2.46733 -1.998361,4.46816 -4.465679,4.46909 -2.467339,9.9e-4 -4.468149,-1.99835 -4.469069,-4.46566 -9.9e-4,-2.46734 1.998335,-4.48022 4.465652,-4.48115 z m 14.907491,0.39168 -0.961673,4.32324 -8.561231,0.67759 c 0.05099,-0.30028 0.08407,-0.61247 0.08395,-0.92723 -6.15e-4,-1.62124 -0.709824,-3.06773 -1.831851,-4.0693 l 11.270807,-0.004 -2e-6,-3e-4 z m -18.555913,0.007 c -1.11898,1.00233 -1.82934,2.4634 -1.82873,4.08274 3.1e-4,0.31477 0.0454,0.61488 0.0967,0.91512 l -17.49695,0.0363 c -0.0366,0.07 0.12323,-5.06562 0.1979,-5.0655 l 19.03116,0.0323 -8e-5,-9.4e-4 0,-4e-5 z m 3.649367,2.0577 c -1.112502,3.9e-4 -2.010583,0.91122 -2.010158,2.02372 4.28e-4,1.11252 0.899192,2.01059 2.011687,2.01018 1.112511,-3.9e-4 2.010587,-0.8992 2.01016,-2.01171 -4.19e-4,-1.11249 -0.899197,-2.02261 -2.011689,-2.02219 z"
+           id="path16654"
+           sodipodi:nodetypes="ccccccccccsccscccscscccccccsccccccsccsscccsccc"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path16656"
+           d="m -112.34013,119.59736 -0.0474,-6.14143"
+           style="fill:none;stroke:#000000;stroke-width:0.91194117px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       style="opacity:0.5"
+       id="g16658"
+       transform="matrix(2.3059604,0.57917518,0.57917518,-2.3059604,218.52368,898.11226)">
+      <g
+         id="g16660"
+         transform="matrix(0.96923172,0.24615011,-0.24615011,0.96923172,286.85529,23.444093)">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           d="m -120.48365,111.53462 c 0.22778,0.44007 0.20035,1.01899 0.40434,1.47265 l -6.83599,6.46643 -2.07662,0.001 7.71953,-7.2544 0.78874,-0.68568 z m 13.76044,8.56163 c 0.0235,0.0528 -0.86921,5.11525 -0.83061,5.03386 l -22.43046,0.0413 c -0.42429,7.8e-4 -0.84463,-0.15741 -1.28737,-0.15715 -0.44273,6.3e-4 -0.87457,0.0597 -1.2872,0.1586 l -10.95398,0.006 -0.002,-3.67968 14.91214,-1.4657 9.94603,-0.006 0,0 11.93345,0.0688 0,-3e-5 z m -24.54812,5.92558 c 2.48835,-10e-4 4.50662,2.02672 4.50801,4.51507 10e-4,2.48836 -2.01457,4.50661 -4.50293,4.50801 -2.48835,0.001 -4.5066,-2.01456 -4.50801,-4.50292 -0.001,-2.48836 2.01457,-4.51876 4.50293,-4.52016 z m 12.97013,0.39344 c -0.10816,1.72632 -0.38287,3.41578 -0.79866,5.04026 l -6.74,0.004 c 0.0514,-0.30285 0.0846,-0.61771 0.0845,-0.93514 -0.001,-1.63508 -0.71644,-3.09375 -1.84822,-4.10368 l 9.30239,-0.005 -10e-6,-4.4e-4 z m -16.63744,0.009 c -1.13063,1.0112 -1.84451,2.48283 -1.84358,4.11791 1e-5,0.18619 0.006,0.36499 0.0247,0.54647 l -4.37205,-0.30115 -2.12768,-4.35854 8.3187,-0.005 -1e-5,0 -8e-5,3.1e-4 z m 3.6687,2.07458 c -1.12199,9.8e-4 -2.02757,0.91936 -2.02692,2.04137 9.9e-4,1.12197 0.90723,2.02755 2.02921,2.02691 1.12199,-9.8e-4 2.02756,-0.90722 2.02694,-2.02922 -9.9e-4,-1.12199 -0.90724,-2.03969 -2.02923,-2.03906 z"
+           id="path16662"
+           sodipodi:nodetypes="ccccccccsccccccccccscscccsccccccccccsccsscc" />
+        <path
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccsccscccscscccccccsccccccsccsscccsccc"
+           id="path16664"
+           d="m -101.99872,111.50983 7.673479,8.06485 -6.622789,0.003 -3.12108,-6.13996 -16.63209,4.5e-4 c 0.30408,-0.66029 -0.12234,-1.29674 0.23225,-1.92702 l 18.47023,-8.3e-4 0,-4.9e-4 z m 18.523035,8.57851 1.278234,4.80405 -0.06009,0.28902 -13.9079,0.005 c -0.41151,-0.0988 -0.834754,-0.15622 -1.276447,-0.15606 -0.439021,8e-5 -0.855633,0.15962 -1.276336,0.15702 l -10.615096,-0.0656 c -0.003,-0.16117 1.66813,-0.25125 1.66813,-0.41307 -5.5e-4,-1.57377 0.14916,-3.11181 0.40768,-4.61203 l 23.781873,-0.009 -8e-6,1e-5 -4e-5,6.4e-4 0,2e-5 z m -13.965833,5.94176 c 2.46734,-9.8e-4 4.468151,2.0104 4.469096,4.47772 9.39e-4,2.46733 -1.998361,4.46816 -4.465679,4.46909 -2.467339,9.9e-4 -4.468149,-1.99835 -4.469069,-4.46566 -9.9e-4,-2.46734 1.998335,-4.48022 4.465652,-4.48115 z m 14.907491,0.39168 -0.961673,4.32324 -8.561231,0.67759 c 0.05099,-0.30028 0.08407,-0.61247 0.08395,-0.92723 -6.15e-4,-1.62124 -0.709824,-3.06773 -1.831851,-4.0693 l 11.270807,-0.004 -2e-6,-3e-4 z m -18.555913,0.007 c -1.11898,1.00233 -1.82934,2.4634 -1.82873,4.08274 3.1e-4,0.31477 0.0454,0.61488 0.0967,0.91512 l -17.49695,0.0363 c -0.0366,0.07 0.12323,-5.06562 0.1979,-5.0655 l 19.03116,0.0323 -8e-5,-9.4e-4 0,-4e-5 z m 3.649367,2.0577 c -1.112502,3.9e-4 -2.010583,0.91122 -2.010158,2.02372 4.28e-4,1.11252 0.899192,2.01059 2.011687,2.01018 1.112511,-3.9e-4 2.010587,-0.8992 2.01016,-2.01171 -4.19e-4,-1.11249 -0.899197,-2.02261 -2.011689,-2.02219 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:0.91194117px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -112.34013,119.59736 -0.0474,-6.14143"
+           id="path16666" />
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-ebene-platte.png"
+       style="fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="M 404.74969,698.08097 75.135707,632.93985"
+       id="path16668"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path16670"
+       d="M 594.58694,736.55452 405.12751,698.52786"
+       style="fill:#ff6600;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000006, 6.00000021;stroke-dashoffset:0;marker-end:none"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-ebene-platte.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path16672"
+       d="M 596.66571,661.05094 408.56546,697.6435"
+       style="fill:#ff6600;stroke:#ff6600;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-ebene-platte.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

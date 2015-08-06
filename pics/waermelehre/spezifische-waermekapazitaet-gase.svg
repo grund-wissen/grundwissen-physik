@@ -1,0 +1,1846 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="spezifische-waermekapazitaet-gase.svg">
+  <title
+     id="title12128">Spezifische Wärmekapazität von Gasen</title>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path11649"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <filter
+       height="2.2"
+       y="-0.60000002"
+       width="2.2"
+       x="-0.60000002"
+       id="filter42355-9"
+       inkscape:collect="always"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur42357-9"
+         stdDeviation="5.7142859"
+         inkscape:collect="always" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1-8"
+       id="radialGradient5636"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <linearGradient
+       id="linearGradient35265-1-8">
+      <stop
+         id="stop35267-9-1"
+         offset="0"
+         style="stop-color:#ff9955;stop-opacity:1;" />
+      <stop
+         id="stop35269-6-2"
+         offset="1"
+         style="stop-color:#fffb36;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect34665-4-3"
+       effect="spiro" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1-8"
+       id="radialGradient11539"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1-8"
+       id="radialGradient11614"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1-8-9"
+       id="radialGradient5636-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <linearGradient
+       id="linearGradient35265-1-8-9">
+      <stop
+         id="stop35267-9-1-0"
+         offset="0"
+         style="stop-color:#ff9955;stop-opacity:1;" />
+      <stop
+         id="stop35269-6-2-6"
+         offset="1"
+         style="stop-color:#fffb36;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect34665-4-3-3"
+       effect="spiro" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1-8"
+       id="radialGradient13837"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.47273955"
+     inkscape:cx="280.73864"
+     inkscape:cy="409.39249"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="false"
+     inkscape:snap-page="true"
+     inkscape:snap-midpoints="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Spezifische Wärmekapazität von Gasen</dc:title>
+        <dc:date>2015-05-14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Wärmelehre</rdf:li>
+            <rdf:li>Spezifische Wärmekapazität</rdf:li>
+            <rdf:li>Gase</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect12076"
+       width="951.89838"
+       height="602.86896"
+       x="50.231903"
+       y="378.88046"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2993"
+       width="316.3927"
+       height="22.756783"
+       x="130.55499"
+       y="536.69458"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#333333;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 127.58278,448.92437 0,262.43238 322.33713,0 0,-262.43238"
+       id="path2985"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g4731"
+       transform="matrix(0.70527725,0,0,0.70527725,292.42894,431.21968)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g4733"
+         transform="translate(-22.214398,-72.914563)">
+        <path
+           sodipodi:open="true"
+           sodipodi:end="6.2831853"
+           sodipodi:start="1.5707963"
+           transform="matrix(1.0932987,0,0,1.0932987,-239.65187,450.11514)"
+           d="m 234.75,-345.03052 c -6.69645,0 -12.125,-5.42854 -12.125,-12.125 0,-6.69645 5.42855,-12.125 12.125,-12.125 6.69645,0 12.125,5.42855 12.125,12.125 0,0 0,0 0,0"
+           sodipodi:ry="12.125"
+           sodipodi:rx="12.125"
+           sodipodi:cy="-357.15552"
+           sodipodi:cx="234.75"
+           id="path4735"
+           style="fill:none;stroke:#333333;stroke-width:5.67152882;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           sodipodi:type="arc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4737"
+           d="m 17.000005,72.893721 0,18.44941"
+           style="fill:none;stroke:#333333;stroke-width:6.20067453;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#333333;stroke-width:2.25325656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4739"
+         width="84.278496"
+         height="136.36548"
+         x="-47.353645"
+         y="9.8829107" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.8;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter42355-9)"
+         id="path4741"
+         sodipodi:cx="290"
+         sodipodi:cy="350.93362"
+         sodipodi:rx="11.428572"
+         sodipodi:ry="11.428572"
+         d="m 301.42857,350.93362 c 0,6.31183 -5.11674,11.42858 -11.42857,11.42858 -6.31183,0 -11.42857,-5.11675 -11.42857,-11.42858 0,-6.31182 5.11674,-11.42857 11.42857,-11.42857 6.31183,0 11.42857,5.11675 11.42857,11.42857 z"
+         transform="matrix(0.43073655,0,0,0.43073655,-146.58574,-120.7123)" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9121"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,-5.9889387,407.47079)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,36.846483,420.16277)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9123"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9125"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,79.402023,385.21322)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,103.72831,409.53952)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9127"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9129"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,82.575013,443.38479)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,11.711474,475.11473)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9131"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9133"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,-33.239282,464.00925)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,-46.460092,418.52966)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9135"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9137"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,-34.296946,383.09789)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,20.172793,377.80956)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9139"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9141"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,2.1924913,434.39463)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,-61.267399,489.3932)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9143"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9145"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,-63.382729,452.37493)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,-63.545934,388.91504)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9147"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,42.383753,452.90377)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9149"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9151"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,51.902733,381.51139)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,116.42028,366.85301)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9153"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9155"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,134.40058,398.05412)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,-6.0044237,366.85301)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9157"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9159"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,204.20001,368.85301)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,159.04956,376.20153)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9161"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9163"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,191.58243,390.41129)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,220.74983,380.31488)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9165"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9167"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,227.10683,403.49922)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,192.33032,428.55327)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9169"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9171"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,168.3981,406.49075)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,137.73494,421.82233)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9173"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9175"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,152.69258,434.16239)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,181.85998,446.1285)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9177"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9179"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,218.13226,424.43992)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,208.03585,443.88485)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9181"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9183"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,226.7329,452.85943)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,117.91607,439.02361)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9185"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9187"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,71.921333,414.3435)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,67.434043,471.93042)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9189"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9191"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,43.875763,480.15712)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,-15.206913,487.63594)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9193"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9195"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,-17.450559,439.77149)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,70.206525,367.38184)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9197"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9199"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,27.422363,502.8443)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,-35.399723,508.8443)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9201"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9203"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,73.791043,498.37395)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,96.227503,475.18961)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9205"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9207"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,109.68938,506.8443)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,125.76884,469.20656)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9209"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9211"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,125.02096,490.14726)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,161.29324,460.23198)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9213"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9215"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,149.32713,481.92056)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,164.28477,499.86973)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9217"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9219"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,180.73817,484.53815)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,195.69581,462.84957)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9221"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9223"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,215.51468,474.81568)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,200.55704,492.76485)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9225"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9227"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,228.22867,499.12185)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,16.578073,403.7669)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9229"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path9231"
+       sodipodi:cx="291.9155"
+       sodipodi:cy="277.09387"
+       sodipodi:rx="4.7594919"
+       sodipodi:ry="5.2883244"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       transform="matrix(0.7171573,0,0,0.7171573,-61.575593,366.85301)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.7171573,0,0,0.7171573,-76.353242,424.06598)"
+       d="m 296.67499,277.09387 a 4.7594919,5.2883244 0 1 1 -9.51899,0 4.7594919,5.2883244 0 1 1 9.51899,0 z"
+       sodipodi:ry="5.2883244"
+       sodipodi:rx="4.7594919"
+       sodipodi:cy="277.09387"
+       sodipodi:cx="291.9155"
+       id="path9233"
+       style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g10026"
+       transform="translate(18.269041,-87.623139)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         y="611.22162"
+         x="99.518692"
+         height="10.584533"
+         width="31.66857"
+         id="rect10022"
+         style="color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         style="color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect10024"
+         width="36.470787"
+         height="11.546821"
+         x="-634.74933"
+         y="94.802963" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,559.2016,-87.623139)"
+       id="g10030"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         style="color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect10032"
+         width="31.66857"
+         height="10.584533"
+         x="99.518692"
+         y="611.22162" />
+      <rect
+         y="94.802963"
+         x="-634.74933"
+         height="11.546821"
+         width="36.470787"
+         id="rect10034"
+         style="color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="matrix(0,-1,1,0,0,0)" />
+    </g>
+    <g
+       id="g11543"
+       transform="translate(0,-118.7267)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect10036"
+         width="316.3927"
+         height="22.756783"
+         x="605.44647"
+         y="655.42126" />
+      <path
+         style="color:#000000;fill:none;stroke:#333333;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 602.47429,567.65107 0,262.43238 322.33713,0 0,-262.43238"
+         id="path10038"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <g
+         id="g10040"
+         transform="matrix(0.70527725,0,0,0.70527725,767.32046,549.94638)"
+         inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/versuche/mechanik/kraft-und-verformung.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <g
+           id="g10042"
+           transform="translate(-22.214398,-72.914563)">
+          <path
+             sodipodi:open="true"
+             sodipodi:end="6.2831853"
+             sodipodi:start="1.5707963"
+             transform="matrix(1.0932987,0,0,1.0932987,-239.65187,450.11514)"
+             d="m 234.75,-345.03052 c -6.69645,0 -12.125,-5.42854 -12.125,-12.125 0,-6.69645 5.42855,-12.125 12.125,-12.125 6.69645,0 12.125,5.42855 12.125,12.125 0,0 0,0 0,0"
+             sodipodi:ry="12.125"
+             sodipodi:rx="12.125"
+             sodipodi:cy="-357.15552"
+             sodipodi:cx="234.75"
+             id="path10044"
+             style="fill:none;stroke:#333333;stroke-width:5.67152882;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path10046"
+             d="m 17.000005,72.893721 0,18.44941"
+             style="fill:none;stroke:#333333;stroke-width:6.20067453;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <rect
+           style="fill:#b3b3b3;fill-opacity:1;stroke:#333333;stroke-width:2.25325656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect10048"
+           width="84.278496"
+           height="136.36548"
+           x="-47.353645"
+           y="9.8829107" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:0.8;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter42355-9)"
+           id="path10050"
+           sodipodi:cx="290"
+           sodipodi:cy="350.93362"
+           sodipodi:rx="11.428572"
+           sodipodi:ry="11.428572"
+           d="m 301.42857,350.93362 c 0,6.31183 -5.11674,11.42858 -11.42857,11.42858 -6.31183,0 -11.42857,-5.11675 -11.42857,-11.42858 0,-6.31182 5.11674,-11.42857 11.42857,-11.42857 6.31183,0 11.42857,5.11675 11.42857,11.42857 z"
+           transform="matrix(0.43073655,0,0,0.43073655,-146.58574,-120.7123)" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10052"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,468.90257,526.19749)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,511.73799,538.88947)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10054"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10056"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,554.29353,503.93992)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,578.61982,528.26622)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10058"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10060"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,557.46652,562.11149)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,486.60298,593.84143)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10062"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10064"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,441.65223,582.73595)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,428.43142,537.25636)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10066"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10068"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,440.59456,501.82459)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,495.0643,496.53626)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10070"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10072"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,477.084,553.12133)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,413.62411,608.1199)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10074"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10076"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,411.50878,571.10163)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,411.34557,507.64174)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10078"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,517.27526,571.63047)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10080"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10082"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,526.79424,500.23809)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,591.31179,485.57971)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10084"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10086"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,609.29209,516.78082)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,468.88708,485.57971)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10088"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10090"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,679.09152,487.57971)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,633.94107,494.92823)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10092"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10094"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,666.47394,509.13799)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,695.64134,499.04158)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10096"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10098"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,701.99834,522.22592)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,667.22183,547.27997)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10100"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10102"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,643.28961,525.21745)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,612.62645,540.54903)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10104"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10106"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,627.58409,552.88909)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,656.75149,564.8552)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10108"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10110"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,693.02377,543.16662)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,682.92736,562.61155)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10112"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10114"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,701.62441,571.58613)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,592.80758,557.75031)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10116"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10118"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,546.81284,533.0702)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,542.32555,590.65712)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10120"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10122"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,518.76727,598.88382)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,459.6846,606.36264)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10124"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10126"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,457.44095,558.49819)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,545.09803,486.10854)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10128"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10130"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,502.31387,621.571)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,439.49179,627.571)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10132"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10134"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,548.68255,617.10065)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,571.11901,593.91631)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10136"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10138"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,584.58089,625.571)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,600.66035,587.93326)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10140"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10142"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,599.91247,608.87396)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,636.18475,578.95868)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10144"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10146"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,624.21864,600.64726)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,639.17628,618.59643)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10148"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10150"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,655.62968,603.26485)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,670.58732,581.57627)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10152"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10154"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,690.40619,593.54238)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,675.44855,611.49155)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10156"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10158"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,703.12018,617.84855)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,491.46958,522.4936)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10160"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10162"
+         sodipodi:cx="291.9155"
+         sodipodi:cy="277.09387"
+         sodipodi:rx="4.7594919"
+         sodipodi:ry="5.2883244"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         transform="matrix(0.7171573,0,0,0.7171573,413.31592,485.57971)" />
+      <path
+         transform="matrix(0.7171573,0,0,0.7171573,398.53827,542.79268)"
+         d="m 296.67499,277.09387 c 0,2.92066 -2.1309,5.28833 -4.75949,5.28833 -2.6286,0 -4.7595,-2.36767 -4.7595,-5.28833 0,-2.92066 2.1309,-5.28832 4.7595,-5.28832 2.62859,0 4.75949,2.36766 4.75949,5.28832 z"
+         sodipodi:ry="5.2883244"
+         sodipodi:rx="4.7594919"
+         sodipodi:cy="277.09387"
+         sodipodi:cx="291.9155"
+         id="path10164"
+         style="color:#000000;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:2.78878856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       style="color:#000000;fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 646.31935,536.69456 0,-36.87334"
+       id="path11616"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path12062"
+       d="m 690.13564,536.69456 0,-36.87334"
+       style="color:#000000;fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 837.22112,536.69456 0,-36.87334"
+       id="path12064"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path12066"
+       d="m 881.03071,536.69456 0,-36.87334"
+       style="color:#000000;fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g13824"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+         style="stroke:#501616;stroke-width:3.88186526"
+         id="g11535"
+         transform="matrix(0.76952051,0,0,0.77614246,6304.5326,3031.7509)">
+        <path
+           style="fill:url(#radialGradient11539);fill-opacity:1;stroke:#501616;stroke-width:1.94093263;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -7808.3494,-2825.5617 c -9.5563,2.2682 -20.1341,-0.3051 -27.5805,-6.7098 -7.4464,-6.4046 -11.573,-16.4785 -10.7597,-26.2666 0.5154,-6.2033 2.8746,-12.1201 5.8106,-17.6089 2.936,-5.4888 6.4625,-10.6393 9.557,-16.0403 13.1628,-22.9738 18.147,-50.5255 13.8673,-76.6548 7.6633,28.5904 15.624,57.1011 23.8806,85.5259 2.3673,8.1499 4.7753,16.3874 5.1718,24.8649 0.3965,8.4775 -1.4135,17.3552 -6.704,23.9911 -3.3677,4.2242 -8.0595,7.3768 -13.2431,8.8985"
+           id="path11537"
+           inkscape:path-effect="#path-effect34665-4-3"
+           inkscape:original-d="m -7808.3494,-2825.5617 c 0,0 -41.3481,-11.1222 -38.3402,-32.9764 1.5039,-10.927 0.7821,-23.2529 15.3676,-33.6492 14.5855,-10.3962 20.4245,-60.5575 13.8673,-76.6548 20.4237,-4.9901 17.6166,53.3136 23.8806,85.5259 6.264,32.2123 8.2369,37.2168 -1.5322,48.856 -19.3194,23.0178 34.3564,-27.1838 -13.2431,8.8985 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccssc" />
+      </g>
+      <rect
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+         y="835.4743"
+         x="274.55478"
+         height="52.763386"
+         width="30.174194"
+         id="rect12078"
+         style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       id="g13829"
+       transform="translate(474.89097,0)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         transform="matrix(0.76952051,0,0,0.77614246,6304.5326,3031.7509)"
+         id="g13831"
+         style="stroke:#501616;stroke-width:3.88186526"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <path
+           sodipodi:nodetypes="ccccssc"
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m -7808.3494,-2825.5617 c 0,0 -41.3481,-11.1222 -38.3402,-32.9764 1.5039,-10.927 0.7821,-23.2529 15.3676,-33.6492 14.5855,-10.3962 20.4245,-60.5575 13.8673,-76.6548 20.4237,-4.9901 17.6166,53.3136 23.8806,85.5259 6.264,32.2123 8.2369,37.2168 -1.5322,48.856 -19.3194,23.0178 34.3564,-27.1838 -13.2431,8.8985 z"
+           inkscape:path-effect="#path-effect34665-4-3"
+           id="path13833"
+           d="m -7808.3494,-2825.5617 c -9.5563,2.2682 -20.1341,-0.3051 -27.5805,-6.7098 -7.4464,-6.4046 -11.573,-16.4785 -10.7597,-26.2666 0.5154,-6.2033 2.8746,-12.1201 5.8106,-17.6089 2.936,-5.4888 6.4625,-10.6393 9.557,-16.0403 13.1628,-22.9738 18.147,-50.5255 13.8673,-76.6548 7.6633,28.5904 15.624,57.1011 23.8806,85.5259 2.3673,8.1499 4.7753,16.3874 5.1718,24.8649 0.3965,8.4775 -1.4135,17.3552 -6.704,23.9911 -3.3677,4.2242 -8.0595,7.3768 -13.2431,8.8985"
+           style="fill:url(#radialGradient13837);fill-opacity:1;stroke:#501616;stroke-width:1.94093263;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <rect
+         style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect13835"
+         width="30.174194"
+         height="52.763386"
+         x="274.55478"
+         y="835.4743"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1"
+       x="144.73572"
+       y="949.86432"
+       id="text13839"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan13841"
+         x="144.73572"
+         y="949.86432">Volumen konstant</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text13843"
+       y="949.86432"
+       x="640.68195"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/waermelehre/spezifische-waermekapazitaet-gase.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         y="949.86432"
+         x="640.68195"
+         id="tspan13845"
+         sodipodi:role="line">Druck konstant</tspan></text>
+  </g>
+</svg>

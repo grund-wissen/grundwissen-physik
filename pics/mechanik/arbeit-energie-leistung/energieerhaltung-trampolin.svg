@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg14794"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="energieerhaltung-trampolin.svg"
+   inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/trampolin.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title8007">Energie-Erhaltung am Trampolin</title>
+  <defs
+     id="defs14796">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect123782"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect123780"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect123778"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect123776"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect123774"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect123772"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect69305"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect123769"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect68259-0-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect123766"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect123764"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect123762"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect123760"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect69237"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect69215"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect69338"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect69341"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect123754"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect123752"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect68758-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect69241"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect69239"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect68243-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect68219-2"
+       is_visible="true" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 220.94051 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="364.04999 : 220.94051 : 1"
+       inkscape:persp3d-origin="182.02499 : 147.29367 : 1"
+       id="perspective60" />
+    <marker
+       id="ArrowEnd-8"
+       markerHeight="3"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       orient="auto"
+       refX="0"
+       refY="5"
+       viewBox="0 0 10 10">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         id="path1658" />
+    </marker>
+    <marker
+       id="ArrowStart-1"
+       markerHeight="3"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       orient="auto"
+       refX="10"
+       refY="5"
+       viewBox="0 0 10 10">
+      <path
+         d="M 10 0 L 0 5 L 10 10 z"
+         id="path1661" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect68977"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect68975"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect68227"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect68243"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect68219"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect68259-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect68648-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect68651-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect68883"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect68881"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect68879"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect68877"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect68783"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect68797"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect68801"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect68804"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect68758"
+       is_visible="true" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 231.81 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="354.522 : 231.81 : 1"
+       inkscape:persp3d-origin="177.261 : 154.54 : 1"
+       id="perspective27" />
+    <marker
+       id="ArrowEnd-7"
+       markerHeight="3"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       orient="auto"
+       refX="0"
+       refY="5"
+       viewBox="0 0 10 10">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         id="path1777" />
+    </marker>
+    <marker
+       id="ArrowStart-4"
+       markerHeight="3"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       orient="auto"
+       refX="10"
+       refY="5"
+       viewBox="0 0 10 10">
+      <path
+         d="M 10 0 L 0 5 L 10 10 z"
+         id="path1780" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 306.58551 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="612.164 : 306.58551 : 1"
+       inkscape:persp3d-origin="306.082 : 204.39034 : 1"
+       id="perspective62" />
+    <marker
+       id="ArrowEnd-6"
+       markerHeight="3"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       orient="auto"
+       refX="0"
+       refY="5"
+       viewBox="0 0 10 10">
+      <path
+         d="M 0,0 L 10,5 L 0,10 L 0,0 z"
+         id="path2681" />
+    </marker>
+    <marker
+       id="ArrowStart-9"
+       markerHeight="3"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       orient="auto"
+       refX="10"
+       refY="5"
+       viewBox="0 0 10 10">
+      <path
+         d="M 10,0 L 0,5 L 10,10 L 10,0 z"
+         id="path2684" />
+    </marker>
+    <marker
+       id="ArrowEnd"
+       markerHeight="3"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       orient="auto"
+       refX="0"
+       refY="5"
+       viewBox="0 0 10 10">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         id="path2935" />
+    </marker>
+    <marker
+       id="ArrowStart"
+       markerHeight="3"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       orient="auto"
+       refX="10"
+       refY="5"
+       viewBox="0 0 10 10">
+      <path
+         d="M 10 0 L 0 5 L 10 10 z"
+         id="path2938" />
+    </marker>
+    <linearGradient
+       id="linearGradient5630">
+      <stop
+         id="stop5632"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#cbcbc7;stop-opacity:1;"
+         offset="0.5"
+         id="stop5634" />
+      <stop
+         id="stop5636"
+         offset="0.62443238"
+         style="stop-color:#b1b1ab;stop-opacity:1;" />
+      <stop
+         id="stop5638"
+         offset="1"
+         style="stop-color:#979890;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5097">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="0"
+         id="stop5099" />
+      <stop
+         id="stop5105"
+         offset="0.84872168"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop5101" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect69215-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect69237-9"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="594.41862"
+     inkscape:cy="827.95565"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="364.28571,731.42857"
+       id="guide23460" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="679.31861,473.4553"
+       id="guide7073" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid7075" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="368.50394,368.50394"
+       id="guide7077" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="364.96063,364.96063"
+       id="guide7079" />
+    <sodipodi:guide
+       orientation="0.8843524,0.46681992"
+       position="733.50396,273.45531"
+       id="guide7085" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="141.29256,389.45854"
+       id="guide3371" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata14799">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Energie-Erhaltung am Trampolin</dc:title>
+        <dc:date>2012-10-23</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de_DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Arbeit und Energie</rdf:li>
+            <rdf:li>Energieerhaltung</rdf:li>
+            <rdf:li>Energieumwandlung</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7955"
+       width="721.2489"
+       height="587.90881"
+       x="11.422791"
+       y="232.22668"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/energieerhaltung-trampolin.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g3364"
+       transform="translate(1.2109375e-6,10.217928)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/energieerhaltung-trampolin.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect7070"
+         d="m 645.55433,590.59401 54.18537,103.74757 0,94.82385 -54.18537,-100 z"
+         style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 98.540153,590.59401 -54.185373,103.74757 0,94.82385 54.185373,-100 z"
+         id="path7903"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect6987"
+         d="m 98.540143,589.16544 c 1.29013,0.3005 547.014207,0 547.014207,0 l 54.18538,105.17614 -655.38495,0 z"
+         style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.00000012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path7083"
+         d="M 645.55435,589.16544 699.7397,694.34158"
+         style="fill:none;stroke:#4d4d4d;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#4d4d4d;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 98.540133,589.16544 44.35478,694.34158"
+         id="path7905"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g23421"
+       transform="matrix(0.97499023,0,0,0.97499023,-11.771969,204.31191)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/energieerhaltung-trampolin.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         ry="7.9504261"
+         y="579.69348"
+         x="-420.70352"
+         height="15.900852"
+         width="61.6931"
+         id="rect23375-2"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.6609683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         transform="matrix(-0.00652661,-0.9999787,0.99998346,-0.00575068,0,0)"
+         rx="9.8944407" />
+      <g
+         transform="translate(11.111689,18.182746)"
+         id="g22526">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.15390778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect22095"
+           width="22.023809"
+           height="66.071426"
+           x="608.86414"
+           y="58.946693"
+           ry="11.011905"
+           transform="matrix(0.93946164,0.34265409,-0.34265409,0.93946164,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.15390778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect22097"
+           width="56.428574"
+           height="15"
+           x="622.51526"
+           y="3.2907209"
+           ry="7.5"
+           transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:#000000;stroke-width:1.22167051;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path22101"
+           sodipodi:cx="219.20311"
+           sodipodi:cy="156.86195"
+           sodipodi:rx="6.0609155"
+           sodipodi:ry="6.0609155"
+           d="m 225.26403,156.86195 c 0,3.34735 -2.71357,6.06092 -6.06092,6.06092 -3.34735,0 -6.06092,-2.71357 -6.06092,-6.06092 0,-3.34735 2.71357,-6.06091 6.06092,-6.06091 3.34735,0 6.06092,2.71356 6.06092,6.06091 z"
+           transform="matrix(1.9719319,-0.53617956,0.53617956,1.9719319,54.293245,59.70674)" />
+        <rect
+           transform="matrix(0,1,-1,0,0,0)"
+           ry="6.1607151"
+           y="-565.96552"
+           x="266.49573"
+           height="47.410717"
+           width="12.32143"
+           id="rect22103"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.51282567;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.51282561;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect22105"
+           width="10.803572"
+           height="43.214283"
+           x="518.99597"
+           y="267.4678"
+           ry="5.4017859" />
+      </g>
+    </g>
+    <g
+       id="g22510"
+       transform="matrix(0.97499023,0,0,0.97499023,-13.612918,240.41483)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/energieerhaltung-trampolin.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         transform="matrix(0.99309098,0.1173469,-0.1173469,0.99309098,0,0)"
+         ry="11.011905"
+         y="16.816771"
+         x="352.35019"
+         height="66.071426"
+         width="22.023809"
+         id="rect22469"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.15390778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         ry="7.9504261"
+         y="229.9389"
+         x="287.45068"
+         height="15.900852"
+         width="61.6931"
+         id="rect22497"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.6609683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         transform="matrix(0.96421604,-0.26511775,0.26436949,0.96442147,0,0)"
+         rx="9.8944407" />
+      <rect
+         transform="matrix(0.92293811,0.38494838,-0.38494838,0.92293811,0,0)"
+         ry="7.5"
+         y="-32.992256"
+         x="364.32666"
+         height="15"
+         width="56.428574"
+         id="rect22471"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.15390778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:transform-center-x="-23.656091"
+         inkscape:transform-center-y="9.7982568" />
+      <path
+         transform="matrix(1.8870059,-0.78435515,0.78435515,1.8870059,-176.64624,-83.53229)"
+         d="m 225.26403,156.86195 c 0,3.34735 -2.71357,6.06092 -6.06092,6.06092 -3.34735,0 -6.06092,-2.71357 -6.06092,-6.06092 0,-3.34735 2.71357,-6.06091 6.06092,-6.06091 3.34735,0 6.06092,2.71356 6.06092,6.06091 z"
+         sodipodi:ry="6.0609155"
+         sodipodi:rx="6.0609155"
+         sodipodi:cy="156.86195"
+         sodipodi:cx="219.20311"
+         id="path22475"
+         style="fill:#000000;stroke:#000000;stroke-width:1.22167051;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <g
+         id="g22477"
+         inkscape:transform-center-x="-15.448621"
+         inkscape:transform-center-y="-23.944392"
+         transform="matrix(-0.89837653,0.4392261,-0.4392261,-0.89837653,710.34862,129.40133)">
+        <rect
+           transform="matrix(0,1,-1,0,0,0)"
+           ry="6.1607151"
+           y="-294.19034"
+           x="207.3622"
+           height="47.410717"
+           width="12.32143"
+           id="rect22479"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.51282567;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect
+           transform="matrix(0.99442292,0.10546586,-0.10546586,0.99442292,0,0)"
+           inkscape:transform-center-y="-17.031115"
+           inkscape:transform-center-x="1.4260526"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.51282561;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect22481"
+           width="10.803572"
+           height="43.214283"
+           x="268.26062"
+           y="180.30879"
+           ry="5.4017859" />
+      </g>
+    </g>
+    <g
+       id="g22501"
+       transform="matrix(0.97499023,0,0,0.97499023,-7.5292968,209.88328)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/energieerhaltung-trampolin.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.15390778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect22059"
+         width="22.023809"
+         height="66.071426"
+         x="247.74541"
+         y="120.48186"
+         ry="11.011905"
+         transform="matrix(0.98503642,0.1723463,-0.1723463,0.98503642,0,0)" />
+      <rect
+         rx="9.8944407"
+         transform="matrix(0.70247671,-0.71170673,0.71116143,0.70302875,0,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.6609683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect22489"
+         width="61.6931"
+         height="15.900852"
+         x="-41.811165"
+         y="346.02884"
+         ry="7.9504261" />
+      <rect
+         inkscape:transform-center-y="12.747706"
+         inkscape:transform-center-x="-22.206038"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.15390778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect22061"
+         width="56.428574"
+         height="15"
+         x="293.95685"
+         y="71.03595"
+         ry="7.5"
+         transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;stroke:#000000;stroke-width:1.22167051;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path22065"
+         sodipodi:cx="219.20311"
+         sodipodi:cy="156.86195"
+         sodipodi:rx="6.0609155"
+         sodipodi:ry="6.0609155"
+         d="m 225.26403,156.86195 c 0,3.34735 -2.71357,6.06092 -6.06092,6.06092 -3.34735,0 -6.06092,-2.71357 -6.06092,-6.06092 0,-3.34735 2.71357,-6.06091 6.06092,-6.06091 3.34735,0 6.06092,2.71356 6.06092,6.06091 z"
+         transform="matrix(1.9719319,-0.53617956,0.53617956,1.9719319,-268.11111,-43.293981)" />
+      <g
+         transform="matrix(-0.36336998,-0.93164492,0.93164492,-0.36336998,141.24487,512.68331)"
+         inkscape:transform-center-y="16.116329"
+         inkscape:transform-center-x="-22.898482"
+         id="g22329">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.51282567;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect22067"
+           width="12.32143"
+           height="47.410717"
+           x="203.66216"
+           y="-292.56668"
+           ry="6.1607151"
+           transform="matrix(0,1,-1,0,0,0)" />
+        <rect
+           ry="5.4017859"
+           y="206.89017"
+           x="245.48393"
+           height="43.214283"
+           width="10.803572"
+           id="rect22069"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.51282561;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+    </g>
+    <g
+       id="g23471"
+       transform="matrix(0.97499023,0,0,0.97499023,-15.040012,226.62639)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/energieerhaltung-trampolin.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         transform="translate(6.2730232,9.824685)"
+         id="g22519" />
+      <g
+         id="g23640">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           transform="translate(248.28101,-28.561111)"
+           id="use22333"
+           xlink:href="#rect22059"
+           y="0"
+           x="0" />
+        <rect
+           rx="9.8944407"
+           transform="matrix(0.49433714,-0.86927026,0.86888643,0.49501149,6.2730232,9.824685)"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.6609683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect22499"
+           width="61.6931"
+           height="15.900852"
+           x="17.042217"
+           y="535.08844"
+           ry="7.9504261" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           transform="translate(253.281,-23.203968)"
+           id="use22335"
+           xlink:href="#rect22061"
+           y="0"
+           x="0" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           transform="translate(248.28101,-28.561111)"
+           id="use22339"
+           xlink:href="#path22065"
+           y="0"
+           x="0" />
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.51282567;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 485.31929,135.69197 c -2.40062,-0.0544 -4.70248,1.32062 -5.75,3.65625 l -14.375,32.03125 c -1.16624,2.60033 -0.38064,5.53052 1.71875,7.25 0.0139,0.0187 0.0171,0.044 0.0312,0.0625 0.52873,0.69177 1.24046,1.27355 2.09375,1.65625 l 29.5625,13.28125 c 2.73054,1.22464 5.90036,0.0118 7.125,-2.71875 1.22464,-2.73054 0.0118,-5.93161 -2.71875,-7.15625 l -24.875,-11.15625 12.65625,-28.21875 c 1.3967,-3.11417 0.0204,-6.7283 -3.09375,-8.125 -0.77854,-0.34917 -1.57479,-0.54437 -2.375,-0.5625 z"
+           id="rect22536"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g23395"
+       transform="matrix(0.97499023,0,0,0.97499023,-15.343398,211.86682)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/energieerhaltung-trampolin.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         rx="9.8944407"
+         transform="matrix(0.25250931,-0.96759446,0.96739824,0.25326004,0,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.6609683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect23375"
+         width="61.6931"
+         height="15.900852"
+         x="-396.69928"
+         y="261.6636"
+         ry="7.9504261" />
+      <g
+         transform="translate(2.6930552e-6,0)"
+         id="g22394">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.15390778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect22009"
+           width="22.023809"
+           height="66.071426"
+           x="248.38322"
+           y="250.65309"
+           ry="11.011905"
+           transform="matrix(0.93946164,0.34265409,-0.34265409,0.93946164,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.15390778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect22011"
+           width="56.428574"
+           height="15"
+           x="299.94119"
+           y="254.27962"
+           ry="7.5"
+           transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:#000000;stroke-width:1.22167051;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path22029"
+           sodipodi:cx="219.20311"
+           sodipodi:cy="156.86195"
+           sodipodi:rx="6.0609155"
+           sodipodi:ry="6.0609155"
+           d="m 225.26403,156.86195 c 0,3.34735 -2.71357,6.06092 -6.06092,6.06092 -3.34735,0 -6.06092,-2.71357 -6.06092,-6.06092 0,-3.34735 2.71357,-6.06091 6.06092,-6.06091 3.34735,0 6.06092,2.71356 6.06092,6.06091 z"
+           transform="matrix(1.9719319,-0.53617956,0.53617956,1.9719319,-350.05339,116.2876)" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.51282567;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 156.125,323.03125 c -0.99266,0.0268 -1.98257,0.27921 -2.90625,0.8125 l -30.40625,17.5625 c -2.95578,1.70652 -3.95652,5.45047 -2.25,8.40625 0.40741,0.70565 0.92922,1.30826 1.53125,1.78125 l 15.15625,26.25 c 1.49629,2.59166 4.78334,3.46504 7.375,1.96875 2.59166,-1.49629 3.49629,-4.78334 2,-7.375 l -13.25,-22.90625 26,-15 c 2.95578,-1.70652 3.95652,-5.48172 2.25,-8.4375 -1.17323,-2.0321 -3.31615,-3.12149 -5.5,-3.0625 z"
+           id="rect22049" />
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 110.20002,650.08583 c 20.37464,7.55243 41.52189,11.91238 66.60714,0"
+       id="path7066"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/energieerhaltung-trampolin.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7068"
+       d="m 115.25078,638.96306 c 17.28466,6.40704 35.22475,10.10576 56.50562,0"
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/uebungsaufgaben/energieerhaltung-trampolin.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg21881"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="kraftzerlegung-strassenlampe-aufgabe.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.63852197"
+     inkscape:cx="290.1962"
+     inkscape:cy="723.95181"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-page="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="372.04721,386.68652"
+       id="guide29380" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid29437" />
+    <sodipodi:guide
+       orientation="0.41394943,-0.91029988"
+       position="183.23108,471.91353"
+       id="guide17341" />
+    <sodipodi:guide
+       id="guide18123"
+       position="372.0472,557.08379"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide18125"
+       position="639.73769,678.75737"
+       orientation="0,1" />
+  </sodipodi:namedview>
+  <title
+     id="title7038">Kraftzerlegung bei einer Straßenlaterne</title>
+  <defs
+     id="defs21883">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7011"
+       is_visible="true" />
+  </defs>
+  <metadata
+     id="metadata21886">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Kraftzerlegung bei einer Straßenlaterne</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2013-08-09</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de_DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Dynamik</rdf:li>
+            <rdf:li>Kraftzerlegung</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-strassenlampe-aufgabe.png"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.31226254;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect29149"
+       width="703.78223"
+       height="404.20407"
+       x="20.156128"
+       y="324.07904" />
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-strassenlampe-aufgabe.png"
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.97646677;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect29347"
+       width="16.162441"
+       height="277.95892"
+       x="88.194374"
+       y="342.77966" />
+    <rect
+       y="342.77966"
+       x="639.73767"
+       height="277.95892"
+       width="16.162441"
+       id="rect3152"
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.97646677;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-strassenlampe-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3928"
+       d="M 104.35682,373.60481 372.04723,495.33427 639.73769,373.60481"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-strassenlampe-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g3950"
+       style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1;stroke-opacity:1"
+       transform="matrix(5.2927626,0,0,5.2927626,-835.43115,-11.86009)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$\\vec{F}_{\\rm{G}}$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-strassenlampe-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs3952">
+        <g
+           id="g3954">
+          <symbol
+             id="textext-eb01c7c8-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path3957"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-eb01c7c8-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path3960"
+               d="m 5.359375,-5.9375 c -0.140625,0.140625 -0.46875,0.421875 -0.46875,0.59375 0,0.09375 0.09375,0.203125 0.1875,0.203125 0.09375,0 0.140625,-0.078125 0.203125,-0.140625 C 5.390625,-5.421875 5.625,-5.703125 6.0625,-5.921875 6.125,-5.96875 6.234375,-6.015625 6.234375,-6.125 6.234375,-6.234375 6.15625,-6.28125 6.09375,-6.328125 5.875,-6.484375 5.765625,-6.65625 5.6875,-6.890625 5.65625,-6.984375 5.625,-7.125 5.484375,-7.125 c -0.140625,0 -0.203125,0.140625 -0.203125,0.21875 0,0.046875 0.078125,0.359375 0.234375,0.578125 l -3.359375,0 c -0.15625,0 -0.34375,0 -0.34375,0.203125 0,0.1875 0.1875,0.1875 0.34375,0.1875 z"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-eb01c7c8-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path3963"
+               d="m 3.015625,-3.234375 0.96875,0 c 0.75,0 0.828125,0.15625 0.828125,0.4375 0,0.078125 0,0.1875 -0.0625,0.5 C 4.71875,-2.25 4.71875,-2.21875 4.71875,-2.1875 c 0,0.078125 0.0625,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.203125 L 5.53125,-4.453125 C 5.5625,-4.5625 5.5625,-4.578125 5.5625,-4.609375 5.5625,-4.625 5.546875,-4.71875 5.4375,-4.71875 5.34375,-4.71875 5.328125,-4.671875 5.296875,-4.5 5.078125,-3.734375 4.859375,-3.546875 4,-3.546875 l -0.90625,0 0.640625,-2.53125 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.3125,0 c 1.21875,0 1.453125,0.328125 1.453125,1.09375 0,0.234375 0,0.265625 -0.03125,0.546875 C 7,-4.703125 7,-4.6875 7,-4.65625 c 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.109375,-0.0625 0.125,-0.25 L 7.453125,-6.515625 C 7.484375,-6.78125 7.4375,-6.78125 7.1875,-6.78125 l -4.890625,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.5625,-0.03125 1.84375,-0.03125 2.171875,-0.03125 3,0 3.328125,0 3.421875,0 3.53125,0 3.53125,-0.1875 3.53125,-0.265625 3.484375,-0.296875 3.484375,-0.296875 3.453125,-0.3125 3.421875,-0.3125 3.203125,-0.3125 c -0.21875,0 -0.265625,0 -0.515625,-0.015625 -0.296875,-0.03125 -0.328125,-0.078125 -0.328125,-0.203125 0,-0.015625 0,-0.078125 0.046875,-0.21875 z"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-eb01c7c8-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path3966"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-eb01c7c8-4"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path3969"
+               d="m 5.1875,-1.359375 c 0,-0.3125 0.078125,-0.3125 0.546875,-0.3125 l 0,-0.25 c -0.0625,0 -0.5625,0.03125 -0.90625,0.03125 -0.375,0 -0.890625,0 -1.265625,-0.03125 l 0,0.25 0.265625,0 c 0.703125,0 0.703125,0.09375 0.703125,0.3125 l 0,0.453125 c 0,0.15625 0,0.421875 -0.40625,0.625 -0.328125,0.171875 -0.71875,0.171875 -0.8125,0.171875 -0.796875,0 -2.078125,-0.453125 -2.078125,-2.28125 0,-1.84375 1.328125,-2.25 2.015625,-2.25 0.671875,0 1.515625,0.453125 1.6875,1.65625 0.015625,0.078125 0.078125,0.078125 0.125,0.078125 0.125,0 0.125,-0.046875 0.125,-0.1875 l 0,-1.625 c 0,-0.125 0,-0.1875 -0.09375,-0.1875 -0.03125,0 -0.0625,0 -0.125,0.09375 l -0.359375,0.53125 c -0.34375,-0.359375 -0.84375,-0.625 -1.453125,-0.625 -1.453125,0 -2.671875,1.125 -2.671875,2.515625 0,1.390625 1.1875,2.53125 2.6875,2.53125 0.390625,0 1.15625,-0.078125 1.484375,-0.5625 C 4.78125,-0.234375 5.03125,0 5.109375,0 5.1875,0 5.1875,-0.078125 5.1875,-0.1875 z"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-eb01c7c8-5"
+         style="fill:#d40000;fill-opacity:1;stroke-width:1">
+        <g
+           id="g3972"
+           style="fill:#d40000;fill-opacity:1;stroke-width:1">
+          <use
+             id="use3974"
+             y="132.246"
+             x="224.901"
+             xlink:href="#textext-eb01c7c8-1"
+             style="fill:#d40000;fill-opacity:1;stroke-width:1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g3976"
+           style="fill:#d40000;fill-opacity:1;stroke-width:1">
+          <use
+             id="use3978"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-eb01c7c8-2"
+             style="fill:#d40000;fill-opacity:1;stroke-width:1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g3980"
+           style="fill:#d40000;fill-opacity:1;stroke-width:1">
+          <use
+             id="use3982"
+             y="136.259"
+             x="229.839"
+             xlink:href="#textext-eb01c7c8-4"
+             style="fill:#d40000;fill-opacity:1;stroke-width:1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g45919"
+       transform="translate(-3.234314e-5,25.95997)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-strassenlampe-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         transform="translate(135.54095,63.351504)"
+         d="m 240.65136,410.112 c 0,2.28926 -1.85581,4.14508 -4.14507,4.14508 -2.28927,0 -4.14508,-1.85582 -4.14508,-4.14508 0,-2.28926 1.85581,-4.14508 4.14508,-4.14508 2.28926,0 4.14507,1.85582 4.14507,4.14508 z"
+         sodipodi:ry="4.1450777"
+         sodipodi:rx="4.1450777"
+         sodipodi:cy="410.112"
+         sodipodi:cx="236.50629"
+         id="path45917"
+         style="color:#000000;fill:#b3b3b3;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <g
+         transform="translate(-172.26067,-25.604825)"
+         id="g45910">
+        <path
+           transform="matrix(0.69466026,0,0,0.86759453,259.58792,233.46842)"
+           sodipodi:end="3.1415927"
+           sodipodi:start="0"
+           d="m 444.46712,352.32648 c 0,8.36837 -15.48994,15.15228 -34.59774,15.15228 -19.1078,0 -34.59773,-6.78391 -34.59773,-15.15228 0,0 0,0 0,0 l 34.59773,0 z"
+           sodipodi:ry="15.152284"
+           sodipodi:rx="34.597733"
+           sodipodi:cy="352.32648"
+           sodipodi:cx="409.86938"
+           id="path3158-8"
+           style="opacity:0.5;color:#000000;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#d4aa00;stroke-width:1.28811717;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:type="arc"
+           inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftzerlegung-strassenlampe.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+        <rect
+           ry="0"
+           rx="0"
+           y="499.06833"
+           x="511.5029"
+           height="22.038307"
+           width="65.609985"
+           id="rect3156-5"
+           style="color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/kraftzerlegung-strassenlampe.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+        <path
+           style="color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 502.13208,517.10663 84.35166,0 20,22.03831 -124.35166,0 z"
+           id="rect45907"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+    </g>
+    <g
+       inkscape:transform-center-y="80.874598"
+       inkscape:transform-center-x="0.41490865"
+       transform="matrix(-0.24937404,0.4319285,-0.4319285,-0.24937404,697.62484,543.1547)"
+       id="g8049"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-strassenlampe-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g3460"
+         inkscape:transform-center-x="-149.52172"
+         transform="matrix(0.86602541,-0.50000001,0.50000001,0.86602541,-49.354106,414.92436)"
+         inkscape:transform-center-y="-86.327536">
+        <g
+           id="g6315"
+           transform="matrix(1,0,0,-1,-85.03402,474.27777)">
+          <path
+             sodipodi:nodetypes="cc"
+             style="fill:#d40000;stroke:#d40000;stroke-width:12.0301218;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 239.35719,156.14605 c 97.46366,0 180.48277,0 275.02349,0"
+             id="path6317"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:transform-center-x="-3.0302635"
+             transform="matrix(1.645499e-5,-0.5103719,0.5103719,1.645499e-5,-302.25862,-204.76773)"
+             inkscape:transform-center-y="-0.00017641075"
+             d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+             inkscape:randomized="0"
+             inkscape:rounded="0"
+             inkscape:flatsided="false"
+             sodipodi:arg2="2.6179939"
+             sodipodi:arg1="1.5707963"
+             sodipodi:r2="6.060915"
+             sodipodi:r1="12.121831"
+             sodipodi:cy="1607.946"
+             sodipodi:cx="-707.10675"
+             sodipodi:sides="3"
+             id="path6319"
+             style="fill:#d40000;stroke:#d40000;stroke-width:30.88739777;stroke-miterlimit:4;stroke-dasharray:none"
+             sodipodi:type="star" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:transform-center-x="-53.016167"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-strassenlampe-aufgabe.png"
+       id="g3147"
+       transform="matrix(0.60568339,-0.06087265,-0.06087265,-0.60568339,257.64932,880.42685)"
+       inkscape:transform-center-y="24.22098" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path18127"
+       d="m 104.35682,373.60481 535.38087,0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1,3;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-strassenlampe-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(1.8863921,0,0,1.8863921,-332.53352,-312.03564)"
+       d="m 462.74183,387.6495 a 60.491261,60.491261 0 0 1 -5.04419,-24.18295"
+       sodipodi:ry="60.491261"
+       sodipodi:rx="60.491261"
+       sodipodi:cy="363.46655"
+       sodipodi:cx="518.1889"
+       id="path18897"
+       style="color:#000000;fill:none;stroke:#808080;stroke-width:0.53011245;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       sodipodi:start="2.7303204"
+       sodipodi:end="3.1415927"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-strassenlampe-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g19046"
+       style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1.25;stroke-opacity:1"
+       transform="matrix(4.2342101,-2.6762428e-8,2.6762428e-8,4.2342101,-406.85734,-171.05562)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$\\alpha$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-strassenlampe-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs19048">
+        <g
+           id="g19050">
+          <symbol
+             id="textext-0e51608b-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path19053"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-0e51608b-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path19056"
+               d="m 4.75,-2.359375 c 0,-1.5625 -0.921875,-2.046875 -1.65625,-2.046875 -1.375,0 -2.6875,1.421875 -2.6875,2.828125 0,0.9375 0.59375,1.6875 1.625,1.6875 0.625,0 1.34375,-0.234375 2.09375,-0.84375 0.125,0.53125 0.453125,0.84375 0.90625,0.84375 0.53125,0 0.84375,-0.546875 0.84375,-0.703125 0,-0.078125 -0.0625,-0.109375 -0.125,-0.109375 -0.0625,0 -0.09375,0.03125 -0.125,0.109375 -0.1875,0.484375 -0.546875,0.484375 -0.5625,0.484375 -0.3125,0 -0.3125,-0.78125 -0.3125,-1.015625 0,-0.203125 0,-0.234375 0.109375,-0.34375 C 5.796875,-2.65625 6,-3.8125 6,-3.8125 6,-3.84375 5.984375,-3.921875 5.875,-3.921875 c -0.09375,0 -0.09375,0.03125 -0.140625,0.21875 -0.1875,0.625 -0.515625,1.375 -0.984375,1.96875 z m -0.65625,1.375 c -0.890625,0.765625 -1.65625,0.875 -2.046875,0.875 -0.59375,0 -0.90625,-0.453125 -0.90625,-1.09375 0,-0.484375 0.265625,-1.5625 0.578125,-2.0625 C 2.1875,-4 2.734375,-4.1875 3.078125,-4.1875 c 0.984375,0 0.984375,1.3125 0.984375,2.078125 0,0.375 0,0.953125 0.03125,1.125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-0e51608b-2"
+         style="stroke-width:1.25">
+        <g
+           id="g19059"
+           style="fill:#000000;fill-opacity:1;stroke-width:1.25">
+          <use
+             id="use19061"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-0e51608b-1"
+             width="744.09448"
+             height="1052.3622"
+             style="stroke-width:1.25" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

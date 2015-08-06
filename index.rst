@@ -19,6 +19,10 @@ Physik
         Eine Druckversion dieser Seite ist als :download:`PDF-Dokument
         <grundwissen-physik.pdf>` verfügbar.
 
+        Der Quellcode zu diesem Projekt kann von `GitHub
+        <https://www.github.com/grund-wissen/grundwissen-physik>`_ heruntergeladen werden.
+
+
 
 .. toctree::
     :maxdepth: 2

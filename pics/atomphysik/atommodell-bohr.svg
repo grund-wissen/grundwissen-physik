@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg4009"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="atommodell-bohr.svg"
+   inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/atomphysik/atommodell-dalton.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title28832">Atommodell nach Bohr</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.46887256"
+     inkscape:cx="900.52218"
+     inkscape:cy="1059.8613"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:bbox-paths="true">
+    <sodipodi:guide
+       id="guide7827"
+       position="372.04724,658.60966"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide7829"
+       position="372.04724,393.75251"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide7831"
+       position="372.04724,526.18108"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide7835"
+       position="214.27861,614.4668"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide7837"
+       position="214.53114,570.32394"
+       orientation="0,1" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="588.73163,580.38935"
+       id="guide10956" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4011">
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path7937" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata4014">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Atommodell nach Bohr</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2012-04-23</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Atommodell</rdf:li>
+            <rdf:li>Bohr</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <rect
+       y="304.9577"
+       x="84.153778"
+       height="442.44681"
+       width="575.78693"
+       id="rect4809"
+       style="fill:#ffffff;stroke:#ffffff"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       style="stroke:#800000;stroke-width:1"
+       id="g11195"
+       transform="matrix(1.221807,0,0,1.221807,160.2665,68.118284)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path11197"
+         sodipodi:cx="605"
+         sodipodi:cy="-42.637817"
+         sodipodi:rx="15"
+         sodipodi:ry="15"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         transform="matrix(0.47037923,0,0,0.47037923,-111.2454,394.96197)" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.79348755px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#800000;stroke-width:0.31983721;font-family:Sans"
+         x="167.97427"
+         y="378.91647"
+         id="text11199"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan11201"
+           x="167.97427"
+           y="378.91647"
+           style="stroke:#800000;stroke-width:0.31983721">+</tspan></text>
+    </g>
+    <path
+       transform="matrix(0.70710678,-0.70710679,0.70710679,0.70710678,-153.89226,485.11482)"
+       d="m 474.28572,400.93362 a 131.42857,131.42857 0 1 1 -262.85715,0 131.42857,131.42857 0 1 1 262.85715,0 z"
+       sodipodi:ry="131.42857"
+       sodipodi:rx="131.42857"
+       sodipodi:cy="400.93362"
+       sodipodi:cx="342.85715"
+       id="path4017"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 8;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:none"
+       id="path6594"
+       sodipodi:cx="605"
+       sodipodi:cy="-42.637817"
+       sodipodi:rx="15"
+       sodipodi:ry="15"
+       d="m 620,-42.637817 a 15,15 0 1 1 -30,0 15,15 0 1 1 30,0 z"
+       transform="matrix(0.57471264,0,0,0.57471264,36.313212,564.12901)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.57471264,0,0,0.57471264,21.792272,568.54843)"
+       d="m 620,-42.637817 a 15,15 0 1 1 -30,0 15,15 0 1 1 30,0 z"
+       sodipodi:ry="15"
+       sodipodi:rx="15"
+       sodipodi:cy="-42.637817"
+       sodipodi:cx="605"
+       id="path7587"
+       style="fill:none;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.57471264,0,0,0.57471264,38.459792,538.24384)"
+       d="m 620,-42.637817 a 15,15 0 1 1 -30,0 15,15 0 1 1 30,0 z"
+       sodipodi:ry="15"
+       sodipodi:rx="15"
+       sodipodi:cy="-42.637817"
+       sodipodi:cx="605"
+       id="path7579"
+       style="fill:none;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:2.91666627;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.91666631, 11.66666526;stroke-dashoffset:0"
+       id="path7823"
+       sodipodi:cx="342.85715"
+       sodipodi:cy="400.93362"
+       sodipodi:rx="131.42857"
+       sodipodi:ry="131.42857"
+       d="m 474.28572,400.93362 a 131.42857,131.42857 0 1 1 -262.85715,0 131.42857,131.42857 0 1 1 262.85715,0 z"
+       transform="matrix(0.68571437,0,0,0.68571437,136.94517,251.25516)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       style="fill:#ffffff;stroke:#000080;stroke-width:1"
+       transform="matrix(1.221807,0,0,1.221807,200.62606,-9.5258573)"
+       id="use6580"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;stroke:#000080;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path7857"
+         sodipodi:cx="605"
+         sodipodi:cy="-42.637817"
+         sodipodi:rx="15"
+         sodipodi:ry="15"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         transform="matrix(0.47037923,0,0,0.47037923,-94.127087,403.89152)" />
+      <text
+         xml:space="preserve"
+         style="font-size:28.22275162px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000080;stroke-width:0.70556885;font-family:Sans"
+         x="185.36037"
+         y="391.56644"
+         id="text7859"
+         sodipodi:linespacing="125%"><tspan
+           style="stroke:#000080;stroke-width:0.70556885"
+           sodipodi:role="line"
+           id="tspan7861"
+           x="185.36037"
+           y="391.56644">-</tspan></text>
+    </g>
+    <path
+       transform="matrix(0.33586953,0,0,0.33586953,256.89198,391.51971)"
+       d="m 474.28572,400.93362 a 131.42857,131.42857 0 1 1 -262.85715,0 131.42857,131.42857 0 1 1 262.85715,0 z"
+       sodipodi:ry="131.42857"
+       sodipodi:rx="131.42857"
+       sodipodi:cy="400.93362"
+       sodipodi:cx="342.85715"
+       id="path7825"
+       style="fill:none;stroke:#000000;stroke-width:5.95469332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.95469318, 23.8187728;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7905"
+       d="m 464.9813,433.24705 -23.10893,18.95836"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="translate(-4.0027038e-6,4.9315759e-7)"
+       id="g7897"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:1"
+         transform="matrix(1.221807,0,0,1.221807,232.28527,-35.725944)"
+         id="g7879">
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path7881"
+           sodipodi:cx="605"
+           sodipodi:cy="-42.637817"
+           sodipodi:rx="15"
+           sodipodi:ry="15"
+           d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+           transform="matrix(0.47037923,0,0,0.47037923,-94.127087,403.89152)" />
+      </g>
+      <g
+         style="opacity:0.43000004;fill:#ffffff;stroke:#000080;stroke-width:1"
+         transform="matrix(1.221807,0,0,1.221807,232.28527,-35.725944)"
+         id="g7871">
+        <path
+           sodipodi:type="arc"
+           style="opacity:0.6768;fill:#ffffff;stroke:#000080;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path7873"
+           sodipodi:cx="605"
+           sodipodi:cy="-42.637817"
+           sodipodi:rx="15"
+           sodipodi:ry="15"
+           d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+           transform="matrix(0.47037923,0,0,0.47037923,-94.127087,403.89152)" />
+        <text
+           xml:space="preserve"
+           style="font-size:28.22275162px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.6768;fill:#000000;fill-opacity:1;stroke:#000080;stroke-width:0.70556885;font-family:Sans"
+           x="185.36037"
+           y="391.56644"
+           id="text7875"
+           sodipodi:linespacing="125%"><tspan
+             style="stroke:#000080;stroke-width:0.70556885"
+             sodipodi:role="line"
+             id="tspan7877"
+             x="185.36037"
+             y="391.56644">-</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g11151"
+       style="stroke:#ff6600;stroke-width:1.65899158;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1.7654274,0,0,1.8522699,-476.37263,-423.34095)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:open="true"
+         sodipodi:end="2.3561945"
+         sodipodi:start="0"
+         transform="matrix(-0.15180007,0,0,0.15180007,615.22448,190.42975)"
+         d="m 4.2704868,1854.3833 c 0,14.7408 -11.9497645,26.6905 -26.6905458,26.6905 -7.078773,0 -13.867618,-2.812 -18.873066,-7.8174"
+         sodipodi:ry="26.690546"
+         sodipodi:rx="26.690546"
+         sodipodi:cy="1854.3833"
+         sodipodi:cx="-22.420059"
+         id="path8979"
+         style="fill:none;stroke:#ff6600;stroke-width:10.92879295;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <g
+         style="stroke:#ff6600;stroke-width:1.65899158;stroke-miterlimit:4;stroke-dasharray:none"
+         id="g11144">
+        <g
+           id="g8969"
+           transform="translate(36.428572,31.071428)"
+           style="stroke:#ff6600;stroke-width:1.65899158;stroke-miterlimit:4;stroke-dasharray:none">
+          <path
+             style="fill:none;stroke:#ff6600;stroke-width:1.65899158;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             id="path8971"
+             d="m 500.63447,440.85384 c 0,2.23766 -1.92809,4.05162 -4.30652,4.05162 -2.37842,0 -4.30652,-1.81396 -4.30652,-4.05162 0,0 0,0 0,0 m 25.83671,0 c 0,2.23766 -1.92809,4.05162 -4.30652,4.05162 -2.37843,0 -4.30652,-1.81396 -4.30652,-4.05162 0,0 0,0 0,0 m 25.83671,0 c 0,2.23766 -1.9281,4.05162 -4.30652,4.05162 -2.37843,0 -4.30652,-1.81396 -4.30652,-4.05162 0,0 0,0 0,0 m 25.83671,0 c 0,2.23766 -1.9281,4.05162 -4.30652,4.05162 -2.37843,0 -4.30653,-1.81396 -4.30653,-4.05162 0,0 0,0 0,0 m 25.83672,0 c 0,2.23766 -1.9281,4.05162 -4.30653,4.05162 -2.37842,0 -4.30652,-1.81396 -4.30652,-4.05162 0,0 0,0 0,0"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 509.2451,440.9014 c 0,-2.23766 -1.9281,-4.05162 -4.30652,-4.05162 -2.37843,0 -4.30653,1.81396 -4.30653,4.05162 0,0 0,0 0,0 m 25.83672,0 c 0,-2.23766 -1.9281,-4.05162 -4.30653,-4.05162 -2.37842,0 -4.30652,1.81396 -4.30652,4.05162 0,0 0,0 0,0 m 25.83671,0 c 0,-2.23766 -1.92809,-4.05162 -4.30652,-4.05162 -2.37842,0 -4.30652,1.81396 -4.30652,4.05162 0,0 0,0 0,0 m 25.83671,0 c 0,-2.23766 -1.92809,-4.05162 -4.30652,-4.05162 -2.37843,0 -4.30652,1.81396 -4.30652,4.05162 0,0 0,0 0,0 m 25.83671,0 c 0,-2.23766 -1.9281,-4.05162 -4.30652,-4.05162 -2.37843,0 -4.30652,1.81396 -4.30652,4.05162 0,0 0,0 0,0"
+             id="path8973"
+             style="fill:none;stroke:#ff6600;stroke-width:1.65899158;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#ff6600;stroke-width:7.33679056;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path10958"
+           sodipodi:cx="-22.420059"
+           sodipodi:cy="1854.3833"
+           sodipodi:rx="26.690546"
+           sodipodi:ry="26.690546"
+           d="m 4.2704868,1854.3833 c 0,7.0788 -2.8120315,13.8676 -7.8174798,18.8731"
+           transform="matrix(-0.19545054,-0.11327652,0.11284342,-0.19620068,413.07248,839.1052)"
+           sodipodi:start="0"
+           sodipodi:end="0.78539816"
+           sodipodi:open="true" />
+        <path
+           style="fill:none;stroke:#ff6600;stroke-width:1.65899158;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+           d="m 625.15041,471.97283 6.73337,0"
+           id="path10960"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       style="fill:#ff6600"
+       transform="matrix(3.903925,0,0,3.903925,-352.10986,-24.129331)"
+       ns0:text="Photon"
+       ns0:preamble=""
+       id="g11208"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs11210">
+        <g
+           id="g11212">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-8240ab87-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.265625,-3.15625 1.6875,0 c 1.1875,0 2.265625,-0.796875 2.265625,-1.796875 C 6.21875,-5.9375 5.234375,-6.8125 3.875,-6.8125 l -3.53125,0 0,0.3125 0.25,0 c 0.765625,0 0.78125,0.109375 0.78125,0.46875 l 0,5.25 c 0,0.359375 -0.015625,0.46875 -0.78125,0.46875 l -0.25,0 0,0.3125 c 0.359375,-0.03125 1.09375,-0.03125 1.46875,-0.03125 0.375,0 1.125,0 1.484375,0.03125 l 0,-0.3125 -0.25,0 c -0.765625,0 -0.78125,-0.109375 -0.78125,-0.46875 z m -0.03125,-0.25 0,-2.6875 C 2.234375,-6.4375 2.25,-6.5 2.71875,-6.5 l 0.890625,0 c 1.578125,0 1.578125,1.0625 1.578125,1.546875 0,0.46875 0,1.546875 -1.578125,1.546875 z m 0,0"
+               id="path11215" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-8240ab87-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 1.09375,-0.75 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.359375,-0.015625 0.859375,-0.03125 1.140625,-0.03125 0.25,0 0.765625,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.671875,0 -0.78125,0 -0.78125,-0.4375 l 0,-1.84375 C 1.78125,-3.625 2.5,-4.1875 3.125,-4.1875 c 0.640625,0 0.75,0.53125 0.75,1.109375 l 0,2.328125 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.34375,-0.015625 0.859375,-0.03125 1.125,-0.03125 0.25,0 0.78125,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.515625,0 -0.765625,0 -0.765625,-0.296875 l 0,-1.90625 c 0,-0.859375 0,-1.15625 -0.3125,-1.515625 -0.140625,-0.171875 -0.46875,-0.375 -1.046875,-0.375 -0.84375,0 -1.28125,0.59375 -1.453125,0.984375 l 0,-3.5 -1.4375,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 z m 0,0"
+               id="path11218" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-8240ab87-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 4.6875,-2.140625 C 4.6875,-3.40625 3.703125,-4.46875 2.5,-4.46875 c -1.25,0 -2.21875,1.09375 -2.21875,2.328125 0,1.296875 1.03125,2.25 2.203125,2.25 1.203125,0 2.203125,-0.984375 2.203125,-2.25 z m -2.1875,2 c -0.4375,0 -0.875,-0.203125 -1.140625,-0.671875 -0.25,-0.4375 -0.25,-1.046875 -0.25,-1.40625 0,-0.390625 0,-0.921875 0.234375,-1.359375 C 1.609375,-4.03125 2.078125,-4.25 2.484375,-4.25 c 0.4375,0 0.859375,0.21875 1.125,0.65625 0.265625,0.421875 0.265625,1 0.265625,1.375 0,0.359375 0,0.90625 -0.21875,1.34375 C 3.421875,-0.421875 2.984375,-0.140625 2.5,-0.140625 z m 0,0"
+               id="path11221" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-8240ab87-3">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 1.71875,-3.984375 1.4375,0 0,-0.3125 -1.4375,0 0,-1.828125 -0.25,0 c 0,0.8125 -0.296875,1.875 -1.28125,1.921875 l 0,0.21875 0.84375,0 0,2.75 c 0,1.21875 0.9375,1.34375 1.296875,1.34375 0.703125,0 0.984375,-0.703125 0.984375,-1.34375 l 0,-0.5625 -0.25,0 0,0.546875 c 0,0.734375 -0.296875,1.109375 -0.671875,1.109375 -0.671875,0 -0.671875,-0.90625 -0.671875,-1.078125 z m 0,0"
+               id="path11224" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-8240ab87-4">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 1.09375,-3.421875 0,2.671875 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.359375,-0.015625 0.859375,-0.03125 1.140625,-0.03125 0.25,0 0.765625,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.671875,0 -0.78125,0 -0.78125,-0.4375 l 0,-1.84375 C 1.78125,-3.625 2.5,-4.1875 3.125,-4.1875 c 0.640625,0 0.75,0.53125 0.75,1.109375 l 0,2.328125 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.34375,-0.015625 0.859375,-0.03125 1.125,-0.03125 0.25,0 0.78125,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.515625,0 -0.765625,0 -0.765625,-0.296875 l 0,-1.90625 c 0,-0.859375 0,-1.15625 -0.3125,-1.515625 -0.140625,-0.171875 -0.46875,-0.375 -1.046875,-0.375 C 2.46875,-4.40625 2,-3.984375 1.71875,-3.359375 l 0,-1.046875 -1.40625,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 z m 0,0"
+               id="path11227" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#ff6600"
+         id="textext-8240ab87-5">
+        <g
+           style="fill:#ff6600;fill-opacity:1"
+           id="g11230">
+          <use
+             style="fill:#ff6600"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-8240ab87-0"
+             x="223.43201"
+             y="134.765"
+             id="use11232" />
+          <use
+             style="fill:#ff6600"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-8240ab87-1"
+             x="230.21254"
+             y="134.765"
+             id="use11234" />
+          <use
+             style="fill:#ff6600"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-8240ab87-2"
+             x="235.74777"
+             y="134.765"
+             id="use11236" />
+          <use
+             style="fill:#ff6600"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-8240ab87-3"
+             x="240.72906"
+             y="134.765"
+             id="use11238" />
+          <use
+             style="fill:#ff6600"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-8240ab87-2"
+             x="244.60352"
+             y="134.765"
+             id="use11240" />
+          <use
+             style="fill:#ff6600"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-8240ab87-4"
+             x="249.58482"
+             y="134.765"
+             id="use11242" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$n=1$"
+       ns0:preamble=""
+       transform="matrix(2.7048367,0,0,2.7048367,-249.12269,224.76844)"
+       style="fill:#ff6600"
+       id="g12631"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs12633">
+        <g
+           id="g12635">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol12637">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 0.875,-0.59375 c -0.03125,0.15625 -0.09375,0.390625 -0.09375,0.4375 0,0.171875 0.140625,0.265625 0.296875,0.265625 0.125,0 0.296875,-0.078125 0.375,-0.28125 0,-0.015625 0.125,-0.484375 0.1875,-0.734375 l 0.21875,-0.890625 C 1.90625,-2.03125 1.96875,-2.25 2.03125,-2.46875 c 0.03125,-0.171875 0.109375,-0.46875 0.125,-0.5 0.140625,-0.3125 0.671875,-1.21875 1.625,-1.21875 0.453125,0 0.53125,0.375 0.53125,0.703125 0,0.609375 -0.484375,1.890625 -0.640625,2.3125 C 3.578125,-0.9375 3.5625,-0.8125 3.5625,-0.703125 c 0,0.46875 0.359375,0.8125 0.828125,0.8125 0.9375,0 1.296875,-1.453125 1.296875,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.109375,0 -0.109375,0.03125 -0.15625,0.1875 -0.203125,0.671875 -0.53125,1.234375 -1.015625,1.234375 -0.171875,0 -0.234375,-0.09375 -0.234375,-0.328125 0,-0.25 0.078125,-0.484375 0.171875,-0.703125 0.1875,-0.53125 0.609375,-1.625 0.609375,-2.203125 0,-0.65625 -0.421875,-1.0625 -1.140625,-1.0625 -0.90625,0 -1.390625,0.640625 -1.5625,0.875 -0.046875,-0.5625 -0.453125,-0.875 -0.921875,-0.875 -0.453125,0 -0.640625,0.390625 -0.734375,0.5625 C 0.421875,-3.5 0.296875,-2.90625 0.296875,-2.875 c 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.015625 0.171875,-0.234375 0.171875,-0.703125 0.375,-1.1875 0.734375,-1.1875 0.1875,0 0.296875,0.125 0.296875,0.453125 0,0.21875 -0.03125,0.328125 -0.15625,0.84375 z m 0,0"
+               id="path12639" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol12641">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 6.84375,-3.265625 c 0.15625,0 0.34375,0 0.34375,-0.1875 C 7.1875,-3.65625 7,-3.65625 6.859375,-3.65625 l -5.96875,0 c -0.140625,0 -0.328125,0 -0.328125,0.203125 0,0.1875 0.1875,0.1875 0.328125,0.1875 z m 0.015625,1.9375 c 0.140625,0 0.328125,0 0.328125,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.34375,-0.1875 l -5.953125,0 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 z m 0,0"
+               id="path12643" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol12645">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.9375,-6.375 c 0,-0.25 0,-0.265625 -0.234375,-0.265625 C 2.078125,-6 1.203125,-6 0.890625,-6 l 0,0.3125 c 0.203125,0 0.78125,0 1.296875,-0.265625 l 0,5.171875 c 0,0.359375 -0.03125,0.46875 -0.921875,0.46875 l -0.3125,0 0,0.3125 c 0.34375,-0.03125 1.203125,-0.03125 1.609375,-0.03125 0.390625,0 1.265625,0 1.609375,0.03125 l 0,-0.3125 -0.3125,0 c -0.90625,0 -0.921875,-0.109375 -0.921875,-0.46875 z m 0,0"
+               id="path12647" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g12649">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g12651">
+          <g
+             id="use12653"
+             transform="translate(223.43201,134.765)">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 0.875,-0.59375 c -0.03125,0.15625 -0.09375,0.390625 -0.09375,0.4375 0,0.171875 0.140625,0.265625 0.296875,0.265625 0.125,0 0.296875,-0.078125 0.375,-0.28125 0,-0.015625 0.125,-0.484375 0.1875,-0.734375 l 0.21875,-0.890625 C 1.90625,-2.03125 1.96875,-2.25 2.03125,-2.46875 c 0.03125,-0.171875 0.109375,-0.46875 0.125,-0.5 0.140625,-0.3125 0.671875,-1.21875 1.625,-1.21875 0.453125,0 0.53125,0.375 0.53125,0.703125 0,0.609375 -0.484375,1.890625 -0.640625,2.3125 C 3.578125,-0.9375 3.5625,-0.8125 3.5625,-0.703125 c 0,0.46875 0.359375,0.8125 0.828125,0.8125 0.9375,0 1.296875,-1.453125 1.296875,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.109375,0 -0.109375,0.03125 -0.15625,0.1875 -0.203125,0.671875 -0.53125,1.234375 -1.015625,1.234375 -0.171875,0 -0.234375,-0.09375 -0.234375,-0.328125 0,-0.25 0.078125,-0.484375 0.171875,-0.703125 0.1875,-0.53125 0.609375,-1.625 0.609375,-2.203125 0,-0.65625 -0.421875,-1.0625 -1.140625,-1.0625 -0.90625,0 -1.390625,0.640625 -1.5625,0.875 -0.046875,-0.5625 -0.453125,-0.875 -0.921875,-0.875 -0.453125,0 -0.640625,0.390625 -0.734375,0.5625 C 0.421875,-3.5 0.296875,-2.90625 0.296875,-2.875 c 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.015625 0.171875,-0.234375 0.171875,-0.703125 0.375,-1.1875 0.734375,-1.1875 0.1875,0 0.296875,0.125 0.296875,0.453125 0,0.21875 -0.03125,0.328125 -0.15625,0.84375 z m 0,0"
+               id="path12669" />
+          </g>
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g12655">
+          <g
+             id="use12657"
+             transform="translate(232.179,134.765)">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 6.84375,-3.265625 c 0.15625,0 0.34375,0 0.34375,-0.1875 C 7.1875,-3.65625 7,-3.65625 6.859375,-3.65625 l -5.96875,0 c -0.140625,0 -0.328125,0 -0.328125,0.203125 0,0.1875 0.1875,0.1875 0.328125,0.1875 z m 0.015625,1.9375 c 0.140625,0 0.328125,0 0.328125,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.34375,-0.1875 l -5.953125,0 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 z m 0,0"
+               id="path12677" />
+          </g>
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g12659">
+          <g
+             id="use12661"
+             transform="translate(242.69751,134.765)">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.9375,-6.375 c 0,-0.25 0,-0.265625 -0.234375,-0.265625 C 2.078125,-6 1.203125,-6 0.890625,-6 l 0,0.3125 c 0.203125,0 0.78125,0 1.296875,-0.265625 l 0,5.171875 c 0,0.359375 -0.03125,0.46875 -0.921875,0.46875 l -0.3125,0 0,0.3125 c 0.34375,-0.03125 1.203125,-0.03125 1.609375,-0.03125 0.390625,0 1.265625,0 1.609375,0.03125 l 0,-0.3125 -0.3125,0 c -0.90625,0 -0.921875,-0.109375 -0.921875,-0.46875 z m 0,0"
+               id="path12685" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$n=2$"
+       ns0:preamble=""
+       transform="matrix(2.7048367,0,0,2.7048367,-249.12268,270.74806)"
+       style="fill:#ff6600"
+       id="g12890"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs12892">
+        <g
+           id="g12894">
+          <symbol
+             overflow="visible"
+             id="textext-d45fd2a6-0"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 0.875,-0.59375 c -0.03125,0.15625 -0.09375,0.390625 -0.09375,0.4375 0,0.171875 0.140625,0.265625 0.296875,0.265625 0.125,0 0.296875,-0.078125 0.375,-0.28125 0,-0.015625 0.125,-0.484375 0.1875,-0.734375 l 0.21875,-0.890625 C 1.90625,-2.03125 1.96875,-2.25 2.03125,-2.46875 c 0.03125,-0.171875 0.109375,-0.46875 0.125,-0.5 0.140625,-0.3125 0.671875,-1.21875 1.625,-1.21875 0.453125,0 0.53125,0.375 0.53125,0.703125 0,0.609375 -0.484375,1.890625 -0.640625,2.3125 C 3.578125,-0.9375 3.5625,-0.8125 3.5625,-0.703125 c 0,0.46875 0.359375,0.8125 0.828125,0.8125 0.9375,0 1.296875,-1.453125 1.296875,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.109375,0 -0.109375,0.03125 -0.15625,0.1875 -0.203125,0.671875 -0.53125,1.234375 -1.015625,1.234375 -0.171875,0 -0.234375,-0.09375 -0.234375,-0.328125 0,-0.25 0.078125,-0.484375 0.171875,-0.703125 0.1875,-0.53125 0.609375,-1.625 0.609375,-2.203125 0,-0.65625 -0.421875,-1.0625 -1.140625,-1.0625 -0.90625,0 -1.390625,0.640625 -1.5625,0.875 -0.046875,-0.5625 -0.453125,-0.875 -0.921875,-0.875 -0.453125,0 -0.640625,0.390625 -0.734375,0.5625 C 0.421875,-3.5 0.296875,-2.90625 0.296875,-2.875 c 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.015625 0.171875,-0.234375 0.171875,-0.703125 0.375,-1.1875 0.734375,-1.1875 0.1875,0 0.296875,0.125 0.296875,0.453125 0,0.21875 -0.03125,0.328125 -0.15625,0.84375 z m 0,0"
+               id="path12897"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-d45fd2a6-1"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 6.84375,-3.265625 c 0.15625,0 0.34375,0 0.34375,-0.1875 C 7.1875,-3.65625 7,-3.65625 6.859375,-3.65625 l -5.96875,0 c -0.140625,0 -0.328125,0 -0.328125,0.203125 0,0.1875 0.1875,0.1875 0.328125,0.1875 z m 0.015625,1.9375 c 0.140625,0 0.328125,0 0.328125,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.34375,-0.1875 l -5.953125,0 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 z m 0,0"
+               id="path12900"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-d45fd2a6-2"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 1.265625,-0.765625 1.0625,-1.03125 c 1.546875,-1.375 2.140625,-1.90625 2.140625,-2.90625 0,-1.140625 -0.890625,-1.9375 -2.109375,-1.9375 -1.125,0 -1.859375,0.921875 -1.859375,1.8125 0,0.546875 0.5,0.546875 0.53125,0.546875 0.171875,0 0.515625,-0.109375 0.515625,-0.53125 0,-0.25 -0.1875,-0.515625 -0.53125,-0.515625 -0.078125,0 -0.09375,0 -0.125,0.015625 0.21875,-0.65625 0.765625,-1.015625 1.34375,-1.015625 0.90625,0 1.328125,0.8125 1.328125,1.625 C 3.5625,-3.90625 3.078125,-3.125 2.515625,-2.5 l -1.90625,2.125 C 0.5,-0.265625 0.5,-0.234375 0.5,0 l 3.703125,0 0.265625,-1.734375 -0.234375,0 C 4.171875,-1.4375 4.109375,-1 4,-0.84375 3.9375,-0.765625 3.28125,-0.765625 3.0625,-0.765625 z m 0,0"
+               id="path12903"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-d45fd2a6-3">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g12906">
+          <use
+             xlink:href="#textext-d45fd2a6-0"
+             x="223.43201"
+             y="134.765"
+             id="use12908"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g12910">
+          <use
+             xlink:href="#textext-d45fd2a6-1"
+             x="232.179"
+             y="134.765"
+             id="use12912"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g12914">
+          <use
+             xlink:href="#textext-d45fd2a6-2"
+             x="242.69751"
+             y="134.765"
+             id="use12916"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g13135"
+       style="fill:#ff6600"
+       transform="matrix(2.7048367,0,0,2.7048367,-249.12268,312.05415)"
+       ns0:preamble=""
+       ns0:text="$n=3$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/atomphysik/atommodell-bohr.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs13137">
+        <g
+           id="g13139">
+          <symbol
+             id="textext-59081fd5-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path13142"
+               d="m 0.875,-0.59375 c -0.03125,0.15625 -0.09375,0.390625 -0.09375,0.4375 0,0.171875 0.140625,0.265625 0.296875,0.265625 0.125,0 0.296875,-0.078125 0.375,-0.28125 0,-0.015625 0.125,-0.484375 0.1875,-0.734375 l 0.21875,-0.890625 C 1.90625,-2.03125 1.96875,-2.25 2.03125,-2.46875 c 0.03125,-0.171875 0.109375,-0.46875 0.125,-0.5 0.140625,-0.3125 0.671875,-1.21875 1.625,-1.21875 0.453125,0 0.53125,0.375 0.53125,0.703125 0,0.609375 -0.484375,1.890625 -0.640625,2.3125 C 3.578125,-0.9375 3.5625,-0.8125 3.5625,-0.703125 c 0,0.46875 0.359375,0.8125 0.828125,0.8125 0.9375,0 1.296875,-1.453125 1.296875,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.109375,0 -0.109375,0.03125 -0.15625,0.1875 -0.203125,0.671875 -0.53125,1.234375 -1.015625,1.234375 -0.171875,0 -0.234375,-0.09375 -0.234375,-0.328125 0,-0.25 0.078125,-0.484375 0.171875,-0.703125 0.1875,-0.53125 0.609375,-1.625 0.609375,-2.203125 0,-0.65625 -0.421875,-1.0625 -1.140625,-1.0625 -0.90625,0 -1.390625,0.640625 -1.5625,0.875 -0.046875,-0.5625 -0.453125,-0.875 -0.921875,-0.875 -0.453125,0 -0.640625,0.390625 -0.734375,0.5625 C 0.421875,-3.5 0.296875,-2.90625 0.296875,-2.875 c 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.015625 0.171875,-0.234375 0.171875,-0.703125 0.375,-1.1875 0.734375,-1.1875 0.1875,0 0.296875,0.125 0.296875,0.453125 0,0.21875 -0.03125,0.328125 -0.15625,0.84375 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-59081fd5-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path13145"
+               d="m 6.84375,-3.265625 c 0.15625,0 0.34375,0 0.34375,-0.1875 C 7.1875,-3.65625 7,-3.65625 6.859375,-3.65625 l -5.96875,0 c -0.140625,0 -0.328125,0 -0.328125,0.203125 0,0.1875 0.1875,0.1875 0.328125,0.1875 z m 0.015625,1.9375 c 0.140625,0 0.328125,0 0.328125,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.34375,-0.1875 l -5.953125,0 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-59081fd5-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path13148"
+               d="m 2.890625,-3.515625 c 0.8125,-0.265625 1.390625,-0.953125 1.390625,-1.75 0,-0.8125 -0.875,-1.375 -1.828125,-1.375 -1,0 -1.765625,0.59375 -1.765625,1.359375 0,0.328125 0.21875,0.515625 0.515625,0.515625 0.296875,0 0.5,-0.21875 0.5,-0.515625 0,-0.484375 -0.46875,-0.484375 -0.609375,-0.484375 0.296875,-0.5 0.953125,-0.625 1.3125,-0.625 0.421875,0 0.96875,0.21875 0.96875,1.109375 0,0.125 -0.03125,0.703125 -0.28125,1.140625 C 2.796875,-3.65625 2.453125,-3.625 2.203125,-3.625 2.125,-3.609375 1.890625,-3.59375 1.8125,-3.59375 c -0.078125,0.015625 -0.140625,0.03125 -0.140625,0.125 0,0.109375 0.0625,0.109375 0.234375,0.109375 l 0.4375,0 c 0.8125,0 1.1875,0.671875 1.1875,1.65625 0,1.359375 -0.6875,1.640625 -1.125,1.640625 -0.4375,0 -1.1875,-0.171875 -1.53125,-0.75 0.34375,0.046875 0.65625,-0.171875 0.65625,-0.546875 0,-0.359375 -0.265625,-0.5625 -0.546875,-0.5625 -0.25,0 -0.5625,0.140625 -0.5625,0.578125 0,0.90625 0.921875,1.5625 2.015625,1.5625 1.21875,0 2.125,-0.90625 2.125,-1.921875 0,-0.8125 -0.640625,-1.59375 -1.671875,-1.8125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-59081fd5-3">
+        <g
+           id="g13151"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use13153"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-59081fd5-0"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g13155"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use13157"
+             y="134.765"
+             x="232.179"
+             xlink:href="#textext-59081fd5-1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g13159"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use13161"
+             y="134.765"
+             x="242.69751"
+             xlink:href="#textext-59081fd5-2"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg5772"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="disko-kugel.svg">
+  <title
+     id="title4935">Disko-Kugel</title>
+  <defs
+     id="defs5774">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect110382"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect110379"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect110376"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect110373"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect110370"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4888"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4812"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4808"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4804"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect43902"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect43898"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect43894"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3939"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3935"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect36627"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path28783"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14939"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14933"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14909"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14906"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14903"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14900"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14894"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14891"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7297"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7293"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7289"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6915"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6911"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6907"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3854"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6353"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6325"
+       is_visible="true" />
+    <linearGradient
+       id="linearGradient42045">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="0"
+         id="stop42047" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop42049" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3368"
+       effect="spiro" />
+    <linearGradient
+       id="linearGradient3632">
+      <stop
+         id="stop3634"
+         offset="0"
+         style="stop-color:#ebebeb;stop-opacity:1;" />
+      <stop
+         id="stop3636"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2830">
+      <stop
+         id="stop2832"
+         offset="0"
+         style="stop-color:#0e0e0e;stop-opacity:0.74583334;" />
+      <stop
+         id="stop2834"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="424.41881"
+     inkscape:cy="654.50428"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-center="true"
+     inkscape:snap-global="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:object-paths="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="502.19673,573.33526"
+       id="guide14925" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="491,626.75"
+       id="guide14927" />
+    <sodipodi:guide
+       orientation="0.12528485,0.99212081"
+       position="464.92271,539.16893"
+       id="guide35357" />
+    <sodipodi:guide
+       orientation="0.39202589,-0.91995419"
+       position="402.34376,530.68364"
+       id="guide35359" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="450,613.5"
+       id="guide36617" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="437.25,592.25"
+       id="guide36619" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="469.25,622"
+       id="guide36621" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="429.75,582.25"
+       id="guide36623" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="574,743"
+       id="guide43890" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1013,72"
+       id="guide3927" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5777">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Disko-Kugel</dc:title>
+        <dc:date>2012-01-31</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Optik</rdf:li>
+            <rdf:li>Lichtreflektion</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#f9f9f9;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect7359"
+       width="632.57806"
+       height="453.35809"
+       x="55.758209"
+       y="299.50204"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       ry="1.7020106"
+       transform="matrix(0,-1,-1,0,0,0)"
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:1.48344004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4814"
+       width="158.15056"
+       height="3.695781"
+       x="-513.06268"
+       y="-199.2816"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       style="stroke:#333333;stroke-width:3.26443744"
+       id="g4740"
+       transform="matrix(0.32978363,0,0,0.34011976,426.68132,469.75495)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="stroke-width:3.26443744"
+         id="g4779"
+         transform="translate(0.35971814,0)">
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#333333;stroke-width:13.05774975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path42274"
+           sodipodi:cx="234.75"
+           sodipodi:cy="-357.15552"
+           sodipodi:rx="12.125"
+           sodipodi:ry="12.125"
+           d="m 234.75,-345.03052 c -6.69645,0 -12.125,-5.42854 -12.125,-12.125 0,-6.69645 5.42855,-12.125 12.125,-12.125 6.69645,0 12.125,5.42855 12.125,12.125 0,0 0,0 0,0"
+           transform="translate(-6.125,293.3927)"
+           sodipodi:start="1.5707963"
+           sodipodi:end="6.2831853"
+           sodipodi:open="true" />
+        <path
+           style="fill:none;stroke:#333333;stroke-width:13.05774975;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 228.625,-51.63782 0,16.875"
+           id="path42276"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:#333333;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6296"
+       width="79.399467"
+       height="51.530491"
+       x="157.39435"
+       y="505.3248"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       y="520.77673"
+       x="236.79382"
+       height="20.626595"
+       width="10.83446"
+       id="rect6298"
+       style="fill:#808080;fill-opacity:1;stroke:#333333;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.40334904,0,0,0.40334904,-29.215637,179.24503)"
+       d="m 1501,872.86218 a 183.5,183.5 0 1 1 -367,0 183.5,183.5 0 1 1 367,0 z"
+       sodipodi:ry="183.5"
+       sodipodi:rx="183.5"
+       sodipodi:cy="872.86218"
+       sodipodi:cx="1317.5"
+       id="path3965"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3969"
+       d="m 428.18218,531.31314 148.0291,0"
+       style="fill:none;stroke:#333333;stroke-width:1.21004713;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g3987"
+       style="stroke:#333333"
+       transform="matrix(0.40334904,0,0,0.40334904,-292.05267,-24.470374)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:none;stroke:#333333;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 2000.724,1377.922 c 0,-118.6717 -15.3502,-183.5893 -31.5873,-183.5 41.8136,0 83.9013,89.4643 83.9013,183.5"
+         id="path3973"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 2098.7244,1377.922 c 0,-122.7081 -79.5406,-185.0914 -126.7593,-185.0914 84.1811,0 161.3553,67.8721 161.3553,185.0914"
+         id="path3975"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3987"
+       id="use3993"
+       transform="matrix(-1,0,0,1,1004.3935,1.3156111e-5)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3987"
+       id="use3995"
+       transform="matrix(1,0,0,-1,0,1062.1801)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3987"
+       id="use3997"
+       transform="matrix(-1,0,0,-1,1004.3935,1062.1801)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g4013"
+       transform="matrix(0.40334904,0,0,0.40334904,-292.05267,-30.818483)"
+       style="stroke:#333333"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4003"
+         d="m 2143.085,1334.8842 -173.9483,0"
+         style="fill:none;stroke:#333333;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4005"
+         d="m 2117.9133,1286.2236 -148.7766,0.25"
+         style="fill:none;stroke:#333333;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4007"
+         d="m 2087.2356,1253.1623 -118.0989,0"
+         style="fill:none;stroke:#333333;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4009"
+         d="m 2055.5478,1231.5337 -86.4111,0"
+         style="fill:none;stroke:#333333;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4013"
+       id="use4019"
+       transform="matrix(-1,0,0,1,1004.4901,0)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4013"
+       id="use4021"
+       transform="matrix(1,0,0,-1,0,1062.6872)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4013"
+       id="use4025"
+       transform="matrix(-1,0,0,-1,1004.4901,1062.6872)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       y="-504.04462"
+       x="-447.2319"
+       height="3.695781"
+       width="92.319817"
+       id="rect6294"
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:1.48344004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0,-1,-1,0,0,0)"
+       ry="1.7020106"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:3.88763881;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6290"
+       width="534.67102"
+       height="11.766479"
+       x="104.71173"
+       y="346.06531"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 448.11958,481.34083 -20.1992,-119.6058"
+       inkscape:path-effect="#path-effect4812"
+       id="path4810"
+       d="m 448.11958,481.34083 -20.1992,-119.6058"
+       style="fill:none;stroke:#aa0000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       inkscape:transform-center-x="10.990332"
+       inkscape:transform-center-y="-60.406481"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="-69.176991"
+       inkscape:transform-center-x="57.417545"
+       style="fill:none;stroke:#aa0000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="M 436.20206,497.96767 321.45505,360.31113"
+       id="path4806"
+       inkscape:path-effect="#path-effect4808"
+       inkscape:original-d="M 436.20206,497.96767 321.45505,360.31113"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="M 428.9749,519.68316 259.16912,462.39323"
+       inkscape:path-effect="#path-effect4804"
+       id="path4802"
+       d="M 428.9749,519.68316 259.16912,462.39323"
+       style="fill:none;stroke:#aa0000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       inkscape:transform-center-x="85.310614"
+       inkscape:transform-center-y="-28.7724"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="M 248.71662,527.33401 433.32644,498.24478"
+       inkscape:path-effect="#path-effect14939"
+       id="path14935"
+       d="M 248.71662,527.33401 433.32644,498.24478"
+       style="fill:none;stroke:#ff6600;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 248.53725,523.40874 c 63.54257,-10.63668 197.00072,-42.32156 196.56724,-42.03587"
+       inkscape:path-effect="#path-effect14894"
+       id="path7281"
+       d="M 248.53725,523.40874 445.10449,481.37287"
+       style="fill:none;stroke:#ff6600;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="M 247.92298,530.89126 426.17164,520.22174"
+       id="path6335"
+       inkscape:path-effect="#path-effect14900"
+       inkscape:original-d="M 247.92298,530.89126 426.17164,520.22174"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="-75.051424"
+       inkscape:transform-center-x="13.536535"
+       style="fill:none;stroke:#aa0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="M 448.1196,580.83931 422.73854,729.06027"
+       id="path4846"
+       inkscape:path-effect="#path-effect4888"
+       inkscape:original-d="M 448.1196,580.83931 422.73854,729.06027"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="M 436.20206,564.21248 321.45505,701.86902"
+       inkscape:path-effect="#path-effect110382"
+       id="path4848"
+       d="M 436.20206,564.21248 321.45505,701.86902"
+       style="fill:none;stroke:#aa0000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       inkscape:transform-center-x="57.417545"
+       inkscape:transform-center-y="-69.176991"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="-28.7724"
+       inkscape:transform-center-x="85.310614"
+       style="fill:none;stroke:#aa0000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="M 428.9749,542.49699 259.16912,599.78692"
+       id="path4850"
+       inkscape:path-effect="#path-effect110379"
+       inkscape:original-d="M 428.9749,542.49699 259.16912,599.78692"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 248.71662,534.84614 184.60982,29.08923"
+       id="path4852"
+       inkscape:path-effect="#path-effect110376"
+       inkscape:original-d="m 248.71662,534.84614 184.60982,29.08923"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 248.53725,538.77141 196.56724,42.03587"
+       id="path4854"
+       inkscape:path-effect="#path-effect110373"
+       inkscape:original-d="m 248.53725,538.77141 c 63.54257,10.63668 197.00072,42.32156 196.56724,42.03587"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 247.92298,531.28889 178.24866,10.66952"
+       inkscape:path-effect="#path-effect110370"
+       id="path4856"
+       d="m 247.92298,531.28889 178.24866,10.66952"
+       style="fill:none;stroke:#ff6600;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/disko-kugel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

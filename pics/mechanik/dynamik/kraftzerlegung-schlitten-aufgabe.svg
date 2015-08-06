@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg21881"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="kraftzerlegung-schlitten-aufgabe.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.63852197"
+     inkscape:cx="270.04121"
+     inkscape:cy="671.01329"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-page="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid29437" />
+    <sodipodi:guide
+       orientation="-0.17364818,0.98480775"
+       position="300.16536,383.24881"
+       id="guide17341" />
+  </sodipodi:namedview>
+  <title
+     id="title7038">Kraftzerlegung beim Ziehen eines Schlittens</title>
+  <defs
+     id="defs21883">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path23236"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7011"
+       is_visible="true" />
+  </defs>
+  <metadata
+     id="metadata21886">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Kraftzerlegung beim Ziehen eines Schlittens</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2013-08-09</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de_DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Dynamik</rdf:li>
+            <rdf:li>Kraftzerlegung</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.31226254;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect29149"
+       width="703.78223"
+       height="404.20407"
+       x="20.156128"
+       y="324.07904" />
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0.97646683;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect29347"
+       width="16.162441"
+       height="579.22498"
+       x="-616.47833"
+       y="82.434753"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <g
+       inkscape:transform-center-x="-53.016167"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-strassenlampe-aufgabe.png"
+       id="g3147"
+       transform="matrix(0.60568339,-0.06087265,-0.06087265,-0.60568339,257.64932,880.42685)"
+       inkscape:transform-center-y="24.22098" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path18127"
+       d="m 287.14271,542.9381 203.06529,0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.99999999, 2.99999996;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g22001"
+       style="fill:#d40000;fill-opacity:1;stroke:#aa0000;stroke-width:1;stroke-opacity:1"
+       transform="matrix(5.2927626,0,0,5.2927626,-957.14726,-38.816623)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$\\vec{F}_{\\rm{G}}$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs22003">
+        <g
+           id="g22005">
+          <symbol
+             id="textext-eb01c7c8-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path22008"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-eb01c7c8-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path22011"
+               d="m 5.359375,-5.9375 c -0.140625,0.140625 -0.46875,0.421875 -0.46875,0.59375 0,0.09375 0.09375,0.203125 0.1875,0.203125 0.09375,0 0.140625,-0.078125 0.203125,-0.140625 C 5.390625,-5.421875 5.625,-5.703125 6.0625,-5.921875 6.125,-5.96875 6.234375,-6.015625 6.234375,-6.125 6.234375,-6.234375 6.15625,-6.28125 6.09375,-6.328125 5.875,-6.484375 5.765625,-6.65625 5.6875,-6.890625 5.65625,-6.984375 5.625,-7.125 5.484375,-7.125 c -0.140625,0 -0.203125,0.140625 -0.203125,0.21875 0,0.046875 0.078125,0.359375 0.234375,0.578125 l -3.359375,0 c -0.15625,0 -0.34375,0 -0.34375,0.203125 0,0.1875 0.1875,0.1875 0.34375,0.1875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-eb01c7c8-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path22014"
+               d="m 3.015625,-3.234375 0.96875,0 c 0.75,0 0.828125,0.15625 0.828125,0.4375 0,0.078125 0,0.1875 -0.0625,0.5 C 4.71875,-2.25 4.71875,-2.21875 4.71875,-2.1875 c 0,0.078125 0.0625,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.203125 L 5.53125,-4.453125 C 5.5625,-4.5625 5.5625,-4.578125 5.5625,-4.609375 5.5625,-4.625 5.546875,-4.71875 5.4375,-4.71875 5.34375,-4.71875 5.328125,-4.671875 5.296875,-4.5 5.078125,-3.734375 4.859375,-3.546875 4,-3.546875 l -0.90625,0 0.640625,-2.53125 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.3125,0 c 1.21875,0 1.453125,0.328125 1.453125,1.09375 0,0.234375 0,0.265625 -0.03125,0.546875 C 7,-4.703125 7,-4.6875 7,-4.65625 c 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.109375,-0.0625 0.125,-0.25 L 7.453125,-6.515625 C 7.484375,-6.78125 7.4375,-6.78125 7.1875,-6.78125 l -4.890625,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.5625,-0.03125 1.84375,-0.03125 2.171875,-0.03125 3,0 3.328125,0 3.421875,0 3.53125,0 3.53125,-0.1875 3.53125,-0.265625 3.484375,-0.296875 3.484375,-0.296875 3.453125,-0.3125 3.421875,-0.3125 3.203125,-0.3125 c -0.21875,0 -0.265625,0 -0.515625,-0.015625 -0.296875,-0.03125 -0.328125,-0.078125 -0.328125,-0.203125 0,-0.015625 0,-0.078125 0.046875,-0.21875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-eb01c7c8-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path22017"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-eb01c7c8-4"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path22020"
+               d="m 5.1875,-1.359375 c 0,-0.3125 0.078125,-0.3125 0.546875,-0.3125 l 0,-0.25 c -0.0625,0 -0.5625,0.03125 -0.90625,0.03125 -0.375,0 -0.890625,0 -1.265625,-0.03125 l 0,0.25 0.265625,0 c 0.703125,0 0.703125,0.09375 0.703125,0.3125 l 0,0.453125 c 0,0.15625 0,0.421875 -0.40625,0.625 -0.328125,0.171875 -0.71875,0.171875 -0.8125,0.171875 -0.796875,0 -2.078125,-0.453125 -2.078125,-2.28125 0,-1.84375 1.328125,-2.25 2.015625,-2.25 0.671875,0 1.515625,0.453125 1.6875,1.65625 0.015625,0.078125 0.078125,0.078125 0.125,0.078125 0.125,0 0.125,-0.046875 0.125,-0.1875 l 0,-1.625 c 0,-0.125 0,-0.1875 -0.09375,-0.1875 -0.03125,0 -0.0625,0 -0.125,0.09375 l -0.359375,0.53125 c -0.34375,-0.359375 -0.84375,-0.625 -1.453125,-0.625 -1.453125,0 -2.671875,1.125 -2.671875,2.515625 0,1.390625 1.1875,2.53125 2.6875,2.53125 0.390625,0 1.15625,-0.078125 1.484375,-0.5625 C 4.78125,-0.234375 5.03125,0 5.109375,0 5.1875,0 5.1875,-0.078125 5.1875,-0.1875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-eb01c7c8-5"
+         style="fill:#d40000;stroke:#aa0000;stroke-width:1">
+        <g
+           id="g22023"
+           style="fill:#d40000;fill-opacity:1;stroke:#aa0000;stroke-width:1">
+          <use
+             id="use22025"
+             y="132.246"
+             x="224.901"
+             xlink:href="#textext-eb01c7c8-1"
+             width="744.09448"
+             height="1052.3622"
+             style="fill:#d40000;stroke:#aa0000;stroke-width:1" />
+        </g>
+        <g
+           id="g22027"
+           style="fill:#d40000;fill-opacity:1;stroke:#aa0000;stroke-width:1">
+          <use
+             id="use22029"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-eb01c7c8-2"
+             width="744.09448"
+             height="1052.3622"
+             style="fill:#d40000;stroke:#aa0000;stroke-width:1" />
+        </g>
+        <g
+           id="g22031"
+           style="fill:#d40000;fill-opacity:1;stroke:#aa0000;stroke-width:1">
+          <use
+             id="use22033"
+             y="136.259"
+             x="229.839"
+             xlink:href="#textext-eb01c7c8-4"
+             width="744.09448"
+             height="1052.3622"
+             style="fill:#d40000;stroke:#aa0000;stroke-width:1" />
+        </g>
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3928"
+       d="M 317.25195,541.14613 488.26803,511.85986"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g19046"
+       style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1.88754737;stroke-opacity:1"
+       transform="matrix(2.8040425,-1.772302e-8,1.772302e-8,2.8040425,-262.82531,189.42383)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$\\alpha$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs19048">
+        <g
+           id="g19050">
+          <symbol
+             id="textext-0e51608b-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path19053"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-0e51608b-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path19056"
+               d="m 4.75,-2.359375 c 0,-1.5625 -0.921875,-2.046875 -1.65625,-2.046875 -1.375,0 -2.6875,1.421875 -2.6875,2.828125 0,0.9375 0.59375,1.6875 1.625,1.6875 0.625,0 1.34375,-0.234375 2.09375,-0.84375 0.125,0.53125 0.453125,0.84375 0.90625,0.84375 0.53125,0 0.84375,-0.546875 0.84375,-0.703125 0,-0.078125 -0.0625,-0.109375 -0.125,-0.109375 -0.0625,0 -0.09375,0.03125 -0.125,0.109375 -0.1875,0.484375 -0.546875,0.484375 -0.5625,0.484375 -0.3125,0 -0.3125,-0.78125 -0.3125,-1.015625 0,-0.203125 0,-0.234375 0.109375,-0.34375 C 5.796875,-2.65625 6,-3.8125 6,-3.8125 6,-3.84375 5.984375,-3.921875 5.875,-3.921875 c -0.09375,0 -0.09375,0.03125 -0.140625,0.21875 -0.1875,0.625 -0.515625,1.375 -0.984375,1.96875 z m -0.65625,1.375 c -0.890625,0.765625 -1.65625,0.875 -2.046875,0.875 -0.59375,0 -0.90625,-0.453125 -0.90625,-1.09375 0,-0.484375 0.265625,-1.5625 0.578125,-2.0625 C 2.1875,-4 2.734375,-4.1875 3.078125,-4.1875 c 0.984375,0 0.984375,1.3125 0.984375,2.078125 0,0.375 0,0.953125 0.03125,1.125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-0e51608b-2"
+         style="stroke-width:1.88754737">
+        <g
+           id="g19059"
+           style="fill:#000000;fill-opacity:1;stroke-width:1.88754737">
+          <use
+             id="use19061"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-0e51608b-1"
+             width="744.09448"
+             height="1052.3622"
+             style="stroke-width:1.88754737" />
+        </g>
+      </g>
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#6c5353;stroke-width:13.72079086;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path21358"
+       sodipodi:cx="202.93321"
+       sodipodi:cy="596.38538"
+       sodipodi:rx="70.0438"
+       sodipodi:ry="70.0438"
+       d="M 231.99522,532.65521 A 70.0438,70.0438 0 0 1 231.40793,660.3801"
+       sodipodi:start="5.1402349"
+       sodipodi:end="7.4353317"
+       transform="matrix(0.5830568,0,0,0.5830568,157.11885,211.66723)"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#6c5353;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 294.21029,596.31586 -154.12584,0"
+       id="path21360"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path21362"
+       d="m 309.76807,541.82458 -169.68362,0"
+       style="fill:none;stroke:#6c5353;stroke-width:7.99999809;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#6c5353;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 162.13845,596.40364 0,-53.30217"
+       id="path21364"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path21366"
+       d="m 269.38387,596.40363 0,-53.30217"
+       style="fill:none;stroke:#6c5353;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       ns0:text="$\\vec{F}_{\\rm{Z}}$"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(5.2927626,0,0,5.2927626,-754.93804,-275.25791)"
+       style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1;stroke-opacity:1"
+       id="g21415"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs21417">
+        <g
+           id="g21419">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-cd4a4a93-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path21422" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-cd4a4a93-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 5.359375,-5.9375 c -0.140625,0.140625 -0.46875,0.421875 -0.46875,0.59375 0,0.09375 0.09375,0.203125 0.1875,0.203125 0.09375,0 0.140625,-0.078125 0.203125,-0.140625 C 5.390625,-5.421875 5.625,-5.703125 6.0625,-5.921875 6.125,-5.96875 6.234375,-6.015625 6.234375,-6.125 6.234375,-6.234375 6.15625,-6.28125 6.09375,-6.328125 5.875,-6.484375 5.765625,-6.65625 5.6875,-6.890625 5.65625,-6.984375 5.625,-7.125 5.484375,-7.125 c -0.140625,0 -0.203125,0.140625 -0.203125,0.21875 0,0.046875 0.078125,0.359375 0.234375,0.578125 l -3.359375,0 c -0.15625,0 -0.34375,0 -0.34375,0.203125 0,0.1875 0.1875,0.1875 0.34375,0.1875 z m 0,0"
+               id="path21425" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-cd4a4a93-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.015625,-3.234375 0.96875,0 c 0.75,0 0.828125,0.15625 0.828125,0.4375 0,0.078125 0,0.1875 -0.0625,0.5 C 4.71875,-2.25 4.71875,-2.21875 4.71875,-2.1875 c 0,0.078125 0.0625,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.203125 L 5.53125,-4.453125 C 5.5625,-4.5625 5.5625,-4.578125 5.5625,-4.609375 5.5625,-4.625 5.546875,-4.71875 5.4375,-4.71875 5.34375,-4.71875 5.328125,-4.671875 5.296875,-4.5 5.078125,-3.734375 4.859375,-3.546875 4,-3.546875 l -0.90625,0 0.640625,-2.53125 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.3125,0 c 1.21875,0 1.453125,0.328125 1.453125,1.09375 0,0.234375 0,0.265625 -0.03125,0.546875 C 7,-4.703125 7,-4.6875 7,-4.65625 c 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.109375,-0.0625 0.125,-0.25 L 7.453125,-6.515625 C 7.484375,-6.78125 7.4375,-6.78125 7.1875,-6.78125 l -4.890625,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.5625,-0.03125 1.84375,-0.03125 2.171875,-0.03125 3,0 3.328125,0 3.421875,0 3.53125,0 3.53125,-0.1875 3.53125,-0.265625 3.484375,-0.296875 3.484375,-0.296875 3.453125,-0.3125 3.421875,-0.3125 3.203125,-0.3125 c -0.21875,0 -0.265625,0 -0.515625,-0.015625 -0.296875,-0.03125 -0.328125,-0.078125 -0.328125,-0.203125 0,-0.015625 0,-0.078125 0.046875,-0.21875 z m 0,0"
+               id="path21428" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-cd4a4a93-3">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path21431" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-cd4a4a93-4">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 4.265625,-4.46875 c 0.0625,-0.078125 0.0625,-0.109375 0.0625,-0.15625 0,-0.140625 -0.0625,-0.140625 -0.203125,-0.140625 l -3.453125,0 -0.078125,1.609375 0.234375,0 c 0.0625,-1.03125 0.5625,-1.359375 1.484375,-1.359375 l 1.21875,0 -2.984375,4.21875 c -0.0625,0.078125 -0.0625,0.09375 -0.0625,0.15625 C 0.484375,0 0.546875,0 0.6875,0 l 3.5625,0 0.125,-1.90625 -0.234375,0 c -0.0625,0.9375 -0.1875,1.625 -1.5625,1.625 l -1.28125,0 z m 0,0"
+               id="path21434" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#d40000;stroke-width:1"
+         id="textext-cd4a4a93-5"
+         transform="translate(-2.663264,10.610355)">
+        <g
+           style="fill:#d40000;fill-opacity:1;stroke-width:1"
+           id="g21437">
+          <use
+             style="fill:#d40000;stroke-width:1"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-cd4a4a93-1"
+             x="224.901"
+             y="132.246"
+             id="use21439" />
+        </g>
+        <g
+           style="fill:#d40000;fill-opacity:1;stroke-width:1"
+           id="g21441">
+          <use
+             style="fill:#d40000;stroke-width:1"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-cd4a4a93-2"
+             x="223.43201"
+             y="134.765"
+             id="use21443" />
+        </g>
+        <g
+           style="fill:#d40000;fill-opacity:1;stroke-width:1"
+           id="g21445">
+          <use
+             style="fill:#d40000;stroke-width:1"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-cd4a4a93-4"
+             x="229.839"
+             y="136.259"
+             id="use21447" />
+        </g>
+      </g>
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.99999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect38497"
+       width="30.885427"
+       height="92.656288"
+       x="-532.81885"
+       y="447.39767"
+       ry="15.442716"
+       transform="matrix(-0.99613567,0.08782787,0.08782787,0.99613567,0,0)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:#000000;stroke-width:0.84936261;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path38505"
+       sodipodi:cx="219.20311"
+       sodipodi:cy="156.86195"
+       sodipodi:rx="6.0609155"
+       sodipodi:ry="6.0609155"
+       d="m 225.26403,156.86195 a 6.0609155,6.0609155 0 1 1 -12.12184,0 6.0609155,6.0609155 0 1 1 12.12184,0 z"
+       transform="matrix(-2.765369,-0.75191966,-0.75191966,2.765369,1276.6423,107.9212)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       transform="matrix(-0.15104993,0.98852613,0.9884292,0.15168292,0,0)"
+       ry="9.4659758"
+       y="610.32788"
+       x="377.95755"
+       height="18.931952"
+       width="79.1334"
+       id="rect38507"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       rx="13.875622"
+       transform="matrix(-0.66457977,0.74721732,-0.7467014,-0.66515939,0,0)"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.64443761;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect38511"
+       width="86.516273"
+       height="22.298803"
+       x="31.574308"
+       y="-776.76794"
+       ry="11.149402"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.00000095;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect21891"
+       width="79.1334"
+       height="18.931952"
+       x="699.29443"
+       y="158.56915"
+       ry="9.4659758"
+       transform="matrix(0.5921851,0.80580196,0.80618101,-0.59166898,0,0)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       ry="11.149404"
+       y="-572.40796"
+       x="546.89801"
+       height="22.298807"
+       width="86.516281"
+       id="rect21893"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.64443767;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0.05843357,0.9982913,-0.99833634,0.05765891,0,0)"
+       rx="13.875623"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       rx="11.647698"
+       transform="matrix(0.25250931,-0.96759447,0.96739824,0.25326003,0,0)"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.64443755;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect23375"
+       width="72.624886"
+       height="18.718422"
+       x="-511.90045"
+       y="377.50897"
+       ry="9.359211"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(1.1370842,-0.30468079,0.30468079,1.1370842,-60.507013,135.50053)"
+       id="g22394"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.09685612;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect22009"
+         width="22.023809"
+         height="66.071426"
+         x="158.63623"
+         y="308.30652"
+         ry="11.011905"
+         transform="matrix(0.99613567,0.08782787,-0.08782787,0.99613567,0,0)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.09685612;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect22011"
+         width="56.428574"
+         height="15"
+         x="221.00601"
+         y="326.29257"
+         ry="7.5"
+         transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;stroke:#000000;stroke-width:1.01182508;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path22029"
+         sodipodi:cx="219.20311"
+         sodipodi:cy="156.86195"
+         sodipodi:rx="6.0609155"
+         sodipodi:ry="6.0609155"
+         d="m 225.26403,156.86195 c 0,3.34735 -2.71357,6.06092 -6.06092,6.06092 -3.34735,0 -6.06092,-2.71357 -6.06092,-6.06092 0,-3.34735 2.71357,-6.06091 6.06092,-6.06091 3.34735,0 6.06092,2.71356 6.06092,6.06091 z"
+         transform="matrix(1.7659665,-1.0282832,1.0282832,1.7659665,-402.49191,252.47402)" />
+    </g>
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 552.86784,397.65775 c -2.35698,0.048 -4.68851,1.1212 -6.28125,3.125 l -36.75,46.25 c -0.55967,0.70411 -0.98434,1.48421 -1.28125,2.28125 -0.98666,0.93514 -1.78124,2.13512 -2.21875,3.53125 l -17.6875,56.375 c -1.36079,4.34234 1.02264,8.92711 5.34375,10.28125 4.32111,1.35414 8.92046,-1.03266 10.28125,-5.375 l 17.5625,-56.0625 c 0.27555,-0.26258 0.53737,-0.53692 0.78125,-0.84375 L 559.39909,410.939 c 2.83154,-3.56231 2.26364,-8.6823 -1.28125,-11.5 -1.55089,-1.23274 -3.4168,-1.81859 -5.25,-1.78125 z"
+       id="rect23153"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       id="g22119"
+       transform="matrix(0.46837315,0.17139495,-0.17139495,0.46837315,333.92806,208.25286)"
+       inkscape:transform-center-x="-51.964624"
+       inkscape:transform-center-y="-10.372426">
+      <g
+         inkscape:transform-center-y="-86.327536"
+         transform="matrix(0.86602541,-0.50000001,0.50000001,0.86602541,-49.354106,414.92436)"
+         inkscape:transform-center-x="-149.52172"
+         id="g22121">
+        <g
+           transform="matrix(1,0,0,-1,-85.03402,474.27777)"
+           id="g22123">
+          <path
+             inkscape:connector-curvature="0"
+             id="path22125"
+             d="m 314.93155,156.14605 c 70.68139,0 130.88748,0 199.44913,0"
+             style="fill:#d40000;stroke:#d40000;stroke-width:12.0301218;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:type="star"
+             style="fill:#d40000;stroke:#d40000;stroke-width:30.88739777;stroke-miterlimit:4;stroke-dasharray:none"
+             id="path22127"
+             sodipodi:sides="3"
+             sodipodi:cx="-707.10675"
+             sodipodi:cy="1607.946"
+             sodipodi:r1="12.121831"
+             sodipodi:r2="6.060915"
+             sodipodi:arg1="1.5707963"
+             sodipodi:arg2="2.6179939"
+             inkscape:flatsided="false"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+             inkscape:transform-center-y="-0.00017641075"
+             transform="matrix(1.645499e-5,-0.5103719,0.5103719,1.645499e-5,-302.25862,-204.76773)"
+             inkscape:transform-center-x="-3.0302635" />
+        </g>
+      </g>
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.78830904;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path23217"
+       sodipodi:cx="369.18341"
+       sodipodi:cy="671.55096"
+       sodipodi:rx="66.583138"
+       sodipodi:ry="66.583138"
+       d="m 434.85517,660.57213 a 66.583138,66.583138 0 0 1 0.89058,12.64303"
+       transform="matrix(1.2685379,0,0,1.2685379,-151.07121,-310.74173)"
+       sodipodi:start="6.1175397"
+       sodipodi:end="6.3081822"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:open="true"
+       sodipodi:end="6.3081822"
+       sodipodi:start="6.1175397"
+       transform="matrix(-1.098586,-0.63426895,0.63426895,-1.098586,431.31001,1552.9646)"
+       d="m 434.85517,660.57213 a 66.583138,66.583138 0 0 1 0.89058,12.64303"
+       sodipodi:ry="66.583138"
+       sodipodi:rx="66.583138"
+       sodipodi:cy="671.55096"
+       sodipodi:cx="369.18341"
+       id="path23221"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.78830904;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 199.66444,454.56599 c -1.89426,0.0386 -3.73312,0.89616 -5.01317,2.50657 l -29.55932,37.17077 c -0.0141,0.0155 -0.0165,0.0454 -0.0306,0.0611 -0.0403,0.0518 -0.0838,0.10023 -0.12226,0.15284 -0.90801,1.07964 -1.49496,2.44616 -1.55898,3.97385 l -1.98693,47.47221 c -0.15313,3.65399 2.6609,6.72542 6.29703,6.87781 3.63613,0.15239 6.69411,-2.67359 6.84725,-6.32759 l 1.89521,-45.39358 28.48944,-35.82577 c 2.27565,-2.86296 1.80965,-6.99759 -1.03931,-9.26212 -1.24643,-0.99074 -2.74508,-1.43615 -4.21839,-1.40613 z"
+       id="rect23153-7"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       inkscape:transform-center-y="80.874598"
+       inkscape:transform-center-x="0.41490865"
+       transform="matrix(-0.24937404,0.4319285,-0.4319285,-0.24937404,540.02496,595.71501)"
+       id="g8049"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g3460"
+         inkscape:transform-center-x="-149.52172"
+         transform="matrix(0.86602541,-0.50000001,0.50000001,0.86602541,-49.354106,414.92436)"
+         inkscape:transform-center-y="-86.327536">
+        <g
+           id="g6315"
+           transform="matrix(1,0,0,-1,-85.03402,474.27777)">
+          <path
+             sodipodi:nodetypes="cc"
+             style="fill:#d40000;stroke:#d40000;stroke-width:12.0301218;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 239.35719,156.14605 c 97.46366,0 180.48277,0 275.02349,0"
+             id="path6317"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:transform-center-x="-3.0302635"
+             transform="matrix(1.645499e-5,-0.5103719,0.5103719,1.645499e-5,-302.25862,-204.76773)"
+             inkscape:transform-center-y="-0.00017641075"
+             d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+             inkscape:randomized="0"
+             inkscape:rounded="0"
+             inkscape:flatsided="false"
+             sodipodi:arg2="2.6179939"
+             sodipodi:arg1="1.5707963"
+             sodipodi:r2="6.060915"
+             sodipodi:r1="12.121831"
+             sodipodi:cy="1607.946"
+             sodipodi:cx="-707.10675"
+             sodipodi:sides="3"
+             id="path6319"
+             style="fill:#d40000;stroke:#d40000;stroke-width:30.88739777;stroke-miterlimit:4;stroke-dasharray:none"
+             sodipodi:type="star" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

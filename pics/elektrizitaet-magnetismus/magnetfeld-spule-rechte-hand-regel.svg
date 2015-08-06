@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="magnetfeld-spule-rechte-hand-regel.svg"
+   inkscape:version="0.48.4 r9939"
+   version="1.1"
+   id="svg20453"
+   height="1052.3622"
+   width="1488.189"
+   inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title18101">Rechte-Hand-Regel (Spule)</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5482675"
+     inkscape:cx="214.92547"
+     inkscape:cy="747.19148"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:object-nodes="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
+    <sodipodi:guide
+       id="guide36641"
+       orientation="1052.3622,0"
+       position="0.0,0" />
+    <sodipodi:guide
+       id="guide36643"
+       orientation="1052.3622,0"
+       position="744.0945,0" />
+    <sodipodi:guide
+       id="guide36645"
+       orientation="1052.3622,0"
+       position="1488.189,0" />
+    <sodipodi:guide
+       id="guide36647"
+       orientation="0,1488.189"
+       position="0,0.0" />
+    <sodipodi:guide
+       id="guide36649"
+       orientation="0,1488.189"
+       position="0,526.1811" />
+    <sodipodi:guide
+       id="guide36651"
+       orientation="0,1488.189"
+       position="0,1052.3622" />
+    <sodipodi:guide
+       orientation="-0.98302562,0.18346835"
+       position="1234.202,474.25759"
+       id="guide39399" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1976.2911,-477.30608"
+       id="guide39539" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1745.4369,-401.66469"
+       id="guide39605" />
+    <sodipodi:guide
+       orientation="-0.70710678,0.70710678"
+       position="372.43721,679.08535"
+       id="guide6180" />
+    <sodipodi:guide
+       orientation="0.70710678,0.70710678"
+       position="372.25951,397.17219"
+       id="guide6192" />
+  </sodipodi:namedview>
+  <defs
+     id="defs20455">
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path33893" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path33774" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path33893-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6114"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6116"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6118"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6120"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6122"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6124"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4385"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6676"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6678"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <defs
+       id="defs8504">
+      <g
+         id="g8506">
+        <symbol
+           style="overflow:visible"
+           overflow="visible"
+           id="textext-55e3a795-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             d="m 3.484375,-3.875 -1.28125,-0.296875 c -0.625,-0.15625 -1,-0.6875 -1,-1.265625 0,-0.703125 0.53125,-1.3125 1.3125,-1.3125 1.65625,0 1.875,1.640625 1.9375,2.078125 0.015625,0.0625 0.015625,0.125 0.125,0.125 0.125,0 0.125,-0.046875 0.125,-0.234375 l 0,-2 c 0,-0.171875 0,-0.25 -0.109375,-0.25 -0.0625,0 -0.078125,0.015625 -0.140625,0.140625 l -0.359375,0.5625 C 3.796875,-6.625 3.390625,-7.03125 2.5,-7.03125 c -1.109375,0 -1.9375,0.875 -1.9375,1.9375 0,0.828125 0.53125,1.5625 1.296875,1.828125 0.109375,0.03125 0.625,0.15625 1.328125,0.328125 0.265625,0.0625 0.5625,0.140625 0.84375,0.5 0.203125,0.265625 0.3125,0.59375 0.3125,0.921875 0,0.703125 -0.5,1.421875 -1.34375,1.421875 -0.28125,0 -1.046875,-0.046875 -1.578125,-0.53125 C 0.84375,-1.171875 0.8125,-1.796875 0.8125,-2.15625 0.796875,-2.265625 0.71875,-2.265625 0.6875,-2.265625 c -0.125,0 -0.125,0.078125 -0.125,0.25 l 0,2 c 0,0.171875 0,0.234375 0.109375,0.234375 0.0625,0 0.078125,-0.015625 0.140625,-0.125 0,-0.015625 0.03125,-0.046875 0.359375,-0.578125 0.3125,0.34375 0.953125,0.703125 1.84375,0.703125 1.15625,0 1.953125,-0.96875 1.953125,-2.078125 0,-0.984375 -0.65625,-1.8125 -1.484375,-2.015625 z m 0,0"
+             id="path8509" />
+        </symbol>
+      </g>
+    </defs>
+    <defs
+       id="defs8054">
+      <g
+         id="g8056">
+        <symbol
+           id="textext-778f2b40-0"
+           overflow="visible"
+           style="overflow:visible">
+          <path
+             id="path8059"
+             d="M 2.3125,-6.671875 C 2.21875,-6.796875 2.21875,-6.8125 2.03125,-6.8125 l -1.703125,0 0,0.3125 0.296875,0 c 0.140625,0 0.34375,0.015625 0.484375,0.015625 0.234375,0.03125 0.25,0.046875 0.25,0.234375 l 0,5.203125 c 0,0.265625 0,0.734375 -1.03125,0.734375 l 0,0.3125 C 0.671875,-0.015625 1.171875,-0.03125 1.5,-0.03125 c 0.328125,0 0.8125,0.015625 1.15625,0.03125 l 0,-0.3125 c -1.015625,0 -1.015625,-0.46875 -1.015625,-0.734375 l 0,-5.1875 c 0.046875,0.046875 0.046875,0.0625 0.09375,0.125 L 5.796875,-0.125 C 5.890625,-0.015625 5.90625,0 5.96875,0 6.109375,0 6.109375,-0.0625 6.109375,-0.265625 l 0,-5.5 c 0,-0.265625 0,-0.734375 1.03125,-0.734375 l 0,-0.3125 c -0.359375,0.015625 -0.84375,0.03125 -1.171875,0.03125 -0.328125,0 -0.8125,-0.015625 -1.15625,-0.03125 l 0,0.3125 c 1.015625,0 1.015625,0.46875 1.015625,0.734375 l 0,4.265625 z m 0,0"
+             style="stroke:none"
+             inkscape:connector-curvature="0" />
+        </symbol>
+      </g>
+    </defs>
+  </defs>
+  <metadata
+     id="metadata20458">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Rechte-Hand-Regel (Spule)</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2012-05-03</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Elektrizitaetslehre</rdf:li>
+            <rdf:li>Elektromagnetismus</rdf:li>
+            <rdf:li>Rechte-Hand-Regel</rdf:li>
+            <rdf:li>Magnetfeld</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,2.988066e-5)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <path
+       style="fill:#b3b3b3;stroke:#b3b3b3;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 744.09448,101.23856 0,849.88498"
+       id="path36768"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect36467"
+       width="574.0072"
+       height="1034.6912"
+       x="844.23248"
+       y="8.8354759"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text36513"
+       y="993.02313"
+       x="-1177.0834"
+       style="font-size:109.43502044999999612px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;font-family:Sans"
+       xml:space="preserve"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         y="993.02313"
+         x="-1177.0834"
+         id="tspan36515"
+         sodipodi:role="line"
+         style="stroke:#800000;fill:#800000">+</tspan></text>
+    <g
+       id="g36471"
+       transform="matrix(0.31902177,0,0,0.31902177,-377.5306,-1134.7185)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         transform="translate(0,-98.855775)"
+         id="g36473">
+        <path
+           style="fill:#ffccaa;fill-opacity:1;fill-rule:nonzero;stroke:#ffccaa;stroke-width:9.4037466;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 5006.6536,5874.2121 c -7.4311,-10.209 -20.5049,-28.3639 -29.0528,-40.3443 -23.0698,-32.3336 -98.828,-88.8064 -139.3379,-103.8673 -34.7195,-12.9082 -68.3956,-20.8112 -102.663,-24.0926 -48.5454,-4.6488 -117.6424,-27.1252 -187.2647,-60.915 -43.2557,-20.9933 -56.6663,-24.0659 -86.1897,-19.7473 -40.1674,5.8755 -87.8677,4.8098 -98.5695,-2.2022 -13.7201,-8.9898 -26.2516,-32.1316 -26.2516,-53.0583 0,-25.7367 4.0811,-42.4993 25.154,-54.5345 10.7517,-6.1405 22.432,-10.1948 19.3411,-11.107 -2.7886,-0.8231 -26.0748,-5.4674 -51.7472,-10.3208 -28.6661,-5.4194 -50.1757,-11.3869 -55.7438,-15.4653 -13.8361,-10.1343 -26.4751,-27.3827 -26.4812,-50.2697 -0.01,-25.0418 8.7318,-49.6332 25.6245,-60.0734 6.7662,-4.1818 13.9437,-8.9063 17.7939,-4.9612 -0.069,-1.2808 -8.1689,-7.8161 -17.9991,-14.5228 -9.8302,-6.7066 -25.3208,-18.2187 -31.2298,-25.5823 -8.9719,-11.1802 -13.763,-19.8356 -13.6144,-34.8398 -1.5326,-54.2462 43.1541,-98.6767 97.7776,-95.8168 l 32.1606,9.3056 -16.0296,-13.7117 c -36.1623,-30.9332 -40.052,-77.7923 -9.8562,-112.0965 22.422,-25.4728 63.8264,-39.2813 158.674,-59.7544 79.619,-17.1858 110.0465,-14.1859 202.6093,11.011 52.8601,14.3893 86.3721,15.6973 119.1629,4.6508 30.6954,-10.3405 47.8706,-21.4854 52.5193,-30.1717 6.2241,-11.6297 8.2898,-55.2489 3.6802,-87.6241 -2.4753,-17.385 -11.3112,-58.3731 -25.0749,-98.8554 -22.2873,-65.5521 -27.9252,-70.2872 -28.0712,-103.9037 -0.1926,-44.3694 4.4759,-80.8922 21.1505,-119.8168 19.8048,-46.2317 39.5015,-65.9202 66.9698,-61.7651 7.8915,1.1937 29.2626,4.9125 29.9102,7.6386 4.0525,17.0598 12.5034,57.6269 18.603,113.8138 6.1374,51.2295 22.826,95.6825 31.0538,144.1773 8.4356,47.7909 14.0215,53.8488 43.4001,96.9391 43.5641,63.8965 62.6999,109.8493 70.991,170.4784 9.7447,71.2582 19.3025,133.7731 24.006,157.0162 10.5164,51.9693 37.6644,148.8547 45.4169,162.0834 4.5913,7.8343 20.1645,28.037 34.6071,44.8949 14.4427,16.8578 27.1376,33.4175 28.2109,36.7992 1.2295,3.8737 -36.7346,83.8585 -102.6079,216.1801 -57.5076,115.5173 -105.2258,210.6978 -106.0403,211.5124 -0.8145,0.8144 -7.5608,-6.8719 -14.9919,-17.0808 z"
+           id="path36475"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csssssssscsscscsscccssssssssssssccssssscscc" />
+        <g
+           id="g36477"
+           transform="translate(1596.3805,423.73062)"
+           style="stroke:#000000;stroke-width:9.4037466">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:6.26916456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 3420.5349,5471.798 -62.8571,-87.6589 -91.4286,-68.5714 c -96.4696,-40.4061 -109.103,-29.2572 -160.3317,-38.3264 -56.0036,-9.9145 -99.1483,-33.7806 -119.6683,-38.8165 -13.874,-3.4048 -46.1301,-24.516 -80.4753,-37.648 -30.8096,-10.6066 -52.3818,2.2908 -96.6675,6.2194 -39.612,-2.5831 -59.5124,-4.0513 -73.9391,-50.9383 0,0 -3.0567,-28.1016 5.7143,-45.6994 15.8388,-27.6644 43.0305,-31.0969 43.0305,-31.0969 0,0 -74.7165,-11.9039 -107.5465,-22.0054 -27.5366,-20.461 -30.9729,-41.8737 -25.2241,-79.8119 4.4731,-18.6151 17.5325,-31.6745 37.1578,-41.7034 0,0 -2.7977,-3.6791 -33.1023,-22.3669 -40.5748,-39.8945 -19.6909,-91.0649 -15.5451,-96.5896 40.8719,-53.8448 71.1989,-53.9641 111.8512,-44.9602 -37.31,-29.8651 -46.6759,-59.748 -33.2261,-95.3405 9.3745,-21.0317 23.124,-41.6157 76.5437,-60.916 17.3162,-7.0711 58.8709,-18.2966 128.5714,-31.4286 47.1915,-10.0187 76.758,-6.5433 120,2.8571 l 90.4184,24.3575 c 61.8552,7.4701 117.0688,-14.3651 132.5032,-31.9637 6.6019,-10.9147 10.4466,-54.9994 0.4406,-121.4257 -5.193,-25.8896 -5.6326,-19.3241 -31.2404,-94.8354 -12.2794,-31.6474 -14.7545,-44.4071 -17.8361,-73.2755 -0.5376,-32.2804 5.5992,-65.0398 10.9383,-91.4286 13.7807,-38.2787 15.2265,-46.1631 29.0617,-65.7143 15.772,-22.2881 26.7902,-39.4066 77.4746,-22.6838 15.0936,41.9722 21.698,91.5881 20.52,103.0304 l 7.0413,59.4801 14.7907,45.9025 c 10.8716,25.5162 5.3984,48.5002 18.6433,92.9586 0,0 27.7346,50.7354 39.1632,62.1639 29.3321,38.9261 38.9418,68.114 58.4699,120 4.682,31.6334 12.4684,79.1483 12.4684,90.5769 0,11.4286 17.1429,111.4286 20,122.8571 2.8572,11.4286 20,74.2857 20,74.2857 16.6554,98.026 47.9541,92.9595 89.1002,157.8361 z"
+             id="path36479"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccsscccccccccccccccccccccscccccccssccc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:6.26916456;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 2815.7636,4628.0765 c 17.8571,13.5714 37.8571,27.1428 37.8571,27.1428 17.8571,8.9286 41.7857,17.8572 60,20.7143 l 40.7143,5.7143 c 35.7143,5.7143 66.0714,19.2858 66.0714,19.2858 26.0714,11.0714 33.9286,19.9999 33.9286,19.9999 32.6391,37.7246 31.5225,64.657 9.2857,103.5714 6.4286,3.5714 12.0085,5.5556 18.5714,15 25.2845,36.3858 17.8061,65.4706 -4.2857,93.5715 0,0 15.2416,12.0593 18.5715,20.7143 6.2606,16.2723 6.364,26.0592 6.2066,33.8127 -0.3939,19.4004 -5.9552,33.6666 -16.9209,45.473 -7.4041,7.9717 -30,12.8572 -30,12.8572 30.7671,15.5344 33.7175,40.9323 -1.1117,75.6276 -46.2379,23.9671 -76.7637,32.2109 -122.893,52.6479 l -67.0922,21.8978"
+             id="path36481"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccscssscccc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:9.4037466;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 2737.249,4770.2553 c 39.0583,18.9121 78.7541,34.6369 119.4529,45.3466 l 70.4902,7.4746 62.1429,4.2857 47.1429,2.8571 c 18.2143,1.4286 29.2857,-5 29.2857,-5"
+             id="path36483"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:9.4037466;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 2677.1921,4935.8111 171.4286,29.4082 c 0,0 26.6977,1.6548 40,0.7143 25.497,-1.8027 60.9433,-9.4126 75.7143,-12.1428 34.3068,-6.3411 68.1384,-8.1011 112.8572,-18.9286"
+             id="path36485"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccssc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:9.4037466;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 2771.4779,5080.2193 c 0,0 57.615,5.631 86.4285,4.2857 35.0814,-1.6379 77.5503,-9.0524 104.2857,-15 26.7354,-5.9476 37.9216,-12.892 56.4286,-17.1428 18.507,-4.2508 37.5,-5.7143 37.5,-5.7143"
+             id="path36487"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cszzc" />
+        </g>
+        <path
+           sodipodi:nodetypes="cccccc"
+           inkscape:connector-curvature="0"
+           id="path36489"
+           d="m 4644.9519,5244.6642 c -21.4286,-0.7143 -41.7857,-1.7857 -72.8571,-8.5714 -18.2143,-8.9286 -22.1429,-9.6429 -27.1429,-30 0,-8.5714 1.4286,-20.3572 8.9286,-30 14.3066,-11.3445 39.7149,-18.2363 83.9286,-14.2857 18.8205,25.5231 22.483,54.8644 7.1428,82.8571 z"
+           style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:6.26916456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path36491"
+           d="m 4573.5233,5298.9499 c 17.1516,-19.3957 49.5367,-31.3535 71.4286,-34.2857 35.9243,15.29 38.2484,48.6224 21.0714,84.6428 -35.3571,8.5714 -71.4285,9.2858 -82.8571,6.4287 -19.0102,-14.9263 -20.2523,-35.527 -9.6429,-56.7858 z"
+           style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:6.26916456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           sodipodi:nodetypes="sccccs"
+           inkscape:connector-curvature="0"
+           id="path36493"
+           d="m 4584.952,5431.0928 c -2.2827,-12.3169 1.0714,-30.7143 8.5714,-37.8572 18.4884,-11.6617 36.8246,-17.7612 64.2857,-22.8571 28.7926,18.4256 25.8468,44.9496 14.2857,80 -29.0649,5.5694 -44.5024,6.0113 -72.8572,0 -6.0714,-3.9286 -12.8865,-11.7359 -14.2856,-19.2857 z"
+           style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:6.26916456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           sodipodi:nodetypes="ccccsc"
+           inkscape:connector-curvature="0"
+           id="path36495"
+           d="m 4595.6804,5490.4637 c 20.1886,-6.981 32.1361,-11.7168 48.5064,-12.4372 21.7538,7.4756 21.9842,23.9951 12.1231,43.1354 -19.7436,9.6686 -25.8266,7.6888 -48.027,13.2648 -25.0546,4.6053 -29.7463,-9.2835 -29.8994,-15.627 -0.1888,-7.8252 -3.5892,-15.7834 17.2969,-28.336 z"
+           style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:6.26916456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path36497"
+         d="m 5142.5356,5215.3811 c -14.6666,84.8652 -55.5713,112.576 -128.0365,147.1984"
+         style="fill:none;stroke:#000000;stroke-width:3.13458228px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path36499"
+         d="m 4833.5951,5354.2139 c -1.588,-0.7644 -118.528,-31.5929 -156.5212,-95.9982"
+         style="fill:none;stroke:#000000;stroke-width:3.13458228px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path36501"
+         d="m 4807.5673,4988.3079 c 37.0353,-23.291 44.4175,-44.845 55.7438,-84.4867"
+         style="fill:none;stroke:#000000;stroke-width:3.13458228px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path36503"
+         d="m 4841.343,4699.7511 c 23.1181,-17.8244 32.1347,-14.8568 60.9698,-17.4199"
+         style="fill:none;stroke:#000000;stroke-width:3.13458228px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path36505"
+         d="m 4549.5921,5552.5083 c 1.4235,-12.5184 1.3303,-25.4159 -1.8786,-39.0923"
+         style="fill:none;stroke:#000000;stroke-width:3.13458228px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path36507"
+         d="m 4539.0911,5000.2012 c 2.0017,-8.8293 6.6208,-36.501 11.086,-65.284"
+         style="fill:none;stroke:#000000;stroke-width:3.13458228px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path36509"
+         d="m 4911.7212,5680.3297 c 23.3938,-33.5648 42.7364,-61.9835 47.2173,-101.0909 2.8171,-24.5866 6.4614,-39.085 11.1863,-55.9785"
+         style="fill:none;stroke:#000000;stroke-width:3.13458228px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g40590"
+       transform="matrix(0,1,-1,0,1657.2073,-590.38569)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path36511"
+         d="m 684.74644,526.18105 254.39469,-1.06111 m 330.53407,1.70241 218.5138,-0.6413"
+         style="fill:#333333;stroke:#000000;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         id="g40540">
+        <g
+           style="stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round"
+           id="g39707"
+           transform="matrix(-0.64570684,0,0,-0.64570684,2295.1703,1439.2563)">
+          <path
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1625.4972,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             id="path39709"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc"
+             transform="translate(0,-2.988066e-5)" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39711"
+             d="m 1588.1744,1413.0778 c 0,0 -4.8197,-120.9619 24.6934,-128.595"
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39713"
+             d="m 1646.4011,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1665.8472,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             id="path39715"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39717"
+             d="m 1685.1632,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1705.9371,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             id="path39719"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39721"
+             d="m 1726.711,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1747.4849,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             id="path39723"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39725"
+             d="m 1768.2588,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1789.0327,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             id="path39727"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39729"
+             d="m 1809.8066,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1830.5805,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             id="path39731"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39733"
+             d="m 1851.3544,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39735"
+             d="m 1934.45,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 2062.0934,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             id="path39737"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39739"
+             d="m 1996.7717,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 2041.3195,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             id="path39741"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39743"
+             d="m 1955.2239,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1913.6761,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             id="path39745"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39747"
+             d="m 1975.9978,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 2017.5456,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             id="path39749"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39751"
+             d="m 1892.9022,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#b3b3b3;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1872.1283,1453.8916 c -26.4838,0.4053 -21.3686,-162.3226 8.1445,-169.9557"
+             id="path39753"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <g
+           style="stroke:#000000;stroke-width:6.19476175;stroke-linecap:round"
+           id="g39755"
+           transform="matrix(-0.64570684,0,0,-0.64570684,2295.1703,1439.2563)">
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39757"
+             d="m 2070.2379,1284.0921 c 37.2759,-2.2994 29.8315,131.6222 29.8315,131.6222"
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39759"
+             d="m 1633.6417,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1612.8678,1284.4828 c 31.8322,-5.7834 41.5501,177.4738 12.6294,169.1336"
+             id="path39761"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39763"
+             d="m 1880.2728,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1901.0467,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             id="path39765"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39767"
+             d="m 1921.8206,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1942.5945,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             id="path39769"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39771"
+             d="m 1963.3684,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1653.0877,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             id="path39773"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39775"
+             d="m 1672.5338,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1693.3077,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             id="path39777"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39779"
+             d="m 1714.0816,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1734.8555,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             id="path39781"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39783"
+             d="m 1755.6294,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1776.4033,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             id="path39785"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39787"
+             d="m 1797.1772,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1817.9511,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             id="path39789"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39791"
+             d="m 1838.725,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 1859.4989,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             id="path39793"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39795"
+             d="m 1984.1423,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 2004.9162,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             id="path39797"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path39799"
+             d="m 2025.6901,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:6.19476175;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 2049.464,1284.2076 c 31.8322,-5.7834 41.5501,177.749 12.6294,169.4088"
+             id="path39801"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g39932"
+       transform="matrix(0,1,-1,0,2667.4594,530.63729)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g39880"
+         transform="matrix(0,-0.95004026,0.95004026,0,-520.00402,1907.4549)">
+        <g
+           transform="matrix(0.33579816,0,0,0.33579816,-1197.3546,-1205.5823)"
+           id="g39882">
+          <g
+             id="g39884"
+             transform="translate(0,-98.855775)">
+            <path
+               sodipodi:nodetypes="cssscsscscsscccscssssccccccsccsccc"
+               inkscape:connector-curvature="0"
+               id="path39886"
+               d="m 4459.3408,5616.4248 c -40.1674,5.8755 -85.063,13.6306 -95.7648,6.6186 -13.7201,-8.9898 -26.2516,-32.1316 -26.2516,-53.0583 0,-25.7367 4.0811,-42.4993 25.154,-54.5345 10.7517,-6.1405 22.432,-10.1948 19.3411,-11.107 -2.7886,-0.8231 -26.0748,-5.4674 -51.7472,-10.3208 -28.6661,-5.4194 -50.1757,-11.3869 -55.7438,-15.4653 -13.8361,-10.1343 -26.4751,-27.3827 -26.4812,-50.2697 -0.01,-25.0418 8.7318,-49.6332 25.6245,-60.0734 6.7662,-4.1818 13.9437,-8.9063 17.7939,-4.9612 -0.069,-1.2808 -8.1689,-7.8161 -17.9991,-14.5228 -9.8302,-6.7066 -25.3208,-18.2187 -31.2298,-25.5823 -8.9719,-11.1802 -13.763,-19.8356 -13.6144,-34.8398 -1.5326,-54.2462 43.1541,-98.6767 97.7776,-95.8168 l 32.1606,9.3056 -16.0296,-13.7117 c -36.1623,-30.9332 -40.052,-77.7923 -9.8562,-112.0965 3.0618,-4.9809 6.6075,-9.2321 10.5866,-12.7907 3.9791,-3.5586 8.3916,-6.4246 13.1872,-8.635 4.7957,-2.2104 9.9743,-3.7653 15.4857,-4.7017 5.5114,-0.9363 11.3555,-1.2542 17.4819,-0.9906 6.1265,0.2636 12.5352,1.1087 19.1759,2.4981 22.1769,15.4322 18.497,46.2064 117.5353,50.5305 16.3971,12.6529 81.7884,18.8713 100.7246,27.2496 34.8492,21.3277 49.3044,67.183 37.7623,93.957 -6.174,14.7006 -8.5131,17.2714 -2.2702,25.8438 26.9774,55.2713 7.9921,-16.2377 31.9903,52.295 3.263,9.3708 -22.1137,46.1772 -19.8475,55.5622 2.2661,9.385 6.2187,12.126 16.6782,31.8675 3.9794,80.2445 -18.8703,61.7039 -38.4639,81.7039 -4.2291,8.3451 40.0146,20.3701 14.6587,45.6409 -6.9628,6.9394 -12.4865,15.5959 -20.0188,23.0063 -51.9558,27.9131 -71.3616,26.2465 -123.4383,54.4775 -15.3477,4.6517 -46.8085,19.1448 -64.362,22.9216 z"
+               style="fill:#ffccaa;fill-opacity:1;fill-rule:nonzero;stroke:#ffccaa;stroke-width:9.4037466;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+            <g
+               style="stroke:#000000;stroke-width:9.4037466"
+               transform="translate(1596.3805,423.73062)"
+               id="g39888">
+              <path
+                 sodipodi:nodetypes="cccccccscsssccccccccccccccccc"
+                 inkscape:connector-curvature="0"
+                 id="path39892"
+                 d="m 2815.7636,4628.0765 c 17.8571,13.5714 37.8571,27.1428 37.8571,27.1428 17.8571,8.9286 41.7857,17.8572 60,20.7143 l 40.7143,5.7143 c 35.7143,5.7143 66.0714,19.2858 66.0714,19.2858 26.0714,11.0714 33.9286,19.9999 33.9286,19.9999 32.6391,37.7246 31.5225,64.657 9.2857,103.5714 6.4286,3.5714 12.0085,5.5556 18.5714,15 25.2845,36.3858 17.8061,65.4706 -4.2857,93.5715 0,0 15.2416,12.0593 18.5715,20.7143 6.2606,16.2723 6.364,26.0592 6.2066,33.8127 -0.3939,19.4004 -5.9552,33.6666 -16.9209,45.473 -7.4041,7.9717 -30,12.8572 -30,12.8572 30.7671,15.5344 33.7175,40.9323 -1.1117,75.6276 -46.2379,23.9671 -76.7637,32.2109 -122.893,52.6479 l -67.0922,21.8978 -55.5603,10.8892 c -39.612,-2.5831 -59.5124,-4.0513 -73.9391,-50.9383 0,0 -3.0567,-28.1016 5.7143,-45.6994 15.8388,-27.6644 43.0305,-31.0969 43.0305,-31.0969 0,0 -74.7165,-11.9039 -107.5465,-22.0054 -27.5366,-20.461 -30.9729,-41.8737 -25.2241,-79.8119 4.4731,-18.6151 17.5325,-31.6745 37.1578,-41.7034 0,0 -2.7977,-3.6791 -33.1023,-22.3669 -40.5748,-39.8945 -19.6909,-91.0649 -15.5451,-96.5896 40.8719,-53.8448 71.1989,-53.9641 111.8512,-44.9602 -37.31,-29.8651 -46.6759,-59.748 -33.2261,-95.3405 9.3745,-21.0317 37.9695,-61.0684 73.3016,-57.5032 10.2383,1.5357 17.7008,5.342 24.185,9.096 z"
+                 style="fill:none;stroke:#000000;stroke-width:6.26916456;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+              <path
+                 sodipodi:nodetypes="cccccc"
+                 inkscape:connector-curvature="0"
+                 id="path39894"
+                 d="m 2746.2928,4770.5966 c 39.0583,18.9121 69.7103,34.2956 110.4091,45.0053 l 70.4902,7.4746 62.1429,4.2857 47.1429,2.8571 c 18.2143,1.4286 29.2857,-5 29.2857,-5"
+                 style="fill:none;stroke:#000000;stroke-width:9.4037466;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 sodipodi:nodetypes="ccssc"
+                 inkscape:connector-curvature="0"
+                 id="path39896"
+                 d="m 2689.6487,4936.8349 158.972,28.3844 c 0,0 26.6977,1.6548 40,0.7143 25.497,-1.8027 60.9433,-9.4126 75.7143,-12.1428 34.3068,-6.3411 68.1384,-8.1011 112.8572,-18.9286"
+                 style="fill:none;stroke:#000000;stroke-width:9.4037466;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 sodipodi:nodetypes="cszzc"
+                 inkscape:connector-curvature="0"
+                 id="path39898"
+                 d="m 2771.4779,5080.2193 c 0,0 57.615,5.631 86.4285,4.2857 35.0814,-1.6379 77.5503,-9.0524 104.2857,-15 26.7354,-5.9476 37.9216,-12.892 56.4286,-17.1428 18.507,-4.2508 37.5,-5.7143 37.5,-5.7143"
+                 style="fill:none;stroke:#000000;stroke-width:9.4037466;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+            </g>
+            <path
+               style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:6.26916456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="m 4644.9519,5244.6642 c -21.4286,-0.7143 -41.7857,-1.7857 -72.8571,-8.5714 -18.2143,-8.9286 -22.1429,-9.6429 -27.1429,-30 0,-8.5714 1.4286,-20.3572 8.9286,-30 14.3066,-11.3445 39.7149,-18.2363 83.9286,-14.2857 18.8205,25.5231 22.483,54.8644 7.1428,82.8571 z"
+               id="path39900"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccccc" />
+            <path
+               style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:6.26916456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="m 4573.5233,5298.9499 c 17.1516,-19.3957 49.5367,-31.3535 71.4286,-34.2857 35.9243,15.29 38.2484,48.6224 21.0714,84.6428 -35.3571,8.5714 -71.4285,9.2858 -82.8571,6.4287 -19.0102,-14.9263 -20.2523,-35.527 -9.6429,-56.7858 z"
+               id="path39902"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:6.26916456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="m 4584.952,5431.0928 c -2.2827,-12.3169 1.0714,-30.7143 8.5714,-37.8572 18.4884,-11.6617 36.8246,-17.7612 64.2857,-22.8571 28.7926,18.4256 25.8468,44.9496 14.2857,80 -29.0649,5.5694 -44.5024,6.0113 -72.8572,0 -6.0714,-3.9286 -12.8865,-11.7359 -14.2856,-19.2857 z"
+               id="path39904"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="sccccs" />
+            <path
+               style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:6.26916456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="m 4595.6804,5490.4637 c 20.1886,-6.981 32.1361,-11.7168 48.5064,-12.4372 21.7538,7.4756 21.9842,23.9951 12.1231,43.1354 -19.7436,9.6686 -25.8266,7.6888 -48.027,13.2648 -25.0546,4.6053 -29.7463,-9.2835 -29.8994,-15.627 -0.1888,-7.8252 -3.5892,-15.7834 17.2969,-28.336 z"
+               id="path39906"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccccsc" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:168.22758483999999157px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;font-family:Sans"
+       x="-766.24072"
+       y="144.03568"
+       id="text40971"
+       sodipodi:linespacing="125%"
+       transform="scale(-1.5372373,0.65051766)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan40973"
+         x="-766.24072"
+         y="144.03568"
+         style="stroke:#000080;fill:#000080">-</tspan></text>
+    <rect
+       y="8.8354855"
+       x="69.949257"
+       height="1034.6912"
+       width="574.0072"
+       id="rect32812"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       transform="scale(-1,1)"
+       xml:space="preserve"
+       style="font-size:109.43502044999999612px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;font-family:Sans"
+       x="-432.168"
+       y="993.02313"
+       id="text41112"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         style="stroke:#800000;fill:#800000"
+         sodipodi:role="line"
+         id="tspan41114"
+         x="-432.168"
+         y="993.02313">+</tspan></text>
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path41160"
+       d="m 386.11081,94.360781 1.06111,254.394689 m -1.70241,330.53407 0.6413,218.5138"
+       style="fill:#333333;stroke:#000000;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       transform="scale(-1.5372373,0.65051766)"
+       sodipodi:linespacing="125%"
+       id="text41288"
+       y="144.03568"
+       x="-281.66003"
+       style="font-size:168.22758483999999157px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         style="stroke:#000080;fill:#000080"
+         y="144.03568"
+         x="-281.66003"
+         id="tspan41290"
+         sodipodi:role="line">-</tspan></text>
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 411.82324,655.18994 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       id="path41166"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41168"
+       d="m 385.46951,679.28953 c 0,0 -78.10593,3.11211 -83.03467,-15.9447"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41170"
+       d="M 411.82326,641.69215 C 412.08497,658.79292 307.01045,655.49 302.0817,636.43319"
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 411.82326,629.13567 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       id="path41172"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41174"
+       d="m 411.82326,616.6632 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 411.82326,603.24935 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       id="path41176"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41178"
+       d="m 411.82326,589.8355 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 411.82326,576.42165 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       id="path41180"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41182"
+       d="m 411.82326,563.0078 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 411.82326,549.59395 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       id="path41184"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41186"
+       d="m 411.82326,536.1801 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 411.82326,522.76625 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       id="path41188"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41190"
+       d="m 411.82326,509.3524 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41192"
+       d="m 411.82326,455.697 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 411.82326,373.27679 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       id="path41194"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41196"
+       d="m 411.82326,415.45546 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 411.82326,386.69064 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       id="path41198"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41200"
+       d="m 411.82326,442.28315 c 0.26171,17.10077 -104.81281,13.79786 -109.74156,-5.25896"
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 411.82326,469.11085 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       id="path41202"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41204"
+       d="m 411.82326,428.8693 c 0.26171,17.10078 -104.81281,13.79786 -109.74156,-5.25895"
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 411.82326,402.04161 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       id="path41206"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41208"
+       d="m 411.82326,482.5247 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 411.82326,495.93855 c 0.26171,17.10077 -104.81281,13.79785 -109.74156,-5.25896"
+       id="path41210"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g41514"
+       transform="matrix(0,1,-1,0,937.24316,124.41074)"
+       style="stroke:#a0892c;stroke-width:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g41485"
+         style="stroke:#a0892c;stroke-width:1">
+        <path
+           style="fill:none;stroke:#a0892c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:none"
+           d="m 389.1415,370.02062 c 281.83468,0 305.51248,204.53941 145.24446,204.53941 l -290.48892,0 c -158.556136,0 -136.59022,-204.53941 145.24446,-204.53941 z"
+           id="path41469"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="zccz" />
+        <path
+           sodipodi:nodetypes="zccz"
+           inkscape:connector-curvature="0"
+           id="path41490"
+           d="m 389.57007,405.30633 c 251.84899,0 270.01808,161.03941 143.37635,161.03941 l -286.7527,0 c -126.2766,0 -108.47264,-161.03941 143.37635,-161.03941 z"
+           style="fill:none;stroke:#a0892c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#a0892c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 389.57007,441.7349 c 238.6347,0 217.96266,115.44871 141.23349,115.44871 l -284.2527,0 c -76.2766,0 -95.61549,-115.44871 143.01921,-115.44871 z"
+           id="path41502"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="zccz" />
+        <path
+           sodipodi:nodetypes="zccz"
+           inkscape:connector-curvature="0"
+           id="path41510"
+           d="m 389.57007,479.59204 c 219.20541,0 172.63111,69.55585 139.80492,69.55585 l -280.55129,0 c -35.72076,0 -78.45904,-69.55585 140.74637,-69.55585 z"
+           style="fill:none;stroke:#a0892c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g6318"
+       transform="translate(40.309357,-0.65660224)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g6324"
+       transform="matrix(-1,0,0,1,882.70403,377.75389)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(-1,0,0,1,673.59636,-0.65660224)"
+       id="use6352"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       style="stroke:#a0892c">
+      <g
+         id="g64306"
+         transform="matrix(0,1,-1,0,896.9338,125.06734)"
+         style="stroke:#a0892c;stroke-width:1">
+        <g
+           id="g64308"
+           style="stroke:#a0892c;stroke-width:1">
+          <path
+             style="fill:none;stroke:#a0892c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:none"
+             d="m 389.1415,370.02062 c 281.83468,0 305.51248,204.53941 145.24446,204.53941 l -290.48892,0 c -158.556136,0 -136.59022,-204.53941 145.24446,-204.53941 z"
+             id="path64310"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="zccz" />
+          <path
+             sodipodi:nodetypes="zccz"
+             inkscape:connector-curvature="0"
+             id="path64312"
+             d="m 389.57007,405.30633 c 251.84899,0 270.01808,161.03941 143.37635,161.03941 l -286.7527,0 c -126.2766,0 -108.47264,-161.03941 143.37635,-161.03941 z"
+             style="fill:none;stroke:#a0892c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#a0892c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 389.57007,441.7349 c 238.6347,0 217.96266,115.44871 141.23349,115.44871 l -284.2527,0 c -76.2766,0 -95.61549,-115.44871 143.01921,-115.44871 z"
+             id="path64314"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="zccz" />
+          <path
+             sodipodi:nodetypes="zccz"
+             inkscape:connector-curvature="0"
+             id="path64316"
+             d="m 389.57007,479.59204 c 219.20541,0 172.63111,69.55585 139.80492,69.55585 l -280.55129,0 c -35.72076,0 -78.45904,-69.55585 140.74637,-69.55585 z"
+             style="fill:none;stroke:#a0892c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g64318"
+         style="stroke:#a0892c" />
+      <g
+         id="g64320"
+         transform="matrix(-1,0,0,1,842.39467,378.41049)"
+         style="stroke:#a0892c" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path41547"
+       d="m 356.95284,806.62816 0,-585.4143"
+       style="fill:none;stroke:#a0892c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:none"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41214"
+       d="m 302.18256,368.01783 c -1.48474,-24.06931 84.98936,-19.26241 84.98936,-19.26241"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41216"
+       d="m 302.25714,649.93098 c -3.73438,-20.55427 114.77375,-26.82918 109.38842,-8.15489"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 302.43484,663.34483 c -3.73438,-20.55427 114.59605,-26.82918 109.21072,-8.15489"
+       id="path41218"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41220"
+       d="m 302.25714,490.67959 c -3.73438,-20.55427 114.77375,-26.82918 109.38842,-8.15489"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 302.25714,477.26574 c -3.73438,-20.55427 114.77375,-26.82918 109.38842,-8.15489"
+       id="path41222"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41224"
+       d="M 302.25714,463.85189 C 298.52276,443.29762 417.03089,437.02271 411.64556,455.697"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 302.25714,450.43804 c -3.73438,-20.55427 114.77375,-26.82918 109.38842,-8.15489"
+       id="path41226"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41228"
+       d="m 302.25714,437.02419 c -3.73438,-20.55426 114.77375,-26.82918 109.38842,-8.15489"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 302.25714,637.37456 c -3.73438,-20.55426 114.77375,-26.82918 109.38842,-8.15488"
+       id="path41230"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41232"
+       d="M 302.25714,624.81809 C 298.52276,604.26382 417.03089,597.9889 411.64556,616.6632"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 302.25714,611.40424 c -3.73438,-20.55427 114.77375,-26.82919 109.38842,-8.15489"
+       id="path41234"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41236"
+       d="M 302.25714,597.99039 C 298.52276,577.43612 417.03089,571.1612 411.64556,589.8355"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 302.25714,584.57654 c -3.73438,-20.55427 114.77375,-26.82919 109.38842,-8.15489"
+       id="path41238"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41240"
+       d="M 302.25714,571.16269 C 298.52276,550.60842 417.03089,544.3335 411.64556,563.0078"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 302.25714,557.74884 c -3.73438,-20.55427 114.77375,-26.82919 109.38842,-8.15489"
+       id="path41242"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41244"
+       d="m 302.25714,544.33499 c -3.73438,-20.55427 114.77375,-26.82918 109.38842,-8.15489"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 302.25714,530.92114 c -3.73438,-20.55427 114.77375,-26.82918 109.38842,-8.15489"
+       id="path41246"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41248"
+       d="m 302.25714,517.50729 c -3.73438,-20.55427 114.77375,-26.82918 109.38842,-8.15489"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 302.25714,504.09344 c -3.73438,-20.55427 114.77375,-26.82918 109.38842,-8.15489"
+       id="path41250"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41252"
+       d="m 302.25714,423.61035 c -3.73438,-20.55427 114.77375,-26.82919 109.38842,-8.15489"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 302.25714,410.1965 c -3.73438,-20.55427 114.77375,-26.82919 109.38842,-8.15489"
+       id="path41254"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 302.25714,381.43168 c -3.73438,-20.55427 114.77375,-26.82919 109.38842,-8.15489"
+       id="path41258"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path41256"
+       d="m 302.25714,396.78265 c -3.73438,-20.55427 114.77375,-26.82919 109.38842,-8.15489"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="textext-778f2b40-1"
+       style="fill:#ff5555;stroke:#000080;fill-opacity:1"
+       transform="matrix(7.1800748,0,0,7.1800748,-1276.6432,-751.35241)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g8062"
+         style="fill:#ff5555;fill-opacity:1;stroke:#000080">
+        <use
+           transform="translate(0.3515869,0)"
+           id="use8064"
+           y="134.765"
+           x="223.43201"
+           xlink:href="#textext-778f2b40-0"
+           width="1488.189"
+           height="1052.3622"
+           style="fill:#ff5555;fill-opacity:1;stroke:#000080" />
+      </g>
+    </g>
+    <g
+       style="fill:#37c837;fill-opacity:1;stroke:#000080"
+       id="textext-55e3a795-1"
+       transform="matrix(7.1800748,0,0,7.1800748,-1278.3852,-110.29899)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="fill:#37c837;fill-opacity:1"
+         id="g8512">
+        <use
+           style="fill:#37c837;fill-opacity:1"
+           height="1052.3622"
+           width="1488.189"
+           transform="translate(1.5629528,0.83564589)"
+           xlink:href="#textext-55e3a795-0"
+           x="223.43201"
+           y="134.765"
+           id="use8514" />
+      </g>
+    </g>
+    <path
+       inkscape:transform-center-x="-2.6427158"
+       transform="matrix(0.22285155,-0.38560953,0.38560953,0.22285155,-105.50549,130.58113)"
+       inkscape:transform-center-y="0.001860966"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.6179939"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="6.060915"
+       sodipodi:r1="12.121831"
+       sodipodi:cy="1607.946"
+       sodipodi:cx="-707.10675"
+       sodipodi:sides="3"
+       id="path8430"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path7546"
+       sodipodi:sides="3"
+       sodipodi:cx="-707.10675"
+       sodipodi:cy="1607.946"
+       sodipodi:r1="12.121831"
+       sodipodi:r2="6.060915"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:transform-center-y="0.001860966"
+       transform="matrix(0.22285155,-0.38560953,0.38560953,0.22285155,-105.50549,-353.40801)"
+       inkscape:transform-center-x="-2.6427158"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path7548"
+       sodipodi:sides="3"
+       sodipodi:cx="-707.10675"
+       sodipodi:cy="1607.946"
+       sodipodi:r1="12.121831"
+       sodipodi:r2="6.060915"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:transform-center-y="-0.079517628"
+       transform="matrix(0.11545498,-0.43014843,0.43014843,0.11545498,-180.69184,181.93756)"
+       inkscape:transform-center-x="-3.6008674"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-x="3.600838"
+       transform="matrix(-0.11545498,-0.43014843,-0.43014843,0.11545498,894.23191,181.93756)"
+       inkscape:transform-center-y="-0.079517628"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.6179939"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="6.060915"
+       sodipodi:r1="12.121831"
+       sodipodi:cy="1607.946"
+       sodipodi:cx="-707.10675"
+       sodipodi:sides="3"
+       id="path7550"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-x="-3.6008674"
+       transform="matrix(0.11545498,-0.43014843,0.43014843,0.11545498,-158.8682,203.39499)"
+       inkscape:transform-center-y="-0.079517628"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.6179939"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="6.060915"
+       sodipodi:r1="12.121831"
+       sodipodi:cy="1607.946"
+       sodipodi:cx="-707.10675"
+       sodipodi:sides="3"
+       id="path7552"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path7554"
+       sodipodi:sides="3"
+       sodipodi:cx="-707.10675"
+       sodipodi:cy="1607.946"
+       sodipodi:r1="12.121831"
+       sodipodi:r2="6.060915"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:transform-center-y="-0.079517628"
+       transform="matrix(0.11545498,-0.43014843,0.43014843,0.11545498,-138.62224,223.56056)"
+       inkscape:transform-center-x="-3.6008674"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-x="-3.6008674"
+       transform="matrix(0.11545498,-0.43014843,0.43014843,0.11545498,-117.44512,244.5244)"
+       inkscape:transform-center-y="-0.079517628"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.6179939"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="6.060915"
+       sodipodi:r1="12.121831"
+       sodipodi:cy="1607.946"
+       sodipodi:cx="-707.10675"
+       sodipodi:sides="3"
+       id="path8342"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path8344"
+       sodipodi:sides="3"
+       sodipodi:cx="-707.10675"
+       sodipodi:cy="1607.946"
+       sodipodi:r1="12.121831"
+       sodipodi:r2="6.060915"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:transform-center-y="-0.079517628"
+       transform="matrix(-0.11545498,-0.43014843,-0.43014843,0.11545498,831.46815,244.5244)"
+       inkscape:transform-center-x="3.600858"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-x="3.600838"
+       transform="matrix(-0.11545498,-0.43014843,-0.43014843,0.11545498,851.99173,223.56056)"
+       inkscape:transform-center-y="-0.079517628"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.6179939"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="6.060915"
+       sodipodi:r1="12.121831"
+       sodipodi:cy="1607.946"
+       sodipodi:cx="-707.10675"
+       sodipodi:sides="3"
+       id="path8346"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path8348"
+       sodipodi:sides="3"
+       sodipodi:cx="-707.10675"
+       sodipodi:cy="1607.946"
+       sodipodi:r1="12.121831"
+       sodipodi:r2="6.060915"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:transform-center-y="-0.079517628"
+       transform="matrix(-0.11545498,-0.43014843,-0.43014843,0.11545498,872.68257,203.39499)"
+       inkscape:transform-center-x="3.600878"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-x="3.600868"
+       transform="matrix(-0.11545498,-0.43014843,-0.43014843,0.11545498,1040.4585,-133.88608)"
+       inkscape:transform-center-y="-0.079510756"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.6179939"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="6.060915"
+       sodipodi:r1="12.121831"
+       sodipodi:cy="1607.946"
+       sodipodi:cx="-707.10675"
+       sodipodi:sides="3"
+       id="path8350"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path8352"
+       sodipodi:sides="3"
+       sodipodi:cx="-707.10675"
+       sodipodi:cy="1607.946"
+       sodipodi:r1="12.121831"
+       sodipodi:r2="6.060915"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:transform-center-y="-0.079510756"
+       transform="matrix(-0.11545498,-0.43014843,-0.43014843,0.11545498,1061.6356,-154.84993)"
+       inkscape:transform-center-x="3.600868"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-x="3.600868"
+       transform="matrix(-0.11545498,-0.43014843,-0.43014843,0.11545498,1103.7052,-196.47293)"
+       inkscape:transform-center-y="-0.079510756"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.6179939"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="6.060915"
+       sodipodi:r1="12.121831"
+       sodipodi:cy="1607.946"
+       sodipodi:cx="-707.10675"
+       sodipodi:sides="3"
+       id="path8354"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path8356"
+       sodipodi:sides="3"
+       sodipodi:cx="-707.10675"
+       sodipodi:cy="1607.946"
+       sodipodi:r1="12.121831"
+       sodipodi:r2="6.060915"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:transform-center-y="-0.079510756"
+       transform="matrix(-0.11545498,-0.43014843,-0.43014843,0.11545498,1081.8816,-175.0155)"
+       inkscape:transform-center-x="3.600868"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path8358"
+       sodipodi:sides="3"
+       sodipodi:cx="-707.10675"
+       sodipodi:cy="1607.946"
+       sodipodi:r1="12.121831"
+       sodipodi:r2="6.060915"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:transform-center-y="-0.079510756"
+       transform="matrix(0.11545498,-0.43014843,0.43014843,0.11545498,-326.32646,-133.88608)"
+       inkscape:transform-center-x="3.600868"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-x="3.600868"
+       transform="matrix(0.11545498,-0.43014843,0.43014843,0.11545498,-347.50356,-154.84993)"
+       inkscape:transform-center-y="-0.079510756"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.6179939"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="6.060915"
+       sodipodi:r1="12.121831"
+       sodipodi:cy="1607.946"
+       sodipodi:cx="-707.10675"
+       sodipodi:sides="3"
+       id="path8360"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="star"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path8362"
+       sodipodi:sides="3"
+       sodipodi:cx="-707.10675"
+       sodipodi:cy="1607.946"
+       sodipodi:r1="12.121831"
+       sodipodi:r2="6.060915"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:transform-center-y="-0.079510756"
+       transform="matrix(0.11545498,-0.43014843,0.43014843,0.11545498,-389.57316,-196.47293)"
+       inkscape:transform-center-x="3.600868"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-x="3.600868"
+       transform="matrix(0.11545498,-0.43014843,0.43014843,0.11545498,-367.74956,-175.0155)"
+       inkscape:transform-center-y="-0.079510756"
+       d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.6179939"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="6.060915"
+       sodipodi:r1="12.121831"
+       sodipodi:cy="1607.946"
+       sodipodi:cx="-707.10675"
+       sodipodi:sides="3"
+       id="path8364"
+       style="fill:#a0892c;fill-opacity:1;stroke:#a0892c;stroke-width:6.73591995000000043;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

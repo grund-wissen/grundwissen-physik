@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg37992"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="lichtbrechung-totalreflexion.svg"
+   inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/ebener-spiegel.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title6278">Totalreflexion</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="630.56231"
+     inkscape:cy="615.93136"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:snap-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true">
+    <sodipodi:guide
+       position="0.0,0"
+       orientation="744.0945,0"
+       id="guide4550" />
+    <sodipodi:guide
+       position="263.0906,0"
+       orientation="744.0945,0"
+       id="guide4552" />
+    <sodipodi:guide
+       position="526.1811,0"
+       orientation="744.0945,0"
+       id="guide4554" />
+    <sodipodi:guide
+       position="789.2717,0"
+       orientation="744.0945,0"
+       id="guide4556" />
+    <sodipodi:guide
+       position="1052.3622,0"
+       orientation="744.0945,0"
+       id="guide4558" />
+    <sodipodi:guide
+       position="0,372.0472"
+       orientation="0,1052.3622"
+       id="guide4562" />
+    <sodipodi:guide
+       id="guide4816"
+       position="526.18109,370.86731"
+       orientation="-0.65934582,0.75183981" />
+  </sodipodi:namedview>
+  <defs
+     id="defs37994">
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path4855" />
+    </marker>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265"
+       id="radialGradient37156"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <linearGradient
+       id="linearGradient35265">
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1;"
+         offset="0"
+         id="stop35267" />
+      <stop
+         style="stop-color:#fffb36;stop-opacity:1;"
+         offset="1"
+         id="stop35269" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect34665"
+       is_visible="true" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265"
+       id="radialGradient37158"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <linearGradient
+       id="linearGradient37938">
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1;"
+         offset="0"
+         id="stop37940" />
+      <stop
+         style="stop-color:#fffb36;stop-opacity:1;"
+         offset="1"
+         id="stop37942" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect37944"
+       is_visible="true" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4744" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker37948"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path37950" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker37952"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path37954" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker37956"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path37958" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker37960"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path37962" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker37964"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path37966" />
+    </marker>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265"
+       id="radialGradient5253"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265"
+       id="radialGradient5255"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265"
+       id="radialGradient40385"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010774,3826.4898)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265"
+       id="radialGradient40387"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010774,4532.8612)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient35297"
+       xlink:href="#linearGradient35265-1"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient35265-1">
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1;"
+         offset="0"
+         id="stop35267-9" />
+      <stop
+         style="stop-color:#fffb36;stop-opacity:1;"
+         offset="1"
+         id="stop35269-6" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect34665-4"
+       is_visible="true" />
+    <marker
+       style="overflow:visible"
+       id="marker7440"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7442"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4744-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path8789"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible">
+      <path
+         id="path8783"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart"
+       style="overflow:visible">
+      <path
+         id="path8780"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4744-2-9"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9"
+       style="overflow:visible">
+      <path
+         id="path4744-3"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8130"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8132"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8134"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8136"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata37997">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Totalreflexion</dc:title>
+        <dc:date>2012-01-28</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Optik</rdf:li>
+            <rdf:li>Lichtbrechung</rdf:li>
+            <rdf:li>Totalreflexion</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <g
+       ns0:text="Lot"
+       ns0:preamble=""
+       transform="matrix(3.3204266,0,0,3.3204266,-363.77242,-762.5207)"
+       id="g7887-8">
+      <defs
+         id="defs7889-4">
+        <g
+           id="g7891-3">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-b395f716-0-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 5.796875,-2.578125 -0.25,0 c -0.109375,1.015625 -0.25,2.265625 -2,2.265625 l -0.8125,0 C 2.265625,-0.3125 2.25,-0.375 2.25,-0.703125 l 0,-5.3125 C 2.25,-6.359375 2.25,-6.5 3.1875,-6.5 l 0.328125,0 0,-0.3125 C 3.15625,-6.78125 2.25,-6.78125 1.84375,-6.78125 c -0.390625,0 -1.171875,0 -1.515625,-0.03125 l 0,0.3125 0.234375,0 c 0.765625,0 0.796875,0.109375 0.796875,0.46875 l 0,5.25 c 0,0.359375 -0.03125,0.46875 -0.796875,0.46875 l -0.234375,0 0,0.3125 5.1875,0 z m 0,0"
+               id="path7894-4" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-b395f716-1-9">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 4.6875,-2.140625 C 4.6875,-3.40625 3.703125,-4.46875 2.5,-4.46875 c -1.25,0 -2.21875,1.09375 -2.21875,2.328125 0,1.296875 1.03125,2.25 2.203125,2.25 1.203125,0 2.203125,-0.984375 2.203125,-2.25 z m -2.1875,2 c -0.4375,0 -0.875,-0.203125 -1.140625,-0.671875 -0.25,-0.4375 -0.25,-1.046875 -0.25,-1.40625 0,-0.390625 0,-0.921875 0.234375,-1.359375 C 1.609375,-4.03125 2.078125,-4.25 2.484375,-4.25 c 0.4375,0 0.859375,0.21875 1.125,0.65625 0.265625,0.421875 0.265625,1 0.265625,1.375 0,0.359375 0,0.90625 -0.21875,1.34375 C 3.421875,-0.421875 2.984375,-0.140625 2.5,-0.140625 z m 0,0"
+               id="path7897-2" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-b395f716-2-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 1.71875,-3.984375 1.4375,0 0,-0.3125 -1.4375,0 0,-1.828125 -0.25,0 c 0,0.8125 -0.296875,1.875 -1.28125,1.921875 l 0,0.21875 0.84375,0 0,2.75 c 0,1.21875 0.9375,1.34375 1.296875,1.34375 0.703125,0 0.984375,-0.703125 0.984375,-1.34375 l 0,-0.5625 -0.25,0 0,0.546875 c 0,0.734375 -0.296875,1.109375 -0.671875,1.109375 -0.671875,0 -0.671875,-0.90625 -0.671875,-1.078125 z m 0,0"
+               id="path7900-6" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-b395f716-3-8" />
+    </g>
+    <rect
+       y="416.93552"
+       x="171.02878"
+       height="526.75885"
+       width="710.30463"
+       id="rect37131-1"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.00000012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-totalreflexion.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       y="456.94696"
+       x="222.00266"
+       height="446.73593"
+       width="608.35687"
+       id="rect59365"
+       style="color:#000000;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:0.49999997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-totalreflexion.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="color:#000000;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:#ececec;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect52274"
+       width="608.35687"
+       height="222.18803"
+       x="222.00266"
+       y="681.49487"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-totalreflexion.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:none"
+       id="rect3359"
+       width="608.35681"
+       height="2.3598404"
+       x="222.00269"
+       y="679.13501"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-totalreflexion.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999993, 1.99999993;stroke-dashoffset:0"
+       d="m 526.18109,845.06627 0,-329.50265"
+       id="path11626"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-totalreflexion.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8743"
+       d="M 668.50697,806.35109 528.15239,682.24487"
+       style="fill:none;stroke:#ff6600;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000001, 6.00000005;stroke-dashoffset:0;marker-end:none"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-totalreflexion.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path53919"
+       d="m 526.1811,680.31498 193.36532,-0.0119"
+       style="fill:none;stroke:#d40000;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+       inkscape:transform-center-x="-97.507033"
+       inkscape:transform-center-y="-0.030475112"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-totalreflexion.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Mend-6)"
+       d="M 384.9452,805.35864 524.56714,681.25258"
+       id="path9611"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="71.294448"
+       inkscape:transform-center-y="63.440066"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-totalreflexion.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:open="true"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.46699929;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6.69999981;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow2Mend-6)"
+       id="path4812"
+       sodipodi:cx="340.81641"
+       sodipodi:cy="318.04437"
+       sodipodi:rx="57.959255"
+       sodipodi:ry="63.539326"
+       d="m 306.42229,266.90196 c 20.63618,-16.67907 48.81632,-16.51302 69.28776,0.4083"
+       transform="matrix(1.0685229,0.85337776,-0.87880071,1.0376116,434.66849,78.932986)"
+       sodipodi:start="4.0770891"
+       sodipodi:end="5.3584393"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-totalreflexion.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:end="4.8090475"
+       sodipodi:start="4.0770891"
+       transform="matrix(-1.2375102,-1.0033182,1.0177834,-1.2199225,633.25326,1397.9049)"
+       d="m 306.42229,266.90196 c 11.51098,-9.30368 25.75317,-13.61339 39.98765,-12.10032"
+       sodipodi:ry="63.539326"
+       sodipodi:rx="57.959255"
+       sodipodi:cy="318.04437"
+       sodipodi:cx="340.81641"
+       id="path5284"
+       style="fill:none;stroke:#000000;stroke-width:1.25718367;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6.69999981;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow2Mend-6)"
+       sodipodi:type="arc"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-totalreflexion.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       ns0:text="$\\beta = 90 ^{\\circ}$"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(1.8343661,0,0,1.8133624,119.22871,421.53719)"
+       style="fill:#d40000;fill-opacity:1"
+       id="g5714"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-totalreflexion.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs5716">
+        <g
+           id="g5718">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-9d8f58b3-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 5.734375,-5.671875 c 0,-0.75 -0.546875,-1.359375 -1.359375,-1.359375 -0.578125,0 -0.859375,0.15625 -1.203125,0.40625 C 2.625,-6.21875 2.078125,-5.25 1.890625,-4.5 L 0.296875,1.828125 C 0.296875,1.875 0.34375,1.9375 0.421875,1.9375 0.5,1.9375 0.53125,1.90625 0.53125,1.890625 L 1.234375,-0.875 c 0.1875,0.609375 0.625,0.96875 1.359375,0.96875 C 3.3125,0.09375 4.0625,-0.25 4.515625,-0.6875 5,-1.140625 5.3125,-1.78125 5.3125,-2.515625 c 0,-0.71875 -0.375,-1.25 -0.734375,-1.484375 0.578125,-0.34375 1.15625,-0.953125 1.15625,-1.671875 z M 3.9375,-4.015625 c -0.125,0.046875 -0.234375,0.0625 -0.484375,0.0625 -0.140625,0 -0.328125,0.015625 -0.4375,-0.03125 0.03125,-0.109375 0.390625,-0.078125 0.5,-0.078125 0.203125,0 0.296875,0 0.421875,0.046875 z M 5.171875,-5.90625 c 0,0.703125 -0.375,1.421875 -0.890625,1.734375 C 4,-4.28125 3.8125,-4.296875 3.515625,-4.296875 c -0.21875,0 -0.78125,-0.015625 -0.78125,0.3125 0,0.28125 0.515625,0.25 0.6875,0.25 0.375,0 0.53125,0 0.828125,-0.125 0.375,0.359375 0.421875,0.671875 0.4375,1.125 0.015625,0.578125 -0.21875,1.328125 -0.5,1.71875 C 3.796875,-0.484375 3.125,-0.125 2.5625,-0.125 c -0.765625,0 -1.140625,-0.578125 -1.140625,-1.28125 0,-0.09375 0,-0.25 0.046875,-0.4375 L 2.109375,-4.359375 C 2.328125,-5.21875 3.046875,-6.8125 4.25,-6.8125 c 0.578125,0 0.921875,0.3125 0.921875,0.90625 z m 0,0"
+               id="path5721" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-9d8f58b3-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 6.84375,-3.265625 c 0.15625,0 0.34375,0 0.34375,-0.1875 C 7.1875,-3.65625 7,-3.65625 6.859375,-3.65625 l -5.96875,0 c -0.140625,0 -0.328125,0 -0.328125,0.203125 0,0.1875 0.1875,0.1875 0.328125,0.1875 z m 0.015625,1.9375 c 0.140625,0 0.328125,0 0.328125,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.34375,-0.1875 l -5.953125,0 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 z m 0,0"
+               id="path5724" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-9d8f58b3-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.65625,-3.171875 0,0.328125 c 0,2.328125 -1.03125,2.78125 -1.609375,2.78125 -0.171875,0 -0.71875,-0.015625 -0.984375,-0.359375 0.4375,0 0.515625,-0.28125 0.515625,-0.453125 0,-0.3125 -0.234375,-0.453125 -0.453125,-0.453125 -0.15625,0 -0.453125,0.078125 -0.453125,0.46875 0,0.671875 0.53125,1.078125 1.375,1.078125 1.296875,0 2.515625,-1.359375 2.515625,-3.5 0,-2.6875 -1.15625,-3.359375 -2.046875,-3.359375 -0.546875,0 -1.03125,0.1875 -1.453125,0.625 -0.421875,0.453125 -0.640625,0.875 -0.640625,1.625 0,1.234375 0.875,2.21875 1.984375,2.21875 0.609375,0 1.015625,-0.421875 1.25,-1 z M 2.421875,-2.40625 c -0.15625,0 -0.625,0 -0.921875,-0.625 -0.1875,-0.375 -0.1875,-0.859375 -0.1875,-1.359375 0,-0.53125 0,-1 0.21875,-1.375 0.265625,-0.5 0.640625,-0.625 0.984375,-0.625 0.46875,0 0.796875,0.34375 0.96875,0.78125 0.109375,0.328125 0.15625,0.953125 0.15625,1.40625 0,0.828125 -0.34375,1.796875 -1.21875,1.796875 z m 0,0"
+               id="path5727" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-9d8f58b3-3">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 4.578125,-3.1875 c 0,-0.796875 -0.046875,-1.59375 -0.390625,-2.328125 -0.453125,-0.96875 -1.28125,-1.125 -1.6875,-1.125 -0.609375,0 -1.328125,0.265625 -1.75,1.1875 -0.3125,0.6875 -0.359375,1.46875 -0.359375,2.265625 0,0.75 0.03125,1.640625 0.453125,2.40625 0.421875,0.796875 1.15625,1 1.640625,1 0.53125,0 1.296875,-0.203125 1.734375,-1.15625 0.3125,-0.6875 0.359375,-1.46875 0.359375,-2.25 z M 2.484375,0 C 2.09375,0 1.5,-0.25 1.328125,-1.203125 1.21875,-1.796875 1.21875,-2.71875 1.21875,-3.3125 c 0,-0.640625 0,-1.296875 0.078125,-1.828125 0.1875,-1.1875 0.9375,-1.28125 1.1875,-1.28125 0.328125,0 0.984375,0.1875 1.171875,1.171875 0.109375,0.5625 0.109375,1.3125 0.109375,1.9375 0,0.75 0,1.421875 -0.109375,2.0625 C 3.5,-0.296875 2.9375,0 2.484375,0 z m 0,0"
+               id="path5730" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-9d8f58b3-4">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.53125,-1.734375 c 0,-0.84375 -0.671875,-1.5 -1.5,-1.5 -0.828125,0 -1.5,0.671875 -1.5,1.484375 0,0.84375 0.6875,1.5 1.5,1.5 0.84375,0 1.5,-0.671875 1.5,-1.484375 z m -1.5,1.140625 C 1.375,-0.59375 0.875,-1.125 0.875,-1.734375 c 0,-0.65625 0.515625,-1.171875 1.15625,-1.171875 0.65625,0 1.15625,0.53125 1.15625,1.15625 0,0.65625 -0.515625,1.15625 -1.15625,1.15625 z m 0,0"
+               id="path5733" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="textext-9d8f58b3-5">
+        <g
+           style="fill:#d40000;fill-opacity:1"
+           id="g5736">
+          <use
+             style="fill:#d40000;fill-opacity:1"
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-9d8f58b3-0"
+             x="223.43201"
+             y="134.765"
+             id="use5738" />
+        </g>
+        <g
+           style="fill:#d40000;fill-opacity:1"
+           id="g5740">
+          <use
+             style="fill:#d40000;fill-opacity:1"
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-9d8f58b3-1"
+             x="232.36"
+             y="134.765"
+             id="use5742" />
+        </g>
+        <g
+           style="fill:#d40000;fill-opacity:1"
+           id="g5744">
+          <use
+             style="fill:#d40000;fill-opacity:1"
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-9d8f58b3-2"
+             x="242.87851"
+             y="134.765"
+             id="use5746" />
+          <use
+             style="fill:#d40000;fill-opacity:1"
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-9d8f58b3-3"
+             x="247.85982"
+             y="134.765"
+             id="use5748" />
+        </g>
+        <g
+           style="fill:#d40000;fill-opacity:1"
+           id="g5750">
+          <use
+             style="fill:#d40000;fill-opacity:1"
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-9d8f58b3-4"
+             x="252.839"
+             y="131.149"
+             id="use5752" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g6018"
+       transform="matrix(2.4464077,0,0,2.418396,-73.57499,414.37563)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$\\alpha _{\\rm{max}}$"
+       style="fill:#ff6600"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/lichtbrechung-totalreflexion.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs6020">
+        <g
+           id="g6022">
+          <symbol
+             id="textext-24693a35-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6025"
+               d="m 4.75,-2.359375 c 0,-1.5625 -0.921875,-2.046875 -1.65625,-2.046875 -1.375,0 -2.6875,1.421875 -2.6875,2.828125 0,0.9375 0.59375,1.6875 1.625,1.6875 0.625,0 1.34375,-0.234375 2.09375,-0.84375 0.125,0.53125 0.453125,0.84375 0.90625,0.84375 0.53125,0 0.84375,-0.546875 0.84375,-0.703125 0,-0.078125 -0.0625,-0.109375 -0.125,-0.109375 -0.0625,0 -0.09375,0.03125 -0.125,0.109375 -0.1875,0.484375 -0.546875,0.484375 -0.5625,0.484375 -0.3125,0 -0.3125,-0.78125 -0.3125,-1.015625 0,-0.203125 0,-0.234375 0.109375,-0.34375 C 5.796875,-2.65625 6,-3.8125 6,-3.8125 6,-3.84375 5.984375,-3.921875 5.875,-3.921875 c -0.09375,0 -0.09375,0.03125 -0.140625,0.21875 -0.1875,0.625 -0.515625,1.375 -0.984375,1.96875 z m -0.65625,1.375 c -0.890625,0.765625 -1.65625,0.875 -2.046875,0.875 -0.59375,0 -0.90625,-0.453125 -0.90625,-1.09375 0,-0.484375 0.265625,-1.5625 0.578125,-2.0625 C 2.1875,-4 2.734375,-4.1875 3.078125,-4.1875 c 0.984375,0 0.984375,1.3125 0.984375,2.078125 0,0.375 0,0.953125 0.03125,1.125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-24693a35-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6028"
+               d="m 5.734375,-2.109375 c 0,-0.609375 -0.3125,-0.96875 -1.046875,-0.96875 -0.5625,0 -0.9375,0.296875 -1.125,0.65625 -0.140625,-0.5 -0.515625,-0.65625 -1.015625,-0.65625 -0.578125,0 -0.9375,0.3125 -1.140625,0.6875 l 0,-0.6875 L 0.375,-3 l 0,0.25 c 0.46875,0 0.53125,0.046875 0.53125,0.390625 l 0,1.8125 C 0.90625,-0.25 0.828125,-0.25 0.375,-0.25 l 0,0.25 C 0.390625,0 0.875,-0.03125 1.171875,-0.03125 1.421875,-0.03125 1.90625,0 1.96875,0 l 0,-0.25 c -0.453125,0 -0.515625,0 -0.515625,-0.296875 l 0,-1.265625 c 0,-0.71875 0.578125,-1.0625 1.03125,-1.0625 0.484375,0 0.546875,0.375 0.546875,0.734375 l 0,1.59375 C 3.03125,-0.25 2.96875,-0.25 2.515625,-0.25 l 0,0.25 C 2.53125,0 3.015625,-0.03125 3.3125,-0.03125 3.5625,-0.03125 4.046875,0 4.109375,0 l 0,-0.25 c -0.453125,0 -0.515625,0 -0.515625,-0.296875 l 0,-1.265625 c 0,-0.71875 0.578125,-1.0625 1.03125,-1.0625 0.484375,0 0.546875,0.375 0.546875,0.734375 l 0,1.59375 C 5.171875,-0.25 5.109375,-0.25 4.65625,-0.25 l 0,0.25 c 0.015625,0 0.5,-0.03125 0.796875,-0.03125 C 5.703125,-0.03125 6.1875,0 6.25,0 l 0,-0.25 c -0.453125,0 -0.515625,0 -0.515625,-0.296875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-24693a35-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6031"
+               d="m 3.109375,-1.875 c 0,-0.359375 0,-0.625 -0.328125,-0.890625 C 2.5,-3 2.171875,-3.109375 1.75,-3.109375 c -0.65625,0 -1.125,0.25 -1.125,0.671875 0,0.234375 0.15625,0.34375 0.34375,0.34375 0.1875,0 0.328125,-0.140625 0.328125,-0.328125 0,-0.109375 -0.0625,-0.265625 -0.25,-0.3125 0.25,-0.171875 0.65625,-0.171875 0.6875,-0.171875 0.390625,0 0.828125,0.25 0.828125,0.84375 l 0,0.203125 C 2.171875,-1.84375 1.71875,-1.8125 1.203125,-1.625 c -0.625,0.21875 -0.8125,0.609375 -0.8125,0.921875 0,0.59375 0.71875,0.765625 1.21875,0.765625 0.546875,0 0.875,-0.3125 1.03125,-0.578125 0.015625,0.28125 0.203125,0.546875 0.53125,0.546875 0.015625,0 0.6875,0 0.6875,-0.65625 l 0,-0.390625 -0.234375,0 0,0.375 c 0,0.078125 0,0.40625 -0.265625,0.40625 -0.25,0 -0.25,-0.328125 -0.25,-0.40625 z M 2.5625,-0.984375 c 0,0.671875 -0.59375,0.859375 -0.90625,0.859375 -0.359375,0 -0.6875,-0.234375 -0.6875,-0.578125 0,-0.390625 0.328125,-0.921875 1.59375,-0.96875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-24693a35-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6034"
+               d="m 2.359375,-1.5625 c 0,0 -0.046875,-0.0625 -0.046875,-0.0625 0,-0.03125 0.453125,-0.515625 0.515625,-0.578125 C 3.078125,-2.484375 3.3125,-2.75 3.875,-2.75 l 0,-0.25 C 3.671875,-2.984375 3.46875,-2.96875 3.28125,-2.96875 3.078125,-2.96875 2.796875,-2.984375 2.59375,-3 l 0,0.25 c 0.109375,0.015625 0.140625,0.09375 0.140625,0.15625 0,0.015625 0,0.125 -0.109375,0.234375 L 2.140625,-1.8125 1.5625,-2.46875 C 1.484375,-2.546875 1.484375,-2.578125 1.484375,-2.609375 c 0,-0.09375 0.09375,-0.140625 0.1875,-0.140625 l 0,-0.25 c -0.25,0.015625 -0.515625,0.03125 -0.78125,0.03125 C 0.6875,-2.96875 0.421875,-2.984375 0.21875,-3 l 0,0.25 c 0.3125,0 0.5,0 0.6875,0.203125 l 0.859375,1 c 0.015625,0.015625 0.0625,0.0625 0.0625,0.078125 0,0.015625 -0.53125,0.59375 -0.59375,0.671875 -0.265625,0.28125 -0.5,0.53125 -1.046875,0.546875 l 0,0.25 C 0.390625,-0.015625 0.546875,-0.03125 0.765625,-0.03125 0.96875,-0.03125 1.25,-0.015625 1.453125,0 l 0,-0.25 C 1.375,-0.265625 1.3125,-0.3125 1.3125,-0.40625 1.3125,-0.546875 1.390625,-0.640625 1.5,-0.75 L 2,-1.296875 2.59375,-0.59375 c 0.140625,0.140625 0.140625,0.15625 0.140625,0.203125 0,0.125 -0.15625,0.140625 -0.1875,0.140625 l 0,0.25 c 0.0625,0 0.5625,-0.03125 0.78125,-0.03125 C 3.546875,-0.03125 3.78125,-0.015625 4,0 l 0,-0.25 c -0.46875,0 -0.515625,-0.046875 -0.6875,-0.21875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-24693a35-4"
+         style="fill:#ff6600">
+        <g
+           id="g6037"
+           style="fill:#ff6600;fill-opacity:1">
+          <use
+             id="use6039"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-24693a35-0"
+             width="1052.3622"
+             height="744.09448"
+             style="fill:#ff6600" />
+        </g>
+        <g
+           id="g6041"
+           style="fill:#ff6600;fill-opacity:1">
+          <use
+             id="use6043"
+             y="136.259"
+             x="229.80499"
+             xlink:href="#textext-24693a35-1"
+             width="1052.3622"
+             height="744.09448"
+             style="fill:#ff6600" />
+          <use
+             id="use6045"
+             y="136.259"
+             x="236.34991"
+             xlink:href="#textext-24693a35-2"
+             width="1052.3622"
+             height="744.09448"
+             style="fill:#ff6600" />
+          <use
+             id="use6047"
+             y="136.259"
+             x="240.32149"
+             xlink:href="#textext-24693a35-3"
+             width="1052.3622"
+             height="744.09448"
+             style="fill:#ff6600" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="bildentstehung-woelbspiegel.svg"
+   inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/woelbspiegel-3.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.74632911"
+     inkscape:cx="461.81213"
+     inkscape:cy="551.86738"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="true">
+    <sodipodi:guide
+       id="guide9298"
+       orientation="744.0945,0"
+       position="0.0,0" />
+    <sodipodi:guide
+       id="guide9300"
+       orientation="744.0945,0"
+       position="350.7874,0" />
+    <sodipodi:guide
+       id="guide9302"
+       orientation="744.0945,0"
+       position="701.5748,0" />
+    <sodipodi:guide
+       id="guide9304"
+       orientation="744.0945,0"
+       position="1052.3622,0" />
+    <sodipodi:guide
+       id="guide9306"
+       orientation="0,1052.3622"
+       position="0,0.0" />
+    <sodipodi:guide
+       id="guide9308"
+       orientation="0,1052.3622"
+       position="0,372.0472" />
+    <sodipodi:guide
+       id="guide9310"
+       orientation="0,1052.3622"
+       position="0,744.0945" />
+    <sodipodi:guide
+       orientation="-0.59857665,-0.80106554"
+       position="580.76195,372.04727"
+       id="guide10079" />
+    <sodipodi:guide
+       orientation="0.52241037,-0.8526942"
+       position="531.53495,408.97707"
+       id="guide30666" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="435.66189,480.46974"
+       id="guide30670" />
+  </sodipodi:namedview>
+  <title
+     id="title25909">Bildentstehung am Woelbspiegel</title>
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect31116"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect30668"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect30662"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10077"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9132"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path4124" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Sstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Sstart">
+      <path
+         transform="scale(0.3) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path4130" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path4133" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect28466"
+       is_visible="true" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path20121" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="scale(0.2) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path20118" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect15299"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15097"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect15051"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14849"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14845"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14841"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14639"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14035"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect13833"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect13631"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect13627"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect13607"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect13541"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect13537"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect13495"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect13491"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect13487"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect13483"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect13061"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12859"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12459"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12453"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12449"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12445"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12241"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12238"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12235"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12224"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12221"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12218"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12210"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12207"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12204"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12134"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12130"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11928"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11924"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11922"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11914"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11898"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11895"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11892"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11883"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11880"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11877"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11610"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11408"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11358"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11356"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11352"
+       effect="spiro" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path5456" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11047"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11043"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11041"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11039"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11037"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11035"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11031"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11029"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11027"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11025"
+       is_visible="true" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5435" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10157"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9765"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9004"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9000"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8992"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8959"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect8956"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8953"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect8950"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8947"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect8944"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect8941"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8850"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect8847"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8844"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8618"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect8420"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect8222"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8218"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect8018"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8014"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8010"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7618"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7420"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="TriangleInS"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path5569" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6450"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="Tail"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Tail">
+      <g
+         transform="scale(-1.2)"
+         id="g5465">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;marker-start:none;marker-end:none;stroke-linecap:round"
+           d="M -3.8048674,-3.9585227 L 0.54352094,0"
+           id="path5467" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;marker-start:none;marker-end:none;stroke-linecap:round"
+           d="M -1.2866832,-3.9585227 L 3.0617053,0"
+           id="path5469" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;marker-start:none;marker-end:none;stroke-linecap:round"
+           d="M 1.3053582,-3.9585227 L 5.6537466,0"
+           id="path5471" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;marker-start:none;marker-end:none;stroke-linecap:round"
+           d="M -3.8048674,4.1775838 L 0.54352094,0.21974226"
+           id="path5473" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;marker-start:none;marker-end:none;stroke-linecap:round"
+           d="M -1.2866832,4.1775838 L 3.0617053,0.21974226"
+           id="path5475" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;marker-start:none;marker-end:none;stroke-linecap:round"
+           d="M 1.3053582,4.1775838 L 5.6537466,0.21974226"
+           id="path5477" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path5572" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5438" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5418"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5200"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5039"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5035"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5031"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5027"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4255"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9004-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9004-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12210-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12210-5-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12210-5-0"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-7"
+       style="overflow:visible">
+      <path
+         id="path4744"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect25439"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker25729"
+       style="overflow:visible">
+      <path
+         id="path25731"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect25436"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect25433"
+       effect="spiro" />
+    <linearGradient
+       id="linearGradient35265-1">
+      <stop
+         id="stop35267-9"
+         offset="0"
+         style="stop-color:#ff9955;stop-opacity:1;" />
+      <stop
+         id="stop35269-6"
+         offset="1"
+         style="stop-color:#fffb36;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect25213"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker25740"
+       style="overflow:visible">
+      <path
+         id="path25742"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect25501"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker25745"
+       style="overflow:visible">
+      <path
+         id="path25747"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect25153"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker25750"
+       style="overflow:visible">
+      <path
+         id="path25752"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect25488"
+       effect="spiro" />
+    <linearGradient
+       id="linearGradient25756">
+      <stop
+         id="stop25758"
+         offset="0"
+         style="stop-color:#ff9955;stop-opacity:1;" />
+      <stop
+         id="stop25760"
+         offset="1"
+         style="stop-color:#fffb36;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect34665-4-0"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker25763"
+       style="overflow:visible">
+      <path
+         id="path25765"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect25495"
+       is_visible="true" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(0.20149729,0,0,0.51060527,1968.4092,2303.5426)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient25956"
+       xlink:href="#linearGradient35265-1"
+       inkscape:collect="always" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient25960"
+       xlink:href="#linearGradient35265-1"
+       inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1"
+       id="radialGradient9553"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.20149729,0,0,0.51060527,1968.4092,2303.5426)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1"
+       id="radialGradient9555"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1"
+       id="radialGradient10030"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.20149729,0,0,0.51060527,1968.4092,2303.5426)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1"
+       id="radialGradient10032"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1-3"
+       id="radialGradient5550"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.20149729,0,0,0.51060527,1968.4092,2303.5426)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <linearGradient
+       id="linearGradient35265-1-3">
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1;"
+         offset="0"
+         id="stop35267-9-2" />
+      <stop
+         style="stop-color:#fffb36;stop-opacity:1;"
+         offset="1"
+         id="stop35269-6-2" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect25213-2"
+       effect="spiro" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(0.20149729,0,0,0.51060527,1968.4092,2303.5426)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5600"
+       xlink:href="#linearGradient35265-1-3"
+       inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1"
+       id="radialGradient5705"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19752912,0,0,0.50054971,1931.6968,2275.3913)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1"
+       id="radialGradient30664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19752912,0,0,0.50054971,1931.6968,2275.3913)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Bildentstehung am Woelbspiegel</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:date>2012-10-27</dc:date>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Optik</rdf:li>
+            <rdf:li>Lichtreflektion</rdf:li>
+            <rdf:li>Woelbspiegel</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:language>de_DE</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-308.2677)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7126"
+       width="1031.3621"
+       height="265.72009"
+       x="1057.0181"
+       y="545.43457" />
+    <g
+       id="g30656"
+       inkscape:transform-center-x="135.1904"
+       inkscape:transform-center-y="121.48784"
+       transform="matrix(-1.0795699,0.45958665,0.44747247,1.1087965,630.77348,-143.2244)" />
+    <g
+       transform="matrix(1.0708757,0.46293441,-0.44386878,1.1168733,229.64271,-221.63494)"
+       inkscape:transform-center-y="122.37579"
+       inkscape:transform-center-x="-134.09897"
+       id="g30430" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7126-0"
+       width="540.88293"
+       height="410.88806"
+       x="255.73964"
+       y="474.87091"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/optik/bildentstehung-woelbspiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="36.121024"
+       inkscape:transform-center-x="-46.864217"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 463.30809,570.21161 c 0,0 147.27255,110.10338 147.27241,110.10327"
+       inkscape:path-effect="#path-effect25439"
+       id="path25359"
+       d="M 463.30809,570.21161 610.5805,680.31488"
+       style="fill:none;stroke:#ff6600;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.49999998, 2.99999997;stroke-dashoffset:0;marker-start:none;marker-mid:none;marker-end:none"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/optik/bildentstehung-woelbspiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 783.65378,680.315 -514.94542,0"
+       inkscape:path-effect="#path-effect25433"
+       id="path25363"
+       d="m 783.65378,680.315 -514.94542,0"
+       style="fill:none;stroke:#000000;stroke-width:0.8783077;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.8783078, 1.75661551;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/optik/bildentstehung-woelbspiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(-0.02631081,0,0,0.02631081,635.92255,659.39493)"
+       d="m 1081.8734,795.10718 c 0,65.55229 -53.1406,118.69291 -118.69292,118.69291 -65.55229,0 -118.69292,-53.14062 -118.69292,-118.69291 0,-65.55229 53.14063,-118.69292 118.69292,-118.69292 65.55232,0 118.69292,53.14063 118.69292,118.69292 z"
+       sodipodi:ry="118.69292"
+       sodipodi:rx="118.69292"
+       sodipodi:cy="795.10718"
+       sodipodi:cx="963.18048"
+       id="path25365"
+       style="fill:#000000;stroke:#000000;stroke-width:58.35244751;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/optik/bildentstehung-woelbspiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:#000000;stroke-width:58.35244751;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path25401"
+       sodipodi:cx="963.18048"
+       sodipodi:cy="795.10718"
+       sodipodi:rx="118.69292"
+       sodipodi:ry="118.69292"
+       d="m 1081.8734,795.10718 c 0,65.55229 -53.1406,118.69291 -118.69292,118.69291 -65.55229,0 -118.69292,-53.14062 -118.69292,-118.69291 0,-65.55229 53.14063,-118.69292 118.69292,-118.69292 65.55232,0 118.69292,53.14063 118.69292,118.69292 z"
+       transform="matrix(-0.02631081,0,0,0.02631081,789.26115,659.39493)"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/optik/bildentstehung-woelbspiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g5701"
+       inkscape:transform-center-x="145.34365"
+       inkscape:transform-center-y="-36.171502"
+       transform="matrix(1.511261,-0.12428783,0.12428783,1.511261,-346.98064,-262.24123)"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/optik/bildentstehung-woelbspiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="M 679.1947,679.54626 578.23693,645.41966 477.2792,611.29306"
+         inkscape:path-effect="#path-effect9132"
+         id="path9130"
+         d="M 679.1947,679.54626 C 645.54211,668.17073 611.88952,656.7952 578.23693,645.41966 544.58435,634.04413 510.93178,622.6686 477.2792,611.29306"
+         style="fill:none;stroke:#ff6600;stroke-width:0.989209;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.98920896, 1.97841792;stroke-dashoffset:0;marker-mid:none;marker-end:none"
+         inkscape:transform-center-x="101.60351"
+         inkscape:transform-center-y="-34.633763"
+         sodipodi:nodetypes="ccc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:transform-center-y="14.417973"
+         inkscape:transform-center-x="-42.31524"
+         style="fill:none;stroke:#ff6600;stroke-width:0.98920894;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-mid:none;marker-end:url(#marker25763)"
+         d="m 390.76803,581.43904 84.80531,29.25328"
+         id="path28464"
+         inkscape:path-effect="#path-effect28466"
+         inkscape:original-d="m 390.76803,581.43904 84.80531,29.25328"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(-1.5463191,0,0,1.5463191,896.32561,-374.83468)"
+       id="g25367"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/optik/bildentstehung-woelbspiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:open="true"
+         sodipodi:end="6.8067841"
+         sodipodi:start="5.7595865"
+         transform="matrix(1.7210767,0,0,1.7221325,-1569.1658,-686.91779)"
+         d="m 1065.9716,735.76072 c 21.2024,36.72371 21.2024,81.9692 0,118.69292"
+         sodipodi:ry="118.69292"
+         sodipodi:rx="118.69292"
+         sodipodi:cy="795.10718"
+         sodipodi:cx="963.18048"
+         id="path25369"
+         style="fill:none;stroke:#000000;stroke-width:0.7512725;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#b3b3b3;stroke-width:0.74369162;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path25371"
+         sodipodi:cx="963.18048"
+         sodipodi:cy="795.10718"
+         sodipodi:rx="118.69292"
+         sodipodi:ry="118.69292"
+         d="m 1065.9716,735.76072 c 21.2024,36.72371 21.2024,81.9692 0,118.69292"
+         transform="matrix(1.7391538,0,0,1.7391538,-1586.8318,-700.45153)"
+         sodipodi:start="5.7595865"
+         sodipodi:end="6.8067841"
+         sodipodi:open="true" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 460.82164,568.44945 c -12.82791,-9.55799 -25.51532,-19.04864 -37.97854,-28.37824 -12.46325,-9.32963 -24.70234,-18.4982 -36.6336,-27.41207"
+       inkscape:path-effect="#path-effect10077"
+       id="path10075"
+       d="M 460.82164,568.44945 C 448.15886,558.99441 435.49934,549.535 422.8431,540.07121 410.62885,530.93793 398.41765,521.80057 386.2095,512.65914"
+       style="fill:#ff6600;stroke:#d40000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-mid:none;marker-end:url(#marker25763)"
+       sodipodi:nodetypes="csc"
+       inkscape:transform-center-x="24.217122"
+       inkscape:transform-center-y="-18.431179"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/optik/bildentstehung-woelbspiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       style="opacity:0.5"
+       id="g25379"
+       transform="matrix(-0.78965134,0,0,0.78965134,840.65359,-11.358479)"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/optik/bildentstehung-woelbspiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         style="fill:#666666;stroke:#501616;stroke-width:0.63319087;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.63319084, 1.26638168;stroke-dashoffset:0"
+         id="rect25381"
+         width="0.99767268"
+         height="10.606834"
+         x="386.7421"
+         y="830.59021" />
+      <rect
+         ry="1.45584"
+         style="fill:#782121;stroke:#501616;stroke-width:1.26638174;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.26638168, 2.53276336;stroke-dashoffset:0"
+         id="rect25383"
+         width="14.366487"
+         height="33.27634"
+         x="380.05765"
+         y="840.78949" />
+      <path
+         style="fill:url(#radialGradient30664);fill-opacity:1;stroke:#501616;stroke-width:0.63319087;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.63319084, 1.26638168;stroke-dashoffset:0"
+         d="m 389.06219,833.10498 c -1.92252,0.34723 -3.99188,-0.23908 -5.44654,-1.54317 -1.45465,-1.30408 -2.2627,-3.29734 -2.12677,-5.24623 0.0885,-1.26957 0.55144,-2.48635 1.13342,-3.61814 0.58197,-1.13179 1.28545,-2.19653 1.90213,-3.30979 2.63602,-4.75865 3.61751,-10.41361 2.73919,-15.78222 1.47255,5.89569 3.04523,11.76637 4.71712,17.60866 0.48023,1.67813 0.9719,3.37283 1.05514,5.11634 0.0832,1.74351 -0.28091,3.56877 -1.35779,4.94248 -0.66639,0.85008 -1.58923,1.4964 -2.6159,1.83207"
+         id="path25385"
+         inkscape:path-effect="#path-effect25213"
+         inkscape:original-d="m 389.06219,833.10498 c 0,0 -8.16745,-2.28991 -7.57331,-6.7894 0.29706,-2.24973 0.15449,-4.78747 3.03555,-6.92793 2.88106,-2.14044 4.03443,-12.46799 2.73919,-15.78222 4.03428,-1.02739 3.4798,10.97657 4.71712,17.60866 1.23732,6.6321 1.62703,7.66246 -0.30265,10.05882 -3.81615,4.73905 6.78639,-5.5968 -2.6159,1.83207 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccssc" />
+    </g>
+    <g
+       transform="matrix(1.5463191,0,0,1.5463191,-293.44508,-672.72194)"
+       id="g25379-8"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/optik/bildentstehung-woelbspiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         y="829.71686"
+         x="392.41891"
+         height="10.819916"
+         width="1.017715"
+         id="rect25381-5"
+         style="fill:#666666;stroke:#501616;stroke-width:0.32334852;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         y="840.12097"
+         x="385.60016"
+         height="33.944832"
+         width="14.655095"
+         id="rect25383-6"
+         style="fill:#782121;stroke:#501616;stroke-width:0.64669704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         ry="1.4850864" />
+      <path
+         sodipodi:nodetypes="ccccssc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 394.78576,832.28212 c 0,0 -8.33153,-2.33591 -7.72545,-6.9258 0.30303,-2.29492 0.15759,-4.88364 3.09653,-7.0671 2.93894,-2.18344 4.11548,-12.71846 2.79422,-16.09927 4.11532,-1.04803 3.5497,11.19708 4.81188,17.9624 1.26218,6.76533 1.65971,7.81639 -0.30873,10.26089 -3.89281,4.83426 6.92272,-5.70923 -2.66845,1.86888 z"
+         inkscape:path-effect="#path-effect25213-2"
+         id="path25385-5"
+         d="m 394.78576,832.28212 c -1.96114,0.3542 -4.07208,-0.24389 -5.55595,-1.57417 -1.48388,-1.33029 -2.30816,-3.36359 -2.1695,-5.35163 0.0903,-1.29507 0.56252,-2.53629 1.15619,-3.69082 0.59366,-1.15453 1.31127,-2.24066 1.94034,-3.37628 2.68898,-4.85425 3.69018,-10.62281 2.79422,-16.09927 1.50214,6.01413 3.10641,12.00274 4.81188,17.9624 0.48988,1.71185 0.99142,3.44059 1.07633,5.21912 0.0849,1.77854 -0.28655,3.64046 -1.38506,5.04177 -0.67978,0.86716 -1.62116,1.52646 -2.66845,1.86888"
+         style="fill:url(#radialGradient5600);fill-opacity:1;stroke:#501616;stroke-width:0.32334852;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       sodipodi:nodetypes="csc"
+       style="fill:#ff6600;stroke:#ff6600;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-mid:none;marker-end:url(#marker25763)"
+       d="m 314.42374,567.8972 71.16014,0 71.16015,0"
+       id="path25361"
+       inkscape:path-effect="#path-effect25436"
+       inkscape:original-d="m 314.42374,567.8972 c 23.72004,0 47.44011,0 71.16014,0 23.72005,0 47.44009,0 71.16015,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/optik/bildentstehung-woelbspiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       ns0:text="$\\rm{M}$"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(4.1396914,0,0,4.1396914,-179.94015,168.15694)"
+       id="g36296"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/optik/bildentstehung-woelbspiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs36298">
+        <g
+           id="g36300">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-dc8460af-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path36303" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-dc8460af-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 2.40625,-6.59375 C 2.3125,-6.8125 2.28125,-6.8125 2.046875,-6.8125 l -1.671875,0 0,0.3125 0.234375,0 c 0.765625,0 0.78125,0.109375 0.78125,0.46875 l 0,4.984375 c 0,0.265625 0,0.734375 -1.015625,0.734375 L 0.375,0 c 0.34375,-0.015625 0.828125,-0.03125 1.15625,-0.03125 0.328125,0 0.828125,0.015625 1.171875,0.03125 l 0,-0.3125 c -1.03125,0 -1.03125,-0.46875 -1.03125,-0.734375 l 0,-5.375 0.015625,0 2.40625,6.203125 C 4.140625,-0.09375 4.1875,0 4.28125,0 4.390625,0 4.421875,-0.078125 4.46875,-0.1875 L 6.921875,-6.5 l 0,5.71875 c 0,0.359375 -0.015625,0.46875 -0.78125,0.46875 l -0.234375,0 0,0.3125 c 0.359375,-0.03125 1.046875,-0.03125 1.4375,-0.03125 0.375,0 1.046875,0 1.421875,0.03125 l 0,-0.3125 -0.25,0 c -0.765625,0 -0.78125,-0.109375 -0.78125,-0.46875 l 0,-5.25 C 7.734375,-6.390625 7.75,-6.5 8.515625,-6.5 l 0.25,0 0,-0.3125 -1.6875,0 C 6.8125,-6.8125 6.8125,-6.796875 6.75,-6.625 L 4.5625,-1 z"
+               id="path36306" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-dc8460af-2">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g36309">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-dc8460af-1"
+             x="223.43201"
+             y="134.765"
+             id="use36311" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g36763"
+       transform="matrix(4.1396914,0,0,4.1396914,-327.61901,168.02757)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$\\rm{F}$"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/optik/bildentstehung-woelbspiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs36765">
+        <g
+           id="g36767">
+          <symbol
+             id="textext-ec583d85-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path36770"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-ec583d85-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path36773"
+               d="m 5.796875,-6.78125 -5.46875,0 0,0.3125 0.234375,0 c 0.765625,0 0.796875,0.109375 0.796875,0.46875 l 0,5.21875 c 0,0.359375 -0.03125,0.46875 -0.796875,0.46875 l -0.234375,0 0,0.3125 c 0.34375,-0.03125 1.125,-0.03125 1.515625,-0.03125 0.40625,0 1.3125,0 1.671875,0.03125 l 0,-0.3125 -0.328125,0 C 2.25,-0.3125 2.25,-0.4375 2.25,-0.78125 l 0,-2.453125 0.84375,0 c 0.96875,0 1.0625,0.3125 1.0625,1.15625 l 0.25,0 0,-2.640625 -0.25,0 c 0,0.84375 -0.09375,1.171875 -1.0625,1.171875 l -0.84375,0 0,-2.53125 c 0,-0.328125 0.015625,-0.390625 0.484375,-0.390625 l 1.1875,0 c 1.5,0 1.75,0.5625 1.90625,1.9375 l 0.25,0 z"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-ec583d85-2">
+        <g
+           id="g36776"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use36778"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-ec583d85-1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

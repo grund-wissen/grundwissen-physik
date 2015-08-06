@@ -1,0 +1,2108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg3015"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="halbleiter-n-p-uebergang-durchlassrichtung.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75262346"
+     inkscape:cx="494.56259"
+     inkscape:cy="462.25654"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="false"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-nodes="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-center="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-nodes="true"
+     inkscape:object-paths="true">
+    <sodipodi:guide
+       id="guide6050"
+       position="695.62211,446.23988"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide6052"
+       position="250.37921,446.23988"
+       orientation="1,0" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="354.68103,540.57654"
+       id="guide9130" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="324.58636,446.23988"
+       id="guide9132" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="769.82926,446.23988"
+       id="guide9276" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="621.41496,372.04725"
+       id="guide9278" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="621.41496,297.85461"
+       id="guide9280" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="695.62211,372.04725"
+       id="guide9282" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="621.41496,372.04725"
+       id="guide9284" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="547.20781,372.04725"
+       id="guide9286" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="473.00066,372.04725"
+       id="guide9288" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="398.79351,372.04725"
+       id="guide9290" />
+  </sodipodi:namedview>
+  <title
+     id="title6796">n-p-Uebergang (Durchlassrichtung)</title>
+  <defs
+     id="defs3017">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path12450" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path12447" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6456"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6454"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6452"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6450"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6448"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6446"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6444"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6442"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6440"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6438"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6436"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6434"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6432"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6430"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6428"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6426"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6424"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6422"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6420"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5171"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4901"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible">
+      <path
+         id="path3912"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3892"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3061"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3057"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3047"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3041"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2"
+       style="overflow:visible">
+      <path
+         id="path3912-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4901-6"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3912-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4901-4"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM"
+       style="overflow:visible">
+      <path
+         id="path13059"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(-0.4,-0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata3020">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>n-p-Uebergang (Durchlassrichtung)</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2012-04-24</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Elektrizitaetslehre</rdf:li>
+            <rdf:li>Halbleiter</rdf:li>
+            <rdf:li>n-p-Uebergang</rdf:li>
+            <rdf:li>Durchlassrichtung</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       y="385.16504"
+       x="-936.62927"
+       height="590.2998"
+       width="820.8963"
+       id="rect6621"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       transform="scale(-1,1)" />
+    <rect
+       style="color:#000000;fill:#cccccc;stroke:#cccccc;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4132"
+       width="647.72137"
+       height="263.07977"
+       x="202.32042"
+       y="417.40234"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       y="417.40234"
+       x="202.17397"
+       height="263.07977"
+       width="323.86069"
+       id="rect10654"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect10656"
+       width="323.86069"
+       height="263.07977"
+       x="526.03467"
+       y="417.40234"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <use
+       height="744.09448"
+       width="1052.3622"
+       transform="translate(-125.42627,62.595736)"
+       id="use10722"
+       xlink:href="#g4722"
+       y="0"
+       x="0"
+       style="stroke:#2a7fff;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <use
+       height="744.09448"
+       width="1052.3622"
+       transform="translate(-70.464198,147.74002)"
+       id="use10724"
+       xlink:href="#g4722"
+       y="0"
+       x="0"
+       style="stroke:#2a7fff;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <use
+       height="744.09448"
+       width="1052.3622"
+       transform="translate(-125.42627,173.69437)"
+       id="use10730"
+       xlink:href="#g4722"
+       y="0"
+       x="0"
+       style="stroke:#2a7fff;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       inkscape:tile-y0="329.03846"
+       inkscape:tile-x0="300.66465"
+       inkscape:tile-h="8.7638602"
+       inkscape:tile-w="8.7656526"
+       inkscape:tile-cy="333.42039"
+       inkscape:tile-cx="305.04747"
+       style="fill:#000000;stroke:#000080;stroke-width:1.51491559"
+       id="g4722"
+       transform="matrix(-0.46703893,0,0,0.46694343,722.77637,123.38018)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="stroke:#000080;stroke-width:1.51491559"
+         transform="translate(12.926276,9.0369543)"
+         id="g4724">
+        <g
+           transform="matrix(0.98778404,-0.15582904,0.15582904,0.98778404,-53.523457,479.74575)"
+           id="g4726"
+           style="stroke:#000080;stroke-width:1.51491559">
+          <path
+             transform="matrix(0.74358975,0,0,0.74358975,53.510017,54.883809)"
+             d="m 221.30748,214.04686 c 0,6.96895 -5.64945,12.61841 -12.61841,12.61841 -6.96895,0 -12.61841,-5.64946 -12.61841,-12.61841 0,-6.96896 5.64946,-12.61841 12.61841,-12.61841 6.96896,0 12.61841,5.64945 12.61841,12.61841 z"
+             sodipodi:ry="12.618409"
+             sodipodi:rx="12.618409"
+             sodipodi:cy="214.04686"
+             sodipodi:cx="208.68907"
+             id="path4728"
+             style="fill:#ffffff;stroke:#2a7fff;stroke-width:4.07460022;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1;font-family:Sans"
+           x="180.5584"
+           y="666.87579"
+           id="text4730"
+           sodipodi:linespacing="125%"><tspan
+             style="stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1"
+             sodipodi:role="line"
+             id="tspan4732"
+             x="180.5584"
+             y="666.87579">-</tspan></text>
+      </g>
+    </g>
+    <use
+       height="744.09448"
+       width="1052.3622"
+       transform="translate(-82.677993,231.5925)"
+       id="use10734"
+       xlink:href="#g4722"
+       y="0"
+       x="0"
+       style="stroke:#2a7fff;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="translate(-57.0126,-153.71655)"
+       id="g11238"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         transform="matrix(0.28857693,0,0,0.28857693,373.66425,599.29776)"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         sodipodi:ry="15"
+         sodipodi:rx="15"
+         sodipodi:cy="-42.637817"
+         sodipodi:cx="605"
+         id="path11261"
+         style="fill:none;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.49999984, 13.49999957;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <use
+       height="744.09448"
+       width="1052.3622"
+       transform="translate(44.627326,34.879818)"
+       id="use11243"
+       xlink:href="#g11238"
+       y="0"
+       x="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <use
+       height="744.09448"
+       width="1052.3622"
+       transform="translate(55.901598,111.09863)"
+       id="use11245"
+       xlink:href="#g11238"
+       y="0"
+       x="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <use
+       height="744.09448"
+       width="1052.3622"
+       transform="translate(76.101334,188.72674)"
+       id="use11249"
+       xlink:href="#g11238"
+       y="0"
+       x="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <use
+       height="744.09448"
+       width="1052.3622"
+       transform="translate(-7.0464194,218.43916)"
+       id="use11253"
+       xlink:href="#g11238"
+       y="0"
+       x="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       ns0:text="\\centering $n$-dotierte \\\\ Schicht"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       transform="matrix(4.0106252,0,0,4.0106252,-1241.4334,-2.081351)"
+       id="g6079"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs6081">
+        <g
+           id="g6083">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-56528aa6-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 0.875,-0.59375 c -0.03125,0.15625 -0.09375,0.390625 -0.09375,0.4375 0,0.171875 0.140625,0.265625 0.296875,0.265625 0.125,0 0.296875,-0.078125 0.375,-0.28125 0,-0.015625 0.125,-0.484375 0.1875,-0.734375 l 0.21875,-0.890625 C 1.90625,-2.03125 1.96875,-2.25 2.03125,-2.46875 c 0.03125,-0.171875 0.109375,-0.46875 0.125,-0.5 0.140625,-0.3125 0.671875,-1.21875 1.625,-1.21875 0.453125,0 0.53125,0.375 0.53125,0.703125 0,0.609375 -0.484375,1.890625 -0.640625,2.3125 C 3.578125,-0.9375 3.5625,-0.8125 3.5625,-0.703125 c 0,0.46875 0.359375,0.8125 0.828125,0.8125 0.9375,0 1.296875,-1.453125 1.296875,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.109375,0 -0.109375,0.03125 -0.15625,0.1875 -0.203125,0.671875 -0.53125,1.234375 -1.015625,1.234375 -0.171875,0 -0.234375,-0.09375 -0.234375,-0.328125 0,-0.25 0.078125,-0.484375 0.171875,-0.703125 0.1875,-0.53125 0.609375,-1.625 0.609375,-2.203125 0,-0.65625 -0.421875,-1.0625 -1.140625,-1.0625 -0.90625,0 -1.390625,0.640625 -1.5625,0.875 -0.046875,-0.5625 -0.453125,-0.875 -0.921875,-0.875 -0.453125,0 -0.640625,0.390625 -0.734375,0.5625 C 0.421875,-3.5 0.296875,-2.90625 0.296875,-2.875 c 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.015625 0.171875,-0.234375 0.171875,-0.703125 0.375,-1.1875 0.734375,-1.1875 0.1875,0 0.296875,0.125 0.296875,0.453125 0,0.21875 -0.03125,0.328125 -0.15625,0.84375 z m 0,0"
+               id="path6086" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-56528aa6-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.75,-1.859375 0,-0.578125 -2.640625,0 0,0.578125 z m 0,0"
+               id="path6089" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-56528aa6-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.78125,-0.546875 0,0.65625 L 5.25,0 l 0,-0.3125 c -0.6875,0 -0.78125,-0.0625 -0.78125,-0.5625 l 0,-6.046875 -1.421875,0.109375 0,0.3125 c 0.6875,0 0.765625,0.0625 0.765625,0.5625 l 0,2.15625 c -0.28125,-0.359375 -0.71875,-0.625 -1.25,-0.625 -1.171875,0 -2.21875,0.984375 -2.21875,2.265625 0,1.265625 0.96875,2.25 2.109375,2.25 0.640625,0 1.078125,-0.34375 1.328125,-0.65625 z m 0,-2.671875 0,2.046875 c 0,0.171875 0,0.1875 -0.109375,0.359375 C 3.375,-0.328125 2.9375,-0.109375 2.5,-0.109375 2.046875,-0.109375 1.6875,-0.375 1.453125,-0.75 1.203125,-1.15625 1.171875,-1.71875 1.171875,-2.140625 1.171875,-2.5 1.1875,-3.09375 1.46875,-3.546875 1.6875,-3.859375 2.0625,-4.1875 2.609375,-4.1875 c 0.34375,0 0.765625,0.15625 1.0625,0.59375 0.109375,0.171875 0.109375,0.1875 0.109375,0.375 z m 0,0"
+               id="path6092" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-56528aa6-3">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 4.6875,-2.140625 C 4.6875,-3.40625 3.703125,-4.46875 2.5,-4.46875 c -1.25,0 -2.21875,1.09375 -2.21875,2.328125 0,1.296875 1.03125,2.25 2.203125,2.25 1.203125,0 2.203125,-0.984375 2.203125,-2.25 z m -2.1875,2 c -0.4375,0 -0.875,-0.203125 -1.140625,-0.671875 -0.25,-0.4375 -0.25,-1.046875 -0.25,-1.40625 0,-0.390625 0,-0.921875 0.234375,-1.359375 C 1.609375,-4.03125 2.078125,-4.25 2.484375,-4.25 c 0.4375,0 0.859375,0.21875 1.125,0.65625 0.265625,0.421875 0.265625,1 0.265625,1.375 0,0.359375 0,0.90625 -0.21875,1.34375 C 3.421875,-0.421875 2.984375,-0.140625 2.5,-0.140625 z m 0,0"
+               id="path6095" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-56528aa6-4">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 1.71875,-3.984375 1.4375,0 0,-0.3125 -1.4375,0 0,-1.828125 -0.25,0 c 0,0.8125 -0.296875,1.875 -1.28125,1.921875 l 0,0.21875 0.84375,0 0,2.75 c 0,1.21875 0.9375,1.34375 1.296875,1.34375 0.703125,0 0.984375,-0.703125 0.984375,-1.34375 l 0,-0.5625 -0.25,0 0,0.546875 c 0,0.734375 -0.296875,1.109375 -0.671875,1.109375 -0.671875,0 -0.671875,-0.90625 -0.671875,-1.078125 z m 0,0"
+               id="path6098" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-56528aa6-5">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 1.765625,-4.40625 0.375,-4.296875 l 0,0.3125 c 0.640625,0 0.734375,0.0625 0.734375,0.546875 l 0,2.6875 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 C 0.640625,-0.015625 1.1875,-0.03125 1.421875,-0.03125 1.78125,-0.03125 2.125,-0.015625 2.46875,0 l 0,-0.3125 c -0.671875,0 -0.703125,-0.046875 -0.703125,-0.4375 z m 0.03125,-1.734375 c 0,-0.3125 -0.234375,-0.53125 -0.515625,-0.53125 -0.3125,0 -0.53125,0.265625 -0.53125,0.53125 0,0.265625 0.21875,0.53125 0.53125,0.53125 0.28125,0 0.515625,-0.21875 0.515625,-0.53125 z m 0,0"
+               id="path6101" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-56528aa6-6">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 1.109375,-2.515625 C 1.171875,-4 2.015625,-4.25 2.359375,-4.25 c 1.015625,0 1.125,1.34375 1.125,1.734375 z m 0,0.21875 2.78125,0 c 0.21875,0 0.25,0 0.25,-0.21875 0,-0.984375 -0.546875,-1.953125 -1.78125,-1.953125 -1.15625,0 -2.078125,1.03125 -2.078125,2.28125 0,1.328125 1.046875,2.296875 2.1875,2.296875 C 3.6875,0.109375 4.140625,-1 4.140625,-1.1875 4.140625,-1.28125 4.0625,-1.3125 4,-1.3125 c -0.078125,0 -0.109375,0.0625 -0.125,0.140625 -0.34375,1.03125 -1.25,1.03125 -1.34375,1.03125 -0.5,0 -0.890625,-0.296875 -1.125,-0.671875 -0.296875,-0.46875 -0.296875,-1.125 -0.296875,-1.484375 z m 0,0"
+               id="path6104" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-56528aa6-7">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 1.671875,-3.3125 0,-1.09375 -1.390625,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 l 0,2.671875 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.390625,-0.015625 0.859375,-0.03125 1.140625,-0.03125 0.390625,0 0.859375,0 1.265625,0.03125 l 0,-0.3125 -0.21875,0 c -0.734375,0 -0.75,-0.109375 -0.75,-0.46875 l 0,-1.53125 c 0,-0.984375 0.421875,-1.875 1.171875,-1.875 0.0625,0 0.09375,0 0.109375,0.015625 -0.03125,0 -0.234375,0.125 -0.234375,0.390625 0,0.265625 0.21875,0.421875 0.4375,0.421875 0.171875,0 0.421875,-0.125 0.421875,-0.4375 0,-0.3125 -0.3125,-0.609375 -0.734375,-0.609375 -0.734375,0 -1.09375,0.671875 -1.21875,1.09375 z m 0,0"
+               id="path6107" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-56528aa6-8">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.484375,-3.875 -1.28125,-0.296875 c -0.625,-0.15625 -1,-0.6875 -1,-1.265625 0,-0.703125 0.53125,-1.3125 1.3125,-1.3125 1.65625,0 1.875,1.640625 1.9375,2.078125 0.015625,0.0625 0.015625,0.125 0.125,0.125 0.125,0 0.125,-0.046875 0.125,-0.234375 l 0,-2 c 0,-0.171875 0,-0.25 -0.109375,-0.25 -0.0625,0 -0.078125,0.015625 -0.140625,0.140625 l -0.359375,0.5625 C 3.796875,-6.625 3.390625,-7.03125 2.5,-7.03125 c -1.109375,0 -1.9375,0.875 -1.9375,1.9375 0,0.828125 0.53125,1.5625 1.296875,1.828125 0.109375,0.03125 0.625,0.15625 1.328125,0.328125 0.265625,0.0625 0.5625,0.140625 0.84375,0.5 0.203125,0.265625 0.3125,0.59375 0.3125,0.921875 0,0.703125 -0.5,1.421875 -1.34375,1.421875 -0.28125,0 -1.046875,-0.046875 -1.578125,-0.53125 C 0.84375,-1.171875 0.8125,-1.796875 0.8125,-2.15625 0.796875,-2.265625 0.71875,-2.265625 0.6875,-2.265625 c -0.125,0 -0.125,0.078125 -0.125,0.25 l 0,2 c 0,0.171875 0,0.234375 0.109375,0.234375 0.0625,0 0.078125,-0.015625 0.140625,-0.125 0,-0.015625 0.03125,-0.046875 0.359375,-0.578125 0.3125,0.34375 0.953125,0.703125 1.84375,0.703125 1.15625,0 1.953125,-0.96875 1.953125,-2.078125 0,-0.984375 -0.65625,-1.8125 -1.484375,-2.015625 z m 0,0"
+               id="path6110" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-56528aa6-9">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 1.171875,-2.171875 c 0,-1.625 0.8125,-2.046875 1.34375,-2.046875 0.09375,0 0.71875,0.015625 1.0625,0.375 -0.40625,0.03125 -0.46875,0.328125 -0.46875,0.453125 0,0.265625 0.1875,0.453125 0.453125,0.453125 0.265625,0 0.46875,-0.15625 0.46875,-0.46875 0,-0.671875 -0.765625,-1.0625 -1.53125,-1.0625 -1.25,0 -2.15625,1.078125 -2.15625,2.3125 0,1.28125 0.984375,2.265625 2.140625,2.265625 1.328125,0 1.65625,-1.203125 1.65625,-1.296875 0,-0.09375 -0.109375,-0.09375 -0.140625,-0.09375 -0.078125,0 -0.109375,0.03125 -0.125,0.09375 -0.28125,0.921875 -0.9375,1.046875 -1.296875,1.046875 -0.53125,0 -1.40625,-0.421875 -1.40625,-2.03125 z m 0,0"
+               id="path6113" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-56528aa6-10">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 1.09375,-0.75 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.359375,-0.015625 0.859375,-0.03125 1.140625,-0.03125 0.25,0 0.765625,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.671875,0 -0.78125,0 -0.78125,-0.4375 l 0,-1.84375 C 1.78125,-3.625 2.5,-4.1875 3.125,-4.1875 c 0.640625,0 0.75,0.53125 0.75,1.109375 l 0,2.328125 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.34375,-0.015625 0.859375,-0.03125 1.125,-0.03125 0.25,0 0.78125,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.515625,0 -0.765625,0 -0.765625,-0.296875 l 0,-1.90625 c 0,-0.859375 0,-1.15625 -0.3125,-1.515625 -0.140625,-0.171875 -0.46875,-0.375 -1.046875,-0.375 -0.84375,0 -1.28125,0.59375 -1.453125,0.984375 l 0,-3.5 -1.4375,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 z m 0,0"
+               id="path6116" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-56528aa6-11">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6119">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-0"
+             x="373.742"
+             y="134.765"
+             id="use6121" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6123">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-1"
+             x="379.72198"
+             y="134.765"
+             id="use6125" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-2"
+             x="383.04254"
+             y="134.765"
+             id="use6127" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-3"
+             x="388.57776"
+             y="134.765"
+             id="use6129" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-4"
+             x="393.55905"
+             y="134.765"
+             id="use6131" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-5"
+             x="397.4335"
+             y="134.765"
+             id="use6133" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-6"
+             x="400.20111"
+             y="134.765"
+             id="use6135" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-7"
+             x="404.62851"
+             y="134.765"
+             id="use6137" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-4"
+             x="408.53085"
+             y="134.765"
+             id="use6139" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-6"
+             x="412.4053"
+             y="134.765"
+             id="use6141" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6143">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-8"
+             x="379.65201"
+             y="146.72"
+             id="use6145" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-9"
+             x="385.18723"
+             y="146.72"
+             id="use6147" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6149">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-10"
+             x="389.33563"
+             y="146.72"
+             id="use6151" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-5"
+             x="394.87088"
+             y="146.72"
+             id="use6153" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-9"
+             x="397.63849"
+             y="146.72"
+             id="use6155" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6157">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-10"
+             x="401.7869"
+             y="146.72"
+             id="use6159" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g6161">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-56528aa6-4"
+             x="407.05313"
+             y="146.72"
+             id="use6163" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g6554"
+       transform="matrix(4.0106252,0,0,4.0106252,-890.99143,-2.081351)"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       ns0:text="\\centering $p$-dotierte \\\\ Schicht"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs6556">
+        <g
+           id="g6558">
+          <symbol
+             style="overflow:visible"
+             id="textext-d458b9f7-0"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6561"
+               d="M 0.453125,1.21875 C 0.375,1.5625 0.34375,1.625 -0.09375,1.625 c -0.109375,0 -0.21875,0 -0.21875,0.1875 0,0.078125 0.046875,0.125 0.125,0.125 0.265625,0 0.5625,-0.03125 0.828125,-0.03125 0.34375,0 0.671875,0.03125 1,0.03125 0.046875,0 0.171875,0 0.171875,-0.203125 C 1.8125,1.625 1.71875,1.625 1.578125,1.625 c -0.5,0 -0.5,-0.0625 -0.5,-0.15625 0,-0.125 0.421875,-1.75 0.484375,-2 0.125,0.296875 0.40625,0.640625 0.921875,0.640625 1.15625,0 2.40625,-1.453125 2.40625,-2.921875 0,-0.9375 -0.578125,-1.59375 -1.328125,-1.59375 -0.5,0 -0.984375,0.359375 -1.3125,0.75 -0.09375,-0.546875 -0.53125,-0.75 -0.890625,-0.75 -0.46875,0 -0.65625,0.390625 -0.734375,0.5625 C 0.4375,-3.5 0.3125,-2.90625 0.3125,-2.875 c 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.015625 0.171875,-0.234375 0.171875,-0.703125 0.375,-1.1875 0.734375,-1.1875 0.171875,0 0.3125,0.078125 0.3125,0.453125 0,0.234375 -0.03125,0.34375 -0.078125,0.515625 z m 1.75,-4.328125 C 2.265625,-3.375 2.546875,-3.65625 2.71875,-3.8125 c 0.359375,-0.296875 0.640625,-0.375 0.8125,-0.375 0.390625,0 0.640625,0.34375 0.640625,0.9375 0,0.59375 -0.328125,1.734375 -0.515625,2.109375 -0.34375,0.703125 -0.8125,1.03125 -1.1875,1.03125 C 1.8125,-0.109375 1.6875,-0.9375 1.6875,-1 c 0,-0.015625 0,-0.03125 0.03125,-0.15625 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-d458b9f7-1"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6564"
+               d="m 2.75,-1.859375 0,-0.578125 -2.640625,0 0,0.578125 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-d458b9f7-2"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6567"
+               d="m 3.78125,-0.546875 0,0.65625 L 5.25,0 l 0,-0.3125 c -0.6875,0 -0.78125,-0.0625 -0.78125,-0.5625 l 0,-6.046875 -1.421875,0.109375 0,0.3125 c 0.6875,0 0.765625,0.0625 0.765625,0.5625 l 0,2.15625 c -0.28125,-0.359375 -0.71875,-0.625 -1.25,-0.625 -1.171875,0 -2.21875,0.984375 -2.21875,2.265625 0,1.265625 0.96875,2.25 2.109375,2.25 0.640625,0 1.078125,-0.34375 1.328125,-0.65625 z m 0,-2.671875 0,2.046875 c 0,0.171875 0,0.1875 -0.109375,0.359375 C 3.375,-0.328125 2.9375,-0.109375 2.5,-0.109375 2.046875,-0.109375 1.6875,-0.375 1.453125,-0.75 1.203125,-1.15625 1.171875,-1.71875 1.171875,-2.140625 1.171875,-2.5 1.1875,-3.09375 1.46875,-3.546875 1.6875,-3.859375 2.0625,-4.1875 2.609375,-4.1875 c 0.34375,0 0.765625,0.15625 1.0625,0.59375 0.109375,0.171875 0.109375,0.1875 0.109375,0.375 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-d458b9f7-3"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6570"
+               d="M 4.6875,-2.140625 C 4.6875,-3.40625 3.703125,-4.46875 2.5,-4.46875 c -1.25,0 -2.21875,1.09375 -2.21875,2.328125 0,1.296875 1.03125,2.25 2.203125,2.25 1.203125,0 2.203125,-0.984375 2.203125,-2.25 z m -2.1875,2 c -0.4375,0 -0.875,-0.203125 -1.140625,-0.671875 -0.25,-0.4375 -0.25,-1.046875 -0.25,-1.40625 0,-0.390625 0,-0.921875 0.234375,-1.359375 C 1.609375,-4.03125 2.078125,-4.25 2.484375,-4.25 c 0.4375,0 0.859375,0.21875 1.125,0.65625 0.265625,0.421875 0.265625,1 0.265625,1.375 0,0.359375 0,0.90625 -0.21875,1.34375 C 3.421875,-0.421875 2.984375,-0.140625 2.5,-0.140625 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-d458b9f7-4"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6573"
+               d="m 1.71875,-3.984375 1.4375,0 0,-0.3125 -1.4375,0 0,-1.828125 -0.25,0 c 0,0.8125 -0.296875,1.875 -1.28125,1.921875 l 0,0.21875 0.84375,0 0,2.75 c 0,1.21875 0.9375,1.34375 1.296875,1.34375 0.703125,0 0.984375,-0.703125 0.984375,-1.34375 l 0,-0.5625 -0.25,0 0,0.546875 c 0,0.734375 -0.296875,1.109375 -0.671875,1.109375 -0.671875,0 -0.671875,-0.90625 -0.671875,-1.078125 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-d458b9f7-5"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6576"
+               d="M 1.765625,-4.40625 0.375,-4.296875 l 0,0.3125 c 0.640625,0 0.734375,0.0625 0.734375,0.546875 l 0,2.6875 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 C 0.640625,-0.015625 1.1875,-0.03125 1.421875,-0.03125 1.78125,-0.03125 2.125,-0.015625 2.46875,0 l 0,-0.3125 c -0.671875,0 -0.703125,-0.046875 -0.703125,-0.4375 z m 0.03125,-1.734375 c 0,-0.3125 -0.234375,-0.53125 -0.515625,-0.53125 -0.3125,0 -0.53125,0.265625 -0.53125,0.53125 0,0.265625 0.21875,0.53125 0.53125,0.53125 0.28125,0 0.515625,-0.21875 0.515625,-0.53125 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-d458b9f7-6"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6579"
+               d="M 1.109375,-2.515625 C 1.171875,-4 2.015625,-4.25 2.359375,-4.25 c 1.015625,0 1.125,1.34375 1.125,1.734375 z m 0,0.21875 2.78125,0 c 0.21875,0 0.25,0 0.25,-0.21875 0,-0.984375 -0.546875,-1.953125 -1.78125,-1.953125 -1.15625,0 -2.078125,1.03125 -2.078125,2.28125 0,1.328125 1.046875,2.296875 2.1875,2.296875 C 3.6875,0.109375 4.140625,-1 4.140625,-1.1875 4.140625,-1.28125 4.0625,-1.3125 4,-1.3125 c -0.078125,0 -0.109375,0.0625 -0.125,0.140625 -0.34375,1.03125 -1.25,1.03125 -1.34375,1.03125 -0.5,0 -0.890625,-0.296875 -1.125,-0.671875 -0.296875,-0.46875 -0.296875,-1.125 -0.296875,-1.484375 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-d458b9f7-7"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6582"
+               d="m 1.671875,-3.3125 0,-1.09375 -1.390625,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 l 0,2.671875 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.390625,-0.015625 0.859375,-0.03125 1.140625,-0.03125 0.390625,0 0.859375,0 1.265625,0.03125 l 0,-0.3125 -0.21875,0 c -0.734375,0 -0.75,-0.109375 -0.75,-0.46875 l 0,-1.53125 c 0,-0.984375 0.421875,-1.875 1.171875,-1.875 0.0625,0 0.09375,0 0.109375,0.015625 -0.03125,0 -0.234375,0.125 -0.234375,0.390625 0,0.265625 0.21875,0.421875 0.4375,0.421875 0.171875,0 0.421875,-0.125 0.421875,-0.4375 0,-0.3125 -0.3125,-0.609375 -0.734375,-0.609375 -0.734375,0 -1.09375,0.671875 -1.21875,1.09375 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-d458b9f7-8"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6585"
+               d="m 3.484375,-3.875 -1.28125,-0.296875 c -0.625,-0.15625 -1,-0.6875 -1,-1.265625 0,-0.703125 0.53125,-1.3125 1.3125,-1.3125 1.65625,0 1.875,1.640625 1.9375,2.078125 0.015625,0.0625 0.015625,0.125 0.125,0.125 0.125,0 0.125,-0.046875 0.125,-0.234375 l 0,-2 c 0,-0.171875 0,-0.25 -0.109375,-0.25 -0.0625,0 -0.078125,0.015625 -0.140625,0.140625 l -0.359375,0.5625 C 3.796875,-6.625 3.390625,-7.03125 2.5,-7.03125 c -1.109375,0 -1.9375,0.875 -1.9375,1.9375 0,0.828125 0.53125,1.5625 1.296875,1.828125 0.109375,0.03125 0.625,0.15625 1.328125,0.328125 0.265625,0.0625 0.5625,0.140625 0.84375,0.5 0.203125,0.265625 0.3125,0.59375 0.3125,0.921875 0,0.703125 -0.5,1.421875 -1.34375,1.421875 -0.28125,0 -1.046875,-0.046875 -1.578125,-0.53125 C 0.84375,-1.171875 0.8125,-1.796875 0.8125,-2.15625 0.796875,-2.265625 0.71875,-2.265625 0.6875,-2.265625 c -0.125,0 -0.125,0.078125 -0.125,0.25 l 0,2 c 0,0.171875 0,0.234375 0.109375,0.234375 0.0625,0 0.078125,-0.015625 0.140625,-0.125 0,-0.015625 0.03125,-0.046875 0.359375,-0.578125 0.3125,0.34375 0.953125,0.703125 1.84375,0.703125 1.15625,0 1.953125,-0.96875 1.953125,-2.078125 0,-0.984375 -0.65625,-1.8125 -1.484375,-2.015625 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-d458b9f7-9"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6588"
+               d="m 1.171875,-2.171875 c 0,-1.625 0.8125,-2.046875 1.34375,-2.046875 0.09375,0 0.71875,0.015625 1.0625,0.375 -0.40625,0.03125 -0.46875,0.328125 -0.46875,0.453125 0,0.265625 0.1875,0.453125 0.453125,0.453125 0.265625,0 0.46875,-0.15625 0.46875,-0.46875 0,-0.671875 -0.765625,-1.0625 -1.53125,-1.0625 -1.25,0 -2.15625,1.078125 -2.15625,2.3125 0,1.28125 0.984375,2.265625 2.140625,2.265625 1.328125,0 1.65625,-1.203125 1.65625,-1.296875 0,-0.09375 -0.109375,-0.09375 -0.140625,-0.09375 -0.078125,0 -0.109375,0.03125 -0.125,0.09375 -0.28125,0.921875 -0.9375,1.046875 -1.296875,1.046875 -0.53125,0 -1.40625,-0.421875 -1.40625,-2.03125 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-d458b9f7-10"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path6591"
+               d="m 1.09375,-0.75 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.359375,-0.015625 0.859375,-0.03125 1.140625,-0.03125 0.25,0 0.765625,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.671875,0 -0.78125,0 -0.78125,-0.4375 l 0,-1.84375 C 1.78125,-3.625 2.5,-4.1875 3.125,-4.1875 c 0.640625,0 0.75,0.53125 0.75,1.109375 l 0,2.328125 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.34375,-0.015625 0.859375,-0.03125 1.125,-0.03125 0.25,0 0.78125,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.515625,0 -0.765625,0 -0.765625,-0.296875 l 0,-1.90625 c 0,-0.859375 0,-1.15625 -0.3125,-1.515625 -0.140625,-0.171875 -0.46875,-0.375 -1.046875,-0.375 -0.84375,0 -1.28125,0.59375 -1.453125,0.984375 l 0,-3.5 -1.4375,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-d458b9f7-11">
+        <g
+           id="g6594"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6596"
+             y="134.765"
+             x="374.22601"
+             xlink:href="#textext-d458b9f7-0" />
+        </g>
+        <g
+           id="g6598"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6600"
+             y="134.765"
+             x="379.23801"
+             xlink:href="#textext-d458b9f7-1" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6602"
+             y="134.765"
+             x="382.55853"
+             xlink:href="#textext-d458b9f7-2" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6604"
+             y="134.765"
+             x="388.09375"
+             xlink:href="#textext-d458b9f7-3" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6606"
+             y="134.765"
+             x="393.07504"
+             xlink:href="#textext-d458b9f7-4" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6608"
+             y="134.765"
+             x="396.94952"
+             xlink:href="#textext-d458b9f7-5" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6610"
+             y="134.765"
+             x="399.71713"
+             xlink:href="#textext-d458b9f7-6" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6612"
+             y="134.765"
+             x="404.1445"
+             xlink:href="#textext-d458b9f7-7" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6614"
+             y="134.765"
+             x="408.04684"
+             xlink:href="#textext-d458b9f7-4" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6616"
+             y="134.765"
+             x="411.9213"
+             xlink:href="#textext-d458b9f7-6" />
+        </g>
+        <g
+           id="g6618"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6620"
+             y="146.72"
+             x="379.65201"
+             xlink:href="#textext-d458b9f7-8" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6622"
+             y="146.72"
+             x="385.18723"
+             xlink:href="#textext-d458b9f7-9" />
+        </g>
+        <g
+           id="g6624"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6626"
+             y="146.72"
+             x="389.33563"
+             xlink:href="#textext-d458b9f7-10" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6628"
+             y="146.72"
+             x="394.87088"
+             xlink:href="#textext-d458b9f7-5" />
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6630"
+             y="146.72"
+             x="397.63849"
+             xlink:href="#textext-d458b9f7-9" />
+        </g>
+        <g
+           id="g6632"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6634"
+             y="146.72"
+             x="401.7869"
+             xlink:href="#textext-d458b9f7-10" />
+        </g>
+        <g
+           id="g6636"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use6638"
+             y="146.72"
+             x="407.05313"
+             xlink:href="#textext-d458b9f7-4" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(-0.46703893,0,0,0.46694343,411.61363,131.18537)"
+       id="g7555"
+       style="fill:#000000;stroke:#000080;stroke-width:1.51491559"
+       inkscape:tile-cx="305.04747"
+       inkscape:tile-cy="333.42039"
+       inkscape:tile-w="8.7656526"
+       inkscape:tile-h="8.7638602"
+       inkscape:tile-x0="300.66465"
+       inkscape:tile-y0="329.03846"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g7557"
+         transform="translate(12.926276,9.0369543)"
+         style="stroke:#000080;stroke-width:1.51491559">
+        <g
+           style="stroke:#000080;stroke-width:1.51491559"
+           id="g7559"
+           transform="matrix(0.98778404,-0.15582904,0.15582904,0.98778404,-53.523457,479.74575)">
+          <path
+             sodipodi:type="arc"
+             style="fill:#ffffff;stroke:#2a7fff;stroke-width:4.07460022;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             id="path7561"
+             sodipodi:cx="208.68907"
+             sodipodi:cy="214.04686"
+             sodipodi:rx="12.618409"
+             sodipodi:ry="12.618409"
+             d="m 221.30748,214.04686 c 0,6.96895 -5.64945,12.61841 -12.61841,12.61841 -6.96895,0 -12.61841,-5.64946 -12.61841,-12.61841 0,-6.96896 5.64946,-12.61841 12.61841,-12.61841 6.96896,0 12.61841,5.64945 12.61841,12.61841 z"
+             transform="matrix(0.74358975,0,0,0.74358975,53.510017,54.883809)" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text7563"
+           y="666.87579"
+           x="180.5584"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="666.87579"
+             x="180.5584"
+             id="tspan7565"
+             sodipodi:role="line"
+             style="stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1">-</tspan></text>
+      </g>
+    </g>
+    <g
+       inkscape:tile-y0="329.03846"
+       inkscape:tile-x0="300.66465"
+       inkscape:tile-h="8.7638602"
+       inkscape:tile-w="8.7656526"
+       inkscape:tile-cy="333.42039"
+       inkscape:tile-cx="305.04747"
+       style="fill:#000000;stroke:#000080;stroke-width:1.51491559"
+       id="g7567"
+       transform="matrix(-0.46703893,0,0,0.46694343,864.53605,142.33756)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="stroke:#000080;stroke-width:1.51491559"
+         transform="translate(12.926276,9.0369543)"
+         id="g7569">
+        <g
+           transform="matrix(0.98778404,-0.15582904,0.15582904,0.98778404,-53.523457,479.74575)"
+           id="g7571"
+           style="stroke:#000080;stroke-width:1.51491559">
+          <path
+             transform="matrix(0.74358975,0,0,0.74358975,53.510017,54.883809)"
+             d="m 221.30748,214.04686 c 0,6.96895 -5.64945,12.61841 -12.61841,12.61841 -6.96895,0 -12.61841,-5.64946 -12.61841,-12.61841 0,-6.96896 5.64946,-12.61841 12.61841,-12.61841 6.96896,0 12.61841,5.64945 12.61841,12.61841 z"
+             sodipodi:ry="12.618409"
+             sodipodi:rx="12.618409"
+             sodipodi:cy="214.04686"
+             sodipodi:cx="208.68907"
+             id="path7573"
+             style="fill:#ffffff;stroke:#2a7fff;stroke-width:4.07460022;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1;font-family:Sans"
+           x="180.5584"
+           y="666.87579"
+           id="text7575"
+           sodipodi:linespacing="125%"><tspan
+             style="stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1"
+             sodipodi:role="line"
+             id="tspan7577"
+             x="180.5584"
+             y="666.87579">-</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="matrix(-0.46703893,0,0,0.46694343,527.84584,153.76195)"
+       id="g7579"
+       style="fill:#000000;stroke:#000080;stroke-width:1.51491559"
+       inkscape:tile-cx="305.04747"
+       inkscape:tile-cy="333.42039"
+       inkscape:tile-w="8.7656526"
+       inkscape:tile-h="8.7638602"
+       inkscape:tile-x0="300.66465"
+       inkscape:tile-y0="329.03846"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g7581"
+         transform="translate(12.926276,9.0369543)"
+         style="stroke:#000080;stroke-width:1.51491559">
+        <g
+           style="stroke:#000080;stroke-width:1.51491559"
+           id="g7583"
+           transform="matrix(0.98778404,-0.15582904,0.15582904,0.98778404,-53.523457,479.74575)">
+          <path
+             sodipodi:type="arc"
+             style="fill:#ffffff;stroke:#2a7fff;stroke-width:4.07460022;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             id="path7585"
+             sodipodi:cx="208.68907"
+             sodipodi:cy="214.04686"
+             sodipodi:rx="12.618409"
+             sodipodi:ry="12.618409"
+             d="m 221.30748,214.04686 c 0,6.96895 -5.64945,12.61841 -12.61841,12.61841 -6.96895,0 -12.61841,-5.64946 -12.61841,-12.61841 0,-6.96896 5.64946,-12.61841 12.61841,-12.61841 6.96896,0 12.61841,5.64945 12.61841,12.61841 z"
+             transform="matrix(0.74358975,0,0,0.74358975,53.510017,54.883809)" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text7587"
+           y="666.87579"
+           x="180.5584"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="666.87579"
+             x="180.5584"
+             id="tspan7589"
+             sodipodi:role="line"
+             style="stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1">-</tspan></text>
+      </g>
+    </g>
+    <g
+       inkscape:tile-y0="329.03846"
+       inkscape:tile-x0="300.66465"
+       inkscape:tile-h="8.7638602"
+       inkscape:tile-w="8.7656526"
+       inkscape:tile-cy="333.42039"
+       inkscape:tile-cx="305.04747"
+       style="fill:#000000;stroke:#000080;stroke-width:1.51491559"
+       id="g7591"
+       transform="matrix(-0.46703893,0,0,0.46694343,554.13206,230.01599)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="stroke:#000080;stroke-width:1.51491559"
+         transform="translate(12.926276,9.0369543)"
+         id="g7593">
+        <g
+           transform="matrix(0.98778404,-0.15582904,0.15582904,0.98778404,-53.523457,479.74575)"
+           id="g7595"
+           style="stroke:#000080;stroke-width:1.51491559">
+          <path
+             transform="matrix(0.74358975,0,0,0.74358975,53.510017,54.883809)"
+             d="m 221.30748,214.04686 c 0,6.96895 -5.64945,12.61841 -12.61841,12.61841 -6.96895,0 -12.61841,-5.64946 -12.61841,-12.61841 0,-6.96896 5.64946,-12.61841 12.61841,-12.61841 6.96896,0 12.61841,5.64945 12.61841,12.61841 z"
+             sodipodi:ry="12.618409"
+             sodipodi:rx="12.618409"
+             sodipodi:cy="214.04686"
+             sodipodi:cx="208.68907"
+             id="path7597"
+             style="fill:#ffffff;stroke:#2a7fff;stroke-width:4.07460022;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1;font-family:Sans"
+           x="180.5584"
+           y="666.87579"
+           id="text7599"
+           sodipodi:linespacing="125%"><tspan
+             style="stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1"
+             sodipodi:role="line"
+             id="tspan7601"
+             x="180.5584"
+             y="666.87579">-</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="matrix(-0.46703893,0,0,0.46694343,346.49756,186.79794)"
+       id="g7603"
+       style="fill:#000000;stroke:#000080;stroke-width:1.51491559"
+       inkscape:tile-cx="305.04747"
+       inkscape:tile-cy="333.42039"
+       inkscape:tile-w="8.7656526"
+       inkscape:tile-h="8.7638602"
+       inkscape:tile-x0="300.66465"
+       inkscape:tile-y0="329.03846"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g7605"
+         transform="translate(12.926276,9.0369543)"
+         style="stroke:#000080;stroke-width:1.51491559">
+        <g
+           style="stroke:#000080;stroke-width:1.51491559"
+           id="g7607"
+           transform="matrix(0.98778404,-0.15582904,0.15582904,0.98778404,-53.523457,479.74575)">
+          <path
+             sodipodi:type="arc"
+             style="fill:#ffffff;stroke:#2a7fff;stroke-width:4.07460022;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             id="path7609"
+             sodipodi:cx="208.68907"
+             sodipodi:cy="214.04686"
+             sodipodi:rx="12.618409"
+             sodipodi:ry="12.618409"
+             d="m 221.30748,214.04686 c 0,6.96895 -5.64945,12.61841 -12.61841,12.61841 -6.96895,0 -12.61841,-5.64946 -12.61841,-12.61841 0,-6.96896 5.64946,-12.61841 12.61841,-12.61841 6.96896,0 12.61841,5.64945 12.61841,12.61841 z"
+             transform="matrix(0.74358975,0,0,0.74358975,53.510017,54.883809)" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text7611"
+           y="666.87579"
+           x="180.5584"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="666.87579"
+             x="180.5584"
+             id="tspan7613"
+             sodipodi:role="line"
+             style="stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1">-</tspan></text>
+      </g>
+    </g>
+    <g
+       inkscape:tile-y0="329.03846"
+       inkscape:tile-x0="300.66465"
+       inkscape:tile-h="8.7638602"
+       inkscape:tile-w="8.7656526"
+       inkscape:tile-cy="333.42039"
+       inkscape:tile-cx="305.04747"
+       style="fill:#000000;stroke:#000080;stroke-width:1.51491559"
+       id="g7615"
+       transform="matrix(-0.46703893,0,0,0.46694343,732.93372,310.5202)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="stroke:#000080;stroke-width:1.51491559"
+         transform="translate(12.926276,9.0369543)"
+         id="g7617">
+        <g
+           transform="matrix(0.98778404,-0.15582904,0.15582904,0.98778404,-53.523457,479.74575)"
+           id="g7619"
+           style="stroke:#000080;stroke-width:1.51491559">
+          <path
+             transform="matrix(0.74358975,0,0,0.74358975,53.510017,54.883809)"
+             d="m 221.30748,214.04686 c 0,6.96895 -5.64945,12.61841 -12.61841,12.61841 -6.96895,0 -12.61841,-5.64946 -12.61841,-12.61841 0,-6.96896 5.64946,-12.61841 12.61841,-12.61841 6.96896,0 12.61841,5.64945 12.61841,12.61841 z"
+             sodipodi:ry="12.618409"
+             sodipodi:rx="12.618409"
+             sodipodi:cy="214.04686"
+             sodipodi:cx="208.68907"
+             id="path7621"
+             style="fill:#ffffff;stroke:#2a7fff;stroke-width:4.07460022;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1;font-family:Sans"
+           x="180.5584"
+           y="666.87579"
+           id="text7623"
+           sodipodi:linespacing="125%"><tspan
+             style="stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1"
+             sodipodi:role="line"
+             id="tspan7625"
+             x="180.5584"
+             y="666.87579">-</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="matrix(-0.46703893,0,0,0.46694343,857.59789,336.18205)"
+       id="g7627"
+       style="fill:#000000;stroke:#000080;stroke-width:1.51491559"
+       inkscape:tile-cx="305.04747"
+       inkscape:tile-cy="333.42039"
+       inkscape:tile-w="8.7656526"
+       inkscape:tile-h="8.7638602"
+       inkscape:tile-x0="300.66465"
+       inkscape:tile-y0="329.03846"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g7629"
+         transform="translate(12.926276,9.0369543)"
+         style="stroke:#000080;stroke-width:1.51491559">
+        <g
+           style="stroke:#000080;stroke-width:1.51491559"
+           id="g7631"
+           transform="matrix(0.98778404,-0.15582904,0.15582904,0.98778404,-53.523457,479.74575)">
+          <path
+             sodipodi:type="arc"
+             style="fill:#ffffff;stroke:#2a7fff;stroke-width:4.07460022;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             id="path7633"
+             sodipodi:cx="208.68907"
+             sodipodi:cy="214.04686"
+             sodipodi:rx="12.618409"
+             sodipodi:ry="12.618409"
+             d="m 221.30748,214.04686 c 0,6.96895 -5.64945,12.61841 -12.61841,12.61841 -6.96895,0 -12.61841,-5.64946 -12.61841,-12.61841 0,-6.96896 5.64946,-12.61841 12.61841,-12.61841 6.96896,0 12.61841,5.64945 12.61841,12.61841 z"
+             transform="matrix(0.74358975,0,0,0.74358975,53.510017,54.883809)" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text7635"
+           y="666.87579"
+           x="180.5584"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="666.87579"
+             x="180.5584"
+             id="tspan7637"
+             sodipodi:role="line"
+             style="stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1">-</tspan></text>
+      </g>
+    </g>
+    <g
+       inkscape:tile-y0="329.03846"
+       inkscape:tile-x0="300.66465"
+       inkscape:tile-h="8.7638602"
+       inkscape:tile-w="8.7656526"
+       inkscape:tile-cy="333.42039"
+       inkscape:tile-cx="305.04747"
+       style="fill:#000000;stroke:#000080;stroke-width:1.51491559"
+       id="g7639"
+       transform="matrix(-0.46703893,0,0,0.46694343,782.80568,149.55958)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="stroke:#000080;stroke-width:1.51491559"
+         transform="translate(12.926276,9.0369543)"
+         id="g7641">
+        <g
+           transform="matrix(0.98778404,-0.15582904,0.15582904,0.98778404,-53.523457,479.74575)"
+           id="g7643"
+           style="stroke:#000080;stroke-width:1.51491559">
+          <path
+             transform="matrix(0.74358975,0,0,0.74358975,53.510017,54.883809)"
+             d="m 221.30748,214.04686 c 0,6.96895 -5.64945,12.61841 -12.61841,12.61841 -6.96895,0 -12.61841,-5.64946 -12.61841,-12.61841 0,-6.96896 5.64946,-12.61841 12.61841,-12.61841 6.96896,0 12.61841,5.64945 12.61841,12.61841 z"
+             sodipodi:ry="12.618409"
+             sodipodi:rx="12.618409"
+             sodipodi:cy="214.04686"
+             sodipodi:cx="208.68907"
+             id="path7645"
+             style="fill:#ffffff;stroke:#2a7fff;stroke-width:4.07460022;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1;font-family:Sans"
+           x="180.5584"
+           y="666.87579"
+           id="text7647"
+           sodipodi:linespacing="125%"><tspan
+             style="stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1"
+             sodipodi:role="line"
+             id="tspan7649"
+             x="180.5584"
+             y="666.87579">-</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="matrix(-0.46703893,0,0,0.46694343,670.16312,203.70934)"
+       id="g7651"
+       style="fill:#000000;stroke:#000080;stroke-width:1.51491559"
+       inkscape:tile-cx="305.04747"
+       inkscape:tile-cy="333.42039"
+       inkscape:tile-w="8.7656526"
+       inkscape:tile-h="8.7638602"
+       inkscape:tile-x0="300.66465"
+       inkscape:tile-y0="329.03846"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g7653"
+         transform="translate(12.926276,9.0369543)"
+         style="stroke:#000080;stroke-width:1.51491559">
+        <g
+           style="stroke:#000080;stroke-width:1.51491559"
+           id="g7655"
+           transform="matrix(0.98778404,-0.15582904,0.15582904,0.98778404,-53.523457,479.74575)">
+          <path
+             sodipodi:type="arc"
+             style="fill:#ffffff;stroke:#2a7fff;stroke-width:4.07460022;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             id="path7657"
+             sodipodi:cx="208.68907"
+             sodipodi:cy="214.04686"
+             sodipodi:rx="12.618409"
+             sodipodi:ry="12.618409"
+             d="m 221.30748,214.04686 c 0,6.96895 -5.64945,12.61841 -12.61841,12.61841 -6.96895,0 -12.61841,-5.64946 -12.61841,-12.61841 0,-6.96896 5.64946,-12.61841 12.61841,-12.61841 6.96896,0 12.61841,5.64945 12.61841,12.61841 z"
+             transform="matrix(0.74358975,0,0,0.74358975,53.510017,54.883809)" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text7659"
+           y="666.87579"
+           x="180.5584"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="666.87579"
+             x="180.5584"
+             id="tspan7661"
+             sodipodi:role="line"
+             style="stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1">-</tspan></text>
+      </g>
+    </g>
+    <g
+       inkscape:tile-y0="329.03846"
+       inkscape:tile-x0="300.66465"
+       inkscape:tile-h="8.7638602"
+       inkscape:tile-w="8.7656526"
+       inkscape:tile-cy="333.42039"
+       inkscape:tile-cx="305.04747"
+       style="fill:#000000;stroke:#000080;stroke-width:1.51491559"
+       id="g7663"
+       transform="matrix(-0.46703893,0,0,0.46694343,508.81274,327.94857)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="stroke:#000080;stroke-width:1.51491559"
+         transform="translate(22.984566,15.073163)"
+         id="g7665">
+        <g
+           transform="matrix(0.98778404,-0.15582904,0.15582904,0.98778404,-53.523457,479.74575)"
+           id="g7667"
+           style="stroke:#000080;stroke-width:1.51491559">
+          <path
+             transform="matrix(0.74358975,0,0,0.74358975,53.510017,54.883809)"
+             d="m 221.30748,214.04686 c 0,6.96895 -5.64945,12.61841 -12.61841,12.61841 -6.96895,0 -12.61841,-5.64946 -12.61841,-12.61841 0,-6.96896 5.64946,-12.61841 12.61841,-12.61841 6.96896,0 12.61841,5.64945 12.61841,12.61841 z"
+             sodipodi:ry="12.618409"
+             sodipodi:rx="12.618409"
+             sodipodi:cy="214.04686"
+             sodipodi:cx="208.68907"
+             id="path7669"
+             style="fill:#ffffff;stroke:#2a7fff;stroke-width:4.07460022;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1;font-family:Sans"
+           x="180.5584"
+           y="666.87579"
+           id="text7671"
+           sodipodi:linespacing="125%"><tspan
+             style="stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1"
+             sodipodi:role="line"
+             id="tspan7673"
+             x="180.5584"
+             y="666.87579">-</tspan></text>
+      </g>
+    </g>
+    <g
+       inkscape:tile-y0="329.03846"
+       inkscape:tile-x0="300.66465"
+       inkscape:tile-h="8.7638602"
+       inkscape:tile-w="8.7656526"
+       inkscape:tile-cy="333.42039"
+       inkscape:tile-cx="305.04747"
+       style="fill:#000000;stroke:#000080;stroke-width:1.51491559"
+       id="g7675"
+       transform="matrix(-0.46703893,0,0,0.46694343,313.86989,347.46204)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="stroke:#000080;stroke-width:1.51491559"
+         transform="translate(12.926276,9.0369543)"
+         id="g7677">
+        <g
+           transform="matrix(0.98778404,-0.15582904,0.15582904,0.98778404,-53.523457,479.74575)"
+           id="g7679"
+           style="stroke:#000080;stroke-width:1.51491559">
+          <path
+             transform="matrix(0.74358975,0,0,0.74358975,53.510017,54.883809)"
+             d="m 221.30748,214.04686 c 0,6.96895 -5.64945,12.61841 -12.61841,12.61841 -6.96895,0 -12.61841,-5.64946 -12.61841,-12.61841 0,-6.96896 5.64946,-12.61841 12.61841,-12.61841 6.96896,0 12.61841,5.64945 12.61841,12.61841 z"
+             sodipodi:ry="12.618409"
+             sodipodi:rx="12.618409"
+             sodipodi:cy="214.04686"
+             sodipodi:cx="208.68907"
+             id="path7681"
+             style="fill:#ffffff;stroke:#2a7fff;stroke-width:4.07460022;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1;font-family:Sans"
+           x="180.5584"
+           y="666.87579"
+           id="text7683"
+           sodipodi:linespacing="125%"><tspan
+             style="stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1"
+             sodipodi:role="line"
+             id="tspan7685"
+             x="180.5584"
+             y="666.87579">-</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g7699"
+       transform="translate(127.60359,-146.94179)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.49999984, 13.49999957;stroke-dashoffset:0"
+         id="path7701"
+         sodipodi:cx="605"
+         sodipodi:cy="-42.637817"
+         sodipodi:rx="15"
+         sodipodi:ry="15"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         transform="matrix(0.28857693,0,0,0.28857693,373.66425,599.29776)" />
+    </g>
+    <g
+       transform="translate(-192.30387,35.127505)"
+       id="g7703"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         transform="matrix(0.28857693,0,0,0.28857693,373.66425,599.29776)"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         sodipodi:ry="15"
+         sodipodi:rx="15"
+         sodipodi:cy="-42.637817"
+         sodipodi:cx="605"
+         id="path7705"
+         style="fill:none;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.49999984, 13.49999957;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g7707"
+       transform="translate(-162.70891,-127.87966)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.49999984, 13.49999957;stroke-dashoffset:0"
+         id="path7709"
+         sodipodi:cx="605"
+         sodipodi:cy="-42.637817"
+         sodipodi:rx="15"
+         sodipodi:ry="15"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         transform="matrix(0.28857693,0,0,0.28857693,373.66425,599.29776)" />
+    </g>
+    <g
+       transform="translate(54.790587,-116.60541)"
+       id="g7711"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         transform="matrix(0.28857693,0,0,0.28857693,373.66425,599.29776)"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         sodipodi:ry="15"
+         sodipodi:rx="15"
+         sodipodi:cy="-42.637817"
+         sodipodi:cx="605"
+         id="path7713"
+         style="fill:none;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.49999984, 13.49999957;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g7715"
+       transform="translate(253.49963,-36.745979)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.49999984, 13.49999957;stroke-dashoffset:0"
+         id="path7717"
+         sodipodi:cx="605"
+         sodipodi:cy="-42.637817"
+         sodipodi:rx="15"
+         sodipodi:ry="15"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         transform="matrix(0.28857693,0,0,0.28857693,373.66425,599.29776)" />
+    </g>
+    <g
+       transform="translate(264.30414,-111.90779)"
+       id="g7719"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         transform="matrix(0.28857693,0,0,0.28857693,373.66425,599.29776)"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         sodipodi:ry="15"
+         sodipodi:rx="15"
+         sodipodi:cy="-42.637817"
+         sodipodi:cx="605"
+         id="path7721"
+         style="fill:none;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.49999984, 13.49999957;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g7723"
+       transform="translate(185.38424,-103.92185)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.49999984, 13.49999957;stroke-dashoffset:0"
+         id="path7725"
+         sodipodi:cx="605"
+         sodipodi:cy="-42.637817"
+         sodipodi:rx="15"
+         sodipodi:ry="15"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         transform="matrix(0.28857693,0,0,0.28857693,373.66425,599.29776)" />
+    </g>
+    <g
+       transform="translate(277.45745,62.373652)"
+       id="g7727"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         transform="matrix(0.28857693,0,0,0.28857693,373.66425,599.29776)"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         sodipodi:ry="15"
+         sodipodi:rx="15"
+         sodipodi:cy="-42.637817"
+         sodipodi:cx="605"
+         id="path7729"
+         style="fill:none;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.49999984, 13.49999957;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g7731"
+       transform="translate(42.10703,-5.741739)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.49999984, 13.49999957;stroke-dashoffset:0"
+         id="path7733"
+         sodipodi:cx="605"
+         sodipodi:cy="-42.637817"
+         sodipodi:rx="15"
+         sodipodi:ry="15"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         transform="matrix(0.28857693,0,0,0.28857693,373.66425,599.29776)" />
+    </g>
+    <g
+       transform="translate(133.67711,65.158837)"
+       id="g7735"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         transform="matrix(0.28857693,0,0,0.28857693,373.66425,599.29776)"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         sodipodi:ry="15"
+         sodipodi:rx="15"
+         sodipodi:cy="-42.637817"
+         sodipodi:cx="605"
+         id="path7737"
+         style="fill:none;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.49999984, 13.49999957;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g7739"
+       transform="translate(-96.942317,8.8208582)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.49999984, 13.49999957;stroke-dashoffset:0"
+         id="path7741"
+         sodipodi:cx="605"
+         sodipodi:cy="-42.637817"
+         sodipodi:rx="15"
+         sodipodi:ry="15"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         transform="matrix(0.28857693,0,0,0.28857693,373.66425,599.29776)" />
+    </g>
+    <g
+       transform="translate(205.11421,27.141553)"
+       id="g7743"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         transform="matrix(0.28857693,0,0,0.28857693,373.66425,599.29776)"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         sodipodi:ry="15"
+         sodipodi:rx="15"
+         sodipodi:cy="-42.637817"
+         sodipodi:cx="605"
+         id="path7745"
+         style="fill:none;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.49999984, 13.49999957;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g7747"
+       transform="translate(-312.24037,-8.057162)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.49999984, 13.49999957;stroke-dashoffset:0"
+         id="path7749"
+         sodipodi:cx="605"
+         sodipodi:cy="-42.637817"
+         sodipodi:rx="15"
+         sodipodi:ry="15"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         transform="matrix(0.28857693,0,0,0.28857693,373.66425,599.29776)" />
+    </g>
+    <g
+       transform="translate(-266.05639,-116.13565)"
+       id="g7751"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         transform="matrix(0.28857693,0,0,0.28857693,373.66425,599.29776)"
+         d="m 620,-42.637817 c 0,8.284271 -6.71573,15 -15,15 -8.28427,0 -15,-6.715729 -15,-15 0,-8.284272 6.71573,-15 15,-15 8.28427,0 15,6.715728 15,15 z"
+         sodipodi:ry="15"
+         sodipodi:rx="15"
+         sodipodi:cy="-42.637817"
+         sodipodi:cx="605"
+         id="path7753"
+         style="fill:none;stroke:#800000;stroke-width:4.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4.49999984, 13.49999957;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       inkscape:tile-y0="329.03846"
+       inkscape:tile-x0="300.66465"
+       inkscape:tile-h="8.7638602"
+       inkscape:tile-w="8.7656526"
+       inkscape:tile-cy="333.42039"
+       inkscape:tile-cx="305.04747"
+       style="fill:#000000;stroke:#000080;stroke-width:1.51491559"
+       id="g7755"
+       transform="matrix(-0.46703893,0,0,0.46694343,428.23604,179.28178)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="stroke:#000080;stroke-width:1.51491559"
+         transform="translate(12.926276,9.0369543)"
+         id="g7757">
+        <g
+           transform="matrix(0.98778404,-0.15582904,0.15582904,0.98778404,-53.523457,479.74575)"
+           id="g7759"
+           style="stroke:#000080;stroke-width:1.51491559">
+          <path
+             transform="matrix(0.74358975,0,0,0.74358975,53.510017,54.883809)"
+             d="m 221.30748,214.04686 c 0,6.96895 -5.64945,12.61841 -12.61841,12.61841 -6.96895,0 -12.61841,-5.64946 -12.61841,-12.61841 0,-6.96896 5.64946,-12.61841 12.61841,-12.61841 6.96896,0 12.61841,5.64945 12.61841,12.61841 z"
+             sodipodi:ry="12.618409"
+             sodipodi:rx="12.618409"
+             sodipodi:cy="214.04686"
+             sodipodi:cx="208.68907"
+             id="path7761"
+             style="fill:#ffffff;stroke:#2a7fff;stroke-width:4.07460022;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1;font-family:Sans"
+           x="180.5584"
+           y="666.87579"
+           id="text7763"
+           sodipodi:linespacing="125%"><tspan
+             style="stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1"
+             sodipodi:role="line"
+             id="tspan7765"
+             x="180.5584"
+             y="666.87579">-</tspan></text>
+      </g>
+    </g>
+    <g
+       inkscape:tile-y0="329.03846"
+       inkscape:tile-x0="300.66465"
+       inkscape:tile-h="8.7638602"
+       inkscape:tile-w="8.7656526"
+       inkscape:tile-cy="333.42039"
+       inkscape:tile-cx="305.04747"
+       style="fill:#000000;stroke:#000080;stroke-width:1.51491559"
+       id="g7767"
+       transform="matrix(-0.46703893,0,0,0.46694343,316.43284,130.89633)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="stroke:#000080;stroke-width:1.51491559"
+         transform="translate(12.926276,9.0369543)"
+         id="g7769">
+        <g
+           transform="matrix(0.98778404,-0.15582904,0.15582904,0.98778404,-53.523457,479.74575)"
+           id="g7771"
+           style="stroke:#000080;stroke-width:1.51491559">
+          <path
+             transform="matrix(0.74358975,0,0,0.74358975,53.510017,54.883809)"
+             d="m 221.30748,214.04686 c 0,6.96895 -5.64945,12.61841 -12.61841,12.61841 -6.96895,0 -12.61841,-5.64946 -12.61841,-12.61841 0,-6.96896 5.64946,-12.61841 12.61841,-12.61841 6.96896,0 12.61841,5.64945 12.61841,12.61841 z"
+             sodipodi:ry="12.618409"
+             sodipodi:rx="12.618409"
+             sodipodi:cy="214.04686"
+             sodipodi:cx="208.68907"
+             id="path7773"
+             style="fill:#ffffff;stroke:#2a7fff;stroke-width:4.07460022;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1;font-family:Sans"
+           x="180.5584"
+           y="666.87579"
+           id="text7775"
+           sodipodi:linespacing="125%"><tspan
+             style="stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1"
+             sodipodi:role="line"
+             id="tspan7777"
+             x="180.5584"
+             y="666.87579">-</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="matrix(-0.46703893,0,0,0.46694343,393.10409,299.4324)"
+       id="g7779"
+       style="fill:#000000;stroke:#000080;stroke-width:1.51491559"
+       inkscape:tile-cx="305.04747"
+       inkscape:tile-cy="333.42039"
+       inkscape:tile-w="8.7656526"
+       inkscape:tile-h="8.7638602"
+       inkscape:tile-x0="300.66465"
+       inkscape:tile-y0="329.03846"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g7781"
+         transform="translate(12.926276,9.0369543)"
+         style="stroke:#000080;stroke-width:1.51491559">
+        <g
+           style="stroke:#000080;stroke-width:1.51491559"
+           id="g7783"
+           transform="matrix(0.98778404,-0.15582904,0.15582904,0.98778404,-53.523457,479.74575)">
+          <path
+             sodipodi:type="arc"
+             style="fill:#ffffff;stroke:#2a7fff;stroke-width:4.07460022;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             id="path7785"
+             sodipodi:cx="208.68907"
+             sodipodi:cy="214.04686"
+             sodipodi:rx="12.618409"
+             sodipodi:ry="12.618409"
+             d="m 221.30748,214.04686 c 0,6.96895 -5.64945,12.61841 -12.61841,12.61841 -6.96895,0 -12.61841,-5.64946 -12.61841,-12.61841 0,-6.96896 5.64946,-12.61841 12.61841,-12.61841 6.96896,0 12.61841,5.64945 12.61841,12.61841 z"
+             transform="matrix(0.74358975,0,0,0.74358975,53.510017,54.883809)" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text7787"
+           y="666.87579"
+           x="180.5584"
+           style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="666.87579"
+             x="180.5584"
+             id="tspan7789"
+             sodipodi:role="line"
+             style="stroke:#2a7fff;stroke-width:1.51491559;stroke-opacity:1">-</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.87906619,0,0,0.87906619,362.65403,62.462632)"
+       id="layer1-7"
+       inkscape:label="Ebene 1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         transform="translate(-695.01321,-236.05379)"
+         id="g5154">
+        <path
+           sodipodi:nodetypes="cc"
+           d="m 869.13307,1157.3136 -101.00768,0"
+           style="fill:none;stroke:#000000;stroke-width:3.41271234;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path5156"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="cc"
+           d="m 993.94827,1157.3136 -100.39564,0"
+           style="fill:none;stroke:#000000;stroke-width:3.41271234;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path5158"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(1,0,0,0.79163356,0,241.56243)"
+           id="g5160">
+          <path
+             inkscape:connector-curvature="0"
+             id="path5162"
+             style="fill:none;stroke:#000000;stroke-width:3.83563781;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 893.30241,1257.2562 0,-200.939"
+             sodipodi:nodetypes="cc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path5164"
+             style="fill:none;stroke:#000000;stroke-width:3.83563781;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 869.46765,1120.08 0,73.4134"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <g
+           style="stroke-width:0.89157993;stroke-miterlimit:4;stroke-dasharray:none"
+           id="g5166"
+           transform="matrix(0,-3.3648134,-3.3648134,0,996.0947,1285.7351)">
+          <g
+             id="g64739">
+            <g
+               transform="translate(0,0.17930292)"
+               id="g64743">
+              <g
+                 id="g64747">
+                <g
+                   id="g64751">
+                  <path
+                     id="path5168"
+                     style="fill:none;stroke:#000000;stroke-width:1.01423526;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                     d="m 56.339053,10.468084 0,9.817947"
+                     inkscape:connector-curvature="0" />
+                  <path
+                     id="path5170"
+                     style="fill:none;stroke:#000000;stroke-width:1.01423526;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                     d="m 61.803286,15.377058 -9.81794,0"
+                     inkscape:connector-curvature="0" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path
+           id="path5172"
+           style="fill:none;stroke:#000000;stroke-width:3.41271234;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 835.147,1096.1647 -33.03554,0"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       d="m 158.16322,872.31094 268.76122,0"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5158-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5366"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 158.16323,548.76086 44.01074,0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       d="m 158.16322,548.76086 0,323.55008"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5368"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5370"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 894.19896,872.31098 -268.76123,0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       d="m 894.19895,548.76089 -44.30359,0.23488"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5372"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5374"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 894.19896,548.76089 0,323.55009"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

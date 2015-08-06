@@ -1,0 +1,2035 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="1488.189"
+   id="svg7355"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="interferenz-zweier-wellen.svg">
+  <title
+     id="title190707">Interferenz zweier Wellen</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.43559882"
+     inkscape:cx="1172.3076"
+     inkscape:cy="793.89755"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-global="true"
+     inkscape:snap-center="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       id="guide184401"
+       position="398.90086,435.87792"
+       orientation="1,0" />
+    <sodipodi:guide
+       id="guide184403"
+       position="1089.1346,435.8874"
+       orientation="1,0" />
+    <sodipodi:guide
+       id="guide184407"
+       position="744.09448,355.5023"
+       orientation="1,0" />
+    <sodipodi:guide
+       id="guide184409"
+       position="916.33781,255.89058"
+       orientation="1,0" />
+    <sodipodi:guide
+       id="guide184411"
+       position="690.07898,546.06819"
+       orientation="1,0" />
+    <sodipodi:guide
+       id="guide184442"
+       position="592.55515,770.92924"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide188652"
+       position="744.09494,473.73729"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide188664"
+       position="571.6012,255.90006"
+       orientation="1,0" />
+    <sodipodi:guide
+       id="guide188756"
+       position="744.09448,511.58399"
+       orientation="0,1" />
+  </sodipodi:namedview>
+  <defs
+     id="defs7357">
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5368"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7662"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path7664"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7666"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path7668"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.4,-0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path68768" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5368-7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.4,-0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path68768-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5368-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5368-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3730"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path3732"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7360">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Interferenz zweier Wellen</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2015-01-01</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Welle</rdf:li>
+            <rdf:li>Interferenz</rdf:li>
+            <rdf:li>Superposition</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1"
+     transform="translate(0,435.8268)">
+    <rect
+       y="-428.22159"
+       x="26.491436"
+       height="1472.9785"
+       width="999.37939"
+       id="rect189103"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.99999928;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99999996, 7.99999986;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:1.44421983;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#TriangleOutM)"
+       d="m 289.30794,-385.37526 136.86787,0"
+       id="path69264-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       style="fill:#00ff00;fill-opacity:1"
+       ns0:text="$v_1$"
+       ns0:preamble=""
+       transform="matrix(3.4786105,0,0,3.4786105,-432.65467,-871.349)"
+       id="g181017"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs181019">
+        <g
+           id="g181021">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-1326446f-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path181024" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-1326446f-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 4.671875,-3.703125 c 0,-0.546875 -0.265625,-0.703125 -0.4375,-0.703125 -0.25,0 -0.5,0.265625 -0.5,0.484375 0,0.125 0.046875,0.1875 0.15625,0.296875 0.21875,0.203125 0.34375,0.453125 0.34375,0.8125 0,0.421875 -0.609375,2.703125 -1.765625,2.703125 -0.515625,0 -0.75,-0.34375 -0.75,-0.875 0,-0.546875 0.28125,-1.28125 0.578125,-2.109375 0.078125,-0.171875 0.125,-0.3125 0.125,-0.5 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.9375,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.296875,-1 0.71875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.53125 -0.171875,0.703125 -0.4375,1.15625 -0.5625,1.609375 -0.5625,2.046875 0,1.078125 0.875,1.234375 1.328125,1.234375 1.671875,0 2.25,-3.296875 2.25,-3.8125 z m 0,0"
+               id="path181027" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-1326446f-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path181030" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-1326446f-3">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.328125,-4.4375 c 0,-0.1875 0,-0.1875 -0.203125,-0.1875 -0.453125,0.4375 -1.078125,0.4375 -1.359375,0.4375 l 0,0.25 c 0.15625,0 0.625,0 1,-0.1875 l 0,3.546875 c 0,0.234375 0,0.328125 -0.6875,0.328125 l -0.265625,0 0,0.25 c 0.125,0 0.984375,-0.03125 1.234375,-0.03125 0.21875,0 1.09375,0.03125 1.25,0.03125 l 0,-0.25 -0.265625,0 c -0.703125,0 -0.703125,-0.09375 -0.703125,-0.328125 z m 0,0"
+               id="path181033" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#00ff00;fill-opacity:1"
+         id="textext-1326446f-4">
+        <g
+           style="fill:#00ff00;fill-opacity:1"
+           id="g181036">
+          <use
+             style="fill:#00ff00;fill-opacity:1"
+             height="1052.3622"
+             width="1488.189"
+             xlink:href="#textext-1326446f-1"
+             x="223.43201"
+             y="134.765"
+             id="use181038" />
+        </g>
+        <g
+           style="fill:#00ff00;fill-opacity:1"
+           id="g181040">
+          <use
+             style="fill:#00ff00;fill-opacity:1"
+             height="1052.3622"
+             width="1488.189"
+             xlink:href="#textext-1326446f-3"
+             x="228.261"
+             y="136.259"
+             id="use181042" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g190105"
+       transform="matrix(0.8,0,0,0.8,105.23624,-2.7078274)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssssc"
+         id="path190032"
+         title="t sin(5*t)"
+         d="m 526.46733,-238.279 c 26.42736,-13.71008 52.85474,-27.11602 79.28211,-33.54444 26.42736,-6.42851 52.85475,-5.56832 79.2821,2.11938 26.42735,7.68781 52.85477,21.89957 79.28208,35.53003 26.42743,13.63045 52.85483,26.08406 79.28213,31.1656 26.4274,5.08155 52.8548,2.5366 79.2822,-6.33347 21.1254,-7.09054 42.2509,-17.99447 63.3763,-28.92444"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path188327"
+         d="m 6.85423,-238.279 1031.83287,0"
+         style="fill:none;stroke:#808080;stroke-width:3.75000119;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         style="fill:none;stroke:#808080;stroke-width:3.75000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         d="m 6.85422,-157.78695 0,-159.86316"
+         id="path188329"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g188331"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         ns0:text="$y$"
+         transform="matrix(3.4786105,0,0,3.4786105,-800.45071,-778.79143)"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <defs
+           id="defs188333">
+          <g
+             id="g188335">
+            <symbol
+               id="symbol188337"
+               overflow="visible"
+               style="overflow:visible">
+              <path
+                 id="path188339"
+                 d="m 4.84375,-3.796875 c 0.046875,-0.140625 0.046875,-0.15625 0.046875,-0.234375 0,-0.171875 -0.140625,-0.265625 -0.296875,-0.265625 -0.09375,0 -0.25,0.0625 -0.34375,0.203125 -0.015625,0.0625 -0.109375,0.359375 -0.140625,0.546875 -0.078125,0.25 -0.140625,0.53125 -0.203125,0.796875 l -0.453125,1.796875 c -0.03125,0.140625 -0.46875,0.84375 -1.125,0.84375 -0.5,0 -0.609375,-0.4375 -0.609375,-0.8125 C 1.71875,-1.375 1.890625,-2 2.21875,-2.875 2.375,-3.28125 2.421875,-3.390625 2.421875,-3.59375 c 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.953125,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.28125,-0.9375 0.671875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.515625 -0.171875,0.703125 -0.40625,1.0625 -0.578125,1.625 -0.578125,2.09375 0,0.890625 0.625,1.1875 1.21875,1.1875 0.390625,0 0.71875,-0.171875 1,-0.453125 -0.125,0.515625 -0.25,1.015625 -0.640625,1.546875 -0.265625,0.328125 -0.640625,0.625 -1.09375,0.625 -0.140625,0 -0.59375,-0.03125 -0.765625,-0.421875 0.15625,0 0.296875,0 0.421875,-0.125 C 1.328125,1.203125 1.421875,1.0625 1.421875,0.875 1.421875,0.5625 1.15625,0.53125 1.0625,0.53125 0.828125,0.53125 0.5,0.6875 0.5,1.171875 c 0,0.5 0.4375,0.875 1.0625,0.875 1.015625,0 2.046875,-0.90625 2.328125,-2.03125 z m 0,0"
+                 style="stroke:none"
+                 inkscape:connector-curvature="0" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188341">
+          <g
+             id="g188343"
+             style="fill:#000000;fill-opacity:1">
+            <use
+               id="use188345"
+               y="134.765"
+               x="223.43201"
+               xlink:href="#textext-1879b681-0"
+               width="1488.189"
+               height="1052.3622" />
+          </g>
+        </g>
+      </g>
+      <g
+         transform="matrix(3.4978031,0,0,3.4978031,191.14913,-677.46602)"
+         ns0:text="$x$"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         id="g188347"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <defs
+           id="defs188349">
+          <g
+             id="g188351">
+            <symbol
+               overflow="visible"
+               id="symbol188353"
+               style="overflow:visible">
+              <path
+                 style="stroke:none"
+                 d="M 3.328125,-3.015625 C 3.390625,-3.265625 3.625,-4.1875 4.3125,-4.1875 c 0.046875,0 0.296875,0 0.5,0.125 C 4.53125,-4 4.34375,-3.765625 4.34375,-3.515625 c 0,0.15625 0.109375,0.34375 0.375,0.34375 0.21875,0 0.53125,-0.171875 0.53125,-0.578125 0,-0.515625 -0.578125,-0.65625 -0.921875,-0.65625 -0.578125,0 -0.921875,0.53125 -1.046875,0.75 -0.25,-0.65625 -0.78125,-0.75 -1.078125,-0.75 -1.03125,0 -1.609375,1.28125 -1.609375,1.53125 0,0.109375 0.109375,0.109375 0.125,0.109375 0.078125,0 0.109375,-0.03125 0.125,-0.109375 0.34375,-1.0625 1,-1.3125 1.34375,-1.3125 0.1875,0 0.53125,0.09375 0.53125,0.671875 0,0.3125 -0.171875,0.96875 -0.53125,2.375 -0.15625,0.609375 -0.515625,1.03125 -0.953125,1.03125 -0.0625,0 -0.28125,0 -0.5,-0.125 0.25,-0.0625 0.46875,-0.265625 0.46875,-0.546875 0,-0.265625 -0.21875,-0.34375 -0.359375,-0.34375 -0.3125,0 -0.546875,0.25 -0.546875,0.578125 0,0.453125 0.484375,0.65625 0.921875,0.65625 0.671875,0 1.03125,-0.703125 1.046875,-0.75 0.125,0.359375 0.484375,0.75 1.078125,0.75 1.03125,0 1.59375,-1.28125 1.59375,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.109375 -0.328125,1.078125 -1,1.3125 -1.3125,1.3125 -0.390625,0 -0.546875,-0.3125 -0.546875,-0.65625 0,-0.21875 0.046875,-0.4375 0.15625,-0.875 z m 0,0"
+                 id="path188355"
+                 inkscape:connector-curvature="0" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188357">
+          <g
+             style="fill:#000000;fill-opacity:1"
+             id="g188359">
+            <use
+               transform="translate(16.03463,0)"
+               xlink:href="#textext-6809577b-0"
+               x="223.43201"
+               y="134.765"
+               id="use188361"
+               width="1488.189"
+               height="1052.3622" />
+          </g>
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 66.68048,-238.26634 c 26.42736,13.71008 52.85474,27.11602 79.28211,33.54444 26.42736,6.42851 52.85475,5.56832 79.2821,-2.11938 26.42735,-7.68781 52.85474,-21.89957 79.28212,-35.53003 26.42736,-13.63045 52.85471,-26.08406 79.2821,-31.1656 26.42737,-5.08155 52.85475,-2.5366 79.28213,6.33347 21.12541,7.09054 42.25092,17.99447 63.37629,28.92444"
+         title="t sin(5*t)"
+         id="path190028"
+         sodipodi:nodetypes="csssssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssssc"
+         id="path188367"
+         title="t sin(5*t)"
+         d="m 66.68048,-238.26634 c 26.42736,13.71008 52.85474,27.11602 79.28211,33.54444 26.42736,6.42851 52.85475,5.56832 79.2821,-2.11938 26.42735,-7.68781 52.85474,-21.89957 79.28212,-35.53003 26.42736,-13.63045 52.85471,-26.08406 79.2821,-31.1656 26.42737,-5.08155 52.85475,-2.5366 79.28213,6.33347 21.12541,7.09054 42.25092,17.99447 63.37629,28.92444"
+         style="fill:none;stroke:#00ff00;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#00d400;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 10;stroke-dashoffset:0"
+         d="m 526.46733,-238.279 c 26.42736,-13.71008 52.85474,-27.11602 79.28211,-33.54444 26.42736,-6.42851 52.85475,-5.56832 79.2821,2.11938 26.42735,7.68781 52.85477,21.89957 79.28208,35.53003 26.42743,13.63045 52.85483,26.08406 79.28213,31.1656 26.4274,5.08155 52.8548,2.5366 79.2822,-6.33347 21.1254,-7.09054 42.2509,-17.99447 63.3763,-28.92444"
+         title="t sin(5*t)"
+         id="path188369"
+         sodipodi:nodetypes="csssssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+    </g>
+    <g
+       id="g190129"
+       transform="matrix(0.8,0,0,0.8,105.23624,-4.0968655)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         style="fill:none;stroke:#808080;stroke-width:3.75000119;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         d="m 6.85423,-56.279 1031.83287,0"
+         id="path188371"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path188373"
+         d="m 6.85422,24.21305 0,-159.86316"
+         style="fill:none;stroke:#808080;stroke-width:3.75000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         transform="matrix(3.4786105,0,0,3.4786105,-800.45071,-596.79143)"
+         ns0:text="$y$"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         id="g188375">
+        <defs
+           id="defs188377">
+          <g
+             id="g188379">
+            <symbol
+               style="overflow:visible"
+               overflow="visible"
+               id="symbol188381">
+              <path
+                 inkscape:connector-curvature="0"
+                 style="stroke:none"
+                 d="m 4.84375,-3.796875 c 0.046875,-0.140625 0.046875,-0.15625 0.046875,-0.234375 0,-0.171875 -0.140625,-0.265625 -0.296875,-0.265625 -0.09375,0 -0.25,0.0625 -0.34375,0.203125 -0.015625,0.0625 -0.109375,0.359375 -0.140625,0.546875 -0.078125,0.25 -0.140625,0.53125 -0.203125,0.796875 l -0.453125,1.796875 c -0.03125,0.140625 -0.46875,0.84375 -1.125,0.84375 -0.5,0 -0.609375,-0.4375 -0.609375,-0.8125 C 1.71875,-1.375 1.890625,-2 2.21875,-2.875 2.375,-3.28125 2.421875,-3.390625 2.421875,-3.59375 c 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.953125,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.28125,-0.9375 0.671875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.515625 -0.171875,0.703125 -0.40625,1.0625 -0.578125,1.625 -0.578125,2.09375 0,0.890625 0.625,1.1875 1.21875,1.1875 0.390625,0 0.71875,-0.171875 1,-0.453125 -0.125,0.515625 -0.25,1.015625 -0.640625,1.546875 -0.265625,0.328125 -0.640625,0.625 -1.09375,0.625 -0.140625,0 -0.59375,-0.03125 -0.765625,-0.421875 0.15625,0 0.296875,0 0.421875,-0.125 C 1.328125,1.203125 1.421875,1.0625 1.421875,0.875 1.421875,0.5625 1.15625,0.53125 1.0625,0.53125 0.828125,0.53125 0.5,0.6875 0.5,1.171875 c 0,0.5 0.4375,0.875 1.0625,0.875 1.015625,0 2.046875,-0.90625 2.328125,-2.03125 z m 0,0"
+                 id="path188383" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188385">
+          <g
+             style="fill:#000000;fill-opacity:1"
+             id="g188387">
+            <use
+               height="1052.3622"
+               width="1488.189"
+               xlink:href="#textext-1879b681-0"
+               x="223.43201"
+               y="134.765"
+               id="use188389" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         id="g188391"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         ns0:text="$x$"
+         transform="matrix(3.4978031,0,0,3.4978031,191.14913,-495.46602)">
+        <defs
+           id="defs188393">
+          <g
+             id="g188395">
+            <symbol
+               style="overflow:visible"
+               id="symbol188397"
+               overflow="visible">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path188399"
+                 d="M 3.328125,-3.015625 C 3.390625,-3.265625 3.625,-4.1875 4.3125,-4.1875 c 0.046875,0 0.296875,0 0.5,0.125 C 4.53125,-4 4.34375,-3.765625 4.34375,-3.515625 c 0,0.15625 0.109375,0.34375 0.375,0.34375 0.21875,0 0.53125,-0.171875 0.53125,-0.578125 0,-0.515625 -0.578125,-0.65625 -0.921875,-0.65625 -0.578125,0 -0.921875,0.53125 -1.046875,0.75 -0.25,-0.65625 -0.78125,-0.75 -1.078125,-0.75 -1.03125,0 -1.609375,1.28125 -1.609375,1.53125 0,0.109375 0.109375,0.109375 0.125,0.109375 0.078125,0 0.109375,-0.03125 0.125,-0.109375 0.34375,-1.0625 1,-1.3125 1.34375,-1.3125 0.1875,0 0.53125,0.09375 0.53125,0.671875 0,0.3125 -0.171875,0.96875 -0.53125,2.375 -0.15625,0.609375 -0.515625,1.03125 -0.953125,1.03125 -0.0625,0 -0.28125,0 -0.5,-0.125 0.25,-0.0625 0.46875,-0.265625 0.46875,-0.546875 0,-0.265625 -0.21875,-0.34375 -0.359375,-0.34375 -0.3125,0 -0.546875,0.25 -0.546875,0.578125 0,0.453125 0.484375,0.65625 0.921875,0.65625 0.671875,0 1.03125,-0.703125 1.046875,-0.75 0.125,0.359375 0.484375,0.75 1.078125,0.75 1.03125,0 1.59375,-1.28125 1.59375,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.109375 -0.328125,1.078125 -1,1.3125 -1.3125,1.3125 -0.390625,0 -0.546875,-0.3125 -0.546875,-0.65625 0,-0.21875 0.046875,-0.4375 0.15625,-0.875 z m 0,0"
+                 style="stroke:none" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188401">
+          <g
+             id="g188403"
+             style="fill:#000000;fill-opacity:1">
+            <use
+               height="1052.3622"
+               width="1488.189"
+               id="use188405"
+               y="134.765"
+               x="223.43201"
+               xlink:href="#textext-6809577b-0"
+               transform="translate(16.03463,0)" />
+          </g>
+        </g>
+      </g>
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="cssssc"
+         id="path190030"
+         title="t sin(5*t)"
+         d="m 123.97712,-56.279 c 26.42736,13.71008 52.85474,27.11602 79.28211,33.54444 26.42736,6.42851 52.85475,5.56832 79.2821,-2.11938 26.42735,-7.68781 52.85474,-21.89957 79.28212,-35.53003 26.42736,-13.63045 52.85471,-26.084047 79.2821,-31.1656 10.08807,-1.93977 17.99663,-2.797512 28.0847,-2.587059"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 469.09392,-94.06771 c 1.30033,-0.93034 2.60065,-1.86147 3.90097,-2.7887 13.19887,-9.4119 26.39772,-18.01117 39.5966,-21.52 13.19887,-3.50883 26.39775,-1.75153 39.59663,4.3733 10.55087,4.89604 21.10178,12.42527 31.65263,19.97246"
+         title="t sin(5*t)"
+         id="path188518"
+         sodipodi:nodetypes="csssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#00ff00;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 123.97712,-56.279 c 26.42736,13.71008 52.85474,27.11602 79.28211,33.54444 26.42736,6.42851 52.85475,5.56832 79.2821,-2.11938 26.42735,-7.68781 52.85474,-21.89957 79.28212,-35.53003 26.42736,-13.63045 52.85471,-26.08406 79.2821,-31.1656 26.42737,-5.08155 52.85475,-2.5366 79.28213,6.33347 21.12541,7.09054 42.25092,17.99447 63.37629,28.92444"
+         title="t sin(5*t)"
+         id="path188411"
+         sodipodi:nodetypes="csssssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 582.55637,-94.133674 c 15.03393,-0.130602 30.06786,2.033227 45.10177,6.406584 26.42738,7.687709 52.85477,21.89957 79.28208,35.53003 26.4274,13.63045 52.8548,26.08406 79.28213,31.1656 26.4274,5.08155 52.8548,2.5366 79.2822,-6.33347 21.1254,-7.09054 42.2509,-17.99447 63.3763,-28.92444"
+         title="t sin(5*t)"
+         id="path190034"
+         sodipodi:nodetypes="cssssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssssc"
+         id="path188413"
+         title="t sin(5*t)"
+         d="m 469.09393,-56.30203 c 26.42736,-13.71008 52.85474,-27.11602 79.28211,-33.54444 26.42736,-6.42851 52.85475,-5.56832 79.2821,2.11938 26.42735,7.68781 52.85477,21.89957 79.28208,35.53003 26.4274,13.63045 52.8548,26.08406 79.28213,31.1656 26.4274,5.08155 52.8548,2.5366 79.2822,-6.33347 21.1254,-7.09054 42.2509,-17.99447 63.3763,-28.92444"
+         style="fill:none;stroke:#00d400;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 10;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g190154"
+       transform="matrix(0.8,0,0,0.8,105.23624,-3.88605)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path188415"
+         d="m 6.85423,123.721 1031.83287,0"
+         style="fill:none;stroke:#808080;stroke-width:3.75000119;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         style="fill:none;stroke:#808080;stroke-width:3.75000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         d="m 6.85422,204.21305 0,-159.86316"
+         id="path188417"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g188419"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         ns0:text="$y$"
+         transform="matrix(3.4786105,0,0,3.4786105,-800.45071,-416.79143)"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <defs
+           id="defs188421">
+          <g
+             id="g188423">
+            <symbol
+               id="symbol188425"
+               overflow="visible"
+               style="overflow:visible">
+              <path
+                 id="path188427"
+                 d="m 4.84375,-3.796875 c 0.046875,-0.140625 0.046875,-0.15625 0.046875,-0.234375 0,-0.171875 -0.140625,-0.265625 -0.296875,-0.265625 -0.09375,0 -0.25,0.0625 -0.34375,0.203125 -0.015625,0.0625 -0.109375,0.359375 -0.140625,0.546875 -0.078125,0.25 -0.140625,0.53125 -0.203125,0.796875 l -0.453125,1.796875 c -0.03125,0.140625 -0.46875,0.84375 -1.125,0.84375 -0.5,0 -0.609375,-0.4375 -0.609375,-0.8125 C 1.71875,-1.375 1.890625,-2 2.21875,-2.875 2.375,-3.28125 2.421875,-3.390625 2.421875,-3.59375 c 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.953125,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.28125,-0.9375 0.671875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.515625 -0.171875,0.703125 -0.40625,1.0625 -0.578125,1.625 -0.578125,2.09375 0,0.890625 0.625,1.1875 1.21875,1.1875 0.390625,0 0.71875,-0.171875 1,-0.453125 -0.125,0.515625 -0.25,1.015625 -0.640625,1.546875 -0.265625,0.328125 -0.640625,0.625 -1.09375,0.625 -0.140625,0 -0.59375,-0.03125 -0.765625,-0.421875 0.15625,0 0.296875,0 0.421875,-0.125 C 1.328125,1.203125 1.421875,1.0625 1.421875,0.875 1.421875,0.5625 1.15625,0.53125 1.0625,0.53125 0.828125,0.53125 0.5,0.6875 0.5,1.171875 c 0,0.5 0.4375,0.875 1.0625,0.875 1.015625,0 2.046875,-0.90625 2.328125,-2.03125 z m 0,0"
+                 style="stroke:none"
+                 inkscape:connector-curvature="0" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188429">
+          <g
+             id="g188431"
+             style="fill:#000000;fill-opacity:1">
+            <use
+               id="use188433"
+               y="134.765"
+               x="223.43201"
+               xlink:href="#textext-1879b681-0"
+               width="1488.189"
+               height="1052.3622" />
+          </g>
+        </g>
+      </g>
+      <g
+         transform="matrix(3.4978031,0,0,3.4978031,191.14913,-315.46602)"
+         ns0:text="$x$"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         id="g188435"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <defs
+           id="defs188437">
+          <g
+             id="g188439">
+            <symbol
+               overflow="visible"
+               id="symbol188441"
+               style="overflow:visible">
+              <path
+                 style="stroke:none"
+                 d="M 3.328125,-3.015625 C 3.390625,-3.265625 3.625,-4.1875 4.3125,-4.1875 c 0.046875,0 0.296875,0 0.5,0.125 C 4.53125,-4 4.34375,-3.765625 4.34375,-3.515625 c 0,0.15625 0.109375,0.34375 0.375,0.34375 0.21875,0 0.53125,-0.171875 0.53125,-0.578125 0,-0.515625 -0.578125,-0.65625 -0.921875,-0.65625 -0.578125,0 -0.921875,0.53125 -1.046875,0.75 -0.25,-0.65625 -0.78125,-0.75 -1.078125,-0.75 -1.03125,0 -1.609375,1.28125 -1.609375,1.53125 0,0.109375 0.109375,0.109375 0.125,0.109375 0.078125,0 0.109375,-0.03125 0.125,-0.109375 0.34375,-1.0625 1,-1.3125 1.34375,-1.3125 0.1875,0 0.53125,0.09375 0.53125,0.671875 0,0.3125 -0.171875,0.96875 -0.53125,2.375 -0.15625,0.609375 -0.515625,1.03125 -0.953125,1.03125 -0.0625,0 -0.28125,0 -0.5,-0.125 0.25,-0.0625 0.46875,-0.265625 0.46875,-0.546875 0,-0.265625 -0.21875,-0.34375 -0.359375,-0.34375 -0.3125,0 -0.546875,0.25 -0.546875,0.578125 0,0.453125 0.484375,0.65625 0.921875,0.65625 0.671875,0 1.03125,-0.703125 1.046875,-0.75 0.125,0.359375 0.484375,0.75 1.078125,0.75 1.03125,0 1.59375,-1.28125 1.59375,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.109375 -0.328125,1.078125 -1,1.3125 -1.3125,1.3125 -0.390625,0 -0.546875,-0.3125 -0.546875,-0.65625 0,-0.21875 0.046875,-0.4375 0.15625,-0.875 z m 0,0"
+                 id="path188443"
+                 inkscape:connector-curvature="0" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188445">
+          <g
+             style="fill:#000000;fill-opacity:1"
+             id="g188447">
+            <use
+               transform="translate(16.03463,0)"
+               xlink:href="#textext-6809577b-0"
+               x="223.43201"
+               y="134.765"
+               id="use188449"
+               width="1488.189"
+               height="1052.3622" />
+          </g>
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 181.27371,123.72096 c 26.42736,13.71008 52.85474,27.11602 79.28211,33.54444 26.42736,6.42851 52.85478,5.56842 79.2821,-2.11938 24.22526,-7.04721 48.45056,-19.57644 72.67584,-32.11471"
+         title="t sin(5*t)"
+         id="path190036"
+         sodipodi:nodetypes="cssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssssc"
+         id="path188455"
+         title="t sin(5*t)"
+         d="m 181.27371,123.72096 c 26.42736,13.71008 52.85474,27.11602 79.28211,33.54444 26.42736,6.42851 52.85475,5.56832 79.2821,-2.11938 26.42735,-7.68781 52.85474,-21.89957 79.28212,-35.53003 26.42736,-13.63045 52.85471,-26.08406 79.2821,-31.1656 26.42737,-5.08155 52.85475,-2.5366 79.28213,6.33347 21.12541,7.09054 42.25092,17.99447 63.37629,28.92444"
+         style="fill:none;stroke:#00ff00;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssc"
+         id="path188510"
+         title="t sin(5*t)"
+         d="m 411.65583,123.60097 c 2.60356,-2.69466 5.20711,-5.39162 7.81067,-8.07729 26.42736,-27.2609 52.85471,-52.16812 79.2821,-62.3312 26.42737,-10.1631 52.85475,-5.0732 79.28213,12.66694 21.12541,14.18108 42.25092,35.98894 63.37629,57.84888"
+         style="fill:none;stroke:#008000;stroke-width:6.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssc"
+         id="path190038"
+         title="t sin(5*t)"
+         d="m 640.95793,123.53134 c 2.75416,1.4251 5.50832,2.85193 8.26248,4.27245 26.42738,13.63049 52.8548,26.08406 79.2821,31.1656 26.4274,5.08155 52.8548,2.5366 79.28214,-6.33347 21.1254,-7.09054 42.2509,-17.99447 63.3763,-28.92444"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#00d400;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 10;stroke-dashoffset:0"
+         d="m 411.37412,123.69882 c 26.42736,-13.71008 52.85474,-27.11602 79.28211,-33.54444 26.42736,-6.42851 52.85475,-5.56832 79.2821,2.11938 26.42735,7.68781 52.85477,21.89957 79.28208,35.53003 26.4274,13.63045 52.8548,26.08406 79.2821,31.1656 26.4274,5.08155 52.8548,2.5366 79.28214,-6.33347 21.1254,-7.09054 42.2509,-17.99447 63.3763,-28.92444"
+         title="t sin(5*t)"
+         id="path188457"
+         sodipodi:nodetypes="csssssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+    </g>
+    <g
+       id="g190179"
+       transform="matrix(0.8,0,0,0.8,105.23624,-3.6752346)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csc"
+         id="path190042"
+         title="t sin(5*t)"
+         d="m 238.92381,303.72096 c 26.42736,13.71008 52.85476,27.11593 79.28211,33.54444 12.49089,3.03843 24.98178,4.44859 37.47267,4.27916"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 696.38774,341.54636 c 17.99897,0.23791 35.99793,-2.86928 53.99688,-8.91044 21.12541,-7.09052 42.25083,-17.99447 63.37623,-28.92444"
+         title="t sin(5*t)"
+         id="path190040"
+         sodipodi:nodetypes="csc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         style="fill:none;stroke:#808080;stroke-width:3.75000119;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         d="m 6.85423,303.721 1031.83287,0"
+         id="path188524"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path188526"
+         d="m 6.85422,384.21305 0,-159.86316"
+         style="fill:none;stroke:#808080;stroke-width:3.75000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         transform="matrix(3.4786105,0,0,3.4786105,-800.45071,-236.79143)"
+         ns0:text="$y$"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         id="g188528">
+        <defs
+           id="defs188530">
+          <g
+             id="g188532">
+            <symbol
+               style="overflow:visible"
+               overflow="visible"
+               id="symbol188534">
+              <path
+                 inkscape:connector-curvature="0"
+                 style="stroke:none"
+                 d="m 4.84375,-3.796875 c 0.046875,-0.140625 0.046875,-0.15625 0.046875,-0.234375 0,-0.171875 -0.140625,-0.265625 -0.296875,-0.265625 -0.09375,0 -0.25,0.0625 -0.34375,0.203125 -0.015625,0.0625 -0.109375,0.359375 -0.140625,0.546875 -0.078125,0.25 -0.140625,0.53125 -0.203125,0.796875 l -0.453125,1.796875 c -0.03125,0.140625 -0.46875,0.84375 -1.125,0.84375 -0.5,0 -0.609375,-0.4375 -0.609375,-0.8125 C 1.71875,-1.375 1.890625,-2 2.21875,-2.875 2.375,-3.28125 2.421875,-3.390625 2.421875,-3.59375 c 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.953125,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.28125,-0.9375 0.671875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.515625 -0.171875,0.703125 -0.40625,1.0625 -0.578125,1.625 -0.578125,2.09375 0,0.890625 0.625,1.1875 1.21875,1.1875 0.390625,0 0.71875,-0.171875 1,-0.453125 -0.125,0.515625 -0.25,1.015625 -0.640625,1.546875 -0.265625,0.328125 -0.640625,0.625 -1.09375,0.625 -0.140625,0 -0.59375,-0.03125 -0.765625,-0.421875 0.15625,0 0.296875,0 0.421875,-0.125 C 1.328125,1.203125 1.421875,1.0625 1.421875,0.875 1.421875,0.5625 1.15625,0.53125 1.0625,0.53125 0.828125,0.53125 0.5,0.6875 0.5,1.171875 c 0,0.5 0.4375,0.875 1.0625,0.875 1.015625,0 2.046875,-0.90625 2.328125,-2.03125 z m 0,0"
+                 id="path188536" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188538">
+          <g
+             style="fill:#000000;fill-opacity:1"
+             id="g188540">
+            <use
+               height="1052.3622"
+               width="1488.189"
+               xlink:href="#textext-1879b681-0"
+               x="223.43201"
+               y="134.765"
+               id="use188542" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         id="g188544"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         ns0:text="$x$"
+         transform="matrix(3.4978031,0,0,3.4978031,191.14913,-135.46602)">
+        <defs
+           id="defs188546">
+          <g
+             id="g188548">
+            <symbol
+               style="overflow:visible"
+               id="symbol188550"
+               overflow="visible">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path188552"
+                 d="M 3.328125,-3.015625 C 3.390625,-3.265625 3.625,-4.1875 4.3125,-4.1875 c 0.046875,0 0.296875,0 0.5,0.125 C 4.53125,-4 4.34375,-3.765625 4.34375,-3.515625 c 0,0.15625 0.109375,0.34375 0.375,0.34375 0.21875,0 0.53125,-0.171875 0.53125,-0.578125 0,-0.515625 -0.578125,-0.65625 -0.921875,-0.65625 -0.578125,0 -0.921875,0.53125 -1.046875,0.75 -0.25,-0.65625 -0.78125,-0.75 -1.078125,-0.75 -1.03125,0 -1.609375,1.28125 -1.609375,1.53125 0,0.109375 0.109375,0.109375 0.125,0.109375 0.078125,0 0.109375,-0.03125 0.125,-0.109375 0.34375,-1.0625 1,-1.3125 1.34375,-1.3125 0.1875,0 0.53125,0.09375 0.53125,0.671875 0,0.3125 -0.171875,0.96875 -0.53125,2.375 -0.15625,0.609375 -0.515625,1.03125 -0.953125,1.03125 -0.0625,0 -0.28125,0 -0.5,-0.125 0.25,-0.0625 0.46875,-0.265625 0.46875,-0.546875 0,-0.265625 -0.21875,-0.34375 -0.359375,-0.34375 -0.3125,0 -0.546875,0.25 -0.546875,0.578125 0,0.453125 0.484375,0.65625 0.921875,0.65625 0.671875,0 1.03125,-0.703125 1.046875,-0.75 0.125,0.359375 0.484375,0.75 1.078125,0.75 1.03125,0 1.59375,-1.28125 1.59375,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.109375 -0.328125,1.078125 -1,1.3125 -1.3125,1.3125 -0.390625,0 -0.546875,-0.3125 -0.546875,-0.65625 0,-0.21875 0.046875,-0.4375 0.15625,-0.875 z m 0,0"
+                 style="stroke:none" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188554">
+          <g
+             id="g188556"
+             style="fill:#000000;fill-opacity:1">
+            <use
+               height="1052.3622"
+               width="1488.189"
+               id="use188558"
+               y="134.765"
+               x="223.43201"
+               xlink:href="#textext-6809577b-0"
+               transform="translate(16.03463,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g189354"
+         style="stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+           sodipodi:nodetypes="cssssc"
+           id="path188564"
+           title="t sin(5*t)"
+           d="m 405.02202,303.61722 c 2.75246,-2.28676 5.5049,-4.57546 8.25737,-6.85459 9.96724,-8.25322 19.93447,-16.25224 29.90172,-23.51961 17.97149,-13.10348 35.94298,-23.82839 53.91449,-29.37616 27.93877,-8.62464 55.87751,-4.30524 83.81626,10.74947 22.33357,12.03441 44.66724,30.54109 67.00076,49.09197"
+           style="fill:none;stroke:#008000;stroke-width:6.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#008000;stroke-width:6.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 647.91262,303.7083 c 2.75244,2.28676 5.50488,4.57546 8.25734,6.85459 9.96725,8.25322 19.93449,16.25223 29.90173,23.51961 4.22739,3.0823 5.77896,4.55067 10.36057,7.46444"
+           title="t sin(5*t)"
+           id="path188660"
+           sodipodi:nodetypes="cssc"
+           inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+        <path
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+           sodipodi:nodetypes="cc"
+           id="path188662"
+           title="t sin(5*t)"
+           d="m 355.57757,341.54589 c 18.27324,-12.45234 34.78455,-25.75537 49.44445,-37.92867"
+           style="fill:none;stroke:#008000;stroke-width:6.25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#00ff00;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 238.92381,303.72096 c 26.42736,13.71008 52.85474,27.11602 79.28211,33.54444 26.42736,6.42851 52.85475,5.56832 79.2821,-2.11938 26.42735,-7.68781 52.85474,-21.89957 79.28212,-35.53003 26.42736,-13.63045 52.85471,-26.08406 79.2821,-31.1656 26.42737,-5.08155 52.85475,-2.5366 79.28213,6.33347 21.12541,7.09054 42.25092,17.99447 63.37629,28.92444"
+         title="t sin(5*t)"
+         id="path188560"
+         sodipodi:nodetypes="csssssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssssc"
+         id="path188568"
+         title="t sin(5*t)"
+         d="m 353.97405,303.69882 c 26.42736,-13.71008 52.85474,-27.11602 79.28211,-33.54444 26.42736,-6.42851 52.85475,-5.56832 79.2821,2.11938 26.42735,7.68781 52.85477,21.89957 79.28208,35.53003 26.4274,13.63045 52.8548,26.08406 79.2821,31.1656 26.4274,5.08155 52.8548,2.5366 79.28218,-6.33347 21.1254,-7.09054 42.25083,-17.99447 63.37623,-28.92444"
+         style="fill:none;stroke:#00d400;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 10;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       style="fill:none;stroke:#808080;stroke-width:3.00000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 110.71962,383.51244 825.4663,0"
+       id="path188604"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path188606"
+       d="m 110.71962,447.90606 0,-127.89051"
+       style="fill:none;stroke:#808080;stroke-width:3.00000072;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       transform="matrix(2.7828884,0,0,2.7828884,-535.12433,-48.897502)"
+       ns0:text="$y$"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       id="g188608">
+      <defs
+         id="defs188610">
+        <g
+           id="g188612">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol188614">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 4.84375,-3.796875 c 0.046875,-0.140625 0.046875,-0.15625 0.046875,-0.234375 0,-0.171875 -0.140625,-0.265625 -0.296875,-0.265625 -0.09375,0 -0.25,0.0625 -0.34375,0.203125 -0.015625,0.0625 -0.109375,0.359375 -0.140625,0.546875 -0.078125,0.25 -0.140625,0.53125 -0.203125,0.796875 l -0.453125,1.796875 c -0.03125,0.140625 -0.46875,0.84375 -1.125,0.84375 -0.5,0 -0.609375,-0.4375 -0.609375,-0.8125 C 1.71875,-1.375 1.890625,-2 2.21875,-2.875 2.375,-3.28125 2.421875,-3.390625 2.421875,-3.59375 c 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.953125,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.28125,-0.9375 0.671875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.515625 -0.171875,0.703125 -0.40625,1.0625 -0.578125,1.625 -0.578125,2.09375 0,0.890625 0.625,1.1875 1.21875,1.1875 0.390625,0 0.71875,-0.171875 1,-0.453125 -0.125,0.515625 -0.25,1.015625 -0.640625,1.546875 -0.265625,0.328125 -0.640625,0.625 -1.09375,0.625 -0.140625,0 -0.59375,-0.03125 -0.765625,-0.421875 0.15625,0 0.296875,0 0.421875,-0.125 C 1.328125,1.203125 1.421875,1.0625 1.421875,0.875 1.421875,0.5625 1.15625,0.53125 1.0625,0.53125 0.828125,0.53125 0.5,0.6875 0.5,1.171875 c 0,0.5 0.4375,0.875 1.0625,0.875 1.015625,0 2.046875,-0.90625 2.328125,-2.03125 z m 0,0"
+               id="path188616" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g188618">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g188620">
+          <use
+             height="1052.3622"
+             width="1488.189"
+             xlink:href="#textext-1879b681-0"
+             x="223.43201"
+             y="134.765"
+             id="use188622" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       id="g188624"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       ns0:text="$x$"
+       transform="matrix(2.7982425,0,0,2.7982425,258.15554,32.162826)">
+      <defs
+         id="defs188626">
+        <g
+           id="g188628">
+          <symbol
+             style="overflow:visible"
+             id="symbol188630"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path188632"
+               d="M 3.328125,-3.015625 C 3.390625,-3.265625 3.625,-4.1875 4.3125,-4.1875 c 0.046875,0 0.296875,0 0.5,0.125 C 4.53125,-4 4.34375,-3.765625 4.34375,-3.515625 c 0,0.15625 0.109375,0.34375 0.375,0.34375 0.21875,0 0.53125,-0.171875 0.53125,-0.578125 0,-0.515625 -0.578125,-0.65625 -0.921875,-0.65625 -0.578125,0 -0.921875,0.53125 -1.046875,0.75 -0.25,-0.65625 -0.78125,-0.75 -1.078125,-0.75 -1.03125,0 -1.609375,1.28125 -1.609375,1.53125 0,0.109375 0.109375,0.109375 0.125,0.109375 0.078125,0 0.109375,-0.03125 0.125,-0.109375 0.34375,-1.0625 1,-1.3125 1.34375,-1.3125 0.1875,0 0.53125,0.09375 0.53125,0.671875 0,0.3125 -0.171875,0.96875 -0.53125,2.375 -0.15625,0.609375 -0.515625,1.03125 -0.953125,1.03125 -0.0625,0 -0.28125,0 -0.5,-0.125 0.25,-0.0625 0.46875,-0.265625 0.46875,-0.546875 0,-0.265625 -0.21875,-0.34375 -0.359375,-0.34375 -0.3125,0 -0.546875,0.25 -0.546875,0.578125 0,0.453125 0.484375,0.65625 0.921875,0.65625 0.671875,0 1.03125,-0.703125 1.046875,-0.75 0.125,0.359375 0.484375,0.75 1.078125,0.75 1.03125,0 1.59375,-1.28125 1.59375,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.109375 -0.328125,1.078125 -1,1.3125 -1.3125,1.3125 -0.390625,0 -0.546875,-0.3125 -0.546875,-0.65625 0,-0.21875 0.046875,-0.4375 0.15625,-0.875 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g188634">
+        <g
+           id="g188636"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="1052.3622"
+             width="1488.189"
+             id="use188638"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-6809577b-0"
+             transform="translate(16.03463,0)" />
+        </g>
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#00ff00;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 342.49536,383.50663 c 21.14189,10.96806 42.28379,21.69287 63.42569,26.83559 21.14189,5.1428 42.2838,4.45464 63.42568,-1.69552 21.14188,-6.15024 42.28379,-17.51968 63.42569,-28.42405 21.14189,-10.90436 42.28377,-20.86725 63.42568,-24.93248 21.1419,-4.06524 42.2838,-2.02928 63.42571,5.06678 16.90033,5.67243 33.80073,14.39557 50.70103,23.13955"
+       title="t sin(5*t)"
+       id="path188640"
+       sodipodi:nodetypes="csssssc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path188642"
+       d="m 526.4101,383.51244 91.95176,-0.0102"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       sodipodi:nodetypes="csssssc"
+       id="path188648"
+       title="t sin(5*t)"
+       d="m 342.49536,383.50323 c 21.14189,-10.96807 42.28379,-21.69282 63.42568,-26.83556 21.1419,-5.1428 42.2838,-4.45465 63.42569,1.69551 21.14188,6.15025 42.28381,17.51965 63.42565,28.42402 21.14192,10.90436 42.28384,20.86726 63.42568,24.93254 21.14193,4.0652 42.28384,2.02928 63.42576,-5.0668 16.90031,-5.67247 33.80072,-14.39561 50.70103,-23.13959"
+       style="fill:none;stroke:#00d400;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 8;stroke-dashoffset:0"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       sodipodi:nodetypes="cc"
+       id="path188650"
+       title="t sin(5*t)"
+       d="m 342.50657,383.51244 367.81828,8e-4"
+       style="fill:none;stroke:#008000;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g190231"
+       transform="matrix(0.8,0,0,0.8,105.23624,-3.2534817)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         style="fill:none;stroke:#808080;stroke-width:3.75000119;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         d="m 6.85423,663.72102 1031.83287,0"
+         id="path188666"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path188668"
+         d="m 6.85422,744.21302 0,-159.8631"
+         style="fill:none;stroke:#808080;stroke-width:3.75000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         transform="matrix(3.4786105,0,0,3.4786105,-800.45071,123.20857)"
+         ns0:text="$y$"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         id="g188670">
+        <defs
+           id="defs188672">
+          <g
+             id="g188674">
+            <symbol
+               style="overflow:visible"
+               overflow="visible"
+               id="symbol188676">
+              <path
+                 inkscape:connector-curvature="0"
+                 style="stroke:none"
+                 d="m 4.84375,-3.796875 c 0.046875,-0.140625 0.046875,-0.15625 0.046875,-0.234375 0,-0.171875 -0.140625,-0.265625 -0.296875,-0.265625 -0.09375,0 -0.25,0.0625 -0.34375,0.203125 -0.015625,0.0625 -0.109375,0.359375 -0.140625,0.546875 -0.078125,0.25 -0.140625,0.53125 -0.203125,0.796875 l -0.453125,1.796875 c -0.03125,0.140625 -0.46875,0.84375 -1.125,0.84375 -0.5,0 -0.609375,-0.4375 -0.609375,-0.8125 C 1.71875,-1.375 1.890625,-2 2.21875,-2.875 2.375,-3.28125 2.421875,-3.390625 2.421875,-3.59375 c 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.953125,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.28125,-0.9375 0.671875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.515625 -0.171875,0.703125 -0.40625,1.0625 -0.578125,1.625 -0.578125,2.09375 0,0.890625 0.625,1.1875 1.21875,1.1875 0.390625,0 0.71875,-0.171875 1,-0.453125 -0.125,0.515625 -0.25,1.015625 -0.640625,1.546875 -0.265625,0.328125 -0.640625,0.625 -1.09375,0.625 -0.140625,0 -0.59375,-0.03125 -0.765625,-0.421875 0.15625,0 0.296875,0 0.421875,-0.125 C 1.328125,1.203125 1.421875,1.0625 1.421875,0.875 1.421875,0.5625 1.15625,0.53125 1.0625,0.53125 0.828125,0.53125 0.5,0.6875 0.5,1.171875 c 0,0.5 0.4375,0.875 1.0625,0.875 1.015625,0 2.046875,-0.90625 2.328125,-2.03125 z m 0,0"
+                 id="path188678" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188680">
+          <g
+             style="fill:#000000;fill-opacity:1"
+             id="g188682">
+            <use
+               height="1052.3622"
+               width="1488.189"
+               xlink:href="#textext-1879b681-0"
+               x="223.43201"
+               y="134.765"
+               id="use188684" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         id="g188686"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         ns0:text="$x$"
+         transform="matrix(3.4978031,0,0,3.4978031,191.14913,224.53398)">
+        <defs
+           id="defs188688">
+          <g
+             id="g188690">
+            <symbol
+               style="overflow:visible"
+               id="symbol188692"
+               overflow="visible">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path188694"
+                 d="M 3.328125,-3.015625 C 3.390625,-3.265625 3.625,-4.1875 4.3125,-4.1875 c 0.046875,0 0.296875,0 0.5,0.125 C 4.53125,-4 4.34375,-3.765625 4.34375,-3.515625 c 0,0.15625 0.109375,0.34375 0.375,0.34375 0.21875,0 0.53125,-0.171875 0.53125,-0.578125 0,-0.515625 -0.578125,-0.65625 -0.921875,-0.65625 -0.578125,0 -0.921875,0.53125 -1.046875,0.75 -0.25,-0.65625 -0.78125,-0.75 -1.078125,-0.75 -1.03125,0 -1.609375,1.28125 -1.609375,1.53125 0,0.109375 0.109375,0.109375 0.125,0.109375 0.078125,0 0.109375,-0.03125 0.125,-0.109375 0.34375,-1.0625 1,-1.3125 1.34375,-1.3125 0.1875,0 0.53125,0.09375 0.53125,0.671875 0,0.3125 -0.171875,0.96875 -0.53125,2.375 -0.15625,0.609375 -0.515625,1.03125 -0.953125,1.03125 -0.0625,0 -0.28125,0 -0.5,-0.125 0.25,-0.0625 0.46875,-0.265625 0.46875,-0.546875 0,-0.265625 -0.21875,-0.34375 -0.359375,-0.34375 -0.3125,0 -0.546875,0.25 -0.546875,0.578125 0,0.453125 0.484375,0.65625 0.921875,0.65625 0.671875,0 1.03125,-0.703125 1.046875,-0.75 0.125,0.359375 0.484375,0.75 1.078125,0.75 1.03125,0 1.59375,-1.28125 1.59375,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.109375 -0.328125,1.078125 -1,1.3125 -1.3125,1.3125 -0.390625,0 -0.546875,-0.3125 -0.546875,-0.65625 0,-0.21875 0.046875,-0.4375 0.15625,-0.875 z m 0,0"
+                 style="stroke:none" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188696">
+          <g
+             id="g188698"
+             style="fill:#000000;fill-opacity:1">
+            <use
+               height="1052.3622"
+               width="1488.189"
+               id="use188700"
+               y="134.765"
+               x="223.43201"
+               xlink:href="#textext-6809577b-0"
+               transform="translate(16.03463,0)" />
+          </g>
+        </g>
+      </g>
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csc"
+         id="path190054"
+         title="t sin(5*t)"
+         d="m 699.03802,625.85451 c 17.17326,0.065 34.34653,3.15806 51.5198,8.92211 21.12543,7.09055 42.25093,17.9945 63.37633,28.9244"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g189359"
+         transform="matrix(1,0,0,-1,0,969.0233)"
+         style="stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 405.02202,303.61722 c 2.75246,-2.28676 5.5049,-4.57546 8.25737,-6.85459 9.96724,-8.25322 19.93447,-16.25224 29.90172,-23.51961 17.97149,-13.10348 35.94298,-23.82839 53.91449,-29.37616 27.93877,-8.62464 55.87751,-4.30524 83.81626,10.74947 22.33357,12.03441 44.66724,30.54109 67.00076,49.09197"
+           title="t sin(5*t)"
+           id="path189361"
+           sodipodi:nodetypes="cssssc"
+           inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+        <path
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+           sodipodi:nodetypes="cssc"
+           id="path189363"
+           title="t sin(5*t)"
+           d="m 647.91262,303.7083 c 2.75244,2.28676 5.50488,4.57546 8.25734,6.85459 9.96725,8.25322 19.93449,16.25223 29.90173,23.51961 4.22739,3.0823 8.45477,6.03298 12.68216,8.81563"
+           style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 354.14285,342.98746 c 0.78544,-0.51968 1.57089,-1.04547 2.35634,-1.57706 16.17428,-10.94681 32.34858,-24.3584 48.52283,-37.79318"
+           title="t sin(5*t)"
+           id="path189365"
+           sodipodi:nodetypes="csc"
+           inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#00ff00;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 354.14726,663.71372 c 26.42736,13.7101 52.85474,27.1161 79.28211,33.5445 26.42736,6.4285 52.85475,5.5683 79.2821,-2.1194 26.42735,-7.6878 52.85474,-21.8996 79.28212,-35.5301 26.42736,-13.6304 52.85471,-26.084 79.2821,-31.1656 26.42737,-5.0815 52.85475,-2.5366 79.28213,6.3335 21.12541,7.0906 42.25093,17.9945 63.37633,28.9244"
+         title="t sin(5*t)"
+         id="path188702"
+         sodipodi:nodetypes="csssssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 238.92375,663.70952 c 26.42736,-13.7101 52.85476,-27.11601 79.2821,-33.5445 11.99247,-2.91719 23.98494,-4.33345 35.97741,-4.29188"
+         title="t sin(5*t)"
+         id="path190058"
+         sodipodi:nodetypes="csc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssssc"
+         id="path188706"
+         title="t sin(5*t)"
+         d="m 238.92375,663.70952 c 26.42736,-13.7101 52.85474,-27.1161 79.2821,-33.5445 26.42737,-6.4285 52.85475,-5.5683 79.28211,2.1194 26.42735,7.6878 52.85477,21.8996 79.28207,35.53 26.4274,13.6305 52.8548,26.0841 79.2821,31.1657 26.42741,5.0815 52.8548,2.5366 79.28219,-6.3335 21.12539,-7.0906 42.2509,-17.9945 63.37629,-28.9245"
+         style="fill:none;stroke:#00d400;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 10;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g190079"
+       transform="matrix(0.8,0,0,0.8,105.23624,-2.9186428)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         style="fill:none;stroke:#808080;stroke-width:3.75000143;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         d="m 6.85424,-418.279 1060.01896,0"
+         id="path7147"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4575"
+         d="m 6.85422,-337.78695 0,-159.86316"
+         style="fill:none;stroke:#808080;stroke-width:3.75000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         transform="matrix(3.4786105,0,0,3.4786105,-800.45071,-958.79143)"
+         ns0:text="$y$"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         id="g86592">
+        <defs
+           id="defs86594">
+          <g
+             id="g86596">
+            <symbol
+               style="overflow:visible"
+               overflow="visible"
+               id="textext-1879b681-0">
+              <path
+                 inkscape:connector-curvature="0"
+                 style="stroke:none"
+                 d="m 4.84375,-3.796875 c 0.046875,-0.140625 0.046875,-0.15625 0.046875,-0.234375 0,-0.171875 -0.140625,-0.265625 -0.296875,-0.265625 -0.09375,0 -0.25,0.0625 -0.34375,0.203125 -0.015625,0.0625 -0.109375,0.359375 -0.140625,0.546875 -0.078125,0.25 -0.140625,0.53125 -0.203125,0.796875 l -0.453125,1.796875 c -0.03125,0.140625 -0.46875,0.84375 -1.125,0.84375 -0.5,0 -0.609375,-0.4375 -0.609375,-0.8125 C 1.71875,-1.375 1.890625,-2 2.21875,-2.875 2.375,-3.28125 2.421875,-3.390625 2.421875,-3.59375 c 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.953125,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.28125,-0.9375 0.671875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.515625 -0.171875,0.703125 -0.40625,1.0625 -0.578125,1.625 -0.578125,2.09375 0,0.890625 0.625,1.1875 1.21875,1.1875 0.390625,0 0.71875,-0.171875 1,-0.453125 -0.125,0.515625 -0.25,1.015625 -0.640625,1.546875 -0.265625,0.328125 -0.640625,0.625 -1.09375,0.625 -0.140625,0 -0.59375,-0.03125 -0.765625,-0.421875 0.15625,0 0.296875,0 0.421875,-0.125 C 1.328125,1.203125 1.421875,1.0625 1.421875,0.875 1.421875,0.5625 1.15625,0.53125 1.0625,0.53125 0.828125,0.53125 0.5,0.6875 0.5,1.171875 c 0,0.5 0.4375,0.875 1.0625,0.875 1.015625,0 2.046875,-0.90625 2.328125,-2.03125 z m 0,0"
+                 id="path86599" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="textext-1879b681-1">
+          <g
+             style="fill:#000000;fill-opacity:1"
+             id="g86602">
+            <use
+               height="1052.3622"
+               width="1488.189"
+               xlink:href="#textext-1879b681-0"
+               x="223.43201"
+               y="134.765"
+               id="use86604" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         id="g86120"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         ns0:text="$x$"
+         transform="matrix(3.4978031,0,0,3.4978031,191.14913,-857.46602)">
+        <defs
+           id="defs86122">
+          <g
+             id="g86124">
+            <symbol
+               style="overflow:visible"
+               id="textext-6809577b-0"
+               overflow="visible">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path86127"
+                 d="M 3.328125,-3.015625 C 3.390625,-3.265625 3.625,-4.1875 4.3125,-4.1875 c 0.046875,0 0.296875,0 0.5,0.125 C 4.53125,-4 4.34375,-3.765625 4.34375,-3.515625 c 0,0.15625 0.109375,0.34375 0.375,0.34375 0.21875,0 0.53125,-0.171875 0.53125,-0.578125 0,-0.515625 -0.578125,-0.65625 -0.921875,-0.65625 -0.578125,0 -0.921875,0.53125 -1.046875,0.75 -0.25,-0.65625 -0.78125,-0.75 -1.078125,-0.75 -1.03125,0 -1.609375,1.28125 -1.609375,1.53125 0,0.109375 0.109375,0.109375 0.125,0.109375 0.078125,0 0.109375,-0.03125 0.125,-0.109375 0.34375,-1.0625 1,-1.3125 1.34375,-1.3125 0.1875,0 0.53125,0.09375 0.53125,0.671875 0,0.3125 -0.171875,0.96875 -0.53125,2.375 -0.15625,0.609375 -0.515625,1.03125 -0.953125,1.03125 -0.0625,0 -0.28125,0 -0.5,-0.125 0.25,-0.0625 0.46875,-0.265625 0.46875,-0.546875 0,-0.265625 -0.21875,-0.34375 -0.359375,-0.34375 -0.3125,0 -0.546875,0.25 -0.546875,0.578125 0,0.453125 0.484375,0.65625 0.921875,0.65625 0.671875,0 1.03125,-0.703125 1.046875,-0.75 0.125,0.359375 0.484375,0.75 1.078125,0.75 1.03125,0 1.59375,-1.28125 1.59375,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.109375 -0.328125,1.078125 -1,1.3125 -1.3125,1.3125 -0.390625,0 -0.546875,-0.3125 -0.546875,-0.65625 0,-0.21875 0.046875,-0.4375 0.15625,-0.875 z m 0,0"
+                 style="stroke:none" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="textext-6809577b-1">
+          <g
+             id="g86130"
+             style="fill:#000000;fill-opacity:1">
+            <use
+               height="1052.3622"
+               width="1488.189"
+               id="use86132"
+               y="134.765"
+               x="223.43201"
+               xlink:href="#textext-6809577b-0"
+               transform="translate(16.03463,0)" />
+          </g>
+        </g>
+      </g>
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssssc"
+         id="path190024"
+         title="t sin(5*t)"
+         d="m 9.05702,-418.28935 c 26.42736,13.71008 52.85474,27.11603 79.28211,33.54445 26.42736,6.42851 52.85475,5.56832 79.2821,-2.11938 26.42735,-7.68781 52.85474,-21.89958 79.28212,-35.53003 26.42736,-13.63045 52.85471,-26.08407 79.2821,-31.1656 26.42737,-5.08155 52.85475,-2.5366 79.28213,6.33347 21.12541,7.09054 42.25092,17.99446 63.37629,28.92444"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="cc"
+         id="path189371"
+         title="t sin(5*t)"
+         d="m 469.04961,-418.28 114.83544,10e-4"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#00ff00;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 9.05702,-418.28935 c 26.42736,13.71008 52.85474,27.11603 79.28211,33.54445 26.42736,6.42851 52.85475,5.56832 79.2821,-2.11938 26.42735,-7.68781 52.85474,-21.89958 79.28212,-35.53003 26.42736,-13.63045 52.85471,-26.08407 79.2821,-31.1656 26.42737,-5.08155 52.85475,-2.5366 79.28213,6.33347 21.12541,7.09054 42.25092,17.99446 63.37629,28.92444"
+         title="t sin(5*t)"
+         id="path3147"
+         sodipodi:nodetypes="csssssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssssc"
+         id="path188187"
+         title="t sin(5*t)"
+         d="m 583.84073,-418.25601 c 26.42736,-13.71008 52.85474,-27.11601 79.28211,-33.54444 26.42736,-6.4285 52.85475,-5.56831 79.2821,2.11939 26.42735,7.68781 52.85481,21.89957 79.28211,35.53003 26.4274,13.63045 52.8548,26.08406 79.2821,31.1656 26.4274,5.08155 52.8548,2.5366 79.2822,-6.33347 21.12535,-7.09054 42.25085,-17.99447 63.37635,-28.92444"
+         style="fill:none;stroke:#00d400;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 10;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssssc"
+         id="path190026"
+         title="t sin(5*t)"
+         d="m 583.59067,-418.25601 c 26.42736,-13.71008 52.85474,-27.11601 79.28211,-33.54444 26.42736,-6.4285 52.85475,-5.56831 79.2821,2.11939 26.42735,7.68781 52.85487,21.89957 79.28217,35.53003 26.4274,13.63045 52.8548,26.08406 79.2821,31.1656 26.4274,5.08155 52.8548,2.5366 79.2822,-6.33347 21.12535,-7.09054 42.25085,-17.99447 63.37635,-28.92444"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#00d400;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 10;stroke-dashoffset:0"
+         d="m 583.59067,-418.25601 c 26.42736,-13.71008 52.85474,-27.11601 79.28211,-33.54444 26.42736,-6.4285 52.85475,-5.56831 79.2821,2.11939 26.42735,7.68781 52.85487,21.89957 79.28217,35.53003 26.4274,13.63045 52.8548,26.08406 79.2821,31.1656 26.4274,5.08155 52.8548,2.5366 79.2822,-6.33347 21.12535,-7.09054 42.25085,-17.99447 63.37635,-28.92444"
+         title="t sin(5*t)"
+         id="path188758"
+         sodipodi:nodetypes="csssssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+    </g>
+    <g
+       id="g190259"
+       transform="matrix(0.8,0,0,0.8,105.23624,-3.0426357)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path188710"
+         d="m 6.85423,843.72102 1031.83287,0"
+         style="fill:none;stroke:#808080;stroke-width:3.75000119;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         style="fill:none;stroke:#808080;stroke-width:3.75000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         d="m 6.85422,924.21302 0,-159.8631"
+         id="path188712"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g188714"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         ns0:text="$y$"
+         transform="matrix(3.4786105,0,0,3.4786105,-800.45071,303.20857)"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <defs
+           id="defs188716">
+          <g
+             id="g188718">
+            <symbol
+               id="symbol188720"
+               overflow="visible"
+               style="overflow:visible">
+              <path
+                 id="path188722"
+                 d="m 4.84375,-3.796875 c 0.046875,-0.140625 0.046875,-0.15625 0.046875,-0.234375 0,-0.171875 -0.140625,-0.265625 -0.296875,-0.265625 -0.09375,0 -0.25,0.0625 -0.34375,0.203125 -0.015625,0.0625 -0.109375,0.359375 -0.140625,0.546875 -0.078125,0.25 -0.140625,0.53125 -0.203125,0.796875 l -0.453125,1.796875 c -0.03125,0.140625 -0.46875,0.84375 -1.125,0.84375 -0.5,0 -0.609375,-0.4375 -0.609375,-0.8125 C 1.71875,-1.375 1.890625,-2 2.21875,-2.875 2.375,-3.28125 2.421875,-3.390625 2.421875,-3.59375 c 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.953125,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.28125,-0.9375 0.671875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.515625 -0.171875,0.703125 -0.40625,1.0625 -0.578125,1.625 -0.578125,2.09375 0,0.890625 0.625,1.1875 1.21875,1.1875 0.390625,0 0.71875,-0.171875 1,-0.453125 -0.125,0.515625 -0.25,1.015625 -0.640625,1.546875 -0.265625,0.328125 -0.640625,0.625 -1.09375,0.625 -0.140625,0 -0.59375,-0.03125 -0.765625,-0.421875 0.15625,0 0.296875,0 0.421875,-0.125 C 1.328125,1.203125 1.421875,1.0625 1.421875,0.875 1.421875,0.5625 1.15625,0.53125 1.0625,0.53125 0.828125,0.53125 0.5,0.6875 0.5,1.171875 c 0,0.5 0.4375,0.875 1.0625,0.875 1.015625,0 2.046875,-0.90625 2.328125,-2.03125 z m 0,0"
+                 style="stroke:none"
+                 inkscape:connector-curvature="0" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188724">
+          <g
+             id="g188726"
+             style="fill:#000000;fill-opacity:1">
+            <use
+               id="use188728"
+               y="134.765"
+               x="223.43201"
+               xlink:href="#textext-1879b681-0"
+               width="1488.189"
+               height="1052.3622" />
+          </g>
+        </g>
+      </g>
+      <g
+         transform="matrix(3.4978031,0,0,3.4978031,191.14913,404.53398)"
+         ns0:text="$x$"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         id="g188730"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <defs
+           id="defs188732">
+          <g
+             id="g188734">
+            <symbol
+               overflow="visible"
+               id="symbol188736"
+               style="overflow:visible">
+              <path
+                 style="stroke:none"
+                 d="M 3.328125,-3.015625 C 3.390625,-3.265625 3.625,-4.1875 4.3125,-4.1875 c 0.046875,0 0.296875,0 0.5,0.125 C 4.53125,-4 4.34375,-3.765625 4.34375,-3.515625 c 0,0.15625 0.109375,0.34375 0.375,0.34375 0.21875,0 0.53125,-0.171875 0.53125,-0.578125 0,-0.515625 -0.578125,-0.65625 -0.921875,-0.65625 -0.578125,0 -0.921875,0.53125 -1.046875,0.75 -0.25,-0.65625 -0.78125,-0.75 -1.078125,-0.75 -1.03125,0 -1.609375,1.28125 -1.609375,1.53125 0,0.109375 0.109375,0.109375 0.125,0.109375 0.078125,0 0.109375,-0.03125 0.125,-0.109375 0.34375,-1.0625 1,-1.3125 1.34375,-1.3125 0.1875,0 0.53125,0.09375 0.53125,0.671875 0,0.3125 -0.171875,0.96875 -0.53125,2.375 -0.15625,0.609375 -0.515625,1.03125 -0.953125,1.03125 -0.0625,0 -0.28125,0 -0.5,-0.125 0.25,-0.0625 0.46875,-0.265625 0.46875,-0.546875 0,-0.265625 -0.21875,-0.34375 -0.359375,-0.34375 -0.3125,0 -0.546875,0.25 -0.546875,0.578125 0,0.453125 0.484375,0.65625 0.921875,0.65625 0.671875,0 1.03125,-0.703125 1.046875,-0.75 0.125,0.359375 0.484375,0.75 1.078125,0.75 1.03125,0 1.59375,-1.28125 1.59375,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.109375 -0.328125,1.078125 -1,1.3125 -1.3125,1.3125 -0.390625,0 -0.546875,-0.3125 -0.546875,-0.65625 0,-0.21875 0.046875,-0.4375 0.15625,-0.875 z m 0,0"
+                 id="path188738"
+                 inkscape:connector-curvature="0" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188740">
+          <g
+             style="fill:#000000;fill-opacity:1"
+             id="g188742">
+            <use
+               transform="translate(16.03463,0)"
+               xlink:href="#textext-6809577b-0"
+               x="223.43201"
+               y="134.765"
+               id="use188744"
+               width="1488.189"
+               height="1052.3622" />
+          </g>
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 640.38974,844.3744 c 3.05908,-1.58234 6.11816,-3.1679 9.17724,-4.74568 26.4274,-13.63041 52.85471,-26.0841 79.2821,-31.1656 26.42737,-5.0816 52.85471,-2.5366 79.28207,6.3334 21.1254,7.0906 42.2509,17.9945 63.3763,28.9245"
+         title="t sin(5*t)"
+         id="path190052"
+         sodipodi:nodetypes="csssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 181.27371,843.93602 c 26.42736,-13.71 52.85474,-27.116 79.2821,-33.5444 26.42737,-6.4285 52.85478,-5.56839 79.28211,2.1194 23.95223,6.96778 47.90451,19.29466 71.85671,31.69074 2.47512,1.28096 4.95023,2.56266 7.42535,3.83926"
+         title="t sin(5*t)"
+         id="path190056"
+         sodipodi:nodetypes="csssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 411.59173,843.72102 c 2.60356,2.69466 5.20711,5.39162 7.81067,8.07729 26.42736,27.2609 52.85471,52.16812 79.2821,62.3312 26.42738,10.1631 52.85476,5.0732 79.28213,-12.66694 21.12541,-14.18108 42.25092,-35.98894 63.3763,-57.84888"
+         title="t sin(5*t)"
+         id="path189367"
+         sodipodi:nodetypes="csssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssssc"
+         id="path188746"
+         title="t sin(5*t)"
+         d="m 411.72065,843.73362 c 26.42736,13.7101 52.85474,27.1161 79.28211,33.5445 26.42736,6.4285 52.85475,5.5683 79.2821,-2.1194 26.42735,-7.6878 52.85474,-21.8996 79.28212,-35.53 26.42736,-13.6305 52.85471,-26.0841 79.2821,-31.1656 26.42737,-5.0816 52.85471,-2.5366 79.28207,6.3334 21.1254,7.0906 42.2509,17.9945 63.3763,28.9245"
+         style="fill:none;stroke:#00ff00;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssssc"
+         id="path188762"
+         title="t sin(5*t)"
+         d="m 181.27371,843.93602 c 26.42736,-13.71 52.85474,-27.116 79.2821,-33.5444 26.42737,-6.4285 52.85475,-5.5683 79.28211,2.1194 26.42735,7.6878 52.85477,21.8995 79.28206,35.53 26.42741,13.6305 52.8548,26.0841 79.28211,31.1656 26.42741,5.0816 52.85479,2.5366 79.28215,-6.3335 21.1254,-7.0905 42.2509,-17.9944 63.3763,-28.9244"
+         style="fill:none;stroke:#00d400;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 10;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g190285"
+       transform="matrix(0.8,0,0,0.8,105.23624,-3.129504)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path188766"
+         d="m 6.85423,1024.0932 1031.83287,0"
+         style="fill:none;stroke:#808080;stroke-width:3.75000119;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         style="fill:none;stroke:#808080;stroke-width:3.75000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         d="m 6.85422,1104.5852 0,-159.86308"
+         id="path188768"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g188770"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         ns0:text="$y$"
+         transform="matrix(3.4786105,0,0,3.4786105,-800.45071,483.58077)"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <defs
+           id="defs188772">
+          <g
+             id="g188774">
+            <symbol
+               id="symbol188776"
+               overflow="visible"
+               style="overflow:visible">
+              <path
+                 id="path188778"
+                 d="m 4.84375,-3.796875 c 0.046875,-0.140625 0.046875,-0.15625 0.046875,-0.234375 0,-0.171875 -0.140625,-0.265625 -0.296875,-0.265625 -0.09375,0 -0.25,0.0625 -0.34375,0.203125 -0.015625,0.0625 -0.109375,0.359375 -0.140625,0.546875 -0.078125,0.25 -0.140625,0.53125 -0.203125,0.796875 l -0.453125,1.796875 c -0.03125,0.140625 -0.46875,0.84375 -1.125,0.84375 -0.5,0 -0.609375,-0.4375 -0.609375,-0.8125 C 1.71875,-1.375 1.890625,-2 2.21875,-2.875 2.375,-3.28125 2.421875,-3.390625 2.421875,-3.59375 c 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.953125,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.28125,-0.9375 0.671875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.515625 -0.171875,0.703125 -0.40625,1.0625 -0.578125,1.625 -0.578125,2.09375 0,0.890625 0.625,1.1875 1.21875,1.1875 0.390625,0 0.71875,-0.171875 1,-0.453125 -0.125,0.515625 -0.25,1.015625 -0.640625,1.546875 -0.265625,0.328125 -0.640625,0.625 -1.09375,0.625 -0.140625,0 -0.59375,-0.03125 -0.765625,-0.421875 0.15625,0 0.296875,0 0.421875,-0.125 C 1.328125,1.203125 1.421875,1.0625 1.421875,0.875 1.421875,0.5625 1.15625,0.53125 1.0625,0.53125 0.828125,0.53125 0.5,0.6875 0.5,1.171875 c 0,0.5 0.4375,0.875 1.0625,0.875 1.015625,0 2.046875,-0.90625 2.328125,-2.03125 z m 0,0"
+                 style="stroke:none"
+                 inkscape:connector-curvature="0" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188780">
+          <g
+             id="g188782"
+             style="fill:#000000;fill-opacity:1">
+            <use
+               id="use188784"
+               y="134.765"
+               x="223.43201"
+               xlink:href="#textext-1879b681-0"
+               width="1488.189"
+               height="1052.3622" />
+          </g>
+        </g>
+      </g>
+      <g
+         transform="matrix(3.4978031,0,0,3.4978031,191.14913,584.90622)"
+         ns0:text="$x$"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         id="g188786"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150">
+        <defs
+           id="defs188788">
+          <g
+             id="g188790">
+            <symbol
+               overflow="visible"
+               id="symbol188792"
+               style="overflow:visible">
+              <path
+                 style="stroke:none"
+                 d="M 3.328125,-3.015625 C 3.390625,-3.265625 3.625,-4.1875 4.3125,-4.1875 c 0.046875,0 0.296875,0 0.5,0.125 C 4.53125,-4 4.34375,-3.765625 4.34375,-3.515625 c 0,0.15625 0.109375,0.34375 0.375,0.34375 0.21875,0 0.53125,-0.171875 0.53125,-0.578125 0,-0.515625 -0.578125,-0.65625 -0.921875,-0.65625 -0.578125,0 -0.921875,0.53125 -1.046875,0.75 -0.25,-0.65625 -0.78125,-0.75 -1.078125,-0.75 -1.03125,0 -1.609375,1.28125 -1.609375,1.53125 0,0.109375 0.109375,0.109375 0.125,0.109375 0.078125,0 0.109375,-0.03125 0.125,-0.109375 0.34375,-1.0625 1,-1.3125 1.34375,-1.3125 0.1875,0 0.53125,0.09375 0.53125,0.671875 0,0.3125 -0.171875,0.96875 -0.53125,2.375 -0.15625,0.609375 -0.515625,1.03125 -0.953125,1.03125 -0.0625,0 -0.28125,0 -0.5,-0.125 0.25,-0.0625 0.46875,-0.265625 0.46875,-0.546875 0,-0.265625 -0.21875,-0.34375 -0.359375,-0.34375 -0.3125,0 -0.546875,0.25 -0.546875,0.578125 0,0.453125 0.484375,0.65625 0.921875,0.65625 0.671875,0 1.03125,-0.703125 1.046875,-0.75 0.125,0.359375 0.484375,0.75 1.078125,0.75 1.03125,0 1.59375,-1.28125 1.59375,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.109375 -0.328125,1.078125 -1,1.3125 -1.3125,1.3125 -0.390625,0 -0.546875,-0.3125 -0.546875,-0.65625 0,-0.21875 0.046875,-0.4375 0.15625,-0.875 z m 0,0"
+                 id="path188794"
+                 inkscape:connector-curvature="0" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188796">
+          <g
+             style="fill:#000000;fill-opacity:1"
+             id="g188798">
+            <use
+               transform="translate(16.03463,0)"
+               xlink:href="#textext-6809577b-0"
+               x="223.43201"
+               y="134.765"
+               id="use188800"
+               width="1488.189"
+               height="1052.3622" />
+          </g>
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 583.84074,1062.0271 c 15.25709,0.2017 29.06035,-2.0778 44.31743,-6.5161 26.42738,-7.6877 52.85474,-21.8996 79.28212,-35.5301 26.42736,-13.6304 52.85471,-26.08398 79.28206,-31.16558 26.4274,-5.0815 52.8548,-2.5366 79.2822,6.3335 21.1254,7.09058 42.2509,17.99448 63.3763,28.92438"
+         title="t sin(5*t)"
+         id="path190046"
+         sodipodi:nodetypes="cssssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssc"
+         id="path189369"
+         title="t sin(5*t)"
+         d="m 469.09391,1062.0642 c 1.30033,0.9303 2.60065,1.8614 3.90097,2.7887 13.19887,9.4119 26.39772,18.0111 39.5966,21.52 13.19887,3.5088 26.39775,1.7515 39.59663,-4.3733 10.55087,-4.8961 21.10178,-12.4253 31.65263,-19.9725"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssssc"
+         id="path188802"
+         title="t sin(5*t)"
+         d="m 469.59396,1024.0859 c 26.42736,13.7101 52.85474,27.1161 79.28211,33.5445 26.42736,6.4285 52.85475,5.5683 79.2821,-2.1194 26.42735,-7.6878 52.85474,-21.8996 79.28212,-35.5301 26.42736,-13.6304 52.85471,-26.08398 79.28206,-31.16558 26.4274,-5.0815 52.8548,-2.5366 79.2822,6.3335 21.1254,7.09058 42.2509,17.99448 63.3763,28.92438"
+         style="fill:none;stroke:#00ff00;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="cssssc"
+         id="path190050"
+         title="t sin(5*t)"
+         d="m 124.47712,1024.0817 c 26.42736,-13.7101 52.85474,-27.11608 79.2821,-33.54448 26.42737,-6.4285 52.85475,-5.5683 79.28211,2.1194 26.42735,7.68778 52.85477,21.89958 79.28207,35.52998 26.4274,13.6305 52.85478,26.0842 79.2821,31.1657 9.85077,1.8941 17.63764,2.8696 27.48841,2.7119"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#00d400;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 10;stroke-dashoffset:0"
+         d="m 124.47712,1024.0817 c 26.42736,-13.7101 52.85474,-27.11608 79.2821,-33.54448 26.42737,-6.4285 52.85475,-5.5683 79.28211,2.1194 26.42735,7.68778 52.85477,21.89958 79.28207,35.52998 26.4274,13.6305 52.8548,26.0841 79.2821,31.1657 26.42741,5.0815 52.8548,2.5366 79.28219,-6.3335 21.12539,-7.0906 42.2509,-17.9945 63.37629,-28.9245"
+         title="t sin(5*t)"
+         id="path188806"
+         sodipodi:nodetypes="csssssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+    </g>
+    <g
+       id="g190310"
+       transform="matrix(0.8,0,0,0.8,105.23624,-2.9186428)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         style="fill:none;stroke:#808080;stroke-width:3.75000119;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         d="m 6.85423,1204.0932 1031.83287,0"
+         id="path188810"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path188812"
+         d="m 6.85422,1284.5852 0,-159.8631"
+         style="fill:none;stroke:#808080;stroke-width:3.75000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         transform="matrix(3.4786105,0,0,3.4786105,-800.45071,663.58072)"
+         ns0:text="$y$"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         id="g188814">
+        <defs
+           id="defs188816">
+          <g
+             id="g188818">
+            <symbol
+               style="overflow:visible"
+               overflow="visible"
+               id="symbol188820">
+              <path
+                 inkscape:connector-curvature="0"
+                 style="stroke:none"
+                 d="m 4.84375,-3.796875 c 0.046875,-0.140625 0.046875,-0.15625 0.046875,-0.234375 0,-0.171875 -0.140625,-0.265625 -0.296875,-0.265625 -0.09375,0 -0.25,0.0625 -0.34375,0.203125 -0.015625,0.0625 -0.109375,0.359375 -0.140625,0.546875 -0.078125,0.25 -0.140625,0.53125 -0.203125,0.796875 l -0.453125,1.796875 c -0.03125,0.140625 -0.46875,0.84375 -1.125,0.84375 -0.5,0 -0.609375,-0.4375 -0.609375,-0.8125 C 1.71875,-1.375 1.890625,-2 2.21875,-2.875 2.375,-3.28125 2.421875,-3.390625 2.421875,-3.59375 c 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.953125,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.28125,-0.9375 0.671875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.515625 -0.171875,0.703125 -0.40625,1.0625 -0.578125,1.625 -0.578125,2.09375 0,0.890625 0.625,1.1875 1.21875,1.1875 0.390625,0 0.71875,-0.171875 1,-0.453125 -0.125,0.515625 -0.25,1.015625 -0.640625,1.546875 -0.265625,0.328125 -0.640625,0.625 -1.09375,0.625 -0.140625,0 -0.59375,-0.03125 -0.765625,-0.421875 0.15625,0 0.296875,0 0.421875,-0.125 C 1.328125,1.203125 1.421875,1.0625 1.421875,0.875 1.421875,0.5625 1.15625,0.53125 1.0625,0.53125 0.828125,0.53125 0.5,0.6875 0.5,1.171875 c 0,0.5 0.4375,0.875 1.0625,0.875 1.015625,0 2.046875,-0.90625 2.328125,-2.03125 z m 0,0"
+                 id="path188822" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188824">
+          <g
+             style="fill:#000000;fill-opacity:1"
+             id="g188826">
+            <use
+               height="1052.3622"
+               width="1488.189"
+               xlink:href="#textext-1879b681-0"
+               x="223.43201"
+               y="134.765"
+               id="use188828" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/wasserwelle-querschnitt.png"
+         id="g188830"
+         ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+         ns0:text="$x$"
+         transform="matrix(3.4978031,0,0,3.4978031,191.14913,764.90622)">
+        <defs
+           id="defs188832">
+          <g
+             id="g188834">
+            <symbol
+               style="overflow:visible"
+               id="symbol188836"
+               overflow="visible">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path188838"
+                 d="M 3.328125,-3.015625 C 3.390625,-3.265625 3.625,-4.1875 4.3125,-4.1875 c 0.046875,0 0.296875,0 0.5,0.125 C 4.53125,-4 4.34375,-3.765625 4.34375,-3.515625 c 0,0.15625 0.109375,0.34375 0.375,0.34375 0.21875,0 0.53125,-0.171875 0.53125,-0.578125 0,-0.515625 -0.578125,-0.65625 -0.921875,-0.65625 -0.578125,0 -0.921875,0.53125 -1.046875,0.75 -0.25,-0.65625 -0.78125,-0.75 -1.078125,-0.75 -1.03125,0 -1.609375,1.28125 -1.609375,1.53125 0,0.109375 0.109375,0.109375 0.125,0.109375 0.078125,0 0.109375,-0.03125 0.125,-0.109375 0.34375,-1.0625 1,-1.3125 1.34375,-1.3125 0.1875,0 0.53125,0.09375 0.53125,0.671875 0,0.3125 -0.171875,0.96875 -0.53125,2.375 -0.15625,0.609375 -0.515625,1.03125 -0.953125,1.03125 -0.0625,0 -0.28125,0 -0.5,-0.125 0.25,-0.0625 0.46875,-0.265625 0.46875,-0.546875 0,-0.265625 -0.21875,-0.34375 -0.359375,-0.34375 -0.3125,0 -0.546875,0.25 -0.546875,0.578125 0,0.453125 0.484375,0.65625 0.921875,0.65625 0.671875,0 1.03125,-0.703125 1.046875,-0.75 0.125,0.359375 0.484375,0.75 1.078125,0.75 1.03125,0 1.59375,-1.28125 1.59375,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.109375 -0.328125,1.078125 -1,1.3125 -1.3125,1.3125 -0.390625,0 -0.546875,-0.3125 -0.546875,-0.65625 0,-0.21875 0.046875,-0.4375 0.15625,-0.875 z m 0,0"
+                 style="stroke:none" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="g188840">
+          <g
+             id="g188842"
+             style="fill:#000000;fill-opacity:1">
+            <use
+               height="1052.3622"
+               width="1488.189"
+               id="use188844"
+               y="134.765"
+               x="223.43201"
+               xlink:href="#textext-6809577b-0"
+               transform="translate(16.03463,0)" />
+          </g>
+        </g>
+      </g>
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssssc"
+         id="path190044"
+         title="t sin(5*t)"
+         d="m 526.9675,1204.1058 c 26.42736,13.7101 52.85474,27.1161 79.28211,33.5445 26.42736,6.4285 52.85475,5.5683 79.2821,-2.1194 26.42735,-7.6878 52.85479,-21.8996 79.28209,-35.53 26.4274,-13.6305 52.8547,-26.0841 79.2821,-31.1656 26.4274,-5.0816 52.8547,-2.5366 79.2821,6.3334 21.12535,7.0906 42.25085,17.9945 63.37625,28.9245"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#00ff00;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 526.9675,1204.1058 c 26.42736,13.7101 52.85474,27.1161 79.28211,33.5445 26.42736,6.4285 52.85475,5.5683 79.2821,-2.1194 26.42735,-7.6878 52.85479,-21.8996 79.28209,-35.53 26.4274,-13.6305 52.8547,-26.0841 79.2821,-31.1656 26.4274,-5.0816 52.8547,-2.5366 79.2821,6.3334 21.12535,7.0906 42.25085,17.9945 63.37625,28.9245"
+         title="t sin(5*t)"
+         id="path188846"
+         sodipodi:nodetypes="csssssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         sodipodi:nodetypes="csssssc"
+         id="path190048"
+         title="t sin(5*t)"
+         d="m 67.18048,1204.3082 c 26.42736,-13.71 52.85474,-27.116 79.2821,-33.5444 26.42737,-6.4285 52.85475,-5.5683 79.28211,2.1194 26.42735,7.6878 52.85477,21.8995 79.28206,35.53 26.42741,13.6305 52.8548,26.0841 79.28211,31.1656 26.42741,5.0816 52.85479,2.5366 79.28215,-6.3335 21.1254,-7.0905 42.2509,-17.9944 63.3763,-28.9244"
+         style="fill:none;stroke:#008000;stroke-width:7.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#00d400;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 10;stroke-dashoffset:0"
+         d="m 67.18048,1204.3082 c 26.42736,-13.71 52.85474,-27.116 79.2821,-33.5444 26.42737,-6.4285 52.85475,-5.5683 79.28211,2.1194 26.42735,7.6878 52.85477,21.8995 79.28206,35.53 26.42741,13.6305 52.8548,26.0841 79.28211,31.1656 26.42741,5.0816 52.85479,2.5366 79.28215,-6.3335 21.1254,-7.0905 42.2509,-17.9944 63.3763,-28.9244"
+         title="t sin(5*t)"
+         id="path188848"
+         sodipodi:nodetypes="csssssc"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mathematik/sinus-cosinus.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+    </g>
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path189373"
+       d="m 763.05424,-385.37526 -136.86787,0"
+       style="fill:#00ff00;fill-opacity:1;stroke:#00d400;stroke-width:1.44421983;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#TriangleOutM)" />
+    <g
+       id="g189695"
+       style="fill:#00d400;fill-opacity:1"
+       transform="matrix(3.4786105,0,0,3.4786105,-88.875046,-871.349)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$v_2$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs189697">
+        <g
+           id="g189699">
+          <symbol
+             id="textext-4f51b513-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path189702"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-4f51b513-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path189705"
+               d="m 4.671875,-3.703125 c 0,-0.546875 -0.265625,-0.703125 -0.4375,-0.703125 -0.25,0 -0.5,0.265625 -0.5,0.484375 0,0.125 0.046875,0.1875 0.15625,0.296875 0.21875,0.203125 0.34375,0.453125 0.34375,0.8125 0,0.421875 -0.609375,2.703125 -1.765625,2.703125 -0.515625,0 -0.75,-0.34375 -0.75,-0.875 0,-0.546875 0.28125,-1.28125 0.578125,-2.109375 0.078125,-0.171875 0.125,-0.3125 0.125,-0.5 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.9375,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.296875,-1 0.71875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.53125 -0.171875,0.703125 -0.4375,1.15625 -0.5625,1.609375 -0.5625,2.046875 0,1.078125 0.875,1.234375 1.328125,1.234375 1.671875,0 2.25,-3.296875 2.25,-3.8125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-4f51b513-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path189708"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-4f51b513-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path189711"
+               d="m 3.515625,-1.265625 -0.234375,0 c -0.015625,0.15625 -0.09375,0.5625 -0.1875,0.625 -0.046875,0.046875 -0.578125,0.046875 -0.6875,0.046875 l -1.28125,0 c 0.734375,-0.640625 0.984375,-0.84375 1.390625,-1.171875 0.515625,-0.40625 1,-0.84375 1,-1.5 0,-0.84375 -0.734375,-1.359375 -1.625,-1.359375 -0.859375,0 -1.453125,0.609375 -1.453125,1.25 0,0.34375 0.296875,0.390625 0.375,0.390625 0.15625,0 0.359375,-0.125 0.359375,-0.375 0,-0.125 -0.046875,-0.375 -0.40625,-0.375 C 0.984375,-4.21875 1.453125,-4.375 1.78125,-4.375 c 0.703125,0 1.0625,0.546875 1.0625,1.109375 0,0.609375 -0.4375,1.078125 -0.65625,1.328125 L 0.515625,-0.265625 C 0.4375,-0.203125 0.4375,-0.1875 0.4375,0 l 2.875,0 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-4f51b513-4"
+         style="fill:#00d400;fill-opacity:1">
+        <g
+           id="g189714"
+           style="fill:#00d400;fill-opacity:1">
+          <use
+             id="use189716"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-4f51b513-1"
+             style="fill:#00d400;fill-opacity:1"
+             width="1052.3622"
+             height="1488.189" />
+        </g>
+        <g
+           id="g189718"
+           style="fill:#00d400;fill-opacity:1">
+          <use
+             id="use189720"
+             y="136.259"
+             x="228.261"
+             xlink:href="#textext-4f51b513-3"
+             style="fill:#00d400;fill-opacity:1"
+             width="1052.3622"
+             height="1488.189" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="gleichgewicht-kippen-2.svg">
+  <title
+     id="title4704">Standflaeche und Gleichgewicht</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="550.31048"
+     inkscape:cy="481.85951"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="413.41623,272.12134"
+       id="guide8719" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="32.87088,245.73065"
+       id="guide3264" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="638.94592,460.90944"
+       id="guide3270" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1019.4913,245.73065"
+       id="guide3272" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path8225"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8225-5"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <defs
+       id="defs5554">
+      <g
+         id="g5556">
+        <symbol
+           style="overflow:visible"
+           overflow="visible"
+           id="textext-9f790aa7-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             d="m 6.4375,-6.921875 c 0,-0.03125 -0.03125,-0.109375 -0.125,-0.109375 -0.046875,0 -0.046875,0.015625 -0.171875,0.15625 L 5.65625,-6.3125 c -0.25,-0.46875 -0.765625,-0.71875 -1.421875,-0.71875 -1.265625,0 -2.453125,1.15625 -2.453125,2.359375 0,0.796875 0.515625,1.265625 1.03125,1.40625 l 1.0625,0.28125 c 0.375,0.09375 0.921875,0.25 0.921875,1.0625 0,0.890625 -0.8125,1.828125 -1.796875,1.828125 -0.640625,0 -1.75,-0.21875 -1.75,-1.453125 0,-0.234375 0.0625,-0.484375 0.0625,-0.53125 0.015625,-0.046875 0.015625,-0.0625 0.015625,-0.078125 0,-0.09375 -0.0625,-0.109375 -0.109375,-0.109375 -0.046875,0 -0.078125,0.015625 -0.109375,0.046875 -0.03125,0.03125 -0.59375,2.3125 -0.59375,2.34375 0,0.046875 0.046875,0.09375 0.109375,0.09375 0.046875,0 0.0625,-0.015625 0.1875,-0.15625 L 1.296875,-0.5 c 0.421875,0.578125 1.109375,0.71875 1.6875,0.71875 1.359375,0 2.53125,-1.328125 2.53125,-2.5625 0,-0.6875 -0.34375,-1.03125 -0.484375,-1.171875 C 4.796875,-3.734375 4.640625,-3.78125 3.765625,-4 3.53125,-4.0625 3.1875,-4.171875 3.09375,-4.1875 2.828125,-4.28125 2.484375,-4.5625 2.484375,-5.09375 c 0,-0.8125 0.796875,-1.65625 1.75,-1.65625 0.8125,0 1.421875,0.4375 1.421875,1.546875 0,0.3125 -0.03125,0.5 -0.03125,0.5625 0,0 0,0.09375 0.109375,0.09375 0.109375,0 0.125,-0.03125 0.15625,-0.203125 z m 0,0"
+             id="path5559" />
+        </symbol>
+      </g>
+    </defs>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Standflaeche und Gleichgewicht</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2014-03-29</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Dynamik</rdf:li>
+            <rdf:li>Hebel</rdf:li>
+            <rdf:li>Gleichgewicht</rdf:li>
+            <rdf:li>Schwerpunkt</rdf:li>
+            <rdf:li>Standflaeche</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-308.2677)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999997, 3.99999994;stroke-dashoffset:0"
+       id="rect5695"
+       width="1028.3353"
+       height="374.68137"
+       x="12.013428"
+       y="463.91296"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       inkscape:transform-center-y="64.974466"
+       y="735.24402"
+       x="574.68549"
+       height="166.17325"
+       width="116.53285"
+       id="rect3250"
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:3.22455525;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:transform-center-x="37.591702"
+       transform="matrix(1,0,-0.50078581,0.86557124,0,0)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       inkscape:transform-center-y="85.281209"
+       y="682.95081"
+       x="863.88849"
+       height="217.99373"
+       width="116.53285"
+       id="rect3237"
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:3.22370982;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:transform-center-x="49.237137"
+       transform="matrix(1,0,-0.5,0.8660254,0,0)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8074"
+       d="m 529.94907,780.24084 -7.53598,-188.7881"
+       style="fill:none;stroke:#666666;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5359"
+       d="m 526.18107,685.84654 10e-6,90.7661"
+       style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999999, 3.99999998;stroke-dashoffset:0;marker-end:url(#TriangleOutM)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g5562"
+       style="fill:#000000;fill-opacity:1"
+       transform="matrix(2.1576756,0,0,2.1561974,50.344682,395.90797)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <use
+         transform="translate(0,2.7826766)"
+         id="use5564"
+         y="134.765"
+         x="223.43201"
+         xlink:href="#textext-9f790aa7-0"
+         width="1052.3622"
+         height="744.09448" />
+    </g>
+    <path
+       style="fill:none;stroke:#666666;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 638.94592,591.45274 413.41623,780.24084"
+       id="path8072"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(1.7134279,0.11440749,0.11995385,-1.6342034,214.8546,891.26041)"
+       d="m 173.63786,137.74173 a 1.5828705,1.5828705 0 1 1 -3.16574,0 1.5828705,1.5828705 0 1 1 3.16574,0 z"
+       sodipodi:ry="1.5828705"
+       sodipodi:rx="1.5828705"
+       sodipodi:cy="137.74173"
+       sodipodi:cx="172.05499"
+       id="path5357"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.78843665;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect8064"
+       width="986.62042"
+       height="26.404728"
+       x="32.87088"
+       y="782.74084"
+       ry="4.460258"
+       rx="10.209234"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 239.80136,780.24084 206.48571,636.40608"
+       id="path3168"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999999, 3.99999996;stroke-dashoffset:0;marker-end:url(#TriangleOutM)"
+       d="m 223.14353,708.32346 1e-5,66.76587"
+       id="path3170"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(2.1576756,0,0,2.1561974,-253.35799,420.52319)"
+       style="fill:#000000;fill-opacity:1"
+       id="g3172"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <use
+         height="744.09448"
+         width="1052.3622"
+         xlink:href="#textext-9f790aa7-0"
+         x="223.43201"
+         y="134.765"
+         id="use3174"
+         transform="translate(0,2.7826766)" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3176"
+       d="M 323.01855,636.40608 123.26852,780.24084"
+       style="fill:none;stroke:#666666;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.78843665;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3178"
+       sodipodi:cx="172.05499"
+       sodipodi:cy="137.74173"
+       sodipodi:rx="1.5828705"
+       sodipodi:ry="1.5828705"
+       d="m 173.63786,137.74173 a 1.5828705,1.5828705 0 1 1 -3.16574,0 1.5828705,1.5828705 0 1 1 3.16574,0 z"
+       transform="matrix(1.7134279,0.11440749,0.11995385,-1.6342034,-88.182937,913.73708)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       inkscape:transform-center-x="73.818527"
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:3.23077989;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3248"
+       width="116.53285"
+       height="322.63104"
+       x="1147.5793"
+       y="582.26984"
+       inkscape:transform-center-y="125.66443"
+       transform="matrix(1,0,-0.50650158,0.86223903,0,0)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3195"
+       d="m 805.77844,780.24086 46.8803,-278.18508"
+       style="fill:none;stroke:#666666;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3197"
+       d="m 829.21859,641.1483 1e-5,134.76584"
+       style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999996, 3.9999999;stroke-dashoffset:0;marker-end:url(#TriangleOutM)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g3199"
+       style="fill:#000000;fill-opacity:1"
+       transform="matrix(2.1576756,0,0,2.1561974,354.0623,351.72851)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <use
+         transform="translate(0,2.7826766)"
+         id="use3201"
+         y="134.765"
+         x="223.43201"
+         xlink:href="#textext-9f790aa7-0"
+         width="1052.3622"
+         height="744.09448" />
+    </g>
+    <path
+       style="fill:none;stroke:#666666;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 969.19158,502.05578 689.24561,780.24086"
+       id="path3203"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(1.7134279,0.11440749,0.11995385,-1.6342034,517.89212,846.56194)"
+       d="m 173.63786,137.74173 a 1.5828705,1.5828705 0 1 1 -3.16574,0 1.5828705,1.5828705 0 1 1 3.16574,0 z"
+       sodipodi:ry="1.5828705"
+       sodipodi:rx="1.5828705"
+       sodipodi:cy="137.74173"
+       sodipodi:cx="172.05499"
+       id="path3205"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.78843665;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/dynamik/gleichgewicht-kippen-2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

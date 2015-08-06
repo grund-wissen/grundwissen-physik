@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="gleichgewicht-kippen.svg">
+  <title
+     id="title5735">Hebelgleichgewichte</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.3535534"
+     inkscape:cx="852.1679"
+     inkscape:cy="626.26239"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="429.50001,169.44764"
+       id="guide8719" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path8225"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8225-5"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <defs
+       id="defs5554">
+      <g
+         id="g5556">
+        <symbol
+           style="overflow:visible"
+           overflow="visible"
+           id="textext-9f790aa7-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             d="m 6.4375,-6.921875 c 0,-0.03125 -0.03125,-0.109375 -0.125,-0.109375 -0.046875,0 -0.046875,0.015625 -0.171875,0.15625 L 5.65625,-6.3125 c -0.25,-0.46875 -0.765625,-0.71875 -1.421875,-0.71875 -1.265625,0 -2.453125,1.15625 -2.453125,2.359375 0,0.796875 0.515625,1.265625 1.03125,1.40625 l 1.0625,0.28125 c 0.375,0.09375 0.921875,0.25 0.921875,1.0625 0,0.890625 -0.8125,1.828125 -1.796875,1.828125 -0.640625,0 -1.75,-0.21875 -1.75,-1.453125 0,-0.234375 0.0625,-0.484375 0.0625,-0.53125 0.015625,-0.046875 0.015625,-0.0625 0.015625,-0.078125 0,-0.09375 -0.0625,-0.109375 -0.109375,-0.109375 -0.046875,0 -0.078125,0.015625 -0.109375,0.046875 -0.03125,0.03125 -0.59375,2.3125 -0.59375,2.34375 0,0.046875 0.046875,0.09375 0.109375,0.09375 0.046875,0 0.0625,-0.015625 0.1875,-0.15625 L 1.296875,-0.5 c 0.421875,0.578125 1.109375,0.71875 1.6875,0.71875 1.359375,0 2.53125,-1.328125 2.53125,-2.5625 0,-0.6875 -0.34375,-1.03125 -0.484375,-1.171875 C 4.796875,-3.734375 4.640625,-3.78125 3.765625,-4 3.53125,-4.0625 3.1875,-4.171875 3.09375,-4.1875 2.828125,-4.28125 2.484375,-4.5625 2.484375,-5.09375 c 0,-0.8125 0.796875,-1.65625 1.75,-1.65625 0.8125,0 1.421875,0.4375 1.421875,1.546875 0,0.3125 -0.03125,0.5 -0.03125,0.5625 0,0 0,0.09375 0.109375,0.09375 0.109375,0 0.125,-0.03125 0.15625,-0.203125 z m 0,0"
+             id="path5559" />
+        </symbol>
+      </g>
+    </defs>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Hebelgleichgewichte</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2012-08-13</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Dynamik</rdf:li>
+            <rdf:li>Kraftwandler</rdf:li>
+            <rdf:li>Hebel</rdf:li>
+            <rdf:li>Gleichgewicht</rdf:li>
+            <rdf:li>Schwerpunkt</rdf:li>
+            <rdf:li>stabil</rdf:li>
+            <rdf:li>labil</rdf:li>
+            <rdf:li>indifferent</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-308.2677)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 4;stroke-dashoffset:0"
+       id="rect5695"
+       width="1028.3353"
+       height="339.0072"
+       x="24.734577"
+       y="499.5871"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/gleichgewicht-kippen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g8746"
+       transform="translate(-35.863693,-222.73066)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/gleichgewicht-kippen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         inkscape:transform-center-x="1.511282e-05"
+         style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect2987"
+         width="116.53285"
+         height="218.7881"
+         x="101.95934"
+         y="784.18341"
+         inkscape:transform-center-y="98.833116" />
+      <path
+         style="fill:none;stroke:#666666;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 218.49219,1002.9715 101.95933,784.18339"
+         id="path8074"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999999, 3.99999997;stroke-dashoffset:0;marker-end:url(#TriangleOutM)"
+         d="m 160.22576,893.45391 1e-5,102.76585"
+         id="path5359"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="matrix(2.1576756,0,0,2.1561974,-328.49429,586.25385)"
+         style="fill:#000000;fill-opacity:1"
+         id="g5562">
+        <use
+           height="744.09448"
+           width="1052.3622"
+           xlink:href="#textext-9f790aa7-0"
+           x="223.43201"
+           y="134.765"
+           id="use5564"
+           transform="translate(0,2.7826766)" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path8072"
+         d="M 218.49219,784.18338 101.95934,1002.9715"
+         style="fill:none;stroke:#666666;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.78843665;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path5357"
+         sodipodi:cx="172.05499"
+         sodipodi:cy="137.74173"
+         sodipodi:rx="1.5828705"
+         sodipodi:ry="1.5828705"
+         d="m 173.63786,137.74173 c 0,0.87419 -0.70867,1.58287 -1.58287,1.58287 -0.87419,0 -1.58287,-0.70868 -1.58287,-1.58287 0,-0.8742 0.70868,-1.58287 1.58287,-1.58287 0.8742,0 1.58287,0.70867 1.58287,1.58287 z"
+         transform="matrix(1.7134279,0.11440749,0.11995385,-1.6342034,-151.10071,1098.8675)" />
+    </g>
+    <rect
+       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect8064"
+       width="986.62042"
+       height="23.890682"
+       x="32.87088"
+       y="782.74084"
+       ry="4.0355883"
+       rx="10.209234"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/gleichgewicht-kippen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g8803"
+       transform="translate(-42.691849,0)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/gleichgewicht-kippen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         inkscape:transform-center-y="-121.55693"
+         inkscape:transform-center-x="33.067007"
+         transform="matrix(0.97395779,0.2267294,-0.2267294,0.97395779,217.11707,-203.16934)"
+         id="g8686">
+        <rect
+           style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect8066"
+           width="116.53285"
+           height="218.7881"
+           x="344.53415"
+           y="683.58441"
+           inkscape:transform-center-y="98.833125"
+           inkscape:transform-center-x="-1.2052193e-05" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path8072-6"
+           d="M 461.06701,683.5844 344.53416,902.3725"
+           style="fill:none;stroke:#666666;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#666666;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 461.06701,902.3725 344.53415,683.58441"
+           id="path8074-3"
+           inkscape:connector-curvature="0" />
+        <path
+           transform="matrix(1.7134279,0.11440749,0.11995385,-1.6342034,91.474109,998.39207)"
+           d="m 173.63786,137.74173 c 0,0.87419 -0.70867,1.58287 -1.58287,1.58287 -0.87419,0 -1.58287,-0.70868 -1.58287,-1.58287 0,-0.8742 0.70868,-1.58287 1.58287,-1.58287 0.8742,0 1.58287,0.70867 1.58287,1.58287 z"
+           sodipodi:ry="1.5828705"
+           sodipodi:rx="1.5828705"
+           sodipodi:cy="137.74173"
+           sodipodi:cx="172.05499"
+           id="path5357-9"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.78843665;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           sodipodi:type="arc" />
+        <path
+           inkscape:transform-center-y="61.152372"
+           inkscape:transform-center-x="0.97564055"
+           inkscape:connector-curvature="0"
+           id="path5359-3"
+           d="m 403.08934,793.11563 25.97081,112.57845"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000011, 4.00000021;stroke-dashoffset:0;marker-end:url(#TriangleOutM)" />
+      </g>
+      <use
+         id="use5564-2"
+         y="134.765"
+         x="223.43201"
+         xlink:href="#textext-9f790aa7-0"
+         width="1052.3622"
+         height="744.09448"
+         style="fill:#000000;fill-opacity:1"
+         transform="matrix(2.1576756,0,0,2.1561974,-59.958771,358.75328)" />
+      <rect
+         ry="2.6785715"
+         rx="2.6785715"
+         y="756.77441"
+         x="328.70773"
+         height="25.966457"
+         width="25.966457"
+         id="rect8717"
+         style="fill:#a05a2c;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g8823"
+       transform="translate(-40.883817,0)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/gleichgewicht-kippen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,538.13463,-452.4629)"
+         inkscape:transform-center-y="-125.92027"
+         inkscape:transform-center-x="-3.6877771"
+         id="g8755">
+        <g
+           id="g8693"
+           transform="translate(267.14286,100.59898)">
+          <rect
+             style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             id="rect8695"
+             width="116.53285"
+             height="218.7881"
+             x="344.53415"
+             y="683.58441"
+             inkscape:transform-center-y="98.833125"
+             inkscape:transform-center-x="-1.2052193e-05" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path8697"
+             d="M 461.06701,683.5844 344.53416,902.3725"
+             style="fill:none;stroke:#666666;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#666666;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="M 461.06701,902.3725 344.53415,683.58441"
+             id="path8699"
+             inkscape:connector-curvature="0" />
+          <path
+             transform="matrix(1.7134279,0.11440749,0.11995385,-1.6342034,91.474109,998.39207)"
+             d="m 173.63786,137.74173 c 0,0.87419 -0.70867,1.58287 -1.58287,1.58287 -0.87419,0 -1.58287,-0.70868 -1.58287,-1.58287 0,-0.8742 0.70868,-1.58287 1.58287,-1.58287 0.8742,0 1.58287,0.70867 1.58287,1.58287 z"
+             sodipodi:ry="1.5828705"
+             sodipodi:rx="1.5828705"
+             sodipodi:cy="137.74173"
+             sodipodi:cx="172.05499"
+             id="path8701"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.78843665;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc" />
+          <path
+             inkscape:transform-center-y="61.53652"
+             inkscape:transform-center-x="3.5000543"
+             inkscape:connector-curvature="0"
+             id="path8703"
+             d="m 402.80059,792.97842 56.38693,104.80722"
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000003, 4.00000005;stroke-dashoffset:0;marker-end:url(#TriangleOutM)" />
+        </g>
+      </g>
+      <rect
+         style="fill:#a05a2c;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect8763"
+         width="25.966457"
+         height="25.966457"
+         x="597.22156"
+         y="754.77441"
+         rx="2.6785715"
+         ry="2.6785715" />
+      <use
+         id="use5564-2-9"
+         y="134.765"
+         x="223.43201"
+         xlink:href="#textext-9f790aa7-0"
+         width="1052.3622"
+         height="744.09448"
+         style="fill:#000000;fill-opacity:1"
+         transform="matrix(2.1576756,0,0,2.1561974,181.93887,355.83086)" />
+    </g>
+    <g
+       id="g8813"
+       transform="translate(6.3406174e-5,0)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/gleichgewicht-kippen.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g8705"
+         transform="matrix(0.5,0.86602541,-0.86602541,0.5,1369.1333,-70.241155)">
+        <rect
+           style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect8707"
+           width="116.53285"
+           height="218.7881"
+           x="344.53415"
+           y="683.58441"
+           inkscape:transform-center-y="98.833125"
+           inkscape:transform-center-x="-1.2052193e-05" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path8709"
+           d="M 461.06701,683.5844 344.53416,902.3725"
+           style="fill:none;stroke:#666666;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#666666;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 461.06701,902.3725 344.53415,683.58441"
+           id="path8711"
+           inkscape:connector-curvature="0" />
+        <path
+           transform="matrix(1.7134279,0.11440749,0.11995385,-1.6342034,91.474109,998.39207)"
+           d="m 173.63786,137.74173 c 0,0.87419 -0.70867,1.58287 -1.58287,1.58287 -0.87419,0 -1.58287,-0.70868 -1.58287,-1.58287 0,-0.8742 0.70868,-1.58287 1.58287,-1.58287 0.8742,0 1.58287,0.70867 1.58287,1.58287 z"
+           sodipodi:ry="1.5828705"
+           sodipodi:rx="1.5828705"
+           sodipodi:cy="137.74173"
+           sodipodi:cx="172.05499"
+           id="path8713"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.78843665;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           sodipodi:type="arc" />
+        <path
+           inkscape:transform-center-y="52.731095"
+           inkscape:transform-center-x="-2.1588438e-05"
+           inkscape:connector-curvature="0"
+           id="path8715"
+           d="m 402.80058,792.97845 87.76839,50.67308"
+           style="fill:none;stroke:#000000;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000006, 4.00000012;stroke-dashoffset:0;marker-end:url(#TriangleOutM)" />
+      </g>
+      <rect
+         ry="2.6785715"
+         rx="2.6785715"
+         y="754.77441"
+         x="759.42285"
+         height="25.966457"
+         width="25.966457"
+         id="rect8765"
+         style="fill:#a05a2c;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <use
+         id="use5564-2-9-7"
+         y="134.765"
+         x="223.43201"
+         xlink:href="#textext-9f790aa7-0"
+         width="1052.3622"
+         height="744.09448"
+         style="fill:#000000;fill-opacity:1"
+         transform="matrix(2.1576756,0,0,2.1561974,394.19902,376.47604)" />
+    </g>
+  </g>
+</svg>

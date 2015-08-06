@@ -1,0 +1,1887 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="anomalie-wasser.svg">
+  <title
+     id="title12094">Anomalie des Wassers</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.54703822"
+     inkscape:cx="578.8462"
+     inkscape:cy="303.42785"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       id="guide7261"
+       orientation="744.0945,0"
+       position="0.0,0" />
+    <sodipodi:guide
+       id="guide7263"
+       orientation="744.0945,0"
+       position="526.1811,0" />
+    <sodipodi:guide
+       id="guide7265"
+       orientation="744.0945,0"
+       position="1052.3622,0" />
+    <sodipodi:guide
+       id="guide7267"
+       orientation="0,1052.3622"
+       position="0,0.0" />
+    <sodipodi:guide
+       id="guide7269"
+       orientation="0,1052.3622"
+       position="0,372.0472" />
+    <sodipodi:guide
+       id="guide7271"
+       orientation="0,1052.3622"
+       position="0,744.0945" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="35.646503,416.72098"
+       id="guide7400" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="322.18955,305.67472"
+       id="guide7432" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="308.47936,323.92428"
+       id="guide7434" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="307.10834,343.07889"
+       id="guide7436" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="303.45229,362.23349"
+       id="guide7438" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="278.3596,382.38809"
+       id="guide7440" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12857"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12853"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12851"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12845"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12843"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12841"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12615"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12607"
+       is_visible="true" />
+    <linearGradient
+       id="linearGradient12522">
+      <stop
+         style="stop-color:#e9db28;stop-opacity:1;"
+         offset="0"
+         id="stop12524" />
+      <stop
+         style="stop-color:#2324d0;stop-opacity:1;"
+         offset="1"
+         id="stop12526" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12297"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12293"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7500"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7497"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7494"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7491"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7446"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7430"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7426"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7424"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7422"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7398"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7394"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7392"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7390"
+       is_visible="true" />
+    <linearGradient
+       id="linearGradient7242">
+      <stop
+         id="stop7244"
+         offset="0"
+         style="stop-color:#aa8f72;stop-opacity:1;" />
+      <stop
+         id="stop7246"
+         offset="1"
+         style="stop-color:#deaa87;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6413"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6409"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6405"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6391"
+       effect="spiro" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path12931" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path12928" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path12928-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path12931-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path12928-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path12931-60" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path12928-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path12931-3" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7242"
+       id="linearGradient7368"
+       gradientUnits="userSpaceOnUse"
+       x1="364.69113"
+       y1="477.2027"
+       x2="364.69113"
+       y2="171.92239"
+       gradientTransform="matrix(0.69823621,0,0,0.69823621,10.756824,454.33185)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7242"
+       id="linearGradient7428"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.69823621,0,0,0.69823621,537.22827,454.33185)"
+       x1="364.69113"
+       y1="477.2027"
+       x2="364.69113"
+       y2="171.92239" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7242"
+       id="linearGradient7486"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.69823621,0,0,0.69823621,10.756824,454.33185)"
+       x1="364.69113"
+       y1="477.2027"
+       x2="364.69113"
+       y2="171.92239" />
+    <filter
+       inkscape:collect="always"
+       id="filter12319">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.4541857"
+         id="feGaussianBlur12321" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7242"
+       id="linearGradient12325"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.69823621,0,0,0.69823621,10.756824,454.33185)"
+       x1="364.69113"
+       y1="477.2027"
+       x2="364.69113"
+       y2="171.92239" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7242"
+       id="linearGradient12508"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.69823621,0,0,0.69823621,10.756824,454.33185)"
+       x1="364.69113"
+       y1="477.2027"
+       x2="364.69113"
+       y2="171.92239" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12522"
+       id="radialGradient12528"
+       cx="265.3974"
+       cy="680.95312"
+       fx="265.3974"
+       fy="680.95312"
+       r="230.25089"
+       gradientTransform="matrix(0.99666287,-0.08162792,0.02245567,0.27417988,-63.524754,231.53925)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12522"
+       id="radialGradient12531"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0000002,2.9854169e-8,0,0.27509792,520.16497,496.49757)"
+       cx="233.24866"
+       cy="409.72949"
+       fx="233.24866"
+       fy="409.72949"
+       r="230.25089" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7242"
+       id="linearGradient12534"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.69823621,0,0,0.69823621,536.90508,454.33185)"
+       x1="364.69113"
+       y1="477.2027"
+       x2="364.69113"
+       y2="171.92239" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12522"
+       id="radialGradient12551"
+       cx="648.71234"
+       cy="215.17267"
+       fx="648.71234"
+       fy="215.17267"
+       r="230.25089"
+       gradientTransform="matrix(1.0000001,3.0819194e-8,-1.4332559e-8,0.46505307,104.70126,509.14658)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter12601"
+       x="-0.16643324"
+       width="1.3328665"
+       y="-0.312775"
+       height="1.62555">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.1490698"
+         id="feGaussianBlur12603" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter12629"
+       x="-0.13691532"
+       width="1.2738306"
+       y="-0.2626515"
+       height="1.525303">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.2707927"
+         id="feGaussianBlur12631" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12522"
+       id="radialGradient12847"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0000001,3.0819194e-8,-1.4332559e-8,0.46505307,179.65034,1122.1815)"
+       cx="648.71234"
+       cy="215.17267"
+       fx="648.71234"
+       fy="215.17267"
+       r="230.25089" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12522"
+       id="radialGradient12849"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0000002,2.9854169e-8,0,0.27509792,595.11405,1109.5325)"
+       cx="233.24866"
+       cy="409.72949"
+       fx="233.24866"
+       fy="409.72949"
+       r="230.25089" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7242"
+       id="linearGradient12855"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.69823621,0,0,0.69823621,611.85414,1066.7205)"
+       x1="364.69113"
+       y1="477.2027"
+       x2="364.69113"
+       y2="171.92239" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7242"
+       id="linearGradient35773"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.69823621,0,0,0.69823621,536.90508,454.33185)"
+       x1="364.69113"
+       y1="477.2027"
+       x2="364.69113"
+       y2="171.92239" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12522"
+       id="radialGradient35948"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0000001,3.0819194e-8,-1.4332559e-8,0.46505307,104.70126,509.14658)"
+       cx="648.71234"
+       cy="215.17267"
+       fx="648.71234"
+       fy="215.17267"
+       r="230.25089" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12522"
+       id="radialGradient35950"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0000002,2.9854169e-8,0,0.27509792,520.16497,496.49757)"
+       cx="233.24866"
+       cy="409.72949"
+       fx="233.24866"
+       fy="409.72949"
+       r="230.25089" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7242"
+       id="linearGradient35962"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.69823621,0,0,0.69823621,10.756824,454.33185)"
+       x1="364.69113"
+       y1="477.2027"
+       x2="364.69113"
+       y2="171.92239" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12522-6"
+       id="radialGradient35948-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0000001,3.0819194e-8,-1.4332559e-8,0.46505307,104.70126,509.14658)"
+       cx="648.71234"
+       cy="215.17267"
+       fx="648.71234"
+       fy="215.17267"
+       r="230.25089" />
+    <linearGradient
+       id="linearGradient12522-6">
+      <stop
+         style="stop-color:#e9db28;stop-opacity:1;"
+         offset="0"
+         id="stop12524-6" />
+      <stop
+         style="stop-color:#1170ac;stop-opacity:0.64999998;"
+         offset="1"
+         id="stop12526-1" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12522-6"
+       id="radialGradient35950-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0000002,2.9854169e-8,0,0.27509792,520.16497,496.49757)"
+       cx="233.24866"
+       cy="409.72949"
+       fx="233.24866"
+       fy="409.72949"
+       r="230.25089" />
+    <linearGradient
+       id="linearGradient35990">
+      <stop
+         style="stop-color:#e9db28;stop-opacity:1;"
+         offset="0"
+         id="stop35992" />
+      <stop
+         style="stop-color:#2324d0;stop-opacity:1;"
+         offset="1"
+         id="stop35994" />
+    </linearGradient>
+    <radialGradient
+       r="230.25089"
+       fy="215.17267"
+       fx="648.71234"
+       cy="215.17267"
+       cx="648.71234"
+       gradientTransform="matrix(1.0000001,3.0819194e-8,-1.4332559e-8,0.46505307,-421.44698,509.14657)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient35997"
+       xlink:href="#linearGradient12522-6"
+       inkscape:collect="always" />
+    <radialGradient
+       r="230.25089"
+       fy="409.72949"
+       fx="233.24866"
+       cy="409.72949"
+       cx="233.24866"
+       gradientTransform="matrix(1.0000002,2.9854169e-8,0,0.27509792,-5.9832641,496.49756)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient35999"
+       xlink:href="#linearGradient12522-6"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7242"
+       id="linearGradient135112"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.69823621,0,0,0.69823621,10.756824,454.33185)"
+       x1="364.69113"
+       y1="477.2027"
+       x2="364.69113"
+       y2="171.92239" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7242"
+       id="linearGradient135116"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.69823621,0,0,0.69823621,536.90508,454.33185)"
+       x1="364.69113"
+       y1="477.2027"
+       x2="364.69113"
+       y2="171.92239" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12522"
+       id="radialGradient135296"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0000001,3.0819194e-8,-1.4332559e-8,0.46505307,104.70126,509.14658)"
+       cx="648.71234"
+       cy="215.17267"
+       fx="648.71234"
+       fy="215.17267"
+       r="230.25089" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12522"
+       id="radialGradient135298"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0000002,2.9854169e-8,0,0.27509792,520.16497,496.49757)"
+       cx="233.24866"
+       cy="409.72949"
+       fx="233.24866"
+       fy="409.72949"
+       r="230.25089" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12522-6"
+       id="radialGradient135314"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0000001,3.0819194e-8,-1.4332559e-8,0.46505307,-421.44698,509.14657)"
+       cx="648.71234"
+       cy="215.17267"
+       fx="648.71234"
+       fy="215.17267"
+       r="230.25089" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12522-6"
+       id="radialGradient135316"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0000002,2.9854169e-8,0,0.27509792,-5.9832641,496.49756)"
+       cx="233.24866"
+       cy="409.72949"
+       fx="233.24866"
+       fy="409.72949"
+       r="230.25089" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Anomalie des Wassers</dc:title>
+        <dc:date>2012-04-27</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Waermelehre</rdf:li>
+            <rdf:li>Anomalie</rdf:li>
+            <rdf:li>Wasser</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <flowRoot
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+       id="flowRoot4217"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4219"><rect
+           y="-161.51173"
+           x="254.70175"
+           height="32.524105"
+           width="19.852375"
+           id="rect4221" /></flowRegion><flowPara
+         id="flowPara4223" /></flowRoot>    <rect
+       y="574.37427"
+       x="35.646515"
+       height="213.15776"
+       width="459.50177"
+       id="rect6387"
+       style="opacity:0.5;color:#000000;fill:#d5d5ff;stroke:#1a1a1a;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect12096"
+       width="1022.2546"
+       height="286.95929"
+       x="18.842581"
+       y="540.48883"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       y="574.37427"
+       x="35.646503"
+       height="213.15776"
+       width="459.50177"
+       id="rect12520-5"
+       style="opacity:0.4;color:#000000;fill:url(#radialGradient135314);fill-opacity:1;stroke:url(#radialGradient135316);stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path12299"
+       id="use12301"
+       transform="translate(-527.38466,0)"
+       width="1052.3622"
+       height="744.09448"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6393"
+       d="m 113.62854,671.28185 330.93489,0 0.49748,20.1546 -331.67244,0 z"
+       style="opacity:0.8;fill:#d5e5ff;stroke:none"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6395"
+       d="m 135.77421,690.12869 296.01353,0 -1.28765,19.1546 -294.29137,0 z"
+       style="opacity:0.8;fill:#aaccff;stroke:#2c2ca0;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6397"
+       d="m 421.8266,709.28329 -269.37278,0 2.01301,19.15461 267.35977,0 z"
+       style="opacity:0.8;fill:#5599ff;stroke:#2c2ca0;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6399"
+       d="m 170.69739,728.4379 238.73761,0 0.24141,18.24956 -239.21354,0 z"
+       style="opacity:0.8;fill:#0066ff;stroke:#2c2ca0;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6401"
+       d="m 192.00475,746.68746 198.47923,0 0,30.95255 -199.90099,0 z"
+       style="opacity:0.8;fill:#0055d4;stroke:#2c2ca0;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cssc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 226.76015,652.75514 c -0.39741,-7.56403 49.24619,-4.36977 62.56963,-7.2219 20.52988,-4.39479 34.82301,-11.09941 27.53593,1.74371 -2.62665,4.62934 66.45237,-3.77432 77.00376,2.25626 l -39.3056,20.45192 -110.70562,-0.011 z"
+       inkscape:path-effect="#path-effect7500"
+       id="path6407"
+       d="m 226.76015,652.75514 c 20.37405,-5.35404 41.5116,-7.79377 62.56963,-7.2219 9.19461,0.2497 18.36269,1.06928 27.53593,1.74371 25.61811,1.88349 51.31931,2.63655 77.00376,2.25626 l -39.3056,20.45192 -110.70562,-0.011 -17.0981,-17.21899"
+       style="fill:#d7eef4;stroke:#6f8a91;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cssssssc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 78.405696,645.85234 c 10.081576,-1.37471 9.755109,-0.41017 18.507709,-4.78647 8.483965,-4.24198 26.094335,2.30543 30.633455,-2.23369 0.97598,-0.97599 6.21215,-1.43252 7.65836,-1.91459 27.84537,-9.28179 50.54212,-3.28825 76.90273,9.89206 6.39015,3.19507 14.86771,7.08322 21.3796,9.25385 4.89912,1.63304 8.99411,0.98697 13.40213,3.19098 13.93707,6.96854 58.35452,-0.18897 60.62871,10.7196 l -193.88985,1.30777 z"
+       inkscape:path-effect="#path-effect7497"
+       id="path6403"
+       d="m 78.405696,645.85234 c 5.911655,-2.43167 12.158367,-4.04719 18.507709,-4.78647 10.180995,-1.18541 20.601515,-0.13177 30.633455,-2.23369 2.57567,-0.53966 5.10352,-1.28361 7.65836,-1.91459 25.5669,-6.31434 52.91559,-0.97782 76.90273,9.89206 7.07843,3.20762 13.97363,6.89913 21.3796,9.25385 4.37885,1.39225 8.89393,2.30284 13.40213,3.19098 20.13727,3.96716 40.35197,7.54127 60.62871,10.7196 l -193.88985,1.30777 -35.222844,-25.42951"
+       style="fill:#d7eef4;stroke:#6f8a91;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="ccssccc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 344.83364,669.98416 c 16.87138,2.69118 23.37875,-8.67523 34.1628,-14.55886 12.12575,-6.38197 20.81787,-6.57975 29.99526,-11.16845 7.03655,-3.51827 16.39144,-5.18292 22.97509,-6.06286 24.19997,-3.23449 44.588,7.0671 63.82779,-2.55279 l -10.86566,35.21429 z"
+       inkscape:path-effect="#path-effect7494"
+       id="path6411"
+       d="m 344.83364,669.98416 c 11.30882,-5.0351 22.69837,-9.88889 34.1628,-14.55886 9.88324,-4.02588 19.83053,-7.91817 29.99526,-11.16845 7.54785,-2.41351 15.21222,-4.47138 22.97509,-6.06286 20.95088,-4.29518 42.6008,-5.16107 63.82779,-2.55279 l -10.86566,35.21429 -140.09528,-0.87133"
+       style="fill:#d7eef4;fill-opacity:1;stroke:#6f8a91;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="opacity:0.2;color:#000000;fill:#0066ff;stroke:#1a1a1a;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7464"
+       width="459.50177"
+       height="213.15776"
+       x="561.79474"
+       y="574.37427"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#32b332;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 870.9819,669.98416 c 11.30882,-5.0351 22.69837,-9.88889 34.1628,-14.55886 9.88324,-4.02588 19.83053,-7.91817 29.99526,-11.16845 7.54785,-2.41351 15.21222,-4.47138 22.97509,-6.06286 20.95087,-4.29518 42.60075,-5.16107 63.82775,-2.55279 l -10.8656,35.21429 -140.0953,-0.87133"
+       id="path7480"
+       inkscape:path-effect="#path-effect6413"
+       inkscape:original-d="m 870.9819,669.98416 c 16.87138,2.69118 23.37875,-8.67523 34.1628,-14.55886 12.12575,-6.38197 20.81787,-6.57975 29.99526,-11.16845 7.03655,-3.51827 16.39144,-5.18292 22.97509,-6.06286 24.19997,-3.23449 44.58805,7.0671 63.82775,-2.55279 l -10.8656,35.21429 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#2a9a2a;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 752.90841,652.75514 c 20.37405,-5.35404 41.5116,-7.79377 62.56963,-7.2219 9.19461,0.2497 18.36269,1.06928 27.53593,1.74371 25.61811,1.88349 51.31931,2.63655 77.00376,2.25626 l -39.3056,20.45192 -110.70562,-0.011 -17.0981,-17.21899"
+       id="path7476"
+       inkscape:path-effect="#path-effect6409"
+       inkscape:original-d="m 752.90841,652.75514 c -0.39741,-7.56403 49.24619,-4.36977 62.56963,-7.2219 20.52988,-4.39479 34.82301,-11.09941 27.53593,1.74371 -2.62665,4.62934 66.45237,-3.77432 77.00376,2.25626 l -39.3056,20.45192 -110.70562,-0.011 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#32b332;fill-opacity:1;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 604.55396,645.85234 c 5.91166,-2.43167 12.15837,-4.04719 18.50771,-4.78647 10.18099,-1.18541 20.60151,-0.13177 30.63345,-2.23369 2.57567,-0.53966 5.10352,-1.28361 7.65836,-1.91459 25.5669,-6.31434 52.91559,-0.97782 76.90273,9.89206 7.07843,3.20762 13.97363,6.89913 21.3796,9.25385 4.37885,1.39225 8.89393,2.30284 13.40213,3.19098 20.13727,3.96716 40.35197,7.54127 60.62871,10.7196 l -193.88985,1.30777 -35.22284,-25.42951"
+       id="path7478"
+       inkscape:path-effect="#path-effect6405"
+       inkscape:original-d="m 604.55396,645.85234 c 10.08157,-1.37471 9.75511,-0.41017 18.50771,-4.78647 8.48396,-4.24198 26.09433,2.30543 30.63345,-2.23369 0.97598,-0.97599 6.21215,-1.43252 7.65836,-1.91459 27.84537,-9.28179 50.54212,-3.28825 76.90273,9.89206 6.39015,3.19507 14.86771,7.08322 21.3796,9.25385 4.89912,1.63304 8.99411,0.98697 13.40213,3.19098 13.93707,6.96854 58.35452,-0.18897 60.62871,10.7196 l -193.88985,1.30777 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssssc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       y="574.37427"
+       x="561.79474"
+       height="213.15776"
+       width="459.50177"
+       id="rect12520"
+       style="opacity:0.4;color:#000000;fill:url(#radialGradient135296);fill-opacity:1;stroke:url(#radialGradient135298);stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="opacity:0.8;fill:#d5e5ff;stroke:#000080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 639.04042,669.97409 330.93489,0 0.49748,20.1546 -331.67244,0 z"
+       id="path7466"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="opacity:0.8;fill:#aaccff;stroke:#0044aa;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 661.92247,690.12869 296.01353,0 -1.28765,19.1546 -294.29137,0 z"
+       id="path7468"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="opacity:0.8;fill:#5599ff;stroke:#0044aa;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 947.97486,709.28329 -269.37278,0 2.01301,19.15461 267.35977,0 z"
+       id="path7470"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="opacity:0.8;fill:#0066ff;stroke:#0044aa;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 696.84565,728.4379 238.73761,0 0.24141,18.24956 -239.21354,0 z"
+       id="path7472"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="opacity:0.8;fill:#0055d4;stroke:#0044aa;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 718.15301,746.68746 198.47923,0 0,30.95255 -199.90099,0 z"
+       id="path7474"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="opacity:0.7;fill:#d7e3f4;fill-opacity:1;stroke:#5f8dd3;stroke-width:0.98574209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter12601)"
+       d="m 950.77836,598.00004 c 3.05409,-3.97302 7.99971,-6.42221 13.01089,-6.4433 5.01118,-0.0211 9.97723,2.38639 13.06465,6.33357 l -3.1488,24.41401 c -2.88222,1.87355 -6.33983,2.84827 -9.77623,2.75598 -3.43641,-0.0923 -6.83671,-1.2512 -9.61421,-3.27676 -3.60897,-2.63193 -6.11666,-6.73617 -6.78308,-11.15292 -0.66643,-4.41675 0.52453,-9.08924 3.24678,-12.63058"
+       id="path12291"
+       inkscape:path-effect="#path-effect12293"
+       inkscape:original-d="m 950.77836,598.00004 c 14.46939,-12.69714 16.79127,0.0748 26.07554,-0.10973 47.8094,-7.66391 13.1604,21.46518 -3.1488,24.41401 -2.44073,0.65399 -18.12916,-0.35568 -19.39044,-0.52078 -13.32137,-1.74381 -11.05444,-16.91643 -3.5363,-23.7835 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsc"
+       transform="matrix(-0.71733446,-0.71733445,0.71733445,-0.71733446,1203.4429,1735.4276)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g7797"
+       transform="matrix(1.6201916,0,0,1.6201916,-99.532903,545.19609)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$\\unit[4]{^o C}$"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs7799">
+        <g
+           id="g7801">
+          <symbol
+             id="textext-66ac6cf0-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path7804"
+               d="m 2.9375,-1.640625 0,0.859375 c 0,0.359375 -0.03125,0.46875 -0.765625,0.46875 l -0.203125,0 0,0.3125 C 2.375,-0.03125 2.890625,-0.03125 3.3125,-0.03125 c 0.421875,0 0.9375,0 1.359375,0.03125 l 0,-0.3125 -0.21875,0 c -0.734375,0 -0.75,-0.109375 -0.75,-0.46875 l 0,-0.859375 0.984375,0 0,-0.3125 -0.984375,0 0,-4.53125 c 0,-0.203125 0,-0.265625 -0.171875,-0.265625 -0.078125,0 -0.109375,0 -0.1875,0.125 l -3.0625,4.671875 0,0.3125 z m 0.046875,-0.3125 -2.421875,0 2.421875,-3.71875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-66ac6cf0-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path7807"
+               d="m 0.5625,-3.40625 c 0,2.0625 1.609375,3.625 3.46875,3.625 1.625,0 2.59375,-1.390625 2.59375,-2.546875 C 6.625,-2.421875 6.625,-2.5 6.5,-2.5 6.390625,-2.5 6.390625,-2.4375 6.375,-2.328125 6.296875,-0.90625 5.234375,-0.09375 4.140625,-0.09375 c -0.609375,0 -2.5625,-0.328125 -2.5625,-3.3125 0,-2.96875 1.953125,-3.3125 2.5625,-3.3125 1.078125,0 1.96875,0.90625 2.171875,2.359375 0.015625,0.140625 0.015625,0.171875 0.15625,0.171875 0.15625,0 0.15625,-0.03125 0.15625,-0.234375 l 0,-2.359375 c 0,-0.171875 0,-0.25 -0.109375,-0.25 -0.03125,0 -0.078125,0 -0.15625,0.125 l -0.5,0.734375 C 5.5,-6.53125 4.984375,-7.03125 4.03125,-7.03125 c -1.875,0 -3.46875,1.59375 -3.46875,3.625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-66ac6cf0-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path7810"
+               d="m 3.6875,-1.484375 c 0,-0.875 -0.75,-1.625 -1.703125,-1.625 -0.96875,0 -1.71875,0.75 -1.71875,1.625 0,0.859375 0.765625,1.546875 1.71875,1.546875 0.9375,0 1.703125,-0.6875 1.703125,-1.546875 z M 1.984375,-0.15625 c -0.265625,0 -0.640625,-0.078125 -0.875,-0.421875 -0.1875,-0.28125 -0.203125,-0.640625 -0.203125,-0.96875 0,-0.296875 0,-0.71875 0.25,-1.015625 0.171875,-0.203125 0.46875,-0.34375 0.828125,-0.34375 0.40625,0 0.703125,0.1875 0.859375,0.40625 0.1875,0.265625 0.203125,0.625 0.203125,0.953125 0,0.328125 -0.015625,0.703125 -0.21875,0.984375 -0.1875,0.265625 -0.5,0.40625 -0.84375,0.40625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-66ac6cf0-3">
+        <g
+           id="g7813"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use7815"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-66ac6cf0-0"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g7817"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use7819"
+             y="131.149"
+             x="230.07401"
+             xlink:href="#textext-66ac6cf0-2"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g7821"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use7823"
+             y="134.765"
+             x="234.543"
+             xlink:href="#textext-66ac6cf0-1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$\\unit[3]{^o C}$"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(1.6201916,0,0,1.6201916,-99.532903,525.65904)"
+       id="g8059"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs8061">
+        <g
+           id="g8063">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-f6273302-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.890625,-3.515625 c 0.8125,-0.265625 1.390625,-0.953125 1.390625,-1.75 0,-0.8125 -0.875,-1.375 -1.828125,-1.375 -1,0 -1.765625,0.59375 -1.765625,1.359375 0,0.328125 0.21875,0.515625 0.515625,0.515625 0.296875,0 0.5,-0.21875 0.5,-0.515625 0,-0.484375 -0.46875,-0.484375 -0.609375,-0.484375 0.296875,-0.5 0.953125,-0.625 1.3125,-0.625 0.421875,0 0.96875,0.21875 0.96875,1.109375 0,0.125 -0.03125,0.703125 -0.28125,1.140625 C 2.796875,-3.65625 2.453125,-3.625 2.203125,-3.625 2.125,-3.609375 1.890625,-3.59375 1.8125,-3.59375 c -0.078125,0.015625 -0.140625,0.03125 -0.140625,0.125 0,0.109375 0.0625,0.109375 0.234375,0.109375 l 0.4375,0 c 0.8125,0 1.1875,0.671875 1.1875,1.65625 0,1.359375 -0.6875,1.640625 -1.125,1.640625 -0.4375,0 -1.1875,-0.171875 -1.53125,-0.75 0.34375,0.046875 0.65625,-0.171875 0.65625,-0.546875 0,-0.359375 -0.265625,-0.5625 -0.546875,-0.5625 -0.25,0 -0.5625,0.140625 -0.5625,0.578125 0,0.90625 0.921875,1.5625 2.015625,1.5625 1.21875,0 2.125,-0.90625 2.125,-1.921875 0,-0.8125 -0.640625,-1.59375 -1.671875,-1.8125 z m 0,0"
+               id="path8066" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-f6273302-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 0.5625,-3.40625 c 0,2.0625 1.609375,3.625 3.46875,3.625 1.625,0 2.59375,-1.390625 2.59375,-2.546875 C 6.625,-2.421875 6.625,-2.5 6.5,-2.5 6.390625,-2.5 6.390625,-2.4375 6.375,-2.328125 6.296875,-0.90625 5.234375,-0.09375 4.140625,-0.09375 c -0.609375,0 -2.5625,-0.328125 -2.5625,-3.3125 0,-2.96875 1.953125,-3.3125 2.5625,-3.3125 1.078125,0 1.96875,0.90625 2.171875,2.359375 0.015625,0.140625 0.015625,0.171875 0.15625,0.171875 0.15625,0 0.15625,-0.03125 0.15625,-0.234375 l 0,-2.359375 c 0,-0.171875 0,-0.25 -0.109375,-0.25 -0.03125,0 -0.078125,0 -0.15625,0.125 l -0.5,0.734375 C 5.5,-6.53125 4.984375,-7.03125 4.03125,-7.03125 c -1.875,0 -3.46875,1.59375 -3.46875,3.625 z m 0,0"
+               id="path8069" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-f6273302-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.6875,-1.484375 c 0,-0.875 -0.75,-1.625 -1.703125,-1.625 -0.96875,0 -1.71875,0.75 -1.71875,1.625 0,0.859375 0.765625,1.546875 1.71875,1.546875 0.9375,0 1.703125,-0.6875 1.703125,-1.546875 z M 1.984375,-0.15625 c -0.265625,0 -0.640625,-0.078125 -0.875,-0.421875 -0.1875,-0.28125 -0.203125,-0.640625 -0.203125,-0.96875 0,-0.296875 0,-0.71875 0.25,-1.015625 0.171875,-0.203125 0.46875,-0.34375 0.828125,-0.34375 0.40625,0 0.703125,0.1875 0.859375,0.40625 0.1875,0.265625 0.203125,0.625 0.203125,0.953125 0,0.328125 -0.015625,0.703125 -0.21875,0.984375 -0.1875,0.265625 -0.5,0.40625 -0.84375,0.40625 z m 0,0"
+               id="path8072" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-f6273302-3">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g8075">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-f6273302-0"
+             x="223.43201"
+             y="134.765"
+             id="use8077" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g8079">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-f6273302-2"
+             x="230.07401"
+             y="131.149"
+             id="use8081" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g8083">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-f6273302-1"
+             x="234.543"
+             y="134.765"
+             id="use8085" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g8353"
+       transform="matrix(1.6201916,0,0,1.6201916,-99.532903,506.122)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$\\unit[2]{^o C}$"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs8355">
+        <g
+           id="g8357">
+          <symbol
+             style="overflow:visible"
+             id="textext-b1dbeb5b-0"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path8360"
+               d="m 1.265625,-0.765625 1.0625,-1.03125 c 1.546875,-1.375 2.140625,-1.90625 2.140625,-2.90625 0,-1.140625 -0.890625,-1.9375 -2.109375,-1.9375 -1.125,0 -1.859375,0.921875 -1.859375,1.8125 0,0.546875 0.5,0.546875 0.53125,0.546875 0.171875,0 0.515625,-0.109375 0.515625,-0.53125 0,-0.25 -0.1875,-0.515625 -0.53125,-0.515625 -0.078125,0 -0.09375,0 -0.125,0.015625 0.21875,-0.65625 0.765625,-1.015625 1.34375,-1.015625 0.90625,0 1.328125,0.8125 1.328125,1.625 C 3.5625,-3.90625 3.078125,-3.125 2.515625,-2.5 l -1.90625,2.125 C 0.5,-0.265625 0.5,-0.234375 0.5,0 l 3.703125,0 0.265625,-1.734375 -0.234375,0 C 4.171875,-1.4375 4.109375,-1 4,-0.84375 3.9375,-0.765625 3.28125,-0.765625 3.0625,-0.765625 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-b1dbeb5b-1"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path8363"
+               d="m 0.5625,-3.40625 c 0,2.0625 1.609375,3.625 3.46875,3.625 1.625,0 2.59375,-1.390625 2.59375,-2.546875 C 6.625,-2.421875 6.625,-2.5 6.5,-2.5 6.390625,-2.5 6.390625,-2.4375 6.375,-2.328125 6.296875,-0.90625 5.234375,-0.09375 4.140625,-0.09375 c -0.609375,0 -2.5625,-0.328125 -2.5625,-3.3125 0,-2.96875 1.953125,-3.3125 2.5625,-3.3125 1.078125,0 1.96875,0.90625 2.171875,2.359375 0.015625,0.140625 0.015625,0.171875 0.15625,0.171875 0.15625,0 0.15625,-0.03125 0.15625,-0.234375 l 0,-2.359375 c 0,-0.171875 0,-0.25 -0.109375,-0.25 -0.03125,0 -0.078125,0 -0.15625,0.125 l -0.5,0.734375 C 5.5,-6.53125 4.984375,-7.03125 4.03125,-7.03125 c -1.875,0 -3.46875,1.59375 -3.46875,3.625 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-b1dbeb5b-2"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path8366"
+               d="m 3.6875,-1.484375 c 0,-0.875 -0.75,-1.625 -1.703125,-1.625 -0.96875,0 -1.71875,0.75 -1.71875,1.625 0,0.859375 0.765625,1.546875 1.71875,1.546875 0.9375,0 1.703125,-0.6875 1.703125,-1.546875 z M 1.984375,-0.15625 c -0.265625,0 -0.640625,-0.078125 -0.875,-0.421875 -0.1875,-0.28125 -0.203125,-0.640625 -0.203125,-0.96875 0,-0.296875 0,-0.71875 0.25,-1.015625 0.171875,-0.203125 0.46875,-0.34375 0.828125,-0.34375 0.40625,0 0.703125,0.1875 0.859375,0.40625 0.1875,0.265625 0.203125,0.625 0.203125,0.953125 0,0.328125 -0.015625,0.703125 -0.21875,0.984375 -0.1875,0.265625 -0.5,0.40625 -0.84375,0.40625 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-b1dbeb5b-3">
+        <g
+           id="g8369"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use8371"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-b1dbeb5b-0" />
+        </g>
+        <g
+           id="g8373"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use8375"
+             y="131.149"
+             x="230.07401"
+             xlink:href="#textext-b1dbeb5b-2" />
+        </g>
+        <g
+           id="g8377"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use8379"
+             y="134.765"
+             x="234.543"
+             xlink:href="#textext-b1dbeb5b-1" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$\\unit[1]{^o C}$"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(1.6201916,0,0,1.6201916,-99.532903,486.58495)"
+       id="g8679"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs8681">
+        <g
+           id="g8683">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-fec2be2e-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.9375,-6.375 c 0,-0.25 0,-0.265625 -0.234375,-0.265625 C 2.078125,-6 1.203125,-6 0.890625,-6 l 0,0.3125 c 0.203125,0 0.78125,0 1.296875,-0.265625 l 0,5.171875 c 0,0.359375 -0.03125,0.46875 -0.921875,0.46875 l -0.3125,0 0,0.3125 c 0.34375,-0.03125 1.203125,-0.03125 1.609375,-0.03125 0.390625,0 1.265625,0 1.609375,0.03125 l 0,-0.3125 -0.3125,0 c -0.90625,0 -0.921875,-0.109375 -0.921875,-0.46875 z m 0,0"
+               id="path8686" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-fec2be2e-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 0.5625,-3.40625 c 0,2.0625 1.609375,3.625 3.46875,3.625 1.625,0 2.59375,-1.390625 2.59375,-2.546875 C 6.625,-2.421875 6.625,-2.5 6.5,-2.5 6.390625,-2.5 6.390625,-2.4375 6.375,-2.328125 6.296875,-0.90625 5.234375,-0.09375 4.140625,-0.09375 c -0.609375,0 -2.5625,-0.328125 -2.5625,-3.3125 0,-2.96875 1.953125,-3.3125 2.5625,-3.3125 1.078125,0 1.96875,0.90625 2.171875,2.359375 0.015625,0.140625 0.015625,0.171875 0.15625,0.171875 0.15625,0 0.15625,-0.03125 0.15625,-0.234375 l 0,-2.359375 c 0,-0.171875 0,-0.25 -0.109375,-0.25 -0.03125,0 -0.078125,0 -0.15625,0.125 l -0.5,0.734375 C 5.5,-6.53125 4.984375,-7.03125 4.03125,-7.03125 c -1.875,0 -3.46875,1.59375 -3.46875,3.625 z m 0,0"
+               id="path8689" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-fec2be2e-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.6875,-1.484375 c 0,-0.875 -0.75,-1.625 -1.703125,-1.625 -0.96875,0 -1.71875,0.75 -1.71875,1.625 0,0.859375 0.765625,1.546875 1.71875,1.546875 0.9375,0 1.703125,-0.6875 1.703125,-1.546875 z M 1.984375,-0.15625 c -0.265625,0 -0.640625,-0.078125 -0.875,-0.421875 -0.1875,-0.28125 -0.203125,-0.640625 -0.203125,-0.96875 0,-0.296875 0,-0.71875 0.25,-1.015625 0.171875,-0.203125 0.46875,-0.34375 0.828125,-0.34375 0.40625,0 0.703125,0.1875 0.859375,0.40625 0.1875,0.265625 0.203125,0.625 0.203125,0.953125 0,0.328125 -0.015625,0.703125 -0.21875,0.984375 -0.1875,0.265625 -0.5,0.40625 -0.84375,0.40625 z m 0,0"
+               id="path8692" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-fec2be2e-3">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g8695">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-fec2be2e-0"
+             x="223.43201"
+             y="134.765"
+             id="use8697" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g8699">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-fec2be2e-2"
+             x="230.07401"
+             y="131.149"
+             id="use8701" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g8703">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-fec2be2e-1"
+             x="234.543"
+             y="134.765"
+             id="use8705" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$\\unit[0]{^o C}$"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(1.6201916,0,0,1.6201916,-99.532903,467.0479)"
+       id="g9422"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs9424">
+        <g
+           id="g9426">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4f67f1ed-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 4.578125,-3.1875 c 0,-0.796875 -0.046875,-1.59375 -0.390625,-2.328125 -0.453125,-0.96875 -1.28125,-1.125 -1.6875,-1.125 -0.609375,0 -1.328125,0.265625 -1.75,1.1875 -0.3125,0.6875 -0.359375,1.46875 -0.359375,2.265625 0,0.75 0.03125,1.640625 0.453125,2.40625 0.421875,0.796875 1.15625,1 1.640625,1 0.53125,0 1.296875,-0.203125 1.734375,-1.15625 0.3125,-0.6875 0.359375,-1.46875 0.359375,-2.25 z M 2.484375,0 C 2.09375,0 1.5,-0.25 1.328125,-1.203125 1.21875,-1.796875 1.21875,-2.71875 1.21875,-3.3125 c 0,-0.640625 0,-1.296875 0.078125,-1.828125 0.1875,-1.1875 0.9375,-1.28125 1.1875,-1.28125 0.328125,0 0.984375,0.1875 1.171875,1.171875 0.109375,0.5625 0.109375,1.3125 0.109375,1.9375 0,0.75 0,1.421875 -0.109375,2.0625 C 3.5,-0.296875 2.9375,0 2.484375,0 z m 0,0"
+               id="path9429" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4f67f1ed-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 0.5625,-3.40625 c 0,2.0625 1.609375,3.625 3.46875,3.625 1.625,0 2.59375,-1.390625 2.59375,-2.546875 C 6.625,-2.421875 6.625,-2.5 6.5,-2.5 6.390625,-2.5 6.390625,-2.4375 6.375,-2.328125 6.296875,-0.90625 5.234375,-0.09375 4.140625,-0.09375 c -0.609375,0 -2.5625,-0.328125 -2.5625,-3.3125 0,-2.96875 1.953125,-3.3125 2.5625,-3.3125 1.078125,0 1.96875,0.90625 2.171875,2.359375 0.015625,0.140625 0.015625,0.171875 0.15625,0.171875 0.15625,0 0.15625,-0.03125 0.15625,-0.234375 l 0,-2.359375 c 0,-0.171875 0,-0.25 -0.109375,-0.25 -0.03125,0 -0.078125,0 -0.15625,0.125 l -0.5,0.734375 C 5.5,-6.53125 4.984375,-7.03125 4.03125,-7.03125 c -1.875,0 -3.46875,1.59375 -3.46875,3.625 z m 0,0"
+               id="path9432" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4f67f1ed-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.6875,-1.484375 c 0,-0.875 -0.75,-1.625 -1.703125,-1.625 -0.96875,0 -1.71875,0.75 -1.71875,1.625 0,0.859375 0.765625,1.546875 1.71875,1.546875 0.9375,0 1.703125,-0.6875 1.703125,-1.546875 z M 1.984375,-0.15625 c -0.265625,0 -0.640625,-0.078125 -0.875,-0.421875 -0.1875,-0.28125 -0.203125,-0.640625 -0.203125,-0.96875 0,-0.296875 0,-0.71875 0.25,-1.015625 0.171875,-0.203125 0.46875,-0.34375 0.828125,-0.34375 0.40625,0 0.703125,0.1875 0.859375,0.40625 0.1875,0.265625 0.203125,0.625 0.203125,0.953125 0,0.328125 -0.015625,0.703125 -0.21875,0.984375 -0.1875,0.265625 -0.5,0.40625 -0.84375,0.40625 z m 0,0"
+               id="path9435" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-4f67f1ed-3">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g9438">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-4f67f1ed-0"
+             x="223.43201"
+             y="134.765"
+             id="use9440" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g9442">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-4f67f1ed-2"
+             x="230.07401"
+             y="131.149"
+             id="use9444" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g9446">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-4f67f1ed-1"
+             x="234.543"
+             y="134.765"
+             id="use9448" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$\\unit[4]{^o C}$"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(1.6201916,0,0,1.6201916,432.38131,545.19609)"
+       id="g9616"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs9618">
+        <g
+           id="g9620">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol9622">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.9375,-1.640625 0,0.859375 c 0,0.359375 -0.03125,0.46875 -0.765625,0.46875 l -0.203125,0 0,0.3125 C 2.375,-0.03125 2.890625,-0.03125 3.3125,-0.03125 c 0.421875,0 0.9375,0 1.359375,0.03125 l 0,-0.3125 -0.21875,0 c -0.734375,0 -0.75,-0.109375 -0.75,-0.46875 l 0,-0.859375 0.984375,0 0,-0.3125 -0.984375,0 0,-4.53125 c 0,-0.203125 0,-0.265625 -0.171875,-0.265625 -0.078125,0 -0.109375,0 -0.1875,0.125 l -3.0625,4.671875 0,0.3125 z m 0.046875,-0.3125 -2.421875,0 2.421875,-3.71875 z m 0,0"
+               id="path9624" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol9626">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 0.5625,-3.40625 c 0,2.0625 1.609375,3.625 3.46875,3.625 1.625,0 2.59375,-1.390625 2.59375,-2.546875 C 6.625,-2.421875 6.625,-2.5 6.5,-2.5 6.390625,-2.5 6.390625,-2.4375 6.375,-2.328125 6.296875,-0.90625 5.234375,-0.09375 4.140625,-0.09375 c -0.609375,0 -2.5625,-0.328125 -2.5625,-3.3125 0,-2.96875 1.953125,-3.3125 2.5625,-3.3125 1.078125,0 1.96875,0.90625 2.171875,2.359375 0.015625,0.140625 0.015625,0.171875 0.15625,0.171875 0.15625,0 0.15625,-0.03125 0.15625,-0.234375 l 0,-2.359375 c 0,-0.171875 0,-0.25 -0.109375,-0.25 -0.03125,0 -0.078125,0 -0.15625,0.125 l -0.5,0.734375 C 5.5,-6.53125 4.984375,-7.03125 4.03125,-7.03125 c -1.875,0 -3.46875,1.59375 -3.46875,3.625 z m 0,0"
+               id="path9628" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol9630">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.6875,-1.484375 c 0,-0.875 -0.75,-1.625 -1.703125,-1.625 -0.96875,0 -1.71875,0.75 -1.71875,1.625 0,0.859375 0.765625,1.546875 1.71875,1.546875 0.9375,0 1.703125,-0.6875 1.703125,-1.546875 z M 1.984375,-0.15625 c -0.265625,0 -0.640625,-0.078125 -0.875,-0.421875 -0.1875,-0.28125 -0.203125,-0.640625 -0.203125,-0.96875 0,-0.296875 0,-0.71875 0.25,-1.015625 0.171875,-0.203125 0.46875,-0.34375 0.828125,-0.34375 0.40625,0 0.703125,0.1875 0.859375,0.40625 0.1875,0.265625 0.203125,0.625 0.203125,0.953125 0,0.328125 -0.015625,0.703125 -0.21875,0.984375 -0.1875,0.265625 -0.5,0.40625 -0.84375,0.40625 z m 0,0"
+               id="path9632" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g9634">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g9636">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-66ac6cf0-0"
+             x="223.43201"
+             y="134.765"
+             id="use9638" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g9640">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-66ac6cf0-2"
+             x="230.07401"
+             y="131.149"
+             id="use9642" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g9644">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-66ac6cf0-1"
+             x="234.543"
+             y="134.765"
+             id="use9646" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$\\unit[20]{^o C}$"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(1.6201916,0,0,1.6201916,428.16821,467.0479)"
+       id="g10279"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs10281">
+        <g
+           id="g10283">
+          <symbol
+             overflow="visible"
+             id="textext-ff514044-0"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 1.265625,-0.765625 1.0625,-1.03125 c 1.546875,-1.375 2.140625,-1.90625 2.140625,-2.90625 0,-1.140625 -0.890625,-1.9375 -2.109375,-1.9375 -1.125,0 -1.859375,0.921875 -1.859375,1.8125 0,0.546875 0.5,0.546875 0.53125,0.546875 0.171875,0 0.515625,-0.109375 0.515625,-0.53125 0,-0.25 -0.1875,-0.515625 -0.53125,-0.515625 -0.078125,0 -0.09375,0 -0.125,0.015625 0.21875,-0.65625 0.765625,-1.015625 1.34375,-1.015625 0.90625,0 1.328125,0.8125 1.328125,1.625 C 3.5625,-3.90625 3.078125,-3.125 2.515625,-2.5 l -1.90625,2.125 C 0.5,-0.265625 0.5,-0.234375 0.5,0 l 3.703125,0 0.265625,-1.734375 -0.234375,0 C 4.171875,-1.4375 4.109375,-1 4,-0.84375 3.9375,-0.765625 3.28125,-0.765625 3.0625,-0.765625 z m 0,0"
+               id="path10286"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-ff514044-1"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 4.578125,-3.1875 c 0,-0.796875 -0.046875,-1.59375 -0.390625,-2.328125 -0.453125,-0.96875 -1.28125,-1.125 -1.6875,-1.125 -0.609375,0 -1.328125,0.265625 -1.75,1.1875 -0.3125,0.6875 -0.359375,1.46875 -0.359375,2.265625 0,0.75 0.03125,1.640625 0.453125,2.40625 0.421875,0.796875 1.15625,1 1.640625,1 0.53125,0 1.296875,-0.203125 1.734375,-1.15625 0.3125,-0.6875 0.359375,-1.46875 0.359375,-2.25 z M 2.484375,0 C 2.09375,0 1.5,-0.25 1.328125,-1.203125 1.21875,-1.796875 1.21875,-2.71875 1.21875,-3.3125 c 0,-0.640625 0,-1.296875 0.078125,-1.828125 0.1875,-1.1875 0.9375,-1.28125 1.1875,-1.28125 0.328125,0 0.984375,0.1875 1.171875,1.171875 0.109375,0.5625 0.109375,1.3125 0.109375,1.9375 0,0.75 0,1.421875 -0.109375,2.0625 C 3.5,-0.296875 2.9375,0 2.484375,0 z m 0,0"
+               id="path10289"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-ff514044-2"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 0.5625,-3.40625 c 0,2.0625 1.609375,3.625 3.46875,3.625 1.625,0 2.59375,-1.390625 2.59375,-2.546875 C 6.625,-2.421875 6.625,-2.5 6.5,-2.5 6.390625,-2.5 6.390625,-2.4375 6.375,-2.328125 6.296875,-0.90625 5.234375,-0.09375 4.140625,-0.09375 c -0.609375,0 -2.5625,-0.328125 -2.5625,-3.3125 0,-2.96875 1.953125,-3.3125 2.5625,-3.3125 1.078125,0 1.96875,0.90625 2.171875,2.359375 0.015625,0.140625 0.015625,0.171875 0.15625,0.171875 0.15625,0 0.15625,-0.03125 0.15625,-0.234375 l 0,-2.359375 c 0,-0.171875 0,-0.25 -0.109375,-0.25 -0.03125,0 -0.078125,0 -0.15625,0.125 l -0.5,0.734375 C 5.5,-6.53125 4.984375,-7.03125 4.03125,-7.03125 c -1.875,0 -3.46875,1.59375 -3.46875,3.625 z m 0,0"
+               id="path10292"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-ff514044-3"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 3.6875,-1.484375 c 0,-0.875 -0.75,-1.625 -1.703125,-1.625 -0.96875,0 -1.71875,0.75 -1.71875,1.625 0,0.859375 0.765625,1.546875 1.71875,1.546875 0.9375,0 1.703125,-0.6875 1.703125,-1.546875 z M 1.984375,-0.15625 c -0.265625,0 -0.640625,-0.078125 -0.875,-0.421875 -0.1875,-0.28125 -0.203125,-0.640625 -0.203125,-0.96875 0,-0.296875 0,-0.71875 0.25,-1.015625 0.171875,-0.203125 0.46875,-0.34375 0.828125,-0.34375 0.40625,0 0.703125,0.1875 0.859375,0.40625 0.1875,0.265625 0.203125,0.625 0.203125,0.953125 0,0.328125 -0.015625,0.703125 -0.21875,0.984375 -0.1875,0.265625 -0.5,0.40625 -0.84375,0.40625 z m 0,0"
+               id="path10295"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-ff514044-4">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g10298">
+          <use
+             xlink:href="#textext-ff514044-0"
+             x="223.43201"
+             y="134.765"
+             id="use10300"
+             width="1052.3622"
+             height="744.09448" />
+          <use
+             xlink:href="#textext-ff514044-1"
+             x="228.4133"
+             y="134.765"
+             id="use10302"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g10304">
+          <use
+             xlink:href="#textext-ff514044-3"
+             x="235.05499"
+             y="131.149"
+             id="use10306"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g10308">
+          <use
+             xlink:href="#textext-ff514044-2"
+             x="239.52499"
+             y="134.765"
+             id="use10310"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g10752"
+       transform="matrix(1.6201916,0,0,1.6201916,427.85176,506.122)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$\\unit[12]{^o C}$"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs10754">
+        <g
+           id="g10756">
+          <symbol
+             id="textext-5de776e7-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path10759"
+               d="m 2.9375,-6.375 c 0,-0.25 0,-0.265625 -0.234375,-0.265625 C 2.078125,-6 1.203125,-6 0.890625,-6 l 0,0.3125 c 0.203125,0 0.78125,0 1.296875,-0.265625 l 0,5.171875 c 0,0.359375 -0.03125,0.46875 -0.921875,0.46875 l -0.3125,0 0,0.3125 c 0.34375,-0.03125 1.203125,-0.03125 1.609375,-0.03125 0.390625,0 1.265625,0 1.609375,0.03125 l 0,-0.3125 -0.3125,0 c -0.90625,0 -0.921875,-0.109375 -0.921875,-0.46875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-5de776e7-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path10762"
+               d="m 1.265625,-0.765625 1.0625,-1.03125 c 1.546875,-1.375 2.140625,-1.90625 2.140625,-2.90625 0,-1.140625 -0.890625,-1.9375 -2.109375,-1.9375 -1.125,0 -1.859375,0.921875 -1.859375,1.8125 0,0.546875 0.5,0.546875 0.53125,0.546875 0.171875,0 0.515625,-0.109375 0.515625,-0.53125 0,-0.25 -0.1875,-0.515625 -0.53125,-0.515625 -0.078125,0 -0.09375,0 -0.125,0.015625 0.21875,-0.65625 0.765625,-1.015625 1.34375,-1.015625 0.90625,0 1.328125,0.8125 1.328125,1.625 C 3.5625,-3.90625 3.078125,-3.125 2.515625,-2.5 l -1.90625,2.125 C 0.5,-0.265625 0.5,-0.234375 0.5,0 l 3.703125,0 0.265625,-1.734375 -0.234375,0 C 4.171875,-1.4375 4.109375,-1 4,-0.84375 3.9375,-0.765625 3.28125,-0.765625 3.0625,-0.765625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-5de776e7-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path10765"
+               d="m 0.5625,-3.40625 c 0,2.0625 1.609375,3.625 3.46875,3.625 1.625,0 2.59375,-1.390625 2.59375,-2.546875 C 6.625,-2.421875 6.625,-2.5 6.5,-2.5 6.390625,-2.5 6.390625,-2.4375 6.375,-2.328125 6.296875,-0.90625 5.234375,-0.09375 4.140625,-0.09375 c -0.609375,0 -2.5625,-0.328125 -2.5625,-3.3125 0,-2.96875 1.953125,-3.3125 2.5625,-3.3125 1.078125,0 1.96875,0.90625 2.171875,2.359375 0.015625,0.140625 0.015625,0.171875 0.15625,0.171875 0.15625,0 0.15625,-0.03125 0.15625,-0.234375 l 0,-2.359375 c 0,-0.171875 0,-0.25 -0.109375,-0.25 -0.03125,0 -0.078125,0 -0.15625,0.125 l -0.5,0.734375 C 5.5,-6.53125 4.984375,-7.03125 4.03125,-7.03125 c -1.875,0 -3.46875,1.59375 -3.46875,3.625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-5de776e7-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path10768"
+               d="m 3.6875,-1.484375 c 0,-0.875 -0.75,-1.625 -1.703125,-1.625 -0.96875,0 -1.71875,0.75 -1.71875,1.625 0,0.859375 0.765625,1.546875 1.71875,1.546875 0.9375,0 1.703125,-0.6875 1.703125,-1.546875 z M 1.984375,-0.15625 c -0.265625,0 -0.640625,-0.078125 -0.875,-0.421875 -0.1875,-0.28125 -0.203125,-0.640625 -0.203125,-0.96875 0,-0.296875 0,-0.71875 0.25,-1.015625 0.171875,-0.203125 0.46875,-0.34375 0.828125,-0.34375 0.40625,0 0.703125,0.1875 0.859375,0.40625 0.1875,0.265625 0.203125,0.625 0.203125,0.953125 0,0.328125 -0.015625,0.703125 -0.21875,0.984375 -0.1875,0.265625 -0.5,0.40625 -0.84375,0.40625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-5de776e7-4">
+        <g
+           id="g10771"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use10773"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-5de776e7-0"
+             width="1052.3622"
+             height="744.09448" />
+          <use
+             id="use10775"
+             y="134.765"
+             x="228.4133"
+             xlink:href="#textext-5de776e7-1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g10777"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use10779"
+             y="131.149"
+             x="235.05499"
+             xlink:href="#textext-5de776e7-3"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g10781"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use10783"
+             y="134.765"
+             x="239.52499"
+             xlink:href="#textext-5de776e7-2"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$\\unit[16]{^o C}$"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(1.6201916,0,0,1.6201916,427.85176,486.58495)"
+       id="g11263"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs11265">
+        <g
+           id="g11267">
+          <symbol
+             overflow="visible"
+             id="textext-9820bfca-0"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 2.9375,-6.375 c 0,-0.25 0,-0.265625 -0.234375,-0.265625 C 2.078125,-6 1.203125,-6 0.890625,-6 l 0,0.3125 c 0.203125,0 0.78125,0 1.296875,-0.265625 l 0,5.171875 c 0,0.359375 -0.03125,0.46875 -0.921875,0.46875 l -0.3125,0 0,0.3125 c 0.34375,-0.03125 1.203125,-0.03125 1.609375,-0.03125 0.390625,0 1.265625,0 1.609375,0.03125 l 0,-0.3125 -0.3125,0 c -0.90625,0 -0.921875,-0.109375 -0.921875,-0.46875 z m 0,0"
+               id="path11270"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-9820bfca-1"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 1.3125,-3.265625 0,-0.25 c 0,-2.515625 1.234375,-2.875 1.75,-2.875 0.234375,0 0.65625,0.0625 0.875,0.40625 -0.15625,0 -0.546875,0 -0.546875,0.4375 0,0.3125 0.234375,0.46875 0.453125,0.46875 0.15625,0 0.46875,-0.09375 0.46875,-0.484375 0,-0.59375 -0.4375,-1.078125 -1.265625,-1.078125 -1.28125,0 -2.625,1.28125 -2.625,3.484375 0,2.671875 1.15625,3.375 2.078125,3.375 1.109375,0 2.0625,-0.9375 2.0625,-2.25 0,-1.265625 -0.890625,-2.21875 -2,-2.21875 -0.671875,0 -1.046875,0.5 -1.25,0.984375 z M 2.5,-0.0625 c -0.625,0 -0.921875,-0.59375 -0.984375,-0.75 -0.1875,-0.46875 -0.1875,-1.265625 -0.1875,-1.4375 0,-0.78125 0.328125,-1.78125 1.21875,-1.78125 0.171875,0 0.625,0 0.9375,0.625 0.171875,0.359375 0.171875,0.875 0.171875,1.359375 0,0.484375 0,0.984375 -0.171875,1.34375 C 3.1875,-0.109375 2.734375,-0.0625 2.5,-0.0625 z m 0,0"
+               id="path11273"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-9820bfca-2"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 0.5625,-3.40625 c 0,2.0625 1.609375,3.625 3.46875,3.625 1.625,0 2.59375,-1.390625 2.59375,-2.546875 C 6.625,-2.421875 6.625,-2.5 6.5,-2.5 6.390625,-2.5 6.390625,-2.4375 6.375,-2.328125 6.296875,-0.90625 5.234375,-0.09375 4.140625,-0.09375 c -0.609375,0 -2.5625,-0.328125 -2.5625,-3.3125 0,-2.96875 1.953125,-3.3125 2.5625,-3.3125 1.078125,0 1.96875,0.90625 2.171875,2.359375 0.015625,0.140625 0.015625,0.171875 0.15625,0.171875 0.15625,0 0.15625,-0.03125 0.15625,-0.234375 l 0,-2.359375 c 0,-0.171875 0,-0.25 -0.109375,-0.25 -0.03125,0 -0.078125,0 -0.15625,0.125 l -0.5,0.734375 C 5.5,-6.53125 4.984375,-7.03125 4.03125,-7.03125 c -1.875,0 -3.46875,1.59375 -3.46875,3.625 z m 0,0"
+               id="path11276"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-9820bfca-3"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 3.6875,-1.484375 c 0,-0.875 -0.75,-1.625 -1.703125,-1.625 -0.96875,0 -1.71875,0.75 -1.71875,1.625 0,0.859375 0.765625,1.546875 1.71875,1.546875 0.9375,0 1.703125,-0.6875 1.703125,-1.546875 z M 1.984375,-0.15625 c -0.265625,0 -0.640625,-0.078125 -0.875,-0.421875 -0.1875,-0.28125 -0.203125,-0.640625 -0.203125,-0.96875 0,-0.296875 0,-0.71875 0.25,-1.015625 0.171875,-0.203125 0.46875,-0.34375 0.828125,-0.34375 0.40625,0 0.703125,0.1875 0.859375,0.40625 0.1875,0.265625 0.203125,0.625 0.203125,0.953125 0,0.328125 -0.015625,0.703125 -0.21875,0.984375 -0.1875,0.265625 -0.5,0.40625 -0.84375,0.40625 z m 0,0"
+               id="path11279"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-9820bfca-4">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g11282">
+          <use
+             xlink:href="#textext-9820bfca-0"
+             x="223.43201"
+             y="134.765"
+             id="use11284"
+             width="1052.3622"
+             height="744.09448" />
+          <use
+             xlink:href="#textext-9820bfca-1"
+             x="228.4133"
+             y="134.765"
+             id="use11286"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g11288">
+          <use
+             xlink:href="#textext-9820bfca-3"
+             x="235.05499"
+             y="131.149"
+             id="use11290"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g11292">
+          <use
+             xlink:href="#textext-9820bfca-2"
+             x="239.52499"
+             y="134.765"
+             id="use11294"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g11812"
+       transform="matrix(1.6201916,0,0,1.6201916,432.26739,525.65904)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$\\unit[8]{^o C}$"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs11814">
+        <g
+           id="g11816">
+          <symbol
+             id="textext-702d2ad3-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path11819"
+               d="m 1.625,-4.5625 c -0.453125,-0.296875 -0.5,-0.625 -0.5,-0.796875 0,-0.609375 0.65625,-1.03125 1.359375,-1.03125 0.71875,0 1.359375,0.515625 1.359375,1.234375 0,0.578125 -0.390625,1.046875 -0.984375,1.390625 z m 1.453125,0.953125 C 3.796875,-3.984375 4.28125,-4.5 4.28125,-5.15625 c 0,-0.921875 -0.875,-1.484375 -1.78125,-1.484375 -1,0 -1.8125,0.734375 -1.8125,1.671875 0,0.171875 0.015625,0.625 0.4375,1.09375 0.109375,0.109375 0.484375,0.359375 0.734375,0.53125 C 1.28125,-3.046875 0.421875,-2.5 0.421875,-1.5 c 0,1.046875 1.015625,1.71875 2.0625,1.71875 1.125,0 2.078125,-0.828125 2.078125,-1.890625 0,-0.359375 -0.109375,-0.8125 -0.5,-1.234375 C 3.875,-3.109375 3.71875,-3.203125 3.078125,-3.609375 z m -1,0.421875 1.234375,0.78125 c 0.28125,0.1875 0.75,0.484375 0.75,1.09375 0,0.734375 -0.75,1.25 -1.5625,1.25 -0.859375,0 -1.578125,-0.609375 -1.578125,-1.4375 0,-0.578125 0.3125,-1.21875 1.15625,-1.6875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-702d2ad3-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path11822"
+               d="m 0.5625,-3.40625 c 0,2.0625 1.609375,3.625 3.46875,3.625 1.625,0 2.59375,-1.390625 2.59375,-2.546875 C 6.625,-2.421875 6.625,-2.5 6.5,-2.5 6.390625,-2.5 6.390625,-2.4375 6.375,-2.328125 6.296875,-0.90625 5.234375,-0.09375 4.140625,-0.09375 c -0.609375,0 -2.5625,-0.328125 -2.5625,-3.3125 0,-2.96875 1.953125,-3.3125 2.5625,-3.3125 1.078125,0 1.96875,0.90625 2.171875,2.359375 0.015625,0.140625 0.015625,0.171875 0.15625,0.171875 0.15625,0 0.15625,-0.03125 0.15625,-0.234375 l 0,-2.359375 c 0,-0.171875 0,-0.25 -0.109375,-0.25 -0.03125,0 -0.078125,0 -0.15625,0.125 l -0.5,0.734375 C 5.5,-6.53125 4.984375,-7.03125 4.03125,-7.03125 c -1.875,0 -3.46875,1.59375 -3.46875,3.625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-702d2ad3-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path11825"
+               d="m 3.6875,-1.484375 c 0,-0.875 -0.75,-1.625 -1.703125,-1.625 -0.96875,0 -1.71875,0.75 -1.71875,1.625 0,0.859375 0.765625,1.546875 1.71875,1.546875 0.9375,0 1.703125,-0.6875 1.703125,-1.546875 z M 1.984375,-0.15625 c -0.265625,0 -0.640625,-0.078125 -0.875,-0.421875 -0.1875,-0.28125 -0.203125,-0.640625 -0.203125,-0.96875 0,-0.296875 0,-0.71875 0.25,-1.015625 0.171875,-0.203125 0.46875,-0.34375 0.828125,-0.34375 0.40625,0 0.703125,0.1875 0.859375,0.40625 0.1875,0.265625 0.203125,0.625 0.203125,0.953125 0,0.328125 -0.015625,0.703125 -0.21875,0.984375 -0.1875,0.265625 -0.5,0.40625 -0.84375,0.40625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-702d2ad3-3">
+        <g
+           id="g11828"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use11830"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-702d2ad3-0"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g11832"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use11834"
+             y="131.149"
+             x="230.07401"
+             xlink:href="#textext-702d2ad3-2"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g11836"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use11838"
+             y="134.765"
+             x="234.543"
+             xlink:href="#textext-702d2ad3-1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+      </g>
+    </g>
+    <path
+       style="opacity:0.7;fill:#d7e3f4;stroke:#5f8dd3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter12629)"
+       d="m 859.06884,619.84637 c -1.61396,-0.98798 -2.92061,-2.50852 -3.53224,-4.29929 -0.61164,-1.79077 -0.49307,-3.84407 0.43321,-5.49421 0.77565,-1.38178 2.0675,-2.42719 3.50063,-3.10326 1.43314,-0.67607 3.00676,-1.0057 4.58047,-1.19112 3.14743,-0.37082 6.41484,-0.19961 9.38616,-1.30191 2.99081,-1.10953 5.37209,-3.39692 7.60121,-5.67881 2.22912,-2.2819 4.46632,-4.66891 7.33048,-6.0734 3.7091,-1.81882 8.00895,-1.77927 12.11439,-2.23851 5.53842,-0.61954 11.02905,-2.21149 16.5853,-1.78024 2.77813,0.21562 5.5561,0.96054 7.89232,2.47928 2.33622,1.51873 4.19872,3.86032 4.82229,6.57613 0.57504,2.50447 0.0696,5.18554 -1.10718,7.4699 -1.17675,2.28436 -2.98863,4.19618 -5.02271,5.76639 -4.06815,3.14043 -8.99098,4.96362 -13.30947,7.74979 -2.4393,1.57377 -4.67211,3.44615 -7.06769,5.08571 -2.39558,1.63955 -5.00876,3.06461 -7.864,3.58854 -3.97155,0.72877 -8.04754,-0.34091 -11.84745,-1.70655 -3.79992,-1.36564 -7.53746,-3.04877 -11.53614,-3.60993 -2.19243,-0.30767 -4.41795,-0.27011 -6.62383,-0.45847 -2.20588,-0.18837 -4.44753,-0.62418 -6.33575,-1.78004"
+       id="path12295"
+       inkscape:path-effect="#path-effect12297"
+       inkscape:original-d="m 859.06884,619.84637 c -3.23585,-1.26343 -5.26279,-6.92811 -3.09903,-9.7935 3.01677,-3.99501 12.88479,-4.45847 17.46726,-5.59629 5.98602,-1.48633 9.15736,-9.84052 14.93169,-11.75221 2.95214,-0.97735 8.91723,-2.76775 12.11439,-2.23851 2.07861,0.34408 29.11955,7.09604 29.29991,7.27517 4.77491,4.74245 -15.38418,20.48263 -19.43936,20.98608 -7.21312,0.89551 -9.30375,5.87941 -14.93169,8.67425 -10.95295,5.43923 -16.46409,-3.02566 -23.38359,-5.31648 -5.31735,-1.7604 -8.87664,-0.61644 -12.95958,-2.23851 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#ff6600;stroke-width:1.28571427;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter12319);enable-background:accumulate"
+       id="path12299"
+       sodipodi:cx="800.12524"
+       sodipodi:cy="174.70001"
+       sodipodi:rx="29.083714"
+       sodipodi:ry="29.083714"
+       d="m 829.20896,174.70001 a 29.083714,29.083714 0 1 1 -58.16743,0 29.083714,29.083714 0 1 1 58.16743,0 z"
+       transform="matrix(0.77777778,0,0,0.77777778,131.91797,469.24151)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:url(#linearGradient135116);fill-opacity:1;stroke:#a05a2c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 561.79476,635.6412 c 14.73056,0.62932 29.33375,4.11665 42.7592,10.21114 17.84133,8.09909 33.35237,20.62736 47.22657,34.46264 12.90084,12.86465 24.53623,26.93234 37.01542,40.2064 8.99713,9.57021 18.4957,18.77906 29.35706,26.16608 22.12955,15.05073 49.18651,21.88793 75.94543,22.33689 22.03589,0.36972 43.89985,-3.38621 65.73429,-6.38197 19.6585,-2.69721 40.20871,-5.07022 56.79952,-15.95492 13.19118,-8.65431 22.63427,-21.95786 30.31435,-35.73903 8.15626,-14.63563 14.7738,-30.28871 25.20878,-43.39739 12.50023,-15.70309 30.29872,-27.11053 49.78742,-31.90984 l -0.6463,152.53714 -459.50174,-0.64629 0,-151.89085"
+       id="path7482"
+       inkscape:path-effect="#path-effect6391"
+       inkscape:original-d="m 561.79476,635.6412 c 13.80055,1.20499 33.29967,0.75162 42.7592,10.21114 5.34701,5.34701 44.78035,29.5702 47.22657,34.46264 6.48826,12.97652 21.31004,32.35372 37.01542,40.2064 10.93297,5.46649 18.65982,20.81746 29.35706,26.16608 26.04588,13.02294 45.91723,22.33689 75.94543,22.33689 19.9608,0 48.48627,5.11671 65.73429,-6.38197 11.93871,-7.95914 51.77506,-10.93046 56.79952,-15.95492 11.27684,-11.27684 19.04571,-24.47038 30.31435,-35.73903 11.01919,-11.01918 14.03753,-32.22614 25.20878,-43.39739 17.13204,-17.13204 30.25022,110.74899 49.78742,-31.90984 l -0.6463,152.53714 -459.50174,-0.64629 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssssssscccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 679.95905,526.47023 c -3.23585,-1.2634 -5.26279,-6.9281 -3.09903,-9.7935 3.01677,-3.995 1.2513,-13.50667 5.83377,-14.64457 5.98602,-1.4863 20.79085,-0.79223 26.56518,-2.70393 2.95214,-0.9773 19.25811,-4.06031 22.45527,-3.53111 2.07861,0.3441 18.77871,8.38871 18.95901,8.56781 4.7749,4.7424 -15.38416,20.4826 -19.43934,20.9861 -7.21312,0.8955 -11.03698,7.99283 -17.51691,8.6742 -7.11647,0.7483 -13.87887,-3.0256 -20.79837,-5.3165 -5.31735,-1.7604 -8.87664,-0.6164 -12.95958,-2.2385 z"
+       inkscape:path-effect="#path-effect12853"
+       id="path12833"
+       d="m 679.95905,526.47023 c -1.35617,-1.14381 -2.22302,-2.79026 -2.66803,-4.50767 -0.445,-1.71741 -0.49535,-3.51287 -0.431,-5.28583 0.0982,-2.70555 0.46323,-5.4226 1.37194,-7.97286 0.90871,-2.55027 2.38471,-4.93528 4.46183,-6.67171 1.75214,-1.46475 3.88616,-2.43192 6.10174,-2.98575 2.21557,-0.55382 4.51578,-0.70649 6.79905,-0.65987 4.56654,0.0932 9.097,0.97273 13.66439,0.94169 7.58744,-0.0516 14.92469,-2.60253 22.45527,-3.53111 3.76984,-0.46485 7.68891,-0.50561 11.2618,0.78367 1.78645,0.64464 3.46453,1.62259 4.82718,2.94552 1.36265,1.32293 2.40136,2.99816 2.87003,4.83862 0.63803,2.50553 0.18906,5.21628 -0.95432,7.53521 -1.14338,2.31894 -2.94359,4.26859 -4.9822,5.85881 -4.07724,3.18045 -9.05034,4.96254 -13.50282,7.59208 -2.8382,1.67618 -5.46149,3.69538 -8.29011,5.38767 -2.82862,1.69229 -5.93754,3.07267 -9.2268,3.28653 -3.59375,0.23366 -7.12117,-0.93418 -10.4835,-2.22428 -3.36234,-1.29009 -6.7314,-2.73385 -10.31487,-3.09222 -2.22562,-0.22257 -4.47298,-0.0182 -6.70584,-0.14949 -2.23287,-0.13128 -4.54395,-0.64695 -6.25374,-2.08901"
+       style="opacity:0.7;fill:#d7e3f4;stroke:#5f8dd3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter12629)"
+       sodipodi:nodetypes="cscccccasc"
+       transform="matrix(-0.96592583,0.25881905,0.25881905,0.96592583,1173.5762,-76.101593)"
+       inkscape:transform-center-y="-31.012345"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cssssssssscccc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 35.646503,635.6412 c 13.800549,1.20499 33.299666,0.75162 42.759193,10.21114 5.347011,5.34701 44.780354,29.5702 47.226574,34.46264 6.48826,12.97652 21.31004,32.35372 37.01542,40.2064 10.93297,5.46649 18.65982,20.81746 29.35706,26.16608 26.04588,13.02294 45.91723,22.33689 75.94543,22.33689 19.9608,0 48.48627,5.11671 65.73429,-6.38197 11.93871,-7.95914 51.77506,-10.93046 56.79952,-15.95492 11.27684,-11.27684 19.04571,-24.47038 30.31435,-35.73903 11.01919,-11.01918 14.03753,-32.22614 25.20878,-43.39739 17.13204,-17.13204 30.25021,110.74899 49.78746,-31.90984 l -0.64631,151.89085 -459.501767,0 z"
+       inkscape:path-effect="#path-effect7491"
+       id="path6389"
+       d="m 35.646503,635.6412 c 14.730562,0.62932 29.333744,4.11665 42.759193,10.21114 17.841332,8.09909 33.352374,20.62736 47.226574,34.46264 12.90084,12.86465 24.53623,26.93234 37.01542,40.2064 8.99713,9.57021 18.4957,18.77906 29.35706,26.16608 22.12955,15.05073 49.18651,21.88793 75.94543,22.33689 22.03589,0.36972 43.89985,-3.38621 65.73429,-6.38197 19.6585,-2.69721 40.20871,-5.07022 56.79952,-15.95492 13.19118,-8.65431 22.63427,-21.95786 30.31435,-35.73903 8.15626,-14.63563 14.7738,-30.28871 25.20878,-43.39739 12.50024,-15.7031 30.29874,-27.11054 49.78746,-31.90984 l -0.64631,151.89085 -459.501767,0 0,-151.89085"
+       style="fill:url(#linearGradient135112);fill-opacity:1;stroke:#a05a2c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/waermelehre/anomalie-wasser.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="spiegelung-einer-kerze-gegenueber-stehende-spiegel.svg">
+  <title
+     id="title7724">Spiegelung einer Kerze (gegenueber stehende Spiegel)</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="359.98478"
+     inkscape:cy="787.52074"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       id="guide3342"
+       position="371.81985,843.13185"
+       orientation="1,0" />
+    <sodipodi:guide
+       id="guide3344"
+       position="183.90009,906.05065"
+       orientation="1,0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path5422" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path5419" />
+    </marker>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1"
+       id="radialGradient12838"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.20149729,0,0,0.51060527,1968.4092,2303.5426)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <linearGradient
+       id="linearGradient35265-1">
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1;"
+         offset="0"
+         id="stop35267-9" />
+      <stop
+         style="stop-color:#fffb36;stop-opacity:1;"
+         offset="1"
+         id="stop35269-6" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect25213"
+       effect="spiro" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-1"
+       id="radialGradient6566"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.20149729,0,0,0.51060527,1968.4092,2303.5426)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Spiegelung einer Kerze (gegenueber stehende Spiegel)</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de_DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Optik</rdf:li>
+            <rdf:li>Spiegel</rdf:li>
+            <rdf:li>Reflexion</rdf:li>
+            <rdf:li>Mehrfachreflexion</rdf:li>
+            <rdf:li>Unendlichspiegel</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:date>2013-10-18</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/versuche/optik/spiegelung-einer-kerze-gegenueber-stehende-spiegel.png"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7126"
+       width="667.36206"
+       height="330.36984"
+       x="38.366211"
+       y="360.99615" />
+    <g
+       transform="matrix(3.2942613,0,0,3.2942613,-922.35928,-2235.9248)"
+       id="g25379"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/versuche/optik/spiegelung-einer-kerze-gegenueber-stehende-spiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         y="829.71686"
+         x="392.41891"
+         height="10.819916"
+         width="1.017715"
+         id="rect25381"
+         style="fill:#666666;stroke:#501616;stroke-width:0.1517791;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         y="840.12097"
+         x="385.60016"
+         height="33.944832"
+         width="14.655095"
+         id="rect25383"
+         style="fill:#782121;stroke:#501616;stroke-width:0.3035582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         ry="1.4850864" />
+      <path
+         sodipodi:nodetypes="ccccssc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 394.78576,832.28212 c 0,0 -8.33153,-2.33591 -7.72545,-6.9258 0.30303,-2.29492 0.15759,-4.88364 3.09653,-7.0671 2.93894,-2.18344 4.11548,-12.71846 2.79422,-16.09927 4.11532,-1.04803 3.5497,11.19708 4.81188,17.9624 1.26218,6.76533 1.65971,7.81639 -0.30873,10.26089 -3.89281,4.83426 6.92272,-5.70923 -2.66845,1.86888 z"
+         inkscape:path-effect="#path-effect25213"
+         id="path25385"
+         d="m 394.78576,832.28212 c -1.96114,0.3542 -4.07208,-0.24389 -5.55595,-1.57417 -1.48388,-1.33029 -2.30816,-3.36359 -2.1695,-5.35163 0.0903,-1.29507 0.56252,-2.53629 1.15619,-3.69082 0.59366,-1.15453 1.31127,-2.24066 1.94034,-3.37628 2.68898,-4.85425 3.69018,-10.62281 2.79422,-16.09927 1.50214,6.01413 3.10641,12.00274 4.81188,17.9624 0.48988,1.71185 0.99142,3.44059 1.07633,5.21912 0.0849,1.77854 -0.28655,3.64046 -1.38506,5.04177 -0.67978,0.86716 -1.62116,1.52646 -2.66845,1.86888"
+         style="fill:url(#radialGradient6566);fill-opacity:1;stroke:#501616;stroke-width:0.1517791;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g8542"
+       transform="matrix(2.3197554,-0.07694841,0.08611027,2.0729407,-359.80895,-938.41371)"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/versuche/optik/spiegelung-einer-kerze-gegenueber-stehende-spiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/reflektionsgesetz.png"
+         y="-180.40866"
+         x="661.27844"
+         height="3.5801754"
+         width="106.79419"
+         id="rect36125"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.22785391;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/reflektionsgesetz.png"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.22785391;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3810"
+         width="106.79419"
+         height="3.5801754"
+         x="661.27844"
+         y="-176.82849" />
+    </g>
+    <g
+       transform="matrix(-2.3197554,-0.07694841,-0.08611027,2.0729407,1103.9034,-938.41371)"
+       id="g8546"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/versuche/optik/spiegelung-einer-kerze-gegenueber-stehende-spiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.22785391;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect8548"
+         width="106.79419"
+         height="3.5801754"
+         x="661.27844"
+         y="-180.40866"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/reflektionsgesetz.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <rect
+         y="-176.82849"
+         x="661.27844"
+         height="3.5801754"
+         width="106.79419"
+         id="rect8550"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.22785391;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/reflektionsgesetz.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"
+         transform="matrix(0,1,-1,0,0,0)" />
+    </g>
+    <g
+       transform="matrix(2.3142466,-0.08285965,0.03946629,0.93308393,-328.0099,-183.62689)"
+       id="g49288"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/versuche/optik/spiegelung-einer-kerze-gegenueber-stehende-spiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.33999795;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect49290"
+         width="106.79419"
+         height="3.5801754"
+         x="661.27844"
+         y="-180.40866"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/reflektionsgesetz.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <rect
+         y="-176.82849"
+         x="661.27844"
+         height="3.5801754"
+         width="106.79419"
+         id="rect49292"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.33999795;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/reflektionsgesetz.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"
+         transform="matrix(0,1,-1,0,0,0)" />
+    </g>
+    <g
+       id="g49294"
+       transform="matrix(-2.3369055,-0.08285965,-0.0398527,0.93308393,1076.4671,-183.59514)"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/versuche/optik/spiegelung-einer-kerze-gegenueber-stehende-spiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/reflektionsgesetz.png"
+         y="-180.40866"
+         x="661.27844"
+         height="3.5801754"
+         width="106.79419"
+         id="rect49296"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.33834559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/reflektionsgesetz.png"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.33834559;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect49298"
+         width="106.79419"
+         height="3.5801754"
+         x="661.27844"
+         y="-176.82849" />
+    </g>
+    <rect
+       style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:3.00000023999999987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.5"
+       id="rect7876"
+       width="542.27429"
+       height="124.41014"
+       x="100.9101"
+       y="519.06616"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/versuche/optik/spiegelung-einer-kerze-gegenueber-stehende-spiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       y="519.06616"
+       x="100.9101"
+       height="124.41014"
+       width="542.27429"
+       id="rect49300"
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:3.00000023999999987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/Homepage/physik/versuche/optik/spiegelung-einer-kerze-gegenueber-stehende-spiegel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

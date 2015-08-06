@@ -1,0 +1,3665 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg4256"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="elementarmagnete.svg">
+  <title
+     id="title15336">Elementarmagnete</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.18007109"
+     inkscape:cx="-302.30126"
+     inkscape:cy="-264.4279"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:object-paths="false"
+     inkscape:snap-midpoints="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-to-guides="true">
+    <sodipodi:guide
+       id="guide12004"
+       orientation="744.0945,0"
+       position="0.0,0" />
+    <sodipodi:guide
+       id="guide12006"
+       orientation="744.0945,0"
+       position="526.1811,0" />
+    <sodipodi:guide
+       id="guide12008"
+       orientation="744.0945,0"
+       position="1052.3622,0" />
+    <sodipodi:guide
+       id="guide12010"
+       orientation="0,1052.3622"
+       position="0,0.0" />
+    <sodipodi:guide
+       id="guide12012"
+       orientation="0,1052.3622"
+       position="0,372.0472" />
+    <sodipodi:guide
+       id="guide12014"
+       orientation="0,1052.3622"
+       position="0,744.0945" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid13149"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4258">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10163"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10159"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7025"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7021"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5493"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5485"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5333"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5330"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5327"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5324"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5321"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5317"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5313"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5309"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5306"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5303"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5297"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5293"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5289"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5285"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5282"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5279"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5276"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5273"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5270"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5267"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5261"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5258"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5255"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5252"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5249"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5245"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5241"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5237"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5233"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5229"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5223"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5220"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5217"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5214"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5211"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5208"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5205"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5202"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5199"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5196"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5190"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5187"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5184"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5181"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5178"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5175"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5172"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5169"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5166"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5163"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5157"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5154"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5151"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5148"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5145"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5142"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5139"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5136"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5133"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5130"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5127"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5124"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5121"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5115"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5112"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5109"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5106"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5103"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5100"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5097"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5094"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5091"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5088"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5085"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5082"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5079"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5076"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5073"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5070"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5067"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5064"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5061"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5050"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4943"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4940"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4937"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4934"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4931"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4928"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4925"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4922"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4919"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4916"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12254"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12250"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12246"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12242"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12238"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12234"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12230"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12226"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12223"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12220"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12217"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12214"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12211"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12208"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12205"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12202"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11980"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11588"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10962"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10958"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10954"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10950"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10946"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10942"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10939"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10936"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10933"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10930"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10927"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10924"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10921"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10918"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10915"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10437"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10433"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10429"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10425"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10419"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10415"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10411"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10402"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10399"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10396"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10393"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10390"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10387"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10384"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10381"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10378"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10147"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9561"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect8391"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect8203"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path7583" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path7580" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7569"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7492"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7488"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7484"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7480"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7477"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7474"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7471"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7468"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7465"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7462"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7459"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7456"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7281"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7277"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7273"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7269"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7265"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7261"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7257"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7254"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7251"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7248"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7245"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7242"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7239"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7236"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7233"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7068"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7064"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7060"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7056"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7052"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7030"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7026"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7023"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7020"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7017"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7014"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7011"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7008"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7005"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7002"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6667"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6663"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6659"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6655"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6651"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6647"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6643"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6640"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6637"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6634"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6631"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6628"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6625"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6622"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6619"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6585"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6581"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6577"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6573"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6569"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6565"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6561"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6558"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6555"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6552"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6549"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6546"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6543"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6540"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6537"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6503"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6499"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6495"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6491"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6487"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6483"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6479"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6476"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6473"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6470"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6467"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6464"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6461"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6458"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6455"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6420"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6416"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6412"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6408"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6396"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6393"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6390"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6387"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6384"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6381"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6378"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6375"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6372"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6338"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6334"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6330"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6326"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6322"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6318"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6314"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6311"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6308"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6305"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6302"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6299"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6296"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6293"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6259"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6255"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6251"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6247"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6243"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6239"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6235"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6231"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6227"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6212"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6208"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6202"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6198"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6194"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6190"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6186"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6182"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6167"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6163"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6159"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6155"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6151"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6147"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6143"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6139"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6135"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6131"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6052"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6048"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5538"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5534"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5530"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5526"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5522"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5518"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5514"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5510"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5506"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5320"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5316"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5312"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5308"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5304"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5300"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5296"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5292"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5288"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5248"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5244"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5240"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5236"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5232"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5226"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5222"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4450"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4446"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4440"
+       effect="spiro" />
+    <inkscape:perspective
+       id="perspective4432"
+       inkscape:persp3d-origin="910.7339 : 2055.042 : 1"
+       inkscape:vp_z="899.09237 : 2843.629 : 1"
+       inkscape:vp_y="1910.7338 : 2055.042 : 1"
+       inkscape:vp_x="981.81011 : 947.59044 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4383"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4379"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4375"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4371"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4367"
+       effect="spiro" />
+    <inkscape:perspective
+       id="perspective4347"
+       inkscape:persp3d-origin="441.86174 : 362.19787 : 1"
+       inkscape:vp_z="430.22021 : 168.24081 : 1"
+       inkscape:vp_y="999.99998 : -2.4492127e-13 : 0"
+       inkscape:vp_x="512.93795 : 634.58134 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6052-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6048-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5232-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5232-6-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6048-0-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6052-2-5"
+       is_visible="true" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="512.93795 : 634.58134 : 1"
+       inkscape:vp_y="999.99998 : -2.4492127e-13 : 0"
+       inkscape:vp_z="430.22021 : 168.24081 : 1"
+       inkscape:persp3d-origin="441.86174 : 362.19787 : 1"
+       id="perspective4347-5" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4367-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4371-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4375-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4379-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4383-4"
+       is_visible="true" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="981.81011 : 947.59044 : 1"
+       inkscape:vp_y="1910.7338 : 2055.042 : 1"
+       inkscape:vp_z="899.09237 : 2843.629 : 1"
+       inkscape:persp3d-origin="910.7339 : 2055.042 : 1"
+       id="perspective4432-2" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4440-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4446-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4450-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5222-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5226-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5232-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5236-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5240-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5244-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5248-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5288-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5292-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5296-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5300-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5304-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5308-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5312-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5316-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5320-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5506-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5510-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5514-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5518-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5522-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5526-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5530-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5534-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5538-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6048-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6052-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6131-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6135-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6139-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6143-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6147-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6151-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6155-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6159-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6163-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6167-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6182-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6186-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6190-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6194-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6198-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6202-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6208-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6212-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6227-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6231-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6235-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6239-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6243-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6247-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6251-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6255-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6259-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6293-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6296-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6299-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6302-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6305-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6308-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6311-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6314-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6318-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6322-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6326-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6330-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6334-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6338-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6372-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6375-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6378-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6381-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6384-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6387-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6390-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6393-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6396-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6408-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6412-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6416-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6420-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6455-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6458-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6461-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6464-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6467-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6470-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6473-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6476-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6479-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6483-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6487-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6491-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6495-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6499-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6503-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6537-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6540-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6543-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6546-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6549-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6552-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6555-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6558-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6561-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6565-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6569-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6573-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6577-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6581-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6585-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6619-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6622-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6625-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6628-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6631-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6634-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6637-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6640-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6643-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6647-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6651-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6655-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6659-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6663-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6667-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7002-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7005-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7008-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7011-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7014-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7017-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7020-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7023-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7026-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7030-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7052-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7056-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7060-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7064-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7068-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7233-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7236-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7239-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7242-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7245-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7248-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7251-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7254-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7257-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7261-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7265-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7269-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7273-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7277-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7281-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7456-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7459-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7462-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7465-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7468-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7471-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7474-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7477-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7480-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7484-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7488-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect7492-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7569-4"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7580-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7583-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8203-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8391-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9561-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10147-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10378-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10381-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10384-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10387-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10390-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10393-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10396-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10399-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10402-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10411-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10415-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10419-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10425-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10429-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10433-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10437-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10915-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10918-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10921-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10924-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10927-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10930-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10933-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10936-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10939-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10942-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10946-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10950-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10954-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10958-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10962-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11588-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11980-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12202-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12205-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12208-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12211-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12214-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12217-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12220-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12223-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12226-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12230-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12234-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12238-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12242-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12246-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12250-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12254-4"
+       effect="spiro" />
+  </defs>
+  <metadata
+     id="metadata4261">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Elementarmagnete</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2012-05-03</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Magnetismus</rdf:li>
+            <rdf:li>Elementarmagnete</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-308.2677)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <rect
+       y="506.7457"
+       x="38.910137"
+       height="347.13849"
+       width="424.45569"
+       id="rect11235"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(-0.66530066,-1.1030217e-8,-1.1030217e-8,0.66530066,1370.94,-459.86884)"
+       id="g10506"
+       style="stroke:#1a1a1a;stroke-width:1.50307977"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path10508"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#5599ff;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         id="path10510"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g10512"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         style="stroke:#1a1a1a;stroke-width:1.50307977;stroke-linecap:round">
+        <path
+           inkscape:connector-curvature="0"
+           id="path10514"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           id="path10516"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10518"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       style="stroke:#1a1a1a;stroke-width:1.63439012"
+       id="g10520"
+       transform="matrix(-0.30597228,-0.52979412,0.52995954,-0.30587678,-78.032256,2016.6731)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.63439012px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         id="path10522"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10524"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.63439011999999995px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         style="stroke:#1a1a1a;stroke-width:1.63439012;stroke-linecap:round"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         id="g10526">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.63439011999999995px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           id="path10528"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path10530"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.63439012px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.63439012px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         id="path10532"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.66530066,0,0,0.66530066,-959.8855,-408.28569)"
+       id="g10534"
+       style="stroke:#1a1a1a;stroke-width:1.50307977"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path10536"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         id="path10538"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g10540"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         style="stroke:#1a1a1a;stroke-width:1.50307977;stroke-linecap:round">
+        <path
+           inkscape:connector-curvature="0"
+           id="path10542"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           id="path10544"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10546"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g10956"
+       transform="matrix(-0.29272666,-0.50655388,0.50701741,-0.29245902,-184.39405,2004.865)"
+       style="stroke:#1a1a1a;stroke-width:1.70885956"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.70885956000000006px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         id="path10958"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10960"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.70885956px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         style="stroke:#1a1a1a;stroke-width:1.5215416;stroke-linecap:round"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         id="g10962">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.70885956px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           id="path10964"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path10966"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.70885956000000006px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.70885956000000006px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         id="path10968"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(-0.66530066,-1.1030217e-8,-1.1030217e-8,0.66530066,1412.3946,-401.49078)"
+       id="g10548"
+       style="stroke:#1a1a1a;stroke-width:1.50307977"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path10550"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         id="path10552"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g10554"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         style="stroke:#1a1a1a;stroke-width:1.50307977;stroke-linecap:round">
+        <path
+           inkscape:connector-curvature="0"
+           id="path10556"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           id="path10558"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10560"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       style="stroke:#1a1a1a;stroke-width:1.70885956"
+       transform="matrix(0.29272666,-0.50655388,-0.50701741,-0.29245902,660.99371,1990.5221)"
+       id="g10562"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path10564"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.70885956000000006px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.70885956px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         id="path10566"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g10568"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         style="stroke:#1a1a1a;stroke-width:1.5215416;stroke-linecap:round">
+        <path
+           inkscape:connector-curvature="0"
+           id="path10570"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.70885956px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.70885956000000006px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           id="path10572"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10574"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.70885956000000006px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       style="stroke:#1a1a1a;stroke-width:1.75972974"
+       transform="matrix(-0.28413455,0.49213549,-0.49213549,-0.28413455,1579.8975,313.05091)"
+       id="g10576"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path10578"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.75972974px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.75972974000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         id="path10580"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g10582"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         style="stroke:#1a1a1a;stroke-width:1.75972974;stroke-linecap:round">
+        <path
+           inkscape:connector-curvature="0"
+           id="path10584"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.75972974000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.75972974px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           id="path10586"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10588"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.75972974px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g10590"
+       transform="matrix(0.28752459,0.49812741,0.49800721,-0.28759397,-937.94463,337.72998)"
+       style="stroke:#1a1a1a;stroke-width:1.73877192"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         id="path10592"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10594"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         style="stroke:#1a1a1a;stroke-width:1.29686868;stroke-linecap:round"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         id="g10596">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           id="path10598"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path10600"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         id="path10602"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#1a1a1a;stroke-width:1.50307977"
+       id="g10604"
+       transform="matrix(-0.33265034,0.5761672,-0.5761672,-0.33265034,1652.9123,266.16729)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         id="path10606"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10608"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         style="stroke:#1a1a1a;stroke-width:1.50307977;stroke-linecap:round"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         id="g10610">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#5599ff;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           id="path10612"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path10614"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         id="path10616"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#1a1a1a;stroke-width:1.50307977"
+       id="g10618"
+       transform="matrix(-0.66530066,-1.1030217e-8,-1.1030217e-8,0.66530066,1328.4526,-345.24158)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         id="path10620"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10622"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         style="stroke:#1a1a1a;stroke-width:1.50307977;stroke-linecap:round"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         id="g10624">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           id="path10626"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path10628"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         id="path10630"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#1a1a1a;stroke-width:1.65828919"
+       id="g10632"
+       transform="matrix(0.30151556,0.52224016,0.52224016,-0.30151556,-1039.1582,355.16005)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.65828919px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         id="path10634"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10636"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.65828919000000008px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         style="stroke:#1a1a1a;stroke-width:1.65828919;stroke-linecap:round"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         id="g10638">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#5599ff;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.65828919px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           id="path10640"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path10642"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.65828919px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.65828919px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         id="path10644"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#1a1a1a;stroke-width:1.50307977"
+       id="g10646"
+       transform="matrix(0.66530066,-1.1030217e-8,1.1030217e-8,0.66530066,-876.45331,-328.64562)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         id="path10648"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10650"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         style="stroke:#1a1a1a;stroke-width:1.50307977;stroke-linecap:round"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         id="g10652">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           id="path10654"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path10656"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         id="path10658"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#1a1a1a;stroke-width:1.73877192"
+       transform="matrix(0.28752459,0.49812741,0.49800721,-0.28759397,-1065.8603,374.57638)"
+       id="g10660"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path10662"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         id="path10664"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g10666"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         style="stroke:#1a1a1a;stroke-width:1.29686868;stroke-linecap:round">
+        <path
+           inkscape:connector-curvature="0"
+           id="path10668"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           id="path10670"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10672"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11237"
+       width="424.45569"
+       height="347.13849"
+       x="588.99634"
+       y="506.7457"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       style="stroke:#1a1a1a;stroke-width:1.70446157"
+       id="g10858"
+       transform="matrix(0.58623659,0,0,0.58715485,-129.57437,-301.5743)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:#5599ff;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.70446157px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         id="path10860"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10862"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.70446157px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         style="stroke:#1a1a1a;stroke-width:1.70446157;stroke-linecap:round"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         id="g10864">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.70446157px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           id="path10866"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path10868"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.70446157000000009px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.70446157000000009px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         id="path10870"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g10830"
+       transform="matrix(0.28752459,0.49812741,0.49800721,-0.28759397,441.9518,1374.6867)"
+       style="stroke:#1a1a1a;stroke-width:1.73877192"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -894.46079,1121.5016 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         id="path10832"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10834"
+         d="m -957.56799,1085.2941 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         style="stroke:#1a1a1a;stroke-width:1.29686868;stroke-linecap:round"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,-900.76889,-932.05392)"
+         id="g10836">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           id="path10838"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path10840"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           style="fill:#5599ff;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#5599ff;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -831.35369,1230.2948 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         id="path10842"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#1a1a1a;stroke-width:1.50307977"
+       id="g10319"
+       transform="matrix(0.66530066,0,0,0.66530066,-420.95941,-447.17718)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         id="path10321"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10323"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         style="stroke:#1a1a1a;stroke-width:1.50307977;stroke-linecap:round"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         id="g10325">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           id="path10327"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path10329"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#5599ff;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         id="path10331"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.30151556,0.52224016,0.52224016,-0.30151556,-675.33854,262.69166)"
+       id="g10434"
+       style="stroke:#1a1a1a;stroke-width:1.65828919"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path10436"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.65828919000000008px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.65828919px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         id="path10438"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g10440"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         style="stroke:#1a1a1a;stroke-width:1.65828919;stroke-linecap:round">
+        <path
+           inkscape:connector-curvature="0"
+           id="path10442"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.65828919px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.65828919000000008px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           id="path10444"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10446"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         style="fill:#5599ff;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.65828919px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(0.66530066,-1.1030217e-8,1.1030217e-8,0.66530066,-299.11484,-433.51525)"
+       id="g10405"
+       style="stroke:#1a1a1a;stroke-width:1.50307977"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path10407"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         style="fill:#5599ff;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         id="path10410"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g10412"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         style="stroke:#1a1a1a;stroke-width:1.50307977;stroke-linecap:round">
+        <path
+           inkscape:connector-curvature="0"
+           id="path10414"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           id="path10416"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10418"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       style="stroke:#1a1a1a;stroke-width:1.73877192"
+       transform="matrix(0.28752459,0.49812741,0.49800721,-0.28759397,-383.59969,304.66163)"
+       id="g10816"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path10818"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         id="path10820"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g10822"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         style="stroke:#1a1a1a;stroke-width:1.29686868;stroke-linecap:round">
+        <path
+           inkscape:connector-curvature="0"
+           id="path10824"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#5599ff;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           id="path10826"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10828"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       style="stroke:#1a1a1a;stroke-width:1.50307977"
+       id="g10674"
+       transform="matrix(0.66530066,-1.1030217e-8,1.1030217e-8,0.66530066,-328.15163,-423.42632)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         id="path10676"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10678"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         style="stroke:#1a1a1a;stroke-width:1.50307977;stroke-linecap:round"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         id="g10680">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           id="path10682"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path10684"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         id="path10686"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.66530066,-1.1030217e-8,1.1030217e-8,0.66530066,-244.2097,-367.17722)"
+       id="g10688"
+       style="stroke:#1a1a1a;stroke-width:1.50307977"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path10690"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         id="path10692"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g10694"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         style="stroke:#1a1a1a;stroke-width:1.50307977;stroke-linecap:round">
+        <path
+           inkscape:connector-curvature="0"
+           id="path10696"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           id="path10698"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10700"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(0.66530066,-1.1030217e-8,1.1030217e-8,0.66530066,-357.44664,-390.76534)"
+       id="g10716"
+       style="stroke:#1a1a1a;stroke-width:1.50307977"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path10718"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         id="path10720"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g10722"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         style="stroke:#1a1a1a;stroke-width:1.50307977;stroke-linecap:round">
+        <path
+           inkscape:connector-curvature="0"
+           id="path10724"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           id="path10726"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10728"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         style="fill:#5599ff;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g10277"
+       transform="matrix(0.28752459,0.49812741,0.49800721,-0.28759397,-549.66219,330.50884)"
+       style="stroke:#1a1a1a;stroke-width:1.73877192"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         id="path10279"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10281"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         style="stroke:#1a1a1a;stroke-width:1.29686868;stroke-linecap:round"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         id="g10283">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           id="path10285"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path10287"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         id="path10289"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#1a1a1a;stroke-width:1.50307977"
+       id="g10702"
+       transform="matrix(0.66530066,-1.1030217e-8,1.1030217e-8,0.66530066,-273.27502,-342.19765)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1697.9551,1595.5346 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         id="path10704"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10706"
+         d="m 1634.8479,1559.3271 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         style="stroke:#1a1a1a;stroke-width:1.50307977;stroke-linecap:round"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,1691.647,-458.02095)"
+         id="g10708">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           id="path10710"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path10712"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.50307977000000004px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         id="path10714"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#1a1a1a;stroke-width:1.73877192"
+       transform="matrix(0.28752459,0.49812741,0.49800721,-0.28759397,515.9146,1513.1838)"
+       id="g10478"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path10480"
+         d="m -894.46079,1121.5016 63.1072,36.2075 -0.049,72.7704 -63.0642,-36.3813 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -957.56799,1085.2941 63.1072,36.2075 -0.01,72.5966 -63.1072,-36.2075 z"
+         id="path10482"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g10484"
+         transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,-900.76889,-932.05392)"
+         style="stroke:#1a1a1a;stroke-width:1.29686868;stroke-linecap:round">
+        <path
+           inkscape:connector-curvature="0"
+           id="path10486"
+           d="m 959.43478,1775.3022 72.80592,-0.025 25.1468,-45.2862 -73.71661,0 z"
+           style="fill:#ff5555;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:transform-center-x="31.14641"
+           inkscape:transform-center-y="9.794345"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:transform-center-y="9.794345"
+           inkscape:transform-center-x="31.14641"
+           style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1032.2407,1775.2772 72.8059,-0.025 25.1468,-45.2862 -72.8059,0.025 z"
+           id="path10488"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path10490"
+         d="m -831.35369,1230.2948 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
+         style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 526.18109,571.3571 0,217.91568"
+       id="path13151"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

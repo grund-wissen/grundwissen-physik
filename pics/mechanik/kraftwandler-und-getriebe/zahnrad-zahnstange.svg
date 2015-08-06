@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.48.3.1 r9886"
+   version="1.1"
+   id="svg2"
+   height="744.09448"
+   width="1052.3622"
+   sodipodi:docname="zahnrad-zahnstange.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="541.27987"
+     inkscape:cy="723.03849"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-center="false"
+     inkscape:snap-page="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-global="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true">
+    <sodipodi:guide
+       orientation="-0.26410816,0.96449307"
+       position="258.79399,306.23388"
+       id="guide5259" />
+    <sodipodi:guide
+       orientation="-0.96068201,-0.27765098"
+       position="385.65793,317.04277"
+       id="guide5283" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="569.74767,391.38257"
+       id="guide5367" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="569.74736,391.38257"
+       id="guide5369" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="822.7042,245.92062"
+       id="guide5371" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="825.90609,536.15298"
+       id="guide5373" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="808.3827,470.77595"
+       id="guide7401" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="481.68881,249.55059"
+       id="guide7403" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="847.11753,546.02198"
+       id="guide7730" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="846.98581,487.95483"
+       id="guide7732" />
+  </sodipodi:namedview>
+  <title
+     id="title5605">Zahnrad und Zahnstange</title>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Sstart"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6796"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(0.3,0,0,0.3,-0.69,0)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Zahnrad und Zahnstange</dc:title>
+        <dc:date>2013-08-13</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:relation />
+        <dc:language>de_DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Dynamik</rdf:li>
+            <rdf:li>Zahnrad</rdf:li>
+            <rdf:li>Zahnstange</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect3056"
+     width="779.15472"
+     height="484.99216"
+     x="136.60373"
+     y="-614.54333"
+     ry="2.7029784"
+     inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/zahnrad-zahnstange.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150"
+     transform="scale(1,-1)" />
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1"
+     transform="translate(0,-308.2677)" />
+  <g
+     style="fill:#e6e6e6;fill-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="matrix(1.0330488,0,0,-1.0330488,1421.9354,2052.8215)"
+     id="g4643"
+     inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/zahnrad-zahnstange.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <g
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g4057"
+       transform="translate(-50.276467,64.649763)" />
+    <g
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g4061"
+       transform="translate(-171.49473,64.649763)" />
+    <g
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="translate(70.941795,64.649763)"
+       id="g4067" />
+    <g
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g4593"
+       transform="translate(192.16005,64.649763)" />
+    <g
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="translate(-292.71299,64.649763)"
+       id="g4599">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m -824.24919,1674.5535 25.37993,0 -1.80792,-14.0795 0.70172,-7.2225 9.22349,-20.3775 12.11005,0 9.22349,20.3775 0.70172,7.2225 -1.80793,14.0795 21.80851,0 m 409.33998,0 25.37993,0 -1.80792,-14.0795 0.70172,-7.2225 9.22349,-20.3775 12.11005,0 9.22349,20.3775 0.70172,7.2225 -1.80793,14.0795 21.80851,0 0.12751,56.2095 -621.28303,0 -0.0553,-56.2095 25.37993,0 -1.80792,-14.0795 0.70172,-7.2225 9.22349,-20.3775 12.11005,0 9.22349,20.3775 0.70172,7.2225 -1.80793,14.0795 21.80851,0 m 409.33998,0 25.37993,0 -1.80792,-14.0795 0.70172,-7.2225 9.22349,-20.3775 12.11005,0 9.22349,20.3775 0.70172,7.2225 -1.80793,14.0795 21.80851,0 m -135.9466,0 25.37993,0 -1.80792,-14.0795 0.70172,-7.2225 9.22349,-20.3775 12.11005,0 9.22349,20.3775 0.70172,7.2225 -1.80793,14.0795 21.8085,0 m -136.33776,0 25.37992,0 -1.80792,-14.0795 0.70173,-7.2225 9.22348,-20.3775 12.11005,0 9.22349,20.3775 0.70172,7.2225 -1.80793,14.0795 21.80851,0 m -257.16487,0 25.37993,0 -1.80792,-14.0795 0.70172,-7.2225 9.22349,-20.3775 12.11005,0 9.22349,20.3775 0.70172,7.2225 -1.80793,14.0795 21.80851,0 m -136.33777,0 25.37993,0 -1.80792,-14.0795 0.70172,-7.2225 9.22349,-20.3775 12.11005,0 9.22349,20.3775 0.70172,7.2225 -1.80793,14.0795 21.80851,0 m 106.48991,0 25.37993,0 -1.80792,-14.0795 0.70172,-7.2225 9.22349,-20.3775 12.11005,0 9.22349,20.3775 0.70172,7.2225 -1.80793,14.0795 21.80851,0 m -136.33777,0 25.37993,0 -1.80792,-14.0795 0.70172,-7.2225 9.22349,-20.3775 12.11005,0 9.22349,20.3775 0.70172,7.2225 -1.80793,14.0795 21.80851,0"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1.45201278000000000;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path4603" />
+    </g>
+  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 627.97585,418.98045 12.73859,1.7768 7.45581,-0.77805 20.98251,-9.67814 -0.089,-12.50986 -21.11833,-9.37809 -7.4662,-0.67153 -12.71191,1.95837 -6.19709,-22.48572 11.91903,-4.82703 6.07205,-4.40233 13.32895,-18.87363 -6.33214,-10.78753 -22.97472,2.43651 -6.80581,3.15085 -10.02515,8.05202 -16.60964,-16.37461 7.90829,-10.13893 3.05349,-6.85007 2.10885,-23.00696 -10.87685,-6.17783 -18.68161,13.59662 -4.3154,6.13411 -4.65676,11.98664 -22.5716,-5.87612 1.77691,-12.73855 -0.77806,-7.4558 -9.67814,-20.98256 -12.51,0.0891 -9.37805,21.11828 -0.67155,7.46623 1.95838,12.71188 -22.48573,6.19707 -4.82703,-11.91896 -4.40237,-6.07208 -18.87352,-13.32896 -10.78764,6.33225 2.43662,22.97458 3.15086,6.80583 8.05196,10.02521 -16.37466,16.60966 -10.13883,-7.90834 -6.85003,-3.05354 -23.00705,-2.10885 -6.17778,10.87673 13.59657,18.68168 6.13415,4.31533 11.98665,4.65683 -5.87612,22.57161 -12.73863,-1.7768 -7.45579,0.77802 -20.98259,9.67816 0.0891,12.50988 21.11837,9.3781 7.46619,0.67154 12.71188,-1.95834 6.19712,22.4857 -11.91904,4.82705 -6.07202,4.40236 -13.32899,18.87346 6.33215,10.78769 22.97473,-2.43653 6.80586,-3.15086 10.02512,-8.052 16.60964,16.3746 -7.90835,10.13888 -3.0535,6.84996 -2.10885,23.00713 10.87681,6.17769 18.68167,-13.59656 4.31536,-6.13406 4.65678,-11.9866 22.57162,5.8761 -1.7771,12.7385 0.77802,7.45578 9.67814,20.98261 12.50994,-0.0893 9.37807,-21.11828 0.67153,-7.46618 -1.95841,-12.71188 22.48576,-6.19712 4.82703,11.91898 4.40234,6.07201 18.87351,13.32898 10.78767,-6.33223 -2.43663,-22.9747 -3.15083,-6.8057 -8.05201,-10.02521 16.37466,-16.60961 10.13887,7.90838 6.85007,3.05347 23.00699,2.10886 6.17785,-10.87683 -13.59667,-18.68161 -6.13406,-4.31541 -11.98667,-4.65666 z"
+     id="path4000-8-8"
+     inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/zahnrad-zahnstange.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     transform="matrix(0.66475451,0.08367435,0.08367435,-0.66475451,131.39782,598.36935)"
+     d="m 566.69556,360.23651 a 15.152288,15.152288 0 1 1 -30.30457,0 15.152288,15.152288 0 1 1 30.30457,0 z"
+     sodipodi:ry="15.152288"
+     sodipodi:rx="15.152288"
+     sodipodi:cy="360.23651"
+     sodipodi:cx="551.54327"
+     id="path3062"
+     style="color:#000000;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.49253726;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     sodipodi:type="arc"
+     inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/zahnrad-zahnstange.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     d="m 428.57142,483.79074 a 74.285713,74.285713 0 0 1 -83.33887,73.732"
+     sodipodi:ry="74.285713"
+     sodipodi:rx="74.285713"
+     sodipodi:cy="483.79074"
+     sodipodi:cx="354.28571"
+     id="path7084"
+     style="color:#000000;fill:none;stroke:#0000ff;stroke-width:3.82052851;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:7.64105679, 15.28211358;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow2Sstart);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     sodipodi:type="arc"
+     transform="matrix(-0.01171484,-0.78366691,-0.78657909,0.01475184,913.01669,675.66457)"
+     inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/dynamik/zahnrad-zahnstange.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150"
+     sodipodi:start="0"
+     sodipodi:end="1.6929694"
+     inkscape:transform-center-y="-29.552621"
+     sodipodi:open="true"
+     inkscape:transform-center-x="28.372357" />
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.00000002, 12.00000003;stroke-dashoffset:0;marker-start:url(#Arrow2Sstart)"
+     d="m 622.14215,227.12049 -92.413,0"
+     id="path7546"
+     inkscape:connector-curvature="0" />
+</svg>

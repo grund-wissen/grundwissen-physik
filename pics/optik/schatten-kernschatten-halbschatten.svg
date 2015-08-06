@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg15624"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="schatten-kernschatten-halbschatten.svg">
+  <title
+     id="title3190">Kernschatten und Halbschatten</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="379.8952"
+     inkscape:cy="447.61861"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs15626">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path30771"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect16595"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect16591"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect16587"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect16581"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect16577"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect16573"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect16569"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect16559"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect16556"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect16553"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect16550"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14176"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14184"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14188"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14192"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14202"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14208"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect15009"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15048"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15195"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15048-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14192-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15121"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect15125"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15129"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15175"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15179"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15183"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14232"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect14240"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14238"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14265"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15187"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15191"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14232-3"
+       is_visible="true" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265"
+       id="radialGradient26084"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <linearGradient
+       id="linearGradient35265">
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1;"
+         offset="0"
+         id="stop35267" />
+      <stop
+         style="stop-color:#fffb36;stop-opacity:1;"
+         offset="1"
+         id="stop35269" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect34665"
+       is_visible="true" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient26146"
+       xlink:href="#linearGradient35265"
+       inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-5"
+       id="radialGradient26084-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <linearGradient
+       id="linearGradient35265-5">
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1;"
+         offset="0"
+         id="stop35267-7" />
+      <stop
+         style="stop-color:#fffb36;stop-opacity:1;"
+         offset="1"
+         id="stop35269-4" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect34665-1"
+       is_visible="true" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient26146-8"
+       xlink:href="#linearGradient35265-5"
+       inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265"
+       id="radialGradient27818"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-5"
+       id="radialGradient27820"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient50444"
+       xlink:href="#linearGradient35265"
+       inkscape:collect="always" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient50446"
+       xlink:href="#linearGradient35265-5"
+       inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-6"
+       id="radialGradient10733"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,8036.7287,7458.3368)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <linearGradient
+       id="linearGradient35265-6">
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1;"
+         offset="0"
+         id="stop35267-8" />
+      <stop
+         style="stop-color:#fffb36;stop-opacity:1;"
+         offset="1"
+         id="stop35269-5" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect10735"
+       effect="spiro" />
+    <radialGradient
+       r="29.799461"
+       fy="-2897.7612"
+       fx="-7817.8047"
+       cy="-2897.7612"
+       cx="-7817.8047"
+       gradientTransform="matrix(1,0,0,2.4311881,8036.7287,7458.3368)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient11787"
+       xlink:href="#linearGradient35265-6"
+       inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265"
+       id="radialGradient11970"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-5"
+       id="radialGradient11972"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-6"
+       id="radialGradient12136"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,8036.7287,7458.3368)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265"
+       id="radialGradient120952"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-5"
+       id="radialGradient120954"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-6"
+       id="radialGradient120956"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,8036.7287,7458.3368)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-6"
+       id="radialGradient120958"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,8036.7287,7458.3368)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265"
+       id="radialGradient121122"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-5"
+       id="radialGradient121124"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,1.3010286,4179.6755)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-6"
+       id="radialGradient121126"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,8036.7287,7458.3368)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35265-6"
+       id="radialGradient121128"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.4311881,8036.7287,7458.3368)"
+       cx="-7817.8047"
+       cy="-2897.7612"
+       fx="-7817.8047"
+       fy="-2897.7612"
+       r="29.799461" />
+  </defs>
+  <metadata
+     id="metadata15629">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Kernschatten und Halbschatten</dc:title>
+        <dc:date>2012-02-05</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Optik</rdf:li>
+            <rdf:li>Lichtausbreitung</rdf:li>
+            <rdf:li>Schatten</rdf:li>
+            <rdf:li>Kernschatten</rdf:li>
+            <rdf:li>Halbschatten</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.10000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect15508-4"
+       width="699.72369"
+       height="483.14252"
+       x="22.185394"
+       y="284.60983"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 428.13707,670.14699 0.27099,-132.57308 41.82216,41.55574 c 0,0 0.28756,133.96097 -0.27099,132.57314 z"
+       id="path14444-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#cccccc;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 357.49681,591.35359 -0.25254,-38.51206 44.67894,0 11.23795,11.23794 -55.66435,27.27412"
+       id="path16593"
+       inkscape:path-effect="#path-effect16595"
+       inkscape:original-d="m 357.49681,591.35359 -0.25254,-38.51206 44.67894,0 11.23795,11.23794 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 74.29096,638.91575 0,-84.85281 61.87184,0.0215 64.83464,-0.86763 c 0,0 -7.05848,17.71782 50.97042,0.48401 l 6.80701,0.0636 10.39854,32.07948 c 24.38554,-16.51048 43.90262,-30.71844 44.09592,-30.52515 0.1933,0.1933 0.0277,13.19676 -0.36801,28.89658 l -0.71947,28.54514 22.41306,22.32922 c 14.47955,14.42539 23.23981,22.42039 24.74873,22.58681 1.28464,0.14167 41.88316,7.38639 90.21896,16.09938 l 87.88327,15.84179 17.16894,17.07544 17.16892,17.07543 -248.74639,0 -248.74641,0 0,-84.85281 z"
+       id="path16583"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccscscsccccccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#cccccc;stroke:none"
+       d="m 176.55023,569.37234 24.44721,-16.15553 49.0625,-0.22322 -66.85561,20.08634 -2.42109,-1.86625 -4.23301,-1.84134"
+       id="path16589"
+       inkscape:path-effect="#path-effect16591"
+       inkscape:original-d="m 176.55023,569.37234 24.44721,-16.15553 49.0625,-0.22322 -66.85561,20.08634 -2.42109,-1.86625 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#cccccc;stroke:none"
+       d="m 260.53383,553.16451 53.23147,-0.12627 -89.86291,63.45687 c -0.25175,-1.39976 -0.90185,-2.7256 -1.8543,-3.78179 -0.96905,-1.0746 -2.24818,-1.8663 -3.6422,-2.2543 l 42.12794,-57.29451"
+       id="path16585"
+       inkscape:path-effect="#path-effect16587"
+       inkscape:original-d="m 260.53383,553.16451 53.23147,-0.12627 -89.86291,63.45687 c -0.20919,-1.87133 -0.7298,-2.92211 -1.8543,-3.78179 -1.1245,-0.85968 -1.83681,-2.14718 -3.6422,-2.2543 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 486.16712,635.87779 c 0,0 -0.35977,-152.66932 -0.35977,-152.8593 l 51.30576,-15.2755 0.17988,219.26067 z"
+       id="path15157"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 485.97818,415.5249 51.84833,51.97102 c 0.0915,0.0685 -51.99256,15.2566 -51.99256,15.2566 z"
+       id="path15159"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 538.44089,688.44855 -0.57169,-220.11421 35.67836,35.17096 c -0.0841,0.49952 -0.19149,219.6697 -0.19149,219.6697 z"
+       id="path15181"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#999999;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 413.0552,342.09845 41.98722,42.60909 0.54204,221.48703 -42.88953,-42.88953 0.36027,-221.20659"
+       id="path16579"
+       inkscape:path-effect="#path-effect16581"
+       inkscape:original-d="m 413.0552,342.09845 41.98722,42.60909 0.54204,221.48703 -42.88953,-42.88953 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g14194"
+       transform="matrix(0.7329503,0,0,0.7329503,189.10251,45.91466)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 290.8299,691.71277 234.22601,234.226"
+         inkscape:path-effect="#path-effect14176"
+         id="path14174"
+         d="m 290.8299,691.71277 234.22601,234.226"
+         style="fill:none;stroke:#000000;stroke-width:1.36434901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.36434901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 290.8299,389.82509 234.22601,234.226"
+         id="path14182"
+         inkscape:path-effect="#path-effect14184"
+         inkscape:original-d="m 290.8299,389.82509 234.22601,234.226"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 525.05591,925.93877 0,-301.84776"
+         inkscape:path-effect="#path-effect14188"
+         id="path14186"
+         d="m 525.05591,925.93877 0,-301.84776"
+         style="fill:none;stroke:#000000;stroke-width:1.36434901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.36434901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 290.8299,691.71277 0,-301.84776"
+         id="path14190"
+         inkscape:path-effect="#path-effect14192"
+         inkscape:original-d="m 290.8299,691.71277 0,-301.84776"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g14210"
+       transform="matrix(0.7329503,0,0,0.7329503,36.581844,45.91466)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 733.14733,925.93877 -683.649855,0"
+         inkscape:path-effect="#path-effect14202"
+         id="path14200"
+         d="m 733.14733,925.93877 -683.649855,0"
+         style="fill:none;stroke:#000000;stroke-width:1.36434901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.36434901px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 498.92132,691.71277 -449.423845,0"
+         id="path14206"
+         inkscape:path-effect="#path-effect14208"
+         inkscape:original-d="m 498.92132,691.71277 -449.423845,0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:#cccccc;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 402.26637,331.66634 10.78883,10.43211 0,221.98102 -11.11168,-11.11168 0.32285,-221.30145"
+       id="path16575"
+       inkscape:path-effect="#path-effect16577"
+       inkscape:original-d="m 402.26637,331.66634 10.78883,10.43211 0,221.98102 -11.11168,-11.11168 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:original-d="M 214.79544,615.58429 C 272.30278,520.49604 358.64357,441.45517 412.58491,344.36388"
+       inkscape:path-effect="#path-effect15009"
+       id="path15007"
+       d="M 214.79544,615.58429 412.58491,344.36388"
+       style="fill:none;stroke:#ff6600;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="M 175.56906,568.79936 453.42879,385.62513"
+       id="path15046"
+       inkscape:path-effect="#path-effect15048"
+       inkscape:original-d="M 175.56906,568.79936 453.42879,385.62513"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#666666;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 494.75341,646.48439 -39.16895,-40.28982 0,-221.2394 40.20764,39.70256 -1.03869,221.82666"
+       id="path15193"
+       inkscape:path-effect="#path-effect15195"
+       inkscape:original-d="m 494.75341,646.48439 -39.16895,-40.28982 0,-221.2394 40.20764,39.70256 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 537.86725,688.79534 0,-221.2394"
+       id="path15123"
+       inkscape:path-effect="#path-effect15125"
+       inkscape:original-d="m 537.86725,688.79534 0,-221.2394"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.861033,552.90574 0,171.67602"
+       id="path15127"
+       inkscape:path-effect="#path-effect15129"
+       inkscape:original-d="m 72.861033,552.90574 0,171.67602"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#999999;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 455.58446,606.19457 -141.59463,6.87858 99.06537,-48.99368 42.52926,42.1151"
+       id="path15177"
+       inkscape:path-effect="#path-effect15179"
+       inkscape:original-d="m 455.58446,606.19457 -141.59463,6.87858 99.06537,-48.99368 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#999999;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 356.37054,656.01678 138.38287,-9.53239 43.11384,42.31095 -181.49671,-32.77856"
+       id="path15185"
+       inkscape:path-effect="#path-effect15187"
+       inkscape:original-d="m 356.37054,656.01678 138.38287,-9.53239 43.11384,42.31095 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#666666;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 356.14581,611.20402 99.43865,-5.00945 39.16895,40.28982 -137.67673,8.99822 -0.93087,-44.27859"
+       id="path15189"
+       inkscape:path-effect="#path-effect15191"
+       inkscape:original-d="m 356.14581,611.20402 99.43865,-5.00945 39.16895,40.28982 -137.67673,8.99822 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 314.57755,478.84249 42.70408,42.70408 0,134.81838 -43.2918,-43.2918 0.58772,-134.23066"
+       id="path16567"
+       inkscape:path-effect="#path-effect16569"
+       inkscape:original-d="m 314.57755,478.84249 42.70408,42.70408 0,134.81838 -43.2918,-43.2918 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 412.87304,563.89369 0,-220.10553"
+       inkscape:path-effect="#path-effect16573"
+       id="path16571"
+       d="m 412.87304,563.89369 0,-220.10553"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="M 215.82581,622.05067 495.21551,424.91342"
+       id="path14263"
+       inkscape:path-effect="#path-effect14265"
+       inkscape:original-d="M 215.82581,622.05067 C 311.2328,561.2864 398.628,483.74953 495.21551,424.91342"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(0.19029573,0,0,0.19376284,1660.8978,1134.4911)"
+       style="stroke:#501616;stroke-width:3.18876028"
+       id="g36127"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         style="fill:#666666;stroke:#501616;stroke-width:3.18876028;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect36129"
+         width="5.0507627"
+         height="51.51778"
+         x="-7820.0957"
+         y="-2837.7759" />
+      <path
+         style="fill:url(#radialGradient121122);fill-opacity:1;stroke:#501616;stroke-width:3.18876028px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -7808.3494,-2825.5617 c -9.5563,2.2682 -20.1341,-0.3051 -27.5805,-6.7098 -7.4464,-6.4046 -11.573,-16.4785 -10.7597,-26.2666 0.5154,-6.2033 2.8746,-12.1201 5.8106,-17.6089 2.936,-5.4888 6.4625,-10.6393 9.557,-16.0403 13.1628,-22.9738 18.147,-50.5255 13.8673,-76.6548 7.6633,28.5904 15.624,57.1011 23.8806,85.5259 2.3673,8.1499 4.7753,16.3874 5.1718,24.8649 0.3965,8.4775 -1.4135,17.3552 -6.704,23.9911 -3.3677,4.2242 -8.0595,7.3768 -13.2431,8.8985"
+         id="path36133"
+         inkscape:path-effect="#path-effect34665"
+         inkscape:original-d="m -7808.3494,-2825.5617 c 0,0 -41.3481,-11.1222 -38.3402,-32.9764 1.5039,-10.927 0.7821,-23.2529 15.3676,-33.6492 14.5855,-10.3962 20.4245,-60.5575 13.8673,-76.6548 20.4237,-4.9901 17.6166,53.3136 23.8806,85.5259 6.264,32.2123 8.2369,37.2168 -1.5322,48.856 -19.3194,23.0178 34.3564,-27.1838 -13.2431,8.8985 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccssc" />
+    </g>
+    <g
+       transform="matrix(0.19029573,0,0,0.19376284,1699.8577,1179.069)"
+       style="stroke:#501616;stroke-width:3.18876028"
+       id="g36127-5"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         style="fill:#666666;stroke:#501616;stroke-width:3.18876028;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect36129-9"
+         width="5.0507627"
+         height="51.51778"
+         x="-7820.0957"
+         y="-2837.7759" />
+      <path
+         style="fill:url(#radialGradient121124);fill-opacity:1;stroke:#501616;stroke-width:3.18876028px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -7808.3494,-2825.5617 c -9.5563,2.2682 -20.1341,-0.3051 -27.5805,-6.7098 -7.4464,-6.4046 -11.573,-16.4785 -10.7597,-26.2666 0.5154,-6.2033 2.8746,-12.1201 5.8106,-17.6089 2.936,-5.4888 6.4625,-10.6393 9.557,-16.0403 13.1628,-22.9738 18.147,-50.5255 13.8673,-76.6548 7.6633,28.5904 15.624,57.1011 23.8806,85.5259 2.3673,8.1499 4.7753,16.3874 5.1718,24.8649 0.3965,8.4775 -1.4135,17.3552 -6.704,23.9911 -3.3677,4.2242 -8.0595,7.3768 -13.2431,8.8985"
+         id="path36133-5"
+         inkscape:path-effect="#path-effect34665-1"
+         inkscape:original-d="m -7808.3494,-2825.5617 c 0,0 -41.3481,-11.1222 -38.3402,-32.9764 1.5039,-10.927 0.7821,-23.2529 15.3676,-33.6492 14.5855,-10.3962 20.4245,-60.5575 13.8673,-76.6548 20.4237,-4.9901 17.6166,53.3136 23.8806,85.5259 6.264,32.2123 8.2369,37.2168 -1.5322,48.856 -19.3194,23.0178 34.3564,-27.1838 -13.2431,8.8985 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccssc" />
+    </g>
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="M 177.93747,575.12105 537.12361,467.73857"
+       id="path15046-3"
+       inkscape:path-effect="#path-effect15048-9"
+       inkscape:original-d="M 177.93747,575.12105 537.12361,467.73857"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(2.3289118,0,0,2.3289118,8.8178452,116.38099)"
+       ns0:text="Halbschatten"
+       ns0:preamble=""
+       id="g50240"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs50242">
+        <g
+           id="g50244">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-c778fc81-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 6.109375,-6.03125 C 6.109375,-6.390625 6.125,-6.5 6.890625,-6.5 l 0.25,0 0,-0.3125 c -0.359375,0.03125 -1.09375,0.03125 -1.46875,0.03125 -0.375,0 -1.125,0 -1.46875,-0.03125 l 0,0.3125 0.234375,0 c 0.765625,0 0.78125,0.109375 0.78125,0.46875 l 0,2.328125 -2.96875,0 0,-2.328125 C 2.25,-6.390625 2.265625,-6.5 3.03125,-6.5 l 0.234375,0 0,-0.3125 c -0.34375,0.03125 -1.078125,0.03125 -1.46875,0.03125 -0.375,0 -1.125,0 -1.46875,-0.03125 l 0,0.3125 0.234375,0 c 0.765625,0 0.796875,0.109375 0.796875,0.46875 l 0,5.25 c 0,0.359375 -0.03125,0.46875 -0.796875,0.46875 l -0.234375,0 0,0.3125 c 0.34375,-0.03125 1.09375,-0.03125 1.46875,-0.03125 0.375,0 1.125,0 1.46875,0.03125 l 0,-0.3125 -0.234375,0 C 2.265625,-0.3125 2.25,-0.421875 2.25,-0.78125 l 0,-2.609375 2.96875,0 0,2.609375 c 0,0.359375 -0.015625,0.46875 -0.78125,0.46875 l -0.234375,0 0,0.3125 c 0.34375,-0.03125 1.078125,-0.03125 1.453125,-0.03125 0.390625,0 1.125,0 1.484375,0.03125 l 0,-0.3125 -0.25,0 c -0.765625,0 -0.78125,-0.109375 -0.78125,-0.46875 z m 0,0"
+               id="path50247" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-c778fc81-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.3125,-0.75 c 0.046875,0.390625 0.3125,0.8125 0.78125,0.8125 0.21875,0 0.828125,-0.140625 0.828125,-0.953125 l 0,-0.5625 -0.25,0 0,0.5625 c 0,0.578125 -0.25,0.640625 -0.359375,0.640625 -0.328125,0 -0.375,-0.453125 -0.375,-0.5 l 0,-1.984375 c 0,-0.421875 0,-0.8125 -0.359375,-1.1875 C 3.1875,-4.3125 2.6875,-4.46875 2.21875,-4.46875 c -0.828125,0 -1.515625,0.46875 -1.515625,1.125 0,0.296875 0.203125,0.46875 0.46875,0.46875 0.28125,0 0.453125,-0.203125 0.453125,-0.453125 0,-0.125 -0.046875,-0.453125 -0.515625,-0.453125 C 1.390625,-4.140625 1.875,-4.25 2.1875,-4.25 c 0.5,0 1.0625,0.390625 1.0625,1.28125 l 0,0.359375 c -0.515625,0.03125 -1.203125,0.0625 -1.828125,0.359375 -0.75,0.34375 -1,0.859375 -1,1.296875 0,0.8125 0.96875,1.0625 1.59375,1.0625 0.65625,0 1.109375,-0.40625 1.296875,-0.859375 z M 3.25,-2.390625 l 0,1 c 0,0.9375 -0.71875,1.28125 -1.171875,1.28125 -0.484375,0 -0.890625,-0.34375 -0.890625,-0.84375 0,-0.546875 0.421875,-1.375 2.0625,-1.4375 z m 0,0"
+               id="path50250" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-c778fc81-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 1.765625,-6.921875 -1.4375,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 l 0,5.1875 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 C 0.65625,-0.015625 1.1875,-0.03125 1.4375,-0.03125 c 0.25,0 0.734375,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.671875,0 -0.78125,0 -0.78125,-0.4375 z m 0,0"
+               id="path50253" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-c778fc81-3">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 1.71875,-3.765625 0,-3.15625 -1.4375,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 l 0,5.9375 0.25,0 c 0,-0.015625 0.078125,-0.15625 0.359375,-0.625 0.140625,0.234375 0.5625,0.734375 1.296875,0.734375 1.1875,0 2.21875,-0.984375 2.21875,-2.265625 0,-1.265625 -0.96875,-2.25 -2.109375,-2.25 -0.78125,0 -1.203125,0.46875 -1.359375,0.640625 z m 0.03125,2.625 0,-2.046875 c 0,-0.1875 0,-0.203125 0.109375,-0.359375 C 2.25,-4.109375 2.796875,-4.1875 3.03125,-4.1875 c 0.453125,0 0.8125,0.265625 1.046875,0.640625 0.265625,0.40625 0.28125,0.96875 0.28125,1.390625 0,0.359375 -0.015625,0.953125 -0.296875,1.40625 -0.21875,0.3125 -0.59375,0.640625 -1.125,0.640625 -0.453125,0 -0.8125,-0.234375 -1.046875,-0.609375 C 1.75,-0.921875 1.75,-0.953125 1.75,-1.140625 z m 0,0"
+               id="path50256" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-c778fc81-4">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.078125,-1.9375 c 0.21875,0.046875 1.03125,0.203125 1.03125,0.921875 0,0.5 -0.34375,0.90625 -1.125,0.90625 -0.84375,0 -1.203125,-0.5625 -1.390625,-1.421875 C 0.5625,-1.65625 0.5625,-1.6875 0.453125,-1.6875 c -0.125,0 -0.125,0.0625 -0.125,0.234375 l 0,1.328125 c 0,0.171875 0,0.234375 0.109375,0.234375 0.046875,0 0.0625,-0.015625 0.25,-0.203125 0.015625,-0.015625 0.015625,-0.03125 0.203125,-0.21875 0.4375,0.40625 0.890625,0.421875 1.09375,0.421875 1.140625,0 1.609375,-0.671875 1.609375,-1.390625 0,-0.515625 -0.296875,-0.828125 -0.421875,-0.9375 C 2.84375,-2.546875 2.453125,-2.625 2.03125,-2.703125 1.46875,-2.8125 0.8125,-2.9375 0.8125,-3.515625 c 0,-0.359375 0.25,-0.765625 1.109375,-0.765625 1.09375,0 1.15625,0.90625 1.171875,1.203125 0,0.09375 0.09375,0.09375 0.109375,0.09375 0.140625,0 0.140625,-0.046875 0.140625,-0.234375 l 0,-1.015625 c 0,-0.15625 0,-0.234375 -0.109375,-0.234375 -0.046875,0 -0.078125,0 -0.203125,0.125 -0.03125,0.03125 -0.125,0.125 -0.171875,0.15625 -0.375,-0.28125 -0.78125,-0.28125 -0.9375,-0.28125 -1.21875,0 -1.59375,0.671875 -1.59375,1.234375 0,0.34375 0.15625,0.625 0.421875,0.84375 0.328125,0.25 0.609375,0.3125 1.328125,0.453125 z m 0,0"
+               id="path50259" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-c778fc81-5">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 1.171875,-2.171875 c 0,-1.625 0.8125,-2.046875 1.34375,-2.046875 0.09375,0 0.71875,0.015625 1.0625,0.375 -0.40625,0.03125 -0.46875,0.328125 -0.46875,0.453125 0,0.265625 0.1875,0.453125 0.453125,0.453125 0.265625,0 0.46875,-0.15625 0.46875,-0.46875 0,-0.671875 -0.765625,-1.0625 -1.53125,-1.0625 -1.25,0 -2.15625,1.078125 -2.15625,2.3125 0,1.28125 0.984375,2.265625 2.140625,2.265625 1.328125,0 1.65625,-1.203125 1.65625,-1.296875 0,-0.09375 -0.109375,-0.09375 -0.140625,-0.09375 -0.078125,0 -0.109375,0.03125 -0.125,0.09375 -0.28125,0.921875 -0.9375,1.046875 -1.296875,1.046875 -0.53125,0 -1.40625,-0.421875 -1.40625,-2.03125 z m 0,0"
+               id="path50262" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-c778fc81-6">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 1.09375,-0.75 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.359375,-0.015625 0.859375,-0.03125 1.140625,-0.03125 0.25,0 0.765625,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.671875,0 -0.78125,0 -0.78125,-0.4375 l 0,-1.84375 C 1.78125,-3.625 2.5,-4.1875 3.125,-4.1875 c 0.640625,0 0.75,0.53125 0.75,1.109375 l 0,2.328125 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.34375,-0.015625 0.859375,-0.03125 1.125,-0.03125 0.25,0 0.78125,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.515625,0 -0.765625,0 -0.765625,-0.296875 l 0,-1.90625 c 0,-0.859375 0,-1.15625 -0.3125,-1.515625 -0.140625,-0.171875 -0.46875,-0.375 -1.046875,-0.375 -0.84375,0 -1.28125,0.59375 -1.453125,0.984375 l 0,-3.5 -1.4375,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 z m 0,0"
+               id="path50265" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-c778fc81-7">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 1.71875,-3.984375 1.4375,0 0,-0.3125 -1.4375,0 0,-1.828125 -0.25,0 c 0,0.8125 -0.296875,1.875 -1.28125,1.921875 l 0,0.21875 0.84375,0 0,2.75 c 0,1.21875 0.9375,1.34375 1.296875,1.34375 0.703125,0 0.984375,-0.703125 0.984375,-1.34375 l 0,-0.5625 -0.25,0 0,0.546875 c 0,0.734375 -0.296875,1.109375 -0.671875,1.109375 -0.671875,0 -0.671875,-0.90625 -0.671875,-1.078125 z m 0,0"
+               id="path50268" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-c778fc81-8">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 1.109375,-2.515625 C 1.171875,-4 2.015625,-4.25 2.359375,-4.25 c 1.015625,0 1.125,1.34375 1.125,1.734375 z m 0,0.21875 2.78125,0 c 0.21875,0 0.25,0 0.25,-0.21875 0,-0.984375 -0.546875,-1.953125 -1.78125,-1.953125 -1.15625,0 -2.078125,1.03125 -2.078125,2.28125 0,1.328125 1.046875,2.296875 2.1875,2.296875 C 3.6875,0.109375 4.140625,-1 4.140625,-1.1875 4.140625,-1.28125 4.0625,-1.3125 4,-1.3125 c -0.078125,0 -0.109375,0.0625 -0.125,0.140625 -0.34375,1.03125 -1.25,1.03125 -1.34375,1.03125 -0.5,0 -0.890625,-0.296875 -1.125,-0.671875 -0.296875,-0.46875 -0.296875,-1.125 -0.296875,-1.484375 z m 0,0"
+               id="path50271" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-c778fc81-9">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 1.09375,-3.421875 0,2.671875 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.359375,-0.015625 0.859375,-0.03125 1.140625,-0.03125 0.25,0 0.765625,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.671875,0 -0.78125,0 -0.78125,-0.4375 l 0,-1.84375 C 1.78125,-3.625 2.5,-4.1875 3.125,-4.1875 c 0.640625,0 0.75,0.53125 0.75,1.109375 l 0,2.328125 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.34375,-0.015625 0.859375,-0.03125 1.125,-0.03125 0.25,0 0.78125,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.515625,0 -0.765625,0 -0.765625,-0.296875 l 0,-1.90625 c 0,-0.859375 0,-1.15625 -0.3125,-1.515625 -0.140625,-0.171875 -0.46875,-0.375 -1.046875,-0.375 C 2.46875,-4.40625 2,-3.984375 1.71875,-3.359375 l 0,-1.046875 -1.40625,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 z m 0,0"
+               id="path50274" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-c778fc81-10">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g50277">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-c778fc81-0"
+             x="223.43201"
+             y="134.765"
+             id="use50279" />
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-c778fc81-1"
+             x="230.90395"
+             y="134.765"
+             id="use50281" />
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-c778fc81-2"
+             x="235.88525"
+             y="134.765"
+             id="use50283" />
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-c778fc81-3"
+             x="238.65286"
+             y="134.765"
+             id="use50285" />
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-c778fc81-4"
+             x="244.18808"
+             y="134.765"
+             id="use50287" />
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-c778fc81-5"
+             x="248.11732"
+             y="134.765"
+             id="use50289" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g50291">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-c778fc81-6"
+             x="252.26576"
+             y="134.765"
+             id="use50293" />
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-c778fc81-1"
+             x="257.80096"
+             y="134.765"
+             id="use50295" />
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-c778fc81-7"
+             x="262.78229"
+             y="134.765"
+             id="use50297" />
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-c778fc81-7"
+             x="266.65674"
+             y="134.765"
+             id="use50299" />
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-c778fc81-8"
+             x="270.53119"
+             y="134.765"
+             id="use50301" />
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-c778fc81-9"
+             x="274.95856"
+             y="134.765"
+             id="use50303" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g50542"
+       ns0:preamble=""
+       ns0:text="Halbschatten"
+       transform="matrix(2.3289118,0,0,2.3289118,-78.018001,29.545057)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs50544">
+        <g
+           id="g50546">
+          <symbol
+             id="symbol50548"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50550"
+               d="M 6.109375,-6.03125 C 6.109375,-6.390625 6.125,-6.5 6.890625,-6.5 l 0.25,0 0,-0.3125 c -0.359375,0.03125 -1.09375,0.03125 -1.46875,0.03125 -0.375,0 -1.125,0 -1.46875,-0.03125 l 0,0.3125 0.234375,0 c 0.765625,0 0.78125,0.109375 0.78125,0.46875 l 0,2.328125 -2.96875,0 0,-2.328125 C 2.25,-6.390625 2.265625,-6.5 3.03125,-6.5 l 0.234375,0 0,-0.3125 c -0.34375,0.03125 -1.078125,0.03125 -1.46875,0.03125 -0.375,0 -1.125,0 -1.46875,-0.03125 l 0,0.3125 0.234375,0 c 0.765625,0 0.796875,0.109375 0.796875,0.46875 l 0,5.25 c 0,0.359375 -0.03125,0.46875 -0.796875,0.46875 l -0.234375,0 0,0.3125 c 0.34375,-0.03125 1.09375,-0.03125 1.46875,-0.03125 0.375,0 1.125,0 1.46875,0.03125 l 0,-0.3125 -0.234375,0 C 2.265625,-0.3125 2.25,-0.421875 2.25,-0.78125 l 0,-2.609375 2.96875,0 0,2.609375 c 0,0.359375 -0.015625,0.46875 -0.78125,0.46875 l -0.234375,0 0,0.3125 c 0.34375,-0.03125 1.078125,-0.03125 1.453125,-0.03125 0.390625,0 1.125,0 1.484375,0.03125 l 0,-0.3125 -0.25,0 c -0.765625,0 -0.78125,-0.109375 -0.78125,-0.46875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="symbol50552"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50554"
+               d="m 3.3125,-0.75 c 0.046875,0.390625 0.3125,0.8125 0.78125,0.8125 0.21875,0 0.828125,-0.140625 0.828125,-0.953125 l 0,-0.5625 -0.25,0 0,0.5625 c 0,0.578125 -0.25,0.640625 -0.359375,0.640625 -0.328125,0 -0.375,-0.453125 -0.375,-0.5 l 0,-1.984375 c 0,-0.421875 0,-0.8125 -0.359375,-1.1875 C 3.1875,-4.3125 2.6875,-4.46875 2.21875,-4.46875 c -0.828125,0 -1.515625,0.46875 -1.515625,1.125 0,0.296875 0.203125,0.46875 0.46875,0.46875 0.28125,0 0.453125,-0.203125 0.453125,-0.453125 0,-0.125 -0.046875,-0.453125 -0.515625,-0.453125 C 1.390625,-4.140625 1.875,-4.25 2.1875,-4.25 c 0.5,0 1.0625,0.390625 1.0625,1.28125 l 0,0.359375 c -0.515625,0.03125 -1.203125,0.0625 -1.828125,0.359375 -0.75,0.34375 -1,0.859375 -1,1.296875 0,0.8125 0.96875,1.0625 1.59375,1.0625 0.65625,0 1.109375,-0.40625 1.296875,-0.859375 z M 3.25,-2.390625 l 0,1 c 0,0.9375 -0.71875,1.28125 -1.171875,1.28125 -0.484375,0 -0.890625,-0.34375 -0.890625,-0.84375 0,-0.546875 0.421875,-1.375 2.0625,-1.4375 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="symbol50556"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50558"
+               d="m 1.765625,-6.921875 -1.4375,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 l 0,5.1875 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 C 0.65625,-0.015625 1.1875,-0.03125 1.4375,-0.03125 c 0.25,0 0.734375,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.671875,0 -0.78125,0 -0.78125,-0.4375 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="symbol50560"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50562"
+               d="m 1.71875,-3.765625 0,-3.15625 -1.4375,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 l 0,5.9375 0.25,0 c 0,-0.015625 0.078125,-0.15625 0.359375,-0.625 0.140625,0.234375 0.5625,0.734375 1.296875,0.734375 1.1875,0 2.21875,-0.984375 2.21875,-2.265625 0,-1.265625 -0.96875,-2.25 -2.109375,-2.25 -0.78125,0 -1.203125,0.46875 -1.359375,0.640625 z m 0.03125,2.625 0,-2.046875 c 0,-0.1875 0,-0.203125 0.109375,-0.359375 C 2.25,-4.109375 2.796875,-4.1875 3.03125,-4.1875 c 0.453125,0 0.8125,0.265625 1.046875,0.640625 0.265625,0.40625 0.28125,0.96875 0.28125,1.390625 0,0.359375 -0.015625,0.953125 -0.296875,1.40625 -0.21875,0.3125 -0.59375,0.640625 -1.125,0.640625 -0.453125,0 -0.8125,-0.234375 -1.046875,-0.609375 C 1.75,-0.921875 1.75,-0.953125 1.75,-1.140625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="symbol50564"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50566"
+               d="m 2.078125,-1.9375 c 0.21875,0.046875 1.03125,0.203125 1.03125,0.921875 0,0.5 -0.34375,0.90625 -1.125,0.90625 -0.84375,0 -1.203125,-0.5625 -1.390625,-1.421875 C 0.5625,-1.65625 0.5625,-1.6875 0.453125,-1.6875 c -0.125,0 -0.125,0.0625 -0.125,0.234375 l 0,1.328125 c 0,0.171875 0,0.234375 0.109375,0.234375 0.046875,0 0.0625,-0.015625 0.25,-0.203125 0.015625,-0.015625 0.015625,-0.03125 0.203125,-0.21875 0.4375,0.40625 0.890625,0.421875 1.09375,0.421875 1.140625,0 1.609375,-0.671875 1.609375,-1.390625 0,-0.515625 -0.296875,-0.828125 -0.421875,-0.9375 C 2.84375,-2.546875 2.453125,-2.625 2.03125,-2.703125 1.46875,-2.8125 0.8125,-2.9375 0.8125,-3.515625 c 0,-0.359375 0.25,-0.765625 1.109375,-0.765625 1.09375,0 1.15625,0.90625 1.171875,1.203125 0,0.09375 0.09375,0.09375 0.109375,0.09375 0.140625,0 0.140625,-0.046875 0.140625,-0.234375 l 0,-1.015625 c 0,-0.15625 0,-0.234375 -0.109375,-0.234375 -0.046875,0 -0.078125,0 -0.203125,0.125 -0.03125,0.03125 -0.125,0.125 -0.171875,0.15625 -0.375,-0.28125 -0.78125,-0.28125 -0.9375,-0.28125 -1.21875,0 -1.59375,0.671875 -1.59375,1.234375 0,0.34375 0.15625,0.625 0.421875,0.84375 0.328125,0.25 0.609375,0.3125 1.328125,0.453125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="symbol50568"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50570"
+               d="m 1.171875,-2.171875 c 0,-1.625 0.8125,-2.046875 1.34375,-2.046875 0.09375,0 0.71875,0.015625 1.0625,0.375 -0.40625,0.03125 -0.46875,0.328125 -0.46875,0.453125 0,0.265625 0.1875,0.453125 0.453125,0.453125 0.265625,0 0.46875,-0.15625 0.46875,-0.46875 0,-0.671875 -0.765625,-1.0625 -1.53125,-1.0625 -1.25,0 -2.15625,1.078125 -2.15625,2.3125 0,1.28125 0.984375,2.265625 2.140625,2.265625 1.328125,0 1.65625,-1.203125 1.65625,-1.296875 0,-0.09375 -0.109375,-0.09375 -0.140625,-0.09375 -0.078125,0 -0.109375,0.03125 -0.125,0.09375 -0.28125,0.921875 -0.9375,1.046875 -1.296875,1.046875 -0.53125,0 -1.40625,-0.421875 -1.40625,-2.03125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="symbol50572"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50574"
+               d="m 1.09375,-0.75 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.359375,-0.015625 0.859375,-0.03125 1.140625,-0.03125 0.25,0 0.765625,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.671875,0 -0.78125,0 -0.78125,-0.4375 l 0,-1.84375 C 1.78125,-3.625 2.5,-4.1875 3.125,-4.1875 c 0.640625,0 0.75,0.53125 0.75,1.109375 l 0,2.328125 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.34375,-0.015625 0.859375,-0.03125 1.125,-0.03125 0.25,0 0.78125,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.515625,0 -0.765625,0 -0.765625,-0.296875 l 0,-1.90625 c 0,-0.859375 0,-1.15625 -0.3125,-1.515625 -0.140625,-0.171875 -0.46875,-0.375 -1.046875,-0.375 -0.84375,0 -1.28125,0.59375 -1.453125,0.984375 l 0,-3.5 -1.4375,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="symbol50576"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50578"
+               d="m 1.71875,-3.984375 1.4375,0 0,-0.3125 -1.4375,0 0,-1.828125 -0.25,0 c 0,0.8125 -0.296875,1.875 -1.28125,1.921875 l 0,0.21875 0.84375,0 0,2.75 c 0,1.21875 0.9375,1.34375 1.296875,1.34375 0.703125,0 0.984375,-0.703125 0.984375,-1.34375 l 0,-0.5625 -0.25,0 0,0.546875 c 0,0.734375 -0.296875,1.109375 -0.671875,1.109375 -0.671875,0 -0.671875,-0.90625 -0.671875,-1.078125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="symbol50580"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50582"
+               d="M 1.109375,-2.515625 C 1.171875,-4 2.015625,-4.25 2.359375,-4.25 c 1.015625,0 1.125,1.34375 1.125,1.734375 z m 0,0.21875 2.78125,0 c 0.21875,0 0.25,0 0.25,-0.21875 0,-0.984375 -0.546875,-1.953125 -1.78125,-1.953125 -1.15625,0 -2.078125,1.03125 -2.078125,2.28125 0,1.328125 1.046875,2.296875 2.1875,2.296875 C 3.6875,0.109375 4.140625,-1 4.140625,-1.1875 4.140625,-1.28125 4.0625,-1.3125 4,-1.3125 c -0.078125,0 -0.109375,0.0625 -0.125,0.140625 -0.34375,1.03125 -1.25,1.03125 -1.34375,1.03125 -0.5,0 -0.890625,-0.296875 -1.125,-0.671875 -0.296875,-0.46875 -0.296875,-1.125 -0.296875,-1.484375 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="symbol50584"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50586"
+               d="m 1.09375,-3.421875 0,2.671875 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.359375,-0.015625 0.859375,-0.03125 1.140625,-0.03125 0.25,0 0.765625,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.671875,0 -0.78125,0 -0.78125,-0.4375 l 0,-1.84375 C 1.78125,-3.625 2.5,-4.1875 3.125,-4.1875 c 0.640625,0 0.75,0.53125 0.75,1.109375 l 0,2.328125 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.34375,-0.015625 0.859375,-0.03125 1.125,-0.03125 0.25,0 0.78125,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.515625,0 -0.765625,0 -0.765625,-0.296875 l 0,-1.90625 c 0,-0.859375 0,-1.15625 -0.3125,-1.515625 -0.140625,-0.171875 -0.46875,-0.375 -1.046875,-0.375 C 2.46875,-4.40625 2,-3.984375 1.71875,-3.359375 l 0,-1.046875 -1.40625,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g50588">
+        <g
+           id="g50590"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use50592"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-c778fc81-0"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50594"
+             y="134.765"
+             x="230.90395"
+             xlink:href="#textext-c778fc81-1"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50596"
+             y="134.765"
+             x="235.88525"
+             xlink:href="#textext-c778fc81-2"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50598"
+             y="134.765"
+             x="238.65286"
+             xlink:href="#textext-c778fc81-3"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50600"
+             y="134.765"
+             x="244.18808"
+             xlink:href="#textext-c778fc81-4"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50602"
+             y="134.765"
+             x="248.11732"
+             xlink:href="#textext-c778fc81-5"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g50604"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use50606"
+             y="134.765"
+             x="252.26576"
+             xlink:href="#textext-c778fc81-6"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50608"
+             y="134.765"
+             x="257.80096"
+             xlink:href="#textext-c778fc81-1"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50610"
+             y="134.765"
+             x="262.78229"
+             xlink:href="#textext-c778fc81-7"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50612"
+             y="134.765"
+             x="266.65674"
+             xlink:href="#textext-c778fc81-7"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50614"
+             y="134.765"
+             x="270.53119"
+             xlink:href="#textext-c778fc81-8"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50616"
+             y="134.765"
+             x="274.95856"
+             xlink:href="#textext-c778fc81-9"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g50871"
+       transform="matrix(2.3289118,0,0,2.3289118,-34.206752,72.963025)"
+       ns0:preamble=""
+       ns0:text="Kernschatten"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs50873">
+        <g
+           id="g50875">
+          <symbol
+             id="textext-683c1c6f-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50878"
+               d="M 3.984375,-4.171875 5.78125,-5.90625 C 5.859375,-5.984375 6.390625,-6.484375 7.203125,-6.5 l 0,-0.3125 C 6.9375,-6.78125 6.625,-6.78125 6.34375,-6.78125 c -0.359375,0 -0.921875,0 -1.265625,-0.03125 l 0,0.3125 c 0.40625,0.015625 0.46875,0.234375 0.46875,0.328125 0,0.15625 -0.109375,0.265625 -0.1875,0.328125 L 2.25,-2.859375 2.25,-6.03125 C 2.25,-6.390625 2.265625,-6.5 3.03125,-6.5 l 0.234375,0 0,-0.3125 c -0.34375,0.03125 -1.078125,0.03125 -1.46875,0.03125 -0.375,0 -1.125,0 -1.46875,-0.03125 l 0,0.3125 0.234375,0 c 0.765625,0 0.796875,0.109375 0.796875,0.46875 l 0,5.25 c 0,0.359375 -0.03125,0.46875 -0.796875,0.46875 l -0.234375,0 0,0.3125 c 0.34375,-0.03125 1.09375,-0.03125 1.46875,-0.03125 0.375,0 1.125,0 1.46875,0.03125 l 0,-0.3125 -0.234375,0 C 2.265625,-0.3125 2.25,-0.421875 2.25,-0.78125 l 0,-1.734375 1.15625,-1.109375 1.796875,2.671875 c 0.0625,0.09375 0.15625,0.21875 0.15625,0.34375 0,0.296875 -0.390625,0.296875 -0.59375,0.296875 l 0,0.3125 C 5.109375,-0.03125 5.8125,-0.03125 6.1875,-0.03125 c 0.359375,0 0.734375,0.015625 1.15625,0.03125 l 0,-0.3125 c -0.546875,0 -0.75,-0.03125 -1.046875,-0.46875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-683c1c6f-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50881"
+               d="M 1.109375,-2.515625 C 1.171875,-4 2.015625,-4.25 2.359375,-4.25 c 1.015625,0 1.125,1.34375 1.125,1.734375 z m 0,0.21875 2.78125,0 c 0.21875,0 0.25,0 0.25,-0.21875 0,-0.984375 -0.546875,-1.953125 -1.78125,-1.953125 -1.15625,0 -2.078125,1.03125 -2.078125,2.28125 0,1.328125 1.046875,2.296875 2.1875,2.296875 C 3.6875,0.109375 4.140625,-1 4.140625,-1.1875 4.140625,-1.28125 4.0625,-1.3125 4,-1.3125 c -0.078125,0 -0.109375,0.0625 -0.125,0.140625 -0.34375,1.03125 -1.25,1.03125 -1.34375,1.03125 -0.5,0 -0.890625,-0.296875 -1.125,-0.671875 -0.296875,-0.46875 -0.296875,-1.125 -0.296875,-1.484375 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-683c1c6f-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50884"
+               d="m 1.671875,-3.3125 0,-1.09375 -1.390625,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 l 0,2.671875 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.390625,-0.015625 0.859375,-0.03125 1.140625,-0.03125 0.390625,0 0.859375,0 1.265625,0.03125 l 0,-0.3125 -0.21875,0 c -0.734375,0 -0.75,-0.109375 -0.75,-0.46875 l 0,-1.53125 c 0,-0.984375 0.421875,-1.875 1.171875,-1.875 0.0625,0 0.09375,0 0.109375,0.015625 -0.03125,0 -0.234375,0.125 -0.234375,0.390625 0,0.265625 0.21875,0.421875 0.4375,0.421875 0.171875,0 0.421875,-0.125 0.421875,-0.4375 0,-0.3125 -0.3125,-0.609375 -0.734375,-0.609375 -0.734375,0 -1.09375,0.671875 -1.21875,1.09375 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-683c1c6f-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50887"
+               d="m 1.09375,-3.421875 0,2.671875 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.359375,-0.015625 0.859375,-0.03125 1.140625,-0.03125 0.25,0 0.765625,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.671875,0 -0.78125,0 -0.78125,-0.4375 l 0,-1.84375 C 1.78125,-3.625 2.5,-4.1875 3.125,-4.1875 c 0.640625,0 0.75,0.53125 0.75,1.109375 l 0,2.328125 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.34375,-0.015625 0.859375,-0.03125 1.125,-0.03125 0.25,0 0.78125,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.515625,0 -0.765625,0 -0.765625,-0.296875 l 0,-1.90625 c 0,-0.859375 0,-1.15625 -0.3125,-1.515625 -0.140625,-0.171875 -0.46875,-0.375 -1.046875,-0.375 C 2.46875,-4.40625 2,-3.984375 1.71875,-3.359375 l 0,-1.046875 -1.40625,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-683c1c6f-4"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50890"
+               d="m 2.078125,-1.9375 c 0.21875,0.046875 1.03125,0.203125 1.03125,0.921875 0,0.5 -0.34375,0.90625 -1.125,0.90625 -0.84375,0 -1.203125,-0.5625 -1.390625,-1.421875 C 0.5625,-1.65625 0.5625,-1.6875 0.453125,-1.6875 c -0.125,0 -0.125,0.0625 -0.125,0.234375 l 0,1.328125 c 0,0.171875 0,0.234375 0.109375,0.234375 0.046875,0 0.0625,-0.015625 0.25,-0.203125 0.015625,-0.015625 0.015625,-0.03125 0.203125,-0.21875 0.4375,0.40625 0.890625,0.421875 1.09375,0.421875 1.140625,0 1.609375,-0.671875 1.609375,-1.390625 0,-0.515625 -0.296875,-0.828125 -0.421875,-0.9375 C 2.84375,-2.546875 2.453125,-2.625 2.03125,-2.703125 1.46875,-2.8125 0.8125,-2.9375 0.8125,-3.515625 c 0,-0.359375 0.25,-0.765625 1.109375,-0.765625 1.09375,0 1.15625,0.90625 1.171875,1.203125 0,0.09375 0.09375,0.09375 0.109375,0.09375 0.140625,0 0.140625,-0.046875 0.140625,-0.234375 l 0,-1.015625 c 0,-0.15625 0,-0.234375 -0.109375,-0.234375 -0.046875,0 -0.078125,0 -0.203125,0.125 -0.03125,0.03125 -0.125,0.125 -0.171875,0.15625 -0.375,-0.28125 -0.78125,-0.28125 -0.9375,-0.28125 -1.21875,0 -1.59375,0.671875 -1.59375,1.234375 0,0.34375 0.15625,0.625 0.421875,0.84375 0.328125,0.25 0.609375,0.3125 1.328125,0.453125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-683c1c6f-5"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50893"
+               d="m 1.171875,-2.171875 c 0,-1.625 0.8125,-2.046875 1.34375,-2.046875 0.09375,0 0.71875,0.015625 1.0625,0.375 -0.40625,0.03125 -0.46875,0.328125 -0.46875,0.453125 0,0.265625 0.1875,0.453125 0.453125,0.453125 0.265625,0 0.46875,-0.15625 0.46875,-0.46875 0,-0.671875 -0.765625,-1.0625 -1.53125,-1.0625 -1.25,0 -2.15625,1.078125 -2.15625,2.3125 0,1.28125 0.984375,2.265625 2.140625,2.265625 1.328125,0 1.65625,-1.203125 1.65625,-1.296875 0,-0.09375 -0.109375,-0.09375 -0.140625,-0.09375 -0.078125,0 -0.109375,0.03125 -0.125,0.09375 -0.28125,0.921875 -0.9375,1.046875 -1.296875,1.046875 -0.53125,0 -1.40625,-0.421875 -1.40625,-2.03125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-683c1c6f-6"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50896"
+               d="m 1.09375,-0.75 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.359375,-0.015625 0.859375,-0.03125 1.140625,-0.03125 0.25,0 0.765625,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.671875,0 -0.78125,0 -0.78125,-0.4375 l 0,-1.84375 C 1.78125,-3.625 2.5,-4.1875 3.125,-4.1875 c 0.640625,0 0.75,0.53125 0.75,1.109375 l 0,2.328125 c 0,0.4375 -0.109375,0.4375 -0.78125,0.4375 l 0,0.3125 c 0.34375,-0.015625 0.859375,-0.03125 1.125,-0.03125 0.25,0 0.78125,0.015625 1.109375,0.03125 l 0,-0.3125 c -0.515625,0 -0.765625,0 -0.765625,-0.296875 l 0,-1.90625 c 0,-0.859375 0,-1.15625 -0.3125,-1.515625 -0.140625,-0.171875 -0.46875,-0.375 -1.046875,-0.375 -0.84375,0 -1.28125,0.59375 -1.453125,0.984375 l 0,-3.5 -1.4375,0.109375 0,0.3125 c 0.703125,0 0.78125,0.0625 0.78125,0.5625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-683c1c6f-7"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50899"
+               d="m 3.3125,-0.75 c 0.046875,0.390625 0.3125,0.8125 0.78125,0.8125 0.21875,0 0.828125,-0.140625 0.828125,-0.953125 l 0,-0.5625 -0.25,0 0,0.5625 c 0,0.578125 -0.25,0.640625 -0.359375,0.640625 -0.328125,0 -0.375,-0.453125 -0.375,-0.5 l 0,-1.984375 c 0,-0.421875 0,-0.8125 -0.359375,-1.1875 C 3.1875,-4.3125 2.6875,-4.46875 2.21875,-4.46875 c -0.828125,0 -1.515625,0.46875 -1.515625,1.125 0,0.296875 0.203125,0.46875 0.46875,0.46875 0.28125,0 0.453125,-0.203125 0.453125,-0.453125 0,-0.125 -0.046875,-0.453125 -0.515625,-0.453125 C 1.390625,-4.140625 1.875,-4.25 2.1875,-4.25 c 0.5,0 1.0625,0.390625 1.0625,1.28125 l 0,0.359375 c -0.515625,0.03125 -1.203125,0.0625 -1.828125,0.359375 -0.75,0.34375 -1,0.859375 -1,1.296875 0,0.8125 0.96875,1.0625 1.59375,1.0625 0.65625,0 1.109375,-0.40625 1.296875,-0.859375 z M 3.25,-2.390625 l 0,1 c 0,0.9375 -0.71875,1.28125 -1.171875,1.28125 -0.484375,0 -0.890625,-0.34375 -0.890625,-0.84375 0,-0.546875 0.421875,-1.375 2.0625,-1.4375 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-683c1c6f-8"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path50902"
+               d="m 1.71875,-3.984375 1.4375,0 0,-0.3125 -1.4375,0 0,-1.828125 -0.25,0 c 0,0.8125 -0.296875,1.875 -1.28125,1.921875 l 0,0.21875 0.84375,0 0,2.75 c 0,1.21875 0.9375,1.34375 1.296875,1.34375 0.703125,0 0.984375,-0.703125 0.984375,-1.34375 l 0,-0.5625 -0.25,0 0,0.546875 c 0,0.734375 -0.296875,1.109375 -0.671875,1.109375 -0.671875,0 -0.671875,-0.90625 -0.671875,-1.078125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-683c1c6f-9">
+        <g
+           id="g50905"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use50907"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-683c1c6f-0"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50909"
+             y="134.765"
+             x="231.18091"
+             xlink:href="#textext-683c1c6f-1"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50911"
+             y="134.765"
+             x="235.60829"
+             xlink:href="#textext-683c1c6f-2"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50913"
+             y="134.765"
+             x="239.51064"
+             xlink:href="#textext-683c1c6f-3"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50915"
+             y="134.765"
+             x="245.04587"
+             xlink:href="#textext-683c1c6f-4"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50917"
+             y="134.765"
+             x="248.97511"
+             xlink:href="#textext-683c1c6f-5"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g50919"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use50921"
+             y="134.765"
+             x="253.12354"
+             xlink:href="#textext-683c1c6f-6"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50923"
+             y="134.765"
+             x="258.65875"
+             xlink:href="#textext-683c1c6f-7"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50925"
+             y="134.765"
+             x="263.64005"
+             xlink:href="#textext-683c1c6f-8"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50927"
+             y="134.765"
+             x="267.51453"
+             xlink:href="#textext-683c1c6f-8"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50929"
+             y="134.765"
+             x="271.38898"
+             xlink:href="#textext-683c1c6f-1"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use50931"
+             y="134.765"
+             x="275.81635"
+             xlink:href="#textext-683c1c6f-3"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.20100057,0,0,0.20100057,168.41795,540.97756)"
+       id="g11261"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         transform="matrix(1,0,0,0.853065,124.27926,120.69817)"
+         id="g10747">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#782121;stroke:#501616;stroke-width:3.23151207;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 57.21875,431.84375 0,161.625 c 0,11.91034 16.259645,21.5625 36.34375,21.5625 20.08411,0 36.375,-9.65216 36.375,-21.5625 l 0,-161.625 -72.71875,0 z"
+           id="rect10739" />
+        <path
+           transform="matrix(0.59199636,0,0,0.59199636,28.451846,216.0664)"
+           d="m 171.42857,364.50504 c 0,20.11894 -27.50251,36.42857 -61.42857,36.42857 -33.926062,0 -61.42857,-16.30963 -61.42857,-36.42857 0,-20.11895 27.502508,-36.42857 61.42857,-36.42857 33.92606,0 61.42857,16.30962 61.42857,36.42857 z"
+           sodipodi:ry="36.42857"
+           sodipodi:rx="61.42857"
+           sodipodi:cy="364.50504"
+           sodipodi:cx="110"
+           id="path10743"
+           style="color:#000000;fill:#782121;fill-opacity:1;fill-rule:nonzero;stroke:#550000;stroke-width:4.54948902;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:type="arc" />
+      </g>
+      <rect
+         style="fill:#666666;stroke:#501616;stroke-width:2.98467278;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect10724"
+         width="5.0507627"
+         height="51.51778"
+         x="215.332"
+         y="440.88541" />
+      <path
+         style="fill:url(#radialGradient121126);fill-opacity:1;stroke:#501616;stroke-width:2.98467278px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 227.0783,453.0996 c -9.55633,2.26823 -20.13412,-0.30514 -27.58052,-6.70978 -7.44639,-6.40465 -11.57299,-16.47852 -10.75968,-26.26662 0.51545,-6.20332 2.87457,-12.12012 5.81058,-17.6089 2.93601,-5.48879 6.46253,-10.63928 9.55702,-16.0403 13.16276,-22.97385 18.14701,-50.52551 13.8673,-76.6548 7.66325,28.59044 15.62403,57.10113 23.8806,85.5259 2.36731,8.14989 4.77532,16.38745 5.17183,24.86492 0.3965,8.47748 -1.41355,17.35514 -6.70403,23.99108 -3.3677,4.22416 -8.05954,7.37677 -13.2431,8.8985"
+         id="path10728"
+         inkscape:path-effect="#path-effect10735"
+         inkscape:original-d="m 227.0783,453.0996 c 0,0 -41.3481,-11.1222 -38.3402,-32.9764 1.5039,-10.927 0.7821,-23.2529 15.3676,-33.6492 14.5855,-10.3962 20.4245,-60.5575 13.8673,-76.6548 20.4237,-4.9901 17.6166,53.3136 23.8806,85.5259 6.264,32.2123 8.2369,37.2168 -1.5322,48.856 -19.3194,23.0178 34.3564,-27.1838 -13.2431,8.8985 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccssc" />
+    </g>
+    <g
+       id="g12124"
+       transform="matrix(0.20100057,0,0,0.20100057,129.45805,496.39966)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/optik/schatten-kernschatten-halbschatten.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g12126"
+         transform="matrix(1,0,0,0.853065,124.27926,120.69817)">
+        <path
+           id="path12128"
+           d="m 57.21875,431.84375 0,161.625 c 0,11.91034 16.259645,21.5625 36.34375,21.5625 20.08411,0 36.375,-9.65216 36.375,-21.5625 l 0,-161.625 -72.71875,0 z"
+           style="fill:#782121;stroke:#501616;stroke-width:3.23151207;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:#782121;fill-opacity:1;fill-rule:nonzero;stroke:#550000;stroke-width:4.54948902;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path12130"
+           sodipodi:cx="110"
+           sodipodi:cy="364.50504"
+           sodipodi:rx="61.42857"
+           sodipodi:ry="36.42857"
+           d="m 171.42857,364.50504 c 0,20.11894 -27.50251,36.42857 -61.42857,36.42857 -33.926062,0 -61.42857,-16.30963 -61.42857,-36.42857 0,-20.11895 27.502508,-36.42857 61.42857,-36.42857 33.92606,0 61.42857,16.30962 61.42857,36.42857 z"
+           transform="matrix(0.59199636,0,0,0.59199636,28.451846,216.0664)" />
+      </g>
+      <rect
+         y="440.88541"
+         x="215.332"
+         height="51.51778"
+         width="5.0507627"
+         id="rect12132"
+         style="fill:#666666;stroke:#501616;stroke-width:2.98467278;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="ccccssc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 227.0783,453.0996 c 0,0 -41.3481,-11.1222 -38.3402,-32.9764 1.5039,-10.927 0.7821,-23.2529 15.3676,-33.6492 14.5855,-10.3962 20.4245,-60.5575 13.8673,-76.6548 20.4237,-4.9901 17.6166,53.3136 23.8806,85.5259 6.264,32.2123 8.2369,37.2168 -1.5322,48.856 -19.3194,23.0178 34.3564,-27.1838 -13.2431,8.8985 z"
+         inkscape:path-effect="#path-effect10735"
+         id="path12134"
+         d="m 227.0783,453.0996 c -9.55633,2.26823 -20.13412,-0.30514 -27.58052,-6.70978 -7.44639,-6.40465 -11.57299,-16.47852 -10.75968,-26.26662 0.51545,-6.20332 2.87457,-12.12012 5.81058,-17.6089 2.93601,-5.48879 6.46253,-10.63928 9.55702,-16.0403 13.16276,-22.97385 18.14701,-50.52551 13.8673,-76.6548 7.66325,28.59044 15.62403,57.10113 23.8806,85.5259 2.36731,8.14989 4.77532,16.38745 5.17183,24.86492 0.3965,8.47748 -1.41355,17.35514 -6.70403,23.99108 -3.3677,4.22416 -8.05954,7.37677 -13.2431,8.8985"
+         style="fill:url(#radialGradient121128);fill-opacity:1;stroke:#501616;stroke-width:2.98467278px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

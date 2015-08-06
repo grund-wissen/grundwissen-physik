@@ -23,7 +23,8 @@ folgendermaßen installiert werden:
 .. code-block:: bash
 
     aptitude install python3-setuptools
-	easy_install3 -U Sphinx
+
+    easy_install3 -U Sphinx
 	
 Anschließend kann das Repository heruntergeladen werden: 
 
@@ -38,9 +39,9 @@ oder ein PDF-Dokument erstellt werden:
 
     # HTML-Seiten erzeugen:
     make html
-
+    
     # PDF-Dokument erzeugen:
-	make latexpdf
+    make latexpdf
 
 Die fertigen Dokumente befinden sich anschließend im Verzeichnis ``_build/html``
 beziehungsweise ``_build/latex``.

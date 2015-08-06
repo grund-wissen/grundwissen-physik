@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg3216"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="phasenpruefer.svg">
+  <title
+     id="title19616">Phasenpruefer</title>
+  <defs
+     id="defs3218" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.59323952"
+     inkscape:cx="-88.070093"
+     inkscape:cy="786.55815"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-smooth-nodes="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="0,1"
+       position="156.88249,738.94429"
+       id="guide3463" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="234.31392,634.44694"
+       id="guide3465" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4469" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3221">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Phasenpruefer</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2012-04-24</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Elektrizitaetslehre</rdf:li>
+            <rdf:li>Ladungsnachweis</rdf:li>
+            <rdf:li>Phasenpruefer</rdf:li>
+            <rdf:li>Glimmlampe</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#666666;stroke:#000000;stroke-width:5.07553864;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3450"
+       sodipodi:cx="370.72598"
+       sodipodi:cy="584.66156"
+       sodipodi:rx="40.406101"
+       sodipodi:ry="58.588848"
+       d="m 411.13208,584.66156 a 40.406101,58.588848 0 1 1 -80.8122,0 40.406101,58.588848 0 1 1 80.8122,0 z"
+       transform="matrix(0.68036337,0,0,1.0243593,-101.12124,-73.48228)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#999999;stroke:#000000;stroke-width:2.31776571;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 101.80593,465.44843 0,0.15938 c -0.28424,-0.0102 -0.56431,-0.0265 -0.85006,-0.0265 -20.867944,0 -37.774432,27.22541 -37.774432,60.80568 0,33.58026 16.906488,60.80568 37.774432,60.80568 0.28575,0 0.56582,-0.0164 0.85006,-0.0265 l 0,0.18595 47.01881,0 0,-1.14227 c -14.36629,-2.53253 -25.66112,-28.76345 -25.66112,-60.77911 0,-29.90463 9.86434,-54.76742 22.87187,-59.98219 z"
+       id="path3452"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsssccccscc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.60989821;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4247"
+       sodipodi:cx="233.93539"
+       sodipodi:cy="382.14075"
+       sodipodi:rx="11.45381"
+       sodipodi:ry="68.722862"
+       d="m 245.3892,382.14075 a 11.45381,68.722862 0 1 1 -22.90762,0 11.45381,68.722862 0 1 1 22.90762,0 z"
+       transform="matrix(1.8641614,0,0,0.72115138,-291.63466,249.84928)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g4254"
+       transform="matrix(0.85005754,0,0,0.85005754,-14.322892,193.37615)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;stroke:#000000;stroke-width:2.35278201;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3470"
+         sodipodi:cx="370.72598"
+         sodipodi:cy="584.66156"
+         sodipodi:rx="40.406101"
+         sodipodi:ry="58.588848"
+         d="m 411.13208,584.66156 c 0,32.35773 -18.09042,58.58885 -40.4061,58.58885 -22.31567,0 -40.4061,-26.23112 -40.4061,-58.58885 0,-32.35773 18.09043,-58.58885 40.4061,-58.58885 22.31568,0 40.4061,26.23112 40.4061,58.58885 z"
+         transform="matrix(0.18696244,0,0,0.20748696,129.81066,263.86223)" />
+      <path
+         transform="matrix(0.18696244,0,0,0.20748696,105.97774,278.81032)"
+         d="m 411.13208,584.66156 c 0,32.35773 -18.09042,58.58885 -40.4061,58.58885 -22.31567,0 -40.4061,-26.23112 -40.4061,-58.58885 0,-32.35773 18.09043,-58.58885 40.4061,-58.58885 22.31568,0 40.4061,26.23112 40.4061,58.58885 z"
+         sodipodi:ry="58.588848"
+         sodipodi:rx="40.406101"
+         sodipodi:cy="584.66156"
+         sodipodi:cx="370.72598"
+         id="path4252"
+         style="fill:#000000;stroke:#000000;stroke-width:2.35278201;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <rect
+       style="fill:#cccccc;stroke:#808080;stroke-width:2.00000024;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect7763"
+       width="14.805707"
+       height="3.6010578"
+       x="154.62051"
+       y="-522.70972"
+       transform="scale(1,-1)"
+       inkscape:transform-center-x="-1.8395963"
+       inkscape:transform-center-y="2.3622403"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#f2f2f2;stroke:#333333;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect7783"
+       width="155.02249"
+       height="19.251158"
+       x="172.79037"
+       y="510.77887"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g4409"
+       transform="matrix(0.85005754,0,0,0.85005754,122.78506,-239.31631)"
+       style="fill:#f9f9f9;stroke:#000000;stroke-width:1.17639101"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#f9f9f9;stroke:#000000;stroke-width:2.35278201;stroke-linecap:round;stroke-miterlimit:4;stroke-dashoffset:0"
+         d="m 568.84375,1111.7812 -143.90625,0.5938 -100.71875,1.1875 -83.4375,8.9375 0,17.2812 0,10.625 0,17.2813 83.4375,8.9375 100.71875,1.1875 143.90625,0.5937 0,-28 0,-10.625 0,-28 z"
+         transform="translate(0,-253.11576)"
+         id="rect4404" />
+    </g>
+    <rect
+       y="493.83292"
+       x="580.79474"
+       height="53.044373"
+       width="38.179665"
+       id="rect4475"
+       style="fill:#800000;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#cccccc;stroke:#333333;stroke-width:1.99999988;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4413"
+       width="246.92577"
+       height="8.8892412"
+       x="162.72144"
+       y="515.95984"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="-4.3771363"
+       inkscape:transform-center-x="0.152185"
+       inkscape:connector-curvature="0"
+       id="path11270"
+       d="m 483.93435,513.99005 -0.26983,-5.54003"
+       style="fill:#ffb380;stroke:#ffcc00;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(0.47299577,0,0,0.47299577,302.55862,266.08002)"
+       id="g12058-5"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         transform="translate(-184.28571,457.11214)"
+         id="g4152-4">
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4144-7"
+           d="m 662.85714,52.362183 -22.85714,0 0,56.428567 22.85714,0 c 44,-19.428567 44,-39.428567 0,-56.428567 z"
+           style="fill:#cccccc;stroke:#000000;stroke-width:2.35278201;stroke-linecap:round;stroke-miterlimit:4;stroke-dashoffset:0" />
+        <g
+           id="g4148-6"
+           transform="translate(7.14286,0)">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="rect4139-5"
+             d="m 455,52.362183 22.85714,0 0,56.428567 -22.85714,0 C 411,89.362183 411,69.362183 455,52.362183 z"
+             style="fill:#cccccc;stroke:#000000;stroke-width:2.35278201;stroke-linecap:round;stroke-miterlimit:4;stroke-dashoffset:0" />
+          <rect
+             y="55.576466"
+             x="477.85712"
+             height="50"
+             width="155.00003"
+             id="rect4146-6"
+             style="fill:none;stroke:#000000;stroke-width:2.35278201;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+        </g>
+      </g>
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4202-9"
+         d="m 300.71429,536.6886 66,0 19,-10"
+         style="fill:none;stroke:#1a1a1a;stroke-width:3.5291729;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="ccc"
+         style="fill:none;stroke:#1a1a1a;stroke-width:3.5291729;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 456.28573,536.6886 -70,0 -19,10"
+         id="path4230-3"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:#cccccc;stroke:#333333;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 410.93423,539.25684 0,-37.70481 13.34542,0 0,7.88097 -7.25555,0 0,21.3174 8.06302,0 0,8.50644 z"
+       id="path4471"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g5130"
+       transform="matrix(0,0.2003634,0.14670871,0,452.01155,396.93529)"
+       style="stroke:#333333;stroke-width:11.6652174;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         style="stroke:#333333;stroke-width:3.95527315;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(2.9492824,0,0,2.9492824,2384.0509,649.45138)"
+         id="g5132">
+        <g
+           style="stroke:#333333;stroke-width:3.95527315;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="g5134">
+          <path
+             inkscape:connector-curvature="0"
+             id="path5136"
+             style="fill:none;stroke:#333333;stroke-width:3.95527315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m -608.39684,33.036594 c 0,-3.28983 1.42638,-7.417682 6.31546,-8.158625 4.88908,-0.740943 11.63613,-0.581014 11.64286,3 0.007,3.581013 -6.75386,3.720424 -11.64286,3 -4.88901,-0.720424 -6.27781,-5.032301 -6.31546,-7.87028"
+             sodipodi:nodetypes="czsss" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path5138"
+             style="fill:none;stroke:#333333;stroke-width:3.95527315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m -608.37843,43.004778 c 0,-3.28983 1.42638,-7.417682 6.31546,-8.158625 4.88908,-0.740943 11.63613,-0.581014 11.64286,3 0.007,3.581013 -6.75386,3.720424 -11.64286,3 -4.88901,-0.720424 -6.27781,-5.032301 -6.31546,-7.87028"
+             sodipodi:nodetypes="czsss" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path5142"
+             style="fill:none;stroke:#333333;stroke-width:3.95527315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m -608.37843,52.716792 c 0,-3.28983 1.42638,-7.417682 6.31546,-8.158625 4.88908,-0.740943 11.63613,-0.581014 11.64286,3 0.007,3.581013 -6.75386,3.720424 -11.64286,3 -4.88901,-0.720424 -6.27781,-5.032301 -6.31546,-7.87028"
+             sodipodi:nodetypes="czsss" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path5144"
+             style="fill:none;stroke:#333333;stroke-width:3.95527315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m -608.37843,62.692049 c 0,-3.28983 1.42638,-7.417682 6.31546,-8.158625 4.88908,-0.740943 11.63613,-0.581014 11.64286,3 0.007,3.581013 -6.75386,3.720424 -11.64286,3 -4.88901,-0.720424 -6.27781,-5.032301 -6.31546,-7.87028"
+             sodipodi:nodetypes="czsss" />
+          <path
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="czsss"
+             d="m -608.37843,62.692049 c 0,-3.28983 1.42638,-7.417682 6.31546,-8.158625 4.88908,-0.740943 11.63613,-0.581014 11.64286,3 0.007,3.581013 -6.75386,3.720424 -11.64286,3 -4.88901,-0.720424 -6.27781,-5.032301 -6.31546,-7.87028"
+             style="fill:none;stroke:#333333;stroke-width:3.95527315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             id="path5146" />
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc"
+         id="path5148"
+         d="m 589.79562,834.68228 c 2.27707,25.25984 32.64371,18.383 33.08374,26.44569 0.28855,5.28703 0,276.61483 0,282.92043"
+         style="fill:none;stroke:#333333;stroke-width:11.6652174;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#333333;stroke-width:11.6652174;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 589.79562,716.6355 c 2.27707,-25.25984 32.64371,-18.383 33.08374,-26.44569 0.28855,-5.28704 0,-32.06445 0,-38.36994"
+         id="path5150"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:2.69161463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path19463"
+       sodipodi:cx="631.91168"
+       sodipodi:cy="153.69481"
+       sodipodi:rx="11.588911"
+       sodipodi:ry="34.766731"
+       d="m 631.91168,188.46154 a 11.588911,34.766731 0 1 1 0,-69.53346 l 0,34.76673 z"
+       sodipodi:start="1.5707963"
+       sodipodi:end="4.712389"
+       transform="matrix(-0.72646321,0,0,0.76001223,1080.0373,403.54517)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4473"
+       d="m 551.18886,539.25684 0,-37.70481 -13.34542,0 0,7.88097 7.25555,0 0,21.3174 -8.06302,0 0,8.50644 z"
+       style="fill:#cccccc;stroke:#333333;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffb380;stroke:#ffcc00;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 481.81729,514.9705 -2.25339,-5.06823"
+       id="path7977"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="1.723505"
+       inkscape:transform-center-y="-4.0264163"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffb380;stroke:#ffcc00;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 485.37114,513.97156 3.18407,-4.54164"
+       id="path11272"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-2.563895"
+       inkscape:transform-center-y="-3.5509063"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="-1.9639863"
+       inkscape:transform-center-x="-3.91475"
+       inkscape:connector-curvature="0"
+       id="path11274"
+       d="m 486.09346,515.1509 4.9226,-2.55594"
+       style="fill:#ffb380;stroke:#ffcc00;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffb380;stroke:#ffcc00;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 485.97673,516.1623 5.51971,0.54551"
+       id="path11276"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-4.352135"
+       inkscape:transform-center-y="0.4913537"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="-3.9095963"
+       inkscape:transform-center-x="1.974225"
+       inkscape:connector-curvature="0"
+       id="path11280"
+       d="m 479.13384,516.26016 -2.56882,-4.91589"
+       style="fill:#ffb380;stroke:#ffcc00;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffb380;stroke:#ffcc00;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 476.08173,517.94531 -2.99797,-4.66657"
+       id="path11282"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="2.315805"
+       inkscape:transform-center-y="-3.7174613"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g11889"
+       transform="matrix(0.88140851,0.92586346,-0.92586346,0.88140851,643.48794,330.08496)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="csccccc"
+         inkscape:connector-curvature="0"
+         id="path11885"
+         d="m 122.05108,108.05357 c 0,0 -16.61899,20.66667 -18.18383,32.55282 -0.4658,3.53813 -0.2179,9.65959 1.56643,12.75014 4.83139,6.91467 9.99162,10.76842 17.6803,6.45591 6.45544,-3.72705 12.7499,-11.54542 18.02074,-16.81626 9.11832,-6.72801 17.1507,-14.42039 21.20765,-26.35379 1.35076,-3.09613 5.60428,-6.31402 5.60428,-6.31402"
+         style="fill:#ffccaa;stroke:#000000;stroke-width:2.3468287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="ssssccss"
+         inkscape:connector-curvature="0"
+         id="path11887"
+         d="m 107.02966,151.45975 c -0.58475,-4.46915 2.3787,-8.62234 5.11017,-12.20763 2.51716,-3.304 5.39758,-6.76554 9.2267,-8.375 2.22845,-0.93667 5.00806,-1.35563 7.2394,-0.42585 3.43491,1.43129 5.95828,4.93667 7.38135,8.375 1.85559,8.65443 -10.64342,17.50379 -15.75635,21.86017 -1.59003,1.19305 -4.15749,0.69219 -5.96186,-0.14195 -3.7415,-1.72965 -6.70464,-4.99762 -7.23941,-9.08474 z"
+         style="fill:#cccccc;stroke:#000000;stroke-width:2.3468287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect11973"
+       width="690.27765"
+       height="219.13577"
+       x="26.908417"
+       y="416.61322" />
+    <g
+       id="g11879"
+       transform="matrix(-0.0370005,1.2777852,-1.2777852,-0.0370005,836.65823,398.45627)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/elektrizitaet-magnetismus/phasenpruefer.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="csac"
+         inkscape:connector-curvature="0"
+         id="path11369"
+         d="m 59.655182,144.41473 c 2.861083,5.96061 -6.539027,51.00116 5.165734,47.76628 5.504821,-1.52138 10.410325,-7.11955 13.349637,-12.44628 5.022207,-9.10144 5.829939,-30.6356 5.829939,-30.6356"
+         style="fill:#ffb380;stroke:#000000;stroke-width:2.3468287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="scs"
+         inkscape:connector-curvature="0"
+         id="rect11366"
+         d="m 60.947551,156.60343 c 4.429284,2.31914 1.622607,33.07396 -3.051907,34.56463 -1.324352,-4.21826 -0.536842,-36.44368 3.051907,-34.56463 z"
+         style="fill:#cccccc;stroke:#000000;stroke-width:1.56455255;stroke-linecap:round;stroke-miterlimit:4;stroke-dashoffset:0" />
+    </g>
+  </g>
+</svg>

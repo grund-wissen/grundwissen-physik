@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg9948"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="huygensches-prinzip.svg">
+  <title
+     id="title11068">Das Huygensche Prinzip</title>
+  <defs
+     id="defs9950">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;">
+      <path
+         id="path7565"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path7559"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Send"
+       style="overflow:visible;">
+      <path
+         id="path7583"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path7577"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.66171875"
+     inkscape:cx="447.72392"
+     inkscape:cy="687.88276"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       orientation="1,0"
+       position="263.27415,528.54896"
+       id="guide10567" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="263.27415,528.54896"
+       id="guide10569" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="320.31021,528.54608"
+       id="guide10571" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="432.12164,528.54032"
+       id="guide10581" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="486.89701,528.54608"
+       id="guide10585" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="541.67238,528.54608"
+       id="guide10593" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="538.17001,418.74389"
+       id="guide10597" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="515.06092,640.2094"
+       id="guide10599" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="582.92306,616.72751"
+       id="guide10648" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="596.44775,528.54608"
+       id="guide10650" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="377.34627,528.5432"
+       id="guide7522" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="651.22312,528.54608"
+       id="guide7534" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata9953">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:title>Das Huygensche Prinzip</dc:title>
+        <dc:date>2014-02-09</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Optik</rdf:li>
+            <rdf:li>Wellenoptik</rdf:li>
+            <rdf:li>Huygensches Prinzip</rdf:li>
+            <rdf:li>Elementarwellen</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:language>de-DE</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.99999994, 1.99999988;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11090"
+       width="702.38141"
+       height="279.96561"
+       x="20.856537"
+       y="386.1983"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="color:#000000;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#f9f9f9;stroke-width:0.42732152;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.28196478, 2.56392956;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect59365"
+       width="660.66833"
+       height="251.08733"
+       x="41.713085"
+       y="398.26675"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.63934427;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path10021"
+       sodipodi:cx="219.72905"
+       sodipodi:cy="508.31573"
+       sodipodi:rx="36.465672"
+       sodipodi:ry="36.465672"
+       d="m 256.19472,508.31573 a 36.465672,36.465672 0 1 1 -72.93134,0 36.465672,36.465672 0 1 1 72.93134,0 z"
+       transform="matrix(1.1059876,1.1059876,-1.1059876,1.1059876,497.18104,-281.39816)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path10531"
+       sodipodi:cx="201.16228"
+       sodipodi:cy="465.43851"
+       sodipodi:rx="2.1371822"
+       sodipodi:ry="2.1371822"
+       d="m 203.29946,465.43851 a 2.1371822,2.1371822 0 1 1 -4.27437,0 2.1371822,2.1371822 0 1 1 4.27437,0 z"
+       transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,405.20985,12.1218)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,324.54869,12.121798)"
+       d="m 203.29946,465.43851 a 2.1371822,2.1371822 0 1 1 -4.27437,0 2.1371822,2.1371822 0 1 1 4.27437,0 z"
+       sodipodi:ry="2.1371822"
+       sodipodi:rx="2.1371822"
+       sodipodi:cy="465.43851"
+       sodipodi:cx="201.16228"
+       id="path10533"
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path10535"
+       sodipodi:cx="201.16228"
+       sodipodi:cy="465.43851"
+       sodipodi:rx="2.1371822"
+       sodipodi:ry="2.1371822"
+       d="m 203.29946,465.43851 a 2.1371822,2.1371822 0 1 1 -4.27437,0 2.1371822,2.1371822 0 1 1 4.27437,0 z"
+       transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,324.54868,92.782958)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,405.20984,92.782955)"
+       d="m 203.29946,465.43851 a 2.1371822,2.1371822 0 1 1 -4.27437,0 2.1371822,2.1371822 0 1 1 4.27437,0 z"
+       sodipodi:ry="2.1371822"
+       sodipodi:rx="2.1371822"
+       sodipodi:cy="465.43851"
+       sodipodi:cx="201.16228"
+       id="path10537"
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,365.53846,-4.5798605)"
+       d="m 203.29946,465.43851 a 2.1371822,2.1371822 0 1 1 -4.27437,0 2.1371822,2.1371822 0 1 1 4.27437,0 z"
+       sodipodi:ry="2.1371822"
+       sodipodi:rx="2.1371822"
+       sodipodi:cy="465.43851"
+       sodipodi:cx="201.16228"
+       id="path10539"
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path10541"
+       sodipodi:cx="201.16228"
+       sodipodi:cy="465.43851"
+       sodipodi:rx="2.1371822"
+       sodipodi:ry="2.1371822"
+       d="m 203.29946,465.43851 a 2.1371822,2.1371822 0 1 1 -4.27437,0 2.1371822,2.1371822 0 1 1 4.27437,0 z"
+       transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,421.91532,52.455284)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,365.40723,109.48603)"
+       d="m 203.29946,465.43851 a 2.1371822,2.1371822 0 1 1 -4.27437,0 2.1371822,2.1371822 0 1 1 4.27437,0 z"
+       sodipodi:ry="2.1371822"
+       sodipodi:rx="2.1371822"
+       sodipodi:cy="465.43851"
+       sodipodi:cx="201.16228"
+       id="path10543"
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path10545"
+       sodipodi:cx="201.16228"
+       sodipodi:cy="465.43851"
+       sodipodi:rx="2.1371822"
+       sodipodi:ry="2.1371822"
+       d="m 203.29946,465.43851 a 2.1371822,2.1371822 0 1 1 -4.27437,0 2.1371822,2.1371822 0 1 1 4.27437,0 z"
+       transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,307.86463,50.884359)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(1.1059876,1.1059876,-1.1059876,1.1059876,456.85047,-321.72877)"
+       d="m 238.09222,539.82032 a 36.465672,36.465672 0 1 1 -0.19131,-63.11991"
+       sodipodi:ry="36.465672"
+       sodipodi:rx="36.465672"
+       sodipodi:cy="508.31573"
+       sodipodi:cx="219.72905"
+       id="path10547"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.63934427;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.6393443, 1.91803289;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       sodipodi:start="1.0430654"
+       sodipodi:end="5.234058"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.63934427;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.6393443, 2.55737719;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path10549"
+       sodipodi:cx="219.72905"
+       sodipodi:cy="508.31573"
+       sodipodi:rx="36.465672"
+       sodipodi:ry="36.465672"
+       d="M 254.64992,518.81706 A 36.465672,36.465672 0 1 1 210.98715,472.91341"
+       transform="matrix(1.1059876,1.1059876,-1.1059876,1.1059876,440.16641,-282.96621)"
+       sodipodi:start="0.29211525"
+       sodipodi:end="4.4703018"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(1.1059876,1.1059876,-1.1059876,1.1059876,456.85046,-241.06758)"
+       d="m 251.34546,490.14577 a 36.465672,36.465672 0 1 1 -63.3836,0.26491"
+       sodipodi:ry="36.465672"
+       sodipodi:rx="36.465672"
+       sodipodi:cy="508.31573"
+       sodipodi:cx="219.72905"
+       id="path10551"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.63934427;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.6393443, 1.91803289;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       sodipodi:start="5.7615761"
+       sodipodi:end="9.9380282"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.63934427;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.6393443, 1.91803289;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path10553"
+       sodipodi:cx="219.72905"
+       sodipodi:cy="508.31573"
+       sodipodi:rx="36.465672"
+       sodipodi:ry="36.465672"
+       d="m 209.70107,543.37547 a 36.465672,36.465672 0 1 1 45.37519,-44.02189"
+       transform="matrix(1.1059876,1.1059876,-1.1059876,1.1059876,497.84024,-338.43043)"
+       sodipodi:start="1.8493838"
+       sodipodi:end="6.0348717"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(1.1059876,-1.1059876,1.1059876,1.1059876,-586.87017,164.30644)"
+       d="m 201.75746,476.58614 a 36.465672,36.465672 0 1 1 -0.0987,63.40308"
+       sodipodi:ry="36.465672"
+       sodipodi:rx="36.465672"
+       sodipodi:cy="508.31573"
+       sodipodi:cx="219.72905"
+       id="path10555"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.63934427;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.6393443, 1.91803289;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       sodipodi:start="4.1970431"
+       sodipodi:end="8.3724411"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.63934422;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.63934422, 1.91803266;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path10557"
+       sodipodi:cx="219.72905"
+       sodipodi:cy="508.31573"
+       sodipodi:rx="36.465672"
+       sodipodi:ry="36.465672"
+       d="m 184.36087,499.43669 a 36.465672,36.465672 0 1 1 45.44073,43.926"
+       transform="matrix(1.1059876,1.1059876,-1.1059876,1.1059876,554.20965,-282.32296)"
+       sodipodi:start="3.3875556"
+       sodipodi:end="7.5741226"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(1.1059876,1.1059876,-1.1059876,1.1059876,537.51162,-241.06761)"
+       d="m 201.578,476.68846 a 36.465672,36.465672 0 1 1 -0.089,63.20328"
+       sodipodi:ry="36.465672"
+       sodipodi:rx="36.465672"
+       sodipodi:cy="508.31573"
+       sodipodi:cx="219.72905"
+       id="path10559"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.63934427;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.6393443, 1.91803289;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       sodipodi:start="4.1913782"
+       sodipodi:end="8.3778102"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.63934427;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.6393443, 1.91803289;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path10561"
+       sodipodi:cx="219.72905"
+       sodipodi:cy="508.31573"
+       sodipodi:rx="36.465672"
+       sodipodi:ry="36.465672"
+       d="m 228.87054,473.01448 a 36.465672,36.465672 0 1 1 -44.29242,45.00474"
+       transform="matrix(1.1059876,1.1059876,-1.1059876,1.1059876,497.70901,-224.36454)"
+       sodipodi:start="4.9657794"
+       sodipodi:end="9.1554339"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(3.325226,-3.325226,3.325226,3.325226,-2242.906,-435.80547)"
+       d="m 256.07955,511.21159 a 36.465672,36.465672 0 0 1 -33.01521,33.41697"
+       sodipodi:ry="36.465672"
+       sodipodi:rx="36.465672"
+       sodipodi:cy="508.31573"
+       sodipodi:cx="219.72905"
+       id="path10563"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.21264924;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       inkscape:transform-center-x="-151.50667"
+       sodipodi:start="0.079496924"
+       sodipodi:end="1.4792046"
+       sodipodi:open="true" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.31994489;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path10565"
+       sodipodi:cx="219.72905"
+       sodipodi:cy="508.31573"
+       sodipodi:rx="36.465672"
+       sodipodi:ry="36.465672"
+       d="m 256.19472,508.31573 a 36.465672,36.465672 0 1 1 -72.93134,0 36.465672,36.465672 0 1 1 72.93134,0 z"
+       transform="matrix(2.2100892,2.2100892,-2.2100892,2.2100892,815.81003,-1085.2335)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.16090959;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path10579"
+       sodipodi:cx="219.72905"
+       sodipodi:cy="508.31573"
+       sodipodi:rx="36.465672"
+       sodipodi:ry="36.465672"
+       d="m 254.85255,518.11803 a 36.465672,36.465672 0 0 1 -25.05142,25.24479"
+       transform="matrix(4.3944348,-4.3944348,4.3944348,4.3944348,-3021.8465,-744.36539)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       sodipodi:start="0.27215607"
+       sodipodi:end="1.2909509"
+       sodipodi:open="true" />
+    <path
+       transform="matrix(5.4530681,-5.4530681,5.4530681,5.4530681,-3792.579,-1049.8729)"
+       d="m 253.64218,521.71891 a 36.465672,36.465672 0 0 1 -20.30039,20.42638"
+       sodipodi:ry="36.465672"
+       sodipodi:rx="36.465672"
+       sodipodi:cy="508.31573"
+       sodipodi:cx="219.72905"
+       id="path10583"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.12967137;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       sodipodi:start="0.37637961"
+       sodipodi:end="1.1882296"
+       sodipodi:open="true" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.10853483;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path10591"
+       sodipodi:cx="219.72905"
+       sodipodi:cy="508.31573"
+       sodipodi:rx="36.465672"
+       sodipodi:ry="36.465672"
+       d="m 252.61392,524.07424 a 36.465672,36.465672 0 0 1 -16.9081,17.02088"
+       transform="matrix(6.5150211,-6.5150211,6.5150211,6.5150211,-4565.7281,-1356.3385)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       sodipodi:start="0.44687137"
+       sodipodi:end="1.1172769"
+       sodipodi:open="true" />
+    <path
+       transform="matrix(9.2863703,-5.3614882,5.3614882,9.2863703,-4588.626,-3018.5462)"
+       d="m 255.20417,516.75738 a 36.465672,36.465672 0 0 1 -10.29225,17.93198"
+       sodipodi:ry="36.465672"
+       sodipodi:rx="36.465672"
+       sodipodi:cy="508.31573"
+       sodipodi:cx="219.72905"
+       id="path10595"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.09325767;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:transform-center-x="-347.1971"
+       inkscape:transform-center-y="25.59752"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       sodipodi:start="0.23361472"
+       sodipodi:end="0.80849006"
+       sodipodi:open="true" />
+    <path
+       inkscape:transform-center-y="30.143609"
+       inkscape:transform-center-x="-408.8632"
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.07919219;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path10616"
+       sodipodi:cx="219.72905"
+       sodipodi:cy="508.31573"
+       sodipodi:rx="36.465672"
+       sodipodi:ry="36.465672"
+       d="m 254.75973,518.44473 a 36.465672,36.465672 0 0 1 -8.78828,15.1906"
+       transform="matrix(10.935742,-6.3137539,6.3137539,10.935742,-5449.8382,-3648.8318)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       sodipodi:start="0.28146989"
+       sodipodi:end="0.76750316"
+       sodipodi:open="true" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.75;color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path10541-4"
+       sodipodi:cx="201.16228"
+       sodipodi:cy="465.43851"
+       sodipodi:rx="2.1371822"
+       sodipodi:ry="2.1371822"
+       d="m 203.29946,465.43851 a 2.1371822,2.1371822 0 1 1 -4.27437,0 2.1371822,2.1371822 0 1 1 4.27437,0 z"
+       transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,755.08892,52.455286)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g10657"
+       transform="translate(-25.419734,3.292119)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       style="opacity:0.75">
+      <path
+         transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,777.94419,4.3802278)"
+         d="m 203.29946,465.43851 c 0,1.18033 -0.95685,2.13718 -2.13718,2.13718 -1.18034,0 -2.13719,-0.95685 -2.13719,-2.13718 0,-1.18034 0.95685,-2.13719 2.13719,-2.13719 1.18033,0 2.13718,0.95685 2.13718,2.13719 z"
+         sodipodi:ry="2.1371822"
+         sodipodi:rx="2.1371822"
+         sodipodi:cy="465.43851"
+         sodipodi:cx="201.16228"
+         id="path10638"
+         style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path10640"
+         sodipodi:cx="201.16228"
+         sodipodi:cy="465.43851"
+         sodipodi:rx="2.1371822"
+         sodipodi:ry="2.1371822"
+         d="m 203.29946,465.43851 c 0,1.18033 -0.95685,2.13718 -2.13718,2.13718 -1.18034,0 -2.13719,-0.95685 -2.13719,-2.13718 0,-1.18034 0.95685,-2.13719 2.13719,-2.13719 1.18033,0 2.13718,0.95685 2.13718,2.13719 z"
+         transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,777.94419,92.090742)" />
+    </g>
+    <g
+       id="g10652"
+       transform="translate(-25.019013,-1.039124)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       style="opacity:0.75">
+      <g
+         transform="translate(-0.00794904,-0.03398164)"
+         id="g10644">
+        <path
+           transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,769.79458,-35.783731)"
+           d="m 203.29946,465.43851 c 0,1.18033 -0.95685,2.13718 -2.13718,2.13718 -1.18034,0 -2.13719,-0.95685 -2.13719,-2.13718 0,-1.18034 0.95685,-2.13719 2.13719,-2.13719 1.18033,0 2.13718,0.95685 2.13718,2.13719 z"
+           sodipodi:ry="2.1371822"
+           sodipodi:rx="2.1371822"
+           sodipodi:cy="465.43851"
+           sodipodi:cx="201.16228"
+           id="path10636"
+           style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="path10642"
+           sodipodi:cx="201.16228"
+           sodipodi:cy="465.43851"
+           sodipodi:rx="2.1371822"
+           sodipodi:ry="2.1371822"
+           d="m 203.29946,465.43851 c 0,1.18033 -0.95685,2.13718 -2.13718,2.13718 -1.18034,0 -2.13719,-0.95685 -2.13719,-2.13718 0,-1.18034 0.95685,-2.13719 2.13719,-2.13719 1.18033,0 2.13718,0.95685 2.13718,2.13719 z"
+           transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,769.79458,140.98515)" />
+      </g>
+    </g>
+    <path
+       transform="matrix(0.74128731,-1.2839472,1.2839472,0.74128731,-247.31554,429.12573)"
+       d="m 249.91001,487.8498 a 36.465672,36.465672 0 1 1 -62.9054,36.55494"
+       sodipodi:ry="36.465672"
+       sodipodi:rx="36.465672"
+       sodipodi:cy="508.31573"
+       sodipodi:cx="219.72905"
+       id="path10661"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.67450237;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.67450239, 2.02350716;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       sodipodi:start="5.6873039"
+       sodipodi:end="8.9678319"
+       sodipodi:open="true" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path11088"
+       sodipodi:cx="201.16228"
+       sodipodi:cy="465.43851"
+       sodipodi:rx="2.1371822"
+       sodipodi:ry="2.1371822"
+       d="m 203.29946,465.43851 a 2.1371822,2.1371822 0 1 1 -4.27437,0 2.1371822,2.1371822 0 1 1 4.27437,0 z"
+       transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,364.87926,52.452408)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:open="true"
+       sodipodi:end="8.9678319"
+       sodipodi:start="5.6873039"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.67450237;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.67450239, 2.02350716;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path7538"
+       sodipodi:cx="219.72905"
+       sodipodi:cy="508.31573"
+       sodipodi:rx="36.465672"
+       sodipodi:ry="36.465672"
+       d="m 249.91001,487.8498 a 36.465672,36.465672 0 1 1 -62.9054,36.55494"
+       transform="matrix(0.87247241,-1.198674,1.198674,0.87247241,-234.00339,382.38098)" />
+    <path
+       transform="matrix(0.87247241,-1.198674,1.198674,0.87247241,-243.11629,431.16203)"
+       d="m 252.3399,491.99771 a 36.465672,36.465672 0 0 1 -25.29331,52.04195"
+       sodipodi:ry="36.465672"
+       sodipodi:rx="36.465672"
+       sodipodi:cy="508.31573"
+       sodipodi:cx="219.72905"
+       id="path7540"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.67450237;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.67450239, 2.02350716;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       sodipodi:start="5.8192286"
+       sodipodi:end="7.6519407"
+       sodipodi:open="true" />
+    <path
+       sodipodi:open="true"
+       sodipodi:end="8.9678319"
+       sodipodi:start="5.6873039"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.67450237;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.67450239, 2.02350716;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path7542"
+       sodipodi:cx="219.72905"
+       sodipodi:cy="508.31573"
+       sodipodi:rx="36.465672"
+       sodipodi:ry="36.465672"
+       d="m 249.91001,487.8498 a 36.465672,36.465672 0 1 1 -62.9054,36.55494"
+       transform="matrix(0.61008236,-1.3512318,1.3512318,0.61008236,-255.24818,468.18724)" />
+    <path
+       transform="matrix(0.61008236,-1.3512318,1.3512318,0.61008236,-263.00911,421.29152)"
+       d="M 247.08275,532.43046 A 36.465672,36.465672 0 0 1 189.34776,528.4831"
+       sodipodi:ry="36.465672"
+       sodipodi:rx="36.465672"
+       sodipodi:cy="508.31573"
+       sodipodi:cx="219.72905"
+       id="path7544"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.67450237;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.67450239, 2.02350716;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       sodipodi:start="0.72254973"
+       sodipodi:end="2.5555711"
+       sodipodi:open="true" />
+    <path
+       inkscape:transform-center-x="-151.50667"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.21264924;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path8176"
+       sodipodi:cx="219.72905"
+       sodipodi:cy="508.31573"
+       sodipodi:rx="36.465672"
+       sodipodi:ry="36.465672"
+       d="m 256.19472,508.31573 a 36.465672,36.465672 0 0 1 -33.13038,36.31283"
+       transform="matrix(3.325226,-3.325226,3.325226,3.325226,-2242.906,-435.80547)"
+       sodipodi:open="true"
+       sodipodi:start="0"
+       sodipodi:end="1.4792046" />
+    <g
+       id="g12081"
+       transform="matrix(1,0,0,0.86293876,0,71.716309)"
+       inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+         sodipodi:nodetypes="csssssc"
+         id="path3147"
+         title="t sin(5*t)"
+         d="m 403.89129,523.81322 c 3.14835,-3.10849 6.29669,-6.14803 9.44504,-7.60556 3.14835,-1.45754 6.29669,-1.2625 9.44504,0.48054 3.14835,1.74306 6.2967,4.96531 9.44505,8.05575 3.14834,3.09044 6.29669,5.91406 9.44504,7.0662 3.14835,1.15214 6.2967,0.57513 9.44505,-1.43599 2.51672,-1.60765 5.03344,-4.07991 7.55015,-6.55806"
+         style="fill:none;stroke:#ff6600;stroke-width:1.61473501;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ff6600;stroke-width:1.61473501;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 349.11592,523.81322 c 3.14835,-3.10849 6.29669,-6.14803 9.44504,-7.60556 3.14835,-1.45754 6.29669,-1.2625 9.44504,0.48054 3.14835,1.74306 6.2967,4.96531 9.44505,8.05575 3.14834,3.09044 6.29669,5.91406 9.44504,7.0662 3.14835,1.15214 6.2967,0.57513 9.44505,-1.43599 2.51672,-1.60765 5.03344,-4.07991 7.55015,-6.55806"
+         title="t sin(5*t)"
+         id="path7510"
+         sodipodi:nodetypes="csssssc"
+         inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ff6600;stroke-width:1.61473501;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 235.0438,523.81322 c 3.27829,-3.10849 6.55657,-6.14803 9.83486,-7.60556 3.27829,-1.45754 6.55656,-1.2625 9.83485,0.48054 3.27829,1.74306 6.55658,4.96531 9.83487,8.05575 3.27828,3.09044 6.55657,5.91406 9.83486,7.0662 3.27828,1.15214 6.55657,0.57513 9.83486,-1.43599 2.62059,-1.60765 5.24118,-4.07991 7.86176,-6.55806"
+         title="t sin(5*t)"
+         id="path7518"
+         sodipodi:nodetypes="csssssc"
+         inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+         sodipodi:nodetypes="csssssc"
+         id="path7520"
+         title="t sin(5*t)"
+         d="m 292.07986,523.81322 c 3.27829,-3.10849 6.55657,-6.14803 9.83486,-7.60556 3.27829,-1.45754 6.55656,-1.2625 9.83485,0.48054 3.27829,1.74306 6.55658,4.96531 9.83487,8.05575 3.27828,3.09044 6.55657,5.91406 9.83486,7.0662 3.27828,1.15214 6.55657,0.57513 9.83486,-1.43599 2.62059,-1.60765 5.24118,-4.07991 7.86176,-6.55806"
+         style="fill:none;stroke:#ff6600;stroke-width:1.61473501;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+         sodipodi:nodetypes="csssssc"
+         id="path7516"
+         title="t sin(5*t)"
+         d="m 178.00774,523.81034 c 3.27829,-3.10849 6.55657,-6.14803 9.83486,-7.60556 3.27829,-1.45754 6.55656,-1.2625 9.83485,0.48054 3.27829,1.74306 6.55658,4.96531 9.83487,8.05575 3.27828,3.09044 6.55657,5.91406 9.83486,7.0662 3.27828,1.15214 6.55657,0.57513 9.83486,-1.43599 2.62059,-1.60765 5.24118,-4.07991 7.86176,-6.55806"
+         style="fill:none;stroke:#ff6600;stroke-width:1.61473501;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ff6600;stroke-width:1.61473501;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 458.66666,523.81322 c 3.14835,-3.10849 6.29669,-6.14803 9.44504,-7.60556 3.14835,-1.45754 6.29669,-1.2625 9.44504,0.48054 3.14835,1.74306 6.2967,4.96531 9.44505,8.05575 3.14834,3.09044 6.29669,5.91406 9.44504,7.0662 3.14835,1.15214 6.2967,0.57513 9.44505,-1.43599 2.51672,-1.60765 5.03344,-4.07991 7.55015,-6.55806"
+         title="t sin(5*t)"
+         id="path7528"
+         sodipodi:nodetypes="csssssc"
+         inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+         sodipodi:nodetypes="csssssc"
+         id="path7530"
+         title="t sin(5*t)"
+         d="m 513.44203,523.81322 c 3.14835,-3.10849 6.29669,-6.14803 9.44504,-7.60556 3.14835,-1.45754 6.29669,-1.2625 9.44504,0.48054 3.14835,1.74306 6.2967,4.96531 9.44505,8.05575 3.14834,3.09044 6.29669,5.91406 9.44504,7.0662 3.14835,1.15214 6.2967,0.57513 9.44505,-1.43599 2.51672,-1.60765 5.03344,-4.07991 7.55015,-6.55806"
+         style="fill:none;stroke:#ff6600;stroke-width:1.61473501;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+         sodipodi:nodetypes="csssssc"
+         id="path7536"
+         title="t sin(5*t)"
+         d="m 622.99277,523.81322 c 3.14835,-3.10849 6.29669,-6.14803 9.44504,-7.60556 3.14835,-1.45754 6.29669,-1.2625 9.44504,0.48054 3.14835,1.74306 6.2967,4.96531 9.44505,8.05575 3.14834,3.09044 6.29669,5.91406 9.44504,7.0662 3.14835,1.15214 6.2967,0.57513 9.44505,-1.43599 2.51672,-1.60765 5.03344,-4.07991 7.55015,-6.55806"
+         style="fill:none;stroke:#ff6600;stroke-width:1.61473501;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Mend)"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ff6600;stroke-width:1.61473501;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 568.2174,523.81322 c 3.14835,-3.10849 6.29669,-6.14803 9.44504,-7.60556 3.14835,-1.45754 6.29669,-1.2625 9.44504,0.48054 3.14835,1.74306 6.2967,4.96531 9.44505,8.05575 3.14834,3.09044 6.29669,5.91406 9.44504,7.0662 3.14835,1.15214 6.2967,0.57513 9.44505,-1.43599 2.51672,-1.60765 5.03344,-4.07991 7.55015,-6.55806"
+         title="t sin(5*t)"
+         id="path7532"
+         sodipodi:nodetypes="csssssc"
+         inkscape:export-filename="/home/waldgeist/sandbox/homepage/pics/physik/mechanik/schwingungen-und-wellen/huygensches-prinzip.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+    </g>
+  </g>
+</svg>

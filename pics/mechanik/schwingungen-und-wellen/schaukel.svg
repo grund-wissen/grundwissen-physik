@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="schaukel.svg">
+  <title
+     id="title5766">Schaukel-Schwingung</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient42045">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="0"
+         id="stop42047" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop42049" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3368"
+       effect="spiro" />
+    <linearGradient
+       id="linearGradient3632">
+      <stop
+         id="stop3634"
+         offset="0"
+         style="stop-color:#ebebeb;stop-opacity:1;" />
+      <stop
+         id="stop3636"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2830">
+      <stop
+         id="stop2832"
+         offset="0"
+         style="stop-color:#0e0e0e;stop-opacity:0.74583334;" />
+      <stop
+         id="stop2834"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.47273955"
+     inkscape:cx="-244.03089"
+     inkscape:cy="946.79764"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Schaukel-Schwingung</dc:title>
+        <dc:date>2012-08-07</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Schwingung</rdf:li>
+            <rdf:li>Schaukel</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5787"
+       width="694.28571"
+       height="657.14288"
+       x="24.904388"
+       y="197.60965"
+       ry="8.0812206"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/schaukel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#999999;stroke-width:4.08988762;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.08988755, 12.26966265;stroke-dashoffset:0"
+       id="path5739"
+       sodipodi:cx="638.57141"
+       sodipodi:cy="455.37405"
+       sodipodi:rx="260"
+       sodipodi:ry="260"
+       d="m 863.73802,585.37405 a 260,260 0 0 1 -450.33322,0"
+       transform="matrix(1.467033,0,0,1.467033,-561.15109,-235.62018)"
+       sodipodi:start="0.52359878"
+       sodipodi:end="2.6179939"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/schaukel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985"
+       width="500"
+       height="20"
+       x="125.65422"
+       y="219.81583"
+       ry="8.0812206"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/schaukel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g42278"
+       transform="matrix(-1.0932987,0,0,-1.0932987,625.60964,193.28819)"
+       style="stroke:#333333;stroke-width:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/schaukel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:open="true"
+         sodipodi:end="6.2831853"
+         sodipodi:start="1.5707963"
+         transform="translate(-6.125,293.3927)"
+         d="m 234.75,-345.03052 c -6.69645,0 -12.125,-5.42854 -12.125,-12.125 0,-6.69645 5.42855,-12.125 12.125,-12.125 6.69645,0 12.125,5.42855 12.125,12.125 0,0 0,0 0,0"
+         sodipodi:ry="12.125"
+         sodipodi:rx="12.125"
+         sodipodi:cy="-357.15552"
+         sodipodi:cx="234.75"
+         id="path42274"
+         style="fill:none;stroke:#333333;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path42276"
+         d="m 228.625,-51.63782 0,16.875"
+         style="fill:none;stroke:#333333;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g5664"
+       transform="matrix(0.86602541,-0.50000001,0.50000001,0.86602541,-14.99708,390.99502)"
+       inkscape:transform-center-y="254.14507"
+       inkscape:transform-center-x="-135.48603"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/schaukel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         ry="5.0507627"
+         y="602.36218"
+         x="334.28815"
+         height="14.285714"
+         width="78.105858"
+         id="rect3639"
+         style="fill:#a05a2c;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         rx="18.595318"
+         transform="matrix(0.0237412,-0.99971814,-0.99973626,-0.02296545,0,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.64443761;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect23375"
+         width="115.94418"
+         height="29.883591"
+         x="-677.164"
+         y="-334.96661"
+         ry="14.941795" />
+      <rect
+         transform="matrix(-0.98492469,-0.17298369,-0.17298369,0.98492469,0,0)"
+         ry="20.695446"
+         y="394.85919"
+         x="-500.01718"
+         height="124.17268"
+         width="41.390892"
+         id="rect22009"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         transform="scale(-1,1)"
+         ry="14.095277"
+         y="570.06793"
+         x="-401.72876"
+         height="28.190554"
+         width="106.05019"
+         id="rect22011"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="matrix(-2.7056417,-2.7256716,-2.7256716,2.7056417,1429.8963,616.39004)"
+         d="m 225.26403,156.86195 c 0,3.34735 -2.71357,6.06092 -6.06092,6.06092 -3.34735,0 -6.06092,-2.71357 -6.06092,-6.06092 0,-3.34735 2.71357,-6.06091 6.06092,-6.06091 3.34735,0 6.06092,2.71356 6.06092,6.06091 z"
+         sodipodi:ry="6.0609155"
+         sodipodi:rx="6.0609155"
+         sodipodi:cy="156.86195"
+         sodipodi:cx="219.20311"
+         id="path22029"
+         style="fill:#000000;stroke:#000000;stroke-width:0.63378507;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path3641"
+         d="m 340.28815,610.12458 33.05292,-71.33599 32.64287,70.71644"
+         style="fill:none;stroke:#999999;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2987"
+         d="M 398.56338,93.827726 373.34107,538.78859"
+         style="fill:#999999;stroke:#999999;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect22049"
+         d="m 407.77535,471.23404 c 1.59046,0.97641 2.96443,2.31743 3.96667,4.05337 l 32.98546,57.15672 c 3.20718,5.55501 1.31783,12.58897 -4.23717,15.79616 -1.32618,0.76566 -2.74174,1.25612 -4.16605,1.46024 l -49.33478,28.48193 c -4.87068,2.8121 -11.04133,1.1448 -13.85343,-3.72588 -2.8121,-4.87068 -1.19566,-11.07069 3.67502,-13.88279 l 43.09013,-24.83098 -28.22187,-48.84555 c -3.20718,-5.555 -1.28847,-12.63983 4.26653,-15.84702 3.81907,-2.20494 8.33053,-1.96434 11.82949,0.1838 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       inkscape:transform-center-x="168.7704"
+       inkscape:transform-center-y="219.88117"
+       transform="matrix(0.86602541,0.50000001,-0.50000001,0.86602541,120.79902,18.31168)"
+       id="g5703"
+       style="opacity:0.5"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/schaukel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         style="fill:#a05a2c;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect5705"
+         width="78.105858"
+         height="14.285714"
+         x="334.28815"
+         y="602.36218"
+         ry="5.0507627" />
+      <rect
+         ry="14.941795"
+         y="-334.96661"
+         x="-677.164"
+         height="29.883591"
+         width="115.94418"
+         id="rect5707"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.64443761;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         transform="matrix(0.0237412,-0.99971814,-0.99973626,-0.02296545,0,0)"
+         rx="18.595318" />
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect5709"
+         width="41.390892"
+         height="124.17268"
+         x="-500.01718"
+         y="394.85919"
+         ry="20.695446"
+         transform="matrix(-0.98492469,-0.17298369,-0.17298369,0.98492469,0,0)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect5711"
+         width="106.05019"
+         height="28.190554"
+         x="-401.72876"
+         y="570.06793"
+         ry="14.095277"
+         transform="scale(-1,1)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#000000;stroke:#000000;stroke-width:0.63378507;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path5713"
+         sodipodi:cx="219.20311"
+         sodipodi:cy="156.86195"
+         sodipodi:rx="6.0609155"
+         sodipodi:ry="6.0609155"
+         d="m 225.26403,156.86195 c 0,3.34735 -2.71357,6.06092 -6.06092,6.06092 -3.34735,0 -6.06092,-2.71357 -6.06092,-6.06092 0,-3.34735 2.71357,-6.06091 6.06092,-6.06091 3.34735,0 6.06092,2.71356 6.06092,6.06091 z"
+         transform="matrix(-2.7056417,-2.7256716,-2.7256716,2.7056417,1429.8963,616.39004)" />
+      <path
+         style="fill:none;stroke:#999999;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 340.28815,610.12458 33.05292,-71.33599 32.64287,70.71644"
+         id="path5715"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:#999999;stroke:#999999;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 349.27768,92.399131 373.34107,538.78859"
+         id="path5717"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 407.77535,471.23404 c 1.59046,0.97641 2.96443,2.31743 3.96667,4.05337 l 32.98546,57.15672 c 3.20718,5.55501 1.31783,12.58897 -4.23717,15.79616 -1.32618,0.76566 -2.74174,1.25612 -4.16605,1.46024 l -49.33478,28.48193 c -4.87068,2.8121 -11.04133,1.1448 -13.85343,-3.72588 -2.8121,-4.87068 -1.19566,-11.07069 3.67502,-13.88279 l 43.09013,-24.83098 -28.22187,-48.84555 c -3.20718,-5.555 -1.28847,-12.63983 4.26653,-15.84702 3.81907,-2.20494 8.33053,-1.96434 11.82949,0.1838 z"
+         id="path5719" />
+    </g>
+  </g>
+</svg>

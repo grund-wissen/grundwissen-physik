@@ -1,0 +1,1762 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg8241"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="a-t-diagramm-konstante-beschleunigung.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="431.56031"
+     inkscape:cy="669.12595"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="0.0,0"
+       orientation="744.0945,0"
+       id="guide13080" />
+    <sodipodi:guide
+       position="350.7874,0"
+       orientation="744.0945,0"
+       id="guide13082" />
+    <sodipodi:guide
+       position="701.5748,0"
+       orientation="744.0945,0"
+       id="guide13084" />
+    <sodipodi:guide
+       position="1052.3622,0"
+       orientation="744.0945,0"
+       id="guide13086" />
+    <sodipodi:guide
+       position="0,0.0"
+       orientation="0,1052.3622"
+       id="guide13088" />
+    <sodipodi:guide
+       position="0,372.0472"
+       orientation="0,1052.3622"
+       id="guide13090" />
+    <sodipodi:guide
+       position="0,744.0945"
+       orientation="0,1052.3622"
+       id="guide13092" />
+  </sodipodi:namedview>
+  <title
+     id="title9689">a-t-Diagramm: Konstante Beschleunigung</title>
+  <defs
+     id="defs8243">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12446"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12443"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect12408"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11238"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11235"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11200"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5371-6" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11383-2"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="marker17763"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path17765"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker17759"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.4,-0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path17761" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11946-0"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="marker17754"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path17756"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.4,-0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path12612-0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11958-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11954-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11950-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9054-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9981-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9977-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9973-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9969-5"
+       effect="spiro" />
+    <marker
+       style="overflow:visible"
+       id="marker17740"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path17742"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-27"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5368-01"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9054"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutS"
+       style="overflow:visible">
+      <path
+         id="path5371"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5368"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10188"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10190"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10192"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10194"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10196"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10198"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10200"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10202"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5368-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-3"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path5368-1" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9969"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9973"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9977"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9981"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11383"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11946"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11950"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11954"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11958"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInM"
+       style="overflow:visible">
+      <path
+         id="path12612"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(-0.4)" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3605"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3605-5"
+       is_visible="true" />
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-8"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path12612-9" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11958-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11954-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11950-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11946-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11383-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9981-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9977-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9973-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9969-1"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM-3-9"
+       style="overflow:visible">
+      <path
+         id="path5368-1-9"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-2-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5368-0-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker10200-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path10202-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker10196-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path10198-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker10192-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path10194-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker10188-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path10190-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5368-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-0"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path5371-8" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9054-7"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-27-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5368-01-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker17740-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17742-4"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9969-5-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9973-4-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9977-4-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9981-6-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9054-4-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11950-2-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11954-0-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11958-0-1"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-5-1"
+       style="overflow:visible">
+      <path
+         id="path12612-0-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(-0.4,-0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker17754-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17756-2"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11946-0-2"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker17759-7"
+       style="overflow:visible">
+      <path
+         id="path17761-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(-0.4,-0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker17763-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17765-9"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11383-2-8"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS-6-3"
+       style="overflow:visible">
+      <path
+         id="path5371-6-4"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.2,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInM-2"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path12612-4" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11958-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11954-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11950-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11946-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11383-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9981-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9977-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9973-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9969-2"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM-3-7"
+       style="overflow:visible">
+      <path
+         id="path5368-1-90"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-2-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5368-0-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker10200-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path10202-7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker10196-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path10198-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker10192-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path10194-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker10188-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path10190-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5368-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-8"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path5371-2" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9054-2"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-27-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5368-01-1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker17740-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17742-1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9969-5-72"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9973-4-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9977-4-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9981-6-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect9054-4-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11950-2-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11954-0-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect11958-0-5"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-5-3"
+       style="overflow:visible">
+      <path
+         id="path12612-0-4"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(-0.4,-0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker17754-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17756-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11946-0-29"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker17759-9"
+       style="overflow:visible">
+      <path
+         id="path17761-37"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(-0.4,-0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker17763-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path17765-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11383-2-7"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS-6-34"
+       style="overflow:visible">
+      <path
+         id="path5371-6-5"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.2,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata8246">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>a-t-Diagramm: Konstante Beschleunigung</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2012-06-17</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Kinematik</rdf:li>
+            <rdf:li>a-t-Diagramm</rdf:li>
+            <rdf:li>Beschleunigung</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-308.2677)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <rect
+       y="447.97986"
+       x="21.332012"
+       height="464.67017"
+       width="1026.3149"
+       id="rect13819"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       y="476.52246"
+       x="731.93323"
+       height="407.58496"
+       width="290.07059"
+       id="rect11079"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="-174.93074"
+       inkscape:transform-center-x="4.5514727"
+       style="fill:none;stroke:#d40000;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+       d="m 815.25241,798.77374 175.19212,0"
+       id="path11085"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="-237.71661"
+       inkscape:transform-center-x="3.6364747e-05"
+       style="fill:none;stroke:#000000;stroke-width:2.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 815.25242,874.53578 -8e-5,-375.48233"
+       id="path11087"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 815.25242,686.76262 184.16971,0"
+       id="path11083"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 824.23947,686.76262 -17.97423,0"
+       inkscape:path-effect="#path-effect12446"
+       id="path11089"
+       d="m 824.23947,686.76262 -17.97423,0"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 815.25242,677.7755 0,17.97424"
+       id="path11091"
+       inkscape:path-effect="#path-effect12443"
+       inkscape:original-d="m 815.25242,677.7755 0,17.97424"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       ns0:text="$t$\n"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       transform="matrix(2.1114384,0,0,2.1114384,524.06155,423.55191)"
+       id="g11093"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs11095">
+        <g
+           id="g11097">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol11099">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.046875,-3.984375 0.9375,0 c 0.203125,0 0.3125,0 0.3125,-0.203125 0,-0.109375 -0.109375,-0.109375 -0.28125,-0.109375 l -0.875,0 C 2.5,-5.71875 2.546875,-5.90625 2.546875,-5.96875 c 0,-0.171875 -0.125,-0.265625 -0.296875,-0.265625 -0.03125,0 -0.3125,0 -0.390625,0.359375 l -0.390625,1.578125 -0.9375,0 c -0.203125,0 -0.296875,0 -0.296875,0.1875 0,0.125 0.078125,0.125 0.28125,0.125 l 0.875,0 C 0.671875,-1.15625 0.625,-0.984375 0.625,-0.8125 0.625,-0.265625 1,0.109375 1.546875,0.109375 2.5625,0.109375 3.125,-1.34375 3.125,-1.421875 3.125,-1.53125 3.046875,-1.53125 3.015625,-1.53125 2.921875,-1.53125 2.90625,-1.5 2.859375,-1.390625 2.4375,-0.34375 1.90625,-0.109375 1.5625,-0.109375 c -0.203125,0 -0.3125,-0.125 -0.3125,-0.453125 0,-0.25 0.03125,-0.3125 0.0625,-0.484375 z m 0,0"
+               id="path11101" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g11103">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g11105">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-fdac4b56-0"
+             x="223.43201"
+             y="134.765"
+             id="use11107" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g11109"
+       transform="matrix(2.1225963,0,0,2.1225963,322.55935,217.75789)"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       ns0:text="$v$\n"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs11111">
+        <g
+           id="g11113">
+          <symbol
+             id="symbol11115"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path11117"
+               d="m 4.671875,-3.703125 c 0,-0.546875 -0.265625,-0.703125 -0.4375,-0.703125 -0.25,0 -0.5,0.265625 -0.5,0.484375 0,0.125 0.046875,0.1875 0.15625,0.296875 0.21875,0.203125 0.34375,0.453125 0.34375,0.8125 0,0.421875 -0.609375,2.703125 -1.765625,2.703125 -0.515625,0 -0.75,-0.34375 -0.75,-0.875 0,-0.546875 0.28125,-1.28125 0.578125,-2.109375 0.078125,-0.171875 0.125,-0.3125 0.125,-0.5 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.9375,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.296875,-1 0.71875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.53125 -0.171875,0.703125 -0.4375,1.15625 -0.5625,1.609375 -0.5625,2.046875 0,1.078125 0.875,1.234375 1.328125,1.234375 1.671875,0 2.25,-3.296875 2.25,-3.8125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g11119">
+        <g
+           id="g11121"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use11123"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-395ae106-0"
+             width="744.09448"
+             height="1052.3622"
+             transform="translate(-1.8844846,0)" />
+        </g>
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 824.9119,798.77374 -17.97423,0"
+       id="path11157"
+       inkscape:path-effect="#path-effect12408"
+       inkscape:original-d="m 824.9119,798.77374 -17.97423,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 112.46853,682.92803 184.1697,0"
+       id="path7147-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="-218.84272"
+       inkscape:transform-center-x="5.6940152"
+       style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:5.99999952;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+       d="m 111.79608,570.91694 175.19216,0"
+       id="path7217-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="-149.82568"
+       inkscape:transform-center-x="3.4773517e-05"
+       style="fill:none;stroke:#000000;stroke-width:2.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 112.46853,682.92804 -7e-5,-187.70915"
+       id="path7149-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 121.45558,682.92803 -17.97423,0"
+       inkscape:path-effect="#path-effect11954-3"
+       id="path11952-4"
+       d="m 121.45558,682.92803 -17.97423,0"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 112.46853,673.94067 0,196.76024"
+       id="path3603"
+       inkscape:path-effect="#path-effect3605-5"
+       inkscape:original-d="m 112.46853,673.94067 0,196.76024"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       ns0:text="$t$\n"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       transform="matrix(2.1114384,0,0,2.1114384,-178.72235,419.71733)"
+       id="g4969"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs4971">
+        <g
+           id="g4973">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-fdac4b56-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.046875,-3.984375 0.9375,0 c 0.203125,0 0.3125,0 0.3125,-0.203125 0,-0.109375 -0.109375,-0.109375 -0.28125,-0.109375 l -0.875,0 C 2.5,-5.71875 2.546875,-5.90625 2.546875,-5.96875 c 0,-0.171875 -0.125,-0.265625 -0.296875,-0.265625 -0.03125,0 -0.3125,0 -0.390625,0.359375 l -0.390625,1.578125 -0.9375,0 c -0.203125,0 -0.296875,0 -0.296875,0.1875 0,0.125 0.078125,0.125 0.28125,0.125 l 0.875,0 C 0.671875,-1.15625 0.625,-0.984375 0.625,-0.8125 0.625,-0.265625 1,0.109375 1.546875,0.109375 2.5625,0.109375 3.125,-1.34375 3.125,-1.421875 3.125,-1.53125 3.046875,-1.53125 3.015625,-1.53125 2.921875,-1.53125 2.90625,-1.5 2.859375,-1.390625 2.4375,-0.34375 1.90625,-0.109375 1.5625,-0.109375 c -0.203125,0 -0.3125,-0.125 -0.3125,-0.453125 0,-0.25 0.03125,-0.3125 0.0625,-0.484375 z m 0,0"
+               id="path4976" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-fdac4b56-1">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g4979">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-fdac4b56-0"
+             x="223.43201"
+             y="134.765"
+             id="use4981" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4498"
+       transform="matrix(2.1225963,0,0,2.1225963,-380.22455,213.92331)"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       ns0:text="$v$\n"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs4500">
+        <g
+           id="g4502">
+          <symbol
+             id="textext-395ae106-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4505"
+               d="m 4.671875,-3.703125 c 0,-0.546875 -0.265625,-0.703125 -0.4375,-0.703125 -0.25,0 -0.5,0.265625 -0.5,0.484375 0,0.125 0.046875,0.1875 0.15625,0.296875 0.21875,0.203125 0.34375,0.453125 0.34375,0.8125 0,0.421875 -0.609375,2.703125 -1.765625,2.703125 -0.515625,0 -0.75,-0.34375 -0.75,-0.875 0,-0.546875 0.28125,-1.28125 0.578125,-2.109375 0.078125,-0.171875 0.125,-0.3125 0.125,-0.5 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.9375,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.296875,-1 0.71875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.53125 -0.171875,0.703125 -0.4375,1.15625 -0.5625,1.609375 -0.5625,2.046875 0,1.078125 0.875,1.234375 1.328125,1.234375 1.671875,0 2.25,-3.296875 2.25,-3.8125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-395ae106-1">
+        <g
+           id="g4508"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             transform="translate(-1.8844846,0)"
+             id="use4510"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-395ae106-0"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.45558,570.91694 -17.97423,0"
+       id="path11956-0"
+       inkscape:path-effect="#path-effect11958-1"
+       inkscape:original-d="m 121.45558,570.91694 -17.97423,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11001"
+       d="m 463.25593,682.92789 184.16971,0"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11003"
+       d="m 463.25593,683.05018 175.19216,0"
+       style="fill:none;stroke:#d40000;stroke-width:5.99999952;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+       inkscape:transform-center-x="5.6940152"
+       inkscape:transform-center-y="-218.84272"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11005"
+       d="m 463.25593,870.70104 -7e-5,-375.48228"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       inkscape:transform-center-x="3.5404109e-05"
+       inkscape:transform-center-y="-296.61438"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 472.24298,682.92789 -17.97423,0"
+       id="path11007"
+       inkscape:path-effect="#path-effect11238"
+       inkscape:original-d="m 472.24298,682.92789 -17.97423,0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:original-d="m 463.25593,673.94077 0,17.97423"
+       inkscape:path-effect="#path-effect11235"
+       id="path11009"
+       d="m 463.25593,673.94077 0,17.97423"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g11011"
+       transform="matrix(2.1114384,0,0,2.1114384,172.06505,419.71718)"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       ns0:text="$t$\n"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs11013">
+        <g
+           id="g11015">
+          <symbol
+             id="symbol11017"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path11019"
+               d="m 2.046875,-3.984375 0.9375,0 c 0.203125,0 0.3125,0 0.3125,-0.203125 0,-0.109375 -0.109375,-0.109375 -0.28125,-0.109375 l -0.875,0 C 2.5,-5.71875 2.546875,-5.90625 2.546875,-5.96875 c 0,-0.171875 -0.125,-0.265625 -0.296875,-0.265625 -0.03125,0 -0.3125,0 -0.390625,0.359375 l -0.390625,1.578125 -0.9375,0 c -0.203125,0 -0.296875,0 -0.296875,0.1875 0,0.125 0.078125,0.125 0.28125,0.125 l 0.875,0 C 0.671875,-1.15625 0.625,-0.984375 0.625,-0.8125 0.625,-0.265625 1,0.109375 1.546875,0.109375 2.5625,0.109375 3.125,-1.34375 3.125,-1.421875 3.125,-1.53125 3.046875,-1.53125 3.015625,-1.53125 2.921875,-1.53125 2.90625,-1.5 2.859375,-1.390625 2.4375,-0.34375 1.90625,-0.109375 1.5625,-0.109375 c -0.203125,0 -0.3125,-0.125 -0.3125,-0.453125 0,-0.25 0.03125,-0.3125 0.0625,-0.484375 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g11021">
+        <g
+           id="g11023"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use11025"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-fdac4b56-0"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$v$\n"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       transform="matrix(2.1225963,0,0,2.1225963,-29.437142,213.92316)"
+       id="g11027"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs11029">
+        <g
+           id="g11031">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol11033">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 4.671875,-3.703125 c 0,-0.546875 -0.265625,-0.703125 -0.4375,-0.703125 -0.25,0 -0.5,0.265625 -0.5,0.484375 0,0.125 0.046875,0.1875 0.15625,0.296875 0.21875,0.203125 0.34375,0.453125 0.34375,0.8125 0,0.421875 -0.609375,2.703125 -1.765625,2.703125 -0.515625,0 -0.75,-0.34375 -0.75,-0.875 0,-0.546875 0.28125,-1.28125 0.578125,-2.109375 0.078125,-0.171875 0.125,-0.3125 0.125,-0.5 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.9375,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.296875,-1 0.71875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.53125 -0.171875,0.703125 -0.4375,1.15625 -0.5625,1.609375 -0.5625,2.046875 0,1.078125 0.875,1.234375 1.328125,1.234375 1.671875,0 2.25,-3.296875 2.25,-3.8125 z m 0,0"
+               id="path11035" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g11037">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g11039">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-395ae106-0"
+             x="223.43201"
+             y="134.765"
+             id="use11041"
+             transform="translate(-1.8844846,0)" />
+        </g>
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path13710"
+       d="m 350.7874,838.88637 0,-317.14286"
+       style="fill:#4d4d4d;stroke:#4d4d4d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#4d4d4d;stroke:#4d4d4d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 701.5748,838.88637 0,-317.14286"
+       id="path13712"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g15247"
+       transform="matrix(2.1225963,0,0,2.1225963,-428.41093,291.48179)"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       ns0:text="$a &gt; 0$\n"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs15249">
+        <g
+           id="g15251">
+          <symbol
+             style="overflow:visible"
+             id="textext-ea64e32e-0"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path15254"
+               d="M 3.71875,-3.765625 C 3.53125,-4.140625 3.25,-4.40625 2.796875,-4.40625 c -1.15625,0 -2.390625,1.46875 -2.390625,2.921875 0,0.9375 0.546875,1.59375 1.3125,1.59375 0.203125,0 0.703125,-0.046875 1.296875,-0.75 0.078125,0.421875 0.4375,0.75 0.90625,0.75 0.359375,0 0.578125,-0.234375 0.75,-0.546875 0.15625,-0.359375 0.296875,-0.96875 0.296875,-0.984375 0,-0.109375 -0.09375,-0.109375 -0.125,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.1875 -0.171875,0.640625 -0.34375,1.234375 -0.75,1.234375 -0.28125,0 -0.296875,-0.265625 -0.296875,-0.453125 0,-0.21875 0.015625,-0.3125 0.125,-0.75 C 3.890625,-1.71875 3.90625,-1.828125 4,-2.203125 L 4.359375,-3.59375 c 0.0625,-0.28125 0.0625,-0.296875 0.0625,-0.34375 0,-0.171875 -0.109375,-0.265625 -0.28125,-0.265625 -0.25,0 -0.390625,0.21875 -0.421875,0.4375 z M 3.078125,-1.1875 C 3.015625,-1 3.015625,-0.984375 2.875,-0.8125 2.4375,-0.265625 2.03125,-0.109375 1.75,-0.109375 c -0.5,0 -0.640625,-0.546875 -0.640625,-0.9375 0,-0.5 0.3125,-1.71875 0.546875,-2.1875 0.3125,-0.578125 0.75,-0.953125 1.15625,-0.953125 0.640625,0 0.78125,0.8125 0.78125,0.875 0,0.0625 -0.015625,0.125 -0.03125,0.171875 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-ea64e32e-1"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path15257"
+               d="M 6.734375,-2.265625 C 6.84375,-2.328125 6.921875,-2.375 6.921875,-2.5 c 0,-0.109375 -0.078125,-0.15625 -0.1875,-0.21875 L 1.203125,-5.3125 C 1.078125,-5.390625 1.0625,-5.390625 1.03125,-5.390625 c -0.109375,0 -0.203125,0.09375 -0.203125,0.203125 0,0.09375 0.046875,0.15625 0.1875,0.21875 L 6.25,-2.5 1.015625,-0.015625 c -0.140625,0.0625 -0.1875,0.125 -0.1875,0.21875 0,0.109375 0.09375,0.203125 0.203125,0.203125 0.03125,0 0.046875,0 0.171875,-0.078125 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-ea64e32e-2"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path15260"
+               d="m 4.578125,-3.1875 c 0,-0.796875 -0.046875,-1.59375 -0.390625,-2.328125 -0.453125,-0.96875 -1.28125,-1.125 -1.6875,-1.125 -0.609375,0 -1.328125,0.265625 -1.75,1.1875 -0.3125,0.6875 -0.359375,1.46875 -0.359375,2.265625 0,0.75 0.03125,1.640625 0.453125,2.40625 0.421875,0.796875 1.15625,1 1.640625,1 0.53125,0 1.296875,-0.203125 1.734375,-1.15625 0.3125,-0.6875 0.359375,-1.46875 0.359375,-2.25 z M 2.484375,0 C 2.09375,0 1.5,-0.25 1.328125,-1.203125 1.21875,-1.796875 1.21875,-2.71875 1.21875,-3.3125 c 0,-0.640625 0,-1.296875 0.078125,-1.828125 0.1875,-1.1875 0.9375,-1.28125 1.1875,-1.28125 0.328125,0 0.984375,0.1875 1.171875,1.171875 0.109375,0.5625 0.109375,1.3125 0.109375,1.9375 0,0.75 0,1.421875 -0.109375,2.0625 C 3.5,-0.296875 2.9375,0 2.484375,0 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-ea64e32e-3">
+        <g
+           id="g15263"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use15265"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-ea64e32e-0" />
+        </g>
+        <g
+           id="g15267"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use15269"
+             y="134.765"
+             x="231.46783"
+             xlink:href="#textext-ea64e32e-1" />
+        </g>
+        <g
+           id="g15271"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use15273"
+             y="134.765"
+             x="241.98199"
+             xlink:href="#textext-ea64e32e-2" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$a =0$\n"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       transform="matrix(2.1225963,0,0,2.1225963,-77.623527,403.69172)"
+       id="g15845"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs15847">
+        <g
+           id="g15849">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-e52d335e-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 3.71875,-3.765625 C 3.53125,-4.140625 3.25,-4.40625 2.796875,-4.40625 c -1.15625,0 -2.390625,1.46875 -2.390625,2.921875 0,0.9375 0.546875,1.59375 1.3125,1.59375 0.203125,0 0.703125,-0.046875 1.296875,-0.75 0.078125,0.421875 0.4375,0.75 0.90625,0.75 0.359375,0 0.578125,-0.234375 0.75,-0.546875 0.15625,-0.359375 0.296875,-0.96875 0.296875,-0.984375 0,-0.109375 -0.09375,-0.109375 -0.125,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.1875 -0.171875,0.640625 -0.34375,1.234375 -0.75,1.234375 -0.28125,0 -0.296875,-0.265625 -0.296875,-0.453125 0,-0.21875 0.015625,-0.3125 0.125,-0.75 C 3.890625,-1.71875 3.90625,-1.828125 4,-2.203125 L 4.359375,-3.59375 c 0.0625,-0.28125 0.0625,-0.296875 0.0625,-0.34375 0,-0.171875 -0.109375,-0.265625 -0.28125,-0.265625 -0.25,0 -0.390625,0.21875 -0.421875,0.4375 z M 3.078125,-1.1875 C 3.015625,-1 3.015625,-0.984375 2.875,-0.8125 2.4375,-0.265625 2.03125,-0.109375 1.75,-0.109375 c -0.5,0 -0.640625,-0.546875 -0.640625,-0.9375 0,-0.5 0.3125,-1.71875 0.546875,-2.1875 0.3125,-0.578125 0.75,-0.953125 1.15625,-0.953125 0.640625,0 0.78125,0.8125 0.78125,0.875 0,0.0625 -0.015625,0.125 -0.03125,0.171875 z m 0,0"
+               id="path15852" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-e52d335e-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 6.84375,-3.265625 c 0.15625,0 0.34375,0 0.34375,-0.1875 C 7.1875,-3.65625 7,-3.65625 6.859375,-3.65625 l -5.96875,0 c -0.140625,0 -0.328125,0 -0.328125,0.203125 0,0.1875 0.1875,0.1875 0.328125,0.1875 z m 0.015625,1.9375 c 0.140625,0 0.328125,0 0.328125,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.34375,-0.1875 l -5.953125,0 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 z m 0,0"
+               id="path15855" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-e52d335e-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 4.578125,-3.1875 c 0,-0.796875 -0.046875,-1.59375 -0.390625,-2.328125 -0.453125,-0.96875 -1.28125,-1.125 -1.6875,-1.125 -0.609375,0 -1.328125,0.265625 -1.75,1.1875 -0.3125,0.6875 -0.359375,1.46875 -0.359375,2.265625 0,0.75 0.03125,1.640625 0.453125,2.40625 0.421875,0.796875 1.15625,1 1.640625,1 0.53125,0 1.296875,-0.203125 1.734375,-1.15625 0.3125,-0.6875 0.359375,-1.46875 0.359375,-2.25 z M 2.484375,0 C 2.09375,0 1.5,-0.25 1.328125,-1.203125 1.21875,-1.796875 1.21875,-2.71875 1.21875,-3.3125 c 0,-0.640625 0,-1.296875 0.078125,-1.828125 0.1875,-1.1875 0.9375,-1.28125 1.1875,-1.28125 0.328125,0 0.984375,0.1875 1.171875,1.171875 0.109375,0.5625 0.109375,1.3125 0.109375,1.9375 0,0.75 0,1.421875 -0.109375,2.0625 C 3.5,-0.296875 2.9375,0 2.484375,0 z m 0,0"
+               id="path15858" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-e52d335e-3">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g15861">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-e52d335e-0"
+             x="223.43201"
+             y="134.765"
+             id="use15863" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g15865">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-e52d335e-1"
+             x="231.466"
+             y="134.765"
+             id="use15867" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g15869">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-e52d335e-2"
+             x="241.98451"
+             y="134.765"
+             id="use15871" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g16443"
+       transform="matrix(2.1225963,0,0,2.1225963,275.04539,519.33857)"
+       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
+       ns0:text="$a &lt; 0$\n"
+       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs16445">
+        <g
+           id="g16447">
+          <symbol
+             style="overflow:visible"
+             id="textext-b3eec10b-0"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path16450"
+               d="M 3.71875,-3.765625 C 3.53125,-4.140625 3.25,-4.40625 2.796875,-4.40625 c -1.15625,0 -2.390625,1.46875 -2.390625,2.921875 0,0.9375 0.546875,1.59375 1.3125,1.59375 0.203125,0 0.703125,-0.046875 1.296875,-0.75 0.078125,0.421875 0.4375,0.75 0.90625,0.75 0.359375,0 0.578125,-0.234375 0.75,-0.546875 0.15625,-0.359375 0.296875,-0.96875 0.296875,-0.984375 0,-0.109375 -0.09375,-0.109375 -0.125,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.1875 -0.171875,0.640625 -0.34375,1.234375 -0.75,1.234375 -0.28125,0 -0.296875,-0.265625 -0.296875,-0.453125 0,-0.21875 0.015625,-0.3125 0.125,-0.75 C 3.890625,-1.71875 3.90625,-1.828125 4,-2.203125 L 4.359375,-3.59375 c 0.0625,-0.28125 0.0625,-0.296875 0.0625,-0.34375 0,-0.171875 -0.109375,-0.265625 -0.28125,-0.265625 -0.25,0 -0.390625,0.21875 -0.421875,0.4375 z M 3.078125,-1.1875 C 3.015625,-1 3.015625,-0.984375 2.875,-0.8125 2.4375,-0.265625 2.03125,-0.109375 1.75,-0.109375 c -0.5,0 -0.640625,-0.546875 -0.640625,-0.9375 0,-0.5 0.3125,-1.71875 0.546875,-2.1875 0.3125,-0.578125 0.75,-0.953125 1.15625,-0.953125 0.640625,0 0.78125,0.8125 0.78125,0.875 0,0.0625 -0.015625,0.125 -0.03125,0.171875 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-b3eec10b-1"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path16453"
+               d="m 6.734375,-4.96875 c 0.109375,-0.0625 0.1875,-0.109375 0.1875,-0.21875 0,-0.109375 -0.09375,-0.203125 -0.203125,-0.203125 -0.03125,0 -0.046875,0 -0.171875,0.078125 l -5.53125,2.59375 c -0.109375,0.0625 -0.1875,0.109375 -0.1875,0.21875 0,0.125 0.078125,0.171875 0.1875,0.234375 l 5.53125,2.59375 C 6.671875,0.40625 6.6875,0.40625 6.71875,0.40625 c 0.109375,0 0.203125,-0.09375 0.203125,-0.203125 0,-0.109375 -0.078125,-0.15625 -0.1875,-0.21875 L 1.5,-2.5 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             id="textext-b3eec10b-2"
+             overflow="visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path16456"
+               d="m 4.578125,-3.1875 c 0,-0.796875 -0.046875,-1.59375 -0.390625,-2.328125 -0.453125,-0.96875 -1.28125,-1.125 -1.6875,-1.125 -0.609375,0 -1.328125,0.265625 -1.75,1.1875 -0.3125,0.6875 -0.359375,1.46875 -0.359375,2.265625 0,0.75 0.03125,1.640625 0.453125,2.40625 0.421875,0.796875 1.15625,1 1.640625,1 0.53125,0 1.296875,-0.203125 1.734375,-1.15625 0.3125,-0.6875 0.359375,-1.46875 0.359375,-2.25 z M 2.484375,0 C 2.09375,0 1.5,-0.25 1.328125,-1.203125 1.21875,-1.796875 1.21875,-2.71875 1.21875,-3.3125 c 0,-0.640625 0,-1.296875 0.078125,-1.828125 0.1875,-1.1875 0.9375,-1.28125 1.1875,-1.28125 0.328125,0 0.984375,0.1875 1.171875,1.171875 0.109375,0.5625 0.109375,1.3125 0.109375,1.9375 0,0.75 0,1.421875 -0.109375,2.0625 C 3.5,-0.296875 2.9375,0 2.484375,0 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-b3eec10b-3">
+        <g
+           id="g16459"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use16461"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-b3eec10b-0" />
+        </g>
+        <g
+           id="g16463"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use16465"
+             y="134.765"
+             x="231.46783"
+             xlink:href="#textext-b3eec10b-1" />
+        </g>
+        <g
+           id="g16467"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             id="use16469"
+             y="134.765"
+             x="241.98199"
+             xlink:href="#textext-b3eec10b-2" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
