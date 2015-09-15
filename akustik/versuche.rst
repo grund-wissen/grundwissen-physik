@@ -20,7 +20,7 @@ Versuche zur Akustik
 
 *Durchführung:*
 
-- Lege einen tickenden Wecker auf einen Tisch und halte ein Ohr an Tischplatte. 
+- Lege einen tickenden Wecker auf einen Tisch und halte ein Ohr an Tischplatte.
 - Wiederhole den Versuch, indem Du ein Stück Stoff zwischen den Wecker und Tisch
   legst. Was stellst Du fest?
 
@@ -38,12 +38,12 @@ Versuche zur Akustik
     :columns: 2
 
     * Ein dünnes, starres Plastiklineal
-    
+
 *Durchführung:*
 
 - Lasse das Lineal halb über einen Tisch reichen. Drücke das eine Ende des
   Lineals mit einer Hand fest an den Tisch und zupfe das freie Ende mit der
-  anderen Hand an. 
+  anderen Hand an.
 - Verändere die Länge des schwingenden Linealstücks. Wie ändert sich die Tonhöhe
   und die Frequenz der Schwingung, wenn die Länge des schwingenden Endes
   verkürzt wird?
@@ -86,7 +86,7 @@ Versuche zur Akustik
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Akustik>`

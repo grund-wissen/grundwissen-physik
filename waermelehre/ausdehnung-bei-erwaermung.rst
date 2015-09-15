@@ -8,7 +8,7 @@ Die meisten festen, flüssigen und gasförmigen Körper dehnen sich beim Erwärm
 aus und ziehen sich beim Abkühlen zusammen. Gase dehnen sich bei Erwärmung am
 meisten, feste Stoffe am wenigsten aus.
 
-.. index:: 
+.. index::
     Wärmeausdehnung; von Festkörpern
 .. _Ausdehnung von Festkörpern:
 
@@ -29,15 +29,15 @@ Länge ab.
 
     .. math::
         :label: eqn-längenausdehnung-festkörper
-        
+
         \Delta l = \alpha \cdot \Delta T \cdot l \\[6pt]
 
     Für die neue Länge :math:`l _{\rm{neu}} = l + \Delta l` nach der
-    Temperaturänderung gilt damit: 
+    Temperaturänderung gilt damit:
 
     .. math::
         :label: eqn-längenausdehnung-festkörper-2
-        
+
         l _{\rm{neu}} = l \cdot (1 + \alpha \cdot \Delta T)
 
 .. list-table:: Längenausdehnungskoeffizienten fester Stoffe
@@ -47,35 +47,35 @@ Länge ab.
     * - Stoff
       - :math:`\alpha \text{ in } \unit[10 ^{-6}]{\frac{1}{K} }`
     * - Aluminium
-      - :math:`23,1` 
+      - :math:`23,1`
     * - Beton
-      - :math:`12,0` 
+      - :math:`12,0`
     * - Blei
-      - :math:`29,0` 
+      - :math:`29,0`
     * - Eisen
-      - :math:`11,8` 
+      - :math:`11,8`
     * - Quarzglas
-      - :math:`0,5` 
+      - :math:`0,5`
     * - Holz
-      - :math:`8,0` 
+      - :math:`8,0`
     * - Kupfer
-      - :math:`16,5` 
+      - :math:`16,5`
     * - Messing
-      - :math:`18,0` 
+      - :math:`18,0`
     * - Silber
-      - :math:`18,9` 
+      - :math:`18,9`
     * - Silicium
-      - :math:`2,6` 
+      - :math:`2,6`
     * - Titan
-      - :math:`8,6` 
+      - :math:`8,6`
     * - Wolfram
-      - :math:`4,5` 
+      - :math:`4,5`
     * - Ziegel
-      - :math:`5,0` 
+      - :math:`5,0`
     * - Zinn
-      - :math:`22,0` 
+      - :math:`22,0`
 
-..  
+..
     Holz, quer zur Faser: 30-60
     Holz, parallel zur Faser: 2-6
 
@@ -88,12 +88,12 @@ Länge ab.
   die Längenänderung der Stange berechnen:
 
   .. math::
-      
+
       \Delta l = \alpha _{\rm{Stahl}} \cdot \Delta T \cdot l = \unit[11,8 \cdot
-      10 ^{-6}]{\frac{1}{K}} \cdot \unit[50]{K} \cdot \unit[10]{m} \approx 
+      10 ^{-6}]{\frac{1}{K}} \cdot \unit[50]{K} \cdot \unit[10]{m} \approx
       \unit[0,006]{m}
-     
-  Die Längenausdehnung beträgt somit rund :math:`\unit[6]{mm}`. 
+
+  Die Längenausdehnung beträgt somit rund :math:`\unit[6]{mm}`.
 
 .. Beispiel Bimetall? Pic Haas S.91
 
@@ -105,7 +105,7 @@ Dabei geht man davon aus, dass sich der betrachtete Festkörper in alle
 Richtungen gleich ausdehnt: [#]_
 
 .. math::
-    
+
     l _{\rm{neu}} &= l \cdot (1 + \alpha \cdot \Delta T) \\[6pt]
     A _{\rm{neu}} &= A \cdot (1 + \alpha \cdot \Delta T)^2 \\[6pt]
     V _{\rm{neu}} &= V \cdot (1 + \alpha \cdot \Delta T)^3
@@ -114,7 +114,7 @@ In sehr guter Näherung kann die Volumenausdehnung von Festkörpern auch
 folgendermaßen geschrieben werden: [#]_
 
 .. math::
-    
+
     V _{\rm{neu}} = V \cdot (1 + \gamma \cdot \Delta T)
 
 Hierbei ist :math:`\gamma \approx 3 \cdot \alpha` der so genannte
@@ -124,7 +124,7 @@ Im Wesentlichen ist temperaturbedingte Längen- bzw. Volumenzunahme eines
 Festkörpers darauf zurückzuführen, dass die Atome bzw. Moleküle des Festkörpers
 mit zunehmender Temperatur stärker um ihre Ruhelage schwingen. Dadurch
 vergrößern sich die Abstände zwischen den einzelnen Teilchen, und das Volumen
-des Körpers nimmt zu. 
+des Körpers nimmt zu.
 
 In der Technik versucht man geeignete Materialkombinationen zu nutzen, um
 mechanische Spannungen aufgrund von (unterschiedlich starken) Wärmeausdehnungen
@@ -133,7 +133,7 @@ Dehnungsfugen und Gleitlager eingesetzt, um temperaturbedingte Spannungen zu
 minimieren.
 
 
-.. index:: 
+.. index::
     Wärmeausdehnung; von Flüssigkeiten
 .. _Ausdehnung von Flüssigkeiten:
 
@@ -149,12 +149,12 @@ Volumen zu, mit sinkender Temperatur nimmt das Volumen ab.
     Die Volumenänderung :math:`\Delta V` einer Flüssigkeit des Volumens
     :math:`V` ist proportional zur Temperaturänderung :math:`\Delta T` sowie zum
     (vom Stoff abhängigen) thermischen Volumenausdehnungskoeffizient
-    :math:`\gamma`: 
+    :math:`\gamma`:
 
     .. math::
         :label: eqn-volumenausdehnung-flüssigkeiten
-        
-        \Delta V = \gamma \cdot \Delta T \cdot V 
+
+        \Delta V = \gamma \cdot \Delta T \cdot V
 
 .. list-table:: Volumenausdehnungskoeffizienten flüssiger Stoffe
     :name: tab-volumenausdehnungskoeffizienten-flüssig
@@ -165,17 +165,17 @@ Volumen zu, mit sinkender Temperatur nimmt das Volumen ab.
     * - Aceton
       - :math:`1,46`
     * - Benzin
-      - :math:`1,06` 
+      - :math:`1,06`
     * - Essigsäure
-      - :math:`1,08` 
+      - :math:`1,08`
     * - Ethanol
-      - :math:`1,40` 
+      - :math:`1,40`
     * - Glycerin
-      - :math:`0,52` 
+      - :math:`0,52`
     * - Quecksilber
-      - :math:`0,18` 
+      - :math:`0,18`
     * - Wasser
-      - :math:`0,21` 
+      - :math:`0,21`
 
 Im Wesentlichen ist temperaturbedingte Volumenzunahme von Flüssigkeiten darauf
 zurückzuführen, dass die Geschwindigkeit der Atome bzw. Moleküle in der
@@ -194,18 +194,18 @@ Flüssigkeiten mit wachsender Temperatur ab.
     :math:`\rho _{\rm{neu}}` der Flüssigkeit gilt:
 
     .. math::
-        
-        \rho _{\rm{neu}} = \frac{\rho }{1 + \gamma \cdot \Delta T} 
-    
+
+        \rho _{\rm{neu}} = \frac{\rho }{1 + \gamma \cdot \Delta T}
+
 
 .. _Anomalie des Wassers:
 
 .. rubric:: Die Anomalie des Wassers
 
 Eine große Besonderheit ("Anomalie") des Wassers liegt darin, dass es bei
-:math:`\unit[4]{^{\circ}C}` seine größte Dichte hat. Unterhalb dieser Temperatur
-dehnt es sich wieder aus, bis es bei :math:`\unit[0]{^{\circ}C}` zu Eis
-erstarrt. 
+:math:`\unit[4]{\degree C}` seine größte Dichte hat. Unterhalb dieser Temperatur
+dehnt es sich wieder aus, bis es bei :math:`\unit[0]{\degree C}` zu Eis
+erstarrt.
 
 .. figure:: ../pics/waermelehre/anomalie-wasser.png
     :name: fig-anomalie-wasser
@@ -217,7 +217,7 @@ erstarrt.
     Sommer).
 
     .. only:: html
-    
+
         :download:`SVG: Anomalie des Wassers
         <../pics/waermelehre/anomalie-wasser.svg>`
 
@@ -229,12 +229,12 @@ erstarrt.
 * Im Herbst kühlt das Wasser an der Oberfläche ab und sinkt nach unten. Das
   Tiefenwasser steigt empor und wird an der Oberfläche ebenfalls abgekühlt.
   Schließlich herrscht überall im Wasser die Temperatur
-  :math:`\unit[4]{^{\circ}C}`.
+  :math:`\unit[4]{\degree C}`.
 
 * Im Winter wird das Wasser an der Oberfläche weiter abgekühlt, sinkt aber nicht
-  mehr ab. Bei :math:`\unit[0]{^{\circ}C}` bildet sich an der Oberfläche des
+  mehr ab. Bei :math:`\unit[0]{\degree C}` bildet sich an der Oberfläche des
   Sees eine (isolierende) Eisdecke, die Wassertemperatur am Grund des Sees
-  beträgt weiterhin :math:`\unit[4]{^{\circ}C}`. Bei starkem und lang
+  beträgt weiterhin :math:`\unit[4]{\degree C}`. Bei starkem und lang
   anhaltendem Frost wird die Eisdecke zunehmend dicker; flache Gewässer können
   dann von oben bis zum Grund gefrieren.
 
@@ -248,7 +248,7 @@ welche die Erstarrungstemperatur absenken und ein Erstarren der Kühlflüssigkei
 verhindern sollen.
 
 
-.. index:: 
+.. index::
     Wärmeausdehnung; von Gasen
 .. _Ausdehnung von Gasen:
 
@@ -257,7 +257,7 @@ Ausdehnung von Gasen
 
 Bei Erwärmung dehnen sich Gase wesentlich stärker aus als Flüssigkeiten.
 Bleibt der Druck eines Gases während der Erwärmung konstant, so dehnt es sich
-proportional zur absoluten Temperatur aus. 
+proportional zur absoluten Temperatur aus.
 
 *Formel:*
 
@@ -268,14 +268,14 @@ proportional zur absoluten Temperatur aus.
 
     .. math::
         :label: eqn-volumenausdehnung-gase-konstanter-druck
-        
-        \Delta V = \gamma \cdot \Delta T \cdot V 
 
-    Dabei gilt in guter Näherung für alle Gase: 
+        \Delta V = \gamma \cdot \Delta T \cdot V
+
+    Dabei gilt in guter Näherung für alle Gase:
 
     .. math::
         :label: eqn-volumenausdehnungskoeffizient-gase
-        
+
         \gamma _{\rm{Gas}} = \frac{1}{\unit[273,15]{K}} \approx 3,66 \cdot 10
         ^{-3} \frac{1}{K}
 
@@ -285,11 +285,11 @@ proportional zur absoluten Temperatur aus.
 *Beispiel:*
 
 * Werden :math:`V = \unit[20]{l}` Luft von :math:`T _{\rm{0}} =
-  \unit[0]{^{\circ}C }` auf :math:`T _{\rm{1}} = \unit[10]{^{\circ}C}` erwärmt,
+  \unit[0]{\degree C }` auf :math:`T _{\rm{1}} = \unit[10]{\degree C}` erwärmt,
   so ändert sich das Volumen der Luft um
 
   .. math::
-      
+
       \Delta V = \gamma \cdot \Delta T \cdot V =
       \unit[\frac{1}{273}]{\frac{1}{K} } \cdot \unit[10]{K} \cdot \unit[20]{l}
       \approx  \unit[0,73]{l}
@@ -304,11 +304,11 @@ konstantem Druck beispielsweise mittels eines (Luft-)Ballons in einem Wasserbad
 oder mittels eines Zylinders mit beweglichem Kolben verwirklichen. In beiden
 Fällen bleibt die Menge der Gasteilchen innerhalb des Gefäßes konstant, es
 handelt sich also um geschlossene Systeme.
-  
+
 Kann ein Gas während einer Temperaturänderung um :math:`\Delta T` sein Volumen
 :math:`V` nicht ändern, weil es beispielsweise in einem festen Behälter
 eingesperrt ist, so ändert sich anstelle dessen sein Druck :math:`p`.
-    
+
 *Definition:*
 
     Bleibt das Volumen :math:`V` während einer Temperaturänderung konstant, so
@@ -319,12 +319,12 @@ eingesperrt ist, so ändert sich anstelle dessen sein Druck :math:`p`.
     .. math::
         :label: eqn-volumenausdehnung-gase-konstantes-volumen
 
-        \Delta p = \gamma \cdot \Delta T \cdot p 
+        \Delta p = \gamma \cdot \Delta T \cdot p
 
 
-.. index:: 
+.. index::
     single: Ideales Gas
-    single: Zustandsgleichung 
+    single: Zustandsgleichung
 
 .. _Zustandsgleichung eines idealen Gases:
 
@@ -346,8 +346,8 @@ auch auch der Druck :math:`p` und das Volumen :math:`V` von Bedeutung.
 
     .. math::
         :label: eqn-zustandsgleichung-ideales-gas
-         
-        \frac{p \cdot V}{T} = \text{konstant} 
+
+        \frac{p \cdot V}{T} = \text{konstant}
 
 Die Gleichung :eq:`eqn-zustandsgleichung-ideales-gas` wird als
 "Zustandsgleichung eines idealen Gases" bezeichnet und gilt unter
@@ -355,9 +355,9 @@ Normalbedingungen auch in sehr guter Näherung für reale Gase. Sie wird häufig
 auch in folgender Form geschrieben:
 
 .. math::
-    
+
     \frac{p _{\rm{1}} \cdot V _{\rm{1}} }{T _{\rm{1}} } = \frac{p _{\rm{2}}
-    \cdot V _{\rm{2}} }{T _{\rm{2}} } 
+    \cdot V _{\rm{2}} }{T _{\rm{2}} }
 
 Dabei werden mit :math:`p _{\rm{1}} ,\, T _{\rm{1}} ,\, V _{\rm{1}}` die
 thermischen Größen eines Gases *vor* einer Zustandsänderung beschrieben,
@@ -370,14 +370,14 @@ werden.
 
 * Ein Gas mit einem Volumen von :math:`V _{\rm{1}} = \unit[50]{cm^3}`, einem
   Druck von :math:`p _{\rm{1}} = \unit[2,5]{bar}` und einer Temperatur von
-  :math:`T _{\rm{1}} = \unit[0]{^{\circ}C} \approx \unit[273]{K}` wird erwärmt.
-  Dabei beträgt die neue Temperatur :math:`T _{\rm{2}} = \unit[30]{^{\circ}C}
+  :math:`T _{\rm{1}} = \unit[0]{\degree C} \approx \unit[273]{K}` wird erwärmt.
+  Dabei beträgt die neue Temperatur :math:`T _{\rm{2}} = \unit[30]{\degree C}
   \approx \unit[303]{K}`, gleichzeitig wird der Druck auf :math:`p _{\rm{2}} =
   \unit[6]{bar}` erhöht. Mit Hilfe der Zustandsgleichung für ideale Gase kann
   das neue Volumen :math:`V _{\rm{2}}` berechnet werden:
 
   .. math::
-      
+
     \frac{p _{\rm{1}} \cdot V _{\rm{1}} }{T _{\rm{1}} } = \frac{p _{\rm{2}}
     \cdot V _{\rm{2}} }{T _{\rm{2}} } \quad \Leftrightarrow \quad V _{\rm{2}} =
     \frac{p _{\rm{1}} \cdot T _{\rm{2}} \cdot V _{\rm{1}} }{p _{\rm{2}} \cdot T
@@ -389,7 +389,7 @@ werden.
   :math:`\unit[23,12]{cm^3}`.
 
 .. index:: Zustandsänderung
-  
+
 Aufgrund der vielen auftretenden Variablen ist die (allgemeine)
 Zustandsgleichung eines idealen Gases :eq:`eqn-zustandsgleichung-ideales-gas`
 etwas "unübersichtlich". Anschaulicher wird die Bedeutung der Gleichung, wenn
@@ -401,37 +401,37 @@ bleibt:
 .. _Gesetz von Gay-Lussac:
 
 * Wird das Volumen :math:`V` konstant gehalten ("isochore" Zustandsänderung), so
-  ist das Verhältnis aus Druck und Temperatur konstant:  
+  ist das Verhältnis aus Druck und Temperatur konstant:
 
   .. math::
-      
-      \frac{p _{\rm{1}} }{T _{\rm{1}} } = \frac{p _{\rm{2}} }{T _{\rm{2}} } 
+
+      \frac{p _{\rm{1}} }{T _{\rm{1}} } = \frac{p _{\rm{2}} }{T _{\rm{2}} }
 
   Wird beispielsweise die (absolute) Temperatur eines Gases bei gleich
   bleibendem Volumen verdoppelt, so verdoppelt sich auch der Druck im Gas.
-  
+
 .. index:: Zustandsänderung; isobar
 
 * Wird der Druck :math:`p` konstant gehalten ("isobare" Zustandsänderung [#]_), so
   ist das Verhältnis aus Volumen und Temperatur konstant:
 
   .. math::
-      
-      \frac{V _{\rm{1}} }{T _{\rm{1}} } = \frac{V _{\rm{2}} }{T _{\rm{2}} } 
-  
+
+      \frac{V _{\rm{1}} }{T _{\rm{1}} } = \frac{V _{\rm{2}} }{T _{\rm{2}} }
+
   Wird die Temperatur eines Gases bei gleich bleibendem Druck erhöht, erhöht
   sich auch das Volumen und umgekehrt. Wird beispielsweise die Temperatur eines
-  Gases verdoppelt, so verdoppelt sich auch sein Volumen. 
+  Gases verdoppelt, so verdoppelt sich auch sein Volumen.
 
   .. pic pocketteacher S.47
 
   Die Bestätigung dieses Zusammenhangs durch zahlreiche Experimente ist
   Grundlage der Festlegung der absoluten Temperatur auf
-  :math:`\unit[-273,15]{^{\circ}C} = \unit[0]{K}`: Bei dieser Temperatur würde
+  :math:`\unit[-273,15]{\degree C} = \unit[0]{K}`: Bei dieser Temperatur würde
   ein ideales Gas kein Volumen mehr besitzen. Praktisch wird dieser "absolute
   Nullpunkt" nicht erreicht; reale Gase kondensieren vorher zu einer
   Flüssigkeit.
-        
+
 
 .. index:: Zustandsänderung; isotherm
 .. _Gesetz von Boyle-Mariotte:
@@ -440,9 +440,9 @@ bleibt:
   [#]_), so ist bei Gasen das Produkt aus Druck und Volumen konstant:
 
   .. math::
-      
-      p _{\rm{1}} \cdot V _{\rm{1}} = p _{\rm{2}} \cdot V _{\rm{2}} 
-  
+
+      p _{\rm{1}} \cdot V _{\rm{1}} = p _{\rm{2}} \cdot V _{\rm{2}}
+
   Wird das Volumen eines Gases bei gleich bleibender Temperatur verkleinert,
   erhöht sich der Druck und umgekehrt. Wird beispielsweise das Volumen eines
   Gases bei konstanter Temperatur halbiert, so verdoppelt sich der Druck.
@@ -451,16 +451,16 @@ bleibt:
 
     Eine Erweiterung der Zustandsgleichung für ideale Gase stellt die
     :ref:`allgemeine Gasgleichung <Allgemeine Gasgleichung>` dar.
-      
+
 .. only:: latex
 
     Eine Erweiterung der Zustandsgleichung für ideale Gase stellt die allgemeine
     Gasgleichung dar.
-    
+
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
     .. rubric:: Anmerkungen:
@@ -481,8 +481,8 @@ bleibt:
     \cdot \Delta T)^3` ausmultipliziert:
 
     .. math::
-        
-        (1 + \alpha \cdot \Delta T)^3 = 1 + 3 \cdot (\alpha \cdot \Delta T)^1 + 
+
+        (1 + \alpha \cdot \Delta T)^3 = 1 + 3 \cdot (\alpha \cdot \Delta T)^1 +
         3 \cdot (\alpha \cdot \Delta T)^2 + 1 \cdot (\alpha \cdot \Delta T)^3
 
     Dadurch, dass die Werte von :math:`\alpha` sehr klein sind (Größenordnung:
@@ -500,7 +500,7 @@ bleibt:
 .. [#] Der Zusammenhang :math:`\frac{V}{T} = \text{konstant}` für :math:`p =
     \text{konstant}` wird zu Ehren des Entdeckers `Joseph Gay-Lussac
     <https://de.wikipedia.org/wiki/Gay-Lussac>`_ auch als "Gesetz von
-    Gay-Lussac" bezeichnet. 
+    Gay-Lussac" bezeichnet.
 
 .. [#] Der Zusammenhang :math:`p \cdot V = \text{konstant}` für :math:`T =
     \text{konstant}` wird zu Ehren der Entdecker `Robert Boyle
@@ -513,7 +513,7 @@ bleibt:
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zur Ausdehnung bei
     Erwärmung>` und :ref:`Übungsaufgaben <Aufgaben zur Ausdehnung bei

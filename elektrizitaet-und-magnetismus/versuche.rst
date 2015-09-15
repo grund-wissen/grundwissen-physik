@@ -35,14 +35,14 @@ Versuche zu elektrischer Ladung
 .. hlist::
     :columns: 2
 
-    * Ein Hartgummistab 
+    * Ein Hartgummistab
     * Ein Stück (Baum-)Wolle
     * Ein Elektroskop
 
 *Durchführung:*
 
-- Reibe einen Hartgummistab an einem Stück (Baum-)Wolle. 
-- Prüfe mit einem Elektroskop, ob der Stab elektrisch geladen wurde. 
+- Reibe einen Hartgummistab an einem Stück (Baum-)Wolle.
+- Prüfe mit einem Elektroskop, ob der Stab elektrisch geladen wurde.
 - Reibe einen Kamm aus Kunststoff an einem Pullover und halte ihn dicht an Deine
   Haare. Ist das Ergebnis mit dem ersten Versuchsteil vergleichbar?
 
@@ -75,7 +75,7 @@ Versuche zu Stromstärke, Spannung und Widerstand
 - Schraube einen Fahrrad-Dynamo an einer Stativstange fest. Verbinde das Gehäuse
   des Dynamos durch ein isoliertes Kabel mit einer der beiden Anschlüsse einer
   Glühlampe. Verbinde die untere, isolierte Anschlussstelle des Dynamos mit über
-  einen Schalter mit der anderen Anschlussstelle der Glühlampe. 
+  einen Schalter mit der anderen Anschlussstelle der Glühlampe.
 - Schließe den Schalter und drehe ruckartig am Drehknopf des Dynamos. Leuchtet
   die Glühbirne auf?
 - Untersuche, ob die Glühbirne auch aufleuchtet, wenn nur ein Kabel zu ihr
@@ -95,7 +95,7 @@ Versuche zu Stromstärke, Spannung und Widerstand
     :columns: 2
 
     * Eine :math:`\unit[12]{V}`-Glühbirne mit Fassung und Anschlusskabel
-    * Ein regelbares Stromversorgungsgerät :math:`(2 \text{ bis } \unit[12]{V})` 
+    * Ein regelbares Stromversorgungsgerät :math:`(2 \text{ bis } \unit[12]{V})`
 
 *Durchführung:*
 
@@ -120,7 +120,7 @@ Versuche zu Stromstärke, Spannung und Widerstand
 .. hlist::
     :columns: 2
 
-    * Ein regelbares Stromversorgungsgerät :math:`(2 \text{ bis } \unit[12]{V})` 
+    * Ein regelbares Stromversorgungsgerät :math:`(2 \text{ bis } \unit[12]{V})`
     * Ein Draht aus Konstantan
     * Zwei Stativfüße ("Tonnenfüße")
     * Zwei Isolier-Halterungen
@@ -146,7 +146,7 @@ Versuche zu Stromstärke, Spannung und Widerstand
 .. hlist::
     :columns: 2
 
-    * Ein regelbares Stromversorgungsgerät :math:`(2 \text{ bis } \unit[15]{V})` 
+    * Ein regelbares Stromversorgungsgerät :math:`(2 \text{ bis } \unit[15]{V})`
     * Ein Draht aus Konstantan
     * Eine Stecknadel
     * Zwei Stativfüße ("Tonnenfüße")
@@ -174,7 +174,7 @@ Versuche zu Stromstärke, Spannung und Widerstand
 .. hlist::
     :columns: 2
 
-    * Ein regelbares Stromversorgungsgerät :math:`(2 \text{ bis } \unit[12]{V})` 
+    * Ein regelbares Stromversorgungsgerät :math:`(2 \text{ bis } \unit[12]{V})`
     * Ein Draht aus Konstantan
     * Eine Stecknadel
     * Ein Becherglas
@@ -185,7 +185,7 @@ Versuche zu Stromstärke, Spannung und Widerstand
 
 - Wickle einen Konstantandraht mit Hilfe eines Bleistiftes zu einer Wendel auf.
   Biege die Enden nach oben und befestige sie an zwei Isolatoren. Tauche die
-  Wendel tief in ein mit Wasser gefülltes Becherglas ein. 
+  Wendel tief in ein mit Wasser gefülltes Becherglas ein.
 - Lege etwa zehn Minuten lang eine Spannung zwischen :math:`6 \text{ und }
   \unit[12]{V}` an und messe alle zwei Minuten die Wassertemperatur. Erstelle
   aus den Messwerten eine Tabelle.
@@ -205,7 +205,7 @@ Versuche zu Stromstärke, Spannung und Widerstand
 .. hlist::
     :columns: 2
 
-    * Ein regelbares Stromversorgungsgerät :math:`(2 \text{ bis } \unit[12]{V})` 
+    * Ein regelbares Stromversorgungsgerät :math:`(2 \text{ bis } \unit[12]{V})`
     * Drahtstücke gleicher Dicke aus Kupfer- und Eisen
     * Zwei Stativfüße ("Tonnenfüße")
     * Zwei Isolier-Halterungen
@@ -214,19 +214,19 @@ Versuche zu Stromstärke, Spannung und Widerstand
 *Durchführung:*
 
 - Spanne zwischen zwei Isolatoren eine Leiterkette, die abwechselnd aus gleich
-  dicken und gleich langen Kupfer- und Eisendrahtstücken aufgebaut ist. 
+  dicken und gleich langen Kupfer- und Eisendrahtstücken aufgebaut ist.
 - Verbinde die Drahtenden mit dem Stromversorgungsgerät und erhöhe die angelegte
   Spannung langsam von :math:`\unit[2]{V}` auf :math:`\unit[12]{V}`. Welcher
-  Draht glüht auf, welcher nicht?  
-- Wiederhole den Versuch mit Wechselspannung (optional). 
+  Draht glüht auf, welcher nicht?
+- Wiederhole den Versuch mit Wechselspannung (optional).
 - Welches der Materialien besitzt einen höheren elektrischen Widerstand?
   Welchen Zusammenhang zwischen dem elektrischen Widerstand und der Wärmewirkung
   in einem Leiter kannst Du feststellen?
 
-..  
+..
     Der Wolfram-Draht einer Glühlampe ist ca. 1 m lang. Zu einer nur 27 mm
     langen Doppelwendel aufgewickelt, erreicht er Temperaturen bis zu 2800
-    ^{\circ}C.
+    \degree C.
 
 ----
 
@@ -260,14 +260,14 @@ Versuche zu Leitern, Halbleitern und Isolatoren
   Flachbatterie.
 - Bei welchen Stoffen leuchtet die Glühbirne auf, bei welchen nicht?
 - Was kannst du daraus auf den elektrischen Widerstand der jeweiligen Stoffe
-  schließen? 
+  schließen?
 
 ----
 
 
-..  
+..
     Quelle (auch Bild): PK81
-    
+
     Eine Prüfstrecke ist eine gezielt eingebaute Unterbrechung in einem Stromkreis,
     mit deren Hilfe man die Leitfähigkeit von Stoffen testen kann.
 
@@ -292,14 +292,14 @@ Versuche zu Magnetismus
     * Ein starker Hufeisenmagnet
     * Eine Leiterschaukel
     * Ein Schalter
-    * Drei Verbindungskabel 
+    * Drei Verbindungskabel
 
 *Durchführung:*
 
 - Hänge eine Leiterschaukel in das Magnetfeld eines Hufeisenmagneten. [#]_
   Schicke über einen Schalter einen Strom durch die Leiterschaukel und beobachte
   die Leiterschaukel.
-- Wie verhält sich die Leiterschaukel bei umgekehrter Stromrichtung? 
+- Wie verhält sich die Leiterschaukel bei umgekehrter Stromrichtung?
 - Wie verhält sich die Leiterschaukel bei verschiedenen Stromstärken?
 
 
@@ -319,7 +319,7 @@ Versuche zu Magnetismus
     * Eine Leiterspule
     * Ein Trinkhalm
     * Ein Schalter
-    * Drei Verbindungskabel 
+    * Drei Verbindungskabel
 
 *Durchführung:*
 
@@ -345,7 +345,7 @@ Versuche zu Magnetismus
 
     * Ein starker Hufeisenmagnet
     * Eine Leiterschaukel
-    * Ein empfindliches Spannungsmessgerät 
+    * Ein empfindliches Spannungsmessgerät
     * Zwei Verbindungskabel
 
 *Durchführung:*
@@ -355,7 +355,7 @@ Versuche zu Magnetismus
   Leiterschaukel quer zum Hufeisenmagneten ruckartig heraus und hinein.
 - Beobachte die Anzeige des Spannungsmessgerätes. Untersuche, ob das
   Versuchsergebnis davon abhängt, wie schnell sich die Leiterschaukel durch das
-  Magnetfeld bewegt.    
+  Magnetfeld bewegt.
 - Wiederhole den Versuch. Lasse dabei allerdings die Leiterschaukel in Ruhe und
   bewege dafür den Magneten.
 - Tritt auch dann eine Spannung auf, wenn die Leiterschaukel vom Nordpol zum
@@ -375,14 +375,14 @@ Versuche zu Magnetismus
 
     * Verschiedene Spulen (:math:`300`, :math:`600` und :math:`1200` Windungen)
     * Ein Stabmagnet
-    * Ein empfindliches Spannungsmessgerät 
+    * Ein empfindliches Spannungsmessgerät
     * Zwei Verbindungskabel
 
 *Durchführung:*
 
 - Lege eine Spule auf eine weiche Schaumgummi-Unterlage und verbinde ihre beiden
   Anschlussbuchsen mit einem empfindlichen Spannungsmessgerät. Führe einen
-  Stabmagneten erst langsam, dann schneller in die Spule ein. 
+  Stabmagneten erst langsam, dann schneller in die Spule ein.
 - Untersuche, ob die angezeigte Spannung von der Geschwindigkeit des
   Stabmagneten und/oder der Anzahl der Windungen der Spule abhängt.
 - Wiederhole den Versuch, indem Du den Stabmagneten ab dem Spulenrand fallen
@@ -390,12 +390,12 @@ Versuche zu Magnetismus
   heraus. Was stellst Du fest?
 - Ändert sich das Versuchsergebnis, wenn einmal der Nordpol, einmal der
   Südpol des Stabmagneten nach unten zeigt? Ändert sich das Versuchsergebnis,
-  wenn Du die Spule umdrehst? 
+  wenn Du die Spule umdrehst?
 
-..  
+..
     Durch die Bewegung des Magneten in der Spule ändert sich das Magnetfeld in
     der Spule ständig.
-    
+
     Wenn sich in einer Spule die Stärke des Magnetfeldes ändert, dann entsteht
     zwischen den Spulenenden eine elektrische Spannung. Die Größe der elektrischen
     Spannung wächst mit der Geschwindigkeit, mit der sich das Magnetfeld in der
@@ -439,7 +439,7 @@ Versuche zu Magnetismus
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Elektrizität und Magnetismus>`

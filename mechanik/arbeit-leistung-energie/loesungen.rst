@@ -23,12 +23,12 @@ Arbeit>`.
   überein, für den Betrag der verrichteten Arbeit :math:`W _{\rm{Hub}}` gilt somit:
 
   .. math::
-      
+
       W _{\rm{Hub}} &= F \cdot s = F _{\rm{G}} \cdot h = m \cdot g \cdot h
       \\[4pt]
       &= \unit[10]{kg} \cdot \unit[9,81]{\frac{N}{kg} } \cdot \unit[1]{m} =
       \unit[98,1]{N \cdot m} = \unit[98,1]{J}
-  
+
   Wird die Kiste :math:`\unit[1]{m}` über dem Boden *gehalten*, so muss zwar
   die Gewichtskraft :math:`F _{\rm{G}}` der Kiste ausgeglichen werden, doch
   keine Arbeit verrichtet werden; die nötige Kraft wirkt dann nicht *entlang*
@@ -40,8 +40,8 @@ Arbeit>`.
   getragen, so stehen die Richtungen der aufgewandten Kraft :math:`F` und der
   zurück gelegten Wegstrecke :math:`s` senkrecht aufeinander. Da somit keine
   Kraft entlang des Weges :math:`s` wirkt, wird beim Tragen der Kiste auf
-  gleicher Höhe auch keine Arbeit verrichtet. [#]_ 
-  
+  gleicher Höhe auch keine Arbeit verrichtet. [#]_
+
   :ref:`Zurück zur Aufgabe <Arbeit-01>`
 
 ----
@@ -53,17 +53,17 @@ Arbeit>`.
   \unit[5]{m})`. Für die verrichtete Arbeit :math:`W` gilt damit:
 
   .. math::
-      
+
      W =  F _{\rm{Zug}} \cdot s = \unit[25]{N} \cdot \unit[5]{m} =
      \unit[125]{J}
-  
+
   Die Zugkraft verrichtet somit eine Arbeit von :math:`\unit[125]{J}`. Die
   Schwerkraft :math:`F _{\rm{G}} = \unit[100]{N}` hingegen verrichtet keine
   Arbeit, da sie senkrecht zur Wegstrecke :math:`s` wirkt. [#]_
-  
+
   :ref:`Zurück zur Aufgabe <Arbeit-02>`
 
-    
+
 ----
 
 .. _Hubarbeit-01-Lösung:
@@ -75,18 +75,18 @@ Arbeit>`.
   Hubarbeit:
 
   .. math::
-      
+
       W _{\rm{Hub}} &= F _{\rm{G}} \cdot h = m \cdot g \cdot h  \\[4pt]
       &= \unit[100]{kg} \cdot \unit[9,81]{\frac{N}{kg} } \cdot \unit[1]{m} =
       \unit[981]{N \cdot m} = \unit[981]{J}
-  
+
   Es ist somit eine Arbeit von :math:`\unit[981]{J}`, d.h. knapp
   :math:`\unit[1]{kJ}`, nötig, um eine Masse von :math:`\unit[100]{kg}` einen
   Meter weit anzuheben.
 
-  :ref:`Zurück zur Aufgabe <Hubarbeit-01>`    
+  :ref:`Zurück zur Aufgabe <Hubarbeit-01>`
 
-..  
+..
     Vergleiche die nötige Energiemenge mit der eines kleinen Glases Apfelsaft
     :math:`(\unit[100]{ml} \simeq \unit[202]{kJ})`.
 
@@ -101,17 +101,17 @@ Arbeit>`.
   gegebenen Werte nur in die Formel der Hubarbeit eingesetzt werden:
 
   .. math::
-      
-      W _{\rm{1}} &= m _{\rm{1}} \cdot g \cdot h = \unit[70]{kg} \cdot \unit[9,81]{\frac{N}{kg} } 
+
+      W _{\rm{1}} &= m _{\rm{1}} \cdot g \cdot h = \unit[70]{kg} \cdot \unit[9,81]{\frac{N}{kg} }
       \cdot \unit[200]{m} = \unit[137340]{N \cdot m} = \unit[137,34]{kJ} \\[4pt]
-      W _{\rm{2}} &= m _{\rm{2}} \cdot g \cdot h = \unit[7]{kg} \cdot \unit[9,81]{\frac{N}{kg} } 
+      W _{\rm{2}} &= m _{\rm{2}} \cdot g \cdot h = \unit[7]{kg} \cdot \unit[9,81]{\frac{N}{kg} }
       \cdot \unit[200]{m} = \unit[13734]{N \cdot m} = \unit[13,734]{kJ}
-  
+
   Insgesamt muss der Wanderer auf seinem Weg zum Gipfel somit eine Hubarbeit
   von :math:`W _{\rm{Hub}} = W _{\rm{1}} + W _{\rm{2}} \approx \unit[151]{kJ}`
   verrichten. [#]_
 
-  :ref:`Zurück zur Aufgabe <Hubarbeit-03>`    
+  :ref:`Zurück zur Aufgabe <Hubarbeit-03>`
 
 ----
 
@@ -124,7 +124,7 @@ Arbeit>`.
   entspricht der Summe aller einzelnen Hubarbeiten:
 
   .. math::
-      
+
       W _{\rm{Hub, gesamt}} &= F _{\rm{G}} \cdot h _{\rm{1}} + F _{\rm{G}}
       \cdot h _{\rm{2}} + \ldots + F _{\rm{G}} \cdot h _{\rm{9}}  \\
       & = F _{\rm{G}} \cdot (h _{\rm{1}} + h _{\rm{2}} + \ldots + h _{\rm{9}})
@@ -146,10 +146,10 @@ Arbeit>`.
   Definition der Arbeit berechnen:
 
   .. math::
-      
+
       W = F \cdot s = \unit[15]{N} \cdot \unit[5]{m} = \unit[75]{N \cdot m} =
       \unit[75]{J}
-  
+
   Es wird somit eine Arbeit von :math:`\unit[75]{J}` verrichtet.
 
   :ref:`Zurück zur Aufgabe <Reibungsarbeit-02>`
@@ -163,16 +163,16 @@ Arbeit>`.
   ist gleich der Summe der einzelnen Massen:
 
   .. math::
-      
+
       m = m _{\rm{1}} + m _{\rm{2}} + m _{\rm{S}} = \unit[55]{kg} +
       \unit[40]{kg} + \unit[5]{kg} = \unit[100]{kg}
-  
+
   Mit der (Gleit-)Reibungszahl :math:`\mu _{\rm{G}} = 0,04` von Eisen auf Schnee
   ergibt sich damit für die Reibungskraft :math:`F _{\rm{R}} = \mu _{\rm{G}}
   \cdot m \cdot g`:
 
   .. math::
-      
+
       F _{\rm{R}} = \mu _{\rm{G}} \cdot m \cdot g = 0,04 \cdot \unit[100]{kg}
       \cdot \unit[9,81]{\frac{N}{kg} } = \unit[39,24]{N}
 
@@ -182,11 +182,11 @@ Arbeit>`.
   Pferdes ausgerechnet werden:
 
   .. math::
-      
+
       W = W _{\rm{R}} = F _{\rm{R}} \cdot s = \unit[39,24]{N} \cdot
       \unit[250]{m} = \unit[7848]{N \cdot m} = \unit[7848]{J} \approx
       \unit[7,5]{kJ}
-  
+
   Das Pferd verrichtet beim Ziehen des Schlittens über das Feld somit eine
   Arbeit von rund :math:`\unit[7,5]{kJ}`.
 
@@ -200,19 +200,19 @@ Arbeit>`.
   _{\rm{1}} = 0)` verrichtete Arbeit gilt:
 
   .. math::
-      
+
       W = \frac{1}{2} \cdot m \cdot v^2
-  
+
   Setzt man die gegebenen Werte :math:`m = \unit[1000]{kg}` und :math:`v = v
   _{\rm{2}} = \unit[30]{m/s}` in die obige Gleichung ein, so ergibt sich: [#V1]_
 
   .. math::
-      
+
       W &= \frac{1}{2} \cdot m \cdot v^2 = \frac{1}{2} \cdot \unit[1000]{kg}
       \cdot (\unit[30]{\frac{m}{s} })^2 =  \frac{1}{2} \cdot \unit[1000]{kg}
       \cdot \unit[900]{\frac{m^2}{s^2} } \\ &= \unit[445\,000]{kg \cdot
       \frac{m^2}{s^2} } = \unit[445\,000]{J}
-  
+
   Zur Beschleunigung des Fahrzeugs sind somit :math:`\unit[445\,000]{J}=
   \unit[445]{kJ}` nötig.
 
@@ -228,7 +228,7 @@ Arbeit>`.
   \unit[2,5]{m/s^2}` und ihrer Dauer :math:`\Delta t = \unit[10]{s}` berechnen:
 
   .. math::
-      
+
       \Delta v = a \cdot \Delta t = \unit[2,5]{\frac{m}{s^2} } \cdot
       \unit[10]{s} = \unit[25]{\frac{m}{s} }
 
@@ -237,12 +237,12 @@ Arbeit>`.
   :math:`\Delta W` berechnen:
 
   .. math::
-      
+
       \Delta W &= \frac{1}{2} \cdot m \cdot (\Delta v)^2 = \frac{1}{2} \cdot
       \unit[750]{kg} \cdot \left( \unit[25]{\frac{m}{s} }\right) ^2 =
       \frac{1}{2} \cdot \unit[750]{kg} \cdot \unit[625]{\frac{m^2}{s^2} } \\ &=
       \unit[234\,375]{kg \cdot \frac{m^2}{s^2} } = \unit[234\,375]{J}
-  
+
   Die verrichtete Arbeit beträgt somit rund :math:`\unit[234]{kJ}`.
 
   :ref:`Zurück zur Aufgabe <Beschleunigungsarbeit-02>`
@@ -271,17 +271,17 @@ Wirkungsgrad>` zum Abschnitt :ref:`Wirkungsgrad <Wirkungsgrad>`.
   gleich groß:
 
   .. math::
-      
+
       W _{\rm{1}} = F _{\rm{1}} \cdot s _{\rm{1}} = F _{\rm{2}} \cdot s
-      _{\rm{2}} = W _{\rm{2}} 
+      _{\rm{2}} = W _{\rm{2}}
 
   Damit gilt für den Wirkungsgrad :math:`\eta`:
 
   .. math::
-      
+
       \eta = \frac{W _{\rm{ab}}}{W _{\rm{auf}}} = \frac{W _{\rm{1}}
       }{W _{\rm{2}} } = 1 = 100\%
-  
+
   Der Wirkungsgrad eines idealen Flaschenzugs beträgt somit :math:`100\%`.
 
   :ref:`Zurück zur Aufgabe <Wirkungsgrad-01>`
@@ -295,7 +295,7 @@ Wirkungsgrad>` zum Abschnitt :ref:`Wirkungsgrad <Wirkungsgrad>`.
   = \unit[2]{m}`) nötig ist, lässt sich nach folgender Formel berechnen:
 
   .. math::
-      
+
       W _{\rm{Hub}} = F _{\rm{G}} \cdot h = \unit[250]{N} \cdot \unit[2]{m} =
       \unit[500]{N \cdot m} = \unit[500]{J}
 
@@ -309,19 +309,19 @@ Wirkungsgrad>` zum Abschnitt :ref:`Wirkungsgrad <Wirkungsgrad>`.
   aufgewendet:
 
   .. math::
-      
+
       W _{\rm{auf}} = F \cdot s = \unit[80]{N} \cdot \unit[7]{m} = \unit[560]{N}
-  
+
   Die vom Flaschenzug abgegebene Arbeit :math:`W _{\rm{ab}}` ist somit kleiner
   als die aufgewandte Arbeit :math:`W _{\rm{auf}}`. Der Wirkungsgrad des
   Flaschenzugs, der dem Verhältnis beider Größen entspricht, ist somit kleiner
   als eins:
 
   .. math::
-      
+
       \eta = \frac{W _{\rm{ab}}}{W _{\rm{auf}}} =
-      \frac{\unit[500]{N}}{\unit[560]{N}}  \approx 0,893 
-  
+      \frac{\unit[500]{N}}{\unit[560]{N}}  \approx 0,893
+
   Der Wirkungsgrad :math:`\eta` des Flaschenzugs beträgt also rund
   :math:`89,3\%`.
 
@@ -337,17 +337,17 @@ Wirkungsgrad>` zum Abschnitt :ref:`Wirkungsgrad <Wirkungsgrad>`.
   entsprechend umstellen:
 
   .. math::
-      
+
       \eta = \frac{W _{\rm{ab}}}{W _{\rm{auf}}}  \quad \Longleftrightarrow
-      \quad W _{\rm{ab}} = W _{\rm{auf}} \cdot \eta 
+      \quad W _{\rm{ab}} = W _{\rm{auf}} \cdot \eta
 
   .. math::
-      
+
       W _{\rm{ab}} = W _{\rm{auf}} \cdot \eta = \unit[7200]{J} \cdot 0,33 =
       \unit[2376]{J}
 
   Der Kraftwandler gibt somit :math:`\unit[2376]{W}` an Arbeit ab.
-      
+
   :ref:`Zurück zur Aufgabe <Wirkungsgrad-03>`
 
 ----
@@ -360,20 +360,20 @@ Wirkungsgrad>` zum Abschnitt :ref:`Wirkungsgrad <Wirkungsgrad>`.
   umgestellt werden:
 
   .. math::
-      
+
       \eta = \frac{W _{\rm{ab}}}{W _{\rm{auf}}}  \quad \Longleftrightarrow
-      \quad W _{\rm{auf}} = \frac{W _{\rm{ab}}}{\eta } 
+      \quad W _{\rm{auf}} = \frac{W _{\rm{ab}}}{\eta }
 
   .. math::
-      
+
       W _{\rm{auf}} = \frac{W _{\rm{ab}}}{\eta } =
       \frac{\unit[5000]{J}}{0,8} = \unit[6250]{J }
 
   Es müssen somit :math:`\unit[6250]{J}` an Arbeit an der Vorrichtung
   verrichtet werden.
-  
+
   :ref:`Zurück zur Aufgabe <Wirkungsgrad-04>`
-    
+
 
 .. _Lösungen zu mechanischer Leistung:
 
@@ -392,18 +392,18 @@ mechanischer Leistung>` zum Abschnitt :ref:`Mechanische Leistung <Leistung>`.
   h` während eines Klimmzugs berechnen: [#Nm]_
 
   .. math::
-      
-      W _{\rm{ges}} &= 10 \cdot m \cdot g \cdot h \\ 
+
+      W _{\rm{ges}} &= 10 \cdot m \cdot g \cdot h \\
       &= 10 \cdot \unit[70]{kg} \cdot \unit[9,81]{\frac{m}{s^2} } \cdot \unit[0,5]{m} \\
       &= \unit[3433,5]{N \cdot m} = \unit[3433,5]{J}
-  
+
   Die Zeit, die der Sportler dafür benötigt, beträgt :math:`t = \unit[8]{s}`.
-  Damit beträgt seine Leistung :math:`P` (Arbeit je Zeit): 
+  Damit beträgt seine Leistung :math:`P` (Arbeit je Zeit):
 
   .. math::
-      
-      P = \frac{W _{\rm{ges}}}{t} 
-      = \frac{\unit[3433,5]{J}}{\unit[8]{s}} 
+
+      P = \frac{W _{\rm{ges}}}{t}
+      = \frac{\unit[3433,5]{J}}{\unit[8]{s}}
       \approx \unit[429,2]{W}
 
   Die Leistung des Sportlers beträgt somit rund :math:`429` Watt.
@@ -419,11 +419,11 @@ mechanischer Leistung>` zum Abschnitt :ref:`Mechanische Leistung <Leistung>`.
   \unit[6]{s})` in die Definition der Leistung einsetzt:
 
   .. math::
-      
+
       P = \frac{W}{t} = \frac{m \cdot g \cdot h}{t} = \frac{\unit[200]{kg}
       \cdot \unit[9,81]{\frac{N}{kg} } \cdot \unit[4]{m}}{\unit[6]{s}} =
       \unit[1\,308]{\frac{N \cdot m}{s} } = \unit[1\,308]{W}
-  
+
   Die Leistung des Motors beträgt somit rund :math:`\unit[1,3]{kW}`.
 
   :ref:`Zurück zur Aufgabe <Leistung-02>`
@@ -439,24 +439,24 @@ mechanischer Leistung>` zum Abschnitt :ref:`Mechanische Leistung <Leistung>`.
   die Gleichung nach :math:`m` auf:
 
   .. math::
-      
+
       P = \frac{W}{t} = \frac{m \cdot g \cdot h}{t} \quad \Longleftrightarrow
-      \quad m = \frac{P \cdot t}{g \cdot h} 
+      \quad m = \frac{P \cdot t}{g \cdot h}
 
   Mit :math:`\unit[1]{W} = \unit[1]{\frac{N \cdot m}{s} }` gilt:
 
   .. math::
-      
+
       m = \frac{P \cdot t }{g \cdot h} = \frac{\unit[735]{\frac{N \cdot m}{s}
       } \cdot \unit[1]{s}}{\unit[9,81]{\frac{N}{kg} } \cdot \unit[1]{m}}
       \approx \unit[74,9]{kg}
-  
+
   Mit einer Leistung von :math:`\unit[1]{PS} = \unit[735]{}` kann somit eine
   Masse von knapp :math:`\unit[75]{kg}` in einer Sekunde um einen Meter
   angehoben werden.
 
   :ref:`Zurück zur Aufgabe <Leistung-03>`
-    
+
 ----
 
 .. _Leistung-04-Lösung:
@@ -467,16 +467,16 @@ mechanischer Leistung>` zum Abschnitt :ref:`Mechanische Leistung <Leistung>`.
   Leistung einsetzt und die Gleichung nach :math:`m` auflöst:
 
   .. math::
-      
+
       P = \frac{W}{t} = \frac{m \cdot g \cdot h}{t} \quad \Longleftrightarrow
-      \quad m = \frac{P \cdot t}{g \cdot h} 
+      \quad m = \frac{P \cdot t}{g \cdot h}
 
   Mit :math:`\unit[1]{W} = \unit[1]{\frac{N \cdot m}{s} }` gilt mit :math:`P =
   \unit[5]{kW} = \unit[5000]{W}`, :math:`h = \unit[15]{m}` und :math:`t =
   \unit[1]{s}`:
 
   .. math::
-      
+
       m = \frac{P \cdot t }{g \cdot h} = \frac{\unit[5000]{\frac{N \cdot m}{s}
       } \cdot \unit[1]{s}}{\unit[9,81]{\frac{N}{kg} } \cdot \unit[15]{m}}
       \approx \unit[34,0]{kg}
@@ -485,58 +485,58 @@ mechanischer Leistung>` zum Abschnitt :ref:`Mechanische Leistung <Leistung>`.
   Wasser nach oben gepumpt; bei gleicher Leistung beträgt die nach oben
   gepumpte Wassermenge entsprend :math:`60 \cdot \unit[34]{l} \approx
   \unit[2039]{l}`.
-  
+
   :ref:`Zurück zur Aufgabe <Leistung-04>`
 
 
 ----
 
-.. _Leistung-05-Lösung: 
+.. _Leistung-05-Lösung:
 
 * Für die mechanische Leistung :math:`P` gilt allgemein:
 
   .. math::
-      
+
       P  = \frac{W}{t} = \frac{F \cdot s}{t} = F \cdot \frac{s}{t}
-  
+
   Mit :math:`v = \frac{s}{t} = \unit[0,75]{\frac{m}{s}}` und :math:`F =
   \unit[300]{N}` folgt somit für die mechanische Leistung beim Ziehen des
   Schlittens:
 
   .. math::
-      
+
       P = F \cdot \frac{s}{t} = \unit[300]{N} \cdot \unit[0,75]{\frac{m}{s}} =
       \unit[225]{\frac{J}{s}} = \unit[225]{W}
 
   Die mechanische Leistung beträgt somit :math:`\unit[225]{W}`.
-  
+
   :ref:`Zurück zur Aufgabe <Leistung-05>`
 
 
 ----
 
-.. _Beschleunigungs-Leistung-01-Lösung: 
+.. _Beschleunigungs-Leistung-01-Lösung:
 
 * Die verrichtete Beschleunigungsarbeit beträgt mit :math:`m =
   \unit[900]{kg}` und :math:`\Delta v = \unit[15]{m/s}`:
 
   .. math::
-      
+
       \Delta W &= \frac{1}{2} \cdot m \cdot (\Delta v)^2 = \frac{1}{2} \cdot
       \unit[900]{kg} \cdot \left( \unit[15]{\frac{m}{s} }\right) ^2 =
       \frac{1}{2} \cdot \unit[900]{kg} \cdot \unit[225]{\frac{m^2}{s^2} } \\ &=
       \unit[101\,250]{kg \cdot \frac{m^2}{s^2} } = \unit[101\,250]{J}
-  
+
   Diese Arbeit wird in :math:`\Delta t = \unit[8]{s}` verrichtet. Damit lässt
   sich auch die Beschleunigungs-Leistung :math:`P` berechnen:
 
   .. math::
-      
+
       P = \frac{\Delta W}{\Delta t} = \frac{\unit[101\,250]{J}}{\unit[8]{s}}
       \approx \unit[12\,656]{W}
 
   Die Beschleunigungs-Leistung des Motors beträgt somit rund
-  :math:`\unit[12\,656]{W} \approx \unit[12,7]{kW}`. [#]_     
+  :math:`\unit[12\,656]{W} \approx \unit[12,7]{kW}`. [#]_
 
   :ref:`Zurück zur Aufgabe <Beschleunigungs-Leistung-01>`
 
@@ -557,13 +557,13 @@ mechanischer Energie>` zum Abschnitt :ref:`Mechanische Energie <Mechanische Ener
 * Kann die Reibung vernachlässigt werden, so wird beim Herabfließen des Wassers
   dessen gesamte Höhenenergie :math:`(E _{\rm{pot}} = m \cdot g \cdot h)` wieder
   abgegeben. Bezogen auf :math:`\unit[1]{m^3} \equiv \unit[1000]{kg}` Wasser und
-  eine Fallhöhe von :math:`h = \unit[110]{m}` ergibt sich: 
+  eine Fallhöhe von :math:`h = \unit[110]{m}` ergibt sich:
 
   .. math::
-      
-      E _{\rm{pot}} &= m \cdot g \cdot h 
+
+      E _{\rm{pot}} &= m \cdot g \cdot h
           = \unit[1000]{kg} \cdot \unit[9,81]{\frac{m}{s^2} } \cdot
-          \unit[110]{m} 
+          \unit[110]{m}
           = \unit[1\,079\,100]{N \cdot m } = \unit[1\,079\,100]{J} =
           \unit[1\,079,1]{kJ}
 
@@ -583,9 +583,9 @@ mechanischer Energie>` zum Abschnitt :ref:`Mechanische Energie <Mechanische Ener
   der beiden Fahrzeuge sowie ihre Geschwindigkeit :math:`v_1 =
   \unit[50]{\frac{km}{h} } \approx \unit[13,89]{\frac{m}{s} }` ein, so erhält
   man:
-  
+
   .. math::
-      
+
       E _{\rm{kin, PKW,1}} = \frac{1}{2} \cdot m _{\rm{PKW}} \cdot v _{\rm{1}}^2 &=
       \frac{1}{2} \cdot \unit[1\,000]{kg} \cdot \left(
       \unit[13,89]{\frac{m}{s} } \right) ^2 \\ &= \unit[96\,466]{kg \cdot
@@ -594,31 +594,31 @@ mechanischer Energie>` zum Abschnitt :ref:`Mechanische Energie <Mechanische Ener
       \frac{1}{2} \cdot \unit[8\,000]{kg} \cdot \left(
       \unit[13,89]{\frac{m}{s} } \right) ^2 \\ &= \unit[771\,728,4]{kg \cdot
       \frac{m^2}{s^2} } = \unit[771\,728,4]{J} \approx \unit[771,7]{kJ} \\
-  
+
   Durch seine achtfache Masse besitzt der LKW bei gleicher Geschwindigkeit
   gegenüber dem PKW auch eine achtfache Energie. Wird der PKW auf :math:`v
   _{\rm{2}} = \unit[100]{\frac{km}{h} } \approx \unit[27,78]{\frac{m}{s} }`
   beschleunigt, so beträgt seine Energie:
 
   .. math::
-      
+
       E _{\rm{kin, PKW,2}} = \frac{1}{2} \cdot m _{\rm{PKW}} \cdot v _{\rm{2}}^2 &=
       \frac{1}{2} \cdot \unit[1\,000]{kg} \cdot \left(
       \unit[27,78]{\frac{m}{s} } \right) ^2 \\ &= \unit[385\,864,2]{kg \cdot
-      \frac{m^2}{s^2} } = \unit[385\,864,2]{J} \approx \unit[385,9]{kJ} 
+      \frac{m^2}{s^2} } = \unit[385\,864,2]{J} \approx \unit[385,9]{kJ}
 
   Durch den quadratischen Zusammenhang zwischen Geschwindigkeit und
   Bewegungsenergie hat der PKW bei einer doppelten Geschwindigkeit eine
   vierfache Bewegungsenergie. Bei einer dreifachen Geschwindigkeit :math:`v=
   \unit[150]{\frac{km}{h} } = \unit[41,67]{\frac{m}{s} }` nimmt die
-  Bewegungsenergie des PKWs entsprechend auf das neun-fache zu: 
+  Bewegungsenergie des PKWs entsprechend auf das neun-fache zu:
 
   .. math::
-      
+
       E _{\rm{kin, PKW,3}} = \frac{1}{2} \cdot m _{\rm{PKW}} \cdot v _{\rm{2}}^2 &=
       \frac{1}{2} \cdot \unit[1\,000]{kg} \cdot \left(
       \unit[41,67]{\frac{m}{s} } \right) ^2 \\ &= \unit[868\,194,5]{kg \cdot
-      \frac{m^2}{s^2} } = \unit[868\,194,5]{J} \approx \unit[868,2]{kJ} 
+      \frac{m^2}{s^2} } = \unit[868\,194,5]{J} \approx \unit[868,2]{kJ}
 
   Somit besitzt der PKW bei einer dreifachen Geschwindigkeit eine höhere
   Bewegungsenergie als der achtmal schwerere LKW.
@@ -635,10 +635,10 @@ mechanischer Energie>` zum Abschnitt :ref:`Mechanische Energie <Mechanische Ener
   Bewegungsenergie :math:`E _{\rm{kin}}` gleich:
 
   .. math::
-      
+
       E _{\rm{pot}} &= E _{\rm{kin}} \\
       m \cdot g \cdot h &= \frac{1}{2} \cdot m \cdot v^2
-  
+
   Beide Größen sind direkt proportional zur Geschwindigkeit. In der obigen
   Gleichung kann die Masse :math:`m` somit auf beiden Seiten "gekürzt"
   werden. Anschließend kann die Gleichung nach der gesuchten Höhe :math:`h`
@@ -646,12 +646,12 @@ mechanischer Energie>` zum Abschnitt :ref:`Mechanische Energie <Mechanische Ener
   Geschwindigkeit eingesetzt werden:
 
   .. math::
-      
+
       h &= \frac{\frac{1}{2} \cdot v^2}{g} = \frac{v^2}{2 \cdot g} \\
       &= \frac{\left( \unit[20]{\frac{m}{s}} \right)^2 }{2 \cdot
       \unit[9,81]{\frac{m}{s^2} }}  = \frac{\unit[400]{\frac{m^2}{s^2} }}{2
       \cdot \unit[9,81]{\frac{m}{s^2} }}  \approx  \unit[20,39]{m}
-  
+
   Ein Aufprall eines Fahrzeugs mit :math:`\unit[70]{\frac{km}{h} }` entspricht
   somit einem ungebremsten Sturz aus etwa :math:`\unit[20]{m}` Höhe.
 
@@ -668,15 +668,15 @@ mechanischer Energie>` zum Abschnitt :ref:`Mechanische Energie <Mechanische Ener
   werden:
 
   .. math::
-      
+
       m \cdot g \cdot h = \frac{1}{2} \cdot m \cdot v^2
-  
+
   Auf beiden Seiten der Gleichung kann die Masse :math:`m` gekuerzt werden.
   Nach dem Aufloesen der Gleichung ergibt sich fuer die Geschwindigkeit
   :math:`v`:
 
   .. math::
-      
+
       g \cdot h &= \frac{1}{2} \cdot v^2 \\
       \Rightarrow v &= \sqrt{2 \cdot g \cdot h} \\ &= \sqrt{ 2 \cdot
       \unit[9,81]{\frac{m}{s^2}} \cdot \unit[5]{m}} =
@@ -709,10 +709,10 @@ mechanischer Energie>` zum Abschnitt :ref:`Mechanische Energie <Mechanische Ener
   tierischer Produkte stets die rund :math:`10`-fache Menge an pflanzlichen
   Futtermitteln benötigt wird. Entsprechend geringer ist der "Wirkungsgrad"
   tierischer Produkte, er liegt stets in der Größenordnung von nur
-  :math:`0,1\%`. 
-  
+  :math:`0,1\%`.
+
   :ref:`Zurück zur Aufgabe <Energie-05>`
-    
+
 ----
 
 .. _Energie-06-Lösung:
@@ -721,7 +721,7 @@ mechanischer Energie>` zum Abschnitt :ref:`Mechanische Energie <Mechanische Ener
   Bewegungsenergie :math:`(E _{\rm{kin}} = 0)` noch Höhenenergie :math:`(E
   _{\rm{pot}} = 0)`; dafür ist das elastische Trampolintuch maximal gespannt.
   Diese Spannenergie :math:`E _{\rm{spann}}` bewirkt dann eine Beschleunigung
-  bzw. ein Anheben des Körpers. 
+  bzw. ein Anheben des Körpers.
 
    .. image::
       ../../pics/mechanik/arbeit-energie-leistung/energieerhaltung-trampolin-loesung.png
@@ -731,7 +731,7 @@ mechanischer Energie>` zum Abschnitt :ref:`Mechanische Energie <Mechanische Ener
       :alt:  fig-energieerhaltung-trampolin-loesung
 
   .. only:: html
-      
+
       .. centered:: `SVG: Energieerhaltung beim Trampolinspringen (Lösung)
           <../../pics/mechanik/arbeit-energie-leistung/energieerhaltung-trampolin-loesung.svg>`
 
@@ -739,8 +739,8 @@ mechanischer Energie>` zum Abschnitt :ref:`Mechanische Energie <Mechanische Ener
   umgewandelt. Anschließend findet in umgekehrter Weise eine Umwandlung von
   Höhenenergie in Bewegungsenergie statt; unmittelbar vor dem erneuten Kontakt
   mit dem Trampolintuch ist die Geschwindigkeit des Springers und damit seine
-  kinetische Energie maximal. 
-    
+  kinetische Energie maximal.
+
   :ref:`Zurück zur Aufgabe <Energie-06>`
 
 
@@ -763,26 +763,26 @@ mechanischer Energie>` zum Abschnitt :ref:`Mechanische Energie <Mechanische Ener
     Formel für die Reibungskraft :math:`F _{\rm{Reib}} = \mu \cdot F
     _{\rm{\perp}}` folgt dabei für den Reibungskoeffizienten :math:`\mu =
     \frac{F _{\rm{Reib}}}{F _{\rm{\perp}}} = \frac{F _{\rm{Zug}}}{F _{\rm{G}}} =
-    \frac{\unit[25]{N}}{\unit[100]{N}} = 0,25`. 
+    \frac{\unit[25]{N}}{\unit[100]{N}} = 0,25`.
 
 .. [#] Alternativ kann man zur Lösung der Aufgabe auch zuerst die Massen
     :math:`m _{\rm{1}}` und :math:`m _{\rm{2}}` zu einer Gesamtmasse :math:`m =
     m _{\rm{1}} + m _{\rm{2}}` addieren und diese in die Formel der Hubarbeit
     einsetzen.
 
-.. [#V1] Nach der Definition :math:`F = m \cdot a` gilt für die Einheit 
-    der Kraft: 
+.. [#V1] Nach der Definition :math:`F = m \cdot a` gilt für die Einheit
+    der Kraft:
 
     .. math::
-       
+
         \unit[1]{N} = \unit[1]{kg \cdot \frac{m}{s^2}}{\color{white} \qquad \quad \;\; \ldots}
 
     Für die Einheit der Arbeit gilt somit:
 
     .. math::
-        
+
         \unit[1]{J} = \unit[1]{N \cdot m} = \unit[1]{kg \cdot \frac{m^2}{s^2} }
-    
+
 .. [#Nm] Bei der Bestimmung der Einheit wurde einerseits berücksichtigt, dass
     :math:`\unit[1]{N} = \unit[1]{kg \cdot \frac{m}{s^2} }` gilt (dies folgt aus
     dem Newtonschen :ref:`Kraftgesetz <Kraftgesetz>`); andererseits gilt
@@ -800,7 +800,7 @@ mechanischer Energie>` zum Abschnitt :ref:`Mechanische Energie <Mechanische Ener
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Arbeit, Leistung und Energie>`

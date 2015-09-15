@@ -1,4 +1,4 @@
-.. meta:: 
+.. meta::
     :description: Übungsaufgaben zur Optik
     :keywords:  Physik, Physik Aufgaben, Optik, Optik Aufgaben, Grundwissen, Schule, Lehrbuch
 
@@ -21,8 +21,8 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Ausbreitung des Lic
 .. _Lichtausbreitung-01:
 
 * Weshalb trifft nur ein kleiner Anteil des Sonnenlichts auf die Erde? Wieso
-  erscheint uns das Weltall als dunkel? 
-  
+  erscheint uns das Weltall als dunkel?
+
   :ref:`Lösung <Lichtausbreitung-01-Lösung>`
 
 ----
@@ -30,8 +30,8 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Ausbreitung des Lic
 .. _Lichtausbreitung-02:
 
 * Weshalb kann Licht nicht -- ähnlich wie Wasser -- in einem Behälter
-  eingefangen und aufbewahrt werden? 
-  
+  eingefangen und aufbewahrt werden?
+
   :ref:`Lösung <Lichtausbreitung-02-Lösung>`
 
 ----
@@ -53,12 +53,12 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Reflexion von Licht
   dafür besitzen?
 
   .. only:: html
-  
-      .. list-table:: 
+
+      .. list-table::
           :widths: 50 50 50 50
           :header-rows: 0
           :name: tab-reflexion
-      
+
           * - Fensterglas
             - Kalkstein
             - Mehl
@@ -75,9 +75,9 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Reflexion von Licht
             - Metall
             - Sirup
             - Nebel
-  
+
   .. raw:: latex
-  
+
       \begin{center}
       \begin{tabular}{|c|c|c|c|}
         \hline
@@ -87,15 +87,15 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Reflexion von Licht
         Holz & Metall & Sirup & Nebel \\\hline
       \end{tabular}
       \end{center}
-      
+
   :ref:`Lösung <Lichtreflexion-01-Lösung>`
 
 ----
 
 .. _Lichtstreuung-01:
-    
+
 * Weshalb können wir nachts Sterne sehen, die unvorstellbar weit entfernt sind,
-  aber auf der Erde eine Lichtquelle kaum :math:`\unit[50]{km}` weit sehen? 
+  aber auf der Erde eine Lichtquelle kaum :math:`\unit[50]{km}` weit sehen?
 
   :ref:`Lösung <Lichtstreuung-01-Lösung>`
 
@@ -132,14 +132,14 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Lichtbrechung <Lich
 .. _Lichtbrechung-03:
 
 * Ein Lichtstrahl, der sich zunächst in Luft :math:`(n_1=1)` ausbreitet, fällt
-  in einem Winkel :math:`\alpha = 30,0^{\circ}` auf die Oberfläche eines transparenten
+  in einem Winkel :math:`\alpha = 30,0\degree` auf die Oberfläche eines transparenten
   Materials mit einer Brechzahl :math:`n_2=1,45` Lichtstrahl. Wie groß ist der
   Winkel :math:`\beta` des gebrochenen Lichtstrahls?
 
   :ref:`Lösung <Lichtbrechung-03-Lösung>`
 
 ..  Ablenkungswinkel :math:`\beta`?
-  
+
 ----
 
 .. _Lichtbrechung-04:
@@ -148,8 +148,8 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Lichtbrechung <Lich
   :math:`(n_2 = 1,70)` über. Wie groß ist hierbei die relative Brechzahl
   :math:`\frac{n_2}{n_1}`? Wie groß ist der Winkel :math:`\beta` des
   gebrochenen Lichtstrahls, wenn der Winkel des einfallenden Lichtstrahls
-  :math:`\alpha = 20^{\circ}` beträgt?
- 
+  :math:`\alpha = 20\degree` beträgt?
+
   :ref:`Lösung <Lichtbrechung-04-Lösung>`
 
 ----
@@ -157,11 +157,11 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Lichtbrechung <Lich
 .. _Lichtbrechung-05:
 
 * Ein Lichtstrahl, der sich zunächst in Luft :math:`(n_1=1)` ausbreitet, fällt
-  in einem Winkel :math:`\alpha _1= 50,0^{\circ}` auf die Oberfläche eines
+  in einem Winkel :math:`\alpha _1= 50,0\degree` auf die Oberfläche eines
   transparenten Materials. Der Winkel des gebrochenen Lichtstrahls beträgt
-  :math:`\beta _1= 30,9^{\circ}`. Im gleichen Winkel :math:`\alpha _2 = \beta _1`
+  :math:`\beta _1= 30,9\degree`. Im gleichen Winkel :math:`\alpha _2 = \beta _1`
   trifft der Lichtstrahl auf ein zweites transparentes Material, wobei der
-  Winkel des zum zweiten mal gebrochenen Lichtstrahls :math:`\beta _2 = 33,6^{\circ}`
+  Winkel des zum zweiten mal gebrochenen Lichtstrahls :math:`\beta _2 = 33,6\degree`
   beträgt. Wie groß sind die beiden Brechzahlen :math:`n_2` und :math:`n_3`
   beider Materialien?
 
@@ -189,9 +189,9 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Lichtbrechung <Lich
 
 
 ..  * Ein Lichtstrahl geht von Luft in Glycerin über. Wie  groß ist der
-..  Brechungswinkel des Strahls, wenn der Einfallswinkel :math:`30 ^{\circ}` beträgt?
+..  Brechungswinkel des Strahls, wenn der Einfallswinkel :math:`30 \degree` beträgt?
 
-..  * 
+..  *
 
 ..  * Wodurch unterscheiden sich virtuelle Bilder von reellen?
 
@@ -283,7 +283,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Optische Geräte
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Optik>`

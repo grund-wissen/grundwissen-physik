@@ -15,10 +15,8 @@
    height="744.09448"
    id="svg8241"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="v-t-diagramm-konstante-beschleunigung.svg">
-  <title
-     id="title6849">v-t-Diagramm: Konstante Beschleunigung</title>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,18 +24,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="443.25148"
-     inkscape:cy="409.3125"
+     inkscape:zoom="0.66855469"
+     inkscape:cx="590.35638"
+     inkscape:cy="648.65862"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
      inkscape:object-paths="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="974"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -71,8 +69,14 @@
        orientation="0,1052.3622"
        id="guide13092" />
   </sodipodi:namedview>
+  <title
+     id="title6849">v-t-Diagramm: Konstante Beschleunigung</title>
   <defs
      id="defs8243">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect55563"
+       is_visible="true" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect21120"
@@ -2374,23 +2378,23 @@
        width="1026.3149"
        id="rect13819"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        inkscape:connector-curvature="0"
        id="path13710"
        d="m 328.08965,837.41104 0,-317.14286"
-       style="fill:#4d4d4d;stroke:#4d4d4d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       style="fill:#4d4d4d;stroke:#4d4d4d;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="fill:#4d4d4d;stroke:#4d4d4d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#4d4d4d;stroke:#4d4d4d;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        d="m 678.87705,837.41104 0,-317.14286"
        id="path13712"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2398,17 +2402,17 @@
        d="m 89.770786,681.4527 184.169694,0"
        id="path7147-7"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        inkscape:transform-center-y="-149.82568"
        inkscape:transform-center-x="3.4773517e-05"
-       style="fill:none;stroke:#000000;stroke-width:2.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       style="fill:none;stroke:#000000;stroke-width:2.99999951999999981;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
        d="m 89.770786,681.45271 -7e-5,-187.70915"
        id="path7149-1"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2418,18 +2422,18 @@
        inkscape:path-effect="#path-effect11954-3"
        id="path11952-4"
        d="m 98.757836,681.4527 -17.97423,0"
-       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976000000013;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976000000013;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        d="m 89.770786,672.46534 0,196.76024"
        id="path3603"
        inkscape:path-effect="#path-effect3605-5"
        inkscape:original-d="m 89.770786,672.46534 0,196.76024"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <g
@@ -2437,7 +2441,7 @@
        ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
        transform="matrix(2.1114384,0,0,2.1114384,-201.4201,418.242)"
        id="g4969"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <defs
@@ -2476,7 +2480,7 @@
        transform="matrix(2.1225963,0,0,2.1225963,-402.9223,212.44798)"
        ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
        ns0:text="$v$\n"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <defs
@@ -2519,7 +2523,7 @@
        style="fill:none;stroke:#000080;stroke-width:5.99999952;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;marker-end:none"
        inkscape:transform-center-y="2.1213148"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2527,28 +2531,17 @@
        id="path11001"
        d="m 440.55818,681.45256 184.16971,0"
        style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path11003"
-       d="m 440.55818,557.5731 175.19216,0"
-       style="opacity:0.5;fill:none;stroke:#000080;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 18;stroke-dashoffset:0;marker-end:none"
-       inkscape:transform-center-x="5.6940152"
-       inkscape:transform-center-y="-218.84272"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        inkscape:connector-curvature="0"
        id="path11005"
        d="m 440.55818,869.22571 -7e-5,-375.48228"
-       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM);stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:transform-center-x="3.5404109e-05"
        inkscape:transform-center-y="-296.61438"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <g
@@ -2556,7 +2549,7 @@
        transform="matrix(2.1114384,0,0,2.1114384,149.3673,418.24185)"
        ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
        ns0:text="$t$\n"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <defs
@@ -2595,7 +2588,7 @@
        ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
        transform="matrix(2.1225963,0,0,2.1225963,-52.134886,212.44783)"
        id="g11027"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <defs
@@ -2638,7 +2631,7 @@
        d="m 440.55814,681.45256 175.19216,0"
        id="path18654"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2648,80 +2641,20 @@
        id="path11009"
        d="m 440.55818,672.46544 0,17.97423"
        style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 449.54523,681.45256 -17.97423,0"
        id="path11007"
        inkscape:path-effect="#path-effect11238"
        inkscape:original-d="m 449.54523,681.45256 -17.97423,0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
-    <g
-       id="g20583"
-       transform="matrix(2.1225963,0,0,2.1225963,-66.460281,274.46293)"
-       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
-       ns0:text="$v _{\\rm{0}}$\n"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <defs
-         id="defs20585">
-        <g
-           id="g20587">
-          <symbol
-             id="textext-459ff70f-0"
-             overflow="visible"
-             style="overflow:visible">
-            <path
-               id="path20590"
-               d="m 4.671875,-3.703125 c 0,-0.546875 -0.265625,-0.703125 -0.4375,-0.703125 -0.25,0 -0.5,0.265625 -0.5,0.484375 0,0.125 0.046875,0.1875 0.15625,0.296875 0.21875,0.203125 0.34375,0.453125 0.34375,0.8125 0,0.421875 -0.609375,2.703125 -1.765625,2.703125 -0.515625,0 -0.75,-0.34375 -0.75,-0.875 0,-0.546875 0.28125,-1.28125 0.578125,-2.109375 0.078125,-0.171875 0.125,-0.3125 0.125,-0.5 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.9375,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.296875,-1 0.71875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.53125 -0.171875,0.703125 -0.4375,1.15625 -0.5625,1.609375 -0.5625,2.046875 0,1.078125 0.875,1.234375 1.328125,1.234375 1.671875,0 2.25,-3.296875 2.25,-3.8125 z m 0,0"
-               style="stroke:none"
-               inkscape:connector-curvature="0" />
-          </symbol>
-          <symbol
-             id="textext-459ff70f-1"
-             overflow="visible"
-             style="overflow:visible">
-            <path
-               id="path20593"
-               d="M 3.59375,-2.21875 C 3.59375,-2.984375 3.5,-3.546875 3.1875,-4.03125 2.96875,-4.34375 2.53125,-4.625 1.984375,-4.625 c -1.625,0 -1.625,1.90625 -1.625,2.40625 0,0.5 0,2.359375 1.625,2.359375 1.609375,0 1.609375,-1.859375 1.609375,-2.359375 z M 1.984375,-0.0625 c -0.328125,0 -0.75,-0.1875 -0.890625,-0.75 C 1,-1.21875 1,-1.796875 1,-2.3125 1,-2.828125 1,-3.359375 1.09375,-3.734375 1.25,-4.28125 1.6875,-4.4375 1.984375,-4.4375 c 0.375,0 0.734375,0.234375 0.859375,0.640625 0.109375,0.375 0.125,0.875 0.125,1.484375 0,0.515625 0,1.03125 -0.09375,1.46875 -0.140625,0.640625 -0.609375,0.78125 -0.890625,0.78125 z m 0,0"
-               style="stroke:none"
-               inkscape:connector-curvature="0" />
-          </symbol>
-        </g>
-      </defs>
-      <g
-         id="textext-459ff70f-2">
-        <g
-           id="g20596"
-           style="fill:#000000;fill-opacity:1">
-          <use
-             id="use20598"
-             y="134.765"
-             x="223.43201"
-             xlink:href="#textext-459ff70f-0"
-             width="1052.3622"
-             height="744.09448" />
-        </g>
-        <g
-           id="g20600"
-           style="fill:#000000;fill-opacity:1">
-          <use
-             id="use20602"
-             y="136.259"
-             x="228.261"
-             xlink:href="#textext-459ff70f-1"
-             width="1052.3622"
-             height="744.09448" />
-        </g>
-      </g>
-    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -2729,26 +2662,37 @@
        inkscape:path-effect="#path-effect21090"
        id="path21088"
        d="m 449.54523,557.5731 -17.97423,0"
-       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976000000013;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11003"
+       d="m 440.55818,557.5731 175.19216,0"
+       style="opacity:0.5;fill:none;stroke:#000080;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 18;stroke-dashoffset:0;marker-end:none"
+       inkscape:transform-center-x="5.6940152"
+       inkscape:transform-center-y="-218.84272"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        inkscape:transform-center-y="-237.71661"
        inkscape:transform-center-x="3.6364747e-05"
-       style="fill:none;stroke:#000000;stroke-width:2.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       style="fill:none;stroke:#000000;stroke-width:2.99999951999999981;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
        d="m 792.55467,873.06045 -8e-5,-375.48233"
        id="path11087"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976000000013;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
        d="m 792.55467,685.28729 184.16971,0"
        id="path11083"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2758,8 +2702,8 @@
        inkscape:path-effect="#path-effect12446"
        id="path11089"
        d="m 801.54172,685.28729 -17.97423,0"
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2769,7 +2713,7 @@
        inkscape:path-effect="#path-effect12443"
        inkscape:original-d="m 792.55467,676.30017 0,17.97424"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <g
@@ -2777,7 +2721,7 @@
        ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
        transform="matrix(2.1114384,0,0,2.1114384,501.3638,422.07658)"
        id="g11093"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <defs
@@ -2816,7 +2760,7 @@
        transform="matrix(2.1225963,0,0,2.1225963,299.8616,216.28256)"
        ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
        ns0:text="$v$\n"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <defs
@@ -2859,7 +2803,7 @@
        id="path13367"
        inkscape:connector-curvature="0"
        inkscape:transform-center-x="-2.1869565"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2870,79 +2814,1317 @@
        style="fill:none;stroke:#000080;stroke-width:5.99999952;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;marker-end:none"
        inkscape:transform-center-y="2.1869983"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
-    <g
-       ns0:text="$v _{\\rm{0}}$\n"
-       ns0:preamble="/home/waldgeist/data/sphinx/test.tex"
-       transform="matrix(2.1225963,0,0,2.1225963,286.19195,274.46293)"
-       id="g21092"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <defs
-         id="defs21094">
-        <g
-           id="g21096">
-          <symbol
-             style="overflow:visible"
-             overflow="visible"
-             id="symbol21098">
-            <path
-               inkscape:connector-curvature="0"
-               style="stroke:none"
-               d="m 4.671875,-3.703125 c 0,-0.546875 -0.265625,-0.703125 -0.4375,-0.703125 -0.25,0 -0.5,0.265625 -0.5,0.484375 0,0.125 0.046875,0.1875 0.15625,0.296875 0.21875,0.203125 0.34375,0.453125 0.34375,0.8125 0,0.421875 -0.609375,2.703125 -1.765625,2.703125 -0.515625,0 -0.75,-0.34375 -0.75,-0.875 0,-0.546875 0.28125,-1.28125 0.578125,-2.109375 0.078125,-0.171875 0.125,-0.3125 0.125,-0.5 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.9375,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.296875,-1 0.71875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.53125 -0.171875,0.703125 -0.4375,1.15625 -0.5625,1.609375 -0.5625,2.046875 0,1.078125 0.875,1.234375 1.328125,1.234375 1.671875,0 2.25,-3.296875 2.25,-3.8125 z m 0,0"
-               id="path21100" />
-          </symbol>
-          <symbol
-             style="overflow:visible"
-             overflow="visible"
-             id="symbol21102">
-            <path
-               inkscape:connector-curvature="0"
-               style="stroke:none"
-               d="M 3.59375,-2.21875 C 3.59375,-2.984375 3.5,-3.546875 3.1875,-4.03125 2.96875,-4.34375 2.53125,-4.625 1.984375,-4.625 c -1.625,0 -1.625,1.90625 -1.625,2.40625 0,0.5 0,2.359375 1.625,2.359375 1.609375,0 1.609375,-1.859375 1.609375,-2.359375 z M 1.984375,-0.0625 c -0.328125,0 -0.75,-0.1875 -0.890625,-0.75 C 1,-1.21875 1,-1.796875 1,-2.3125 1,-2.828125 1,-3.359375 1.09375,-3.734375 1.25,-4.28125 1.6875,-4.4375 1.984375,-4.4375 c 0.375,0 0.734375,0.234375 0.859375,0.640625 0.109375,0.375 0.125,0.875 0.125,1.484375 0,0.515625 0,1.03125 -0.09375,1.46875 -0.140625,0.640625 -0.609375,0.78125 -0.890625,0.78125 z m 0,0"
-               id="path21104" />
-          </symbol>
-        </g>
-      </defs>
-      <g
-         id="g21106">
-        <g
-           style="fill:#000000;fill-opacity:1"
-           id="g21108">
-          <use
-             height="744.09448"
-             width="1052.3622"
-             xlink:href="#textext-459ff70f-0"
-             x="223.43201"
-             y="134.765"
-             id="use21110" />
-        </g>
-        <g
-           style="fill:#000000;fill-opacity:1"
-           id="g21112">
-          <use
-             height="744.09448"
-             width="1052.3622"
-             xlink:href="#textext-459ff70f-1"
-             x="228.261"
-             y="136.259"
-             id="use21114" />
-        </g>
-      </g>
-    </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976000000013;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        d="m 801.54171,557.5731 -17.97423,0"
        id="path21116"
        inkscape:path-effect="#path-effect21120"
        inkscape:original-d="m 801.54171,557.5731 -17.97423,0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       style="fill:none;stroke:#000000;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.757832,557.5731 -17.97423,0"
+       id="path55561"
+       inkscape:path-effect="#path-effect55563"
+       inkscape:original-d="m 98.757832,557.5731 -17.97423,0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="-125.39798"
+       inkscape:transform-center-x="3.2627026"
+       style="opacity:0.5;fill:none;stroke:#000080;stroke-width:6.00000048;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.99999995, 17.99999985;stroke-dashoffset:0;marker-end:none"
+       d="M 89.783247,557.57309 160.76687,486.58946"
+       id="path55565"
+       inkscape:connector-curvature="0" />
+    <g
+       ns0:text="\\begin{align*}\na &amp;&gt; 0, \\\\[-3pt]\nv_0 &amp;&gt; 0\n\\end{align*}\n"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(2.1225963,0,0,2.1225963,-633.88249,198.0071)"
+       style="fill:#7f7fbf;fill-opacity:1;stroke:#d40000;stroke-opacity:1"
+       id="g56203"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs56205">
+        <g
+           id="g56207">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-19c660f2-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path56210" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-19c660f2-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 3.71875,-3.765625 C 3.53125,-4.140625 3.25,-4.40625 2.796875,-4.40625 c -1.15625,0 -2.390625,1.46875 -2.390625,2.921875 0,0.9375 0.546875,1.59375 1.3125,1.59375 0.203125,0 0.703125,-0.046875 1.296875,-0.75 0.078125,0.421875 0.4375,0.75 0.90625,0.75 0.359375,0 0.578125,-0.234375 0.75,-0.546875 0.15625,-0.359375 0.296875,-0.96875 0.296875,-0.984375 0,-0.109375 -0.09375,-0.109375 -0.125,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.1875 -0.171875,0.640625 -0.34375,1.234375 -0.75,1.234375 -0.28125,0 -0.296875,-0.265625 -0.296875,-0.453125 0,-0.21875 0.015625,-0.3125 0.125,-0.75 C 3.890625,-1.71875 3.90625,-1.828125 4,-2.203125 L 4.359375,-3.59375 c 0.0625,-0.28125 0.0625,-0.296875 0.0625,-0.34375 0,-0.171875 -0.109375,-0.265625 -0.28125,-0.265625 -0.25,0 -0.390625,0.21875 -0.421875,0.4375 z M 3.078125,-1.1875 C 3.015625,-1 3.015625,-0.984375 2.875,-0.8125 2.4375,-0.265625 2.03125,-0.109375 1.75,-0.109375 c -0.5,0 -0.640625,-0.546875 -0.640625,-0.9375 0,-0.5 0.3125,-1.71875 0.546875,-2.1875 0.3125,-0.578125 0.75,-0.953125 1.15625,-0.953125 0.640625,0 0.78125,0.8125 0.78125,0.875 0,0.0625 -0.015625,0.125 -0.03125,0.171875 z m 0,0"
+               id="path56213" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-19c660f2-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 6.734375,-2.265625 C 6.84375,-2.328125 6.921875,-2.375 6.921875,-2.5 c 0,-0.109375 -0.078125,-0.15625 -0.1875,-0.21875 L 1.203125,-5.3125 C 1.078125,-5.390625 1.0625,-5.390625 1.03125,-5.390625 c -0.109375,0 -0.203125,0.09375 -0.203125,0.203125 0,0.09375 0.046875,0.15625 0.1875,0.21875 L 6.25,-2.5 1.015625,-0.015625 c -0.140625,0.0625 -0.1875,0.125 -0.1875,0.21875 0,0.109375 0.09375,0.203125 0.203125,0.203125 0.03125,0 0.046875,0 0.171875,-0.078125 z m 0,0"
+               id="path56216" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-19c660f2-3">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.03125,-0.015625 c 0,-0.65625 -0.25,-1.046875 -0.640625,-1.046875 -0.328125,0 -0.53125,0.25 -0.53125,0.53125 C 0.859375,-0.265625 1.0625,0 1.390625,0 1.5,0 1.640625,-0.046875 1.734375,-0.125 1.765625,-0.15625 1.78125,-0.15625 1.78125,-0.15625 c 0.015625,0 0.015625,0 0.015625,0.140625 0,0.75 -0.34375,1.34375 -0.671875,1.671875 -0.109375,0.109375 -0.109375,0.125 -0.109375,0.15625 0,0.078125 0.046875,0.109375 0.09375,0.109375 0.109375,0 0.921875,-0.765625 0.921875,-1.9375 z m 0,0"
+               id="path56219" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-19c660f2-4">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 4.671875,-3.703125 c 0,-0.546875 -0.265625,-0.703125 -0.4375,-0.703125 -0.25,0 -0.5,0.265625 -0.5,0.484375 0,0.125 0.046875,0.1875 0.15625,0.296875 0.21875,0.203125 0.34375,0.453125 0.34375,0.8125 0,0.421875 -0.609375,2.703125 -1.765625,2.703125 -0.515625,0 -0.75,-0.34375 -0.75,-0.875 0,-0.546875 0.28125,-1.28125 0.578125,-2.109375 0.078125,-0.171875 0.125,-0.3125 0.125,-0.5 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.9375,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.296875,-1 0.71875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.53125 -0.171875,0.703125 -0.4375,1.15625 -0.5625,1.609375 -0.5625,2.046875 0,1.078125 0.875,1.234375 1.328125,1.234375 1.671875,0 2.25,-3.296875 2.25,-3.8125 z m 0,0"
+               id="path56222" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-19c660f2-5">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path56225" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-19c660f2-6">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 4.578125,-3.1875 c 0,-0.796875 -0.046875,-1.59375 -0.390625,-2.328125 -0.453125,-0.96875 -1.28125,-1.125 -1.6875,-1.125 -0.609375,0 -1.328125,0.265625 -1.75,1.1875 -0.3125,0.6875 -0.359375,1.46875 -0.359375,2.265625 0,0.75 0.03125,1.640625 0.453125,2.40625 0.421875,0.796875 1.15625,1 1.640625,1 0.53125,0 1.296875,-0.203125 1.734375,-1.15625 0.3125,-0.6875 0.359375,-1.46875 0.359375,-2.25 z M 2.484375,0 C 2.09375,0 1.5,-0.25 1.328125,-1.203125 1.21875,-1.796875 1.21875,-2.71875 1.21875,-3.3125 c 0,-0.640625 0,-1.296875 0.078125,-1.828125 0.1875,-1.1875 0.9375,-1.28125 1.1875,-1.28125 0.328125,0 0.984375,0.1875 1.171875,1.171875 0.109375,0.5625 0.109375,1.3125 0.109375,1.9375 0,0.75 0,1.421875 -0.109375,2.0625 C 3.5,-0.296875 2.9375,0 2.484375,0 z m 0,0"
+               id="path56228" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-19c660f2-7">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path56231" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-19c660f2-8">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 3.59375,-2.21875 C 3.59375,-2.984375 3.5,-3.546875 3.1875,-4.03125 2.96875,-4.34375 2.53125,-4.625 1.984375,-4.625 c -1.625,0 -1.625,1.90625 -1.625,2.40625 0,0.5 0,2.359375 1.625,2.359375 1.609375,0 1.609375,-1.859375 1.609375,-2.359375 z M 1.984375,-0.0625 c -0.328125,0 -0.75,-0.1875 -0.890625,-0.75 C 1,-1.21875 1,-1.796875 1,-2.3125 1,-2.828125 1,-3.359375 1.09375,-3.734375 1.25,-4.28125 1.6875,-4.4375 1.984375,-4.4375 c 0.375,0 0.734375,0.234375 0.859375,0.640625 0.109375,0.375 0.125,0.875 0.125,1.484375 0,0.515625 0,1.03125 -0.09375,1.46875 -0.140625,0.640625 -0.609375,0.78125 -0.890625,0.78125 z m 0,0"
+               id="path56234" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#7f7fbf;fill-opacity:1"
+         id="textext-19c660f2-9">
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g56237">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             style="fill:#7f7fbf;fill-opacity:1"
+             xlink:href="#textext-19c660f2-1"
+             x="384.155"
+             y="134.765"
+             id="use56239" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g56241">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             style="fill:#7f7fbf;fill-opacity:1"
+             xlink:href="#textext-19c660f2-2"
+             x="392.19083"
+             y="134.765"
+             id="use56243" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g56245">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             style="fill:#7f7fbf;fill-opacity:1"
+             xlink:href="#textext-19c660f2-6"
+             x="402.70401"
+             y="134.765"
+             id="use56247" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g56249">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             style="fill:#7f7fbf;fill-opacity:1"
+             xlink:href="#textext-19c660f2-3"
+             x="407.686"
+             y="134.765"
+             id="use56251" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g56253">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             style="fill:#7f7fbf;fill-opacity:1"
+             xlink:href="#textext-19c660f2-4"
+             x="380.12201"
+             y="146.72"
+             id="use56255" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g56257">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             style="fill:#7f7fbf;fill-opacity:1"
+             xlink:href="#textext-19c660f2-8"
+             x="384.95099"
+             y="148.214"
+             id="use56259" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g56261">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             style="fill:#7f7fbf;fill-opacity:1"
+             xlink:href="#textext-19c660f2-2"
+             x="392.18799"
+             y="146.72"
+             id="use56263" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g56265">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             style="fill:#7f7fbf;fill-opacity:1"
+             xlink:href="#textext-19c660f2-6"
+             x="402.70401"
+             y="146.72"
+             id="use56267" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g57429"
+       style="fill:#000080;fill-opacity:1;stroke:#d40000;stroke-opacity:1"
+       transform="matrix(2.1225963,0,0,2.1225963,-633.88249,320.69622)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="\\begin{align*}\na &amp;&gt; 0, \\\\[-3pt]\nv_0 &amp;= 0\n\\end{align*}\n"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs57431">
+        <g
+           id="g57433">
+          <symbol
+             id="textext-b378c461-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path57436"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-b378c461-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path57439"
+               d="M 3.71875,-3.765625 C 3.53125,-4.140625 3.25,-4.40625 2.796875,-4.40625 c -1.15625,0 -2.390625,1.46875 -2.390625,2.921875 0,0.9375 0.546875,1.59375 1.3125,1.59375 0.203125,0 0.703125,-0.046875 1.296875,-0.75 0.078125,0.421875 0.4375,0.75 0.90625,0.75 0.359375,0 0.578125,-0.234375 0.75,-0.546875 0.15625,-0.359375 0.296875,-0.96875 0.296875,-0.984375 0,-0.109375 -0.09375,-0.109375 -0.125,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.1875 -0.171875,0.640625 -0.34375,1.234375 -0.75,1.234375 -0.28125,0 -0.296875,-0.265625 -0.296875,-0.453125 0,-0.21875 0.015625,-0.3125 0.125,-0.75 C 3.890625,-1.71875 3.90625,-1.828125 4,-2.203125 L 4.359375,-3.59375 c 0.0625,-0.28125 0.0625,-0.296875 0.0625,-0.34375 0,-0.171875 -0.109375,-0.265625 -0.28125,-0.265625 -0.25,0 -0.390625,0.21875 -0.421875,0.4375 z M 3.078125,-1.1875 C 3.015625,-1 3.015625,-0.984375 2.875,-0.8125 2.4375,-0.265625 2.03125,-0.109375 1.75,-0.109375 c -0.5,0 -0.640625,-0.546875 -0.640625,-0.9375 0,-0.5 0.3125,-1.71875 0.546875,-2.1875 0.3125,-0.578125 0.75,-0.953125 1.15625,-0.953125 0.640625,0 0.78125,0.8125 0.78125,0.875 0,0.0625 -0.015625,0.125 -0.03125,0.171875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-b378c461-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path57442"
+               d="M 6.734375,-2.265625 C 6.84375,-2.328125 6.921875,-2.375 6.921875,-2.5 c 0,-0.109375 -0.078125,-0.15625 -0.1875,-0.21875 L 1.203125,-5.3125 C 1.078125,-5.390625 1.0625,-5.390625 1.03125,-5.390625 c -0.109375,0 -0.203125,0.09375 -0.203125,0.203125 0,0.09375 0.046875,0.15625 0.1875,0.21875 L 6.25,-2.5 1.015625,-0.015625 c -0.140625,0.0625 -0.1875,0.125 -0.1875,0.21875 0,0.109375 0.09375,0.203125 0.203125,0.203125 0.03125,0 0.046875,0 0.171875,-0.078125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-b378c461-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path57445"
+               d="m 2.03125,-0.015625 c 0,-0.65625 -0.25,-1.046875 -0.640625,-1.046875 -0.328125,0 -0.53125,0.25 -0.53125,0.53125 C 0.859375,-0.265625 1.0625,0 1.390625,0 1.5,0 1.640625,-0.046875 1.734375,-0.125 1.765625,-0.15625 1.78125,-0.15625 1.78125,-0.15625 c 0.015625,0 0.015625,0 0.015625,0.140625 0,0.75 -0.34375,1.34375 -0.671875,1.671875 -0.109375,0.109375 -0.109375,0.125 -0.109375,0.15625 0,0.078125 0.046875,0.109375 0.09375,0.109375 0.109375,0 0.921875,-0.765625 0.921875,-1.9375 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-b378c461-4"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path57448"
+               d="m 4.671875,-3.703125 c 0,-0.546875 -0.265625,-0.703125 -0.4375,-0.703125 -0.25,0 -0.5,0.265625 -0.5,0.484375 0,0.125 0.046875,0.1875 0.15625,0.296875 0.21875,0.203125 0.34375,0.453125 0.34375,0.8125 0,0.421875 -0.609375,2.703125 -1.765625,2.703125 -0.515625,0 -0.75,-0.34375 -0.75,-0.875 0,-0.546875 0.28125,-1.28125 0.578125,-2.109375 0.078125,-0.171875 0.125,-0.3125 0.125,-0.5 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.9375,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.296875,-1 0.71875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.53125 -0.171875,0.703125 -0.4375,1.15625 -0.5625,1.609375 -0.5625,2.046875 0,1.078125 0.875,1.234375 1.328125,1.234375 1.671875,0 2.25,-3.296875 2.25,-3.8125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-b378c461-5"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path57451"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-b378c461-6"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path57454"
+               d="m 4.578125,-3.1875 c 0,-0.796875 -0.046875,-1.59375 -0.390625,-2.328125 -0.453125,-0.96875 -1.28125,-1.125 -1.6875,-1.125 -0.609375,0 -1.328125,0.265625 -1.75,1.1875 -0.3125,0.6875 -0.359375,1.46875 -0.359375,2.265625 0,0.75 0.03125,1.640625 0.453125,2.40625 0.421875,0.796875 1.15625,1 1.640625,1 0.53125,0 1.296875,-0.203125 1.734375,-1.15625 0.3125,-0.6875 0.359375,-1.46875 0.359375,-2.25 z M 2.484375,0 C 2.09375,0 1.5,-0.25 1.328125,-1.203125 1.21875,-1.796875 1.21875,-2.71875 1.21875,-3.3125 c 0,-0.640625 0,-1.296875 0.078125,-1.828125 0.1875,-1.1875 0.9375,-1.28125 1.1875,-1.28125 0.328125,0 0.984375,0.1875 1.171875,1.171875 0.109375,0.5625 0.109375,1.3125 0.109375,1.9375 0,0.75 0,1.421875 -0.109375,2.0625 C 3.5,-0.296875 2.9375,0 2.484375,0 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-b378c461-7"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path57457"
+               d="m 6.84375,-3.265625 c 0.15625,0 0.34375,0 0.34375,-0.1875 C 7.1875,-3.65625 7,-3.65625 6.859375,-3.65625 l -5.96875,0 c -0.140625,0 -0.328125,0 -0.328125,0.203125 0,0.1875 0.1875,0.1875 0.328125,0.1875 z m 0.015625,1.9375 c 0.140625,0 0.328125,0 0.328125,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.34375,-0.1875 l -5.953125,0 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-b378c461-8"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path57460"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-b378c461-9"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path57463"
+               d="M 3.59375,-2.21875 C 3.59375,-2.984375 3.5,-3.546875 3.1875,-4.03125 2.96875,-4.34375 2.53125,-4.625 1.984375,-4.625 c -1.625,0 -1.625,1.90625 -1.625,2.40625 0,0.5 0,2.359375 1.625,2.359375 1.609375,0 1.609375,-1.859375 1.609375,-2.359375 z M 1.984375,-0.0625 c -0.328125,0 -0.75,-0.1875 -0.890625,-0.75 C 1,-1.21875 1,-1.796875 1,-2.3125 1,-2.828125 1,-3.359375 1.09375,-3.734375 1.25,-4.28125 1.6875,-4.4375 1.984375,-4.4375 c 0.375,0 0.734375,0.234375 0.859375,0.640625 0.109375,0.375 0.125,0.875 0.125,1.484375 0,0.515625 0,1.03125 -0.09375,1.46875 -0.140625,0.640625 -0.609375,0.78125 -0.890625,0.78125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-b378c461-10"
+         style="fill:#000080;fill-opacity:1">
+        <g
+           id="g57466"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use57468"
+             y="134.765"
+             x="384.155"
+             xlink:href="#textext-b378c461-1"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g57470"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use57472"
+             y="134.765"
+             x="392.19083"
+             xlink:href="#textext-b378c461-2"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g57474"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use57476"
+             y="134.765"
+             x="402.70401"
+             xlink:href="#textext-b378c461-6"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g57478"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use57480"
+             y="134.765"
+             x="407.686"
+             xlink:href="#textext-b378c461-3"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g57482"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use57484"
+             y="146.72"
+             x="380.12201"
+             xlink:href="#textext-b378c461-4"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g57486"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use57488"
+             y="148.214"
+             x="384.95099"
+             xlink:href="#textext-b378c461-9"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g57490"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use57492"
+             y="146.72"
+             x="392.18799"
+             xlink:href="#textext-b378c461-7"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g57494"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use57496"
+             y="146.72"
+             x="402.70651"
+             xlink:href="#textext-b378c461-6"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="\\begin{align*}\na &amp;= 0, \\\\[-3pt]\nv_0 &amp;&gt; 0\n\\end{align*}\n"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(2.1225963,0,0,2.1225963,-247.00782,230.0071)"
+       style="fill:#7f7fbf;fill-opacity:1;stroke:#d40000;stroke-opacity:1"
+       id="g58738"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs58740">
+        <g
+           id="g58742">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4b02e880-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path58745" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4b02e880-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 3.71875,-3.765625 C 3.53125,-4.140625 3.25,-4.40625 2.796875,-4.40625 c -1.15625,0 -2.390625,1.46875 -2.390625,2.921875 0,0.9375 0.546875,1.59375 1.3125,1.59375 0.203125,0 0.703125,-0.046875 1.296875,-0.75 0.078125,0.421875 0.4375,0.75 0.90625,0.75 0.359375,0 0.578125,-0.234375 0.75,-0.546875 0.15625,-0.359375 0.296875,-0.96875 0.296875,-0.984375 0,-0.109375 -0.09375,-0.109375 -0.125,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.1875 -0.171875,0.640625 -0.34375,1.234375 -0.75,1.234375 -0.28125,0 -0.296875,-0.265625 -0.296875,-0.453125 0,-0.21875 0.015625,-0.3125 0.125,-0.75 C 3.890625,-1.71875 3.90625,-1.828125 4,-2.203125 L 4.359375,-3.59375 c 0.0625,-0.28125 0.0625,-0.296875 0.0625,-0.34375 0,-0.171875 -0.109375,-0.265625 -0.28125,-0.265625 -0.25,0 -0.390625,0.21875 -0.421875,0.4375 z M 3.078125,-1.1875 C 3.015625,-1 3.015625,-0.984375 2.875,-0.8125 2.4375,-0.265625 2.03125,-0.109375 1.75,-0.109375 c -0.5,0 -0.640625,-0.546875 -0.640625,-0.9375 0,-0.5 0.3125,-1.71875 0.546875,-2.1875 0.3125,-0.578125 0.75,-0.953125 1.15625,-0.953125 0.640625,0 0.78125,0.8125 0.78125,0.875 0,0.0625 -0.015625,0.125 -0.03125,0.171875 z m 0,0"
+               id="path58748" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4b02e880-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.03125,-0.015625 c 0,-0.65625 -0.25,-1.046875 -0.640625,-1.046875 -0.328125,0 -0.53125,0.25 -0.53125,0.53125 C 0.859375,-0.265625 1.0625,0 1.390625,0 1.5,0 1.640625,-0.046875 1.734375,-0.125 1.765625,-0.15625 1.78125,-0.15625 1.78125,-0.15625 c 0.015625,0 0.015625,0 0.015625,0.140625 0,0.75 -0.34375,1.34375 -0.671875,1.671875 -0.109375,0.109375 -0.109375,0.125 -0.109375,0.15625 0,0.078125 0.046875,0.109375 0.09375,0.109375 0.109375,0 0.921875,-0.765625 0.921875,-1.9375 z m 0,0"
+               id="path58751" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4b02e880-3">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 4.671875,-3.703125 c 0,-0.546875 -0.265625,-0.703125 -0.4375,-0.703125 -0.25,0 -0.5,0.265625 -0.5,0.484375 0,0.125 0.046875,0.1875 0.15625,0.296875 0.21875,0.203125 0.34375,0.453125 0.34375,0.8125 0,0.421875 -0.609375,2.703125 -1.765625,2.703125 -0.515625,0 -0.75,-0.34375 -0.75,-0.875 0,-0.546875 0.28125,-1.28125 0.578125,-2.109375 0.078125,-0.171875 0.125,-0.3125 0.125,-0.5 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.9375,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.296875,-1 0.71875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.53125 -0.171875,0.703125 -0.4375,1.15625 -0.5625,1.609375 -0.5625,2.046875 0,1.078125 0.875,1.234375 1.328125,1.234375 1.671875,0 2.25,-3.296875 2.25,-3.8125 z m 0,0"
+               id="path58754" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4b02e880-4">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 6.734375,-2.265625 C 6.84375,-2.328125 6.921875,-2.375 6.921875,-2.5 c 0,-0.109375 -0.078125,-0.15625 -0.1875,-0.21875 L 1.203125,-5.3125 C 1.078125,-5.390625 1.0625,-5.390625 1.03125,-5.390625 c -0.109375,0 -0.203125,0.09375 -0.203125,0.203125 0,0.09375 0.046875,0.15625 0.1875,0.21875 L 6.25,-2.5 1.015625,-0.015625 c -0.140625,0.0625 -0.1875,0.125 -0.1875,0.21875 0,0.109375 0.09375,0.203125 0.203125,0.203125 0.03125,0 0.046875,0 0.171875,-0.078125 z m 0,0"
+               id="path58757" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4b02e880-5">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path58760" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4b02e880-6">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 6.84375,-3.265625 c 0.15625,0 0.34375,0 0.34375,-0.1875 C 7.1875,-3.65625 7,-3.65625 6.859375,-3.65625 l -5.96875,0 c -0.140625,0 -0.328125,0 -0.328125,0.203125 0,0.1875 0.1875,0.1875 0.328125,0.1875 z m 0.015625,1.9375 c 0.140625,0 0.328125,0 0.328125,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.34375,-0.1875 l -5.953125,0 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 z m 0,0"
+               id="path58763" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4b02e880-7">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 4.578125,-3.1875 c 0,-0.796875 -0.046875,-1.59375 -0.390625,-2.328125 -0.453125,-0.96875 -1.28125,-1.125 -1.6875,-1.125 -0.609375,0 -1.328125,0.265625 -1.75,1.1875 -0.3125,0.6875 -0.359375,1.46875 -0.359375,2.265625 0,0.75 0.03125,1.640625 0.453125,2.40625 0.421875,0.796875 1.15625,1 1.640625,1 0.53125,0 1.296875,-0.203125 1.734375,-1.15625 0.3125,-0.6875 0.359375,-1.46875 0.359375,-2.25 z M 2.484375,0 C 2.09375,0 1.5,-0.25 1.328125,-1.203125 1.21875,-1.796875 1.21875,-2.71875 1.21875,-3.3125 c 0,-0.640625 0,-1.296875 0.078125,-1.828125 0.1875,-1.1875 0.9375,-1.28125 1.1875,-1.28125 0.328125,0 0.984375,0.1875 1.171875,1.171875 0.109375,0.5625 0.109375,1.3125 0.109375,1.9375 0,0.75 0,1.421875 -0.109375,2.0625 C 3.5,-0.296875 2.9375,0 2.484375,0 z m 0,0"
+               id="path58766" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4b02e880-8">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path58769" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-4b02e880-9">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 3.59375,-2.21875 C 3.59375,-2.984375 3.5,-3.546875 3.1875,-4.03125 2.96875,-4.34375 2.53125,-4.625 1.984375,-4.625 c -1.625,0 -1.625,1.90625 -1.625,2.40625 0,0.5 0,2.359375 1.625,2.359375 1.609375,0 1.609375,-1.859375 1.609375,-2.359375 z M 1.984375,-0.0625 c -0.328125,0 -0.75,-0.1875 -0.890625,-0.75 C 1,-1.21875 1,-1.796875 1,-2.3125 1,-2.828125 1,-3.359375 1.09375,-3.734375 1.25,-4.28125 1.6875,-4.4375 1.984375,-4.4375 c 0.375,0 0.734375,0.234375 0.859375,0.640625 0.109375,0.375 0.125,0.875 0.125,1.484375 0,0.515625 0,1.03125 -0.09375,1.46875 -0.140625,0.640625 -0.609375,0.78125 -0.890625,0.78125 z m 0,0"
+               id="path58772" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-4b02e880-10"
+         style="fill:#7f7fbf;fill-opacity:1">
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g58775">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-4b02e880-1"
+             x="384.155"
+             y="134.765"
+             id="use58777"
+             style="fill:#7f7fbf;fill-opacity:1" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g58779">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-4b02e880-6"
+             x="392.18799"
+             y="134.765"
+             id="use58781"
+             style="fill:#7f7fbf;fill-opacity:1" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g58783">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-4b02e880-7"
+             x="402.70651"
+             y="134.765"
+             id="use58785"
+             style="fill:#7f7fbf;fill-opacity:1" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g58787">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-4b02e880-2"
+             x="407.686"
+             y="134.765"
+             id="use58789"
+             style="fill:#7f7fbf;fill-opacity:1" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g58791">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-4b02e880-3"
+             x="380.12201"
+             y="146.72"
+             id="use58793"
+             style="fill:#7f7fbf;fill-opacity:1" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g58795">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-4b02e880-9"
+             x="384.95099"
+             y="148.214"
+             id="use58797"
+             style="fill:#7f7fbf;fill-opacity:1" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g58799">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-4b02e880-4"
+             x="392.18799"
+             y="146.72"
+             id="use58801"
+             style="fill:#7f7fbf;fill-opacity:1" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g58803">
+          <use
+             height="744.09448"
+             width="1052.3622"
+             xlink:href="#textext-4b02e880-7"
+             x="402.70401"
+             y="146.72"
+             id="use58805"
+             style="fill:#7f7fbf;fill-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g60131"
+       style="fill:#000080;fill-opacity:1;stroke:#d40000;stroke-opacity:1"
+       transform="matrix(2.1225963,0,0,2.1225963,-247.00782,357.25317)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="\\begin{align*}\na &amp;= 0, \\\\[-3pt]\nv_0 &amp;= 0\n\\end{align*}\n"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs60133">
+        <g
+           id="g60135">
+          <symbol
+             id="textext-d150c952-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path60138"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-d150c952-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path60141"
+               d="M 3.71875,-3.765625 C 3.53125,-4.140625 3.25,-4.40625 2.796875,-4.40625 c -1.15625,0 -2.390625,1.46875 -2.390625,2.921875 0,0.9375 0.546875,1.59375 1.3125,1.59375 0.203125,0 0.703125,-0.046875 1.296875,-0.75 0.078125,0.421875 0.4375,0.75 0.90625,0.75 0.359375,0 0.578125,-0.234375 0.75,-0.546875 0.15625,-0.359375 0.296875,-0.96875 0.296875,-0.984375 0,-0.109375 -0.09375,-0.109375 -0.125,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.1875 -0.171875,0.640625 -0.34375,1.234375 -0.75,1.234375 -0.28125,0 -0.296875,-0.265625 -0.296875,-0.453125 0,-0.21875 0.015625,-0.3125 0.125,-0.75 C 3.890625,-1.71875 3.90625,-1.828125 4,-2.203125 L 4.359375,-3.59375 c 0.0625,-0.28125 0.0625,-0.296875 0.0625,-0.34375 0,-0.171875 -0.109375,-0.265625 -0.28125,-0.265625 -0.25,0 -0.390625,0.21875 -0.421875,0.4375 z M 3.078125,-1.1875 C 3.015625,-1 3.015625,-0.984375 2.875,-0.8125 2.4375,-0.265625 2.03125,-0.109375 1.75,-0.109375 c -0.5,0 -0.640625,-0.546875 -0.640625,-0.9375 0,-0.5 0.3125,-1.71875 0.546875,-2.1875 0.3125,-0.578125 0.75,-0.953125 1.15625,-0.953125 0.640625,0 0.78125,0.8125 0.78125,0.875 0,0.0625 -0.015625,0.125 -0.03125,0.171875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-d150c952-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path60144"
+               d="m 2.03125,-0.015625 c 0,-0.65625 -0.25,-1.046875 -0.640625,-1.046875 -0.328125,0 -0.53125,0.25 -0.53125,0.53125 C 0.859375,-0.265625 1.0625,0 1.390625,0 1.5,0 1.640625,-0.046875 1.734375,-0.125 1.765625,-0.15625 1.78125,-0.15625 1.78125,-0.15625 c 0.015625,0 0.015625,0 0.015625,0.140625 0,0.75 -0.34375,1.34375 -0.671875,1.671875 -0.109375,0.109375 -0.109375,0.125 -0.109375,0.15625 0,0.078125 0.046875,0.109375 0.09375,0.109375 0.109375,0 0.921875,-0.765625 0.921875,-1.9375 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-d150c952-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path60147"
+               d="m 4.671875,-3.703125 c 0,-0.546875 -0.265625,-0.703125 -0.4375,-0.703125 -0.25,0 -0.5,0.265625 -0.5,0.484375 0,0.125 0.046875,0.1875 0.15625,0.296875 0.21875,0.203125 0.34375,0.453125 0.34375,0.8125 0,0.421875 -0.609375,2.703125 -1.765625,2.703125 -0.515625,0 -0.75,-0.34375 -0.75,-0.875 0,-0.546875 0.28125,-1.28125 0.578125,-2.109375 0.078125,-0.171875 0.125,-0.3125 0.125,-0.5 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.9375,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.296875,-1 0.71875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.53125 -0.171875,0.703125 -0.4375,1.15625 -0.5625,1.609375 -0.5625,2.046875 0,1.078125 0.875,1.234375 1.328125,1.234375 1.671875,0 2.25,-3.296875 2.25,-3.8125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-d150c952-4"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path60150"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-d150c952-5"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path60153"
+               d="m 6.84375,-3.265625 c 0.15625,0 0.34375,0 0.34375,-0.1875 C 7.1875,-3.65625 7,-3.65625 6.859375,-3.65625 l -5.96875,0 c -0.140625,0 -0.328125,0 -0.328125,0.203125 0,0.1875 0.1875,0.1875 0.328125,0.1875 z m 0.015625,1.9375 c 0.140625,0 0.328125,0 0.328125,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.34375,-0.1875 l -5.953125,0 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-d150c952-6"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path60156"
+               d="m 4.578125,-3.1875 c 0,-0.796875 -0.046875,-1.59375 -0.390625,-2.328125 -0.453125,-0.96875 -1.28125,-1.125 -1.6875,-1.125 -0.609375,0 -1.328125,0.265625 -1.75,1.1875 -0.3125,0.6875 -0.359375,1.46875 -0.359375,2.265625 0,0.75 0.03125,1.640625 0.453125,2.40625 0.421875,0.796875 1.15625,1 1.640625,1 0.53125,0 1.296875,-0.203125 1.734375,-1.15625 0.3125,-0.6875 0.359375,-1.46875 0.359375,-2.25 z M 2.484375,0 C 2.09375,0 1.5,-0.25 1.328125,-1.203125 1.21875,-1.796875 1.21875,-2.71875 1.21875,-3.3125 c 0,-0.640625 0,-1.296875 0.078125,-1.828125 0.1875,-1.1875 0.9375,-1.28125 1.1875,-1.28125 0.328125,0 0.984375,0.1875 1.171875,1.171875 0.109375,0.5625 0.109375,1.3125 0.109375,1.9375 0,0.75 0,1.421875 -0.109375,2.0625 C 3.5,-0.296875 2.9375,0 2.484375,0 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-d150c952-7"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path60159"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-d150c952-8"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path60162"
+               d="M 3.59375,-2.21875 C 3.59375,-2.984375 3.5,-3.546875 3.1875,-4.03125 2.96875,-4.34375 2.53125,-4.625 1.984375,-4.625 c -1.625,0 -1.625,1.90625 -1.625,2.40625 0,0.5 0,2.359375 1.625,2.359375 1.609375,0 1.609375,-1.859375 1.609375,-2.359375 z M 1.984375,-0.0625 c -0.328125,0 -0.75,-0.1875 -0.890625,-0.75 C 1,-1.21875 1,-1.796875 1,-2.3125 1,-2.828125 1,-3.359375 1.09375,-3.734375 1.25,-4.28125 1.6875,-4.4375 1.984375,-4.4375 c 0.375,0 0.734375,0.234375 0.859375,0.640625 0.109375,0.375 0.125,0.875 0.125,1.484375 0,0.515625 0,1.03125 -0.09375,1.46875 -0.140625,0.640625 -0.609375,0.78125 -0.890625,0.78125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-d150c952-9"
+         style="fill:#000080;fill-opacity:1">
+        <g
+           id="g60165"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use60167"
+             y="134.765"
+             x="384.155"
+             xlink:href="#textext-d150c952-1"
+             width="1052.3622"
+             height="744.09448"
+             style="fill:#000080;fill-opacity:1" />
+        </g>
+        <g
+           id="g60169"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use60171"
+             y="134.765"
+             x="392.18799"
+             xlink:href="#textext-d150c952-5"
+             width="1052.3622"
+             height="744.09448"
+             style="fill:#000080;fill-opacity:1" />
+        </g>
+        <g
+           id="g60173"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use60175"
+             y="134.765"
+             x="402.70651"
+             xlink:href="#textext-d150c952-6"
+             width="1052.3622"
+             height="744.09448"
+             style="fill:#000080;fill-opacity:1" />
+        </g>
+        <g
+           id="g60177"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use60179"
+             y="134.765"
+             x="407.686"
+             xlink:href="#textext-d150c952-2"
+             width="1052.3622"
+             height="744.09448"
+             style="fill:#000080;fill-opacity:1" />
+        </g>
+        <g
+           id="g60181"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use60183"
+             y="146.72"
+             x="380.12201"
+             xlink:href="#textext-d150c952-3"
+             width="1052.3622"
+             height="744.09448"
+             style="fill:#000080;fill-opacity:1" />
+        </g>
+        <g
+           id="g60185"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use60187"
+             y="148.214"
+             x="384.95099"
+             xlink:href="#textext-d150c952-8"
+             width="1052.3622"
+             height="744.09448"
+             style="fill:#000080;fill-opacity:1" />
+        </g>
+        <g
+           id="g60189"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use60191"
+             y="146.72"
+             x="392.18799"
+             xlink:href="#textext-d150c952-5"
+             width="1052.3622"
+             height="744.09448"
+             style="fill:#000080;fill-opacity:1" />
+        </g>
+        <g
+           id="g60193"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use60195"
+             y="146.72"
+             x="402.70651"
+             xlink:href="#textext-d150c952-6"
+             width="1052.3622"
+             height="744.09448"
+             style="fill:#000080;fill-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="\\begin{align*}\na &amp;&lt; 0, \\\\[-3pt]\nv_0 &amp;&gt; 0\n\\end{align*}\n"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(2.1225963,0,0,2.1225963,102.75295,343.54398)"
+       style="fill:#7f7fbf;fill-opacity:1;stroke:#d40000;stroke-opacity:1"
+       id="g61597"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs61599">
+        <g
+           id="g61601">
+          <symbol
+             overflow="visible"
+             id="textext-834ac043-0"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d=""
+               id="path61604"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-834ac043-1"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="M 3.71875,-3.765625 C 3.53125,-4.140625 3.25,-4.40625 2.796875,-4.40625 c -1.15625,0 -2.390625,1.46875 -2.390625,2.921875 0,0.9375 0.546875,1.59375 1.3125,1.59375 0.203125,0 0.703125,-0.046875 1.296875,-0.75 0.078125,0.421875 0.4375,0.75 0.90625,0.75 0.359375,0 0.578125,-0.234375 0.75,-0.546875 0.15625,-0.359375 0.296875,-0.96875 0.296875,-0.984375 0,-0.109375 -0.09375,-0.109375 -0.125,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.1875 -0.171875,0.640625 -0.34375,1.234375 -0.75,1.234375 -0.28125,0 -0.296875,-0.265625 -0.296875,-0.453125 0,-0.21875 0.015625,-0.3125 0.125,-0.75 C 3.890625,-1.71875 3.90625,-1.828125 4,-2.203125 L 4.359375,-3.59375 c 0.0625,-0.28125 0.0625,-0.296875 0.0625,-0.34375 0,-0.171875 -0.109375,-0.265625 -0.28125,-0.265625 -0.25,0 -0.390625,0.21875 -0.421875,0.4375 z M 3.078125,-1.1875 C 3.015625,-1 3.015625,-0.984375 2.875,-0.8125 2.4375,-0.265625 2.03125,-0.109375 1.75,-0.109375 c -0.5,0 -0.640625,-0.546875 -0.640625,-0.9375 0,-0.5 0.3125,-1.71875 0.546875,-2.1875 0.3125,-0.578125 0.75,-0.953125 1.15625,-0.953125 0.640625,0 0.78125,0.8125 0.78125,0.875 0,0.0625 -0.015625,0.125 -0.03125,0.171875 z m 0,0"
+               id="path61607"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-834ac043-2"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 6.734375,-4.96875 c 0.109375,-0.0625 0.1875,-0.109375 0.1875,-0.21875 0,-0.109375 -0.09375,-0.203125 -0.203125,-0.203125 -0.03125,0 -0.046875,0 -0.171875,0.078125 l -5.53125,2.59375 c -0.109375,0.0625 -0.1875,0.109375 -0.1875,0.21875 0,0.125 0.078125,0.171875 0.1875,0.234375 l 5.53125,2.59375 C 6.671875,0.40625 6.6875,0.40625 6.71875,0.40625 c 0.109375,0 0.203125,-0.09375 0.203125,-0.203125 0,-0.109375 -0.078125,-0.15625 -0.1875,-0.21875 L 1.5,-2.5 z m 0,0"
+               id="path61610"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-834ac043-3"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 2.03125,-0.015625 c 0,-0.65625 -0.25,-1.046875 -0.640625,-1.046875 -0.328125,0 -0.53125,0.25 -0.53125,0.53125 C 0.859375,-0.265625 1.0625,0 1.390625,0 1.5,0 1.640625,-0.046875 1.734375,-0.125 1.765625,-0.15625 1.78125,-0.15625 1.78125,-0.15625 c 0.015625,0 0.015625,0 0.015625,0.140625 0,0.75 -0.34375,1.34375 -0.671875,1.671875 -0.109375,0.109375 -0.109375,0.125 -0.109375,0.15625 0,0.078125 0.046875,0.109375 0.09375,0.109375 0.109375,0 0.921875,-0.765625 0.921875,-1.9375 z m 0,0"
+               id="path61613"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-834ac043-4"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 4.671875,-3.703125 c 0,-0.546875 -0.265625,-0.703125 -0.4375,-0.703125 -0.25,0 -0.5,0.265625 -0.5,0.484375 0,0.125 0.046875,0.1875 0.15625,0.296875 0.21875,0.203125 0.34375,0.453125 0.34375,0.8125 0,0.421875 -0.609375,2.703125 -1.765625,2.703125 -0.515625,0 -0.75,-0.34375 -0.75,-0.875 0,-0.546875 0.28125,-1.28125 0.578125,-2.109375 0.078125,-0.171875 0.125,-0.3125 0.125,-0.5 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.9375,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.296875,-1 0.71875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.53125 -0.171875,0.703125 -0.4375,1.15625 -0.5625,1.609375 -0.5625,2.046875 0,1.078125 0.875,1.234375 1.328125,1.234375 1.671875,0 2.25,-3.296875 2.25,-3.8125 z m 0,0"
+               id="path61616"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-834ac043-5"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="M 6.734375,-2.265625 C 6.84375,-2.328125 6.921875,-2.375 6.921875,-2.5 c 0,-0.109375 -0.078125,-0.15625 -0.1875,-0.21875 L 1.203125,-5.3125 C 1.078125,-5.390625 1.0625,-5.390625 1.03125,-5.390625 c -0.109375,0 -0.203125,0.09375 -0.203125,0.203125 0,0.09375 0.046875,0.15625 0.1875,0.21875 L 6.25,-2.5 1.015625,-0.015625 c -0.140625,0.0625 -0.1875,0.125 -0.1875,0.21875 0,0.109375 0.09375,0.203125 0.203125,0.203125 0.03125,0 0.046875,0 0.171875,-0.078125 z m 0,0"
+               id="path61619"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-834ac043-6"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d=""
+               id="path61622"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-834ac043-7"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="m 4.578125,-3.1875 c 0,-0.796875 -0.046875,-1.59375 -0.390625,-2.328125 -0.453125,-0.96875 -1.28125,-1.125 -1.6875,-1.125 -0.609375,0 -1.328125,0.265625 -1.75,1.1875 -0.3125,0.6875 -0.359375,1.46875 -0.359375,2.265625 0,0.75 0.03125,1.640625 0.453125,2.40625 0.421875,0.796875 1.15625,1 1.640625,1 0.53125,0 1.296875,-0.203125 1.734375,-1.15625 0.3125,-0.6875 0.359375,-1.46875 0.359375,-2.25 z M 2.484375,0 C 2.09375,0 1.5,-0.25 1.328125,-1.203125 1.21875,-1.796875 1.21875,-2.71875 1.21875,-3.3125 c 0,-0.640625 0,-1.296875 0.078125,-1.828125 0.1875,-1.1875 0.9375,-1.28125 1.1875,-1.28125 0.328125,0 0.984375,0.1875 1.171875,1.171875 0.109375,0.5625 0.109375,1.3125 0.109375,1.9375 0,0.75 0,1.421875 -0.109375,2.0625 C 3.5,-0.296875 2.9375,0 2.484375,0 z m 0,0"
+               id="path61625"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-834ac043-8"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d=""
+               id="path61628"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-834ac043-9"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="M 3.59375,-2.21875 C 3.59375,-2.984375 3.5,-3.546875 3.1875,-4.03125 2.96875,-4.34375 2.53125,-4.625 1.984375,-4.625 c -1.625,0 -1.625,1.90625 -1.625,2.40625 0,0.5 0,2.359375 1.625,2.359375 1.609375,0 1.609375,-1.859375 1.609375,-2.359375 z M 1.984375,-0.0625 c -0.328125,0 -0.75,-0.1875 -0.890625,-0.75 C 1,-1.21875 1,-1.796875 1,-2.3125 1,-2.828125 1,-3.359375 1.09375,-3.734375 1.25,-4.28125 1.6875,-4.4375 1.984375,-4.4375 c 0.375,0 0.734375,0.234375 0.859375,0.640625 0.109375,0.375 0.125,0.875 0.125,1.484375 0,0.515625 0,1.03125 -0.09375,1.46875 -0.140625,0.640625 -0.609375,0.78125 -0.890625,0.78125 z m 0,0"
+               id="path61631"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-834ac043-10"
+         style="fill:#7f7fbf;fill-opacity:1">
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g61634">
+          <use
+             xlink:href="#textext-834ac043-1"
+             x="384.155"
+             y="134.765"
+             id="use61636"
+             style="fill:#7f7fbf;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g61638">
+          <use
+             xlink:href="#textext-834ac043-2"
+             x="392.19083"
+             y="134.765"
+             id="use61640"
+             style="fill:#7f7fbf;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g61642">
+          <use
+             xlink:href="#textext-834ac043-7"
+             x="402.70401"
+             y="134.765"
+             id="use61644"
+             style="fill:#7f7fbf;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g61646">
+          <use
+             xlink:href="#textext-834ac043-3"
+             x="407.686"
+             y="134.765"
+             id="use61648"
+             style="fill:#7f7fbf;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g61650">
+          <use
+             xlink:href="#textext-834ac043-4"
+             x="380.12201"
+             y="146.72"
+             id="use61652"
+             style="fill:#7f7fbf;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g61654">
+          <use
+             xlink:href="#textext-834ac043-9"
+             x="384.95099"
+             y="148.214"
+             id="use61656"
+             style="fill:#7f7fbf;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g61658">
+          <use
+             xlink:href="#textext-834ac043-5"
+             x="392.18799"
+             y="146.72"
+             id="use61660"
+             style="fill:#7f7fbf;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           style="fill:#7f7fbf;fill-opacity:1"
+           id="g61662">
+          <use
+             xlink:href="#textext-834ac043-7"
+             x="402.70401"
+             y="146.72"
+             id="use61664"
+             style="fill:#7f7fbf;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g63146"
+       style="fill:#000080;fill-opacity:1;stroke:#d40000;stroke-opacity:1"
+       transform="matrix(2.1225963,0,0,2.1225963,102.75295,477.99958)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="\\begin{align*}\na &amp;&lt; 0, \\\\[-3pt]\nv_0 &amp;= 0\n\\end{align*}\n"
+       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs63148">
+        <g
+           id="g63150">
+          <symbol
+             id="textext-0b9f697b-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path63153"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-0b9f697b-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path63156"
+               d="M 3.71875,-3.765625 C 3.53125,-4.140625 3.25,-4.40625 2.796875,-4.40625 c -1.15625,0 -2.390625,1.46875 -2.390625,2.921875 0,0.9375 0.546875,1.59375 1.3125,1.59375 0.203125,0 0.703125,-0.046875 1.296875,-0.75 0.078125,0.421875 0.4375,0.75 0.90625,0.75 0.359375,0 0.578125,-0.234375 0.75,-0.546875 0.15625,-0.359375 0.296875,-0.96875 0.296875,-0.984375 0,-0.109375 -0.09375,-0.109375 -0.125,-0.109375 -0.09375,0 -0.109375,0.046875 -0.140625,0.1875 -0.171875,0.640625 -0.34375,1.234375 -0.75,1.234375 -0.28125,0 -0.296875,-0.265625 -0.296875,-0.453125 0,-0.21875 0.015625,-0.3125 0.125,-0.75 C 3.890625,-1.71875 3.90625,-1.828125 4,-2.203125 L 4.359375,-3.59375 c 0.0625,-0.28125 0.0625,-0.296875 0.0625,-0.34375 0,-0.171875 -0.109375,-0.265625 -0.28125,-0.265625 -0.25,0 -0.390625,0.21875 -0.421875,0.4375 z M 3.078125,-1.1875 C 3.015625,-1 3.015625,-0.984375 2.875,-0.8125 2.4375,-0.265625 2.03125,-0.109375 1.75,-0.109375 c -0.5,0 -0.640625,-0.546875 -0.640625,-0.9375 0,-0.5 0.3125,-1.71875 0.546875,-2.1875 0.3125,-0.578125 0.75,-0.953125 1.15625,-0.953125 0.640625,0 0.78125,0.8125 0.78125,0.875 0,0.0625 -0.015625,0.125 -0.03125,0.171875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-0b9f697b-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path63159"
+               d="m 6.734375,-4.96875 c 0.109375,-0.0625 0.1875,-0.109375 0.1875,-0.21875 0,-0.109375 -0.09375,-0.203125 -0.203125,-0.203125 -0.03125,0 -0.046875,0 -0.171875,0.078125 l -5.53125,2.59375 c -0.109375,0.0625 -0.1875,0.109375 -0.1875,0.21875 0,0.125 0.078125,0.171875 0.1875,0.234375 l 5.53125,2.59375 C 6.671875,0.40625 6.6875,0.40625 6.71875,0.40625 c 0.109375,0 0.203125,-0.09375 0.203125,-0.203125 0,-0.109375 -0.078125,-0.15625 -0.1875,-0.21875 L 1.5,-2.5 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-0b9f697b-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path63162"
+               d="m 2.03125,-0.015625 c 0,-0.65625 -0.25,-1.046875 -0.640625,-1.046875 -0.328125,0 -0.53125,0.25 -0.53125,0.53125 C 0.859375,-0.265625 1.0625,0 1.390625,0 1.5,0 1.640625,-0.046875 1.734375,-0.125 1.765625,-0.15625 1.78125,-0.15625 1.78125,-0.15625 c 0.015625,0 0.015625,0 0.015625,0.140625 0,0.75 -0.34375,1.34375 -0.671875,1.671875 -0.109375,0.109375 -0.109375,0.125 -0.109375,0.15625 0,0.078125 0.046875,0.109375 0.09375,0.109375 0.109375,0 0.921875,-0.765625 0.921875,-1.9375 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-0b9f697b-4"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path63165"
+               d="m 4.671875,-3.703125 c 0,-0.546875 -0.265625,-0.703125 -0.4375,-0.703125 -0.25,0 -0.5,0.265625 -0.5,0.484375 0,0.125 0.046875,0.1875 0.15625,0.296875 0.21875,0.203125 0.34375,0.453125 0.34375,0.8125 0,0.421875 -0.609375,2.703125 -1.765625,2.703125 -0.515625,0 -0.75,-0.34375 -0.75,-0.875 0,-0.546875 0.28125,-1.28125 0.578125,-2.109375 0.078125,-0.171875 0.125,-0.3125 0.125,-0.5 0,-0.4375 -0.3125,-0.8125 -0.8125,-0.8125 -0.9375,0 -1.3125,1.453125 -1.3125,1.53125 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.1875 0.296875,-1 0.71875,-1.234375 1.015625,-1.234375 0.078125,0 0.25,0 0.25,0.3125 0,0.25 -0.109375,0.53125 -0.171875,0.703125 -0.4375,1.15625 -0.5625,1.609375 -0.5625,2.046875 0,1.078125 0.875,1.234375 1.328125,1.234375 1.671875,0 2.25,-3.296875 2.25,-3.8125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-0b9f697b-5"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path63168"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-0b9f697b-6"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path63171"
+               d="m 4.578125,-3.1875 c 0,-0.796875 -0.046875,-1.59375 -0.390625,-2.328125 -0.453125,-0.96875 -1.28125,-1.125 -1.6875,-1.125 -0.609375,0 -1.328125,0.265625 -1.75,1.1875 -0.3125,0.6875 -0.359375,1.46875 -0.359375,2.265625 0,0.75 0.03125,1.640625 0.453125,2.40625 0.421875,0.796875 1.15625,1 1.640625,1 0.53125,0 1.296875,-0.203125 1.734375,-1.15625 0.3125,-0.6875 0.359375,-1.46875 0.359375,-2.25 z M 2.484375,0 C 2.09375,0 1.5,-0.25 1.328125,-1.203125 1.21875,-1.796875 1.21875,-2.71875 1.21875,-3.3125 c 0,-0.640625 0,-1.296875 0.078125,-1.828125 0.1875,-1.1875 0.9375,-1.28125 1.1875,-1.28125 0.328125,0 0.984375,0.1875 1.171875,1.171875 0.109375,0.5625 0.109375,1.3125 0.109375,1.9375 0,0.75 0,1.421875 -0.109375,2.0625 C 3.5,-0.296875 2.9375,0 2.484375,0 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-0b9f697b-7"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path63174"
+               d="m 6.84375,-3.265625 c 0.15625,0 0.34375,0 0.34375,-0.1875 C 7.1875,-3.65625 7,-3.65625 6.859375,-3.65625 l -5.96875,0 c -0.140625,0 -0.328125,0 -0.328125,0.203125 0,0.1875 0.1875,0.1875 0.328125,0.1875 z m 0.015625,1.9375 c 0.140625,0 0.328125,0 0.328125,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.34375,-0.1875 l -5.953125,0 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-0b9f697b-8"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path63177"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-0b9f697b-9"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path63180"
+               d="M 3.59375,-2.21875 C 3.59375,-2.984375 3.5,-3.546875 3.1875,-4.03125 2.96875,-4.34375 2.53125,-4.625 1.984375,-4.625 c -1.625,0 -1.625,1.90625 -1.625,2.40625 0,0.5 0,2.359375 1.625,2.359375 1.609375,0 1.609375,-1.859375 1.609375,-2.359375 z M 1.984375,-0.0625 c -0.328125,0 -0.75,-0.1875 -0.890625,-0.75 C 1,-1.21875 1,-1.796875 1,-2.3125 1,-2.828125 1,-3.359375 1.09375,-3.734375 1.25,-4.28125 1.6875,-4.4375 1.984375,-4.4375 c 0.375,0 0.734375,0.234375 0.859375,0.640625 0.109375,0.375 0.125,0.875 0.125,1.484375 0,0.515625 0,1.03125 -0.09375,1.46875 -0.140625,0.640625 -0.609375,0.78125 -0.890625,0.78125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-0b9f697b-10"
+         style="fill:#000080;fill-opacity:1">
+        <g
+           id="g63183"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use63185"
+             y="134.765"
+             x="384.155"
+             xlink:href="#textext-0b9f697b-1"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g63187"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use63189"
+             y="134.765"
+             x="392.19083"
+             xlink:href="#textext-0b9f697b-2"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g63191"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use63193"
+             y="134.765"
+             x="402.70401"
+             xlink:href="#textext-0b9f697b-6"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g63195"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use63197"
+             y="134.765"
+             x="407.686"
+             xlink:href="#textext-0b9f697b-3"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g63199"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use63201"
+             y="146.72"
+             x="380.12201"
+             xlink:href="#textext-0b9f697b-4"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g63203"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use63205"
+             y="148.214"
+             x="384.95099"
+             xlink:href="#textext-0b9f697b-9"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g63207"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use63209"
+             y="146.72"
+             x="392.18799"
+             xlink:href="#textext-0b9f697b-7"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+        <g
+           id="g63211"
+           style="fill:#000080;fill-opacity:1">
+          <use
+             id="use63213"
+             y="146.72"
+             x="402.70651"
+             xlink:href="#textext-0b9f697b-6"
+             style="fill:#000080;fill-opacity:1"
+             width="1052.3622"
+             height="744.09448" />
+        </g>
+      </g>
+    </g>
   </g>
 </svg>

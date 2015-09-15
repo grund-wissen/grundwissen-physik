@@ -36,7 +36,7 @@ Weltall erscheint uns deshalb schwarz).
     :align: center
     :width: 75%
 
-    Sonnenstrahlen als Lichtquelle unseres Universums. 
+    Sonnenstrahlen als Lichtquelle unseres Universums.
 
     .. only:: html
 
@@ -44,11 +44,11 @@ Weltall erscheint uns deshalb schwarz).
 
 *Beispiele:*
 
-* *Selbstleuchtende* Körper: 
+* *Selbstleuchtende* Körper:
 
       Sonne, Sterne, Feuer, Glüh- und Leuchtstofflampen, Kerzen, Glühwürmchen, LEDs usw.
 
-* *Beleuchtete* Körper: 
+* *Beleuchtete* Körper:
 
       Erde und Mond, Planeten, Gegenstände (Satelliten, Reflektoren, Staubkörnchen usw.)
 
@@ -56,7 +56,7 @@ Das Licht breitet sich von der Lichtquelle -- solange es auf kein Hindernis
 trifft -- geradlinig und in alle Richtungen aus:
 
 * Sonnenlicht erhellt alle Himmelskörper, egal in welcher Richtung von der Sonne
-  sie sich befinden. 
+  sie sich befinden.
 * Eine Kerze in der Mitte des Zimmers beleuchtet alle Wände sowie die Decke und
   den Fußboden.
 
@@ -81,7 +81,7 @@ je Sekunde ausbreiten. [#]_
       - Lichtgeschwindigkeit in :math:`\unit[]{\frac{km}{s}}`
     * - Vakuum
       - :math:`300\,000`
-    * - Luft 
+    * - Luft
       - :math:`300\,000`
     * - Wasser
       - :math:`225\,000`
@@ -97,7 +97,7 @@ Könnten wir uns mit Lichtgeschwindigkeit fortbewegen, so könnten wir die Erde
 mal umkreisen. Im Universum hat das Licht allerdings so große Entfernungen
 zurückzulegen, dass man Weglängen teilweise auch in Lichtsekunden, Lichtminuten,
 Lichtstunden, Lichttagen oder sogar Lichtjahren angibt. Um von der Sonne auf die
-Erde zu gelangen, braucht ein Lichtstrahl rund :math:`8,3` Lichtminuten. 
+Erde zu gelangen, braucht ein Lichtstrahl rund :math:`8,3` Lichtminuten.
 
 .. figure::
     ../pics/optik/lichtgeschwindigkeit.png
@@ -107,10 +107,10 @@ Erde zu gelangen, braucht ein Lichtstrahl rund :math:`8,3` Lichtminuten.
     :width: 60%
 
     Ein von der Erde ausgesandter Lichtstrahl erreicht den Mond rund eine
-    Sekunde später. 
-  
+    Sekunde später.
+
     .. only:: html
-    
+
         :download:`SVG: Lichtgeschwindigkeit
         <../pics/optik/lichtgeschwindigkeit.svg>`
 
@@ -143,7 +143,7 @@ Einheitensystems. Ihre Einheit ist das Candela :math:`(\unit[]{cd})`.
 
 Während die Lichtstärke :math:`I _{\rm{\nu}}` eine Eigenschaft der Lichtquelle
 ist, gibt die Beleuchtungsstärke :math:`E _{\rm{\nu}}` an, welcher Anteil des
-Lichts auf eine bestimmte Fläche trifft. 
+Lichts auf eine bestimmte Fläche trifft.
 
 .. figure::
     ../pics/optik/beleuchtungsstaerke.png
@@ -153,9 +153,9 @@ Lichts auf eine bestimmte Fläche trifft.
     :alt:  fig-beleuchtungsstaerke
 
     Die Beleuchtungsstärke in Abhängigkeit des Abstands von der Lichtquelle.
-  
+
     .. only:: html
-    
+
         :download:`SVG: Beleuchtungsstärke
         <../pics/optik/beleuchtungsstaerke.svg>`
 
@@ -164,7 +164,7 @@ sich die Lichtstrahlen auf immer größere Flächen. Die Beleuchtungsstärke nim
 in gleichem Maß ab, wie die Oberfläche der mit Licht durchfluteten
 (Kugel-)Fläche zunimmt.
 
-..  
+..
     Die Beleuchtungsstärke lässt sich anhand des Photo-Stroms in einem
     Lichtmesser bestimmen.
 
@@ -175,10 +175,10 @@ in gleichem Maß ab, wie die Oberfläche der mit Licht durchfluteten
     quadratisch mit dem Abstand :math:`r` von der Lichtquelle ab. Insgesamt gilt:
 
     .. math::
-        
-        E _{\nu} = \frac{I _{\nu}}{r^2} 
 
-    Die Beleuchtungsstärke wird in Lux :math:`(\unit[]{lx})` angegeben. 
+        E _{\nu} = \frac{I _{\nu}}{r^2}
+
+    Die Beleuchtungsstärke wird in Lux :math:`(\unit[]{lx})` angegeben.
 
 ..  Ein Lux entspricht derjenigen Beleuchtungsstärke, die eine Lichtquelle der
 ..  Lichtstärke :math:`\unit[1]{cd}` bei senkrechtem Lichteinfall im Abstand von
@@ -203,7 +203,7 @@ Sonnenlicht kann im Sommer eine Beleuchtungsstärke von bis
 :math:`\unit[100\,000]{lx}` hervorrufen, an einem trüben Wintertag nur etwa
 :math:`\unit[2000]{lx}` bis :math:`\unit[4000]{lx}`. Das Licht eines Vollmondes
 bei klarer Nacht hat lediglich eine Beleuchtungsstärke von rund
-:math:`\unit[0,3]{lx}`. 
+:math:`\unit[0,3]{lx}`.
 
 
 .. index:: Lichtdurchlässigkeit
@@ -226,10 +226,10 @@ Licht durchlässige Gegenstände gibt es auf zweierlei Arten:
     :name: fig-lichtdurchlaessigkeit
     :alt:  fig-lichtdurchlaessigkeit
 
-    Eine Kerze hinter einer durchsichtigen bzw. durchscheinenden Scheibe. 
+    Eine Kerze hinter einer durchsichtigen bzw. durchscheinenden Scheibe.
 
     .. only:: html
-    
+
         :download:`SVG: Lichtdurchlässigkeit
         <../pics/optik/lichtdurchlaessigkeit.svg>`
 
@@ -250,7 +250,7 @@ Blenden und Schatten
 Durch Licht undurchlässige Körper kann die Ausbreitung des Lichts begrenzt
 werden.
 
-.. index:: Blende 
+.. index:: Blende
 .. _Blende:
 
 .. rubric:: Die Blende
@@ -267,13 +267,13 @@ durch die Bündelachse und Randstrahlen dargestellt werden.
     :name: fig-blende-lichtstrahlen
     :alt:  fig-blende-lichtstrahlen
 
-    Entstehung von Lichtbündeln durch eine Blende. 
-  
+    Entstehung von Lichtbündeln durch eine Blende.
+
     .. only:: html
-    
+
         :download:`SVG: Blende <../pics/optik/blende-lichtstrahlen.svg>`
 
-.. index:: 
+.. index::
     single: Schatten; Schlagschatten
 .. _Schlagschatten:
 
@@ -290,13 +290,13 @@ Schatten.
     :name: fig-schlagschatten
     :alt:  fig-schlagschatten
 
-    Entstehung eines Schlagschattens. 
-  
+    Entstehung eines Schlagschattens.
+
     .. only:: html
-    
+
         :download:`SVG: Schlagschatten <../pics/optik/schatten-schlagschatten.svg>`
 
-.. index:: 
+.. index::
     single: Schatten; Kernschatten
     single: Schatten; Halbschatten
 .. _Kern- und Halbschatten:
@@ -315,10 +315,10 @@ Licht undurchlässigen Körper ebenfalls einen Kern- und einen Halbschatten. [#]
     :name: fig-kernschatten-halbschatten
     :alt:  fig-kernschatten-halbschatten
 
-    Entstehung von Kern- und Halbschatten. 
-  
+    Entstehung von Kern- und Halbschatten.
+
     .. only:: html
-    
+
         :download:`SVG: Kernschatten - Halbschatten
         <../pics/optik/schatten-kernschatten-halbschatten.svg>`
 
@@ -330,12 +330,12 @@ Da manche Menschen (insbesondere kleine Kinder) schreckhaft auf Schatten
 reagieren, wird in Wohn- und Aufenthaltsräumen häufig eine indirekte Beleuchtung
 eingesetzt. Diese wird mittels :ref:`diffuser Reflexion <Direkte und diffuse
 Reflexion>` erreicht, indem eine helle, matte Oberfläche von einer (verdeckten)
-Lampe angestrahlt wird. 
- 
+Lampe angestrahlt wird.
+
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
     .. rubric:: Anmerkungen:
@@ -348,7 +348,7 @@ Lampe angestrahlt wird.
     <tab-lichtgeschwindigkeiten>` angegebenen Werte sind Durchschnittswerte für
     sichtbares Licht. Tatsächlich hängt die Ausbreitungsgeschwindigkeit des
     Lichts in einem Medium von seiner Frequenz ab (siehe :ref:`Lichtdispersion
-    <Lichtdispersion>`). 
+    <Lichtdispersion>`).
 
 .. [#] Ein Beobachter, der sich im Halbschatten befindet, sieht stets nur einen Teil
     der Lichtquelle; der Rest ist durch den Schatten werfenden Gegenstand verdeckt.
@@ -357,7 +357,7 @@ Lampe angestrahlt wird.
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zur Ausbreitung des Lichts>` und
     :ref:`Übungsaufgaben <Aufgaben zur Ausbreitung des Lichts>`.

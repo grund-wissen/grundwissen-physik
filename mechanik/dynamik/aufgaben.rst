@@ -5,7 +5,7 @@ Aufgaben zur Dynamik
 
 .. _Aufgaben zu Kräften:
 
-Aufgaben zu Kräften 
+Aufgaben zu Kräften
 -------------------
 
 Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Kraft <Kraft>`.
@@ -37,8 +37,8 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Kraft <Kraft>`.
     Ist der Körper nicht verformbar ("starr"), so haben gleich gerichtete Zug-
     und Druckkräfte eine gleiche Wirkung. Erkläre dies am Beispiel eines
     Einkaufswagens, der gezogen oder geschoben wird. Wo befindet sich jeweils
-    der Angriffspunkt, wo die Wirkungslinie der Kraft? 
-    
+    der Angriffspunkt, wo die Wirkungslinie der Kraft?
+
     :ref:`Lösung <Angriffspunkt-und-Wirkungslinie-01-Lösung>`
 
 ----
@@ -48,24 +48,24 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Kraft <Kraft>`.
 *   Zu jeder Kraft :math:`\vec{F} _{\rm{12}}` gibt es stets eine gleich große,
     in die umgekehrte Richtung wirkende Gegenkraft :math:`\vec{F} _{\rm{21}} = -
     \vec{F} _{\rm{12}}`. Finde in der folgenden Abbildung zueinander gehörende
-    Kraft-Gegenkraft-Paare und zeichne Kraftpfeile mit passenden Richtungen ein. 
+    Kraft-Gegenkraft-Paare und zeichne Kraftpfeile mit passenden Richtungen ein.
 
     .. image:: ../../pics/mechanik/dynamik/kraft-und-gegenkraft-beispiele-1.png
         :align: center
         :width: 70%
 
     .. only:: html
-     
+
         .. centered:: :download:`SVG: Kraft und Gegenkraft 1
                         <../../pics/mechanik/dynamik/kraft-und-gegenkraft-beispiele-1.svg>`
-    
+
     :ref:`Lösung <Kraft-und-Gegenkraft-01-Lösung>`
 
 ----
 
 .. _Aufgaben zu Arten mechanischer Kräfte:
 
-Aufgaben zu Arten mechanischer Kräfte 
+Aufgaben zu Arten mechanischer Kräfte
 -------------------------------------
 
 Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Arten mechanischer
@@ -86,7 +86,7 @@ Kräfte <Arten mechanischer Kräfte>`.
 
 *   Die Gewichtskraft eines Astronauten beträgt auf dem Mond
     :math:`\unit[130]{N}`. Wie groß ist seine Gewichtskraft auf der Erde?
-    Wie groß ist seine Masse? 
+    Wie groß ist seine Masse?
 
     :ref:`Lösung <Gewichtskraft-01-Lösung>`
 
@@ -95,8 +95,8 @@ Kräfte <Arten mechanischer Kräfte>`.
 .. _Reibung-01:
 
 *   Könnte man sich ohne Vorhandensein einer Reibungskraft überhaupt zu Fuß
-    fortbewegen? 
-    
+    fortbewegen?
+
     :ref:`Lösung <Reibung-01-Lösung>`
 
 ----
@@ -108,8 +108,8 @@ Kräfte <Arten mechanischer Kräfte>`.
     _{\rm{H}} = 0,54`, die Gleitreibungszahl :math:`\mu _{\rm{G}} = 0,34`.
     Welche Kraft ist nötig, um die Kiste aus der Ruhelage in Bewegung zu
     versetzen, und welche Kraft ist nötig, um die Kiste weiter gleiten zu
-    lassen? 
-    
+    lassen?
+
     :ref:`Lösung <Reibung-02-Lösung>`
 
 ----
@@ -118,7 +118,7 @@ Kräfte <Arten mechanischer Kräfte>`.
 
 *   Eine zu untersuchende Schraubenfeder dehnt sich durch das Einwirken einer
     Zugkraft :math:`F = \unit[1]{N}` um :math:`\Delta s = \unit[33]{cm}`. Wie
-    groß ist die Federkonstante :math:`k` der Schraubenfeder? 
+    groß ist die Federkonstante :math:`k` der Schraubenfeder?
 
     :ref:`Lösung <Hookesches-Gesetz-01-Lösung>`
 
@@ -127,7 +127,7 @@ Kräfte <Arten mechanischer Kräfte>`.
 .. _Hookesches-Gesetz-02:
 
 *   Welche Kraft ist nötig, um eine Schraubenfeder mit einer Federkonstante von
-    :math:`\unit[40]{N/m}` um :math:`\unit[12]{cm}` auszudehnen? 
+    :math:`\unit[40]{N/m}` um :math:`\unit[12]{cm}` auszudehnen?
 
     :ref:`Lösung <Hookesches-Gesetz-02-Lösung>`
 
@@ -179,21 +179,21 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
 *   Zwei Kinder ziehen einen Schlitten mit den beiden Kräften :math:`F _{\rm{1}}
     = F _{\rm{2}} = \unit[40]{N}`. Die Kräfte wirken in unterschiedlicher
     Richtung, der Winkel gegenüber der zum Schlitten senkrecht verlaufenden
-    Linie beträgt jeweils :math:`\varphi = 30^{\circ}`. Welche resultierende
-    Gesamtkraft ergibt sich? 
+    Linie beträgt jeweils :math:`\varphi = 30\degree`. Welche resultierende
+    Gesamtkraft ergibt sich?
 
     .. image:: ../../pics/mechanik/dynamik/kraftaddition-kinder-schlitten.png
         :align: center
         :width: 60%
-    
+
     .. only:: html
-        
+
          .. centered:: :download:`SVG: Kraftaddition Schlitten
                         <../../pics/mechanik/dynamik/kraftaddition-kinder-schlitten.svg>`
 
     Hinweis: Die Aufgabe lässt sich graphisch (mit Hilfe eines
-    Kräfte-Parallelogramms) oder rechnerisch lösen. 
-    
+    Kräfte-Parallelogramms) oder rechnerisch lösen.
+
     :ref:`Lösung <Zusammenwirken-mehrerer-Kräfte-02-Lösung>`
 
 ----
@@ -211,14 +211,14 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
 ..  .. _Zusammenwirken-mehrerer-Kräfte-03:
 
-..   
+..
     * Zwei Kraefte :math:`F_1 = \unit[105]{N}` und :math:`F_2 = \unit[80]{N}`
       greifen, wie in der folgenden Abbildung dargestellt, an einem gemeinsamen
       Punkt an; der Winkel zwischen den beiden Kraeften betraegt dabei
-      :math:`\gamma ^{*} = 145 ^{\circ}`.
-    
-      Wie gross muss die Kraft :math:`F_3` sein, wenn der Winkel zwischen 
-      :math:`F_1` und :math:`F_3` gleich :math:`110 ^{\circ}` ist?
+      :math:`\gamma ^{*} = 145 \degree`.
+
+      Wie gross muss die Kraft :math:`F_3` sein, wenn der Winkel zwischen
+      :math:`F_1` und :math:`F_3` gleich :math:`110 \degree` ist?
 
 ..  ----
 
@@ -226,14 +226,14 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
 * Ein Schlitten mit Kind (Gesamt-Gewichtskraft: :math:`\unit[500]{N}`) wird
   von einem Erwachsenen gezogen. Das Zugseil schließt dabei einen Winkel von
-  zwischen Schlitten und Schnee :math:`\mu = 0,03` beträgt? 
+  zwischen Schlitten und Schnee :math:`\mu = 0,03` beträgt?
 
     .. image:: ../../pics/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png
         :align: center
         :width: 60%
-    
+
     .. only:: html
-        
+
          .. centered:: :download:`SVG: Kraftzerlegung am Beispiel eines Schlittens
                         <../../pics/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.svg>`
 
@@ -246,15 +246,15 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
 *   Eine Straßenlaterne mit einer Gewichtskraft von :math:`F _{\rm{G}} =
     \unit[50]{N}` wird von zwei Stahlseilen in einem Winkel von :math:`\alpha =
-    25 ^{\circ}` gehalten. Wie groß ist die Kraft im linken bzw. im rechten
-    Seilstück? 
+    25 \degree` gehalten. Wie groß ist die Kraft im linken bzw. im rechten
+    Seilstück?
 
     .. image:: ../../pics/mechanik/dynamik/kraftzerlegung-strassenlampe-aufgabe.png
         :align: center
         :width: 60%
-    
+
     .. only:: html
-        
+
          .. centered:: :download:`SVG: Kraftzerlegung am Beispiel einer Straßenlaterne
                         <../../pics/mechanik/dynamik/kraftzerlegung-strassenlampe-aufgabe.svg>`
 
@@ -276,9 +276,9 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
   .. image:: ../../pics/mechanik/dynamik/kraftzerlegung-strassenlampe-asymmetrisch-aufgabe.png
       :align: center
       :width: 60%
-  
+
   .. only:: html
-      
+
        .. centered:: :download:`SVG: Asymmetrische Kraftzerlegung am Beispiel einer Straßenlaterne
                       <../../pics/mechanik/dynamik/kraftzerlegung-strassenlampe-asymmetrisch-aufgabe.svg>`
 
@@ -293,7 +293,7 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Dynamik>`

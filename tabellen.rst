@@ -17,21 +17,21 @@ aufgelistet.
     :header-rows: 1
     :name: tab-fachbegriffe-lateinisch
 
-    * - Lateinisch   
-      - Deutsch           
-      - Fachbegriff(e)                          
-    * - absorbere    
-      - verschlingen      
-      - Absorption                          
+    * - Lateinisch
+      - Deutsch
+      - Fachbegriff(e)
+    * - absorbere
+      - verschlingen
+      - Absorption
     * - adhaerere
       - aneinander haften
       - Adhäsionskraft
     * - area
       - Fläche
       - Areal; area = Fläche (en.)
-    * - calor        
-      - warm              
-      - Kalorimeter, Kalorien               
+    * - calor
+      - warm
+      - Kalorimeter, Kalorien
     * - capacitas
       - Fassungsvermögen
       - Kapazität, Wärmekapazität
@@ -39,65 +39,65 @@ aufgelistet.
       - Haar
       - Kapillare
     * - centrum
-      - Mittelpunkt           
-      - konzentrisch                           
+      - Mittelpunkt
+      - konzentrisch
     * - cohaerere
       - zusammenhängen
       - Kohäsionskraft
-    * - colligere    
-      - (ein-)sammeln           
-      - Kollektor                           
-    * - commutare    
-      - umwechseln    
+    * - colligere
+      - (ein-)sammeln
+      - Kollektor
+    * - commutare
+      - umwechseln
       - Kommutator
-    * - componere    
-      - zusammensetzen    
-      - Komponente (eines Vektors)          
-    * - concavus     
-      - hohl              
-      - Konkavspiegel                       
-    * - condensare   
-      - verdichten        
+    * - componere
+      - zusammensetzen
+      - Komponente (eines Vektors)
+    * - concavus
+      - hohl
+      - Konkavspiegel
+    * - condensare
+      - verdichten
       - Kondensator, Kondensor, kondensieren
     * - constans
       - unveränderlich
       - Konstante
-    * - convergere   
-      - zueinander neigen 
-      - Konvergenz, konvergieren            
+    * - convergere
+      - zueinander neigen
+      - Konvergenz, konvergieren
     * - declinare
-      - abweichen         
+      - abweichen
       - Deklination
-    * - divergere    
-      - auseinanderlaufen 
-      - Divergenz                           
-    * - ducere     
-      - führen         
+    * - divergere
+      - auseinanderlaufen
+      - Divergenz
+    * - ducere
+      - führen
       - Induktion
-    * - efficere     
-      - bewirken          
-      - Effektive Stromstärke, Effizienz    
-    * - emittere     
-      - aussenden         
-      - Emitter (Transistor)                
-    * - ex        
-      - außerhalb              
-      - extrahieren                            
-    * - fixus        
-      - fest              
-      - Fixpunkt                            
+    * - efficere
+      - bewirken
+      - Effektive Stromstärke, Effizienz
+    * - emittere
+      - aussenden
+      - Emitter (Transistor)
+    * - ex
+      - außerhalb
+      - extrahieren
+    * - fixus
+      - fest
+      - Fixpunkt
     * - fugare
       - fliehen
       - Zentrifugalkraft
-    * - focus        
-      - Brennpunkt        
-      - Fokus                               
-    * - frequens        
-      - häufig        
-      - Frequenz                               
-    * - generare        
-      - erzeugen        
-      - Generator                               
+    * - focus
+      - Brennpunkt
+      - Fokus
+    * - frequens
+      - häufig
+      - Frequenz
+    * - generare
+      - erzeugen
+      - Generator
     * - gravis
       - schwer
       - Gravitation
@@ -106,187 +106,187 @@ aufgelistet.
       - Intertialsystem
     * - impellere
       - anstoßen
-      - Impuls 
+      - Impuls
     * - minimum
       - das Kleinste
-      - Minimum                             
-    * - molecula     
-      - kleine Masse      
-      - Molekül                             
-    * - oculus       
-      - Auge              
-      - Okular                              
+      - Minimum
+    * - molecula
+      - kleine Masse
+      - Molekül
+    * - oculus
+      - Auge
+      - Okular
     * - orbitum
       - (Bahn-)Gleis
       - Orbital
     * - petere
       - zu erreichen suchen
       - Zentripetalkraft
-    * - potentia     
-      - Fähigkeit        
-      - Potentielle Energie, Potential      
+    * - potentia
+      - Fähigkeit
+      - Potentielle Energie, Potential
     * - pressum
       - Druck
       - Presskraft; pressure = Druck (en.)
-    * - quantum      
-      - wieviel           
-      - Quant                               
+    * - quantum
+      - wieviel
+      - Quant
     * - re
       - zurück
-      - Reflektion                  
-    * - reflectere   
-      - abwenden          
-      - Reflex, Reflektion                  
-    * - sonare       
-      - schallen, tönen            
-      - Resonanz                            
-    * - spectrum       
+      - Reflektion
+    * - reflectere
+      - abwenden
+      - Reflex, Reflektion
+    * - sonare
+      - schallen, tönen
+      - Resonanz
+    * - spectrum
       - Bild
-      - Spektrum                            
+      - Spektrum
     * - stare
       - stehen
       - Statik, Stativ
-    * - transformare 
-      - umwandeln         
-      - Transformator                       
-    * - vacuus       
-      - leer              
-      - Vakuum                              
+    * - transformare
+      - umwandeln
+      - Transformator
+    * - vacuus
+      - leer
+      - Vakuum
 
 .. list-table:: Fachbegriffe mit griechischer Herkunft
     :widths: 20 20 60
     :header-rows: 1
     :name: tab-fachbegriffe-griechisch
 
-    * - Griechisch 
-      - Deutsch         
-      - Fachbegriff(e)                         
+    * - Griechisch
+      - Deutsch
+      - Fachbegriff(e)
     * - akuein
       - hören
       - Akustik
-    * - ana     
-      - auf    
+    * - ana
+      - auf
       - Anode
-    * - anomal     
-      - unregelmäßig    
-      - Anomalie (des Wassers)             
-    * - atmos      
-      - Dunst           
-      - Atmosphäre                         
-    * - atomos     
-      - unteilbar       
-      - Atom                               
-    * - baros      
-      - schwer          
-      - Barometer, isobar                  
+    * - anomal
+      - unregelmäßig
+      - Anomalie (des Wassers)
+    * - atmos
+      - Dunst
+      - Atmosphäre
+    * - atomos
+      - unteilbar
+      - Atom
+    * - baros
+      - schwer
+      - Barometer, isobar
     * - chimeia
       - [Kunst der] Gießerei
       - Chemie
-    * - choros     
-      - Raum            
-      - isochor                            
-    * - di         
-      - zwei            
-      - Dipol                              
-    * - dia        
-      - hindurch        
-      - Diaprojektor, diagonal             
-    * - dynamis    
-      - Kraft           
-      - Dynamik                            
-    * - elektron   
-      - Bernstein       
-      - Elektron, Elektrizität             
-    * - energeia  
-      - Wirksamkeit     
-      - Energie                            
-    * - gramma     
-      - Schrift         
-      - Grammophon, Grammatik              
-    * - graphein   
-      - schreiben       
+    * - choros
+      - Raum
+      - isochor
+    * - di
+      - zwei
+      - Dipol
+    * - dia
+      - hindurch
+      - Diaprojektor, diagonal
+    * - dynamis
+      - Kraft
+      - Dynamik
+    * - elektron
+      - Bernstein
+      - Elektron, Elektrizität
+    * - energeia
+      - Wirksamkeit
+      - Energie
+    * - gramma
+      - Schrift
+      - Grammophon, Grammatik
+    * - graphein
+      - schreiben
       - Phonograph, Graph, Graphit, Graphen
-    * - hodos      
-      - Weg             
-      - Anode, Kathode, Elektrode                          
+    * - hodos
+      - Weg
+      - Anode, Kathode, Elektrode
     * - homogen
       - gleichartig
       - Homogenität
-    * - hydragyrum 
-      - Flüssigsilber   
-      - Quecksilber (Hg)                   
-    * - hygros 
-      - feucht   
+    * - hydragyrum
+      - Flüssigsilber
+      - Quecksilber (Hg)
+    * - hygros
+      - feucht
       - Hygrometer
-    * - ion        
-      - wandernd        
-      - Ion                                
-    * - iris       
-      - Regenbogen      
-      - Iris                               
-    * - ísos       
-      - gleich          
+    * - ion
+      - wandernd
+      - Ion
+    * - iris
+      - Regenbogen
+      - Iris
+    * - ísos
+      - gleich
       - Isotop, isotherm, isobar, isochor
-    * - kata       
-      - abwärts      
-      - Kathode                               
+    * - kata
+      - abwärts
+      - Kathode
     * - kinesis
       - Bewegung
       - Kinematik
-    * - lyein      
-      - lösen, zerlegen 
-      - Elektrolyse                        
-    * - mechanikos 
-      - kunstfertig     
-      - Mechanik                           
+    * - lyein
+      - lösen, zerlegen
+      - Elektrolyse
+    * - mechanikos
+      - kunstfertig
+      - Mechanik
     * - meros
       - Teil
       - Monomere, Polymere
-    * - metron     
-      - Maß             
-      - Meter, Metronom                    
+    * - metron
+      - Maß
+      - Meter, Metronom
     * - phasis
-      - Erscheinung             
+      - Erscheinung
       - (Mond-)Phase
-    * - phone      
-      - Stimme, Ton             
-      - Phon, Telephon, Mikrophon          
-    * - polos      
-      - Achse             
+    * - phone
+      - Stimme, Ton
+      - Phon, Telephon, Mikrophon
+    * - polos
+      - Achse
       - (Magnet-)Pol
     * - poly
       - viele
       - Polymere
-    * - qualitas   
-      - Beschaffenheit  
-      - Qualität, qualitative Erkenntnis   
-    * - skopein    
-      - sehen           
-      - Mikroskop, Teleskop, Elektroskop   
-    * - sphaira    
-      - Kugel           
-      - Atmosphäre, sphärisch              
-    * - stereos    
-      - körperlich      
-      - Stereo                             
-    * - symbolon   
-      - Merkmal         
-      - Symbol                             
+    * - qualitas
+      - Beschaffenheit
+      - Qualität, qualitative Erkenntnis
+    * - skopein
+      - sehen
+      - Mikroskop, Teleskop, Elektroskop
+    * - sphaira
+      - Kugel
+      - Atmosphäre, sphärisch
+    * - stereos
+      - körperlich
+      - Stereo
+    * - symbolon
+      - Merkmal
+      - Symbol
     * - tachys
       - schnell
       - Tachometer
-    * - tele       
-      - fern            
-      - Telephon, Teleskop                 
-    * - thermos    
-      - warm            
-      - Thermometer                        
+    * - tele
+      - fern
+      - Telephon, Teleskop
+    * - thermos
+      - warm
+      - Thermometer
     * - tópos
-      - Platz            
+      - Platz
       - Isotop
-    * - tri        
-      - drei            
-      - Triode                             
+    * - tri
+      - drei
+      - Triode
 
 
 .. list-table:: Griechisches Alphabet
@@ -365,7 +365,7 @@ deutet dabei an, dass die entsprechende physikalische Größe stets eine
 eindeutige (Wirkungs-)Richtung besitzt.
 
 .. list-table:: Größen und Symbole
-    :widths: 50 50 50 50 
+    :widths: 50 50 50 50
     :header-rows: 0
     :name: tab-groessen-und-symbole
 
@@ -375,53 +375,53 @@ eindeutige (Wirkungs-)Richtung besitzt.
       - Symbol
 
     * - Beschleunigung
-      - :math:`a` 
+      - :math:`a`
       - Leistung
-      - :math:`P` 
+      - :math:`P`
     * - Dichte
-      - :math:`\rho` 
+      - :math:`\rho`
       - Masse
-      - :math:`m` 
+      - :math:`m`
     * - Drehimpuls
-      - :math:`\vec{L}` 
+      - :math:`\vec{L}`
       - Spannung
-      - :math:`U` 
+      - :math:`U`
     * - Energie
-      - :math:`E` 
+      - :math:`E`
       - Stromstärke
-      - :math:`I` 
+      - :math:`I`
     * - Fläche
-      - :math:`A` 
+      - :math:`A`
       - Temperatur
-      - :math:`T` 
+      - :math:`T`
     * - Geschwindigkeit
-      - :math:`\vec{v}` 
+      - :math:`\vec{v}`
       - Volumen
-      - :math:`V` 
+      - :math:`V`
     * - Impuls
-      - :math:`\vec{p}` 
+      - :math:`\vec{p}`
       - Widerstand
-      - :math:`R` 
+      - :math:`R`
     * - Kraft
-      - :math:`\vec{F}` 
+      - :math:`\vec{F}`
       - Zeit
-      - :math:`t` 
+      - :math:`t`
 
 Um die Ergebnisse physikalischer Messungen (auch international) vergleichen zu
 können, hat man für alle physikalischen Größen bestimmte Einheiten festgelegt.
 Die in Tabelle :ref:`Basiseinheiten <tab-si-einheiten>` aufgelisteten Einheiten
 lassen sich nicht auf andere physikalische Größen zurückführen und stellen somit
-die "Basis" für alle physikalischen Größen dar. 
+die "Basis" für alle physikalischen Größen dar.
 
 .. list-table:: Die sieben Basiseinheiten
     :widths: 50 20 50
     :header-rows: 0
     :name: tab-si-einheiten
 
-    * - Größe                   
-      - Einheit 
-      - Einheitsbezeichnung  
-    * - Länge 
+    * - Größe
+      - Einheit
+      - Einheitsbezeichnung
+    * - Länge
       - :math:`\unit[]{m}`
       - Meter
     * - Zeit
@@ -455,90 +455,90 @@ aufgelistet.
     :header-rows: 0
     :name: tab-größen-und-einheiten
 
-    * - Größe                   
+    * - Größe
       - Einheit
-      - Einheitsbezeichnung  
-      - Definition 
-    * - Zeit                    
-      - :math:`\unit[]{min}` 
-      - Minute         
-      - :math:`\unit[1]{min} = \unit[60]{s}` 
+      - Einheitsbezeichnung
+      - Definition
+    * - Zeit
+      - :math:`\unit[]{min}`
+      - Minute
+      - :math:`\unit[1]{min} = \unit[60]{s}`
     * -
-      - :math:`\unit[]{h}` 
-      - Stunde           
-      - :math:`\unit[1]{h} = \unit[60]{min} = \unit[3600]{s}`  
+      - :math:`\unit[]{h}`
+      - Stunde
+      - :math:`\unit[1]{h} = \unit[60]{min} = \unit[3600]{s}`
     * -
-      - :math:`\unit[]{d}` 
-      - Tag              
-      - :math:`\unit[1]{d} = \unit[24]{h} = \unit[1440]{min} = \unit[86400]{s}` 
+      - :math:`\unit[]{d}`
+      - Tag
+      - :math:`\unit[1]{d} = \unit[24]{h} = \unit[1440]{min} = \unit[86400]{s}`
     * -
-      - :math:`\unit[]{a}` 
-      - Jahr             
+      - :math:`\unit[]{a}`
+      - Jahr
       - :math:`\unit[1]{a} = \unit[365,2422]{d} = \unit[31\,556\,926]{s}`
-    * - Frequenz                
-      - :math:`\unit[]{Hz}` 
-      - Hertz           
-      - :math:`\unit[1]{Hz} = \unit[1]{/s}` 
-    * - Kraft                   
-      - :math:`\unit[]{N}` 
-      - Newton           
-      - :math:`\unit[1]{N} = \unit[1]{kg \cdot m/s^{2}}` 
-    * - Druck                   
-      - :math:`\unit[]{Pa}` 
-      - Pascal          
-      - :math:`\unit[1]{Pa} = \unit[1]{N/m^{2}}` 
-    * -                          
-      - :math:`\unit[]{bar}` 
-      - Bar             
-      - :math:`\unit[1]{bar} = \unit[100\,000]{Pa}` 
-    * - Energie, Arbeit, Wärme   
-      - :math:`\unit[]{J}` 
-      - Joule            
-      - :math:`\unit[1]{J} = \unit[1]{W \cdot s} = \unit[1]{kg \cdot m^2/s^2}` 
+    * - Frequenz
+      - :math:`\unit[]{Hz}`
+      - Hertz
+      - :math:`\unit[1]{Hz} = \unit[1]{/s}`
+    * - Kraft
+      - :math:`\unit[]{N}`
+      - Newton
+      - :math:`\unit[1]{N} = \unit[1]{kg \cdot m/s^{2}}`
+    * - Druck
+      - :math:`\unit[]{Pa}`
+      - Pascal
+      - :math:`\unit[1]{Pa} = \unit[1]{N/m^{2}}`
     * -
-      - :math:`\unit[]{kWh}` 
-      - Kilowattstunde 
-      - :math:`\unit[1]{kWh} = \unit[3\,600\,000]{J}` 
+      - :math:`\unit[]{bar}`
+      - Bar
+      - :math:`\unit[1]{bar} = \unit[100\,000]{Pa}`
+    * - Energie, Arbeit, Wärme
+      - :math:`\unit[]{J}`
+      - Joule
+      - :math:`\unit[1]{J} = \unit[1]{W \cdot s} = \unit[1]{kg \cdot m^2/s^2}`
+    * -
+      - :math:`\unit[]{kWh}`
+      - Kilowattstunde
+      - :math:`\unit[1]{kWh} = \unit[3\,600\,000]{J}`
     * - Drehmoment
-      - :math:`\unit[]{Nm}` 
-      - Newtonmeter     
-      - :math:`\unit[1]{N \cdot m} = \unit[1]{kg \cdot m^2 / s^2}` 
-    * - Leistung                
-      - :math:`\unit[]{W}` 
-      - Watt             
-      - :math:`\unit[1]{W} = \unit[1]{J/s}` 
-    * - Elektrische Ladung      
-      - :math:`\unit[]{C}` 
-      - Coulomb          
-      - :math:`\unit[1]{C} = \unit[1]{A \cdot s}` 
-    * - Elektrische Spannung    
-      - :math:`\unit[]{V}` 
-      - Volt             
-      - :math:`\unit[1]{V} = \unit[1]{W / A} = \unit[1]{(kg \cdot m^2) / (A \cdot s^3)}` 
-    * - Elektrischer Widerstand 
-      - :math:`\Omega` 
-      - Ohm 
-      - :math:`\unit[1]{\Omega } = \unit[1]{\,V\, / A} = \unit[1]{(kg \cdot m^2) / (A^2 \cdot s^3)}` 
-    * - Elektrische Kapazität   
-      - :math:`\unit[]{F}` 
-      - Farad            
-      - :math:`\unit[1]{F} = \unit[1]{\,C\, / V} = \unit[1]{(A^2 \cdot s^4) / (kg \cdot m^2)}` 
-    * - Magnetischer Fluss      
-      - :math:`\unit[]{Wb}` 
-      - Weber           
+      - :math:`\unit[]{Nm}`
+      - Newtonmeter
+      - :math:`\unit[1]{N \cdot m} = \unit[1]{kg \cdot m^2 / s^2}`
+    * - Leistung
+      - :math:`\unit[]{W}`
+      - Watt
+      - :math:`\unit[1]{W} = \unit[1]{J/s}`
+    * - Elektrische Ladung
+      - :math:`\unit[]{C}`
+      - Coulomb
+      - :math:`\unit[1]{C} = \unit[1]{A \cdot s}`
+    * - Elektrische Spannung
+      - :math:`\unit[]{V}`
+      - Volt
+      - :math:`\unit[1]{V} = \unit[1]{W / A} = \unit[1]{(kg \cdot m^2) / (A \cdot s^3)}`
+    * - Elektrischer Widerstand
+      - :math:`\Omega`
+      - Ohm
+      - :math:`\unit[1]{\Omega } = \unit[1]{\,V\, / A} = \unit[1]{(kg \cdot m^2) / (A^2 \cdot s^3)}`
+    * - Elektrische Kapazität
+      - :math:`\unit[]{F}`
+      - Farad
+      - :math:`\unit[1]{F} = \unit[1]{\,C\, / V} = \unit[1]{(A^2 \cdot s^4) / (kg \cdot m^2)}`
+    * - Magnetischer Fluss
+      - :math:`\unit[]{Wb}`
+      - Weber
       - :math:`\unit[1]{Wb} = \unit[1]{V \cdot s}`
-    * - Magnetische Flussdichte 
-      - :math:`\unit[]{T}` 
-      - Tesla            
+    * - Magnetische Flussdichte
+      - :math:`\unit[]{T}`
+      - Tesla
       - :math:`\unit[1]{T} = \unit[1]{Wb / m^2} = \unit[1]{(V \cdot s)/m^2}`
-    * - Induktivität            
-      - :math:`\unit[]{H}` 
-      - Henry            
-      - :math:`\unit[1]{H} = \unit[1]{Wb / A} = \unit[1]{(V \cdot s)/ A}` 
-    * - Temperatur              
-      - :math:`\unit[]{^{\circ}C}`  
-      - Grad Celsius   
-      - :math:`\unit[1]{^{\circ}C} = \unit[1]{K}` (nur bei Angabe von Celsius-Temperaturen) 
+    * - Induktivität
+      - :math:`\unit[]{H}`
+      - Henry
+      - :math:`\unit[1]{H} = \unit[1]{Wb / A} = \unit[1]{(V \cdot s)/ A}`
+    * - Temperatur
+      - :math:`\unit[]{\degree C}`
+      - Grad Celsius
+      - :math:`\unit[1]{\degree C} = \unit[1]{K}` (nur bei Angabe von Celsius-Temperaturen)
 
 
 .. _Zehnerpotenzen:
@@ -553,85 +553,85 @@ ein Vielfaches größeren elektrischen Widerstand als ein Leiter. Um dennoch die
 in Kilogramm anzugeben -- hat man der Übersichtlichkeit halber so genannte
 "Zehnerpotenzen" eingeführt.
 
-.. list-table:: 
+.. list-table::
     :widths: 50 50 50 50
     :header-rows: 0
 
     * - Vorsilbe
       - Kurzzeichen
-      - Faktor 
+      - Faktor
       - Kurzschreibweise
     * - Deka-
-      - :math:`\unit[]{da}` 
+      - :math:`\unit[]{da}`
       - :math:`10`
       - :math:`1 \cdot 10^{1}`
     * - Hekto-
-      - :math:`\unit[]{h}` 
+      - :math:`\unit[]{h}`
       - :math:`100`
       - :math:`1 \cdot 10^{2}`
     * - Kilo-
-      - :math:`\unit[]{k}` 
+      - :math:`\unit[]{k}`
       - :math:`1\,000`
       - :math:`1 \cdot 10^{3}`
     * - Mega-
-      - :math:`\unit[]{M}` 
+      - :math:`\unit[]{M}`
       - :math:`1\,000\,000`
       - :math:`1 \cdot 10^{6}`
     * - Giga-
-      - :math:`\unit[]{G}` 
+      - :math:`\unit[]{G}`
       - :math:`1\,000\,000\,000`
       - :math:`1 \cdot 10^{9}`
     * - Tera-
-      - :math:`\unit[]{T}` 
+      - :math:`\unit[]{T}`
       - :math:`1\,000\,000\,000\,000`
       - :math:`1 \cdot 10^{12}`
     * - Peta-
-      - :math:`\unit[]{P}` 
+      - :math:`\unit[]{P}`
       - :math:`1\,000\,000\,000\,000\,000`
       - :math:`1 \cdot 10^{15}`
     * - Exa-
-      - :math:`\unit[]{E}` 
+      - :math:`\unit[]{E}`
       - :math:`1\,000\,000\,000\,000\,000\,000`
       - :math:`1 \cdot 10^{18}`
 
-.. list-table:: 
+.. list-table::
     :widths: 50 50 50 50
     :header-rows: 0
 
     * - Vorsilbe
       - Kurzzeichen
-      - Faktor 
+      - Faktor
       - Kurzschreibweise
     * - Dezi-
-      - :math:`\unit[]{d}` 
+      - :math:`\unit[]{d}`
       - :math:`0,1`
       - :math:`1 \cdot 10^{-1}`
     * - Zenti-
-      - :math:`\unit[]{c}` 
+      - :math:`\unit[]{c}`
       - :math:`0,01`
       - :math:`1 \cdot 10^{-2}`
     * - Milli-
-      - :math:`\unit[]{m}` 
+      - :math:`\unit[]{m}`
       - :math:`0,001`
       - :math:`1 \cdot 10^{-3}`
     * - Mikro-
-      - :math:`\unit[]{\mu }` 
+      - :math:`\unit[]{\mu }`
       - :math:`0,000\,001`
       - :math:`1 \cdot 10^{-6}`
     * - Nano-
-      - :math:`\unit[]{n}` 
+      - :math:`\unit[]{n}`
       - :math:`0,000\,000\,001`
       - :math:`1 \cdot 10^{-9}`
     * - Piko-
-      - :math:`\unit[]{p}` 
+      - :math:`\unit[]{p}`
       - :math:`0,000\,000\,000\,001`
       - :math:`1 \cdot 10^{-12}`
     * - Femto-
-      - :math:`\unit[]{f}` 
+      - :math:`\unit[]{f}`
       - :math:`0,000\,000\,000\,000\,001`
       - :math:`1 \cdot 10^{-15}`
     * - Atto-
-      - :math:`\unit[]{a}` 
+      - :math:`\unit[]{a}`
       - :math:`0,000\,000\,000\,000\,000\,001`
       - :math:`1 \cdot 10^{-18}`
 
@@ -652,23 +652,23 @@ können.
     :header-rows: 0
     :name: tab-naturkonstanten
 
-    * - Konstante 
-      - Symbol 
+    * - Konstante
+      - Symbol
       - Betrag und Einheit
-    * - Avogadro-Konstante 
+    * - Avogadro-Konstante
       - :math:`N _{\rm{A}}`
       - :math:`\unit[6,0221367 \cdot 10 ^{23} ]{\frac{1}{mol} }`
     * - Elektrische Feldkonstante
       - :math:`\varepsilon _{\rm{0}}`
-      - :math:`\unit[8,8542 \cdot 10^{-12}]{\frac{C}{V \cdot m} }` 
-    * - Elementarladung 
+      - :math:`\unit[8,8542 \cdot 10^{-12}]{\frac{C}{V \cdot m} }`
+    * - Elementarladung
       - :math:`e _{\rm{0}}`
       - :math:`\unit[1,60217733 \cdot 10 ^{-19} ]{C}`
     * - Eulersche Zahl
       - :math:`e`
       - :math:`2,718281828459045\ldots`
     * - Fallbeschleunigung auf der Erde (Norm)
-      - :math:`g`  
+      - :math:`g`
       - :math:`\unit[9,80665 ]{\frac{m}{s^2} }`
     * - Faraday-Konstante
       - :math:`F`
@@ -684,7 +684,7 @@ können.
       - :math:`\unit[2,99792458 \cdot 10^{8} ]{\frac{m}{s} }`
     * - Magnetische Feldkonstante
       - :math:`\mu _{\rm{0}}`
-      - :math:`\unit[4 \cdot \pi \cdot 10^{-7}]{\frac{V \cdot s}{A \cdot m} }` 
+      - :math:`\unit[4 \cdot \pi \cdot 10^{-7}]{\frac{V \cdot s}{A \cdot m} }`
     * - Planck-Konstante
       - :math:`h`
       - :math:`\unit[6,6256 \cdot 10 ^{34} ]{J \cdot s }`
@@ -706,22 +706,22 @@ können.
       -
       - Erde:
       -
-    * - Masse 
-      - :math:`m _{\rm{S}} = \unit[1,99 \cdot 10^{30}]{kg}` 
-      - Masse 
-      - :math:`m _{\rm{E}} = \unit[5,972 \cdot 10^{24}]{kg}` 
-    * - Radius 
-      - :math:`{\color{white}1}r _{\rm{S}} = \unit[6,96 \cdot 10^8]{m}` 
+    * - Masse
+      - :math:`m _{\rm{S}} = \unit[1,99 \cdot 10^{30}]{kg}`
+      - Masse
+      - :math:`m _{\rm{E}} = \unit[5,972 \cdot 10^{24}]{kg}`
+    * - Radius
+      - :math:`{\color{white}1}r _{\rm{S}} = \unit[6,96 \cdot 10^8]{m}`
       - Radius (Durchschnitt)
-      - :math:`{\color{white}1}r _{\rm{E}} = \unit[6371]{km}` 
+      - :math:`{\color{white}1}r _{\rm{E}} = \unit[6371]{km}`
     * - Oberflächentemperatur
-      - :math:`{\color{white}.}T _{\rm{S}} = \unit[5,78 \cdot 10^3]{K}` 
+      - :math:`{\color{white}.}T _{\rm{S}} = \unit[5,78 \cdot 10^3]{K}`
       - Bahnradius (Durchschnitt)
-      - :math:`r _{\rm{EB}} = \unit[1,496 \cdot 10^8]{km}` 
+      - :math:`r _{\rm{EB}} = \unit[1,496 \cdot 10^8]{km}`
     * - Leuchtkraft
-      - :math:`{\color{white}.}L _{\rm{S}} = \unit[3,85 \cdot 10 ^{26}]{W}` 
-      - 
-      - 
+      - :math:`{\color{white}.}L _{\rm{S}} = \unit[3,85 \cdot 10 ^{26}]{W}`
+      -
+      -
 
 
 
@@ -734,13 +734,13 @@ Materialabhängige Größen
 
 .. only:: html
 
-    .. list-table:: 
+    .. list-table::
         :name: tab-eigenschaften-von-festkoerpern
         :widths: 50 50 50 50 50 50
 
         * - Material
-          - Schmelztemperatur :math:`T _{\rm{S}}` in :math:`\unit[]{^{\circ}C}` (bei :math:`\unit[101,3]{kPa}`)
-          - Siedetemperatur :math:`T _{\rm{V}}` in :math:`\unit[]{^{\circ}C}` (bei :math:`\unit[101,3]{kPa}`)
+          - Schmelztemperatur :math:`T _{\rm{S}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
+          - Siedetemperatur :math:`T _{\rm{V}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
           - Längen-Ausdehnungskoeffizient :math:`\alpha` in :math:`\unit[10 ^{-6}]{\frac{1}{K}}`
           - Spezifische Wärmekapazität :math:`c` in :math:`\unit[]{\frac{kJ}{kg \cdot K}}`
           - Spezifische Schmelzwärme :math:`q _{\rm{s}}` in :math:`\unit[]{\frac{kJ}{kg}}`
@@ -791,7 +791,7 @@ Materialabhängige Größen
           - :math:`4830`
           - :math:`7,9`
           - :math:`0,71`
-          - 
+          -
         * - Holz (Eiche)
           - ---
           - ---
@@ -852,55 +852,55 @@ Materialabhängige Größen
     % \newgeometry{left=1cm, right=1cm, top=2.5cm, bottom=2.5cm}
     \label{tab-eigenschaften-von-festkoerpern}
     %\vspace*{1cm}
-    {\centering 
+    {\centering
     \begin{tabulary}{\linewidth}{|l|C|C|C|C|C|} \hline
 
-    Material 
-    & 
-    Schmelztemperatur \(T _{\rm{S}}\) in \(\unit[]{^{\circ}C}\) (bei \(\unit[101,3]{kPa}\))
-    & 
-    Siedetemperatur \(T _{\rm{V}}\) in \(\unit[]{^{\circ}C}\) (bei \(\unit[101,3]{kPa}\))
-    & 
-    Längen-Ausdehnungs-koeffizient \(\alpha\) in \(\unit[10 ^{-6}]{\frac{1}{K}}\)
-    & 
-    Spezifische Wärmekapazität \(c\) in \(\unit[]{\frac{kJ}{kg \cdot K}}\)
-    & 
-    Spezifische Schmelzwärme \(q _{\rm{s}}\) in \(\unit[]{\frac{kJ}{kg}}\) \\
+    Material
+    &
+    Schmelztemperatur $T _{\rm{S}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
+    &
+    Siedetemperatur $T _{\rm{V}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
+    &
+    Längen-Ausdehnungs-koeffizient $\alpha$ in $\unit[10 ^{-6}]{\frac{1}{K}}$
+    &
+    Spezifische Wärmekapazität $c$ in $\unit[]{\frac{kJ}{kg \cdot K}}$
+    &
+    Spezifische Schmelzwärme $q _{\rm{s}}$ in $\unit[]{\frac{kJ}{kg}}$ \\
 
-    Aluminium    & \(660\)  & \(2450\) & \(23,1\)             & \(0,90\) & \(397\) \\
-    Beton        & ---      & ---      & \(12,0\)             & \(0,84\) & --- \\
-    Blei         & \(327\)  & \(1750\) & \(29,0\)             & \(0,13\) & \(23,0\) \\
-    Diamant      & \(3540\) & \(4830\) & \(1,3\)              & \(0,50\) & --- \\
-    Eisen        & \(1535\) & \(2735\) & \(11,8\)             & \(0,45\) & \(277\) \\
-    Glas (Quarz) & \(1700\) & ---      & \(0,5\)              & \(0,73\) & --- \\
-    Gold         & \(1063\) & \(2700\) & \(14,3\)             & \(0,13\) & \(65,7\) \\
-    Graphit      & \(3650\) & \(4830\) & \(7,9\)              & \(0,71\) & --- \\
-    Holz (Eiche) & ---      & ---      & \(\text{Ca. } 8\)    & \(2,4\)  & --- \\
-    Kupfer       & \(1083\) & \(2590\) & \(16,5\)             & \(0,38\) & \(184\) \\
-    Magnesium    & \(650\)  & \(1110\) & \(26,0\)             & \(1,02\) & \(368\) \\
-    Platin       & \(1769\) & \(4300\) & \(9,0\)              & \(0,13\) & \(111\) \\
-    Porzellan    & ---      & ---      & \(3 \text{ bis } 4\) & \(0,84\) & --- \\
-    Silber       & \(961\)  & \(2180\) & \(18,9\)             & \(0,24\) & \(105\) \\
-    Silicium     & \(1420\) & \(2355\) & \(2,6\)              & \(0,70\) & \(164\) \\
-    Wolfram      & \(3380\) & \(5500\) & \(4,5\)              & \(0,13\) & \(192\) \\
-    Zinn         & \(232\)  & \(2690\) & \(22,0\)             & \(0,23\) & \(59,6\) \\
+    Aluminium    & $660$  & $2450$ & $23,1$             & $0,90$ & $397$ \\
+    Beton        & ---      & ---      & $12,0$             & $0,84$ & --- \\
+    Blei         & $327$  & $1750$ & $29,0$             & $0,13$ & $23,0$ \\
+    Diamant      & $3540$ & $4830$ & $1,3$              & $0,50$ & --- \\
+    Eisen        & $1535$ & $2735$ & $11,8$             & $0,45$ & $277$ \\
+    Glas (Quarz) & $1700$ & ---      & $0,5$              & $0,73$ & --- \\
+    Gold         & $1063$ & $2700$ & $14,3$             & $0,13$ & $65,7$ \\
+    Graphit      & $3650$ & $4830$ & $7,9$              & $0,71$ & --- \\
+    Holz (Eiche) & ---      & ---      & $\text{Ca. } 8$    & $2,4$  & --- \\
+    Kupfer       & $1083$ & $2590$ & $16,5$             & $0,38$ & $184$ \\
+    Magnesium    & $650$  & $1110$ & $26,0$             & $1,02$ & $368$ \\
+    Platin       & $1769$ & $4300$ & $9,0$              & $0,13$ & $111$ \\
+    Porzellan    & ---      & ---      & $3 \text{ bis } 4$ & $0,84$ & --- \\
+    Silber       & $961$  & $2180$ & $18,9$             & $0,24$ & $105$ \\
+    Silicium     & $1420$ & $2355$ & $2,6$              & $0,70$ & $164$ \\
+    Wolfram      & $3380$ & $5500$ & $4,5$              & $0,13$ & $192$ \\
+    Zinn         & $232$  & $2690$ & $22,0$             & $0,23$ & $59,6$ \\
 
     \hline
-    \end{tabulary} 
-    } 
-    
+    \end{tabulary}
+    }
+
 
 .. rubric:: Eigenschaften von Flüssigkeiten
 
 .. only:: html
 
-    .. list-table:: 
+    .. list-table::
         :name: tab-eigenschaften-von-fluessigkeiten
         :widths: 50 50 50 50 50 50
 
         * - Material
-          - Schmelztemperatur :math:`T _{\rm{S}}` in :math:`\unit[]{^{\circ}C}` (bei :math:`\unit[101,3]{kPa}`)
-          - Siedetemperatur :math:`T _{\rm{V}}` in :math:`\unit[]{^{\circ}C}` (bei :math:`\unit[101,3]{kPa}`)
+          - Schmelztemperatur :math:`T _{\rm{S}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
+          - Siedetemperatur :math:`T _{\rm{V}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
           - Volumen-Ausdehnungskoeffizient :math:`\gamma` in :math:`\unit[10 ^{-3}]{\frac{1}{K}}`
           - Spezifische Wärmekapazität :math:`c` in :math:`\unit[]{\frac{kJ}{kg \cdot K}}`
           - Spezifische Verdampfungswärme :math:`q _{\rm{v}}` in :math:`\unit[]{\frac{kJ}{kg}}`
@@ -945,13 +945,13 @@ Materialabhängige Größen
           - :math:`\text{Ca. }180`
           - :math:`1,14`
           - :math:`1,97`
-          - 
+          -
         * - Petroleum
           - :math:`\text{Ca.}-\!35`
           - :math:`\text{Ca. }200`
           - :math:`0,96`
           - :math:`2,14`
-          - 
+          -
         * - Quecksilber
           - :math:`-38,9`
           - :math:`357`
@@ -972,27 +972,27 @@ Materialabhängige Größen
     \hline
 
     Material
-    & 
-    Schmelztemperatur \(T _{\rm{S}}\) in \(\unit[]{^{\circ}C}\) (bei \(\unit[101,3]{kPa}\))
-    & 
-    Siedetemperatur \(T _{\rm{V}}\) in \(\unit[]{^{\circ}C}\) (bei \(\unit[101,3]{kPa}\))
-    & 
-    Volumen-Ausdehnungs-koeffizient \(\gamma\) in \(\unit[10 ^{-3}]{\frac{1}{K}}\)
-    & 
-    Spezifische Wärmekapazität \(c\) in \(\unit[]{\frac{kJ}{kg \cdot K}}\)
-    & 
-    Spezifische Verdampfungswärme \(q _{\rm{v}}\) in \(\unit[]{\frac{kJ}{kg}}\) \\
+    &
+    Schmelztemperatur $T _{\rm{S}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
+    &
+    Siedetemperatur $T _{\rm{V}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
+    &
+    Volumen-Ausdehnungs-koeffizient $\gamma$ in $\unit[10 ^{-3}]{\frac{1}{K}}$
+    &
+    Spezifische Wärmekapazität $c$ in $\unit[]{\frac{kJ}{kg \cdot K}}$
+    &
+    Spezifische Verdampfungswärme $q _{\rm{v}}$ in $\unit[]{\frac{kJ}{kg}}$ \\
 
-    Azeton           & \(-95\)             & \(56,3\)           & \(1,46\) & \(2,16\) & \(525\) \\
-    Benzol           & \(+5,5\)            & \(80,1\)           & \(1,24\) & \(2,05\) & \(394\) \\
-    Brom             & \(-7,2\)            & \(58,8\)           & \(1,13\) & \(0,46\) & \(183\) \\
-    Ethanol          & \(-114\)            & \(78,3\)           & \(1,40\) & \(2,43\) & \(840\) \\
-    Glycerin         & \(18,4\)            & \(291\)            & \(0,52\) & \(2,39\) & \(825\) \\
-    Methanol         & \(-98\)             & \(64,6\)           & \(1,20\) & \(2,50\) & \(1100\) \\
-    Olivenöl (nativ) & \(\text{Ca.}-\!7\)  & \(\text{Ca. }180\) & \(1,14\) & \(1,97\) & \\
-    Petroleum        & \(\text{Ca.}-\!35\) & \(\text{Ca. }200\) & \(0,96\) & \(2,14\) & \\
-    Quecksilber      & \(-38,9\)           & \(357\)            & \(0,18\) & \(0,14\) & \(285\) \\
-    Wasser           & \(0\)               & \(100\)            & \(0,21\) & \(4,18\) & \(2257\) \\
+    Azeton           & $-95$             & $56,3$           & $1,46$ & $2,16$ & $525$ \\
+    Benzol           & $+5,5$            & $80,1$           & $1,24$ & $2,05$ & $394$ \\
+    Brom             & $-7,2$            & $58,8$           & $1,13$ & $0,46$ & $183$ \\
+    Ethanol          & $-114$            & $78,3$           & $1,40$ & $2,43$ & $840$ \\
+    Glycerin         & $18,4$            & $291$            & $0,52$ & $2,39$ & $825$ \\
+    Methanol         & $-98$             & $64,6$           & $1,20$ & $2,50$ & $1100$ \\
+    Olivenöl (nativ) & $\text{Ca.}-\!7$  & $\text{Ca. }180$ & $1,14$ & $1,97$ & \\
+    Petroleum        & $\text{Ca.}-\!35$ & $\text{Ca. }200$ & $0,96$ & $2,14$ & \\
+    Quecksilber      & $-38,9$           & $357$            & $0,18$ & $0,14$ & $285$ \\
+    Wasser           & $0$               & $100$            & $0,21$ & $4,18$ & $2257$ \\
 
     \hline
     \end{tabulary}
@@ -1003,13 +1003,13 @@ Materialabhängige Größen
 
 .. only:: html
 
-    .. list-table:: 
+    .. list-table::
         :name: tab-eigenschaften-von-gasen
         :widths: 50 50 50 50 50 50
 
         * - Material
-          - Schmelztemperatur :math:`T _{\rm{S}}` in :math:`\unit[]{^{\circ}C}` (bei :math:`\unit[101,3]{kPa}`)
-          - Siedetemperatur :math:`T _{\rm{V}}` in :math:`\unit[]{^{\circ}C}` (bei :math:`\unit[101,3]{kPa}`)
+          - Schmelztemperatur :math:`T _{\rm{S}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
+          - Siedetemperatur :math:`T _{\rm{V}}` in :math:`\unit[]{\degree C}` (bei :math:`\unit[101,3]{kPa}`)
           - Spezifische Wärmekapazität :math:`c _{\rm{v}}` in :math:`\unit[]{\frac{kJ}{kg \cdot K}}`
           - Spezifische Wärmekapazität :math:`c _{\rm{p}}` in :math:`\unit[]{\frac{kJ}{kg \cdot K}}`
           - Spezifische Verdampfungswärme :math:`q _{\rm{v}}` in :math:`\unit[]{\frac{kJ}{kg}}`
@@ -1074,31 +1074,31 @@ Materialabhängige Größen
     \hline
 
     Material
-    & 
-    Schmelztemperatur \(T _{\rm{S}}\) in \(\unit[]{^{\circ}C}\) (bei \(\unit[101,3]{kPa}\))
-    & 
-    Siedetemperatur \(T _{\rm{V}}\) in \(\unit[]{^{\circ}C}\) (bei \(\unit[101,3]{kPa}\))
-    & 
-    Spezifische Wärmekapazität \(c _{\rm{v}}\) in \(\unit[]{\frac{kJ}{kg \cdot K}}\)
-    & 
-    Spezifische Wärmekapazität \(c _{\rm{p}}\) in \(\unit[]{\frac{kJ}{kg \cdot K}}\)
-    & 
-    Spezifische Verdampfungswärme \(q _{\rm{v}}\) in \(\unit[]{\frac{kJ}{kg}}\) \\
+    &
+    Schmelztemperatur $T_{\rm{S}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
+    &
+    Siedetemperatur $T_{\rm{V}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
+    &
+    Spezifische Wärmekapazität $c_{\rm{v}}$ in $\unit[]{\frac{kJ}{kg \cdot K}}$
+    &
+    Spezifische Wärmekapazität $c_{\rm{p}}$ in $\unit[]{\frac{kJ}{kg \cdot K}}$
+    &
+    Spezifische Verdampfungswärme $q_{\rm{v}}$ in $\unit[]{\frac{kJ}{kg}}$ \\
 
-    Ammoniak          & \(-77,7\)                              & \(-33,4\)                     & \(1,65\)  & \(2,16\)  & \(1370\) \\
-    Chlor             & \(-101\)                               & \(-34,1\)                     & \(0,55\)  & \(0,74\)  & \(290\) \\
-    Helium            & \(-271\)                               & \(-269\)                      & \(3,21\)  & \(5,23\)  & \(20,6\) \\
-    Kohlenstoffdioxid & \(-56,6\) (bei \(p=\unit[0,53]{MPa}\)) & \(-78,5\) (Sublimationspunkt) & \(0,65\)  & \(0,84\)  & \(574\) \\
-    Methan            & \(-183\)                               & \(-162\)                      & \(1,70\)  & \(2,22\)  & \(510\) \\
-    Ozon              & \(-193\)                               & \(-113\)                      & \(0,57\)  & \(0,79\)  & \(316\) \\
-    Propan            & \(-190\)                               & \(-42,1\)                     & \(1,41\)  & \(1,59\)  & \(426\) \\
-    Wasserstoff       & \(-259\)                               & \(-252,8\)                    & \(10,17\) & \(14,32\) & \(461\) \\
-    Xenon             & \(-112\)                               & \(-108\)                      & \(0,16\)  & \(0,01\)  & \(96\) \\
+    Ammoniak          & $-77,7$                            & $-33,4$                     & $1,65$  & $2,16$  & $1370$ \\
+    Chlor             & $-101$                             & $-34,1$                     & $0,55$  & $0,74$  & $290$ \\
+    Helium            & $-271$                             & $-269$                      & $3,21$  & $5,23$  & $20,6$ \\
+    Kohlenstoffdioxid & $-56,6$ (bei $p=\unit[0,53]{MPa}$) & $-78,5$ (Sublimationspunkt) & $0,65$  & $0,84$  & $574$ \\
+    Methan            & $-183$                             & $-162$                      & $1,70$  & $2,22$  & $510$ \\
+    Ozon              & $-193$                             & $-113$                      & $0,57$  & $0,79$  & $316$ \\
+    Propan            & $-190$                             & $-42,1$                     & $1,41$  & $1,59$  & $426$ \\
+    Wasserstoff       & $-259$                             & $-252,8$                    & $10,17$ & $14,32$ & $461$ \\
+    Xenon             & $-112$                             & $-108$                      & $0,16$  & $0,01$  & $96$ \\
 
     \hline
     \end{tabulary}
-    } 
-    
+    }
+
     %\restoregeometry
 
 

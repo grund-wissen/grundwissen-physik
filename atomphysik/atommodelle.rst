@@ -7,12 +7,12 @@ Atommodelle
 Wohl schon immer faszinierten den Mensch die Frage, "was die Welt im Innersten
 zusammenhält" (Goethe). Im Laufe der Geschichte haben einige Wissenschaftler und
 Philosophen hierzu einige Theorien entwickelt, um die Ergebnisse der stets
-neuen, technisch ausgefeilteren Experimente erklären zu können. 
+neuen, technisch ausgefeilteren Experimente erklären zu können.
 
 Im folgenden sind die heutiger Sicht wichtigsten dieser Atommodelle knapp
 zusammengefasst.
 
-.. index:: 
+.. index::
     single: Atommodell; nach Demokrit
 .. _Das Demokrit-Modell:
 
@@ -20,8 +20,8 @@ Das Demokrit-Modell
 -------------------
 
 Das erste Atommodell geht auf die beiden griechischen Philosophen `Leukipp
-<http://de.wikipedia.org/wiki/Leukipp>`_ und seinen Schüler `Demokrit
-<http://de.wikipedia.org/wiki/Demokrit>`_ zurück. Beide waren der Ansicht, dass
+<https://de.wikipedia.org/wiki/Leukipp>`_ und seinen Schüler `Demokrit
+<https://de.wikipedia.org/wiki/Demokrit>`_ zurück. Beide waren der Ansicht, dass
 sich Materie nicht beliebig weit zerteilen lasse. Vielmehr müsse es ein
 kleinstes Teilchen geben, das nicht weiter zerteilbar ist: Das "Urkorn" oder
 "Atom" (*atomos* = griech. unteilbar).
@@ -36,7 +36,7 @@ kleinstes Teilchen geben, das nicht weiter zerteilbar ist: Das "Urkorn" oder
     Das Atommodell nach Demokrit: Atome als "Grundbausteine" der Materie.
 
     .. only:: html
-    
+
         :download:`SVG: Atommodell nach Demokrit
         <../pics/atomphysik/atommodell-demokrit.svg>`
 
@@ -44,7 +44,7 @@ Beide Philosophen stützten ihre Theorien nicht auf Experimente, sondern auf
 Nachdenken.
 
 
-.. index:: 
+.. index::
     single: Atommodell; nach Dalton
 .. _Das Dalton-Modell:
 
@@ -52,9 +52,9 @@ Das Dalton-Modell
 -----------------
 
 Im Jahr 1803 griff der Chemiker und Lehrer `John Dalton
-<http://de.wikipedia.org/wiki/John_Dalton>`_ -- inspiriert durch das vom
+<https://de.wikipedia.org/wiki/John_Dalton>`_ -- inspiriert durch das vom
 Chemiker `Joseph-Louis Proust
-<http://de.wikipedia.org/wiki/Joseph-Louis_Proust>`_ formulierte Gesetz der
+<https://de.wikipedia.org/wiki/Joseph-Louis_Proust>`_ formulierte Gesetz der
 konstanten Mengenverhältnisse -- Demokrits Vorstellung von unteilbaren
 Materiebausteinen wieder auf. Er entwickelte ein Atommodell mit folgenden
 Hypothesen:
@@ -62,7 +62,7 @@ Hypothesen:
 * Jede Materie besteht aus Grundbausteinen, den unteilbaren Atomen.
 * Die Atome eines Elements sind untereinander gleich, die Atome verschiedener
   Elemente unterscheiden sich stets in ihrer Masse und Größe.
-* Jeweils eine ganze Zahl an Atomen verschiedener Elemente bildet Verbindungen. 
+* Jeweils eine ganze Zahl an Atomen verschiedener Elemente bildet Verbindungen.
 
 .. figure::
     ../pics/atomphysik/atommodell-dalton.png
@@ -75,7 +75,7 @@ Hypothesen:
     unterschiedlich große bzw. schwere Atome.
 
     .. only:: html
-    
+
         :download:`SVG: Atommodell nach Dalton
         <../pics/atomphysik/atommodell-dalton.svg>`
 
@@ -84,7 +84,7 @@ der Masse, das Gesetz der konstanten Proportionen und das Gesetz der multiplen
 Proportionen zu erklären.
 
 
-.. index:: 
+.. index::
     single: Atommodell; nach Thomson
 .. _Das Thomson-Modell:
 
@@ -92,7 +92,7 @@ Das Thomson-Modell
 ------------------
 
 Im Jahr 1897 entdeckte der Physiker `Joseph John Thomson
-<http://de.wikipedia.org/wiki/Joseph_John_Thomson>`_ bei Untersuchungen einer
+<https://de.wikipedia.org/wiki/Joseph_John_Thomson>`_ bei Untersuchungen einer
 Glühkathode, dass es sich bei der austretenden Strahlung um einen Strom von
 Teilchen handeln müsse. Diese auf diese Weise entdeckten "Elektronen" ließen
 sich durch ein Magnetfeld ablenken und besaßen eine fast 2000 mal kleinere Masse
@@ -106,7 +106,7 @@ Thomson schlug daher im Jahr 1904 folgendes Atommodell vor:
 
 * Jedes Atom besteht aus einer elektrisch positiv geladenen Kugel, in die
   elektrisch negativ geladene Elektronen eingelagert sind -- wie Rosinen in
-  einem Kuchen. 
+  einem Kuchen.
 * Die Atome sind nach außen hin neutral. Sie können jedoch Elektronen abgeben
   oder zusätzliche aufnehmen.
 * Bei der Abgabe von Elektronen entstehen positiv geladene Ionen, bei der
@@ -123,17 +123,17 @@ Thomson schlug daher im Jahr 1904 folgendes Atommodell vor:
     Elektronen eingelagert sind.
 
     .. only:: html
-    
+
         :download:`SVG: Atommodell nach Thomson
         <../pics/atomphysik/atommodell-thomson.svg>`
 
 Durch sein Atommodell konnte Thomson die Kathodenstrahlung sowie die
 Erkenntnisse aus der Elektrolyse-Forschung von `Michael Faraday
-<http://de.wikipedia.org/wiki/Michael_Faraday#Grundgesetze_der_Elektrolyse>`_
+<https://de.wikipedia.org/wiki/Michael_Faraday#Grundgesetze_der_Elektrolyse>`_
 erklären.
 
 
-.. index:: 
+.. index::
     single: Atommodell; nach Rutherford
 .. _Rutherford-Modell:
 
@@ -141,10 +141,10 @@ Das Rutherford-Modell
 ---------------------
 
 Im Jahr 1911 führte der Physiker `Ernest Rutherford
-<http://de.wikipedia.org/wiki/Ernest_Rutherford>`_ ein Experiment durch, bei dem
+<https://de.wikipedia.org/wiki/Ernest_Rutherford>`_ ein Experiment durch, bei dem
 er einen Strahl radioaktiver Alpha-Teilchen :math:`(\ce{^4_2He^2+})` auf eine
 dünne Goldfolie lenkte. Die meisten Alpha-Teilchen konnten die Goldfolie
-ungehindert durchdringen, nur wenige wurden (teilweise sehr stark) abgelenkt. 
+ungehindert durchdringen, nur wenige wurden (teilweise sehr stark) abgelenkt.
 
 Dieses Ergebnis ließ sich nicht durch die Vorstellung kompakter Atomkugeln
 (Thomson-Modell) erklären. Der wesentliche Teil der Masse und die positive
@@ -177,7 +177,7 @@ Rutherford fasste seine Erkenntnisse in folgendem Atommodell zusammen:
     einer negativ geladenen Elektronenhülle.
 
     .. only:: html
-    
+
         :download:`SVG: Atommodell nach Rutherford
         <../pics/atomphysik/atommodell-rutherford.svg>`
 
@@ -185,7 +185,7 @@ Mit seinem Atommodell konnte Rutherford allerdings noch keine Aussagen über die
 Bahnform der Elektronen und über ihre Energieverteilung treffen.
 
 
-.. index:: 
+.. index::
     single: Atommodell; nach Bohr
 .. _Bohr-Modell:
 
@@ -193,22 +193,22 @@ Das Bohr-Modell
 ---------------
 
 Im Jahr 1913 formulierte der Physiker `Niels Bohr
-<http://de.wikipedia.org/wiki/Niels_Bohr>`_ ein Atommodell, das von einem
+<https://de.wikipedia.org/wiki/Niels_Bohr>`_ ein Atommodell, das von einem
 planetenartigen Umlauf der Elektronen um den Atomkern ausgeht. Damit konnte er
 -- beeinflusst durch die Quantentheorie `Max Plancks
-<http://de.wikipedia.org/wiki/Max_Planck>`_ und die Entdeckung des Photoeffekts
-durch `Albert Einstein <http://de.wikipedia.org/wiki/Albert_Einstein>`_ --
+<https://de.wikipedia.org/wiki/Max_Planck>`_ und die Entdeckung des Photoeffekts
+durch `Albert Einstein <https://de.wikipedia.org/wiki/Albert_Einstein>`_ --
 erstmals die im Mikrokosmos stets in bestimmten Vielfachen auftretenden
 Energiesprünge deuten. Diese waren seit der Untersuchung der Spektren von
 Gasentladungsröhren -- insbesondere seit der von `Johann Jakob Balmer
-<http://de.wikipedia.org/wiki/Johann_Jakob_Balmer>`_ im Jahr 1885 gefundenen
+<https://de.wikipedia.org/wiki/Johann_Jakob_Balmer>`_ im Jahr 1885 gefundenen
 Formel [#]_ für die Verteilung der im Spektrum des Wasserstoffs auftretenden
 Wellenlängen -- eines der größten Rätsel der damaligen Physik.
 
 Bohr setzte in seinen Berechnungen die elektrostatische Anziehungskraft zwischen
 Elektron und Kern gleich der Zentrifugalkraft, die sich aus der
 Umlaufgeschwindigkeit des Elektrons ergibt. Hierdurch konnte er die Verteilung
-der Spektrallinien von Wasserstoff in allgemeiner Form [#]_ erklären. 
+der Spektrallinien von Wasserstoff in allgemeiner Form [#]_ erklären.
 
 .. figure::
     ../pics/atomphysik/atommodell-bohr.png
@@ -223,7 +223,7 @@ der Spektrallinien von Wasserstoff in allgemeiner Form [#]_ erklären.
     (Photon) ausgesendet.
 
     .. only:: html
-    
+
         :download:`SVG: Atommodell nach Bohr
         <../pics/atomphysik/atommodell-bohr.svg>`
 
@@ -247,9 +247,9 @@ Um sein Atommodell zu retten, das auch mit anderen experimentellen Ergebnissen b
     :math:`f`, so dass gilt:
 
     .. math::
-        
+
         \Delta E = h \cdot f
-    
+
 Hierbei ist :math:`\Delta E = E _{\rm{n _{\rm{a}}}} - E _{\rm{n _{\rm{i}}}}` die
 Energiedifferenz zwischen der äußeren und inneren Elektronenbahn und :math:`h =
 \unit[6,6256 \cdot 10^{34}]{J \cdot s}` die Planck-Konstante. Im umgekehrten
@@ -257,7 +257,7 @@ Fall lässt sich ein Elektron durch ein Photon der entsprechenden Frequenz in
 einen energiereicheren (weiter außen gelegenen) Zustand anheben.
 
 
-.. index:: 
+.. index::
     single: Atommodell; nach Sommerfeld
 .. _Sommerfeld-Modell:
 
@@ -265,7 +265,7 @@ Die Sommerfeld-Erweiterung
 --------------------------
 
 Im Jahr 1916 formulierte der Physiker `Arnold Sommerfeld
-<http://de.wikipedia.org/wiki/Arnold_Sommerfeld>`_ eine Erweiterung des
+<https://de.wikipedia.org/wiki/Arnold_Sommerfeld>`_ eine Erweiterung des
 Bohrschein Atommodells. Es ging anstelle von Kreisbahnen allgemeiner von
 elliptischen Bahnen der Elektronen um den Atomkern aus. Eine Ellipse besitzt
 neben einer großen Halbachse, deren Größe nach Sommerfeld dem Radius einer
@@ -274,7 +274,7 @@ eine kleine Halbachse. Sommerfeld ging davon aus, dass auch die Größe dieser
 Halbachse nur bestimmte Werte annehmen kann. Er führte somit neben der
 "Hauptquantenzahl" :math:`n` für das Energieniveau eine zusätzliche
 "Nebenquantenzahl" :math:`l` ein, welche im Wesentlichen die Form der Ellipse
-bestimme. 
+bestimme.
 
 Arnold Sommerfeld konnte damit erklären, warum in den optischen Spektren eines
 Atoms -- wie man dank einer höheren Auflösung zwischenzeitlich erkannte --
@@ -293,7 +293,7 @@ Hauptquantenzahl durch Bohr und einer Nebenquantenzahl durch Sommerfeld hat sich
 dennoch, wie sich später herausstellte, als sinnvoll erwiesen.
 
 
-.. index:: 
+.. index::
     single: Atommodell; Orbitalmodell
 .. _Das Orbitalmodell:
 
@@ -303,12 +303,12 @@ Das Orbitalmodell
 Das Orbitalmodell ist das bis heute genaueste Modell zur Beschreibung der
 Elektronenbahnen um den Atomkern. Grundlage hierfür waren fundamentale
 Erkenntnisse von `Erwin Schrödinger
-<http://de.wikipedia.org/wiki/Erwin_Schrödinger>`_ und `Werner Heisenberg
-<http://de.wikipedia.org/wiki/Werner_Heisenberg>`_ in den Jahren 1926 und 1927,
+<https://de.wikipedia.org/wiki/Erwin_Schrödinger>`_ und `Werner Heisenberg
+<https://de.wikipedia.org/wiki/Werner_Heisenberg>`_ in den Jahren 1926 und 1927,
 die unabhängig voneinander und mit verschiedenen mathematischen Zugängen die
 Quantenmechanik begründeten.
 
-.. index:: 
+.. index::
     single: Orbital
 
 Die Elektronenbahnen im Orbitalmodell werden als Lösungen der so genannten
@@ -321,10 +321,10 @@ angegeben werden, innerhalb derer sich ein jeweiliges Elektron mit einer sehr
 grossen Wahrscheinlichkeit :math:`(>90\%)` aufhält. Diese dreidimensionalen
 Aufenthaltsräume werden Orbitale genannt.
 
-.. index:: 
-    single: Quantenzahl 
+.. index::
+    single: Quantenzahl
 
-Die konkrete Form eines Orbitals hängt dabei von *vier* Quantenzahlen ab: 
+Die konkrete Form eines Orbitals hängt dabei von *vier* Quantenzahlen ab:
 
 * Die Hauptquantenzahl :math:`n` gibt -- wie in den Atommodellen nach Bohr und
   Sommerfeld --  das Energieniveau eines Elektrons an.
@@ -345,60 +345,60 @@ Jedes Elektron wird durch die obigen Quantenzahlen genau charakterisiert.
 Die vier Quantenzahlen :math:`n ,\, l ,\, m` und  :math:`s` können nur
 bestimmte, ganzzahlige Werte annehmen:
 
-.. index:: 
+.. index::
     single: Quantenzahl; Hauptquantenzahl
 
 * Für die Hauptquantenzahl :math:`n` gilt:
 
   .. math::
       :label: eqn-hauptquantenzahl
-      
-      n = 1 ,\, 2 ,\, 3 ,\, \ldots 
+
+      n = 1 ,\, 2 ,\, 3 ,\, \ldots
 
  Die Werte der Hauptquantenzahl :math:`n` entsprechen somit formal den
  unterschiedlich weit vom Atomkern entfernten "Planetenbahnen" des Bohrschen
  Atommodells.
 
-.. index:: 
+.. index::
     single: Quantenzahl; Nebenquantenzahl
 
 * Für die Nebenquantenzahl `l` gilt:
 
   .. math::
       :label: eqn-nebenquantenzahl
-      
+
       l = 0 ,\, 1 ,\, \ldots ,\, n-1
 
   Die Werte der Nebenquantenzahl :math:`l` entsprechen formal den Abweichungen
   von einer exakten Kreisbahn im Sommerfeldschen Atommodell. Bei einem
   bestimmten Energieniveau :math:`n` treten entsprechend auch :math:`n`
-  verschiedene Formen an Orbitalen auf. 
+  verschiedene Formen an Orbitalen auf.
 
-.. index:: 
+.. index::
     single: Quantenzahl; Magnetquantenzahl
-  
+
 * Für die Magnetquantenzahl :math:`m` gilt:
 
   .. math::
       :label: eqn-magnetquantenzahl
-      
+
       m = -l ,\, \ldots 0 ,\, \ldots ,\, +l
-  
+
   Bei einer bestimmten Nebenquantenzahl :math:`l` sind somit :math:`(2 \cdot l +
   1)` verschiedene Werte für die Magnetquantenzahl möglich. Diese Werte haben
   eine unterschiedliche räumliche Ausrichtung der jeweiligen Orbitale zur
   Folge.
 
-.. index:: 
+.. index::
     single: Quantenzahl; Spinquantenzahl
 
 * Für die Spinquantenzahl :math:`s` gilt:
 
   .. math::
       :label: eqn-spinquantenzahl
-      
-      s = \, \pm \, \frac{1}{2} 
-  
+
+      s = \, \pm \, \frac{1}{2}
+
   In jedem Orbital kann ein Elektron somit -- unabhängig von den anderen
   Quantenzahlen -- entweder den Spinzustand :math:`s = + \frac{1}{2}` oder
   :math:`s = - \frac{1}{2}` besitzen.
@@ -406,7 +406,7 @@ bestimmte, ganzzahlige Werte annehmen:
 .. index:: Pauli-Prinzip
 
 Nach dem im Jahr 1925 von `Wolfgang Pauli
-<http://de.wikipedia.org/wiki/Wolfgang_Pauli>`_ formulierten und nach ihm
+<https://de.wikipedia.org/wiki/Wolfgang_Pauli>`_ formulierten und nach ihm
 benannten "Pauli-Prinzip" müssen sich alle Elektronen eines Atoms in mindestens
 einer Quantenzahl unterscheiden.
 
@@ -418,12 +418,12 @@ einer Quantenzahl unterscheiden.
 Das Aussehen der Orbitale hängt von der Nebenquantenzahl :math:`l` sowie von der
 Magnetquantenzahl :math:`m` ab:
 
-.. index:: 
+.. index::
     single: Orbital; s-Orbital
 
 * Orbitale mit der Nebenquantenzahl :math:`l=0` haben eine kugelförmige
   Raumstruktur. Sie werden aus historischen Gründen auch als
-  ":math:`s`-Orbitale" bezeichnet. 
+  ":math:`s`-Orbitale" bezeichnet.
 
 .. figure::
     ../pics/atomphysik/s-orbital.png
@@ -435,11 +435,11 @@ Magnetquantenzahl :math:`m` ab:
     Raumstruktur des :math:`s`-Orbitals.
 
     .. only:: html
-    
+
         :download:`SVG: s-Orbital
         <../pics/atomphysik/s-orbital.svg>`
 
-.. index:: 
+.. index::
     single: Orbital; p-Orbital
 
 * Orbitale mit der Nebenquantenzahl :math:`l=1` haben eine hantelförmige
@@ -459,11 +459,11 @@ Magnetquantenzahl :math:`m` ab:
     und :math:`p _{\rm{z}}`).
 
     .. only:: html
-    
+
         :download:`SVG: p-Orbitale
         <../pics/atomphysik/p-orbital.svg>`
 
-.. index:: 
+.. index::
     single: Orbital; d-Orbital
 
 * Orbitale mit der Nebenquantenzahl :math:`l=2` haben eine rosettenförmige
@@ -483,11 +483,11 @@ Magnetquantenzahl :math:`m` ab:
     _{\rm{xz}},\, d _{\rm{yz}}, d _{\rm{x^2-y^2}}, d _{\rm{z^2}}`).
 
     .. only:: html
-    
+
         :download:`SVG: d-Orbitale
         <../pics/atomphysik/d-orbitale.svg>`
 
-.. index:: 
+.. index::
     single: Orbital; f-Orbital
 
 * Orbitale mit der Nebenquantenzahl :math:`l=3` haben ebenfalls eine
@@ -502,7 +502,7 @@ bislang jedoch nur Atome beobachten können, die sich mit Hilfe der obigen
 Orbitale beschreiben lassen.
 
 
-.. index:: 
+.. index::
     single: Atommodell; Schalenmodell
 .. _Das Schalenmodell:
 
@@ -521,7 +521,7 @@ Das Schalenmodell geht von folgender Vorstellung aus:
   Atomkern.
 
 * Jede Schale stellt ein bestimmtes Energieniveau dar und kann eine bestimmte
-  Zahl an Elektronen aufnehmen. 
+  Zahl an Elektronen aufnehmen.
 
 Die Hauptquantenzahl :math:`n` gibt -- von innen nach außen gezählt -- die
 Nummer der Schale an. Die maximale Anzahl an Elektronen auf Schale Nummer
@@ -539,26 +539,26 @@ Spin :math:`(s = \pm \frac{1}{2} )` aufnehmen.
     :header-rows: 0
     :name: elektronenverteilung-im-schalenmodell
 
-    * - Nummer der Schale :math:`n` 
+    * - Nummer der Schale :math:`n`
       - Name der Unterschalen
       - Maximale Anzahl an Elektronen (gesamt)
     * - 1
-      - :math:`s` 
+      - :math:`s`
       - 2
     * - 2
-      - :math:`s,\, p` 
+      - :math:`s,\, p`
       - 8
     * - 3
-      - :math:`s,\, p,\, d` 
+      - :math:`s,\, p,\, d`
       - 18
     * - 4
-      - :math:`s,\, p,\, d,\, f` 
+      - :math:`s,\, p,\, d,\, f`
       - 32
     * - 5
-      - :math:`s,\, p,\, d,\, f,\, g` 
+      - :math:`s,\, p,\, d,\, f,\, g`
       - 50
     * - 6
-      - :math:`s,\, p,\, d,\, f,\, g ,\, h` 
+      - :math:`s,\, p,\, d,\, f,\, g ,\, h`
       - 72
 
 Hinzu kommende Elektronen füllen die einzelnen Orbitale eines Atoms nach
@@ -578,7 +578,7 @@ die Schalennummer :math:`n` die Auffüllreihenfolge nicht mehr alleinig bestimmt
     Orbitalenergie der bislang bekannten Atome.
 
     .. only:: html
-    
+
         :download:`SVG: Orbitalenergie
         <../pics/atomphysik/orbitalenergie.svg>`
 
@@ -611,20 +611,20 @@ an Elementen:
 Chemische Bindungen lassen sich somit durch eine insgesamte Optimierung der
 Energiniveaus aller beteiligter Atome, physikalische Effekte wie Lichtemission
 und -Absorbtion durch Sprünge der Elektronen eines Atoms zwischen den
-verschiedenen Energieniveaus erklären. 
+verschiedenen Energieniveaus erklären.
 
 
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
- 
+
     .. rubric:: Anmerkungen:
 
-.. [#]  Bereits `Eugen Goldstein <http://de.wikipedia.org/wiki/Eugen_Goldstein>`_
-        und `William Crookes <http://de.wikipedia.org/wiki/William_Crookes>`_
+.. [#]  Bereits `Eugen Goldstein <https://de.wikipedia.org/wiki/Eugen_Goldstein>`_
+        und `William Crookes <https://de.wikipedia.org/wiki/William_Crookes>`_
         erkannten um das Jahr 1880 herum bei der Untersuchung von
         Gasentladungsröhren den "Teilchencharakter" der Kathodenstrahlen.
 
@@ -633,29 +633,29 @@ verschiedenen Energieniveaus erklären.
         einfache mathematische Reihenformel beschreiben lassen:
 
         .. math::
-            
+
             \frac{1}{\lambda } = R _{\rm{H}} \cdot \left( \frac{1}{4} -
-            \frac{1}{n^2}  \right) 
-        
+            \frac{1}{n^2}  \right)
+
         Hierbei stehen :math:`R _{\rm{H}} = \unit[1,097 \cdot 10^7]{\frac{1}{m}
         }` für die Rydberg-Konstante und :math:`n > 2` für eine ganze Zahl.
 
         Weitere Spektrallinien des Wasserstoffs im nicht sichtbaren Bereich
         wurden später zu Ehren ihrer Entdecker `Lyman
-        <http://de.wikipedia.org/wiki/Theodore_Lyman>`_-Serie (1906), `Paschen
-        <http://de.wikipedia.org/wiki/Friedrich_Paschen_(Physiker)>`_-Serie
+        <https://de.wikipedia.org/wiki/Theodore_Lyman>`_-Serie (1906), `Paschen
+        <https://de.wikipedia.org/wiki/Friedrich_Paschen_(Physiker)>`_-Serie
         (1908) und `Brackett
-        <http://de.wikipedia.org/wiki/Frederick_Sumner_Brackett>`_-Serie (1922)
+        <https://de.wikipedia.org/wiki/Frederick_Sumner_Brackett>`_-Serie (1922)
         genannt.
 
 .. [#]  Sämtliche Spektrallinien des Wasserstoffs lassen sich allgemein nach der
-        folgenden "Balmer-Formel" berechnen: 
+        folgenden "Balmer-Formel" berechnen:
 
         .. math::
-        
+
             \frac{1}{\lambda } = R _{\rm{H}} \cdot \left( \frac{1}{n^2} -
-            \frac{1}{n _{\rm{a}}^2}  \right) 
-    
+            \frac{1}{n _{\rm{a}}^2}  \right)
+
         Hierbei steht :math:`n = 1,2,3, \ldots` für die Elektronenbahn des
         Ausgangszustandes und :math:`n _{\rm{a}} > n` für die Elektronenbahn des
         angeregten Zustands.
@@ -665,4 +665,4 @@ verschiedenen Energieniveaus erklären.
         widersprüchlich erscheint.
 
 .. [#]  Der Welle-Teilchen-Dualismus wurde im Jahr 1924 von `Louis de Broglie
-        <http://de.wikipedia.org/wiki/Louis-Victor_de_Broglie>`_ entdeckt.
+        <https://de.wikipedia.org/wiki/Louis-Victor_de_Broglie>`_ entdeckt.

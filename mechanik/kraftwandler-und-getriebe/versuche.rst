@@ -97,7 +97,7 @@ getestet und geübt werden.
     In einer Holzleiste wird der Mittelpunkt markiert, und von diesem bis zum
     Rand je zehn Schrauben in gleichmäßigen Abständen angebracht. Dann wird
     in die Mitte ein kleines Kugellager eingesetzt und an einer Achse (z.B. an
-    einem Labor-Stativ) drehbar befestigt. 
+    einem Labor-Stativ) drehbar befestigt.
 
     Als Gewichte zum Aufhängen an den Schrauben eignen sich Hakengewichte oder
     gleich große, mit einer passenden Bohrung versehene Rechtecke aus Holz.
@@ -133,7 +133,7 @@ getestet und geübt werden.
 
 .. _Versuche zur schiefen Ebene:
 
-Versuche zur schiefen Ebene 
+Versuche zur schiefen Ebene
 ---------------------------
 
 Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Schiefe Ebene <Schiefe Ebene>`.
@@ -171,10 +171,10 @@ Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Schiefe Ebene <Schi
 
 ----
 
-.. _Versuche zu Flaschenzug und Rollen:
+.. _Versuche zu Flaschenzügen und Rollen:
 
-Versuche zu Flaschenzug und Rollen
-----------------------------------
+Versuche zu Flaschenzügen und Rollen
+------------------------------------
 
 Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Flaschenzüge und
 Rollen <Flaschenzüge und Rollen>`.
@@ -190,8 +190,8 @@ Rollen <Flaschenzüge und Rollen>`.
 .. hlist::
     :columns: 2
 
-    * Zwei runde, stabile Holzstangen (z.B. Besenstile) 
-    * Ein ca. :math:`\unit[4]{m}` langes, zugfestes Seil 
+    * Zwei runde, stabile Holzstangen (z.B. Besenstile)
+    * Ein ca. :math:`\unit[4]{m}` langes, zugfestes Seil
 
 .. figure:: ../../pics/mechanik/kraftwandler-und-getriebe/stangen-flaschenzug.png
     :width: 60%
@@ -202,7 +202,7 @@ Rollen <Flaschenzüge und Rollen>`.
     Das Prinzip eines Flaschenzugs mittels zweier Besen.
 
     .. only:: html
-    
+
         :download:`SVG: Stangen-Flaschenzug
         <../../pics/mechanik/kraftwandler-und-getriebe/stangen-flaschenzug.svg>`
 
@@ -210,9 +210,9 @@ Rollen <Flaschenzüge und Rollen>`.
 
 - Nimm die beiden Holzstangen und winde ein langes Seil insgesamt drei Mal um
   beide Stangen herum. Knote ein Seilende an einer Stange fest, lass das andere
-  Seilende lose über die gleiche Stange hinausragen. 
+  Seilende lose über die gleiche Stange hinausragen.
 - Wer ist "stärker"? Die Person, die am losen Seilende zieht, oder eine Person
-  an einer der beiden Holzstangen? 
+  an einer der beiden Holzstangen?
 - Was passiert, wenn das Seil noch öfters um die beiden Holzstangen gewickelt
   wird? Wie könnten Reibungseffekte verringert werden?
 
@@ -223,7 +223,7 @@ Rollen <Flaschenzüge und Rollen>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Kraftwandler und Getriebe>`

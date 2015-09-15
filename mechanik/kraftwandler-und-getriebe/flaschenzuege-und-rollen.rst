@@ -1,13 +1,13 @@
 
 .. _Flaschenzüge und Rollen:
 
-Flaschenzüge und Rollen 
+Flaschenzüge und Rollen
 =======================
 
 .. index:: Kraftwandler; Feste Rolle
 .. _Feste Rolle:
 
-Die feste Rolle 
+Die feste Rolle
 ---------------
 
 Eine Rolle besteht aus einer Scheibe, entlang deren Umfang sich eine Rille zur
@@ -27,7 +27,7 @@ kann, so bezeichnet man sie als feste Rolle oder Umlenkrolle.
     nicht.
 
     .. only:: html
-    
+
         :download:`SVG: Feste Rolle
         <../../pics/mechanik/kraftwandler-und-getriebe/feste-rolle.svg>`
 
@@ -38,17 +38,17 @@ als Zugkraft genutzt werden. Ein weiterer Vorteil einer festen Rolle besteht
 darin, dass man beim Anheben einer Last nicht unbedingt in Zugrichtung (oberhalb
 der Last) stehen muss, sondern einen günstigeren Standort einnehmen kann.
 
-.. index:: 
+.. index::
     single: Kraftwandler; Lose Rolle
 .. _Lose Rolle:
 
-Die lose Rolle 
+Die lose Rolle
 ---------------
 
 Mit Hilfe einer in einer Seilschlinge hängenden "losen" Rolle kann zwar nicht
 -- wie bei einer festen Rolle -- die Richtung, dafür aber der Betrag der
 aufzubringenden Kraft geändert werden. Hierzu wird ein Ende des Seils an einem
-beliebigen Punkt oberhalb der Last befestigt. 
+beliebigen Punkt oberhalb der Last befestigt.
 
 .. figure:: ../../pics/mechanik/kraftwandler-und-getriebe/lose-rolle.png
     :name: fig-lose-rolle
@@ -60,7 +60,7 @@ beliebigen Punkt oberhalb der Last befestigt.
     Zugkraft wird halbiert, die Richtung der Zugkraft bleibt gleich.
 
     .. only:: html
-    
+
         :download:`SVG: Lose Rolle
         <../../pics/mechanik/kraftwandler-und-getriebe/lose-rolle.svg>`
 
@@ -69,7 +69,7 @@ vernachlässigt werden, so wird durch die lose Rolle der Betrag der nötigen
 Zugkraft halbiert.
 
 
-.. index:: 
+.. index::
     single: Flaschenzug
     single: Kraftwandler; Flaschenzug
 .. _Flaschenzug:
@@ -89,10 +89,10 @@ wird Flaschenzug genannt.
     :width: 35%
 
     Ein Flaschenzug mit zwei tragenden Seilstücken. Der Betrag der
-    Zugkraft wird halbiert, ihre Richtung verändert. 
+    Zugkraft wird halbiert, ihre Richtung verändert.
 
     .. only:: html
-    
+
         :download:`SVG: Flaschenzug
         <../../pics/mechanik/kraftwandler-und-getriebe/flaschenzug.svg>`
 
@@ -109,14 +109,14 @@ Seilstücken ergibt sich folgende Kraftreduzierung:
 
 .. math::
     :label: eqn-flaschenzug
-    
+
     {\color{white}\ldots\quad}F _{\rm{Zug}} = \frac{1}{n} \cdot F _{\rm{G}}
 
 Entsprechend muss jedoch das Zugseil um eine :math:`n`-fache Länge gegenüber der
-Hubhöhe :math:`h` angezogen werden: 
+Hubhöhe :math:`h` angezogen werden:
 
 .. math::
-    
+
     s _{\rm{Zug}} = n \cdot h
 
 
@@ -127,10 +127,10 @@ Hubhöhe :math:`h` angezogen werden:
     :width: 35%
 
     Ein Flaschenzug mit vier tragenden Seilstücken. Der Betrag der Zugkraft
-    entspricht einem Viertel der Gewichtskraft. 
+    entspricht einem Viertel der Gewichtskraft.
 
     .. only:: html
-    
+
         :download:`SVG: Flaschenzug (vierfach)
         <../../pics/mechanik/kraftwandler-und-getriebe/flaschenzug-vierfach.svg>`
 
@@ -141,7 +141,7 @@ für die Wirkungsweise eines Flaschenzugs ohne Bedeutung.
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
     .. rubric:: Anmerkung:
@@ -158,8 +158,8 @@ für die Wirkungsweise eines Flaschenzugs ohne Bedeutung.
 
     <hr />
 
-.. hint:: 
+.. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Flaschenzug und
-    Rollen>` und :ref:`Übungsaufgaben <Aufgaben zu Flaschenzug und Rollen>`.
+    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Flaschenzügen und
+    Rollen>` und :ref:`Übungsaufgaben <Aufgaben zu Flaschenzügen und Rollen>`.
 

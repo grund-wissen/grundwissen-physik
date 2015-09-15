@@ -1,4 +1,4 @@
-.. meta:: 
+.. meta::
     :description: Ein freies Physik-Lehrbuch mit Aufgaben und Lösungen.
     :keywords:  Physik, Grundwissen, Schule, Lehrbuch, Grundwissen Physik, Lehrbuch Physik, Physik Schule, Physik Aufgaben, Freies Lehrbuch
 
@@ -12,7 +12,7 @@ Physik
     Früher hieß "Physik" die Lehre von der ganzen Natur (*physis* = griech. Natur).
     Heute geht es in der Physik um das Studium der unbelebten Natur ohne chemische
     Veränderungen -- Biologie und Chemie haben sich selbst zu großen
-    Wissenschaftsbereichen entwickelt. 
+    Wissenschaftsbereichen entwickelt.
 
     .. sidebar:: Hinweis
 

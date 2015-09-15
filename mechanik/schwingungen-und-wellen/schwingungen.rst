@@ -7,18 +7,18 @@ Mechanische Schwingungen
 Eine Schwingung entspricht allgemein einer zeitlich periodischen Änderung einer
 physikalischen Größe. Mechanische Schwingungen im Speziellen beschreiben
 Vorgänge, bei denen sich ein Körper regelmäßig um eine Gleichgewichtslage
-("Ruhelage") bewegt. 
+("Ruhelage") bewegt.
 
 .. figure:: ../../pics/mechanik/schwingungen-und-wellen/schaukel.png
     :name: fig-schaukel
     :alt:  fig-schaukel
     :align: center
-    :width: 40% 
+    :width: 40%
 
     Das Schaukeln als mechanische Schwingung.
 
     .. only:: html
-    
+
         :download:`SVG: Schaukeln
         <../../pics/mechanik/schwingungen-und-wellen/schaukel.svg>`
 
@@ -31,12 +31,12 @@ Geschwindigkeit :math:`v` und die damit verbundene Lage- und Bewegungsenergie
     :name: fig-pendel
     :alt:  fig-pendel
     :align: center
-    :width: 50% 
+    :width: 50%
 
     Periodische Veränderung physikalischer Größen beim Pendel.
 
     .. only:: html
-    
+
         :download:`SVG: Pendel
         <../../pics/mechanik/schwingungen-und-wellen/pendel.svg>`
 
@@ -50,13 +50,13 @@ Bahn zu verlassen.
     :name: fig-kugel-in-half-pipe
     :alt:  fig-kugel-in-half-pipe
     :align: center
-    :width: 60% 
+    :width: 60%
 
     Eine Kugel in einer "Half-Pipe" erfährt bei Auslenkung eine zur
     Gleichgewichtslage rückwirkende Kraft.
 
     .. only:: html
-    
+
         :download:`SVG: Kugel in Halfpipe
         <../../pics/mechanik/schwingungen-und-wellen/kugel-in-half-pipe.svg>`
 
@@ -80,12 +80,12 @@ jeweiligen Schwinger charakteristischer, periodischer Kurvenverlauf.
     :name: fig-federpendel
     :alt:  fig-federpendel
     :align: center
-    :width: 70% 
+    :width: 70%
 
-    Vertikale Schwingung eines an einer Schraubenfeder aufgehängten Gewichts. 
-    
+    Vertikale Schwingung eines an einer Schraubenfeder aufgehängten Gewichts.
+
     .. only:: html
-    
+
         :download:`SVG: Federpendel
         <../../pics/mechanik/schwingungen-und-wellen/federpendel.svg>`
 
@@ -93,7 +93,7 @@ Hat die Weg-Zeit-Funktion einer Schwingung die Form einer :ref:`Sinus-Funktion
 <gwm:Trigonometrische Funktionen>`, so bezeichnet man die Schwingung als
 harmonisch; andernfalls nennt man sie anharmonisch.
 
-.. index:: Elongation 
+.. index:: Elongation
 
 Jede Schwingung kann durch folgende Größen beschrieben werden:
 
@@ -116,9 +116,9 @@ Zeitdauer :math:`t=T`. Somit gilt:
 
   .. math::
       :label: eqn-frequenz
-      
-      f = \frac{n}{t} = \frac{1}{T} 
-  
+
+      f = \frac{n}{t} = \frac{1}{T}
+
 ..  Umso kürzer die Schwingungsdauer :math:`T` einer Schwingung ist, desto
 ..  schneller laufen die einzelnen Schwingungsvorgänge ab. Entsprechend höher ist
 ..  somit auch die Frequenz.
@@ -127,7 +127,7 @@ Frequenzen werden in der nach `Heinrich Hertz
 <https://de.wikipedia.org/wiki/Heinrich_Hertz>`_ benannten Einheit "Hertz"
 :math:`(\unit[]{Hz})` angegeben. Eine Frequenz von :math:`\unit[1]{Hz} =
 \unit[]{\frac{1}{s} }` bedeutet, dass in einer Sekunde genau ein
-Schwingungsvorgang stattfindet. 
+Schwingungsvorgang stattfindet.
 
 .. index:: Schwingung; gedämpft
 .. _Gedämpfte Schwingungen:
@@ -145,12 +145,12 @@ Amplitude stetig abnimmt, bezeichnet man als gedämpfte Schwingung.
     :name: fig-gedämpfte-schwingung
     :alt:  fig-gedämpfte-schwingung
     :align: center
-    :width: 60% 
+    :width: 60%
 
     Zeitlicher Verlauf einer gedämpften Schwingung.
-    
+
     .. only:: html
-    
+
         :download:`SVG: Gedämpfte Schwingung
         <../../pics/mechanik/schwingungen-und-wellen/gedaempfte-schwingung.svg>`
 
@@ -160,21 +160,21 @@ exponentiell mit der Zeit ab. Für die Amplitude :math:`y` zum Zeitpunkt
 :math:`t` gilt dabei in Abhängigkeit vom Dämpfungsgrad :math:`\delta`:
 
 .. math::
-    
+
     y(t) = y_0 \cdot e ^{- \delta \cdot t}
 
 Ebenfalls möglich ist eine konstante dämpfende Kraft, beispielsweise infolge von
 (Gleit-)Reibung. In diesem Fall ist die Differenz zweier benachbarter Amplituden
 konstant, die Amplitude der Schwingung nimmt somit linear ab.
-    
-..  
+
+..
     Jede Dämpfung bewirkt bei Schwingungen eine Verkleinerung der Frequenz
     beziehungsweise eine Vergrösserung der Schwingungsdauer. In technischen
     Anwendungen, beispielsweise bei Federungen, versucht man üblicherweise,
     Schwingungen möglichst zu vermeiden; das schwingende System soll bestenfalls
     nach einer einmaligen Auslenkung sofort in die Ausgangslage zurückkehren,
     jedoch keine weiteren Schwingungen ausführen. In diesem Fall nennt man die
-    Schwingung aperiodisch. 
+    Schwingung aperiodisch.
 
 
 .. index:: Schwingung; erzwungen
@@ -190,26 +190,26 @@ führt das schwingende System -- nach einer nach einer kurzen Übergangszeit -- 
 genannte "erzwungene" Schwingungen mit der Frequenz :math:`f _{\rm{a}}` des
 anregenden Systems aus.
 
-.. index:: 
+.. index::
     single: Schwingung; resonant
     single: Resonanz
 
 Die Amplitude der angeregten Schwingungen ist von der Erregerfrequenz :math:`f
 _{\rm{E}}` abhängig. Stimmt diese mit der Eigenfrequenz :math:`f_0` des
 angeregten Systems überein, so spricht man von Resonanz. Die Amplitude
-:math:`A` des angeregten Systems wird in diesem Fall maximal. 
+:math:`A` des angeregten Systems wird in diesem Fall maximal.
 
 .. figure:: ../../pics/mechanik/schwingungen-und-wellen/resonanz.png
     :name: fig-resonanz
     :alt:  fig-resonanz
     :align: center
-    :width: 70% 
+    :width: 70%
 
     Amplitude einer erzwungenen Schwingung in Abhängigkeit von der anregenden
     Frequenz. Hellere Kurven kennzeichnen eine schwächere Dämpfung.
-    
+
     .. only:: html
-    
+
         :download:`SVG: Resonanzkurve
         <../../pics/mechanik/schwingungen-und-wellen/resonanz.svg>`
 
@@ -238,5 +238,5 @@ genutzt, teilweise aber auch gezielt vermieden wird:
 Bei Drehbewegungen wird die Resonanzfrequenz als kritische Drehzahl bezeichnet.
 Eine besondere Bedeutung haben Resonanzeffekt zudem in der Akustik,
 beispielsweise wenn mitschwingende Klangkörper eine Verstärkung eines bestimmten
-Tons bewirken sollen. 
+Tons bewirken sollen.
 

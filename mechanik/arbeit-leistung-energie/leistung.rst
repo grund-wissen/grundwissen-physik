@@ -8,17 +8,17 @@ Mechanische Arbeit kann unterschiedlich schnell verrichtet werden. Die
 mechanische Leistung (umgangssprachlich auch "Arbeitstempo" genannt) gibt an,
 wie schnell mechanische Arbeit verrichtet wird.
 
-*Definition:* 
+*Definition:*
 
     Die Leistung :math:`P` ist gleich dem Verhältnis aus der Arbeit :math:`W`
     und der Zeit :math:`t`, in der sie verrichtet wird. [#]_
 
 .. math::
     :label: eqn-leistung
-    
+
     P = \frac{W}{t}
 
-*Einheit:* 
+*Einheit:*
 
     Die Leistung wird (zu Ehren des Ingenieurs `James Watt
     <https://de.wikipedia.org/wiki/James_Watt>`_) in Watt :math:`(\unit[]{W})`
@@ -26,10 +26,10 @@ wie schnell mechanische Arbeit verrichtet wird.
     geleisteten Arbeit von einem Joule:
 
 .. math::
-    
-    \unit[1]{W} = \frac{\unit[1]{J}}{\unit[1]{s}} 
 
-*Beispiele:* 
+    \unit[1]{W} = \frac{\unit[1]{J}}{\unit[1]{s}}
+
+*Beispiele:*
 
 * Zwei Kräne ziehen jeweils eine Palette mit Steinen, die einer Gewichtskraft
   :math:`F _{\rm{G}} = \unit[4\,000]{N}` entspricht, auf ein :math:`\unit[5]{m}` hohes
@@ -37,16 +37,16 @@ wie schnell mechanische Arbeit verrichtet wird.
   _{\rm{1}} = \unit[10]{s}`, der andere Kran benötigt hingegen :math:`t
   _{\rm{2}} = \unit[20]{s}`. Damit können die Leistungen :math:`P _{\rm{1}}` und
   :math:`P _{\rm{2}}` der beiden Kräne berechnet werden:
-  
+
   .. math::
-      
+
       P _{\rm{1}} = \frac{W _{\rm{Hub}}}{t _{\rm{1}} } = \frac{F _{\rm{G}} \cdot h}{t
-      _{\rm{1}} } = \frac{\unit[4\,000]{N} \cdot \unit[5]{m}}{\unit[10]{s}} 
+      _{\rm{1}} } = \frac{\unit[4\,000]{N} \cdot \unit[5]{m}}{\unit[10]{s}}
       = \frac{\unit[20\,000]{J}}{\unit[10]{s}} = \unit[2\,000]{W} \\[5pt]
       P _{\rm{2}} = \frac{W _{\rm{Hub}}}{t _{\rm{2}} } = \frac{F _{\rm{G}} \cdot h}{t
-      _{\rm{2}} } = \frac{\unit[4\,000]{N} \cdot \unit[5]{m}}{\unit[20]{s}} 
+      _{\rm{2}} } = \frac{\unit[4\,000]{N} \cdot \unit[5]{m}}{\unit[20]{s}}
       = \frac{\unit[20\,000]{J}}{\unit[20]{s}} = \unit[1\,000]{W}
-  
+
   Da der erste Kran die Arbeit in der halben Zeit verrichtet, ist seine Leistung
   (sein "Arbeitstempo") doppelt so hoch wie die des zweiten Kranes.
 
@@ -59,30 +59,30 @@ wie schnell mechanische Arbeit verrichtet wird.
     :name: tab-leistungen-in-natur-und-technik
     :widths: 50 50
 
-    * - Spielzeugmotor 
+    * - Spielzeugmotor
       - :math:`\phantom{0}3 \text{ bis } \unit[12]{W}`
-    * - Mensch (Dauerleistung) 
+    * - Mensch (Dauerleistung)
       - :math:`75 \text{ bis } \unit[100]{W}`
     * - Bohrmaschine
       - :math:`300 \text{ bis } \unit[1\,000]{W}`
     * - Motorrad
-      - :math:`\text{Ca. } \unit[15\,000]{W}` 
+      - :math:`\text{Ca. } \unit[15\,000]{W}`
     * - PKW
-      - :math:`\text{Ca. } \unit[55\,000]{W}` 
+      - :math:`\text{Ca. } \unit[55\,000]{W}`
     * - LKW
-      - :math:`\text{Ca. } \unit[250\,000]{W}` 
+      - :math:`\text{Ca. } \unit[250\,000]{W}`
     * - Elektro-Lokomotive
-      - :math:`\text{Ca. } \unit[5\,000\,000]{W}` 
+      - :math:`\text{Ca. } \unit[5\,000\,000]{W}`
     * - Verkehrsflugzeug
-      - :math:`\text{Ca. } \unit[35\,000\,000]{W}` 
+      - :math:`\text{Ca. } \unit[35\,000\,000]{W}`
     * - Passagierschiff
-      - :math:`\text{Ca. } \unit[40\,000\,000]{W}` 
+      - :math:`\text{Ca. } \unit[40\,000\,000]{W}`
     * - Weltraum-Rakete
-      - :math:`\text{Ca. } \unit[75\,000\,000\,000]{W}` 
+      - :math:`\text{Ca. } \unit[75\,000\,000\,000]{W}`
     * - Blitz
-      - :math:`\text{Ca. } \unit[500\,000\,000\,000]{W}` 
+      - :math:`\text{Ca. } \unit[500\,000\,000\,000]{W}`
 
-..  
+..
     D-Zug 1250 kW nach Gascha 61.
 
 
@@ -90,7 +90,7 @@ Große Leistungsmengen werden nach wie vor häufig in Pferdestärken
 :math:`(\unit[]{PS})` anstelle in Kilowatt :math:`(\unit[]{kW})` angegeben.
 
 .. math::
-    
+
     \unit[1]{kW} = \unit[1\,000]{W} \\
     \unit[1]{PS} \approx \unit[735,5]{W}
 
@@ -100,12 +100,12 @@ Leistung :math:`P` gilt damit:
 
 .. math::
     :label: eqn-leistung2
-    
-    P = \frac{F \cdot s}{t} = F \cdot \frac{s}{t} = F \cdot v    
+
+    P = \frac{F \cdot s}{t} = F \cdot \frac{s}{t} = F \cdot v
 
 Gemäß dieser Gleichung ist zum Beispiel eine höhere Leistung nötig, um einen
 Gegenstand bei einer konstant wirkenden Reibung mit höherer Geschwindigkeit zu
-ziehen. 
+ziehen.
 
 .. raw:: html
 
@@ -122,7 +122,7 @@ ziehen.
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu mechanischer
     Leistung>` und :ref:`Übungsaufgaben <Aufgaben zu mechanischer Leistung>`.

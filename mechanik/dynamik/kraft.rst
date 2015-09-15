@@ -20,10 +20,10 @@ diesem Fall heben sich mehrere gleichzeitig wirkende Kräfte in ihrer Wirkung au
 
     Beim Bogenschießen wird die Sehne gespannt und dabei der Bogen elastisch
     verformt. Lässt man die Sehne los, so beschleunigt die Spannkraft des Bogens
-    den Pfeil. 
+    den Pfeil.
 
     .. only:: html
-    
+
         :download:`SVG: Bogenschießen
         <../../pics/mechanik/dynamik/bogenschiessen.svg>`
 
@@ -50,7 +50,7 @@ widersetzen. Ursprünglich hatten `Galileo Galilei
 <https://de.wikipedia.org/wiki/Galileo_Galilei>`_ und Isaac Newton diese
 Gesetzmäßigkeit etwa so formuliert:
 
-.. epigraph:: 
+.. epigraph::
 
     "Jeder Körper verharrt im Zustand der Ruhe oder der gleichförmigen Bewegung,
     solange keine äußeren Kräfte an ihm wirken." [#N1]_
@@ -62,7 +62,7 @@ Gegenstände ohne beschleunigend wirkende Kräfte irgendwann von selbst zu Ruhe
 kommen, liegt an nie völlig vermeidbaren Reibungskräften und am Luftwiderstand.
 Im Weltall allerdings, in dem es aufgrund der Abwesenheit von Materie auch
 keine Reibung gibt, umkreisen die Planeten viele Millionen Jahre lang ihre
-Sonne(n), ohne ihre Geschwindigkeit zu verlieren. 
+Sonne(n), ohne ihre Geschwindigkeit zu verlieren.
 
 Auch das Abbremsen eines Körpers entspricht einer (negativen) Beschleunigung
 und erfordert dementsprechend eine Kraft.
@@ -82,7 +82,7 @@ einer mathematischen Gleichung beschreiben.
     Die Größe einer Kraft :math:`\vec{F}` ist proportional zu der Beschleunigung
     :math:`\vec{a}`, die ein Körper der Masse :math:`m` durch sie erfährt: [#]_
 
-    .. math:: 
+    .. math::
         :label: eqn-kraft
 
         \vec{F} = m \cdot \vec{a}
@@ -90,9 +90,9 @@ einer mathematischen Gleichung beschreiben.
     Die Richtung der Beschleunigung :math:`\vec{a}` stimmt mit der Richtung der
     beschleunigenden Kraft :math:`\vec{F}` überein.
 
-*Einheit:* 
+*Einheit:*
 
-    Die Kraft wird in Newton :math:`(\unit[]{N})`  angegeben: 
+    Die Kraft wird in Newton :math:`(\unit[]{N})`  angegeben:
 
     .. math::
 
@@ -101,7 +101,7 @@ einer mathematischen Gleichung beschreiben.
 *Beispiele:*
 
 * Durch eine Kraft von :math:`\unit[1]{N}` erfährt ein Körper der Masse
-  :math:`\unit[1]{kg}` eine Beschleunigung von :math:`\unit[1]{\frac{m}{s^2} }`. 
+  :math:`\unit[1]{kg}` eine Beschleunigung von :math:`\unit[1]{\frac{m}{s^2} }`.
 
   Dies gilt im Weltall, im Vakuum, und allgemein immer dann, wenn keine
   Reibung auftritt. Durch :ref:`Reibungskräfte <Reibungskraft>` kann die
@@ -124,8 +124,8 @@ usw.) benannt.
     :name: tab-kräfte-in-natur-und-technik
     :widths: 50 50
 
-    * - Kraft 
-      - Betrag der Kraft in :math:`\unit[]{N}` 
+    * - Kraft
+      - Betrag der Kraft in :math:`\unit[]{N}`
     * - Gewichtskraft eines Normalbriefes
       - :math:`0,2`
     * - Gewichtskraft einre Tafel Schokolade
@@ -134,17 +134,17 @@ usw.) benannt.
       - :math:`10`
     * - Gewichtskraft von einem Kilogramm Zucker
       - :math:`10`
-    * - Gewichtskraft eines Menschen 
+    * - Gewichtskraft eines Menschen
       - :math:`\text{ca. } 700`
     * - Zugkraft eines PKW
       - :math:`\text{ca. } 5000`
     * - Zugkraft einer Lokomotive
       - :math:`\text{ca. } 15 000`
     * - Anziehungskraft der Erde auf den Mond
-      - :math:`2 \cdot 10^{20}` 
+      - :math:`2 \cdot 10^{20}`
 
 
-.. index:: 
+.. index::
     single: Kraft; Gegenkraft
     single: Newtonsche Gesetze; Kraft und Gegenkraft
 .. _Kraft und Gegenkraft:
@@ -153,10 +153,10 @@ usw.) benannt.
 
 Zu jeder Kraft gehört eine gleich große Gegenkraft. Kraft und Gegenkraft haben
 entgegengesetzte Richtungen und wirken auf verschiedene Körper ein -- sie
-können sich somit nicht gegenseitig aufheben. 
+können sich somit nicht gegenseitig aufheben.
 
 .. math::
-    
+
     F _{\rm{A \rightarrow B}} = - F _{\rm{B \rightarrow A}}
 
 *Beispiel:*
@@ -172,11 +172,11 @@ können sich somit nicht gegenseitig aufheben.
       :align: center
       :name: fig-kraft-gegenkraft
       :alt:  fig-kraft-gegenkraft
-  
+
       Kraft und Gegenkraft an einem hängenden Gewichtsstück.
-  
+
       .. only:: html
-      
+
           :download:`SVG: Kraft und Gegenkraft.
           <../../pics/mechanik/dynamik/kraft-und-gegenkraft.svg>`
 
@@ -188,7 +188,7 @@ können sich somit nicht gegenseitig aufheben.
   merken.
 
 
-.. index:: 
+.. index::
     single: Kraft; Wirkungslinie
     single: Kraft; Angriffspunkt
 .. _Betrag, Wirkungslinie und Angriffspunkt:
@@ -207,21 +207,21 @@ angreift und in welche Richtung sie wirkt.
     :alt:  fig-kraftvektor
 
     Ein Kraftvektor ist durch seinen Betrag, seine Wirkungslinie und seinen
-    Angriffspunkt eindeutig definiert. 
+    Angriffspunkt eindeutig definiert.
 
     .. only:: html
-    
+
         :download:`SVG: Kraftvektor
         <../../pics/mechanik/dynamik/kraftvektor.svg>`
 
 In Koordinatensystemen und Zeichnungen werden Kräfte meist durch Pfeile
-("Vektoren") dargestellt. Dabei gilt:  
+("Vektoren") dargestellt. Dabei gilt:
 
 * Die Länge des Pfeils gibt in einem bestimmten Maßstab (beispielsweise
   :math:`\unit[1]{N} = \unit[1]{cm}`) den Betrag der Kraft an. Die Wahl des
   Maßstabs ist beliebig, muss aber für alle Kräfte einer Zeichnung gleichermaßen
-  gelten. 
-* Der Anfangspunkt des Pfeils ist gleich dem Angriffspunkt der Kraft. 
+  gelten.
+* Der Anfangspunkt des Pfeils ist gleich dem Angriffspunkt der Kraft.
 * Die Richtung des Pfeils entspricht der Wirkungslinie der Kraft.
 
 Entlang der Wirkungslinie kann der Kraftvektor bei geeigneter Kraftübertragung
@@ -229,7 +229,7 @@ beliebig verschoben werden, ohne dass sich an der physikalischen Wirkung der
 Kraft etwas ändert.
 
 
-.. index:: 
+.. index::
     single: Kraftübertragung
 .. _Kraftübertragung mit Seil, Stange und Kette:
 
@@ -239,8 +239,8 @@ In vielen Fällen ist es nützlich, eine Kraft "aus der Entfernung" wirken zu
 lassen, d.h. ihren Angriffspunkt entlang ihrer Wirkungslinie zu verschieben.
 
 * Mittels Seilen und Ketten lassen sich Zugkräfte auf einen anderen Körper
-  übertragen, 
-* Mittels Stangen -- und bedingt auch mit Drähten -- können sowohl Zugkräfte 
+  übertragen,
+* Mittels Stangen -- und bedingt auch mit Drähten -- können sowohl Zugkräfte
   als auch Druckkräfte auf einen anderen Körper übertragen werden.
 
 In Getrieben werden üblicherweise :ref:`Zahnräder und Zahnstangen <Zahnrad und
@@ -258,7 +258,7 @@ verändern. Je nach Material des Körpers sind Verformungen auf zweierlei Arten
 möglich:
 
 .. index::
-    single: Verformung; elastisch 
+    single: Verformung; elastisch
 
 * *Elastische* Verformung:
 
@@ -284,12 +284,12 @@ möglich:
 
 Es gibt keinen Stoff, der vollkommen elastisch oder vollkommen unelastisch ist.
 Wirken nur geringe Kräfte, so verhält sich z.B. Kupfer elastisch. Bei großen
-Kräften verhält es sich plastisch. 
+Kräften verhält es sich plastisch.
 
 
 .. _Kraftmessung:
 
-Kraftmessung 
+Kraftmessung
 ------------
 
 Zur mechanischen Kraftmessung wird häufig die verformende Wirkung der Kraft
@@ -309,7 +309,7 @@ Federhärten und Skalen, die sich für verschiedene Messbereiche eignen.
     Beispiel eines Federkraftmessers.
 
     .. only:: html
-    
+
         :download:`SVG: Federkraftmesser
         <../../pics/mechanik/dynamik/federkraftmesser.svg>`
 
@@ -318,9 +318,9 @@ Geschwindigkeitsänderung des Körper bestimmen -- hierzu muss allerdings die
 Masse :math:`m` des Körpers bekannt sein. Misst man die Geschwindigkeitsänderung
 :math:`\Delta v` und die dafür benötigte Zeit :math:`\Delta t`, so kann man die
 Beschleunigung :math:`a = \frac{\Delta v}{\Delta t}` berechnen und erhält durch
-Einsetzen in Gleichung :eq:`eqn-kraft` die wirkende Kraft :math:`F`: 
+Einsetzen in Gleichung :eq:`eqn-kraft` die wirkende Kraft :math:`F`:
 
-.. math:: 
+.. math::
 
     F = m \cdot a = m \cdot \frac{\Delta v}{\Delta t}
 
@@ -331,7 +331,7 @@ Einsetzen in Gleichung :eq:`eqn-kraft` die wirkende Kraft :math:`F`:
 Scheinkräfte
 ------------
 
-Mit Hilfe der Newtonschen Gesetze lässt sich die Bewegung eines Körpers 
+Mit Hilfe der Newtonschen Gesetze lässt sich die Bewegung eines Körpers
 in einem ruhenden oder sich mit konstanter Geschwindigkeit geradlinigen
 Bezugsystem hinreichend beschreiben. In einem beschleunigten Bezugsystem sind
 zur Beschreibung von Bewegungen jedoch so genannte "Scheinkräfte" zu
@@ -346,7 +346,7 @@ also für einen außen stehenden Beobachter sich der Zug unter dem sich in
 horizontaler Richtung gleichförmig bewegenden Ball wegbewegt, muss ein
 Beobachter im Zug sich eine der Beschleunigung des Zugs entgegengesetzte Kraft
 auf den Ball hinzu denken, um die Bewegung des Balls richtig vorhersagen
-können. 
+können.
 
 .. index:: Trägheitskraft
 .. _Trägheitskraft:
@@ -354,11 +354,11 @@ können.
 Eine nur in einem beschleunigten Bezugsystem auftretende Kraft wird als
 Scheinkraft bezeichnet. Sie ist gleich dem Produkt aus der Masse :math:`m` des
 beschleunigten Gegenstands und einer zur Beschleunigung des Bezugsystems
-:math:`a` gleich großen, aber in die entgegengesetzte Richtung wirkenden 
+:math:`a` gleich großen, aber in die entgegengesetzte Richtung wirkenden
 Beschleunigung :math:`-a`:
 
 .. math::
-    
+
     \vec{F} _{\rm{Schein}} = - m \cdot a
 
 Eine wichtige Scheinkraft ist die Trägheitskraft :math:`F _{\rm{T}}`, die
@@ -369,7 +369,7 @@ bei einer kreisförmigen Bewegung.
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
     .. rubric:: Anmerkungen:
@@ -380,20 +380,20 @@ bei einer kreisförmigen Bewegung.
     gleich null ist:
 
     .. math::
-        
+
         \sum_{i=1}^{n} \vec{F} _{\rm{i}} = 0 \quad \Longleftrightarrow \quad
-        \vec{v} = \text{konst.}   
+        \vec{v} = \text{konst.}
 
 .. [#] Streng genommen gilt diese Definition nur dann, wenn die Masse
     :math:`m` des Körpers konstant ist. In allgemeiner Form lässt sich die
     Kraft als :ref:`zeitliche Änderung des Impulses <Impuls>` eines
-    Körpers definieren. 
-    
+    Körpers definieren.
+
 .. raw:: html
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Kräften>` und
     :ref:`Übungsaufgaben <Aufgaben zu Kräften>`.

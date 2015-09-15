@@ -15,8 +15,8 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Elektrische Ladung 
 .. _Elektrische-Ladung-01:
 
 *   Warum laden sich beim Reiben zweier Körper stets *beide* Körper elektrisch
-    auf? 
-    
+    auf?
+
     :ref:`Lösung <Elektrische-Ladung-01-Lösung>`
 
 ----
@@ -36,7 +36,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Stromstärke, Spann
 
 * Die Stromquelle eines Stromkreises stellt eine Spannung von :math:`U =
   \unit[5]{V}` bereit. Welchen Widerstand hat der Stromkreis insgesamt, wenn
-  die Stromstärke  :math:`I = \unit[0,2]{A}` beträgt? 
+  die Stromstärke  :math:`I = \unit[0,2]{A}` beträgt?
 
   :ref:`Lösung <Ohmsches-Gesetz-01-Lösung>`
 
@@ -49,7 +49,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Stromstärke, Spann
   \unit[12]{V}` bereit. Wie groß ist dabei der Betrag der Stromstärke?
 
   :ref:`Lösung <Ohmsches-Gesetz-02-Lösung>`
-  
+
 ----
 
 .. _Ohmsches-Gesetz-03:
@@ -105,8 +105,8 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Stromstärke, Spann
   \unit[0,0156]{\Omega \cdot \frac{mm^2}{m} }`. Welchen Widerstand hätte ein
   baugleicher Draht aus Aluminium :math:`(\rho _{\rm{Al}} = \unit[0,0265]{\Omega
   \cdot \frac{mm^2}{m}})` oder Edelstahl :math:`(\rho _{\rm{Edelstahl}} =
-  \unit[0,720]{\Omega \cdot \frac{mm^2}{m}})`? 
-  
+  \unit[0,720]{\Omega \cdot \frac{mm^2}{m}})`?
+
   :ref:`Lösung <Spezifischer-Widerstand-02-Lösung>`
 
 ----
@@ -137,13 +137,13 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Magnetismus <Magnet
 *   Der Nordpol einer Magnetnadel zeigt annähernd zum geographischen Nordpol der
     Erde. Was folgt daraus für den magnetischen Nord- bzw. Südpol der Erde, wenn
     man bedenkt, dass sich gleichnamige Pole abstoßen und ungleichnamige Pole
-    anziehen? 
+    anziehen?
 
     :ref:`Lösung <Magnetfeld-Erde-01-Lösung>`
 
 ----
- 
- 
+
+
 .. _Aufgaben zu elektrischer Arbeit, Energie und Leistung:
 
 Aufgaben zu elektrischer Arbeit, Energie und Leistung
@@ -181,7 +181,7 @@ Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Elektrizität und Magnetismus>`

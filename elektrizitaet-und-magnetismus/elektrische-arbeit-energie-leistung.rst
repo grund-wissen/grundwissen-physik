@@ -3,7 +3,7 @@
 Elektrische Arbeit, Energie und Leistung
 ========================================
 
-.. index:: 
+.. index::
     single: Energieformen; Elektrische Energie
 
 .. _Elektrische Arbeit und Energie:
@@ -12,7 +12,7 @@ Elektrische Arbeit und Energie
 ------------------------------
 
 Zur Bereitstellung einer bestimmten Menge an elektrischer Energie muss durch
-einen Stromgenerator ein entsprechender Betrag an Arbeit aufgewendet werden. 
+einen Stromgenerator ein entsprechender Betrag an Arbeit aufgewendet werden.
 
 Zur Herleitung einer Formel für die elektrische Arbeit :math:`W _{\rm{el}}` kann
 man die Definitionen der elektrischen Spannung :math:`U` und der elektrischen
@@ -20,7 +20,7 @@ Stromstärke :math:`I` miteinander kombinieren. Aus der Definition der
 elektrischen Spannung folgt:
 
 .. math::
-    
+
     U = \frac{W}{Q} \quad \Leftrightarrow \quad W = U \cdot Q
 
 ..  :label: eqn-definition-spannung
@@ -29,7 +29,7 @@ Die Ladung :math:`Q` kann wiederum mit Hilfe der Definition der Stromstärke
 folgendermaßen beschrieben werden:
 
 .. math::
-    
+
     I = \frac{Q}{t} \quad \Leftrightarrow \quad Q = I \cdot t
 
 ..  :label: eqn-definition-stromstärke
@@ -46,7 +46,7 @@ die elektrische Arbeit:
 
 .. math::
     :label: eqn-elektrische-arbeit
-    
+
     W _{\rm{el}} = U \cdot I \cdot t
 
 Die aufgebrachte elektrische Arbeit kann entweder direkt genutzt oder als
@@ -61,14 +61,14 @@ gespeichert werden :math:`(E _{\rm{el}} = W _{\rm{el}})`. [#E1]_
     :math:`(\unit[]{kWh})` angegeben. Dabei gelten folgende Zusammenhänge:
 
 .. math::
-    
+
     \unit[1]{J} &= \unit[1]{W \cdot s} = \unit[1]{V} \cdot \unit[1]{A} \cdot \unit[1]{s} \\
-    \unit[1]{Wh} &= \unit[60 \cdot 60]{W \cdot s} = \unit[3\,600]{Ws} 
+    \unit[1]{Wh} &= \unit[60 \cdot 60]{W \cdot s} = \unit[3\,600]{Ws}
 
 .. math::
-    
+
     \unit[1]{kWh} &= \unit[1\,000]{Wh}
-    
+
 
 .. _Elektrische Leistung:
 
@@ -79,7 +79,7 @@ Die elektrische Leistung, die ein Stromgenerator aufbringt oder ein Verbraucher
 benötigt, ist gleich der je Zeit verrichteten elektrischen Arbeit:
 
 .. math::
-    
+
     P _{\rm{el}} = \frac{W _{\rm{el}}}{t} = \frac{U \cdot I \cdot t}{t} = U
     \cdot I
 
@@ -94,7 +94,7 @@ Damit lässt sich die elektrische Leistung folgendermaßen definieren:
 
 .. math::
     :label: eqn-elektrische-leistung
-    
+
     P _{\rm{el}} = U \cdot I
 
 
@@ -104,7 +104,7 @@ Damit lässt sich die elektrische Leistung folgendermaßen definieren:
     Einheit Watt :math:`(\unit[]{W})` angegeben. Dabei gilt: [#L1]_
 
 .. math::
-    
+
     \unit[1]{W} = \unit[1]{A} \cdot \unit[1]{s}
 
 Auf fast allen Elektro-Geräten findet sich neben der Angabe der zulässigen
@@ -131,13 +131,13 @@ Kraftwerkspark allerdings die Verbraucherlast tragen sowie die sich beim
 Stromtransport ergebenden Leitungsverluste ausgleichen. Bei einer möglichst
 optimalen Zusammenstellung der Gesamtleistung mittels der verschiedenen
 Kraftwerkstypen sind ökologische, ökonomische sowie technische Aspekte
-gleichermaßen von Bedeutung. 
+gleichermaßen von Bedeutung.
 
 
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
     .. rubric:: Anmerkungen:
@@ -150,7 +150,7 @@ gleichermaßen von Bedeutung.
 
 .. [#L1] Für größere Leistungsangaben ist auch die Einheit Kilowatt
         :math:`(\unit[]{kW})` gebräuchlich. Dabei gilt: :math:`\unit[1]{kW} =
-        \unit[1\,000]{W}` 
+        \unit[1\,000]{W}`
 
 .. [#L2] Die jeweils fehlende Angabe kann durch die beiden bekannten Größen
         mittels Gleichung :eq:`eqn-elektrische-leistung` bestimmt werden.
@@ -165,7 +165,7 @@ gleichermaßen von Bedeutung.
 .. only:: html
 
     .. rubric:: Download:
-    
+
     Hier kann die Handreichung zum Vortrag :download:`Ökologisch sinnvolle
     Stromerzeugung (2011, PDF, 10 Seiten)
     <oekologisch-sinnvolle-stromerzeugung.pdf>` heruntergeladen werden.
@@ -174,7 +174,7 @@ gleichermaßen von Bedeutung.
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu elektrischer
     Arbeit, Energie und Leistung>`.

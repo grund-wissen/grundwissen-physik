@@ -16,7 +16,7 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 .. _Kugeln auf der Murmelbahn:
 
-.. rubric:: Kugeln auf der Murmelbahn 
+.. rubric:: Kugeln auf der Murmelbahn
 
 *Material:*
 
@@ -39,24 +39,24 @@ Bewegungen <Geradlinige Bewegungen>`.
     :alt:  fig-murmelbahn-gerade
 
     Laufzeiten einer Kugel auf einer geraden Murmelbahn.
-    
+
     .. only:: html
-    
+
         :download:`SVG: Murmelbahn (gerade)
         <../../pics/mechanik/kinematik/murmelbahn-gerade.svg>`
 
 *Durchführung:*
 
 - Verbinde beide Holzleisten mit dem Steckverbinder. Baue die Murmelbahn mittels
-  geeigneter Unterlagen so auf, dass sie leicht schräg verläuft (ca. 30^{\circ})
-  und keinen Knick aufweist. Positioniere die Auffang-Box am unteren Ende der
-  Murmelbahn.
+  geeigneter Unterlagen so auf, dass sie leicht schräg verläuft (ca.
+  :math:`30\degree`) und keinen Knick aufweist. Positioniere die Auffang-Box am
+  unteren Ende der Murmelbahn.
 - Lasse eine Murmel die ganze Strecke der Murmelbahn hinunter rollen. Stoppe die
   dafür benötigte Zeit :math:`t` und notiere den Messwert in der Tabelle.
 - Wiederhole den Versuch mit unterschiedlich schweren Kugeln. Notiere die
   jeweils benötigten Zeiten ebenfalls in der Messtabelle.
 - Wiederhole den Versuch, indem du die Kugeln aus halber Höhe bzw. aus einem
-  Viertel der Höhe starten lässt. 
+  Viertel der Höhe starten lässt.
 - Vergleiche die Zeiten miteinander, welche die Kugeln zum Durchlaufen der
   jeweiligen Streckenlängen benötigt haben. Was stellst Du dabei fest?
 - Lockere die Steckverbindung. Baue die Murmelbahn durch geeignete Unterlagen
@@ -66,7 +66,7 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 
 .. .. _Versuche zu kreisförmigen Bewegungen:
-.. 
+..
 .. Versuche zu kreisförmigen Bewegungen
 .. ------------------------------------
 
@@ -78,7 +78,7 @@ Bewegungen <Geradlinige Bewegungen>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Kinematik>`

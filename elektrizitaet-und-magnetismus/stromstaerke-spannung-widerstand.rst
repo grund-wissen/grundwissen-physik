@@ -1,5 +1,5 @@
 
-.. _Stromstärke, Spannung und Widerstand: 
+.. _Stromstärke, Spannung und Widerstand:
 
 Stromstärke, Spannung und Widerstand
 ====================================
@@ -21,15 +21,15 @@ Bedingungen erfüllt sein:
     Elektronenbewegung ("Wärmebewegung") ein geordneter Elektronenstrom.
 
     .. only:: html
-    
+
         :download:`SVG: Strom und Spannung (Elektronenmodell)
         <../pics/elektrizitaet-magnetismus/spannung-elektronenmodell.svg>`
 
-*Modell:* 
+*Modell:*
 
     Ähnlich wie Wasser durch eine Pumpe in Bewegung versetzt werden kann, lassen
     sich Elektronen durch Stromquellen ("Elektronenpumpen") in Bewegung
-    versetzen. 
+    versetzen.
 
 Während Wasser mit einer Wasserpumpe in eine Wasserleitung gepresst
 wird, erzeugt eine Stromquelle (Batterie oder Generator) an einem ihrer Pole
@@ -46,7 +46,7 @@ Ein elektrischer Strom tritt auf, wenn sich elektrische Ladungen bewegen. Die
 elektrische Stromstärke ist ein Maß dafür, welche Menge an elektrischer Ladung
 in einer bestimmten Zeit durch einen Körper fließt.
 
-*Modell:* 
+*Modell:*
 
     Wird ein Wasserhahn aufgedreht, so beginnt Wasser zu fließen. Umso weiter
     der Wasserhahn aufgedreht wird, desto mehr Wasser strömt in einer bestimmten
@@ -62,7 +62,7 @@ in einer bestimmten Zeit durch einen Körper fließt.
     Die Wasserstromstärke als Modell für die elektrische Stromstärke.
 
     .. only:: html
-    
+
         :download:`SVG: Wasserstromstärke
         <../pics/elektrizitaet-magnetismus/wasserstromstaerke.svg>`
 
@@ -73,7 +73,7 @@ Stromstärke. So wie die maximale Wassermenge, die in einer Wasserleitung fließ
 kann, von dem Durchmesser des Wasserrohres abhängt, so kann in einem dickeren
 Stromleiter ein stärkerer Strom fließen als in einem dünnen.
 
-*Definition:* 
+*Definition:*
 
     Die elektrische Stromstärke :math:`I` ist gleich der Menge an elektrischer
     Ladung :math:`Q`, die in einer Zeit :math:`t` transportiert wird:
@@ -83,7 +83,7 @@ Stromleiter ein stärkerer Strom fließen als in einem dünnen.
 
     I = \frac{Q}{t}
 
-*Einheit:* 
+*Einheit:*
 
     Die elektrische Stromstärke wird in Ampere :math:`(\unit[]{A})` angegeben.
     Eine Stromstärke von 1 Ampere bedeutet, dass an jeder Stelle im Leiter je
@@ -96,7 +96,7 @@ Stromleiter ein stärkerer Strom fließen als in einem dünnen.
 
     * - Elektronisches Gerät
       - Stromstärke in Ampere
-    * - Elektrische Armbanduhr 
+    * - Elektrische Armbanduhr
       - :math:`0,000\,1`
     * - Glimmlampe, Kopfhörer
       - :math:`0,001`
@@ -163,11 +163,11 @@ Spannung als Ursache. Elektrische Spannung wiederum ist das Ergebnis einer
 :ref:`Ladungstrennung`, beispielsweise einer Erhöhung der Konzentration an
 Elektronen an einer Stelle gegenüber einer anderen Stelle.
 
-*Modell:* 
+*Modell:*
 
     In einem Wassertank hängt der Druck, der auf den Wasserhahn ausgeübt wird,
     ausschließlich von der Füllhöhe im Tank ab: Umso höher der Behälter gefüllt
-    wurde, desto höher ist der Wasserdruck am unteren Ende. 
+    wurde, desto höher ist der Wasserdruck am unteren Ende.
 
 .. figure::
     ../pics/elektrizitaet-magnetismus/wasserdruck-spannung.png
@@ -179,7 +179,7 @@ Elektronen an einer Stelle gegenüber einer anderen Stelle.
     Der Druck einer Wassersäule als Modell für die elektrische Spannung.
 
     .. only:: html
-    
+
         :download:`SVG: Wasserdruck und Spannung
         <../pics/elektrizitaet-magnetismus/wasserdruck-spannung.svg>`
 
@@ -189,7 +189,7 @@ einer Stelle verdichtet werden, d.h. je mehr Arbeit bei der Ladungstrennung
 investiert wird, desto steiler ist das Konzentrationsgefälle an elektrischer
 Ladung und damit die elektrische Spannung.
 
-*Definition:* 
+*Definition:*
 
     Die elektrische Spannung :math:`U` ist gleich der Menge an Arbeit :math:`W`,
     die bei der Ladungstrennung auf eine Ladungsmenge :math:`Q` aufgewendet
@@ -197,10 +197,10 @@ Ladung und damit die elektrische Spannung.
 
 .. math::
     :label: eqn-spannung
-    
-    U = \frac{W}{Q} 
 
-*Einheit:* 
+    U = \frac{W}{Q}
+
+*Einheit:*
 
     Die elektrische Spannung wird in Volt :math:`(\unit[]{V})` angegeben. Eine
     Spannung von :math:`\unit[1]{Volt}` bedeutet, dass für je
@@ -211,25 +211,25 @@ Ladung und damit die elektrische Spannung.
     :widths: 50 50
     :header-rows: 0
 
-    * - Elektronisches Gerät   
+    * - Elektronisches Gerät
       - Spannung in Volt
     * - Zink-Kohle-Batterie (je Zelle)
       - :math:`1,5`
-    * - Fahrrad-Dynamo         
+    * - Fahrrad-Dynamo
       - :math:`6`
-    * - Autobatterie           
+    * - Autobatterie
       - :math:`12 \text{ bis } 24`
-    * - Netzspannung           
+    * - Netzspannung
       - :math:`230`
-    * - Generator in Kraftwerk 
+    * - Generator in Kraftwerk
       - :math:`\text{ca. } 10\,000`
-    * - Hochspannung           
+    * - Hochspannung
       - :math:`\text{bis } 380\,000`
-    * - Blitz                  
+    * - Blitz
       - :math:`\text{bis } 100\,000\,000`
 
 
-.. index:: 
+.. index::
     single: Spannung (elektrisch); Gleichspannung
 .. _Gleichspannung:
 
@@ -249,10 +249,10 @@ Ladungsausgleich zu bewirken.
     :name: fig-wasserpumpe-gleichstromquelle
     :alt:  fig-wasserpumpe-gleichstromquelle
 
-    Eine Wasserpumpe als Modell für eine Gleichstromquelle. 
+    Eine Wasserpumpe als Modell für eine Gleichstromquelle.
 
     .. only:: html
-    
+
         :download:`SVG: Wasserpumpe -- Gleichstromquelle
         <../pics/elektrizitaet-magnetismus/wasserpumpe-gleichstromquelle.svg>`
 
@@ -273,12 +273,12 @@ Resultat ist in diesem Fall ein so genannter "pulsierender Gleichstrom".
     "pulsierenden" :math:`\unit[230]{V}`-Gleichspannung.
 
     .. only:: html
-    
+
         :download:`SVG: Gleichspannung
         <../pics/elektrizitaet-magnetismus/diagramm-gleichspannung.svg>`
 
 
-.. index:: 
+.. index::
     single: Spannung (elektrisch); Wechselspannung
 .. _Wechselspannung:
 
@@ -300,7 +300,7 @@ wechselt und daher als Wechselspannung bezeichnet wird.
     Diagramm einer :math:`\unit[230]{V}`-Wechselspannung.
 
     .. only:: html
-    
+
         :download:`SVG: Wechselspannung
         <../pics/elektrizitaet-magnetismus/diagramm-wechselspannung.svg>`
 
@@ -313,8 +313,8 @@ sinusförmigen Wechselspannung lässt sich allgemein nach folgender Formel
 berechnen: [#]_
 
 .. math::
-    
-    U _{\rm{eff}} = \frac{U _{\rm{max}}}{\sqrt{2}} 
+
+    U _{\rm{eff}} = \frac{U _{\rm{max}}}{\sqrt{2}}
 
 Die Frequenz der Wechselspannung im Stromnetz beträgt :math:`f=\unit[50]{Hz}`,
 d.h. in einer Sekunde durchläuft die Wechselspannung 50 Perioden. Hieraus ergibt
@@ -345,7 +345,7 @@ schlechte Leiter dadurch schneller als gute Leiter, zum anderen muss an ihnen
 eine höhere elektrische Spannung angelegt werden, um den gleichen Stromfluss zu
 erreichen.
 
-*Definition:* 
+*Definition:*
 
     Unter dem elektrischen Widerstand :math:`R` eines Stromkreises versteht man
     das Verhältnis der Spannung :math:`U` zwischen den Enden eines Leiters zur
@@ -353,13 +353,13 @@ erreichen.
 
 .. math::
     :label: eqn-elektrischer-widerstand
-    
-    R = \frac{U}{I} 
+
+    R = \frac{U}{I}
 
 In gleicher Form lässt sich auch der elektrische Widerstand einzelner Bauteile
 angegeben.
 
-*Einheit:* 
+*Einheit:*
 
     Der elektrische Widerstand wird in Ohm :math:`\unit[]{(\Omega )}` angegeben.
     Ein elektrischer Widerstand von :math:`R= \unit[1]{\Omega }` bedeutet, dass
@@ -367,7 +367,7 @@ angegeben.
     Stromstärke von :math:`I = \unit[1]{A}`  zu erreichen:
 
 .. math::
-    
+
     \unit[1]{Ohm} = \unit[1]{\frac{Volt}{Ampere}}
 
 
@@ -385,7 +385,7 @@ auch heute noch die Widerstandsgleichung :eq:`eqn-elektrischer-widerstand` als
 
 .. math::
     :label: eqn-ohmsches-gesetz
-    
+
     U = R \cdot I
 
 Das Ohmsche Gesetz :eq:`eqn-ohmsches-gesetz` ist in seiner Gültigkeit auf
@@ -399,7 +399,7 @@ Neben den beiden bisher genannten Formen :eq:`eqn-elektrischer-widerstand` und
 Spannung auch folgendermaßen angegeben werden:
 
 .. math::
-    
+
     I = \frac{1}{R} \cdot U
 
 Bei einer höheren Spannung ist somit auch die Stromstärke höher, die durch einen
@@ -419,13 +419,13 @@ verläuft, desto niedriger der Widerstandswert :math:`R` ist.
     Widerstandswerten (Ohmsches Gesetz).
 
     .. only:: html
-    
+
         :download:`SVG: Ohmsches Gesetz
         <../pics/elektrizitaet-magnetismus/diagramm-ohmsches-gesetz.svg>`
 
 
 
-.. index:: 
+.. index::
     single: Widerstand; Spezifischer Widerstand
 .. _Spezifischer Widerstand:
 
@@ -437,7 +437,7 @@ besitzen einen unterschiedlichen spezifischen Widerstand :math:`\rho`. Je
 kleiner der spezifische Widerstand eines Materials ist, desto besser leitet es
 den elektrischen Strom.
 
-*Definition:* 
+*Definition:*
 
     Bei einem Körper aus homogenem Stoff, beispielsweise einem Metalldraht,
     hängt der Widerstand bei einer bestimmten Temperatur vom Material, von
@@ -446,21 +446,21 @@ den elektrischen Strom.
 
 .. math::
     :label: eqn-spezifischer-widerstand
-    
-    R = \rho \cdot \frac{l}{A} 
 
-*Einheit:* 
+    R = \rho \cdot \frac{l}{A}
+
+*Einheit:*
 
     Aus der Definition :eq:`eqn-spezifischer-widerstand` ergibt sich für den
     spezifischen Widerstand :math:`\rho` die Einheit :math:`\unit[]{\Omega \cdot
-    \frac{m^2}{m}}`. 
-    
+    \frac{m^2}{m}}`.
+
     Da die meisten Bauteile und Leitungen eine wesentlich
     geringere Querschnittsfläche als :math:`\unit[1]{m^2}` besitzen,
-    ist auch folgende Einheit üblich: 
+    ist auch folgende Einheit üblich:
 
     .. math::
-        
+
         \unit[1]{\Omega \cdot \frac{mm^2}{m} } =  \unit[10^{-6}]{\Omega \cdot
         \frac{m^2}{m} } = \unit[10^{-6}]{\Omega \cdot m}
 
@@ -468,14 +468,14 @@ den elektrischen Strom.
 
 *   Ein :math:`l = \unit[1]{m}` langer Kupferdraht :math:`(\rho _{\rm{Cu}} =
     \unit[0,0156]{\Omega \cdot \frac{mm^2}{m} } )` mit einer Querschnittsfläche
-    von :math:`\unit[1]{mm^2}` hat einen elektrischen Widerstand von 
+    von :math:`\unit[1]{mm^2}` hat einen elektrischen Widerstand von
 
     .. math::
-        
+
         R = \rho _{\rm{Cu}} \cdot \frac{l}{A} = \unit[0,0156]{\Omega \cdot
         \frac{mm^2}{m} } \cdot \frac{\unit[1]{m}}{\unit[1]{mm^2}} =
         \unit[0,0156]{\Omega }
-    
+
     Würde man den Drahtdurchmesser um den Faktor :math:`1000` von
     :math:`\unit[1]{mm}` auf :math:`\unit[1]{m}` erhöhen, so ergäbe sich eine
     um :math:`1000 \cdot 1000 = 1\,000\,000` größere Querschnittsfläche und
@@ -483,20 +483,20 @@ den elektrischen Strom.
 
 *   Ein :math:`\unit[4]{mm^2}` dicker und :math:`\unit[30]{mm} = \unit[0,03]{m}`
     langer Stab aus Edelstahl :math:`(\rho _{\rm{V2A}} = \unit[0,720]{\Omega
-    \cdot \frac{mm^2}{m} })` hat einen elektrischen Widerstand von 
-    
+    \cdot \frac{mm^2}{m} })` hat einen elektrischen Widerstand von
+
     .. math::
-        
+
         R = \rho _{\rm{V2A}} \cdot \frac{l}{A} = \unit[0,720]{\Omega \cdot
         \frac{mm^2}{m} } \cdot \frac{\unit[0,03]{m}}{\unit[4]{mm^2}} =
         \unit[0,0054]{\Omega }
-    
+
 .. list-table:: Widerstände von Metalldrähten :math:`(l\!=\!\unit[1]{m}`,
                 :math:`A\!=\!\unit[1]{mm^2})`
     :name: tab-spezifischer-widerstand-metalldrähte
     :widths: 100 50
 
-    * - Kupfer 
+    * - Kupfer
       - :math:`\unit[0,0156]{\Omega }`
     * - Silber
       - :math:`\unit[0,0151]{\Omega }`
@@ -519,7 +519,7 @@ Halbleiter und Isolatoren einteilen.
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
     .. rubric:: Anmerkung:
@@ -532,7 +532,7 @@ Halbleiter und Isolatoren einteilen.
         bezeichnet.
 
 .. [#]  Im englischen Sprachbereich wird Wechselstrom als "alternating
-        current" (AC) bezeichnet. 
+        current" (AC) bezeichnet.
 
 .. [#]  Diese Werte gelten für das europäische Stromnetz. In Nordamerika
         beispielsweise beträgt die Effektivspannung im Stromnetz
@@ -541,10 +541,10 @@ Halbleiter und Isolatoren einteilen.
 .. [#]  Da :math:`\sqrt{2} \approx 1,41` ist, kann man sich als praktische
         Faustregel merken, dass der Spitzenwert einer Wechselspannung stets um
         das :math:`1,41`-fache höher liegt als ihr Effektivwert.
-        
+
 .. [#]  In Halbleiter-Bauteilen (z.B. :ref:`Dioden <gwe:Diode>`,
         :ref:`Transistoren <gwe:Transistor>`, usw.) ist der Zusammenhang
-        zwischen Stromstärke und Spannung nicht linear; vielmehr ist in 
+        zwischen Stromstärke und Spannung nicht linear; vielmehr ist in
         diesen Bauteile erst ab einer bestimmten Spannung ein Stromfluss
         möglich, der bei einer weiteren Erhöhung der Spannung
         überproportional ansteigt (Abbildung :ref:`Kennlinie einer Diode
@@ -553,14 +553,14 @@ Halbleiter und Isolatoren einteilen.
         Das Ohmsche Gesetz kann in solchen Fällen (näherungsweise) genutzt
         werden, wenn die Widerstandswerte in Abhängigkeit von der Stromstärke
         oder Spannung bekannt sind, d.h. als Diagramm oder in tabellarischer
-        Form für bestimmte Werte vorliegen. 
+        Form für bestimmte Werte vorliegen.
 
 .. raw:: html
 
     <hr />
 
-.. hint:: 
-    
+.. hint::
+
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Stromstärke,
     Spannung und Widerstand>` und :ref:`Übungsaufgaben <Aufgaben zu Stromstärke,
     Spannung und Widerstand>`.

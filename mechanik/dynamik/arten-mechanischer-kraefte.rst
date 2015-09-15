@@ -8,7 +8,7 @@ Neben der Muskel- und der Motorkraft ist bei mechanischen Prozessen das
 Zusammenspiel der folgenden Kräfte von entscheidender Bedeutung.
 
 
-.. index:: 
+.. index::
     single: Kraftarten; Gewichtskraft
 .. _Gewichtskraft:
 
@@ -16,7 +16,7 @@ Die Gewichtskraft
 -----------------
 
 Die Gewichtskraft eines Körpers ist die Kraft, mit der er von der Erde angezogen
-wird. 
+wird.
 
 .. figure:: ../../pics/mechanik/dynamik/gewichtskraft-erde.png
     :name: fig-gewichtskraft
@@ -24,14 +24,14 @@ wird.
     :align: center
     :width: 50%
 
-    Die Richtung der Gewichtskraft auf der Erde. 
+    Die Richtung der Gewichtskraft auf der Erde.
 
     .. only:: html
-    
+
         :download:`SVG: Gewichtskraft auf der Erde
         <../../pics/mechanik/dynamik/gewichtskraft-erde.svg>`
 
-Je größer die Masse eines Körpers ist, desto stärker wird er von der Erde 
+Je größer die Masse eines Körpers ist, desto stärker wird er von der Erde
 angezogen. Gleichzeitig ist bei einer größeren Masse eine größere Kraft
 nötig, um sie zu beschleunigen. Ohne Luftwiderstand werden daher alle Körper
 im freien Fall gleich schnell zum Erdmittelpunkt hin beschleunigt.
@@ -39,7 +39,7 @@ im freien Fall gleich schnell zum Erdmittelpunkt hin beschleunigt.
 .. index:: Ortsfaktor
 .. _Ortsfaktor:
 
-*Formel:* 
+*Formel:*
 
     Der Wert der Gewichtskraft :math:`F _{\rm{G}}`, die ein
     Körper der Masse :math:`m` durch die Anziehungskraft eines Planeten
@@ -47,7 +47,7 @@ im freien Fall gleich schnell zum Erdmittelpunkt hin beschleunigt.
 
 .. math::
     :label: eqn-gewichtskraft
-        
+
     \vec{F}_{\rm{G}} = m \cdot \vec{g}
 
 
@@ -60,26 +60,26 @@ Gravitationsgesetz ableiten lässt, näherungsweise :math:`g = |\vec{g}| =
 *Beispiele:*
 
 * Ein Körper der Masse :math:`\unit[1]{kg}` hat auf der Erde eine
-  Gewichtskraft von 
+  Gewichtskraft von
 
   .. math::
-      
+
       F_{\rm{G, Erde}} = m \cdot g = \unit[1]{kg} \cdot
       \unit[9,81]{\frac{N}{kg}} = \unit[9,81]{N}
 
 * Ein Körper der Masse :math:`\unit[50]{kg}` hat auf der Erde eine
-  Gewichtskraft von 
+  Gewichtskraft von
 
   .. math::
-      
+
       F _{\rm{G, Erde}} = \unit[50]{kg} \cdot \unit[9,81]{\frac{N}{kg}} =
       \unit[490,5]{N}
 
 Das Gewicht eines Körpers ist nicht an allen Stellen auf der Erde exakt
-gleich, sondern hängt vom Ort ab, an dem sich der Körper befindet: 
+gleich, sondern hängt vom Ort ab, an dem sich der Körper befindet:
 
 * Auf einem hohen Berg hat ein Körper ein etwas geringeres Gewicht
-  als in Höhe des Meeresspiegels. 
+  als in Höhe des Meeresspiegels.
 * An verschiedenen Stellen der Erde hat jeder Körper -- da die Erde keine
   ideale Kugelgestalt hat, sondern zu den Polen hin etwas "abgeflacht" ist
   -- ebenfalls ein geringfügig unterschiedliches Gewicht. Im Vergleich zu
@@ -90,11 +90,11 @@ gleich, sondern hängt vom Ort ab, an dem sich der Körper befindet:
   schwerer ein Planet ist, desto größer ist die Anziehungskraft, die er
   auf andere Massen ausübt.
 
-.. list-table:: 
+.. list-table::
     :name: tab-ortsfaktoren
     :widths: 40 40
 
-    * - Ort 
+    * - Ort
       - Ortsfaktor in :math:`\unit[]{\frac{N}{kg}}`
     * - Äquator
       - :math:`9,78`
@@ -112,24 +112,24 @@ gleich, sondern hängt vom Ort ab, an dem sich der Körper befindet:
       - :math:`8,5`
     * - Mars
       - :math:`3,8`
-    * - Jupiter 
+    * - Jupiter
       - :math:`26`
     * - Sonne
       - :math:`274`
 
 Auf dem Mond hat ein Körper der Masse :math:`\unit[1]{kg}` eine
-Gewichtskraft von 
+Gewichtskraft von
 
 .. math::
-      
+
    F_{\rm{G, Mond}} = \unit[1]{kg} \cdot
    \unit[1,62]{\frac{N}{kg}} = \unit[1,62]{N}
 
 Auf der Sonne erfährt ein Körper der Masse :math:`\unit[1]{kg}` eine
-Gewichtskraft von 
+Gewichtskraft von
 
 .. math::
-      
+
    F_{\rm{G, Mond}} = \unit[1]{kg} \cdot \unit[274]{\frac{N}{kg}} =
    \unit[274]{N}
 
@@ -137,7 +137,7 @@ Körper haben überall im Universum somit zwar die gleiche Masse, aber nicht
 das gleiche Gewicht.
 
 
-.. index:: 
+.. index::
     single: Reibung
     single: Kraftarten ; Reibungskraft
 .. _Reibungskraft:
@@ -174,16 +174,16 @@ stärkere Haftreibungskraft entgegen.
     :width: 80%
 
     Stark vergrößerte Darstellung der Oberfläche von gleitenden Körpern
-    und Modelldarstellung der Haftreibung. 
+    und Modelldarstellung der Haftreibung.
 
     .. only:: html
-    
+
         :download:`SVG: Haftreibung
         <../../pics/mechanik/dynamik/haftreibung.svg>`
 
 Je stärker zwei Körper aneinander gepresst sind, desto stärker ist die
 maximale Haftreibung  (als anschauliches Beispiel kann man zwei Bürsten
-ineinander stecken und versuchen sie gegeneinander zu bewegen). 
+ineinander stecken und versuchen sie gegeneinander zu bewegen).
 
 *Formel:*
 
@@ -192,7 +192,7 @@ ineinander stecken und versuchen sie gegeneinander zu bewegen).
     Normalkraft :math:`F _{\perp}`, die beide Körper aneinander presst
 
 .. math::
-  
+
     F _{\rm{R,Haft,max.}} = \mu _{\rm{H}} \cdot F _{\perp}
 
 .. _Haftreibungszahl:
@@ -202,13 +202,13 @@ und hängt vom Stoff und von der Oberflächenbeschaffenheit der Körper ab. Ist 
 angreifende Kraft größer als die maximale Haftreibungskraft, so beginnt der
 Körper zu gleiten.
 
-.. list-table:: Haft- und Gleitreibungszahlen einiger Stoffe 
+.. list-table:: Haft- und Gleitreibungszahlen einiger Stoffe
     :name: tab-reibungszahlen
     :widths: 50 50 50
 
-    * - Stoffpaar 
-      - Haftreibungszahl :math:`\mu _{\rm{H}}` 
-      - Gleitreibungszahl :math:`\mu _{\rm{H}}` 
+    * - Stoffpaar
+      - Haftreibungszahl :math:`\mu _{\rm{H}}`
+      - Gleitreibungszahl :math:`\mu _{\rm{H}}`
     * - Holz auf Holz
       - :math:`0,5 \text{ bis } 0,6`
       - :math:`0,2 \text{ bis } 0,4`
@@ -230,7 +230,7 @@ Körper zu gleiten.
 
 .. Tipler: Autoreifen auf Beton trocken 1,0 bzw. 0,8.
 
-.. index:: 
+.. index::
     single: Reibung; Gleitreibung
     single: Gleitreibung
 .. _Gleitreibung:
@@ -239,7 +239,7 @@ Körper zu gleiten.
 
 Bewegen sich zwei Körper gegeneinander, so schlittern die rauhen Oberflächen
 übereinander hinweg. Sie können sich -- anders als bei der Haftreibung -- nicht
-völlig ineinander verhaken. 
+völlig ineinander verhaken.
 
 .. figure:: ../../pics/mechanik/dynamik/gleitreibung.png
     :name: fig-gleitreibung
@@ -247,10 +247,10 @@ völlig ineinander verhaken.
     :align: center
     :width: 33%
 
-    Modelldarstellung der Gleitreibung. 
-  
+    Modelldarstellung der Gleitreibung.
+
     .. only:: html
-    
+
         :download:`SVG: Gleitreibung
         <../../pics/mechanik/dynamik/gleitreibung.svg>`
 
@@ -258,11 +258,11 @@ völlig ineinander verhaken.
 
     Die Gleitreibungskraft :math:`F _{\rm{R,Gleit}}` hängt -- wie auch die
     Haftreibungskraft -- von der zusammenpressenden Gewichts- oder Normalkraft
-    :math:`F _{\perp}` und der Oberflächenbeschaffenheit der Körper ab: 
+    :math:`F _{\perp}` und der Oberflächenbeschaffenheit der Körper ab:
 
 .. math::
-  
-    F _{\rm{R,Gleit}} = \mu _{\rm{G}} \cdot F _{\perp} 
+
+    F _{\rm{R,Gleit}} = \mu _{\rm{G}} \cdot F _{\perp}
 
 Die Gleitreibungszahl :math:`\mu _{\rm{G}}` ist dabei stets kleiner als die
 `Haftreibungszahl`_ :math:`\mu _{\rm{H}}`.
@@ -286,10 +286,10 @@ Gleitreibungskraft.
     :width: 80%
 
     Stark vergrößerte Darstellung eines auf einer Unterlage abrollenden
-    Rades und Modellvorstellung der Rollreibung. 
-  
+    Rades und Modellvorstellung der Rollreibung.
+
     .. only:: html
-    
+
         :download:`SVG: Rollreibung
         <../../pics/mechanik/dynamik/rollreibung.svg>`
 
@@ -298,13 +298,13 @@ Um unerwünschte Reibungskräfte zu verringern, verwendet man Schmiermittel
 ausgefüllt, so dass sich die Unebenheiten der Körper nicht mehr so störend
 auswirken.
 
-.. list-table:: Rollreibungszahlen einiger Stoffe 
+.. list-table:: Rollreibungszahlen einiger Stoffe
     :name: tab-rollreibung
     :widths: 50 50
 
     * - Stoffpaar
-      - Rollreibungszahl :math:`\mu _{\rm{R}}` 
-    * - Eisen auf Eisen 
+      - Rollreibungszahl :math:`\mu _{\rm{R}}`
+    * - Eisen auf Eisen
       - :math:`\text{ ca. } 0,005`
     * - Kugeln im Kugellager
       - :math:`\text{ ca. } 0,001`
@@ -313,7 +313,7 @@ In sehr vielen Fällen ist die Reibungskraft allerdings unbedingt notwendig.
 Ohne Reibungskräfte zwischen den Rädern von Fahrzeugen und der Straße
 wäre eine gezielte Fortbewegung unmöglich, die Räder würden durchdrehen.
 Um den Rädern eine gute Straßenlage zu geben, sind die Reifen aus
-Spezialgummi und mit Profilen versehen. 
+Spezialgummi und mit Profilen versehen.
 
 .. _Strömungswiderstand:
 
@@ -333,14 +333,14 @@ Beispielsweise gilt für die Luftwiderstandskraft :math:`F _{\rm{L}}`
 näherungsweise folgende Formel: [#LW]_
 
 .. math::
-    
+
     F _{\rm{L}} = \frac{1}{2} \cdot c _{\rm{w}} \cdot A \cdot \rho \cdot v^2
 
 Bei üblichen Straßenfahrzeugen kann der Widerstandsbeiwert im optimalen Falle
-:math:`0,09` betragen, bei Omnibusssen sind Werte bis zu :math:`0,6` üblich. 
+:math:`0,09` betragen, bei Omnibusssen sind Werte bis zu :math:`0,6` üblich.
 
 ..  Typische :math:`c _{\rm{w}}`-Werte für verschiedene Körperformen sind in Tabelle
-..  aufgelistet. 
+..  aufgelistet.
 
 Die Dichte der Luft beträgt unter Normalbedingungen :math:`\rho _{\rm{Luft}} =
 \unit[1,29]{kg/m^3}`. Für die Berechnung der Wasserwiderstandkraft muss mit der
@@ -348,7 +348,7 @@ entsprechend höheren Dichte von Wasser :math:`(\rho _{\rm{Wasser}} =
 \unit[1000]{kg/m^3})` gerechnet werden.
 
 
-.. index:: 
+.. index::
     single: Kraftarten; Spannkraft
 .. _Spannkraft:
 
@@ -357,7 +357,7 @@ Die Spannkraft
 
 Drückt man einen elastischen Körper, z.B. eine Schraubenfeder, zusammen oder
 zieht ihn auseinander, so wirkt in der Feder eine jeweils entgegengesetzte
-Kraft, die sie wieder auf ihre ursprüngliche Länge zurück zu formen versucht. 
+Kraft, die sie wieder auf ihre ursprüngliche Länge zurück zu formen versucht.
 
 *Formel:*
 
@@ -367,7 +367,7 @@ Kraft, die sie wieder auf ihre ursprüngliche Länge zurück zu formen versucht.
 
 .. math::
   :label: eqn-spannkraft
-  
+
   \vec{F}_{\rm{S}} = - D \cdot \vec{s}
 
 Die Federkonstante :math:`D` ist dabei von der Form und dem Material der Feder
@@ -380,14 +380,14 @@ Das Minuszeichen in Gleichung :eq:`eqn-spannkraft` bedeutet, dass die Richtung d
 Auslenkung der Feder :math:`s` von ihrer Ruhelage der Richtung der Federkraft
 entgegengesetzt ist. Gleichung :eq:`eqn-spannkraft` wird zu Ehren ihres
 Entdeckers, `Robert Hooke <https://de.wikipedia.org/wiki/Robert_Hooke>`_, auch
-als "Hookesches Gesetz" bezeichnet. 
+als "Hookesches Gesetz" bezeichnet.
 
 
-.. index:: 
+.. index::
     single: Kraftarten; Radialkraft
     single: Radialkraft
-    single: Zentripetalkraft 
-    single: Zentrifugalkraft 
+    single: Zentripetalkraft
+    single: Zentrifugalkraft
 .. _Radialkraft:
 
 Die Radialkraft
@@ -397,11 +397,11 @@ Ein Körper bewegt sich aufgrund seiner Masse stets entlang einer geradlinigen
 Bahn, wenn keine Kraft auf ihn einwirkt. Eine :ref:`kreisförmige Bewegung
 <Kreisförmige Bewegung>` ist somit nur möglich, wenn eine Kraft den Körper auf
 der Kreisbahn hält, d.h. ihn kontinuierlich zum Kreismittelpunkt hin
-beschleunigt. Diese Kraft wird Radialkraft bzw. Zentripetalkraft genannt. 
+beschleunigt. Diese Kraft wird Radialkraft bzw. Zentripetalkraft genannt.
 
-..  
+..
     Pic: Kreis Bahngeschwindigkeit links links oben, zeigt nach rechts oben,
-    Radialbeschleunigung zur Mitte 
+    Radialbeschleunigung zur Mitte
 
 Für den Betrag der Radialkraft gilt ebenfalls das :ref:`Kraftgesetz
 <Kraftgesetz>` :math:`F = m \cdot a`. Mit der :ref:`Radialbeschleunigung
@@ -409,9 +409,9 @@ Für den Betrag der Radialkraft gilt ebenfalls das :ref:`Kraftgesetz
 :math:`F _{\rm{rad}}`:
 
 .. math::
-    
-    F _{\rm{rad}} = m \cdot \frac{v^2}{r} 
-    
+
+    F _{\rm{rad}} = m \cdot \frac{v^2}{r}
+
 Befindet man sich als Beobachter selbst auf einer Kreisbahn, so nimmt man
 hingegen die entsprechende Gegenkraft ("Zentrifugalkraft") wahr. Sitzt man
 beispielsweise in einem Fahrzeug, das nach links lenkt, so scheint eine Kraft zu
@@ -427,9 +427,9 @@ Kreisbahn gezwungen.
     :width: 70%
 
     Modell einer einfachen Zentrifuge.
-  
+
     .. only:: html
-    
+
         :download:`SVG: Zentrifuge
         <../../pics/mechanik/dynamik/zentrifuge.svg>`
 
@@ -443,7 +443,7 @@ Gefäßes ab. Diese Schichtung bleibt auch nach einem Abschalten der Zentrifuge
 bestehen, da letztlich nichts anderes als ein Sedimentationsvorgang
 stattgefunden hat -- nur ein sehr schneller. Die durch die Radialkraft bewirkte
 Radialbeschleunigung kann mit Zentrifugen bzw. Ultrazentrifugen ein :math:`100`-
-bis :math:`250\,000`-faches der Erdbeschleunigung :math:`g` betragen. 
+bis :math:`250\,000`-faches der Erdbeschleunigung :math:`g` betragen.
 
 ..  Damit lassen sich auch hochmolekulare Stoffe (beispielsweise Eiweiße)
 ..  auftrennen.
@@ -470,7 +470,7 @@ bis :math:`250\,000`-faches der Erdbeschleunigung :math:`g` betragen.
     Schwerpunkten abhängig:
 
      .. math::
-         
+
          F _{\rm{G}} = \gamma \cdot \frac{m_1 \cdot m_2}{r^2}
 
     Dabei ist :math:`\gamma = \unit[6,67 \cdot 10^{-11}]{\frac{m^3}{kg \cdot s^2}}`
@@ -483,17 +483,17 @@ bis :math:`250\,000`-faches der Erdbeschleunigung :math:`g` betragen.
     definiert werden:
 
     .. math::
-        
+
         g = \gamma \cdot \frac{m_2}{r _{\rm{E}}^2} \approx \unit[9,81]{m/s^2}
-    
+
     Für die Gewichtskraft eines Körpers :math:`m` auf der Erde gilt damit in
     guter Näherung:
 
     .. math::
-        
+
         F _{\rm{G}} = \gamma \cdot \frac{m \cdot m _{\rm{E}}}{r _{\rm{E}}^2}
         \approx m \cdot g
-    
+
 .. [#LW] Treten zusätzlich Luftverwirbelungen ("turbulente Strömungen") auf, so
     lässt sich der Luftwiderstand nicht mit Hilfe einer einzelnen Formel
     berechnen, sondern erfordert aufwendige Computer-Simulationen und numerische
@@ -504,7 +504,7 @@ bis :math:`250\,000`-faches der Erdbeschleunigung :math:`g` betragen.
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Arten mechanischer
     Kräfte>` und :ref:`Übungsaufgaben <Aufgaben zu Arten mechanischer Kräfte>`.

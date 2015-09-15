@@ -14,14 +14,14 @@ keine Materie übertragen.
 *Beispiele:*
 
 * Seilwellen entstehen, wenn ein Seil periodisch in Querrichtung hin- und
-  herbewegt wird. 
+  herbewegt wird.
 
 * Schallwellen entstehen durch schnelle Schwingungen eines elastischen Körpers,
   beispielsweise einer Lautsprechermembran oder einer Stimmgabel.
 
 * Wasserwellen entstehen meist dadurch, dass Wind über die ansonsten glatte
   Wasseroberfläche streift. Die Wasseroberfläche hebt und senkt sich dadurch in
-  periodischen Abständen. 
+  periodischen Abständen.
 
 In Diagrammen wird bei Wellen -- anders als Schwingungen -- meistens nicht der
 zeitliche, sondern der räumliche Verlauf dargestellt. Fällt ein Stein ins
@@ -36,19 +36,19 @@ andernfalls nennt man sie anharmonisch (beispielsweise Wasserwellen).
     :name: fig-formen-mechanischer-wellen
     :alt:  fig-formen-mechanischer-wellen
     :align: center
-    :width: 75% 
+    :width: 75%
 
     Formen mechanischer Wellen: Seilwelle, Wasserwelle und Luftwelle (Schall).
 
     .. only:: html
-  
+
         :download:`SVG: Formen mechanischer Wellen
-        <../../pics/mechanik/schwingungen-und-wellen/formen-mechanischer-wellen.svg>` 
+        <../../pics/mechanik/schwingungen-und-wellen/formen-mechanischer-wellen.svg>`
 
 
 .. rubric:: Längswellen und Querwellen
 
-Allgemein werden Wellen in so genannte Längs- und Querwellen unterteilt: 
+Allgemein werden Wellen in so genannte Längs- und Querwellen unterteilt:
 
 * Bei Längswellen verlaufen die Schwingungen parallel zur Ausbreitungsrichtung
   der Welle. Dies ist beispielsweise bei Druck- oder Schallwellen in Luft der
@@ -75,7 +75,7 @@ Zusätzlich sind zwei weitere Begriffe für die Beschreibung von Wellen nützlic
 
 * Alle Punkte, die vom Ausgangspunkt einer Welle den jeweils gleichen zeitlichen
   Abstand haben, werden "Wellenfront" genannt. Bei periodischen Wellen haben
-  alle Punkte einer Wellenfront den gleichen Schwingungszustand ("Phase"). 
+  alle Punkte einer Wellenfront den gleichen Schwingungszustand ("Phase").
 
 * Die so genannte Wellenlänge :math:`\lambda` gibt die räumliche Periode einer
   Welle an, das heißt den räumlichen Abstand zweier Wellenfronten. Die
@@ -88,15 +88,15 @@ Zusätzlich sind zwei weitere Begriffe für die Beschreibung von Wellen nützlic
     :name: fig-wellenfront-und-ausbreitungsrichtung
     :alt:  fig-wellenfront-und-ausbreitungsrichtung
     :align: center
-    :width: 75% 
+    :width: 75%
 
     Wellenfronten und Ausbreitungsrichtungen bei linearen und kreisförmigen
     Wellen.
 
     .. only:: html
-  
+
         :download:`SVG: Wellenfronten und Ausbreitungsrichtungen
-        <../../pics/mechanik/schwingungen-und-wellen/wellenfront-und-ausbreitungsrichtung.svg>` 
+        <../../pics/mechanik/schwingungen-und-wellen/wellenfront-und-ausbreitungsrichtung.svg>`
 
 Die Geschwindigkeit, mit der sich die einzelnen Wellenfronten ausbreiten, wird
 als Ausbreitungs- oder Phasengeschwindigkeit :math:`v` der Welle bezeichnet.
@@ -109,7 +109,7 @@ Zusammenhang:
 
 .. math::
     :label: eqn-frequenz-und-wellenlaenge
-    
+
     v = \lambda \cdot f
 
 Anschaulich kann man sich diese Gleichung vorstellen, wenn man sich die
@@ -117,7 +117,7 @@ Wellenfronten unterschiedlicher Frequenz als zwei gemeinsam wandernde
 Spaziergänger mit unterschiedlicher Schrittlänge vorstellt. Da sich beide mit
 der gleichen Geschwindigkeit :math:`v = \text{konst.}` fortbewegen, muss der
 Spaziergänger mit der kürzeren Schrittlänge eine entsprechend höhere
-Schrittfrequenz haben. 
+Schrittfrequenz haben.
 
 In der Akustik breiten sich entsprechend alle Schallwellen mit unterschiedlicher
 Frequenz (Tonhöhe) in den meisten Materialien gleich schnell aus, in der Optik
@@ -135,26 +135,26 @@ zugehörige fehlende Größe berechnen:
   einem Brummen von alten Lautsprechern) hat folgende Wellenlänge:
 
   .. math::
-      
+
       v _{\rm{Schall}} = \lambda \cdot f \quad \Leftrightarrow \quad \lambda =
       \frac{v _{\rm{Schall}}}{f} =
       \frac{\unit[330]{\frac{m}{s}}}{\unit[100]{\frac{1}{s}}} = \unit[3,3]{m}
-      {\color{white}\qquad \qquad \qquad \qquad \quad  1} 
+      {\color{white}\qquad \qquad \qquad \qquad \quad  1}
 
   Die Frequenzen von hörbarem Schall liegen etwa zwischen :math:`\unit[20]{Hz}`
   und :math:`\unit[20]{kHz}`; dies entspricht Wellenlängen von
-  :math:`\unit[16,5]{m}` bis rund :math:`\unit[2]{cm}`. 
+  :math:`\unit[16,5]{m}` bis rund :math:`\unit[2]{cm}`.
 
 * Eine Lichtwelle mit einer Wellenlänge von :math:`\unit[500]{nm} = \unit[500
   \cdot 10 ^{-9}]{m}` hat folgende Frequenz:
 
   .. math::
-      
+
       v _{\rm{Licht}} = \lambda \cdot f \quad \Leftrightarrow \quad f = \frac{v
       _{\rm{Licht}}}{\lambda} = \frac{\unit[\;\;\;3 \cdot 10
       ^{+8}]{\frac{m}{s}}}{\unit[500 \cdot 10 ^{-9}]{m}} = \unit[600 \cdot 10
       ^{12}]{\frac{1}{s}} = \unit[600]{THz}
-      
+
   Die Wellenlängen von sichtbarem Licht liegen zwischen etwa
   :math:`\unit[380]{nm}` und :math:`\unit[780]{nm}`; dies entspricht Frequenzen
   von etwa :math:`\unit[789]{THz}` bis :math:`\unit[384]{THz}`.
@@ -173,7 +173,7 @@ Wellen können sich, ohne sich gegenseitig zu stören, zu einer resultierenden
 Welle überlagern. Sind die Frequenzen und Amplituden der einzelnen Schwingungen
 Wellen bekannt, so kann man daraus die resultierende Welle bestimmen.
 
-..  
+..
     Die Ausbreitungsgeschwindigkeit einer Welle ist die Geschwindigkeit, mit der
     sich ein Schwingungszustand im Raum ausbreitet.
 
@@ -186,15 +186,15 @@ der einzelnen Wellen abhängig.
     :name: fig-ueberlagerung-gleiche-frequenz
     :alt:  fig-ueberlagerung-gleiche-frequenz
     :align: center
-    :width: 95% 
+    :width: 95%
 
     Überlagerung zweier sinusförmiger Wellen gleicher Frequenz und gleichen bzw.
-    unterschiedlichen Amplituden. 
+    unterschiedlichen Amplituden.
 
     .. only:: html
-  
-        :download:`SVG: Überlagerung (gleiche Frequenz) 
-        <../../pics/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-gleicher-frequenz.svg>` 
+
+        :download:`SVG: Überlagerung (gleiche Frequenz)
+        <../../pics/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-gleicher-frequenz.svg>`
 
 Überlagern sich zwei sinusförmige Wellen mit gleicher Ausbreitungsrichtung, aber
 unterschiedlicher Frequenz, so entsteht eine nicht-sinusförmige Welle. Die
@@ -205,17 +205,17 @@ einzelnen Wellen abhängig.
     :name: fig-ueberlagerung-unterschiedliche-frequenz
     :alt:  fig-ueberlagerung-unterschiedliche-frequenz
     :align: center
-    :width: 95% 
+    :width: 95%
 
     Überlagerung zweier sinusförmiger Wellen unterschiedlicher Frequenz und gleichen bzw.
-    unterschiedlichen Amplituden. 
+    unterschiedlichen Amplituden.
 
     .. only:: html
-  
-        :download:`SVG: Überlagerung (unterschiedliche Frequenz) 
-        <../../pics/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-unterschiedlicher-frequenz.svg>` 
 
-.. index:: Schwebung 
+        :download:`SVG: Überlagerung (unterschiedliche Frequenz)
+        <../../pics/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-unterschiedlicher-frequenz.svg>`
+
+.. index:: Schwebung
 
 Unterscheiden sich zwei Wellen mit gleicher Phase und gleicher Amplitude nur
 geringfügig in ihrer Frequenz, so ergibt sich bei der Überlagerung beider Wellen
@@ -228,15 +228,15 @@ Amplitude schwankt.
     :name: fig-ueberlagerung-schwebung
     :alt:  fig-ueberlagerung-schwebung
     :align: center
-    :width: 60% 
+    :width: 60%
 
-    Überlagerung zweier sinusförmiger Wellen geringfügig unterschiedlicher Frequenz 
+    Überlagerung zweier sinusförmiger Wellen geringfügig unterschiedlicher Frequenz
     (Schwebung).
 
     .. only:: html
-  
-        :download:`SVG: Überlagerung (Schwebung) 
-        <../../pics/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.svg>` 
+
+        :download:`SVG: Überlagerung (Schwebung)
+        <../../pics/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.svg>`
 
 
 Interferenz-Effekte
@@ -244,12 +244,12 @@ Interferenz-Effekte
 
 Treffen an einer Stelle zwei oder mehrere Wellen aus unterschiedlichen
 Richtungen aufeinander, so findet dort wiederum eine Überlagerung der einzelnen
-Wellenamplituden statt: 
+Wellenamplituden statt:
 
 * Haben die einzelnen Wellen eine gleiche momentane Auslenkung (beide in
   positive oder beide in negative Auslenkungsrichtung), so überlagern sich die
   Wellen "konstruktiv", das heißt die resultierende Amplitude ist größer als
-  die Amplituden der einzelnen Wellen. 
+  die Amplituden der einzelnen Wellen.
 * Haben die einzelnen Wellen hingegen unterschiedliche Auslenkungsrichtungen, so
   überlagern sich die Wellen "destruktiv"; die resultierende Amplitude ist
   hierbei geringer als die Beträge der einzelnen Amplituden. Auch eine völlige
@@ -261,13 +261,13 @@ Wellenamplituden statt:
         :name: fig-interferenz-zweier-wellen
         :alt:  fig-interferenz-zweier-wellen
         :align: center
-        :width: 70% 
+        :width: 70%
 
         Interferenz zweier Wellen mit gleich großer Amplitude und entgegengesetzt
         gleich großer Ausbreitungsgeschwindigkeit :math:`v`.
 
         :download:`SVG: Interferenz zweier Wellen
-        <../../pics/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.svg>` 
+        <../../pics/mechanik/schwingungen-und-wellen/interferenz-zweier-wellen.svg>`
 
 .. only:: latex
 
@@ -275,7 +275,7 @@ Wellenamplituden statt:
         :name: fig-interferenz-zweier-wellen-tex
         :alt:  fig-interferenz-zweier-wellen-tex
         :align: center
-        :width: 45% 
+        :width: 45%
 
         Interferenz zweier Wellen mit gleich großer Amplitude und entgegengesetzt
         gleich großer Ausbreitungsgeschwindigkeit :math:`v`.
@@ -294,7 +294,7 @@ reflektiert und läuft mit gleicher Ausbreitungsgeschwindigkeit in die
 entgegengesetzte Richtung. Dabei kann sich die reflektierte mit weiteren Wellen,
 die sich noch in der ursprünglichen Richtung bewegen, überlagern.
 
-... to be continued ... :-) 
+... to be continued ... :-)
 
 ..  Huygensches Prinzip der Elementarwellen: Jeder von einer Wellenbewegung erfasste
 ..  Punkt eines Mediums kann selbst als Ausgangspunkt einer neuen Welle

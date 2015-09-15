@@ -25,23 +25,23 @@ physikalische Größe "Energie" beschrieben.
 *Einheit:*
 
     Die Energie wird in der gleichen Einheit wie die Arbeit, d.h. in Joule
-    :math:`(\unit[]{J})` angegeben. 
+    :math:`(\unit[]{J})` angegeben.
 
 .. math::
-    
+
     \unit[1]{J} = \unit[1]{N } \cdot \unit[1]{m} = \unit[1]{W \cdot s}
 
 Zur Beschreibung großer Energiemengen werden häufig die Einheiten Kilojoule
 :math:`(\unit[1]{kJ} = \unit[1\,000]{J})` und Megajoule :math:`(\unit[1]{MJ} =
 \unit[1\,000\,000]{J})` genutzt. Darüber hinaus werden Energiemengen anhand des
 Zusammenhangs "Energie ist Leistung mal Zeit" oftmals auch in (Kilo-)Wattstunden
-angegeben. 
+angegeben.
 
 .. math::
-    
+
     \unit[1]{Wh} = \unit[1]{W} \cdot
     \unit[3\,600]{s} &= \unit[3\,600]{W \cdot s} = \unit[3\,600]{J} \\[4pt]
-    \unit[1]{kWh} &= \unit[1\,000]{Wh} 
+    \unit[1]{kWh} &= \unit[1\,000]{Wh}
 
 ..  Energie ist die Fähigkeit, Arbeit zu verrichten.
 
@@ -54,7 +54,7 @@ Arten mechanischer Energie
 
 Bei mechanischen Prozessen treten folgende Arten mechanischer Energie auf: [#]_
 
-.. index:: 
+.. index::
     single: Energieformen; Potentielle Energie ("Höhenenergie")
     single: Potentielle Energie
 .. _Potentielle Energie:
@@ -76,7 +76,7 @@ werden kann.
 
 .. math::
     :label: eqn-potentielle-energie
-    
+
     E _{\rm{pot}} = F _{\rm{G}} \cdot h = m \cdot g \cdot h
 
 Hierbei steht :math:`g` für den :ref:`Ortsfaktor <Ortsfaktor>`. Auf der
@@ -89,7 +89,7 @@ Höhenenergie als gegenüber der Meereshöhe. Bei Rechnungen legt man daher ein
 Null-Niveau fest, auf das man dann die einzelnen potentiellen Energien bezieht.
 [#]_
 
-.. index:: 
+.. index::
     single: Energieformen; Spannenergie
     single: Spannenergie
 .. _Spannenergie:
@@ -112,15 +112,15 @@ eines Flummis, usw.
 
 .. math::
     :label: eqn-spannenergie
-    
+
     E _{\rm{Spann}} = \bar{F} _{\rm{S}} \cdot s = \frac{1}{2} \cdot D
     \cdot s^2
 
 Die gespeicherte Spannenergie nimmt somit, solange es sich sich um einen
 elastischen Prozess handelt, quadratisch mit der Verformung des Körpers zu.
 
-.. index:: 
-    single: Energieformen; Kinetische Energie ("Bewegungsenergie") 
+.. index::
+    single: Energieformen; Kinetische Energie ("Bewegungsenergie")
     single: Kinetische Energie
 .. _Kinetische Energie:
 
@@ -140,18 +140,18 @@ Körper gespeichert.
 
 .. math::
     :label: eqn-bewegungsenergie
-    
+
     E _{\rm{B}} = \frac{1}{2} \cdot m \cdot v^2
 
 Die Bewegungsenergie eines Körpers nimmt somit quadratisch mit seiner
 Geschwindigkeit zu.
 
-.. index:: 
+.. index::
     single: Energieformen; Rotationsenergie
     single: Rotationsenergie
 .. _Rotationsnergie:
 
-.. rubric:: Die Rotationsenergie 
+.. rubric:: Die Rotationsenergie
 
 Um einen Körper auf eine bestimmte Winkelgeschwindigkeit :math:`\omega` zu
 bringen, muss die :ref:`Rotationsarbeit <Rotationsarbeit>` :math:`W
@@ -166,7 +166,7 @@ Körper gespeichert.
 
 .. math::
     :label: eqn-rotationsarbeit
-    
+
     E _{\rm{rot}} = \frac{1}{2} \cdot J \cdot \omega^2
 
 
@@ -174,12 +174,12 @@ Die kinetische Gesamtenergie eines rollenden Körpers ist gleich der Summe seine
 Bewegungsenergie und seiner Rotationsenergie:
 
 .. math::
-    
+
     E _{\rm{kin,ges}} = E _{\rm{B}} + E _{\rm{Rot}} = \frac{1}{2} \cdot m \cdot
     v^2 + \frac{1}{2} \cdot J \cdot \omega^2
 
 
-.. index:: 
+.. index::
     single: Energie; Energie-Erhaltung
 .. _Energieerhaltungssatz:
 
@@ -187,13 +187,13 @@ Der Energieerhaltungssatz
 -------------------------
 
 Bei rein mechanischen Vorgängen bleibt die Summe der mechanischen Energien
-(Höhenenergie, Bewegungsenergie und Spannenergie) konstant. 
+(Höhenenergie, Bewegungsenergie und Spannenergie) konstant.
 
 
-.. epigraph:: 
+.. epigraph::
 
     | "Energie kann weder erzeugt noch vernichtet,
-    | sondern stets nur von einer Form in andere 
+    | sondern stets nur von einer Form in andere
     | umgewandelt werden."
 
 
@@ -224,7 +224,7 @@ Reibungseffekte auf, die mechanische Energie in Wärme umwandeln. [#]_
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu mechanischer Energie>` und
     :ref:`Übungsaufgaben <Aufgaben zu mechanischer Energie>`.

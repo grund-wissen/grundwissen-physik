@@ -19,7 +19,7 @@ Bewegungen>`.
 ----
 
 .. _Bewegung-01-Lösung:
-    
+
 * Je nach Betrachtungsweise sind zwei Aussagen möglich:
 
   1. Der Fahrgast ändert, genauso wie der Zug, seine Lage gegenüber dem
@@ -36,10 +36,10 @@ Bewegungen>`.
   beschrieben werden, ist frei und ändert nichts an den physikalischen
   Gesetzmäßigkeiten. Wir nehmen beispielsweise gerne auf der Erde 'ruhende'
   Objekte als feste Bezugspunkte an, obwohl sich die Erde selbst mit ca.
-  :math:`\unit[30]{km/s}` um die Sonne bewegt! 
-  
+  :math:`\unit[30]{km/s}` um die Sonne bewegt!
+
   :ref:`Zurück zur Aufgabe <Bewegung-01>`
-    
+
 ----
 
 .. _Geschwindigkeit-01-Lösung:
@@ -49,13 +49,13 @@ Bewegungen>`.
   bekannt. Eingesetzt ergibt sich:
 
   .. math::
-      
-      v = \frac{s}{t} = \frac{\unit[36]{m} }{\unit[6]{s} } = \unit[6]{\frac{m}{s} } 
+
+      v = \frac{s}{t} = \frac{\unit[36]{m} }{\unit[6]{s} } = \unit[6]{\frac{m}{s} }
 
   Die Geschwindigkeit des Radfahrers beträgt somit :math:`\unit[6]{m/s}`.
 
   :ref:`Zurück zur Aufgabe <Geschwindigkeit-01>`
-    
+
 ----
 
 .. _Geschwindigkeit-02-Lösung:
@@ -66,13 +66,13 @@ Bewegungen>`.
   Eingesetzt ergibt sich:
 
   .. math::
-    
+
       \bar{v} = \frac{s}{t} = \frac{\unit[10]{km}}{\unit[0,5]{h}} =
       \unit[20]{\frac{km}{h} }
 
   Die Durchschnittsgeschwindigkeit des Läufers beträgt somit
-  :math:`\unit[20]{km/h}`. 
-  
+  :math:`\unit[20]{km/h}`.
+
   :ref:`Zurück zur Aufgabe <Geschwindigkeit-02>`
 
 ----
@@ -87,10 +87,10 @@ Bewegungen>`.
   ]{h}`. Daraus folgt:
 
   .. math::
-    
+
       \bar{v} = \frac{s}{t} = \frac{\unit[0,1]{km}}{\unit[\frac{9,58}{60 \cdot
       60}]{h}} = \unit[\frac{0,1}{0,002661} ]{\frac{km}{h} } \approx
-      \unit[37,58]{\frac{km}{h} } 
+      \unit[37,58]{\frac{km}{h} }
 
   Der Läufer hatte somit eine Durchschnittsgeschwindigkeit von rund
   :math:`\unit[37,6]{km/h}`.
@@ -107,7 +107,7 @@ Bewegungen>`.
   Somit ergibt sich:
 
   .. math::
-    
+
       \bar{v} = \frac{s}{t} = \frac{\unit[245]{km}}{\unit[3,5]{h}} =
       \unit[70]{\frac{km}{h} }
 
@@ -125,14 +125,14 @@ Bewegungen>`.
   :math:`\unit[]{m/s}` umrechnen:
 
   .. math::
-      
+
       \unit[1]{\frac{km}{h} } = \unit[\frac{1}{3,6} ]{\frac{m}{s} }
-  
+
   .. math::
-      
+
       v = \unit[108]{\frac{km}{h} } = \unit[\frac{108}{3,6} ]{\frac{m}{s} } =
       \unit[30]{\frac{m}{s} }
-  
+
   Die Geschwindigkeit :math:`v = \unit[108]{km/h}` des Fahrzeugs entspricht
   somit einer Geschwindigkeit von :math:`v= \unit[30]{m/s}`; in einer Sekunde
   legt das Auto somit :math:`\unit[30]{m}` zurück. Die Strecke, die das
@@ -151,21 +151,21 @@ Bewegungen>`.
   Zeit :math:`t` aufgelöst werden:
 
   .. math::
-      
-      v = \frac{s}{t} \qquad \Leftrightarrow \qquad t = \frac{s}{v} 
-  
+
+      v = \frac{s}{t} \qquad \Leftrightarrow \qquad t = \frac{s}{v}
+
   Die Strecke, die das Licht von der Sonne bis zur Erde zurücklegt, beträgt
   :math:`s = \unit[150\,000\,000]{km}`. Die Geschwindigkeit des Lichts liegt bei
   :math:`\unit[300 000]{\frac{km}{s} }`. Eingesetzt ergibt sich:
 
   .. math::
-      
+
       t = \frac{s}{v}  =
       \frac{\unit[150\,000\,000]{km}}{\unit[300\,000]{\frac{km}{s} }} =
       \unit[500]{s}= \unit[8]{min} \, \unit[20]{s}
 
   .. \unit[500]{s}= \unit[8 \nicefrac{1}{3}]{min}
-  
+
   Das Licht benötigt für seinen Weg zur Erde somit etwas mehr als :math:`8` Minuten.
 
   :ref:`Zurück zur Aufgabe <Geschwindigkeit-06>`
@@ -183,18 +183,18 @@ Bewegungen>`.
   einsetzen:
 
   .. math::
-      
+
       v = \unit[60]{\frac{km}{h} } = \unit[\frac{60}{3,6} ]{\frac{m}{s} }
       \approx \unit[16,67]{\frac{m}{s} }
 
   .. math::
-      
+
       v &= \frac{s}{t} \quad \Leftrightarrow \quad t = \frac{s}{v} \\[6pt]
       t &= \frac{\unit[800]{m}}{\unit[16,67]{\frac{m}{s} }} \approx \unit[48]{s}
-  
-  
-  Man benötigt somit etwa :math:`48` Sekunden. 
-  
+
+
+  Man benötigt somit etwa :math:`48` Sekunden.
+
   :ref:`Zurück zur Aufgabe <Geschwindigkeit-07>`
 
 ----
@@ -206,23 +206,23 @@ Bewegungen>`.
   aufgelöst werden:
 
   .. math::
-      
+
       v = \frac{s}{t} \qquad \Leftrightarrow \qquad s = v \cdot t
-  
+
   Die Zeit, welche der Schall auf seinem Weg zur Felswand und zurück
   benötigt, ist gleich :math:`t = \unit[5]{s}`. Die Schallgeschwindigkeit in Luft
   beträgt :math:`v = \unit[330]{\frac{m}{s} }`. Eingesetzt ergibt sich:
 
   .. math::
-      
+
       s = v \cdot t = \unit[330]{\frac{m}{s} } \cdot \unit[5]{s} = \unit[1650]{m}
-  
+
   Die Gesamtstrecke, welche der Schall auf dem Hin- und Rückweg durchläuft,
   beträgt :math:`\unit[1650]{m}`. Die Entfernung der Felswand vom Wanderer ist
-  gleich der Hälfte dieser Strecke, also rund :math:`\unit[0,8]{km}`. 
+  gleich der Hälfte dieser Strecke, also rund :math:`\unit[0,8]{km}`.
 
   :ref:`Zurück zur Aufgabe <Geschwindigkeit-08>`
-    
+
 ----
 
 .. _Geschwindigkeit-09-Lösung:
@@ -232,10 +232,10 @@ Bewegungen>`.
   Koordinatensystem so, dass der Ort :math:`\rm{A}` mit dem Koordinatenursprung
   zusammenfällt und bezeichnet man die Richtung von :math:`\rm{A}` nach
   :math:`\rm{B}` als "positiv", so lauten die Ortsfunktionen der beiden
-  Fahrzeuge: 
+  Fahrzeuge:
 
   .. math::
-      
+
       s_1 &= v_1 \cdot t \\
       s_2 &= - v_2 \cdot t + s_0
 
@@ -244,7 +244,7 @@ Bewegungen>`.
   ist :math:`s_1 = s_2`, und damit:
 
   .. math::
-      
+
       v_1 \cdot t &= -v_2 \cdot t + s_0 \\
       \Rightarrow v_1 \cdot t + v_2 \cdot t &= s_0
 
@@ -252,7 +252,7 @@ Bewegungen>`.
   Man erhält damit für die Zeit des Treffpunkts:
 
   .. math::
-      
+
       t \cdot (v_1 + v_2) = s_0 \quad \Leftrightarrow \quad t = \frac{s_0}{v_1 +
       v_2}
 
@@ -261,7 +261,7 @@ Bewegungen>`.
   so erhält man:
 
   .. math::
-      
+
       t = \frac{s_0}{v_1 + v_2} = \frac{\unit[100]{km}}{\unit[30,0]{\frac{km}{h}}
       + \unit[50,0]{\frac{km}{h}}} = \unit[1,25]{h}
 
@@ -271,24 +271,24 @@ Bewegungen>`.
   diese Zeit in die Gleichung :math:`s_1 = v_1 \cdot t` einsetzen und erhält:
 
   .. math::
-      
+
       s = v_1 \cdot \unit[1,25]{h} = \unit[30,0]{\frac{km}{h}} \cdot
       \unit[1,25]{h} = \unit[37,5]{km}
 
   Beide Fahrzeuge treffen sich somit :math:`s=\unit[37,5]{km}` vom Ort
   :math:`\rm{A}` entfernt.
-  
+
   :ref:`Zurück zur Aufgabe <Geschwindigkeit-09>`
-    
+
 ----
 
-..  
+..
     Aufgabe: Diagramm einer Bewegung mit konst. Geschwindigkeit, v ablesen. +
-    Erklärung (lineares Verhältnis -> kirekt proportional) in Lösung. 
+    Erklärung (lineares Verhältnis -> kirekt proportional) in Lösung.
 
-..  
+..
     Aufgabe: v-t-Diagramm; Ablesen der Geschwindigkeit?
-    
+
 .. rubric:: Lösungen zu geradlinigen Bewegungen mit konstanter Beschleunigung
 
 ----
@@ -298,10 +298,10 @@ Bewegungen>`.
 * Die Beschleunigung des Radfahrers ist gleich dem Verhältnis aus der
   Veränderung seiner Geschwindigkeit :math:`\Delta v = \unit[8]{m/s}`
   (entspricht :math:`\unit[28,8]{km/h}`) und der dafür benötigten Zeit
-  :math:`\Delta t = \unit[15]{s}` 
+  :math:`\Delta t = \unit[15]{s}`
 
   .. math::
-      
+
       a = \frac{\Delta v}{\Delta t} = \frac{\unit[8]{\frac{m}{s}
       }}{\unit[15]{s}} \approx \unit[0,53]{\frac{m}{s^2} }
 
@@ -319,10 +319,10 @@ Bewegungen>`.
   folgt somit:
 
   .. math::
-      
+
       a = \frac{\Delta v}{\Delta t} = \frac{\unit[27,78]{\frac{m}{s}
       }}{\unit[10]{s}} \approx \unit[2,78]{\frac{m}{s^2} }
-  
+
   Die Beschleunigung des Fahrzeugs beträgt also rund :math:`\unit[2,8]{m/s^2}`.
   Die Beschleunigung beim Abbrems-Vorgang hat den gleichen Betrag, denn sowohl
   die Geschwindigkeitsänderung :math:`\Delta v` als auch die dafür benötigt Zeit
@@ -342,19 +342,19 @@ Bewegungen>`.
   :math:`v _{\rm{1}} = \unit[20,0]{m/s}` (entspricht :math:`\unit[72,0]{km/h}`):
 
   .. math::
-      
+
       \Delta v = v _{\rm{2}} - v _{\rm{1}} = \unit[36,5]{\frac{m}{s} } -
       \unit[20,0]{\frac{m}{s} } = \unit[16,5]{\frac{m}{s} }
 
   Teilt man diesen Wert durch die für die Geschwindigkeitsänderung
   benötigte Zeit :math:`t = \unit[5,0]{s}`, so ergibt sich für die
   Beschleunigung:
-  
+
   .. math::
-      
+
       a = \unit[\Delta v]{\Delta t} = \frac{\unit[16,5]{\frac{m}{s}
       }}{\unit[5,0]{s}} = \unit[3,3]{\frac{m}{s^2} }
-  
+
   Die Beschleunigung des Fahrzeugs beträgt somit :math:`a =
   \unit[3,3]{m/s^2}`. Vergleicht man diesen Wert mit dem Wert der
   Erdbeschleunigung :math:`g = \unit[9,81]{m/s^2}`, so erkennt man, dass ein
@@ -366,11 +366,11 @@ Bewegungen>`.
   benötigt, beträgt:
 
   .. math::
-      
+
       s = \frac{1}{2} \cdot a \cdot t^2 = \frac{1}{2} \cdot
       \unit[3,3]{\frac{m}{s^2} } \cdot (\unit[5,0]{s})^2 = \frac{1}{2} \cdot
       \unit[3,3]{\frac{m}{s^2} } \cdot \unit[25]{s^2} \approx \unit[41,25]{m}
-  
+
   Das Fahrzeug benötigt somit für den Beschleunigungsvorgang rund
   :math:`\unit[41]{m}`.
 
@@ -386,25 +386,25 @@ Bewegungen>`.
   nach der Zeit :math:`t` aufgelöst werden:
 
   .. math::
-      
+
       s = \frac{1}{2} \cdot a \cdot t^2 \quad \Longleftrightarrow \quad t =
-      \sqrt{\frac{2 \cdot s}{a} } 
+      \sqrt{\frac{2 \cdot s}{a} }
 
   .. math::
 
       t = \sqrt{\frac{2 \cdot s}{a} } = \sqrt{\frac{2 \cdot \unit[5,0]{m}
       }{\unit[9,81]{\frac{m}{s^2}} } } \approx \unit[1,01]{s}
- 
+
   Die Flugzeit beträgt somit rund :math:`\unit[1,0]{s}`. Die Geschwindigkeit
   beim Eintauchen kann durch Einsetzen der (Erd-)Beschleunigung :math:`a = g`
   und der Flugzeit :math:`t` in die Gleichung :math:`v = a \cdot t` berechnet
   werden:
-  
+
    .. math::
-       
+
        v = a \cdot t = \unit[9,81]{\frac{m}{s^2}} \cdot \unit[1,01]{s} \approx
        \unit[9,9]{\frac{m}{s} }
-   
+
   Die Geschwindigkeit des Badegastes beim Eintauchen beträgt somit rund
   :math:`\unit[9,9]{m/s}` (entspricht :math:`\unit[35,7]{km/h}`).
 
@@ -421,16 +421,16 @@ Bewegungen>`.
   Beschleunigung wirkt:
 
   .. math::
-      
+
       v = a \cdot t = \unit[9,81]{\frac{m}{s^2} } \cdot \unit[1,7]{s} \approx
       \unit[16,67]{\frac{m}{s} }
-      
+
   Die Geschwindigkeit des Steins beträgt beim Aufprall somit rund
   :math:`\unit[17]{m/s} \approx~\unit[60]{km/h}`. Bis zu diesem Zeitpunkt legt
   der Stein folgende Wegstrecke :math:`s` zurück:
-  
+
   .. math::
-      
+
       s = \frac{1}{2} \cdot a \cdot t^2 = \frac{1}{2} \cdot
       \unit[9,81]{\frac{m}{s^2} } \cdot (\unit[1,7]{s})^2 = \frac{1}{2} \cdot
       \unit[9,81]{\frac{m}{s^2} } \cdot \unit[2,89]{s^2} \approx \unit[14,2]{m}
@@ -448,14 +448,14 @@ Bewegungen>`.
   Bremsformel :math:`v^2 - v_0^2 = 2 \cdot a \cdot s` genutzt werden; die
   Endgeschwindigkeit  :math:`v` des Fahrzeugs ist dabei gleich Null, die
   Beschleunigung erfolgt entgegen der Bewegungsrichtung und hat damit ein
-  negatives Vorzeichen. 
+  negatives Vorzeichen.
 
   Eine Geschwindigkeit von :math:`\unit[30]{km/h}` entspricht rund
   :math:`\unit[8,3]{m/s}`. Eingesetzt in die Bremsformel ergibt sich
   folgende Beschleunigung:
 
   .. math::
-      
+
       | a | = \frac{v_0^2}{2 \cdot s} =
       \frac{\left(\unit[8,3]{\frac{m}{s}}\right)^2}{2 \cdot \unit[0,5]{m}}
       \approx \unit[69,4]{\frac{m}{s^2}}
@@ -472,14 +472,14 @@ Bewegungen>`.
   gegen eine an dieser Stelle angebrachte Wand fahren. Sind die Fahrzeuge
   unterschiedlich schwer oder unterschiedlich schnell, so haben beide
   unterschiedliche Beschleunigungen, die mit Hilfe des
-  :ref:`Impulserhaltungssatzes <Impulserhaltungssatz>` berechnet werden können. 
+  :ref:`Impulserhaltungssatzes <Impulserhaltungssatz>` berechnet werden können.
 
   Erfolgt der Aufprall mit :math:`v_1 = \unit[50]{km/h} \approx
   \unit[13,9]{m/s}` oder :math:`v_2 = \unit[100]{km/h} \approx
   \unit[27,8]{m/s}`, so ergeben sich folgende Beschleunigungen:
 
   .. math::
-      
+
       | a_1 | = \frac{v_1^2}{2 \cdot s} =
       \frac{\left(\unit[13,9]{\frac{m}{s}}\right)}{2 \cdot \unit[0,5]{m}}
       \approx \unit[193]{\frac{m}{s^2}} \\[8pt]
@@ -490,7 +490,7 @@ Bewegungen>`.
 
   Diese Beschleunigungen entsprechen rund :math:`\unit[20]{g}` beziehungsweise
   :math:`\unit[89]{g}` und sind somit lebensgefährlich bzw. tödlich.
-  
+
   :ref:`Zurück zur Aufgabe <Beschleunigung-06>`
 
 ----
@@ -530,25 +530,25 @@ kreisförmigen Bewegungen>` zum Abschnitt :ref:`Kreisförmige Bewegungen
   = \unit[1,8]{s}` berechnet werden:
 
   .. math::
-      
-      f = \frac{1}{T} \quad \Longleftrightarrow \quad T = \frac{1}{f} 
+
+      f = \frac{1}{T} \quad \Longleftrightarrow \quad T = \frac{1}{f}
 
   .. math::
-      
+
       T = \frac{1}{f} = \unit[1]{\unit[1,8]{\frac{1}{s} }} \approx \unit[0,56]{s}
-  
+
   Für die Winkelgeschwindigkeit :math:`\omega` des Kieselsteins gilt:
-  
+
   .. math::
-      
+
       \omega = \frac{2 \cdot \pi }{T} = 2 \cdot \pi \cdot f = 2 \cdot \pi
-      \cdot \unit[1,8]{\frac{1}{s} } \approx 11,3 \frac{1}{s} 
-  
+      \cdot \unit[1,8]{\frac{1}{s} } \approx 11,3 \frac{1}{s}
+
   Für die Bahngeschwindigkeit :math:`v` des Kieselsteins auf seiner Kreisbahn
   :math:`(r = \frac{d}{2} = \unit[36]{cm} = \unit[0,36]{m})` gilt:
 
   .. math::
-      
+
       v = \omega \cdot r = \unit[11,3]{\frac{1}{s} } \cdot \unit[0,36]{m} =
       \unit[4,07]{\frac{m}{s}}
 
@@ -556,7 +556,7 @@ kreisförmigen Bewegungen>` zum Abschnitt :ref:`Kreisförmige Bewegungen
   :math:`\unit[4,1]{m/s} \approx \unit[15]{km/h}`.
 
   :ref:`Zurück zur Aufgabe <Kreisbewegung-02>`
-    
+
 ----
 
 .. _Radialbeschleunigung-01-Lösung:
@@ -566,22 +566,22 @@ kreisförmigen Bewegungen>` zum Abschnitt :ref:`Kreisförmige Bewegungen
   \unit[0,0100]{m}` folgendermaßen berechnen:
 
   .. math::
-      
+
       v = \omega \cdot r = (n \cdot 2 \cdot \pi) \cdot r = \frac{3000 \cdot 2
       \cdot \pi \cdot \unit[0,0100]{m}}{\unit[60]{s}} \approx
       \unit[3,14]{\frac{m}{s}}
 
   Damit folgt für die Radialbeschleunigung :math:`a _{\rm{\varphi}}`:
-  
+
   .. math::
-      
+
       a _{\rm{\varphi}} = \frac{v^2}{r} =
       \frac{\left(\unit[3,14]{\frac{m}{s}}\right)^2}{\unit[0,01]{m}} \approx \unit[986]{\frac{m}{s^2}}
 
   Die Radialbeschleunigung in der Zentrifuge beträgt bei der angegebenen
   Drehzahl rund :math:`\unit[986]{\frac{m}{s^2}}`; dies entspricht etwa dem
   :math:`100`-fachen der Erdbeschleungigung :math:`g`.
-  
+
   :ref:`Zurück zur Aufgabe <Radialbeschleunigung-01>`
 
 
@@ -595,22 +595,22 @@ kreisförmigen Bewegungen>` zum Abschnitt :ref:`Kreisförmige Bewegungen
     Auf Höhe des Äquators gilt mit :math:`r _{\rm{E}} = \unit[6370]{km}`:
 
     .. math::
-        
+
         v = \omega \cdot r = \frac{2 \cdot \pi \cdot r}{T} = \frac{2 \cdot \pi
         \cdot \unit[6370]{km}}{\unit[1]{d}} = \frac{2 \cdot \pi \cdot
         \unit[6370 \cdot 10^3]{m}}{\unit[24 \cdot 60 \cdot 60]{s}} \approx
         \unit[463]{\frac{m}{s}}
-    
+
     Damit gilt für die Radialkraftbeschleunigung :math:`a _{\rm{\varphi}}`:
 
     .. math::
-        
+
         a _{\rm{\varphi}} = \frac{v^2}{r} =
         \frac{\left(\unit[463]{\frac{m}{s}}\right)^2}{\unit[6370 \cdot 10^3]{m}}
         \approx \unit[0,033]{\frac{m}{s^2}}
 
   Die Radialbeschleunigung beträgt am Äquator somit rund
-  :math:`\unit[0,033]{\frac{m}{s^2}}`. 
+  :math:`\unit[0,033]{\frac{m}{s^2}}`.
 
   Auf einem nördlich bzw. südlich vom Äquator gelegenen Punkt auf der Erde
   bewegt sich ein mit der Erde mitrotierender Körper auf einer Kreisbahn mit
@@ -618,22 +618,22 @@ kreisförmigen Bewegungen>` zum Abschnitt :ref:`Kreisförmige Bewegungen
   ist. Für :math:`r` gilt in Abhängigkeit vom Breitengrad :math:`\varPhi`:
 
   .. math::
-        
+
       \cos{\varPhi} = \frac{r}{r _{\rm{E}}} \quad \Leftrightarrow \quad r = r
       _{\rm{E}} \cdot \cos{\varPhi}
-    
-  Für den 45. Breitengrad :math:`(\varPhi = 45^{\circ})` ergibt sich damit für
+
+  Für den 45. Breitengrad :math:`(\varPhi = 45\degree)` ergibt sich damit für
   Rotationsradius :math:`r`:
 
   .. math::
-        
-      r = r _{\rm{E}} \cdot \cos{45^{\circ}} \approx \unit[4\,505]{km}
-    
+
+      r = r _{\rm{E}} \cdot \cos{45\degree} \approx \unit[4\,505]{km}
+
   Für die Bahngeschwindigkeit :math:`v=\omega \cdot r` des rotierenden Körpers
   und die Radialkraftbeschleunigung :math:`a _{\rm{\varphi}}` gilt somit:
 
   .. math::
-      
+
       v = \omega \cdot r = \frac{2 \cdot \pi \cdot r}{T} = \frac{2 \cdot \pi
         \cdot \unit[4505]{km}}{\unit[1]{d}} = \frac{2 \cdot \pi \cdot
         \unit[4505 \cdot 10^3]{m}}{\unit[24 \cdot 60 \cdot 60]{s}} \approx
@@ -644,11 +644,11 @@ kreisförmigen Bewegungen>` zum Abschnitt :ref:`Kreisförmige Bewegungen
       a _{\rm{\varphi}} = \frac{v^2}{r} =
       \frac{\left(\unit[328]{\frac{m}{s}}\right)^2}{\unit[4505 \cdot 10^3]{m}}
       \approx \unit[0,024]{\frac{m}{s^2}}
-      
+
   Die Radialbeschleunigung durch die Erdrotation beträgt am 45. Breitengrad
   somit rund nur noch :math:`\unit[0,024]{\frac{m}{s^2}}`. Am Nordpol
   verschwindet sie völlig, da in diesem Fall :math:`\cos{\varPhi} = \cos{90
-  ^{\circ}} = 0` und somit :math:`r = r _{\rm{E}} \cdot \cos{\varPhi} = 0` gilt.
+  \degree} = 0` und somit :math:`r = r _{\rm{E}} \cdot \cos{\varPhi} = 0` gilt.
 
   Die Werte der Radialbeschleunigungen an den verschiedenen Stellen der Erde
   bewirken eine Verringerung der Erdbeschleunigung :math:`g`. An den Polen ist
@@ -659,7 +659,7 @@ kreisförmigen Bewegungen>` zum Abschnitt :ref:`Kreisförmige Bewegungen
   eine leichte Abplattung der Erde zu den Polen hin zur Folge: Am Äquator
   beträgt der Erdradius :math:`r _{\rm{E}} \approx \unit[6378]{km}`, am Nord-
   bzw. Südpol hingegen "nur" :math:`\unit[6370]{km}`.
-  
+
   :ref:`Zurück zur Aufgabe <Radialbeschleunigung-02>`
 
 ----
@@ -683,7 +683,7 @@ zusammengesetzten Bewegungen>` zum Abschnitt :ref:`Zusammengesetzte Bewegungen
   nötig:
 
   .. math::
-      
+
       v_y = \frac{s_y}{t} \quad \Longleftrightarrow \quad t = \frac{s_y}{v_y} =
       \frac{\unit[100]{m}}{\unit[0,5]{\frac{m}{s}}} = \unit[200]{s}
 
@@ -692,7 +692,7 @@ zusammengesetzten Bewegungen>` zum Abschnitt :ref:`Zusammengesetzte Bewegungen
   Flusses beträgt somit:
 
   .. math::
-      
+
       v_x = \frac{s_x}{t} = \frac{\unit[35]{m}}{\unit[200]{s}} =
       \unit[0,175]{\frac{m}{s}}
 
@@ -709,7 +709,7 @@ zusammengesetzten Bewegungen>` zum Abschnitt :ref:`Zusammengesetzte Bewegungen
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Kinematik>`

@@ -1,8 +1,8 @@
-.. index:: 
+.. index::
     single: Kraftwandler; Schiefe Ebene
 .. _Schiefe Ebene:
 
-Die schiefe Ebene 
+Die schiefe Ebene
 ==================
 
 Wird ein Körper auf eine schiefe Ebene gestellt, so wird er aufgrund seiner
@@ -28,10 +28,10 @@ wirkende Reibungskraft zu überwinden, so beginnt der Körper zu gleiten.
     :align: center
     :width: 45%
 
-    Schlittenfahren auf einer schiefen Ebene. 
+    Schlittenfahren auf einer schiefen Ebene.
 
     .. only:: html
-    
+
         :download:`SVG: Schlittenfahren (Schiefe Ebene)
         <../../pics/mechanik/kraftwandler-und-getriebe/schiefe-ebene-schlittenfahren.svg>`
 
@@ -45,9 +45,9 @@ Zusammenhänge:
 
 .. math::
     :label: eqn-schiefe-ebene-kraftanteile
-    
+
     F _{\rm{HA}} &= F _{\rm{G}} \cdot \sin{\alpha }\\[6pt]
-    F _{\rm{N\phantom{A}}}  &= F _{\rm{G}} \cdot \cos{\alpha } 
+    F _{\rm{N\phantom{A}}}  &= F _{\rm{G}} \cdot \cos{\alpha }
 
 Hierbei wurde die genutzt, dass der Winkel zwischen der Gewichtskraft :math:`F
 _{\rm{G}}` und Normalkraft :math:`F _{\rm{N}}` gleich dem Winkel :math:`\alpha`
@@ -60,12 +60,12 @@ Schlittens:
 
 .. math::
     :label: eqn-schiefe-ebene-kraftverhaeltnis
-    
+
     \frac{F _{\rm{H}}}{G} = \frac{h}{l}
 
 Je länger also die schiefe Ebene ist, desto kleiner ist die entlang der Ebene
 wirkende Hangabtriebskraft. Aus diesem Grund werden in Gebirgen Straßen und Wege
-in Serpentinen angelegt. 
+in Serpentinen angelegt.
 
 .. figure:: ../../pics/mechanik/kraftwandler-und-getriebe/schiefe-ebene-kraftzerlegung.png
     :name: fig-schiefe-ebene-kraftzerlegung
@@ -73,11 +73,11 @@ in Serpentinen angelegt.
     :align: center
     :width: 45%
 
-    Kraftzerlegung bei einer schiefen Ebene. 
+    Kraftzerlegung bei einer schiefen Ebene.
 
     .. only:: html
-    
-        :download:`SVG: Schiefe Ebene (Kraftzerlegung) 
+
+        :download:`SVG: Schiefe Ebene (Kraftzerlegung)
         <../../pics/mechanik/kraftwandler-und-getriebe/schiefe-ebene-kraftzerlegung.svg>`
 
 Die Größe des Winkels :math:`\alpha` lässt sich anhand des Verhältnis der Höhe
@@ -86,7 +86,7 @@ Hierbei gilt für den Winkel :math:`\alpha`:
 
 .. math::
     :label: eqn-schiefe-ebene-winkel
-    
+
     \tan{\alpha} = \frac{h}{b} \quad \Leftrightarrow \quad \alpha = \text{atan
     }{\left( \frac{h}{b}\right)}
 
@@ -111,8 +111,8 @@ zwei rechtwinklige Dreiecke zerlegt denkt.
     Keilwirkung als Normalkraft bei einer schiefen Ebene.
 
     .. only:: html
-    
-        :download:`SVG: Schiefe Ebene (Keilwirkung) 
+
+        :download:`SVG: Schiefe Ebene (Keilwirkung)
         <../../pics/mechanik/kraftwandler-und-getriebe/schiefe-ebene-keilwirkung.svg>`
 
 Die Kraft :math:`F`, die auf den Keil ausgeübt wird, kann in zwei Normalkräfte
@@ -120,37 +120,37 @@ Die Kraft :math:`F`, die auf den Keil ausgeübt wird, kann in zwei Normalkräfte
 zerlegt werden.
 Bezeichnet man die Breite des Keilrückens mit :math:`h`, die Länge einer
 schrägen Keilflächen mit :math:`l` und den halben Keilwinkel als :math:`\alpha`,
-so gilt: 
+so gilt:
 
 .. math::
-    
+
     \frac{F _{\rm{N}}}{F} = \frac{s}{b} \quad \Leftrightarrow \quad F _{\rm{N}}
     = \frac{s}{b} \cdot F
 
 Da die Länge :math:`s` der schrägen Flächen üblicherweise länger ist als
 die Breite :math:`b` des Keils, sind die spaltenden Normalkräfte größer als
 die auf den Keil wirkende Kraft :math:`F`.
-    
+
 ..  .. math::
-    
+
     ..  F _{\rm{N}} = F \cdot \frac{s}{r} = \frac{F}{2 \cdot \sin{\alpha}}
 
-..   
+..
     TODO Schraube als schiefe Ebene: Deutung als schiefe Ebene, die um eine Achse
     gewickelt wurde.
-    
+
     Die passenden Muttern sind zylindrisch durchbohrte Körper mit
     eingeschnittenen Gewinden. Dreht man die Schraubenmutter bei fest stehender
     Spindel, so schiebt sie sich bei einer Umdrehung um eine Ganghöhe in
     Richtung der Zylinderachse vor. Dabei wird in Richtung der Zylinderachse
     eine Druckkraft ausgeübt; je kleiner die Ganghöhe ist, umso leichter kann
     bei vorhandener Gegenkraft die Mutter in die Spindel eingedreht werden.
-    
+
     Wenn F1 die zur Drehung der Schraube erforderliche Kraft ist (wirksam im
     Abstand r), F2 die in Achsenrichtung wirkende Kraft, h die Ganghöhe der
     Schraube, r der mittlere Gewinderadius und \alpha der Neigungswinkel der
     geneigten Ebene, dann gilt:
-    
+
     F1 / F2 = h:b = \tan{\alpha} \\
     F1 = F2 \cdot \tan{\alpha}
 
@@ -159,7 +159,7 @@ die auf den Keil wirkende Kraft :math:`F`.
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zur schiefen Ebene>`
     und :ref:`Übungsaufgaben <Aufgaben zur schiefen Ebene>`.

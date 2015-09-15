@@ -26,7 +26,7 @@ Quadrat des Abstands :math:`r` beider Ladungen ist:
 
 .. math::
     :label: eqn-coulomb
-    
+
     F _{\rm{el}} = \frac{1}{4 \cdot \pi \cdot \varepsilon _0} \cdot \frac{Q_1
     \cdot Q_2}{r^2}
 
@@ -36,7 +36,7 @@ wichtigen Naturkonstanten kann wegen :math:`\unit[1]{V} = \unit[1]{\frac{J}{C}}
 =` auch folgendermaßen geschrieben werden:
 
 .. math::
-    
+
     \unit{\frac{V \cdot m}{A \cdot s}} = \unit{\frac{V \cdot m}{C}} =
     \unit{\frac{J \cdot m}{C^2}} = \unit{\frac{N \cdot m^2}{C^2}}
 
@@ -51,15 +51,15 @@ ausüben würden -- das entspräche einer Gewichtskraft von etwa :math:`\unit[10
 ^6]{Tonnen}`. Man erkennt an diesem Beispiel zum einen, dass bei vielen
 Prozessen, etwa bei sich bewegenden Elektronen, die Gewichtskraft gegenüber der
 Coulomb-Kraft meist völlig vernachlässigt werden kann. Andererseits zeigt sich,
-dass 1 Coulomb eine sehr große Ladungsmenge darstellt; im Alltag treten 
+dass 1 Coulomb eine sehr große Ladungsmenge darstellt; im Alltag treten
 üblicherweise nur Bruchteile dieser Ladungsmenge auf.
 
 Für die Richtung der wirkenden Coulomb-Kraft gilt:
 
 * Sind die Vorzeichen beider Ladungen gleich, so ist die wirkende Kraft positiv,
-  und die Ladungen stoßen sich ab. 
+  und die Ladungen stoßen sich ab.
 * Haben beide Ladungen hingegen unterschiedliche Vorzeichen, so ist die
-  Coulomb-Kraft negativ, und die Ladungen ziehen einander an. 
+  Coulomb-Kraft negativ, und die Ladungen ziehen einander an.
 
 Sind mehrere Ladungen räumlich getrennt angeordnet, so kann man zunächst die
 Coulomb-Kräfte paarweise berechnen und anschließend die wirkenden
@@ -81,7 +81,7 @@ Probeladung :math:`Q _{\rm{p}}` durch eine bereits vorhandene Ladung oder
 Ladungsverteilung erfährt:
 
 .. math::
-    
+
     \vec{E} = \frac{\vec{F} _{\rm{el}}}{Q _{\rm{p}}}
 
 Die elektrische Feldstärke wird in der Einheit :math:`\unit{\frac{N}{C}}`
@@ -102,7 +102,7 @@ Felds angesehen werden.
     Ladungsmenge.
 
     .. only:: html
-    
+
         :download:`SVG: Feldlinien einzelner elektrischer Ladungen
         <../pics/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.svg>`
 
@@ -131,7 +131,7 @@ stellen gleich ("homogen"). [#]_
     Das elektrische Feld im Inneren eines Plattenkondensators.
 
     .. only:: html
-    
+
         :download:`SVG: Plattenkondensator
         <../pics/elektrizitaet-magnetismus/plattenkondensator.svg>`
 
@@ -146,7 +146,7 @@ bezeichnet. Für ihren Betrag gilt:
 
 .. math::
     :label: eqn-elektrische-flussdichte
-    
+
     D = \frac{Q}{A}
 
 Die elektrische Flussdichte :math:`\vec{D}` steht, wie auch die elektrische
@@ -158,7 +158,7 @@ elektrischen Feldkonstante :math:`\varepsilon _0` formuliert werden:
 
 .. math::
     :label: eqn-elektrische-flussdichte-und-feldstaerke
-    
+
     D = \varepsilon_0 \cdot E \quad \Leftrightarrow \quad E =
     \frac{1}{\varepsilon_0} \cdot D = \frac{1}{\varepsilon_0} \cdot \frac{Q}{A}
 
@@ -174,8 +174,8 @@ diese potentielle Energie, bezogen auf die Größe :math:`Q _{\rm{p}}` der
 Probeladung:
 
 .. math::
-    
-    U = \frac{E _{\rm{pot}}}{Q _{\rm{p}}} 
+
+    U = \frac{E _{\rm{pot}}}{Q _{\rm{p}}}
 
 Setzt man :math:`E _{\rm{pot}} = Q _{\rm{p}} \cdot E \cdot d` in die obige
 Formel ein, so ergibt sich für das elektrische Feld :math:`E` eines
@@ -183,7 +183,7 @@ Plattenkondensators folgender nützlicher Zusammenhang:
 
 .. math::
     :label: eqn-elektrische-feldstaerke-plattenkondensator
-    
+
     U = E \cdot d \quad \Leftrightarrow \quad E = \frac{U}{d}
 
 Da sowohl die elektrische Spannung :math:`U` als auch der Abstand :math:`d`
@@ -227,7 +227,7 @@ entgegengesetzt gerichtetes Feld einstellt.
     Elektrische Influenz im Feld eines Plattenkondensators.
 
     .. only:: html
-    
+
         :download:`SVG: Elektrische Influenz
         <../pics/elektrizitaet-magnetismus/plattenkondensator-influenz.svg>`
 
@@ -250,10 +250,10 @@ Befinden sich zwei Ladungen mit unterschiedlichem Vorzeichen, aber gleich
 großer Ladungsmenge :math:`Q` im Abstand :math:`l` zueinander, so spricht man
 von einem elektrischen Dipol. Ein solcher Dipol besitzt ein so genanntes
 Dipolmoment :math:`\vec{p}`, das proportional zur Ladungsmenge und zum Abstand
-der Ladungen ist und in Richtung der positiven Ladung zeigt: 
+der Ladungen ist und in Richtung der positiven Ladung zeigt:
 
 .. math::
-    
+
     \vec{p} = Q \cdot \vec{l}
 
 Die Einheit des Dipolmoments ist :math:`\unit{C \cdot m}`.
@@ -270,19 +270,19 @@ Die Einheit des Dipolmoments ist :math:`\unit{C \cdot m}`.
     Prinzip eines elektrischen Dipols.
 
     .. only:: html
-    
+
         :download:`SVG: Elektrischer Dipol
         <../pics/elektrizitaet-magnetismus/elektrischer-dipol.svg>`
 
 In der Realität existieren elektrische Dipole in Form von bestimmten Molekülen,
-die ein permanentes Dipolmoment besitzen, beispielsweise Wasser. 
+die ein permanentes Dipolmoment besitzen, beispielsweise Wasser.
 
 Bringt man einen elektrischen Dipol in ein homogenes elektrisches Feld ein, so
 richtet er sich parallel zur Feldrichtung aus. Für das dabei wirkende
-:ref:`Drehmoment <Drehmoment>` :math:`\vec{M}` gilt: 
+:ref:`Drehmoment <Drehmoment>` :math:`\vec{M}` gilt:
 
 .. math::
-    
+
     \vec{M} = \vec{l} \times \vec{F} = Q \cdot \vec{l} \times \frac{\vec{F}}{Q}
     = \vec{p} \times \vec{E}
 
@@ -321,7 +321,7 @@ Polarisation wird Verschiebungspolarisation genannt.
     Elektrische Polarisation im Feld eines Plattenkondensators.
 
     .. only:: html
-    
+
         :download:`SVG: Elektrische Polarisation
         <../pics/elektrizitaet-magnetismus/plattenkondensator-polarisation.svg>`
 
@@ -331,10 +331,10 @@ elektrisches Feld. Füllt das Dielektrikum den gesamten Bereich zwischen den
 Kondensatorplatten aus, so wird der Wert der elektrischen Feldstärke
 :math:`\vec{E}` gegenüber dem ursprünglichen Wert um einen Faktor
 :math:`\varepsilon _{\rm{r}}` gesenkt. Für einen Plattenkondensator mit
-Dielektrikum gilt also allgemein: 
+Dielektrikum gilt also allgemein:
 
 .. math::
-    
+
     E = \frac{1}{\varepsilon _{\rm{r}} \cdot \varepsilon _0} \cdot \frac{Q}{A} =
     \frac{1}{\varepsilon _{\rm{r}}} \cdot \frac{U}{d}
 
@@ -346,9 +346,9 @@ relative Dielektrizitätszahl bezeichnet wird. Streng genommen muss bereits Luft
 als Dielektrikum angesehen werden, ihr Wert ist jedoch nur geringfügig von der
 Dielektrizitätszahl des Vakuums.
 
-.. list-table:: 
+.. list-table::
     :name: tab-dielektrizitaetszahlen
-    :widths: 50 50 
+    :widths: 50 50
 
     * - Material
       - Dielektrizitätszahl :math:`\varepsilon _{\rm{r}}`
@@ -395,7 +395,7 @@ insgesamt aufnehmen kann:
 
 .. math::
     :label: eqn-kapazitaet
-    
+
     C = \frac{Q}{U}
 
 Die Einheit der Kapazität ist Farad :math:`(\unit[1]{F} =
@@ -413,8 +413,8 @@ Luft, so gilt für die Kapazität :math:`C` des Plattenkondensators:
 
 .. math::
     :label: eqn-kapazitaet-plattenkondensator
-    
-    C = \varepsilon _0 \cdot \frac{A}{d} 
+
+    C = \varepsilon _0 \cdot \frac{A}{d}
 
 Hierbei bezeichnet :math:`\varepsilon _0= \unit[8,854 \cdot 10 ^{-12}]{\frac{A
 \cdot s}{V \cdot m}}` wiederum die elektrische Feldkonstante. Handelt es sich
@@ -447,14 +447,14 @@ Kondensators bei gleicher Baugröße um ein Vielfaches erhöht werden.
     Einheit Volt:
 
     .. math::
-        
+
         \unit{V} = \unit{\frac{J}{C}} = \unit{\frac{N \cdot m}{C}}
 
     Damit lässt sich die Einheit der elektrischen Feldsterke folgendermaßen
     umformulieren:
 
     .. math::
-        
+
         \unit{\frac{N}{C}} = \unit{\frac{N \cdot m}{C \cdot m}} = \unit{\frac{V}{m}} \quad
         \checkmark
 

@@ -40,9 +40,9 @@ Hebeln>` zum Abschnitt :ref:`Hebel <Hebel>`.
   des Schraubenziehers. Die Länge des Lastarms ist gleich der Strecke zwischen
   der Drehachse und der Spitze des Schraubenziehers. Umso länger der Kraftarm
   im Vergleich zum Lastarm ist, desto weniger Kraft ist nötig, um den Deckel
-  zu heben. 
+  zu heben.
 
-  *Beispiel:* 
+  *Beispiel:*
 
   Wenn der Abstand zwischen dem Dosenrand (der Drehachse) und Spitze des
   Schraubenziehers :math:`s_2 = \unit[0,01]{cm}` und der Abstand zum Griff
@@ -51,7 +51,7 @@ Hebeln>` zum Abschnitt :ref:`Hebel <Hebel>`.
   16 \cdot \unit[5]{N} = \unit[80]{N}`.
 
   :ref:`Zurück zur Aufgabe <Hebel-02>`
-    
+
 ----
 
 .. _Hebel-03-Lösung:
@@ -62,26 +62,26 @@ Hebeln>` zum Abschnitt :ref:`Hebel <Hebel>`.
   _{\rm{2}} \cdot F _{\rm{2}}` gleich groß sein:
 
   .. math::
-      
+
       M _{\rm{1}} &= M _{\rm{2}}  \\[4pt]
-      s _{\rm{1}} \cdot F _{\rm{1}} &=  s _{\rm{2}} \cdot  F _{\rm{2}} 
+      s _{\rm{1}} \cdot F _{\rm{1}} &=  s _{\rm{2}} \cdot  F _{\rm{2}}
 
   Diese Gleichung kann nach der gesuchten Größe :math:`s _{\rm{2}}` aufgelöst
   werden:
 
   .. math::
-      
+
       s _{\rm{1}} \cdot F _{\rm{1}} =  s _{\rm{2}} \cdot  F _{\rm{2}} \quad
-      \Longleftrightarrow \quad s _{\rm{2}} = \frac{s _{\rm{1}} \cdot F _{\rm{1}} }{F _{\rm{2}} } 
-      
+      \Longleftrightarrow \quad s _{\rm{2}} = \frac{s _{\rm{1}} \cdot F _{\rm{1}} }{F _{\rm{2}} }
+
   Die beiden wirkenden Kräfte :math:`F _{\rm{1}}` und :math:`F _{\rm{2}}`
   entsprechen jeweils den Gewichtskräften :math:`F _{\rm{G}} = m \cdot g` der
   beiden an der Balkenwaage hängenden Lasten. Eingesetzt ergibt sich mit
   :math:`m _{\rm{1}} = \unit[2]{kg} ,\; m _{\rm{2}} = \unit[500]{g} =
   \unit[0,5]{kg}` und :math:`s _{\rm{1}} = \unit[10]{cm} = \unit[0,1]{m}`:
-  
+
    .. math::
-       
+
        s _{\rm{2}} = \frac{s _{\rm{1}} \cdot F _{\rm{1}} }{F _{\rm{2}} } =
        \frac{ \unit[0,1]{m} \cdot \unit[2]{kg} \cdot \unit[9,81]{\frac{N}{kg}}
        \cdot }{\unit[0,5]{kg} \cdot \unit[9,81]{\frac{N}{kg}} } =
@@ -90,7 +90,7 @@ Hebeln>` zum Abschnitt :ref:`Hebel <Hebel>`.
   Die zweite Last, deren Masse nur ein Viertel der ersten Last beträgt, muss
   somit vier mal so weit entfernt von der Drehachse aufgehängt werden, damit
   die Balkenwaage im Gleichgewicht ist.
-   
+
   :ref:`Zurück zur Aufgabe <Hebel-03>`
 
 ----
@@ -100,7 +100,7 @@ Hebeln>` zum Abschnitt :ref:`Hebel <Hebel>`.
 * Beim Unterarm handelt es sich um einen einseitigen Hebel. Das in der Hand im
   Abstand :math:`s_2 = \unit[0,35]{m}` vom Ellenbogen gehaltene Gewicht hat eine
   Gewichtskraft von :math:`F_2 = m \cdot g = \unit[2,00]{kg} \cdot
-  \unit[9,81]{\frac{N}{kg}} = \unit[19,62]{N}`. 
+  \unit[9,81]{\frac{N}{kg}} = \unit[19,62]{N}`.
 
   Das vom Gewicht bewirkte Drehmoment :math:`M_2 = F_2 \cdot s_2` muss durch die
   im Abstand :math:`s_1 = \unit[0,05]{m}` wirkende Kraft :math:`F_1` des
@@ -108,14 +108,14 @@ Hebeln>` zum Abschnitt :ref:`Hebel <Hebel>`.
   einwirken, muss gelten:
 
   .. math::
-      
+
       M_1 = M_2 \quad \Leftrightarrow \quad F_1 \cdot s_1 &= F_2 \cdot s_2
       \\[6pt]
 
       \Rightarrow F_1 = \frac{F_2 \cdot s_2}{s_1} = \unit[19,6]{N} \cdot
       \frac{\unit[0,35]{m}}{\unit[0,05]{m}} \approx \unit[137]{N}
 
-  Der Muskel muss mit :math:`F_1 \approx \unit[137]{N}` somit eine sieben mal 
+  Der Muskel muss mit :math:`F_1 \approx \unit[137]{N}` somit eine sieben mal
   grössere Kraft aufbringen, als wenn das gleiche Gewicht bei vertikal
   gehaltenem Unterarm getragen würde.
 
@@ -132,19 +132,19 @@ Hebeln>` zum Abschnitt :ref:`Hebel <Hebel>`.
   Werte der Drehmomente miteinander vergleicht:
 
   .. math::
-      
+
       M _{\rm{links}} = F _{\rm{1}} \cdot s _{\rm{1}} + F _{\rm{2}} \cdot s
       _{\rm{2}} = \unit[3,5]{N} \cdot \unit[0,2]{m} + \unit[5]{N} \cdot
       \unit[0,1]{m} = \unit[1,2]{N \cdot m} \\[4pt]
       M _{\rm{rechts}} = F _{\rm{3}} \cdot s _{\rm{3}} + F _{\rm{4}} \cdot s
       _{\rm{4}} = \unit[1,5]{N} \cdot \unit[0,6]{m} + \unit[4]{N} \cdot
-      \unit[0,075]{m} = \unit[1,2]{N \cdot m} 
-      
+      \unit[0,075]{m} = \unit[1,2]{N \cdot m}
+
   Die Drehmomente auf der linken und auf der rechten Seite sind gleich groß,
   der Hebel befindet sich somit im Gleichgewicht.
-  
+
   :ref:`Zurück zur Aufgabe <Hebel-05>`
-    
+
 ----
 
 
@@ -163,11 +163,11 @@ schiefen Ebene>` zum Abschnitt :ref:`Schiefe Ebene <Schiefe Ebene>`.
 *   Entlang einer schiefen Ebene gilt als Kraftverhältnis:
 
     .. :eq:`eqn-schiefe-ebene`:
-    
+
     .. math::
-        
+
         \frac{F}{F _{\rm{G}}}  = \frac{h}{l}
-    
+
     Die Höhe :math:`h=\unit[0,4]{m}` der schiefen Ebene sowie ihre Länge
     :math:`l= \unit[2,4]{m}` sind gegeben, auch die Gewichtskraft :math:`F
     _{\rm{G}}=\unit[600]{N}` der Schubkarre ist bekannt. Löst man die obige
@@ -175,13 +175,13 @@ schiefen Ebene>` zum Abschnitt :ref:`Schiefe Ebene <Schiefe Ebene>`.
     gegeben Werte die gesuchte Kraft.
 
     .. math::
-        
+
         F = \frac{F _{\rm{G}} \cdot h}{l} = \frac{\unit[600]{N} \cdot
         \unit[0,6]{m}}{\unit[2,4]{m}} = \unit[150]{N}
-    
+
     Die zum Schieben der Schubkarre nötige Kraft beträgt somit
-    :math:`\unit[150]{N}`. 
-    
+    :math:`\unit[150]{N}`.
+
     :ref:`Zurück zur Aufgabe <Schiefe-Ebene-01>`
 
 ----
@@ -209,7 +209,7 @@ Flaschenzügen und Rollen>` zum Abschnitt :ref:`Flaschenzüge und Rollen
   ebenfalls mit angehoben werden.
 
   .. math::
-      
+
       F _{\rm{Zug}} = \frac{F _{\rm{G}}}{n} = \frac{m \cdot g}{n} =
       \frac{\unit[220]{kg} \cdot \unit[9,81]{\frac{N}{kg} }}{8} =
       \unit[269,8]{N}
@@ -218,10 +218,10 @@ Flaschenzügen und Rollen>` zum Abschnitt :ref:`Flaschenzüge und Rollen
   \unit[1962]{N}` muss somit nur etwas mehr als ein Achtel des Kraftwertes, d.h.
   :math:`\unit[269,8]{N}`, aufgewendet werden. Gleichzeitig muss das Seil um die
   :math:`8`-fache Weglänge, d.h. um :math:`8 \cdot \unit[3]{m} = \unit[24]{m}`,
-  angehoben werden. 
-  
+  angehoben werden.
+
   :ref:`Zurück zur Aufgabe <Flaschenzug-01>`
-  
+
 
 ----
 
@@ -235,17 +235,17 @@ Flaschenzügen und Rollen>` zum Abschnitt :ref:`Flaschenzüge und Rollen
   = m _{\rm{Last}} \cdot g` anheben.
 
   .. math::
-      
+
       F _{\rm{Zug}} = \frac{F _{\rm{Last}}}{n} \quad &\Longleftrightarrow \quad F
       _{\rm{Last}} = n \cdot F _{\rm{Zug}} \\[8pt]
       m_{\rm{Last}} \cdot g  &= n \cdot m _{\rm{Person}} \cdot g \\[6pt]
       m _{\rm{Last}}  = n \cdot m _{\rm{Person}} &= 4 \cdot \unit[50]{kg} =
       \unit[200]{kg}
-  
+
   Eine :math:`\unit[50]{kg}` schwere Person kann somit mit Hilfe des
   Flaschenzugs eine Last mit einer Masse von maximal :math:`\unit[200]{kg}`
-  anheben. 
-  
+  anheben.
+
   :ref:`Zurück zur Aufgabe <Flaschenzug-02>`
 
 
@@ -260,28 +260,28 @@ Flaschenzügen und Rollen>` zum Abschnitt :ref:`Flaschenzüge und Rollen
   Kraft :math:`F` nötig:
 
   .. math::
-      
+
       F = \frac{1}{2^n} \cdot F _{\rm{G}} = \frac{1}{2^3} \cdot \unit[800]{N} =
       \frac{1}{8} \cdot \unit[800]{N} = \unit[100]{N}
-      
+
   Die zum Anheben nötige Kraft beträgt also mindestens :math:`F=\unit[100]{N}`.
   Berücksichtigt man das Eigengewicht :math:`F _{\rm{G,R}} = \unit[20]{N}` der
   einzelnen Rollen, so muss dieser Betrag an jeder losen Rolle zur jeweiligen Last
   hinzuaddiert werden.
-  
+
   .. figure:: ../../pics/mechanik/kraftwandler-und-getriebe/potenzflaschenzug-loesung.png
       :name: fig-potenzflaschenzug-loesung
       :alt:  fig-potenzflaschenzug-loesung
       :align: center
       :width: 33%
-  
+
       Anheben eines Gewichts mit Hilfe eines Potenzflaschenzugs.
-  
+
       .. only:: html
-      
+
           :download:`SVG: Potenzflaschenzug (Lösung)
           <../../pics/mechanik/kraftwandler-und-getriebe/potenzflaschenzug-loesung.svg>`
-  
+
   Zum Anheben der Last ist in diesem Fall, wie in der obigen Abbildung gezeigt,
   eine Kraft von :math:`F = \unit[117,5]{N}` nötig.
 
@@ -309,15 +309,15 @@ und Getriebe>`.
   ausübt. Für das Drehmoment, das der Fahrer auf die Kurbel ausübt, gilt:
 
   .. math::
-      
+
       M_1 = F_1 \cdot r_1 = \unit[50]{N} \cdot \unit[0,2]{m} = \unit[10]{Nm}
-        
+
   Das gleiche Drehmoment tritt auch im vorderen Zahnrad auf; da es jedoch einen
   kleineren Radius :math:`r_2` als die Kurbel hat, muss die auf die Kette
-  wirkende Kraft :math:`F_2` entsprechend größer sein: 
+  wirkende Kraft :math:`F_2` entsprechend größer sein:
 
   .. math::
-      
+
       M_1 = M_2 \quad \Leftrightarrow \quad F_1 \cdot r_1 = F_2 \cdot r_2 \\[6pt]
 
       \Rightarrow F_2 = \frac{r_1}{r_2} \cdot F_1 =
@@ -329,7 +329,7 @@ und Getriebe>`.
   :math:`M_3` am hinteren Zahnrad gilt somit:
 
   .. math::
-      
+
       M_3 = F_3 \cdot r_3 = \unit[100]{N} \cdot \unit[0,05]{m} = \unit[5]{Nm}
 
   Das gleiche Drehmoment wirkt wegen der starren Verbindung mit dem hinteren
@@ -337,7 +337,7 @@ und Getriebe>`.
   hat, ist die zugehörige Kraft :math:`F_4` am Umfang entsprechend geringer:
 
   .. math::
-      
+
       M_3 = M_4 \quad \Leftrightarrow \quad F_3 \cdot r_3 = F_4 \cdot r_4
       \\[6pt] \Rightarrow F_4 = \frac{r_3}{r_4} \cdot F_3 =
       \frac{\unit[0,05]{m}}{\unit[0,35]{m}} \cdot \unit[100]{N} \approx
@@ -367,7 +367,7 @@ und Getriebe>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Kraftwandler und Getriebe>`

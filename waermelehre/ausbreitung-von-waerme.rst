@@ -10,7 +10,7 @@ gleiche Temperatur erreicht haben ("Wärmegleichgewicht"). Die vom kalten Körpe
 aufgenommene Wärmemenge :math:`Q _{\rm{1}}` ist hierbei gleich der vom warmen
 Körper abgegebenen Wärmemenge :math:`Q _{\rm{2}}`.
 
-..  
+..
     Soll die Temperatur eines Körpers geändert werden, so muss dem System
     Wärme, d.h. Energie zugeführt werden. Die dabei benötigte oder
     freigesetzte Wärmemenge :math:`Q` hängt von der Masse :math:`m`, der
@@ -58,7 +58,7 @@ unterschiedlich gut leiten:
   Computerchips eingesetzt. In chemischen Laboren werden zur Verwendung von
   Bunsenbrennern feinmaschige Drahtgitter eingesetzt, um die Flamme nach oben
   hin zu begrenzen: Das Gitter leitet die Wärme ab, so dass das Gas auf der
-  oberen Seite die Zündtemperatur nicht erreicht. 
+  oberen Seite die Zündtemperatur nicht erreicht.
 
 * Glas, Porzellan, Plastik, Schaumstoff und Holz sind schlechte Wärmeleiter.
   Schaumstoff, Styropor u.ä. wird in Bauwerken als Isolationsmaterial
@@ -72,7 +72,7 @@ unterschiedlich gut leiten:
 
 .. list-table:: Wärmeleitfähigkeiten verschiedener Materialien
     :name: tab-waermeleitfaehigkeiten
-    :widths: 50 50 
+    :widths: 50 50
 
     * - Material
       - :math:`\lambda` in :math:`\unit[]{\frac{W}{m \cdot K}}`
@@ -82,9 +82,9 @@ unterschiedlich gut leiten:
       - :math:`389`
     * - Aluminium
       - :math:`220`
-    * - Eisen 
+    * - Eisen
       - :math:`74`
-    * - Eis 
+    * - Eis
       - :math:`2,2`
     * - Schaumstoffe, Glas, Porzellan, Beton
       - :math:`\approx 1,0`
@@ -113,7 +113,7 @@ _{\rm{Q}}` gilt also:
 
 .. math::
     :label: eqn-waermestrom
-    
+
     I _{\rm{Q}} = \frac{\Delta Q}{\Delta t}
 
 Der Wärmestrom wird in Watt (Joule je Sekunde) gemessen. Der Wärmestrom durch
@@ -122,7 +122,7 @@ bezeichnet und in Watt je Quadratmeter gemessen:
 
 .. math::
     :label: eqn-waermestromdichte-definition
-    
+
     j _{\rm{Q}} = \frac{I _{\rm{Q}}}{A}
 
 Die Wärmestromdichte :math:`j _{\rm{Q}}` ist einerseits proportional zum
@@ -134,7 +134,7 @@ gilt also:
 
 .. math::
     :label: eqn-waermestromdichte
-    
+
     j _{\rm{Q}} = - \lambda \cdot \frac{\Delta T}{l}
 
 Das Minuszeichen gibt an, dass der Wärmestrom stets in Richtung der kälteren
@@ -150,7 +150,7 @@ Dämmschicht, aus mehr als einem Material. Werden dabei einzelne Schichten mit
 gleichen Flächen, aber unterschiedlichen Schichtdicken :math:`l_1 ,\, l_2 ,\,
 \text{usw.}` und unterschiedlichen Wärmeleitfähigkeiten :math:`\lambda _1 ,\,
 \lambda _2 ,\, \text{usw.}` durchlaufen, so handelt es sich um eine
-"Reihenschaltung" mehrerer Wärmeleiter. 
+"Reihenschaltung" mehrerer Wärmeleiter.
 
 Um die Wärmestromdichte in diesem Fall zu berechnen, muss man -- wie beim
 :ref:`Ohmschen Gesetz <Ohmsches Gesetz>` der Elektrizitätslehre -- die
@@ -160,7 +160,7 @@ dem sich die obige Gleichung für den Wärmestrom folgendermaßen formulieren
 lässt: [#]_
 
 .. math::
-    
+
     I _{\rm{Q}} = \frac{\lambda \cdot A}{l} \cdot \Delta T = \frac{1}{R} \cdot
     \Delta T
 
@@ -169,7 +169,7 @@ für :math:`R`:
 
 .. math::
     :label: eqn-waermedurchlasswiderstand-reihenschaltung
-    
+
     R _{\rm{ges}} = \sum_{i=1}^{n} R_i =  \frac{l_1}{\lambda _1 \cdot
     A_1 } + \frac{l_2}{\lambda _2 \cdot A_2} + \ldots + \frac{l_n}{\lambda_n
     \cdot A_n}
@@ -182,7 +182,7 @@ ausgeklammert werden. Allgemein gilt für den Wärmestrom :math:`I _{\rm{Q,RS}}`
 bei einer Reihenschaltung:
 
 .. math::
-    :label: eqn-waermestromdichte-reihenschaltung    
+    :label: eqn-waermestromdichte-reihenschaltung
 
     I _{\rm{Q, RS}} = \frac{1}{R _{\rm{ges}}} \cdot \Delta T = \frac{1}{\left(
     \frac{l _1}{\lambda _1 \cdot A_1} + \frac{l_2}{\lambda _2 \cdot A_2} +
@@ -195,7 +195,7 @@ In diesem Fall addieren sich die Kehrwerte der Wärmewiderstände zum Kehrwert
 des Gesamtwiderstands:
 
 .. math::
-    
+
     \frac{1}{R _{\rm{ges}}} = \sum_{i=1}^{n} \frac{1}{R_i}  = \frac{\lambda_1
     \cdot A_1}{l_1} + \frac{\lambda_2 \cdot A_2}{l_2} + \ldots + \frac{\lambda_n
     \cdot A_n}{l_n}
@@ -207,7 +207,7 @@ werden. Allgemein gilt für den Wärmestrom :math:`I _{\rm{Q,PS}}` bei einer
 Parallelschaltung:
 
 .. math::
-    :label: eqn-waermestromdichte-parallelschaltung    
+    :label: eqn-waermestromdichte-parallelschaltung
 
     I _{\rm{Q,PS}} = \frac{1}{R _{\rm{ges}}} \cdot \Delta T = \left( \frac{A_1
     \cdot \lambda_1}{l _1} + \frac{A_2 \cdot \lambda_2}{l _2} + \ldots +
@@ -218,10 +218,10 @@ mit unterschiedlich großen Flächen genutzt werden, beispielsweise einer
 Außenwand mit einem Fenster oder mehreren Fenstern. Gibt es mehrere
 Systemgrenzen mit unterschiedlichen Temperaturdifferenzen (beispielsweise
 Innenwände und Außenwände), so müssen die Wärmeströme durch die einzelnen
-Bereiche separat berechnet und ihre Werte addiert werden: 
+Bereiche separat berechnet und ihre Werte addiert werden:
 
 .. math::
-    
+
     I _{\rm{Q, PS}} = \sum_{i=1}^{n}  \frac{\lambda _{\rm{i}}}{l _{\rm{i}}}
     \cdot A _{\rm{i}} \cdot \Delta T _{\rm{i}}
 
@@ -234,24 +234,24 @@ Die Wärmeströmung
 
 Strömende Flüssigkeiten und Gase können Wärme mitführen. Diese Art der
 Wärmeausbreitung, bei der die am Wärmetransport beteiligten Teilchen ihre Lage
-ändern, wird Wärmeströmung genannt. 
+ändern, wird Wärmeströmung genannt.
 
 *Beispiele:*
 
 * Winde und Meeresströmungen transportieren die Wärme vom Äquator in Richtung
-  der Pole. 
+  der Pole.
 
 * In einem Fön wird durch ein Windrad Luft angesaugt und an elektrisch
   beheizten Heizdrähten vorbei geleitet. So entsteht ein warmer Luftstrom. Mit
-  dem Luftstrom gelangt Wärme an den gewünschten Ort. 
+  dem Luftstrom gelangt Wärme an den gewünschten Ort.
 
 * Bei einer Warmwasserheizung wird die Wärme durch das Wasser von der
-  Zentralheizung aus in die Heizkörper transportiert. 
+  Zentralheizung aus in die Heizkörper transportiert.
 
   Eine Vorrichtung zur Strömungserzeugung wie bei einem Fön ist dabei nicht
   nötig: An der erwärmten Stelle dehnt sich das Wasser aus, seine Dichte nimmt
   ab. Das erwärmte Wasser steigt deshalb nach oben. Kühleres Wasser strömt von
-  der Seite her nach, so dass sich ein "Kreislauf" bildet. 
+  der Seite her nach, so dass sich ein "Kreislauf" bildet.
 
 * Jede Flamme ruft in ihrer Umgebung eine Wärmeströmung hervor. Staub oder
   andere leichte Körper werden entlang dieser Strömung fort getragen. Durch die
@@ -274,7 +274,7 @@ so genannten Wärmeübertragungskoeffizienten :math:`h _{\rm{cv}}` ist:
 
 .. math::
     :label: eqn-waermestromdichte-konvektion
-    
+
     j _{\rm{Q,cv}} = h _{\rm{cv}} \cdot \Delta T
 
 Der Wärmeübertragungskoeffizient :math:`h _{\rm{cv}}` wird in
@@ -306,7 +306,7 @@ Anteile ergibt stets :math:`100\%`.
 
 * Körper mit dunkler Oberfläche absorbieren einen größeren Teil der Strahlung
   als Körper mit heller Oberfläche; sie erwärmen sich daher schneller. Der
-  übrige Teil der Strahlung wird reflektiert. 
+  übrige Teil der Strahlung wird reflektiert.
 * Glänzende Metalloberflächen reflektieren einen großen Teil der Wärmestrahlung,
   die restliche Wärmestrahlung wird absorbiert.
 * Durchsichtiges Glas absorbiert nur einen kleinen Teil der Wärmestrahlung. Die
@@ -317,10 +317,10 @@ Anteile ergibt stets :math:`100\%`.
 
 Quantitativ kann die von einem heißen Gegenstand ausgestrahlte Wärmestrahlung
 -- ähnlich wie bei den anderen Wärmetransportarten -- durch die
-Energiestromdichte :math:`j _{\rm{s}}` beschrieben werden: 
+Energiestromdichte :math:`j _{\rm{s}}` beschrieben werden:
 
 .. math::
-    
+
     j _{\rm{Q,s}} = \frac{\Delta Q}{\Delta t \cdot A}
 
 Diese Größe wird bisweilen auch "Bestrahlungsstärke" genannt, ihre Einheit ist
@@ -328,7 +328,7 @@ Watt je Quadratmeter. Beispielsweise kann in Mitteleuropa die Sonne an einem
 wolkenlosen Sommertag eine Bestrahlungsstärke von rund
 :math:`\unit[1000]{\frac{W}{m^2}}` erreichen. [#]_
 
-.. index:: 
+.. index::
     single: Schwarzer Körper
     single: Stefan-Boltzmann-Gesetz
 
@@ -345,7 +345,7 @@ absoluten Temperatur (gemessen in Kelvin) ist:
 
 .. math::
     :label: eqn-stefan-boltzmann-gesetz
-    
+
     j _{\rm{Q,s}} = \sigma \cdot T^4
 
 Die dabei auftretende Konstante :math:`\sigma = \unit[5,670 \cdot 10
@@ -365,9 +365,9 @@ Wellenlänge :math:`\lambda` abhängig.
 
     Die spektrale Energiedichte (abgestrahlte Energie je Wellenlänge) der
     Wärmestrahlung eines schwarzen Körpers bei verschiedenen Temperaturen.
-  
+
     .. only:: html
-    
+
         :download:`SVG: Wärmestrahlung eines schwarzen Körpers
         <../pics/waermelehre/waermestrahlung-schwarzer-koerper.svg>`
 
@@ -376,24 +376,24 @@ Wellenlänge :math:`\lambda` abhängig.
 Mit steigender Temperatur verschiebt sich das Spektrum der Strahlung zu kürzeren
 Wellenlängen. Während bei geringen Temperaturen die abgestrahlten Wellenlängen
 überwiegend im infraroten Bereich liegen, beginnt eine heiße Oberfläche ab einer
-Temperatur von mindestens :math:`T=\unit[700]{^{\circ}C}` (rund
+Temperatur von mindestens :math:`T=\unit[700]{\degree C}` (rund
 :math:`\unit[1000]{K}`) für das menschliche Auge sichtbar zu glühen. Quantitativ
 lässt sich dieser Zusammenhang durch das nach seinem Entdecker `Wilhelm Wien
 <https://de.wikipedia.org/wiki/Wilhelm_Wien>`_ benannte "Wiensche
-Verschiebungsgesetz" beschreiben: 
+Verschiebungsgesetz" beschreiben:
 
 .. math::
     :label: eqn-wiensches-verschiebungsgesetz
-    
+
     \lambda _{\rm{max}} = \frac{\unit[2897,8]{\mu m \cdot K}}{T}
 
 Hierbei beschreibt :math:`\lambda _{\rm{max}}` das Maximum der spektralen
 Energiedichte bei einer bestimmten (absoluten) Temperatur :math:`T`. Für eine
 Temperatur von etwa :math:`\unit[5800]{K}` stimmt die Wärmestrahlung eines
 schwarzen Körpers in sehr guter Näherung mit dem Strahlungsspektrum der Sonne
-überein. 
+überein.
 
- 
+
 .. raw:: html
 
     <hr />
@@ -414,19 +414,19 @@ schwarzen Körpers in sehr guter Näherung mit dem Strahlungsspektrum der Sonne
     :math:`\Delta T` ebenso angetrieben wie ein elektrischer Strom :math:`I` von
     einer elektrischen Spannungsdifferenz :math:`\Delta U`. Die gleiche
     Gesetzmäßigkeit gilt außerdem auch bei Diffusionsströmen, die wird
-    Konzentrationsdifferenzen :math:`\Delta c` angetrieben werden. 
+    Konzentrationsdifferenzen :math:`\Delta c` angetrieben werden.
 
 .. [#] Die Analogie zum Ohmschen Gesetz der Elektrizitätslehre besteht darin,
     dass dieses folgendermassen geschrieben werden kann:
 
     .. math::
-        
+
         I = \frac{\Delta Q _{\rm{el}}}{\Delta t} = \frac{U}{R _{\rm{el}}}
 
     Für die Wärmeleitung gilt:
 
     .. math::
-        
+
         I _{\rm{Q}} = \frac{\Delta Q}{\Delta t} = \left( \frac{\lambda \cdot
         A}{l}\right) \cdot \Delta T
 
@@ -443,7 +443,7 @@ schwarzen Körpers in sehr guter Näherung mit dem Strahlungsspektrum der Sonne
     werden als:
 
     .. math::
-        
+
         R _{\rm{el}} = \frac{\rho \cdot l}{A}
 
     Verwendet man anstelle des spezifischen Widerstands :math:`\rho` die
@@ -451,7 +451,7 @@ schwarzen Körpers in sehr guter Näherung mit dem Strahlungsspektrum der Sonne
     materialspezifische Kenngröße, so gilt für den elektrischen Widerstand:
 
     .. math::
-        
+
         R _{\rm{el}} = \frac{l}{\sigma \cdot A}
 
     Die elektrische Wärmeleitfähigkeit :math:`\sigma` entspricht der
@@ -461,6 +461,6 @@ schwarzen Körpers in sehr guter Näherung mit dem Strahlungsspektrum der Sonne
 
 .. [#] Außerhalb der Lufthülle der Erde beträgt die Strahlungsintensität der Sonne
     im Jahresmitte :math:`\unit[1367]{\frac{W}{m^2}}`; diese Größe wird mitunter
-    auch als "Solarkonstante" bezeichnet. 
+    auch als "Solarkonstante" bezeichnet.
 
 

@@ -22,7 +22,7 @@ mit :math:`-v _x` seine ursprüngliche Geschwindigkeit, so gilt für die
 der Wand erfährt:
 
 .. math::
-    
+
     \Delta (m \cdot v) = m \cdot v_x - (- m \cdot v_x) = 2 \cdot m \cdot v_x
 
 Bis das Teilchen wieder auf die linke Wand trifft, muss es eine Strecke von
@@ -31,14 +31,14 @@ Bis zum nächsten Stoß mit der linken Wand vergeht somit folgende Zeit
 :math:`\Delta t`:
 
 .. math::
-    
+
     \Delta t = \frac{s_x}{v_x} = \frac{2 \cdot l}{v_x}
 
 Die Kraft, die das Teilchen auf die Wand ausübt, ist gleich der Impulsänderung
 je Zeit:
 
 .. math::
-    
+
     F = \frac{\Delta (m \cdot v)}{\Delta t} = \frac{2 \cdot m \cdot v_x}{\frac{2
     \cdot l}{v_x}} = \frac{m \cdot v_x^2}{l}
 
@@ -46,7 +46,7 @@ Der Druck, der von dem einzelnen Teilchen auf die linke Wand ausgeübt wird, ist
 gleich dem Quotienten aus Kraft und Wandfläche:
 
 .. math::
-    
+
     p = \frac{F}{A} = \frac{m \cdot v_x^2}{A \cdot l}
     = \frac{2 \cdot m \cdot v_x^2}{V}
 
@@ -57,7 +57,7 @@ _{x,2},\, \ldots,\, v _{x,n}`  hin- und herbewegen, so addieren sich die
 einzelnen Beiträge zum Gesamtdruck:
 
 .. math::
-    
+
     p = \frac{F}{A} = \frac{m}{V} \cdot ( v _{x,1}^2 + v _{x,2}^2 +
     \ldots + v _{x,n}^2)
 
@@ -68,7 +68,7 @@ Geschwindigkeits-Quadrat der Teilchen zu rechnen. Dieses entspricht dem
 arithmetischen Mittel der einzelnen Werte:
 
 .. math::
-    
+
     \bar{v_x}^2 = \frac{v _{x,1}^2 + v _{x,2}^2 +
     \ldots + v _{x,n}^2}{N} \quad \Longleftrightarrow \quad v _{x,1}^2 + v _{x,2}^2 +
     \ldots + v _{x,n}^2 = N \cdot \bar{v_x}^2
@@ -76,23 +76,23 @@ arithmetischen Mittel der einzelnen Werte:
 Setzt man diesen Ausdruck in die obige Gleichung ein, so erhält man:
 
 .. math::
-    
+
     p = \frac{m}{V} \cdot N \cdot \bar{v_x}^2
-    
+
 Bei der Bewegung der Gasteilchen im Behälter tritt keine
 Geschwindigkeitsrichtung bevorzugt auf. Wenn sich im Durchschnitt gleich
 viele Gasteilchen in :math:`x`-, :math:`y`- und :math:`z`-Richtung bewegen, muss
-:math:`\bar{v_x}^2 = \bar{v_y}^2 = \bar{v_z}^2` gelten. 
+:math:`\bar{v_x}^2 = \bar{v_y}^2 = \bar{v_z}^2` gelten.
 
 .. math::
-    
+
     \bar{v}^2 = \bar{v_x}^2 + \bar{v_y}^2 + \bar{v_z}^2 \quad
     \Longleftrightarrow \quad \bar{v_x}^2 = \frac{1}{3} \cdot \bar{v}^2
 
 Somit kann die obige Gleichung in folgender Form geschrieben werden:
 
 .. math::
-    
+
     p &= \frac{1}{3} \cdot \frac{N}{V} \cdot m \cdot \bar{v}^2 \\ &= \frac{1}{3}
     \cdot \frac{N}{V} \cdot 2 \cdot \frac{1}{2} \cdot m \cdot \bar{v}^2
 
@@ -104,7 +104,7 @@ lässt, es allerdings ermöglicht, den Faktor :math:`\left( \frac{1}{2} \cdot m
 weiter um, so folgt:
 
 .. math::
-    
+
     p \cdot V = \frac{2}{3} \cdot N \cdot \bar{E}_{\rm{kin}}
 
 Der Ausdruck :math:`p \cdot V` auf der linken Gleichungsseite entspricht nach
@@ -116,7 +116,7 @@ _{\rm{B}} = \unit[1,38 \cdot 10 ^{-23}]{\frac{J}{K}}` die so genannte `Boltzmann
 :math:`n=\unit[1]{mol}` eines Gases gilt also:
 
 .. math::
-    
+
     N \cdot k _{\rm{B}} \cdot T = \frac{2}{3} \cdot N \cdot \bar{E}_{\rm{kin}}
 
 Damit erhält man als Gesamtergebnis der kinetischen Gastheorie folgende
@@ -124,7 +124,7 @@ Gleichung:
 
 .. math::
     :label: eqn-kinetische-gastheorie
-    
+
     \bar{E}_{\rm{kin}} = \frac{3}{2} \cdot k _{\rm{B}} \cdot T
 
 Die kinetische Energie der Gasteilchen nimmt somit direkt proportional mit der
@@ -138,27 +138,27 @@ bestimmten Temperatur ist.
 *Beispiele:*
 
 * Wie groß ist die kinetische Gesamtenergie aller Moleküle eines idealen Gases
-  bei einer Temperatur von :math:`\unit[0]{^{\circ}C}` und einer Stoffmenge von
+  bei einer Temperatur von :math:`\unit[0]{\degree C}` und einer Stoffmenge von
   :math:`n= \unit[1]{mol}`?
 
   Nach der kinetischen Gastheorie gilt für die durchschnittliche kinetische
   Energie eines einzelnen Gasteilchens:
 
   .. math::
-      
+
      \bar{E}_{\rm{kin}} = \frac{3}{2} \cdot k _{\rm{B}} \cdot T = \frac{3}{2}
-     \cdot \unit[1,38 \cdot 10 ^{-23}]{\frac{J}{K}} \cdot \unit[273]{K} \approx 
+     \cdot \unit[1,38 \cdot 10 ^{-23}]{\frac{J}{K}} \cdot \unit[273]{K} \approx
      \unit[5,65 \cdot \unit[10]{-21}]{J}
 
   Multipliziert man diesen Wert mit der Anzahl :math:`N _{\rm{A}} = \unit[6,022
   \cdot 10 ^{23}]{\frac{1}{mol}}` an Teilchen je Mol, so erhält man als
-  Gesamtenergie für ein Mol an Teilchen: 
+  Gesamtenergie für ein Mol an Teilchen:
 
   .. math::
-      
+
       \bar{E}_{\rm{kin,ges}} = \unit[5,65 \cdot 10 ^{-21}]{J} \cdot \unit[6,022
       \cdot 10 ^{23}]{\frac{1}{mol}} \approx \unit[3403]{\frac{J}{mol}}
-  
+
   Unter :ref:`Normalbedingungen <Normalvolumen>` hat ein Mol eines idealen Gases
   ein Volumen von rund :math:`\unit[22,4]{l}`. Die darin enthaltene kinetische
   Energie :math:`E _{\rm{kin,ges}} \approx  \unit[3,4]{kJ}` aller Teilchen
@@ -170,13 +170,13 @@ bestimmten Temperatur ist.
   Umgebung "abzapfen" und einer wärmeren Umgebung zuführen können.
 
 * Wie groß ist die Wurzel aus dem mittleren Geschwindigkeitsquadrat
-  :math:`\bar{v}^2` von Luftmolekülen bei :math:`T = \unit[20]{^{\circ}C}`?
-      
+  :math:`\bar{v}^2` von Luftmolekülen bei :math:`T = \unit[20]{\degree C}`?
+
   Nach der kinetischen Gastheorie gilt für die durchschnittliche kinetische
   Energie eines einzelnen Gasteilchens der Masse :math:`m`:
 
   .. math::
-      
+
       \bar{E}_{\rm{kin}} = \frac{1}{2} \cdot m \cdot \bar{v}^2 = \frac{3}{2}
       \cdot k _{\rm{B}} \cdot T \quad \Longleftrightarrow \quad \bar{v}^2 =
       \frac{3 \cdot k _{\rm{B}} \cdot T}{m}
@@ -185,11 +185,11 @@ bestimmten Temperatur ist.
   Masse>` gezeigt, beträgt die Masse von einem Mol an Stickstoff-Teilchen
   :math:`\unit[28]{g}`, die Masse von einem Mol an Sauerstoff-Teilchen
   :math:`\unit[32]{g}`. Teilt man diese Werte jeweils durch die Anzahl :math:`N
-  _{\rm{A}} = \unit[6,022 \cdot 10 ^{23}]{\frac{1}{mol}}` an Teilchen je Mol, 
+  _{\rm{A}} = \unit[6,022 \cdot 10 ^{23}]{\frac{1}{mol}}` an Teilchen je Mol,
   so erhält man als Masse eines Stickstoff- bzw. Sauerstoff-Teilchens:
 
   .. math::
-      
+
       m _{\ce{N2}} = \frac{\unit[28]{\frac{g}{mol}}}{\unit[6,022 \cdot 10
       ^{-23}]{\frac{1}{mol}}} \approx \unit[4,65 \cdot 10 ^{-23}]{g} =
       \unit[4,65 \cdot 10 ^{-26}]{kg}  \\
@@ -201,7 +201,7 @@ bestimmten Temperatur ist.
   Geschwindigkeiten der Stickstoff- und Sauerstoffmoleküle:
 
   .. math::
-      
+
       \sqrt{\bar{v}_{\ce{N2}}^2} = \sqrt{\frac{3 \cdot \unit[1,38 \cdot 10
       ^{-23}]{\frac{J}{K}} \cdot \unit[(273+20)]{K}}{\unit[4,6 \cdot 10
       ^{-26}]{kg}}} \approx \unit[511]{\frac{m}{s}} \\

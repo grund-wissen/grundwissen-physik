@@ -15,8 +15,8 @@ Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
 .. _Gleichgewicht-01-Lösung:
 
 *   Die Standfestigkeit eines Körpers ist umso größer, je größer seine Masse und
-    Standfläche und je tiefer sein Schwerpunkt ist. 
-    
+    Standfläche und je tiefer sein Schwerpunkt ist.
+
   :ref:`Zurück zur Aufgabe <Gleichgewicht-01>`
 
 
@@ -27,7 +27,7 @@ Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Drehmoment und Gleichgewicht>`

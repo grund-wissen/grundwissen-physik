@@ -68,11 +68,11 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
 *Durchführung:*
 
 - Zeichne eine beliebige, nicht zu kleine Form auf einem Karton auf.
-- Schneide die Form mit einer Schere aus. 
+- Schneide die Form mit einer Schere aus.
 - Bohre mit der Spitze der Schere an drei Stellen Löcher mit etwa 5 mm
   Durchmesser in die Form. Bessere Variante (sofern vorhanden): Stanze mit einer
   Lochzange oder einem Locheisen und einer Unterlage entsprechende Löcher in den
-  Karton ein. 
+  Karton ein.
 - Bringe die Form an einem der drei Bohrlöcher gut drehbar an der Achse an.
   Befestige anschließend das Pendelgewicht mittels der Maurerschnur an der
   Achse und zeichne auf dem Karton eine Gerade entlang der Maurerschnur ein.
@@ -88,7 +88,7 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
     Durchmesser und gleicher Masse (oder auch Holzzylinder mit gleichem
     Durchmesser, aber unterschiedlicher Länge/Masse) auf schiefer Ebene
     hinabrollen lassen. Unterschiedliches Trägheitsmoment -> nicht gleich
-    schnell! 
+    schnell!
 
 
 .. raw:: latex
@@ -98,7 +98,7 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Drehmoment und Gleichgewicht>`

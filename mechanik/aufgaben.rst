@@ -1,4 +1,4 @@
-.. meta:: 
+.. meta::
     :description: Übungsaufgaben zur Mechanik
     :keywords:  Physik, Physik Aufgaben, Mechanik, Mechanik Aufgaben, Grundwissen, Schule, Lehrbuch
 
@@ -20,6 +20,6 @@ Aufgaben zur Mechanik
     festkoerper-fluessigkeiten-gase/aufgaben.rst
 
 
-..  
+..
     Bislang: 61 Aufgaben mit Loesungen
 

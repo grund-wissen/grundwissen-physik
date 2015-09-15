@@ -1,4 +1,4 @@
-.. index:: 
+.. index::
     single: Bewegung; Geradlinige Bewegung
     single: Geradlinige Bewegung
 .. _Geradlinige Bewegungen:
@@ -23,7 +23,7 @@ durch Angabe eines Punktes :math:`s (t)` auf dieser Achse bestimmt werden.
     werden.
 
     .. only:: html
-    
+
         :download:`SVG: Geradlinige Bewegung
         <../../pics/mechanik/kinematik/geradlinige-bewegung.svg>`
 
@@ -33,11 +33,11 @@ Geradlinige Bewegungen mit konstanter Geschwindigkeit
 -----------------------------------------------------
 
 Bei einer geradlinigen Bewegung mit konstanter Geschwindigkeit legt ein Körper
-in gleichen Zeitabschnitten die jeweils gleiche Wegstrecke zurück. 
+in gleichen Zeitabschnitten die jeweils gleiche Wegstrecke zurück.
 
 .. index:: Geschwindigkeit
 
-*Definition:* 
+*Definition:*
 
     Die Geschwindigkeit :math:`v` eines sich mit konstanter Geschwindigkeit
     bewegenden Körpers ist gleich dem Verhältnis aus der zurückgelegten
@@ -45,21 +45,21 @@ in gleichen Zeitabschnitten die jeweils gleiche Wegstrecke zurück.
 
     .. math::
         :label: eqn-geschwindigkeit
-        
-        v = \frac{\Delta s}{\Delta t} 
 
-..  = \frac{s _{\rm{2}} - s _{\rm{1}}}{t _{\rm{2}} - t _{\rm{1}}} 
+        v = \frac{\Delta s}{\Delta t}
 
-*Einheit:* 
+..  = \frac{s _{\rm{2}} - s _{\rm{1}}}{t _{\rm{2}} - t _{\rm{1}}}
+
+*Einheit:*
 
     Die Geschwindigkeit wird meist in Kilometer je Stunde
     (:math:`\unit[]{km/h}`) oder in Meter je Sekunde (:math:`\unit[]{m/s}`)
-    angegeben. 
+    angegeben.
 
 *Beispiele:*
 
 * Licht legt in einer Sekunde 300 000 Kilometer zurück. Die
-  Lichtgeschwindigkeit beträgt somit :math:`\unit[300\,000\,000]{m/s}`. 
+  Lichtgeschwindigkeit beträgt somit :math:`\unit[300\,000\,000]{m/s}`.
 * Eine Schnecke legt in einer Sekunde etwa :math:`\unit[0,8]{mm}` zurück.
   "Schneckentempo" entspricht somit ungefähr :math:`\unit[0,0008]{m/s}`.
 
@@ -79,7 +79,7 @@ Koordinatensystem eingezeichnet.
     Geschwindigkeit kann größer, gleich oder kleiner null sein.
 
     .. only:: html
-    
+
         :download:`SVG: v(t)-Diagramm: Konstante Geschwindigkeit
         <../../pics/mechanik/kinematik/v-t-diagramm-konstante-geschwindigkeit.svg>`
 
@@ -105,7 +105,7 @@ werden. Aus Gleichung :eq:`eqn-geschwindigkeit` folgt, dass sich die Wegstrecke
 :math:`\Delta s` bei konstanter Geschwindigkeit :math:`v` in gleichen
 Zeitabschnitten :math:`\Delta t` kontinuierlich um :math:`\Delta s = v \cdot
 \Delta t` ändert -- die entsprechende Weg-Zeit-Linie entspricht also einer
-Geraden. 
+Geraden.
 
 .. figure:: ../../pics/mechanik/kinematik/s-t-diagramm-konstante-geschwindigkeit.png
     :name: fig-s-t-diagramm-konstante-geschwindigkeit
@@ -117,7 +117,7 @@ Geraden.
     Weg-Zeit-Geraden kann größer, gleich oder kleiner null sein.
 
     .. only:: html
-    
+
         :download:`SVG: s(t)-Diagramm: Konstante Geschwindigkeit
         <../../pics/mechanik/kinematik/s-t-diagramm-konstante-geschwindigkeit.svg>`
 
@@ -130,7 +130,7 @@ Die :ref:`Steigung <gwm:Differenzen- und Differentialquotient>` der Geraden im
   Entfernung vom Beobachter unverändert -- egal, ob sich der beobachtete Körper
   an der Position des Beobachters oder in einer Entfernung :math:`s _{\rm{0}}`
   vom Beobachter entfernt liegt. In beiden Fällen entspricht zeitliche Verlauf
-  des zurückgelegten Weges einer waagrechten Geraden. 
+  des zurückgelegten Weges einer waagrechten Geraden.
 * Das Vorzeichen der Geschwindigkeit gibt an, ob die Gerade im
   :math:`s(t)`-Diagramm steigt oder fällt. Eine negative Steigung bedeutet
   hierbei, dass sich der beobachtete Körper entgegen der ursprünglich als
@@ -145,7 +145,7 @@ Gegebenenfalls muss das Vorzeichen berücksichtigt werden und die anfängliche
 Entfernung :math:`s _{\rm{0}}` zum Ergebnis hinzu addiert werden.
 
 
-.. index:: 
+.. index::
     single: Geschwindigkeit; Umrechnung von km/h in m/s
 
 .. _Umrechnung von Geschwindigkeitsangaben:
@@ -157,14 +157,14 @@ Geschwindigkeits-Einheiten üblich. Um sie ineinander umzurechnen, muss man
 bedenken, dass gilt:
 
 .. math::
-    
+
     \unit[1]{km} &= \unit[1000]{m} \\
     \unit[1]{h} = \unit[60]{min} &= \unit[60 \cdot 60]{s} = \unit[3600]{s}
 
 Daraus folgt:
 
 .. math::
-    
+
     \unit[1]{\frac{km}{h}} = \frac{\unit[1]{km}}{\unit[1]{h}} =
     \frac{\unit[1000]{m}}{\unit[3600]{s}} = \unit[\frac{1000}{3600}
     ]{\frac{m}{s} } = \unit[\frac{1}{3,6} ]{\frac{m}{s} }
@@ -173,7 +173,7 @@ und umgekehrt:
 
 .. math::
     :label: eqn-umrechnung-geschwindigkeit
-    
+
     \unit[1]{\frac{m}{s} } = \unit[3,6]{\frac{km}{h} }
 
 Ein Spaziergänger beispielsweise, der sich mit knapp :math:`\unit[5]{km/h}`
@@ -186,32 +186,32 @@ bewegt, legt also in einer Sekunde etwas mehr als einen Meter zurück.
 .. rubric:: Die Durchschnittsgeschwindigkeit
 
 Auch wenn sich die Geschwindigkeit entlang einer Wegstrecke mehrfach ändert, so
-kann man trotzdem eine durchschnittliche Geschwindigkeit angeben. 
+kann man trotzdem eine durchschnittliche Geschwindigkeit angeben.
 
-.. index:: 
+.. index::
     single: Geschwindigkeit; Durchschnittsgeschwindigkeit
 
-*Definition:* 
+*Definition:*
 
     Die Durchschnittsgeschwindigkeit :math:`\bar{v}` eines Körpers ist gleich
     dem Verhältnis aus der Wegstrecke :math:`s _{\rm{ges.}}`, die er insgesamt
     zurücklegt, und der dazu benötigten Zeit :math:`t _{\rm{ges.}}`:
 
 .. math::
-    
-    \bar{v} = \frac{s _{\rm{ges.}}}{t _{\rm{ges.}}} 
+
+    \bar{v} = \frac{s _{\rm{ges.}}}{t _{\rm{ges.}}}
 
 
-*Beispiel:* 
+*Beispiel:*
 
 * Ein Radrennfahrer legt eine Etappe von :math:`\unit[200]{km}` in einer Zeit
   von :math:`\unit[5]{h}` zurück. Seine Durchschnittsgeschwindigkeit beträgt
   somit:
 
 .. math::
-  
+
   \bar{v} = \frac{s _{\rm{ges.}}}{t _{\rm{ges.}}} = \frac{\unit[200]{km}
-  }{\unit[5]{h} } = \unit[40]{\frac{km}{h} } 
+  }{\unit[5]{h} } = \unit[40]{\frac{km}{h} }
 
 
 .. index:: Relativgeschwindigkeit
@@ -228,12 +228,12 @@ Die wachsende Entfernung kann durch die so genannte Relativgeschwindigkeit
 
 .. math::
     :label: eqn-relativgeschwindigkeit
-    
+
     v _{\rm{rel}} = v_2 - v_1
 
 Diese Gleichung gibt die Relativgeschwindigkeit des zweiten Körpers relativ zum
 ersten Körper an; umgekehrt gibt :math:`v_1 - v_2` die Geschwindigkeit des
-ersten Körpers relativ zum zweiten an. Beide Relativgeschwindigkeiten haben 
+ersten Körpers relativ zum zweiten an. Beide Relativgeschwindigkeiten haben
 den gleichen Betrag, ein unterschiedliches Vorzeichen, da sie in ihren
 Richtungen entgegengesetzt sind. [#]_
 
@@ -248,7 +248,7 @@ Geradlinige Bewegungen mit konstanter Beschleunigung
 Bei einer Bewegung mit konstanter Beschleunigung nimmt die Geschwindigkeit eines
 Körpers in gleichen Zeitabschnitten um den jeweils gleichen Betrag zu bzw. ab.
 
-*Definition:* 
+*Definition:*
 
     Die Beschleunigung :math:`a` eines sich geradlinig bewegenden Körpers ist
     gleich dem Verhältnis aus der Geschwindigkeitsänderung :math:`\Delta v` und
@@ -256,22 +256,22 @@ Körpers in gleichen Zeitabschnitten um den jeweils gleichen Betrag zu bzw. ab.
 
     .. math::
         :label: eqn-konstante-beschleunigung
-        
-        a = \frac{\Delta v}{\Delta t} 
 
-    ..  = \frac{v_2 - v_1}{t_2 - t_1} 
+        a = \frac{\Delta v}{\Delta t}
+
+    ..  = \frac{v_2 - v_1}{t_2 - t_1}
 
     Beginnt die Bewegung zur Zeit :math:`t_1 = 0` aus der Ruhelage (:math:`v_1 =
     0`), so folgt:
 
     .. math::
-        
+
         a = \frac{v}{t}
 
 *Einheit:*
 
     Die Beschleunigung wird in Meter je Quadratsekunde :math:`(\unit[]{m/s^2})`
-    angegeben. 
+    angegeben.
 
 *Beispiele:*
 
@@ -282,7 +282,7 @@ Körpers in gleichen Zeitabschnitten um den jeweils gleichen Betrag zu bzw. ab.
 
 * Ein Fahrzeug, das in einer Zeit von :math:`t=\unit[10]{s}` von
   :math:`\unit[0]{km/h}` auf :math:`\unit[100]{km/h} = \unit[27,8]{m/s}`
-  angetrieben wird, weist eine Beschleunigung von :math:`\unit[2,78]{m/s^2}` 
+  angetrieben wird, weist eine Beschleunigung von :math:`\unit[2,78]{m/s^2}`
   auf.
 
 .. index:: Erdbeschleunigung
@@ -292,7 +292,7 @@ Körpers in gleichen Zeitabschnitten um den jeweils gleichen Betrag zu bzw. ab.
   ("Erdbeschleunigung"), beträgt rund :math:`\unit[9,81]{m/s^2}`. Häufig wird
   diese Beschleunigung, die bei vielerlei physikalischen Vorgängen eine Rolle
   spielt, mit dem Buchstaben :math:`g` bezeichnet und :ref:`Ortsfaktor
-  <Ortsfaktor>` genannt. 
+  <Ortsfaktor>` genannt.
 
 Bei längeren Bewegungsvorgängen können aufeinander folgende Zeitabschnitte
 unterschiedliche Beschleunigungen aufweisen. Beispielsweise beschleunigt ein
@@ -310,7 +310,7 @@ bremst nach der Ziellinie wieder gleichmäßig ab.
     Beschleunigung kann größer, gleich oder kleiner null sein.
 
     .. only:: html
-    
+
         :download:`SVG: a-t-Diagramm: Konstante Beschleunigung
         <../../pics/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.svg>`
 
@@ -319,7 +319,7 @@ Geschwindigkeit bei einer konstanten Beschleunigung :math:`a` in gleichen
 Zeitabschnitten :math:`\Delta t` kontinuierlich um den Wert :math:`\Delta v = a
 \cdot \Delta t` verändert -- die entsprechende Geschwindigkeit-Zeit-Linie
 entspricht also einer Geraden.
-        
+
 .. figure:: ../../pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.png
     :name: fig-v-t-diagramm-konstante-beschleunigung
     :alt:  fig-v-t-diagramm-konstante-beschleunigung
@@ -330,14 +330,14 @@ entspricht also einer Geraden.
     Geschwindigkeit-Zeit-Geraden kann größer, gleich oder kleiner null sein.
 
     .. only:: html
-    
+
         :download:`SVG: v(t)-Diagramm: Konstante Beschleunigung
         <../../pics/mechanik/kinematik/v-t-diagramm-konstante-beschleunigung.svg>`
 
 Die Steigung der Geschwindigkeit-Zeit-Linie hat folgende Bedeutung:
 
 * Umso steiler die Geschwindigkeit-Zeit-Gerade ist, desto größer ist die
-  Beschleunigung. 
+  Beschleunigung.
 * Ist die Beschleunigung des beobachteten Körpers gleich null, so entspricht die
   Geschwindigkeit-Zeit-Linie einer waagrechten Geraden. Dies gilt gleichermaßen
   für ruhende und sich mit konstanter Geschwindigkeit :math:`v _{\rm{0}}`
@@ -372,7 +372,7 @@ Der Übersicht halber wird an dieser Stelle davon ausgegangen, dass zum Zeitpunk
     Bild).
 
     .. only:: html
-    
+
         :download:`SVG: s(t)-Diagramm: Konstante Beschleunigung
         <../../pics/mechanik/kinematik/s-t-diagramm-konstante-beschleunigung.svg>`
 
@@ -381,16 +381,16 @@ _{\rm{0}}` lässt sich folgendermaßen beschreiben:
 
 * Gilt für die konstante Beschleunigung :math:`a > 0`, so nimmt die
   Geschwindigkeit :math:`v` linear und die zurückgelegte Wegstrecke :math:`s`
-  quadratisch mit der Zeit zu. 
+  quadratisch mit der Zeit zu.
 
   .. math::
       :label: eqn-konstante-beschleunigung-wegstrecke
-    
+
       s = \frac{1}{2} \cdot a \cdot t^2
 
   Gegebenenfalls muss noch eine Anfangsgeschwindigkeit :math:`v _{\rm{0}}`
   berücksichtigt bzw. deren Beitrag :math:`s=v _{\rm{0}} \cdot t`  zur
-  Gesamtwegstrecke hinzu addiert werden. 
+  Gesamtwegstrecke hinzu addiert werden.
 
 * Gilt für die konstante Beschleunigung :math:`a < 0`, so ist die (Halb-)Parabel
   nach unten hin geöffnet. Ohne Anfangsgeschwindigkeit :math:`(v _{\rm{0}}=0)`
@@ -405,24 +405,24 @@ _{\rm{0}}` lässt sich folgendermaßen beschreiben:
   der obigen Gleichung :eq:`eqn-konstante-beschleunigung-wegstrecke` herleiten
   lässt. [#]_ Mit einer Anfangsgeschwindigkeit :math:`v_0` gilt für den
   Zusammenhang zwischen :math:`v`, :math:`a` und :math:`s`:
-  
+
   .. math::
      :label: eqn-bremsformel
-      
+
       v^2 - v_0^2 = 2 \cdot a \cdot s
-  
+
   Diese Gleichung wird auch "Bremsformel" genannt; im Fall :math:`v=0` lässt
   sich damit der Bremsweg :math:`s = \frac{v_0^2}{2 \cdot |a|}` bei bekannter
   Anfangsgeschwindigkeit und Beschleunigung unmittelbar berechnen. Der Bremsweg
   nimmt bei gleicher Bremskraft quadratisch mit der Geschwindigkeit zu, was
   beispielsweise ein maßgebliches Kriterium für die Geschwindigkeitsbegrenzungen
-  in Ortschaften ist. 
+  in Ortschaften ist.
 
 .. todo:: Anhalteweg
 
 .. todo:: Beispiel Freier Fall
 
-..  
+..
     Brunnenschacht 80 m Tief, Fallzeit :math:`t = \sqrt{\frac{2 \cdot s}{g}}
     \approx \unit[4]{s}`, :math:`v = a \cdot t = g \cdot t \approx
     unit[40]{\frac{m}{s}}`.
@@ -430,7 +430,7 @@ _{\rm{0}}` lässt sich folgendermaßen beschreiben:
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
     .. rubric:: Anmerkungen:
@@ -448,26 +448,26 @@ _{\rm{0}}` lässt sich folgendermaßen beschreiben:
 
 .. [#] Bleibt -- wie bei einem senkrechten Wurf -- die Beschleunigung
     :math:`a<0` bestehen, so findet anschließend eine beschleunigte Bewegung
-    in negative :math:`s`-Richtung statt. 
+    in negative :math:`s`-Richtung statt.
 
 .. [#] Die Bremsformel :eq:`eqn-bremsformel` lässt sich durch folgende
     Umformungen auf die ursprünglichen Gleichungen
-    :eq:`eqn-konstante-beschleunigung` und 
+    :eq:`eqn-konstante-beschleunigung` und
     :eq:`eqn-konstante-beschleunigung-wegstrecke` zurückführen:
 
     .. math::
-        
-        v^2 - v_0^2 &= (a \cdot t + v_0)^2 - v_0^2 \\ 
+
+        v^2 - v_0^2 &= (a \cdot t + v_0)^2 - v_0^2 \\
         &= a^2 \cdot t^2 + 2 \cdot a \cdot v_0 \cdot t + v_0^2 - v_0^2 \\
         &= a^2 \cdot t^2 + 2 \cdot a \cdot v_0 \cdot t  \\
         &= 2 \cdot a \cdot (\frac{a}{2} \cdot t^2 + v_0 \cdot t) \\
         &= 2 \cdot a \cdot s \quad \checkmark
-    
+
 .. raw:: html
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu geradlinigen
     Bewegungen>` und :ref:`Übungsaufgaben <Aufgaben zu geradlinigen Bewegungen>`.

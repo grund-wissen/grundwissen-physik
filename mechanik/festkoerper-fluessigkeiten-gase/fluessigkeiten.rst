@@ -4,7 +4,7 @@ Mechanik der Flüssigkeiten
 ==========================
 
 In der Hydrodynamik werden die mechanischen Eigenschaften von Flüssigkeiten,
-insbesondere von Wasser, untersucht. 
+insbesondere von Wasser, untersucht.
 
 .. _Druck in Flüssigkeiten:
 
@@ -32,9 +32,9 @@ auf, der die von außen einwirkende Kraft ausgleicht.
     :width: 50%
 
     Druck in Flüssigkeiten am Beispiel des Kolbendrucks in einer Spritze.
-    
+
     .. only:: html
-    
+
         :download:`SVG: Druck in Flüssigkeiten
         <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/druck-in-fluessigkeiten.svg>`
 
@@ -51,9 +51,9 @@ an den allen Öffnungen senkrecht zur Oberfläche aus. [#]_
     :width: 70%
 
     Druckausbreitung am Beispiel eines Druckfortpflanzungs-Apparates.
-    
+
     .. only:: html
-    
+
         :download:`SVG: Druckausbreitung
         <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/druckausbreitung.svg>`
 
@@ -64,8 +64,8 @@ an den allen Öffnungen senkrecht zur Oberfläche aus. [#]_
 
     .. math::
         :label: eqn-druck
-        
-        p = \frac{F}{A} 
+
+        p = \frac{F}{A}
 
     Beim Kolbendruck :math:`p _{\rm{k}}` wird die Kraft :math:`F` auf einen
     Kolben mit der Fläche :math:`A` ausgeübt.
@@ -77,15 +77,15 @@ an den allen Öffnungen senkrecht zur Oberfläche aus. [#]_
     benannt. Für ein Pascal :math:`(\unit[1]{Pa})` gilt folgender Zusammenhang:
 
     .. math::
-            
-        \unit[1]{Pa} &= \unit[1]{\frac{N}{m^2} } \\[6pt]        
+
+        \unit[1]{Pa} &= \unit[1]{\frac{N}{m^2} } \\[6pt]
 
     Größere Drücke, wie sie in der alltäglichen Praxis des öfteren
     anzutreffen sind, werden häufig in der Einheit "Bar" :math:`(\unit[]{bar})`
     angegeben. Dabei gilt:
 
     .. math::
-        
+
         \unit[1]{bar} &= \unit[100\,000]{Pa}
 
     Ein Bar entspricht auf der Erde in etwa der Größe des Luftdrucks in
@@ -103,7 +103,7 @@ zunehmender Tiefe immer größer werdender Schweredruck hervorgerufen. Dieser
 wirkt in einer bestimmten Tiefe in alle Raumrichtungen gleich stark. Die Größe
 :math:`p _{\rm{s}}` des Schweredrucks lässt sich berechnen, wenn man das Volumen
 einer Flüssigkeitssäule mit einer Grundfläche :math:`A` und einer Gewichtskraft
-:math:`F _{\rm{G}} = m \cdot g` betrachtet. 
+:math:`F _{\rm{G}} = m \cdot g` betrachtet.
 
 .. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/schweredruck.png
     :name: fig-schweredruck
@@ -112,17 +112,17 @@ einer Flüssigkeitssäule mit einer Grundfläche :math:`A` und einer Gewichtskra
     :width: 30%
 
     Schweredruck einer Flüssigkeitssäule.
-    
+
     .. only:: html
-    
+
         :download:`SVG: Schweredruck
         <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/schweredruck.svg>`
 
 Am Boden der Flüssigkeitssäule gilt:
 
 .. math::
-    
-    p _{\rm{s}} = \frac{F _{\rm{G}}}{A } = \frac{m \cdot g}{A} 
+
+    p _{\rm{s}} = \frac{F _{\rm{G}}}{A } = \frac{m \cdot g}{A}
 
 Die Masse :math:`m` der Flüssigkeit kann auch als Produkt aus ihrer :ref:`Dichte
 <Dichte>` :math:`\rho` und ihrem Volumen :math:`V` geschrieben werden. Das
@@ -131,7 +131,7 @@ Grundfläche :math:`A` und der Höhe :math:`h` des betrachteten Quaders. Somit
 gilt:
 
 .. math::
-    
+
     m = \rho \cdot V \qquad \text{und} \qquad V = A \cdot h
 
 Setzt man :math:`m = \rho \cdot V = \rho \cdot A \cdot h` in die obere
@@ -140,7 +140,7 @@ werden. Es ergibt sich damit folgende Formel:
 
 .. math::
     :label: eqn-schweredruck
-    
+
     p _{\rm{s}} = \rho \cdot g \cdot h
 
 Der Schweredruck in einer Flüssigkeit hängt, da der Ortsfaktor :math:`g`
@@ -156,14 +156,14 @@ _{\rm{s}}` wird auch statischer Druck :math:`p _{\rm{stat}}` genannt.
 .. Schlauchwaage beim Bau: Gleiche Mauerhöhen. Mentor1,86.
 .. Druckschalter Waschmaschine Mentor1,87.
 
-..  
+..
     Wasserstandsglas, Schlauchwaage, Geruchsverschluss. Todo: Pic Gascha 74.
     Zwei verschiedene, nicht mischbare Flüssigkeiten mit unterschiedlichen
     Dichten :math:`\rho _1` und :math:`\rho _2` -> Höhen stellen sich so ein,
     dass Druckausgleich zustande kommt.
-    
+
     .. math::
-         
+
         p_1 = p_2 \quad \Leftrightarrow \quad \rho _1 \cdot g \cdot h_1 = \rho_2
         \cdot g \cdot h_2 \\
         \Rightarrow \frac{h_1}{h_2} = \frac{\rho _2}{\rho _1}
@@ -175,18 +175,18 @@ _{\rm{s}}` wird auch statischer Druck :math:`p _{\rm{stat}}` genannt.
 ..  Teils eines Aräometers kann man die Dichte einer Flüssigkeit sehr genau bestimmen, da
 ..  \rho _{\rm{Fl}} = \rho _{\rm{K}} \cdot  (V _{\rm{K}}/ V _{\rm{Fl}}) = konst / VFl.
 
-..  
+..
     Kompressibilität: Da die Moleküle einer Flüssigkeit dicht nebeneinander
     liegen, lassen sich Flüssigkeiten auch unter sehr grossem Druck nur
-    geringfügig zusammenpressen. 
-    
+    geringfügig zusammenpressen.
+
     Unter der Kompressibilität versteht man allgemein das Verhältnis der
     relativen Volumenänderungen zur dazu erforderlichen Druckänderung.
-    
+
     Die Kompressibilität ist ein wesentlicher Unterschied zwischen
     Flüssigkeiten und Gasen: Ein Gas ändert unter Druck sein Volumen, während
     die Volumenänderung bei einer Flüssigkeit vernachlässigbar klein bleibt.
-    
+
     Die Kompressibilität ist geringfügig temperaturabhängig. Aufgrund ihrer
     geringen Grösse kann die Volumenänderung bei vielen Flüssigkeiten
     vernachlässigt werden. Dies ist eine wichtige Voraussetzung für
@@ -202,7 +202,7 @@ der einen Seite eine (verhältnismäßig) schwache Kraft auf einen Kolben mit
 möglichst geringem Durchmesser ausgeübt. Der Kolbendruck :math:`p = \frac{F
 _{\rm{1}}}{A _{\rm{1}}}`, also das Verhältnis aus der ausgeübten Kraft :math:`F
 _{\rm{1}}` und der Querschnittsfläche :math:`A _{\rm{1}}` des Kolbens, nimmt
-innerhalb der Flüssigkeit dabei deutlich zu. 
+innerhalb der Flüssigkeit dabei deutlich zu.
 
 .. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png
     :name: fig-hydraulische-anlage
@@ -211,9 +211,9 @@ innerhalb der Flüssigkeit dabei deutlich zu.
     :width: 40%
 
     "Gleichgewicht" an einer hydraulischen Anlage.
-    
+
     .. only:: html
-    
+
         :download:`SVG: Hydraulische Anlage
         <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.svg>`
 
@@ -222,7 +222,7 @@ mit (verhältnißmäßig) großer Querschnittsfläche :math:`A _{\rm{2}}`. Da
 innerhalb der Flüssigkeit der Kolbendruck :math:`p = \frac{F}{A}` an allen
 Stellen gleich groß ist, wird beim Hineinpressen des kleinen Kolbens eine Kraft
 auf den großen Kolben ausgeübt, die um das Verhältnis der Kolbenflächen
-verstärkt ist: 
+verstärkt ist:
 
 .. math::
 
@@ -230,10 +230,10 @@ verstärkt ist:
 
 .. math::
     :label: eqn-hydraulische-anlage
-    
+
     \quad \Leftrightarrow \quad F _{\rm{1}} &= \frac{A _{\rm{1}}}{A _{\rm{2}}}
     \cdot F _{\rm{2}}
-    
+
 Diese zunächst unerwartete Tatsache, dass eine kleine schwache Kraft auf den
 kleinen Kolben eine große Kraft am großen Kolben bewirkt, kann man sich
 anschaulich damit erklären, dass am großen Kolben wesentlich mehr
@@ -262,7 +262,7 @@ zurückgelegten Wegstrecken folgt damit:
     :label: eqn-hydraulische-anlage-kraftwandler
 
     s _{\rm{1}} = \frac{A _{\rm{2}}}{A _{\rm{1}}} \cdot s _{\rm{2}}
-    
+
 Eine hydraulische Anlage stellt somit ebenfalls einen :ref:`Kraftwandler
 <Kraftwandler und Getriebe>` dar.
 
@@ -276,7 +276,7 @@ Statischer Auftrieb in Flüssigkeiten
 Ist ein Körper mit einem Volumen :math:`V` von einer Flüssigkeit umgeben, so
 erfährt er durch diese eine Auftriebskraft :math:`F _{\rm{A}}.` Diese resultiert
 aus der Tatsache, dass der Schweredruck innerhalb einer Flüssigkeit mit der
-Tiefe zunimmt. 
+Tiefe zunimmt.
 
 .. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png
     :name: fig-auftriebskraft
@@ -296,13 +296,13 @@ Die horizontalen Kräfte, die durch den Druck der umgebenden Flüssigkeit auf de
 Körper einwirken, sind jeweils paarweise gleich groß und heben sich in ihrer
 Wirkung gegenseitig auf (sofern der Körper nicht komprimierbar ist). Die nach
 unten bzw. oben gerichteten Kräfte :math:`F _{\rm{1}}` und :math:`F _{\rm{2}}`
-hingegen sind aufgrund der Druckdifferenz unterschiedlich groß. 
+hingegen sind aufgrund der Druckdifferenz unterschiedlich groß.
 
 Bezeichnet man mit :math:`A _{\rm{1}} = A _{\rm{2}} = A` die Grund- bzw.
-Deckfläche des Körpers, so gilt: 
+Deckfläche des Körpers, so gilt:
 
 .. math::
-    
+
     \Delta F = F _{\rm{2}} - F _{\rm{1}} = p _{\rm{2}} \cdot A - p _{\rm{1}}
     \cdot A = A \cdot (p _{\rm{2}} - p _{\rm{1}})
 
@@ -314,7 +314,7 @@ _{\rm{1}}` bzw. :math:`p _{\rm{2}} = \rho _{\rm{Fl}} \cdot g \cdot h _{\rm{2}}` 
 werden, wobei :math:`\rho` die Dichte der Flüssigkeit bezeichnet:
 
 .. math::
-    
+
     F _{\rm{A}} = \Delta F &= A \cdot (p _{\rm{2}} - p _{\rm{1}}) \\&= A \cdot \left( \rho \cdot g
     \cdot h _{\rm{2}} - \rho \cdot g \cdot h _{\rm{1}} \right) \\ &= A \cdot \rho \cdot g
     \cdot (h _{\rm{2}} - h _{\rm{1}})
@@ -327,15 +327,15 @@ sich für die Auftriebskraft folgende Formel:
 
 .. math::
     :label: eqn-auftriebskraft
-    
+
     F  _{\rm{A}} = \rho \cdot g \cdot V _{\rm{k}}
 
 Der Betrag der Auftriebskraft hängt somit ausschließlich von der Dichte
 :math:`\rho = \rho _{\rm{Fl}}` der Flüssigkeit und dem Volumen :math:`V
-_{\rm{k}}` des eintauchenden Körpers ab. 
+_{\rm{k}}` des eintauchenden Körpers ab.
 
 ..  Das Volumen des eingetauchten Körpers entspricht dem Volumen der
-..  verdrängeten Flüssigkeit 
+..  verdrängeten Flüssigkeit
 
 .. index:: Archimedisches Prinzip
 
@@ -350,7 +350,7 @@ Gewichtskraft :math:`\rho \cdot V \cdot g = m \cdot g` der verdrängten
 Flüssigkeit. Allgemein gilt:
 
 .. math::
-    
+
     \frac{F _{\rm{A}}}{F _{\rm{G}}} = \frac{\rho _{\rm{Fl}} \cdot g \cdot
     V}{\rho _{\rm{K}} \cdot g \cdot V} = \frac{\rho _{\rm{Fl}}}{\rho _{\rm{K}}}
 
@@ -362,7 +362,7 @@ Dichte :math:`\rho _{\rm{Wasser}} = \unit[1]{\frac{g}{cm^3}}` bekannt ist, auch
 die Dichte :math:`\rho _{\rm{K}}` des Körpers zu berechnen:
 
 .. math::
-    
+
     \rho _{\rm{K}} = \frac{F _{\rm{G}}}{F _{\rm{G}} - F _{\rm{G}}^{*}} \cdot
     \rho _{\rm{Fl}} = \frac{F _{\rm{G}}}{F _{\rm{A}}} \cdot \rho _{\rm{Fl}}
 
@@ -371,7 +371,7 @@ die Dichte :math:`\rho _{\rm{K}}` des Körpers zu berechnen:
 Die Dichte :math:`\rho _{\rm{K}}` des Körpers hat keine Auswirkung auf die
 Auftriebskraft, entscheidet aber darüber, ob er in der Flüssigkeit aufsteigt
 (schwimmt), unverändert an gleicher Stelle bleibt (schwebt) oder sich nach unten
-bewegt (sinkt). 
+bewegt (sinkt).
 
 
 * Ist :math:`\rho _{\rm{K}} > \rho _{\rm{Fl}}`, so ist die Gewichtskraft
@@ -387,18 +387,18 @@ bewegt (sinkt).
 
       F _{\rm{G}}^{*} = | F _{\rm{G}} - F _{\rm{A}} | = | \rho _{\rm{K}} - \rho
       _{\rm{Fl}} | \cdot g \cdot V
-      
-.. Uebungsaufgabe Scheinbarer Verlust eines Teils der Gewichtskraft. 
+
+.. Uebungsaufgabe Scheinbarer Verlust eines Teils der Gewichtskraft.
 
 * Ist :math:`\rho _{\rm{K}} = \rho _{\rm{Fl}}`, so ist die Gewichtskraft
   :math:`F _{\rm{G}} = \rho _{\rm{K}} \cdot g \cdot V` des Körpers gleich der
-  Auftriebskraft :math:`F _{\rm{A}}`. 
+  Auftriebskraft :math:`F _{\rm{A}}`.
 
   In diesem Fall "schwebt" der Körper, behält also seine Position bei.
 
 * Ist :math:`\rho _{\rm{K}} < \rho _{\rm{Fl}}`, so ist die Gewichtskraft
   :math:`F _{\rm{G}} = \rho _{\rm{K}} \cdot g \cdot V` des Körpers kleiner als
-  die Auftriebskraft :math:`F _{\rm{A}} = \rho _{\rm{Fl}} \cdot g \cdot V.` 
+  die Auftriebskraft :math:`F _{\rm{A}} = \rho _{\rm{Fl}} \cdot g \cdot V.`
 
   In diesem Fall schwimmt der Körper an der Oberfläche bzw. steigt nach oben.
   Auch in diesem Fall ist die resultierende Kraft gleich der Differenz aus
@@ -406,33 +406,33 @@ bewegt (sinkt).
   nach oben (zur Oberfläche der Flüssigkeit hin) gerichtet:
 
   .. math::
-      
+
       F _{\rm{G}}^{*} = | F _{\rm{G}} - F _{\rm{A}} | = | \rho _{\rm{Fl}} - \rho
       _{\rm{K}} | \cdot g \cdot V
-  
+
   Ein schwimmender Körper befindet sich zum Teil über, zum Teil in der
   Flüssigkeit. Er taucht soweit ein, bis seine gesamte Masse im Verhältnis auf
   das Volumen des eintauchenden Teils gleich der Dichte :math:`\rho` der
-  Flüssigkeit ist. 
+  Flüssigkeit ist.
 
   .. pic Araeometer
-  
+
   Dieses Prinzip wird beispielsweise bei so genannten Senkwaagen ("Aräometer")
   genutzt. Diese bestehen aus einem hohlen Glaskörper mit einem Volumen
   :math:`V _{\rm{K}}`, der am unteren Ende mit Bleischrot gefüllt ist und am
   oberen Ende eine Skala zum unmittelbaren Ablesen der Flüssigkeitsdichte
   enthält. Je geringer die Dichte der Flüssigkeit ist, desto tiefer taucht das
   Aräometer in die Flüssigkeit ein.
-  
+
   Der eintauchende Anteil des Körpervolumens entspricht dem
   Verhältnis :math:`\frac{\rho _{\rm{K}}}{\rho _{\rm{Fl}}}` der Dichten des
   schwimmenden Körpers und der Flüssigkeit, der restliche Teil des Körpers
-  schwimmt oberhalb der Flüssigkeitsoberfläche. [#]_ 
+  schwimmt oberhalb der Flüssigkeitsoberfläche. [#]_
 
 
 Die genannte Form des Auftriebs wird "statischer" Auftrieb genannt. Es gilt
 sowohl, wenn sich der eintauchende Körper und die Flüssigkeit relativ zueinander
-bewegen als auch wenn sich Körper und Flüssigkeit in der Ruhelage befinden. 
+bewegen als auch wenn sich Körper und Flüssigkeit in der Ruhelage befinden.
 
 .. index:: Bernoulli-Gleichung
 .. _Die Bernoulli-Gleichung:
@@ -445,7 +445,7 @@ Speichermöglichkeiten, so strömt in jedes beliebige Volumenelement immer genau
 viel Masse hinein wie auch wieder heraus strömt (Kontinuitätsbedingung). Kann
 die Reibung vernachlässigt werden und ist die Flüssigkeit inkompressibel, so
 muss damit an engen Stellen des Rohrsystems eine höhere Strömungsgeschwindigkeit
-auftreten als an Bereichen mit weitem Rohrquerschnitt. 
+auftreten als an Bereichen mit weitem Rohrquerschnitt.
 
 .. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/kontinuitaetsbedingung-bernoulli.png
     :name: fig-bernoulli
@@ -472,17 +472,17 @@ Querschnittsfläche :math:`A` des betrachteten Rohrstücks und der durchlaufenen
 Strecke :math:`s` beschreiben. Somit gilt:
 
     .. math::
-        
+
         \frac{\Delta m}{\Delta t} = \rho \cdot \frac{\Delta V}{\Delta t} = \rho
-        \cdot A \cdot \frac{\Delta s}{\Delta t} = \rho \cdot A \cdot v 
-    
+        \cdot A \cdot \frac{\Delta s}{\Delta t} = \rho \cdot A \cdot v
+
 Durch zwei benachbarte Rohrstücke mit den Querschnitten :math:`A_1` und
 :math:`A_2` fließt aufgrund der Kontinuitätsbedingung stets ein gleicher
 Massenstrom. Für die Strömungsgeschwindigkeiten :math:`v_1` und :math:`v_2` in
 den Rohrstücken gilt also:
 
 .. math::
-    
+
     \rho \cdot A_1 \cdot v_1 &= \rho \cdot A_2 \cdot v_2 \\
     \Rightarrow \quad \frac{v_1}{v_2} &= \frac{A_2}{A_1}
 
@@ -502,7 +502,7 @@ dynamischen Drucks ("Staudruck") :math:`p _{\rm{dyn}} = \frac{1}{2}\cdot \rho
 
 .. math::
     :label: eqn-bernoulli
-    
+
     p _{\rm{ges}} = p _{\rm{st}} + p _{\rm{dyn}} = \rho \cdot g \cdot h +
     \frac{1}{2}\cdot \rho \cdot v^2 = \text{konst}
 
@@ -526,7 +526,7 @@ Die Bernoulli-Gleichung wird in zahlreichen technischen Bereichen genutzt:
 * Zerstäuber in Sprayflaschen funktionieren auf ähnliche Weise: Vor der Düse
   sorgt eine schnelle Luftströmung für eine Reduzierung des statischen
   (Luft-)Drucks und damit für ein Ansaugen der Flüssigkeit in dem
-  Zerstäuberrohr. 
+  Zerstäuberrohr.
 
 * Mit einer so genannten Messblende kann die Stroemungsgeschwindigkeit eines
   Fluids in einer Roehre bestimmt werden.
@@ -549,7 +549,7 @@ Viskosität (innere Reibung)
 Ist die Reibung innerhalb einer Flüssigkeit nicht vernachlässigbar, so ist
 eine Kraft bzw. ein Druck nötig, um eine Flüssigkeit gegenüber einem
 Rohrsystem gleichmäßig zu bewegen. Wie groß die nötige Schubkraft ist,
-hängt von der Viskosität ("Zähigkeit") der Flüssigkeit ab. 
+hängt von der Viskosität ("Zähigkeit") der Flüssigkeit ab.
 
 .. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/geschwindigkeitsprofil-duenne-fluessigkeitsschicht.png
     :name: fig-geschwindigkeitsprofil-duenne-fluessigkeitsschicht
@@ -576,15 +576,15 @@ Dicke :math:`s` der Flüssigkeitsschicht. Insgesamt gilt also für diese zur
 Überwindung der Reibung nötige Kraft :math:`F \rm{:}`
 
 .. math::
-    
+
     F = \eta \cdot A \cdot \frac{v}{s}
 
 Die obige Gleichung kann auch umgeformt werden, um ein Maß für die
-Viskosität einer Flüssigkeit zu erhalten: 
+Viskosität einer Flüssigkeit zu erhalten:
 
 .. math::
     :label: eqn-viskositaet
-    
+
     \eta = \frac{F \cdot s}{A \cdot v}
 
 Die Einheit de Viskosität kann nach der obigen Formel als "Pascalsekunde"
@@ -596,19 +596,19 @@ ausgedrückt werden:
     \cdot s}{m^2}} = \unit[]{Pa \cdot s}
 
 Viskositäten von Flüssigkeiten werden üblicherweise bei einer Temperatur von
-:math:`\unit[20]{^{\circ}C}` angegeben, da sie stark temperaturabhängig sind.
+:math:`\unit[20]{\degree C}` angegeben, da sie stark temperaturabhängig sind.
 Bei den meisten Flüssigkeiten nimmt die Viskosität mit zunehmender Temperatur
 stark ab, bei Gasen ist es umgekehrt. [#]_
 
-Wasser hat bei :math:`\unit[20]{^{\circ}C}` eine Viskosität von nahezu exakt
+Wasser hat bei :math:`\unit[20]{\degree C}` eine Viskosität von nahezu exakt
 :math:`\unit[\frac{1}{1000}]{Pa \cdot s} = \unit[1]{mPa \cdot s}`. Da viele
 weitere Flüssigkeiten ähnliche Viskositätswerte aufweisen, wird die Viskosität
 in Tabellen allgemein oft in Millipaskalsekunden angeben. [#]_
 
 ..  Zu beachten ist, daß die Viskosität einer Flüssigkeit bei Temperaturerhöhung zumeist
-..  sinkt, die von Gasen steigt. 
+..  sinkt, die von Gasen steigt.
 
-.. list-table:: Viskositätswerte verschiedener Flüssigkeiten (bei :math:`\unit[20]{^{\circ}C})`
+.. list-table:: Viskositätswerte verschiedener Flüssigkeiten (bei :math:`\unit[20]{\degree C})`
     :widths: 50 50
     :header-rows: 0
     :name: tab-viskositaeten
@@ -627,17 +627,17 @@ in Tabellen allgemein oft in Millipaskalsekunden angeben. [#]_
       - :math:`\approx 80`
     * - Sirup
       - :math:`\approx 1\,000 \text{ bis } 10\, 000`
-    * - Wasser (:math:`\unit[10 ^{\circ}]{C}`) 
+    * - Wasser (:math:`\unit[10 \degree ]{C}`)
       - :math:`1,30`
-    * - Wasser (:math:`\unit[20 ^{\circ}]{C}`) 
+    * - Wasser (:math:`\unit[20 \degree ]{C}`)
       - :math:`1,00`
-    * - Wasser (:math:`\unit[30 ^{\circ}]{C}`) 
+    * - Wasser (:math:`\unit[30 \degree ]{C}`)
       - :math:`0,80`
 
 .. index:: Viskosimeter
 
 Experimentell wird die Viskosität einer Flüssigkeit üblicherweise mit einem
-Rotations- oder Kapillarviskosimeter bestimmt: 
+Rotations- oder Kapillarviskosimeter bestimmt:
 
 * Bei Rotationsviskosimetern wird ein Zylinder in ein ebenfalls zylindrisches
   Messgefäß mit einem etwas größeren Durchmesser getaucht. Zwischen beide
@@ -655,7 +655,7 @@ Rotations- oder Kapillarviskosimeter bestimmt:
   berechnet werden, indem man diese mit der Dichte :math:`\rho` der Flüssigkeit
   und einer für den Apparat angegebenen Konstanten :math:`K` multipliziert.
 
-.. index:: 
+.. index::
     single: Strömung
     single: Strömung; laminare Strömung
 .. _Laminare und turbulente Strömungen:
@@ -667,7 +667,7 @@ Bei geringen Geschwindigkeiten treten häufig so genannte laminare Strömungen
 auf. Dabei bewegen sich die Flüssigkeitsteilchen, als würden sie sich in
 übereinander geschichteten Lamellen befinden. Das Geschwindigkeitsprofil in
 einem zylindrischen Rohr ist dabei parabelförmig und nimmt zur Mitte des Rohres
-hin zu. 
+hin zu.
 
 .. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/geschwindigkeitsprofil-laminare-stroemung.png
     :name: fig-geschwindigkeitsprofil-laminare-stroemung
@@ -695,11 +695,11 @@ einer Länge :math:`l` haben der Ingenieur `Gotthilf Hagen
 <https://de.wikipedia.org/wiki/Gotthilf_Heinrich_Ludwig_Hagen>`_ und der Arzt
 `Jean Poiseuille <https://de.wikipedia.org/wiki/Jean_Léonard_Marie_Poiseuille>`_
 folgende Formel entdeckt, die auch die Viskosität :math:`\eta` der Flüssigkeit
-berücksichtigt: 
+berücksichtigt:
 
 .. math::
     :label: eqn-hagen-poiseuille
-    
+
     \frac{\Delta V}{\Delta t} = \frac{\pi \cdot r^4}{8 \cdot \eta
     \cdot l} \cdot \Delta p
 
@@ -708,7 +708,7 @@ Anfang und Ende des Rohres. Das Hagen-Poiseuillesche Gesetz gilt nur, wenn
 folgende Bedingungen zumindest näherungsweise erfüllt sind:
 
 #. Der Rohrdurchmesser :math:`r` ist konstant.
-#. Es wirken keine äußeren Kräfte durch die Rohrwand hindurch. 
+#. Es wirken keine äußeren Kräfte durch die Rohrwand hindurch.
 #. Es treten ausschließlich Reibungskräfte, jedoch keine :ref:`Trägheitskräfte
    <Scheinkräfte>` auf. Dies ist der Fall bedeutet, wenn die Flüssigkeit während
    der Bewegung im Rohr nicht beschleunigt wird. Man spricht in diesem Fall von
@@ -748,7 +748,7 @@ dieses Verhalten zutrifft, bezeichnet man als "Newtonsche Flüssigkeiten".
 Da im Hagen-Poiseuillen Gesetz alle Größen bis auf :math:`\eta` direkt messbar
 sind, kann es auch zur experimentellen Bestimmung der Zähigkeit eines Fluids
 genutzt werden.
-    
+
 .. rubric:: Der Strömungswiderstand
 
 Setzt man die Druck die Druckdifferenz :math:`\Delta p` zwischen Anfang und Ende
@@ -758,7 +758,7 @@ _{\rm{s}}`. Es gilt also:
 
 .. math::
     :label: eqn-stroemungswiderstand
-    
+
     R _{\rm{s}} = \frac{\Delta p}{\dot{V}}
 
 Der Strömungswiderstand ist nicht nur abhängig von der Geometrie des Rohres,
@@ -768,8 +768,8 @@ angegeben; sein Kehrwert wird "Leitwert" einer Kapillare genannt:
 
 .. math::
     :label: eqn-leitwert-einer-stroemung
-    
-    L = \frac{1}{R _{\rm{s}}} 
+
+    L = \frac{1}{R _{\rm{s}}}
 
 Setzt man das Hagen-Poiseuillesche Gesetz :eq:`eqn-hagen-poiseuille` in die
 Definition des Strömungswiderstand ein, so ergibt sich mit :math:`A = \pi \cdot
@@ -777,7 +777,7 @@ r^2` beziehungsweise :math:`A^2 = \pi^2 \cdot r^4` folgende Formel für den
 Strömungswiderstand in einem Rohr mit runder Querschnittsfläche:
 
 .. math::
-    
+
     R _{\rm{s}} = \frac{8 \cdot \pi \cdot \eta \cdot l}{A^2}
 
 Je geringer der Strömungswiderstand einer Newtonschen Flüssigkeit in einem Gefäß
@@ -787,12 +787,12 @@ Volumenstromstärke-Druckdifferenz-Diagramm.
 Muss eine Flüssigkeit mehrere Gefäße mit den Strömungswiderständen
 :math:`R_1,\, R_2,\, \ldots` nacheinander durchlaufen, so ist der insgesamt
 auftretende Strömungswiderstand :math:`R _{\rm{Ges}}` gleich der Summe aller
-Teilwiderstände. 
+Teilwiderstände.
 
 Für eine "Reihenschaltung" mehrerer Strömungswiderstände gilt also:
 
 .. math::
-    
+
     R _{\rm{Ges}} = R_1 + R_2 + \ldots
 
 Können im umgekehrten Fall mehrere Kapillaren parallel durchlaufen werden, so
@@ -804,16 +804,16 @@ Fall also auch die Leitwerte addiert werden.
 Für eine "Parallelschaltung" mehrerer Strömungswiderstände gilt somit:
 
 .. math::
-    
+
     {\color{white}bzw. \quad }\frac{1}{R _{\rm{Ges}}} &= \frac{1}{R_1} + \frac{1}{R_2} + \ldots \quad
     \text{bzw.} \\[8pt] L _{\rm{Ges}} &= L_1 + L_2 + \ldots
 
 Bei einer Reihenschaltung ist der Gesamt-Strömungswiderstand somit größer als
 der größte Teilwiderstand, bei einer Parallelschaltung geringer als der kleinste
-Teilwiderstand. 
+Teilwiderstand.
 
 
-.. index:: 
+.. index::
     single: Strömung; turbulente Strömung
     single: Reynolds-Zahl
 
@@ -830,7 +830,7 @@ zu erwarten ist. Die Reynolds-Zahl :math:`Re` berechnet sich wie folgt:
 
 .. math::
     :label: eqn-reynolds
-    
+
     Re = \frac{\rho \cdot v \cdot r}{\eta}
 
 Dabei bezeichnet :math:`\rho` die Dichte des Fluids, :math:`v` seine
@@ -846,53 +846,53 @@ der herznahen Aorta bei einer Strömungsgeschwindigkeit von :math:`\unit[50
 Venenentzündungen, können allerdings ebenfalls Wirbelbildungen begünstigen
 und zur Entstehung von Thrombosen führen.
 
-..  
+..
     Die Formel ist analog zum Ohmschen Gesetz der Elektrizitätslehre. Es
     entsprechen sich dabei:
-    
+
     * Rohrsystem <=> Stromkreis
-    * Druckdifferenz \Delta p <=> Spannung U 
-    * Stromstärke i (Volumen) <=> Stromstärke I 
-    * Strömungswiderstand W <=> Elektrischer Widerstand R 
-    
+    * Druckdifferenz \Delta p <=> Spannung U
+    * Stromstärke i (Volumen) <=> Stromstärke I
+    * Strömungswiderstand W <=> Elektrischer Widerstand R
+
     Bei Serienschaltung gilt:
-    
+
     Der Gesamtwiderstand einer Serienschaltung wird immer größer als der größte
     Einzelwiderstand.
-    
+
     Verlaufen mehrere Rohre parallel zueinander, so gilt:
-    
+
     .. math::
-        
+
         \frac{1}{R _{\rm{s}}} = \frac{1}{R_S1} + \frac{1 }{R _{\rm{s2}}} +
         \ldots
-    
+
     Der Gesamtwiderstand eine Parallelschaltung wird immer kleiner als der kleinste
     Einzelwiderstand.
-    
-..  
+
+..
     Das Stokessche Gesetz bezieht sich wieder auf Kräfte, die durch die innere
     Reibung der Gas- oder Flüssigkeitsschichten entstehen; Es gilt nur für
-   
+
     Reibungskraft :math:`F _{\rm{R}}`: Sie ist immer der Bewegung
     entgegengerichtet und ihr Betrag berechnet sich nach der STOKES'schen
     Formel:
-    
+
     .. math::
-    
+
         F _{\rm{R}} = 6 \cdot \pi \cdot \eta \cdot r \cdot v
-        
-..  
+
+..
     .. [#] Der Volumenstrom :math:`\dot{V} = \frac{\Delta V}{\Delta t}` kann ebenso
         als Produkt der Querschnittsfläche :math:`A` der Rohrleitung und der
         mittleren Strömungsgeschwindigkeit :math:`\bar{v}` der Flüssigkeit
         beschrieben werden:
-    
+
         .. math::
-                 
+
             \dot{V} = \frac{\Delta V}{\Delta t} = A \cdot \bar{v}
 
-..  
+..
     .. [#SDA] In Flüssigkeiten spielt im Vergleich zu Gasen häufig der statische
         Auftrieb eine wichtigere Rolle, da die Relativgeschwindigkeiten von
         Flüssigkeit und Körper meist nur gering sind, dafür aber erhebliche
@@ -920,9 +920,9 @@ Flüssigkeit in einem Tropfen zusammenhält.
     :width: 50%
 
     Kohäsionskräfte und resultierende Oberflächenspannung einer Flüssigkeit.
-    
+
     .. only:: html
-    
+
         :download:`SVG: Oberflächenspannung
         <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/oberflaechenspannung.svg>`
 
@@ -939,7 +939,7 @@ Vergrößerung :math:`\Delta A` der Oberfläche wird Oberflächenspannung
 
 .. math::
     :label: eqn-oberflaechenspannung
-    
+
     \sigma = \frac{\Delta W}{\Delta A}
 
 Die Einheit der Oberflächenspannung ist :math:`\unit{\frac{J}{m^2}} =
@@ -961,7 +961,7 @@ Adhäsionskräfte. In Flüssigkeiten sind Adhäsionskräfte insbesondere an den
 Rändern des jeweiligen Gefäßes wirksam. Je nachdem, ob die Kohäsions- oder die
 Adhäsionskräfte überwiegen, stellt sich zwischen der Gefäßwand und der
 Oberfläche der Flüssigkeit ein bestimmter Winkel ein. Ist dieser so genannte
-Randwinkel :math:`\alpha` kleiner als :math:`90 ^{\circ}`, so überwiegen die
+Randwinkel :math:`\alpha` kleiner als :math:`90 \degree`, so überwiegen die
 Adhäsionskräfte, und man bezeichnet die Flüssigkeit als benetzend.
 Andernfalls überwiegen die Kohäsionskräfte, die Flüssigkeit ist damit nicht
 benetzend.
@@ -974,9 +974,9 @@ benetzend.
 
     Verhältnis der Kohäsions- und Addhäsionskräfte bei einer benetzenden und
     nicht benetzenden Flüssigkeit.
-    
+
     .. only:: html
-    
+
         :download:`SVG: Benetzbarkeit
         <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/benetzbarkeit.svg>`
 
@@ -991,7 +991,7 @@ kapillare Steighöhe bzw. Sinktiefe :math:`h` gilt dabei:
 
 .. math::
     :label: eqn-kapillare-steighoehe
-    
+
     h = \frac{2 \cdot \sigma \cdot \cos{(\alpha)}}{\rho \cdot g \cdot r}
 
 Die kapillare Steighöhe ist neben einigen Materialkonstanten nur vom Radius der
@@ -1039,9 +1039,9 @@ Oberflächenspannung einer Flüssigkeit zu bestimmen.
 
 .. [#] Beispielsweise beträgt die Viskosität von Glycerin
     :math:`\unit[12\,100]{mPa \cdot s}` bei einer Temperatur von
-    :math:`\unit[0]{^{\circ}C}`. Bei :math:`\unit[20]{^{\circ}C}` beträgt die
+    :math:`\unit[0]{\degree C}`. Bei :math:`\unit[20]{\degree C}` beträgt die
     Viskosität nur noch :math:`\unit[1\,480]{mPa \cdot s}`, und bei
-    :math:`\unit[30]{^{\circ}C}` nur noch :math:`\unit[624]{mPa \cdot s}`.
+    :math:`\unit[30]{\degree C}` nur noch :math:`\unit[624]{mPa \cdot s}`.
 
 .. [#] Manchmal wird in Formelsammlungen und Tabellenwerken auch die so genannte
     Fluidität :math:`\varphi` einer Flüssigkeit oder eines Gases angegeben.

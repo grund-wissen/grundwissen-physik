@@ -20,7 +20,7 @@ die negativ geladenen Elektronen der Atomhülle von Bedeutung.
     Die ersten Elemente des Periodensystems im Atomschalenmodell.
 
     .. only:: html
-    
+
         :download:`SVG: Atomschalen-Periodensystem
         <../pics/atomphysik/atomschalen-periodensystem.svg>`
 
@@ -38,7 +38,7 @@ Allgemein gilt für jedes chemische Element:
 * In einem Atom ist die Anzahl der Protonen gleich der Anzahl der Elektronen.
 
   Während die Protonen fest im Atomkern verankert sind, sind die Elektronen je
-  nach Art des Stoffes mehr oder weniger stark gebunden. 
+  nach Art des Stoffes mehr oder weniger stark gebunden.
 
   Elektronen können ein Atom auch komplett verlassen. Als "Atomrumpf" bleibt
   dann ein positiv geladenes Ion ("Kation") zurück. Der Stoff bleibt dabei
@@ -53,7 +53,7 @@ Allgemein gilt für jedes chemische Element:
   Teilchen.
 
 Alle in der Realität vorkommenden elektrischen Ladungsmengen setzen sich
-aus den Ladungen der Elektronen und Protonen zusammen. 
+aus den Ladungen der Elektronen und Protonen zusammen.
 
 ..  Ohne Protonen und Elektronen als Ladungstraeger kann keine elektrische Ladung
 ..  existieren. Bei geladenen Koerpern ist eine Ladungstraegerart in der
@@ -61,7 +61,7 @@ aus den Ladungen der Elektronen und Protonen zusammen.
 
 .. index:: Coulomb
 
-*Einheit:* 
+*Einheit:*
 
     Man hat als Einheit der elektrischen Ladung :math:`Q` eine Ladungsmenge
     festgelegt, die so groß ist wie die elektrische Ladung von :math:`6,2 \cdot
@@ -71,7 +71,7 @@ aus den Ladungen der Elektronen und Protonen zusammen.
 .. index:: Ladungstrennung
 .. _Ladungstrennung:
 
-Ladungstrennung 
+Ladungstrennung
 ---------------
 
 Unter bestimmten Bedingungen können Elektronen von einem Körper abgetrennt und
@@ -79,7 +79,7 @@ von einem anderen Körper zusätzlich aufgenommen werden. Durch derartige Vorgä
 werden Körper elektrisch geladen. Dabei gilt stets:
 
 * Ein Körper ist elektrisch neutral, wenn gleich viele positive und negative
-  Ladungen vorhanden sind. 
+  Ladungen vorhanden sind.
 * Ein Körper ist elektrisch positiv geladen (``+``), wenn ein Mangel an
   Elektronen vorhanden ist.
 * Ein Körper ist elektrisch negativ geladen (``-``), wenn ein Überschuss an
@@ -97,7 +97,7 @@ Ladungsträger beweglich.
   Trennt man beide voneinander, so bleibt das Hartgummi durch die zusätzlichen
   Elektronen negativ geladen. In der Wolle bleiben entsprechend Atome mit
   fehlenden Elektronen zurück; die Wolle ist aufgrund dieser fehlenden
-  Elektronen positiv geladen. 
+  Elektronen positiv geladen.
 
 ..  Versuch: Das geladene Hartgummi kann Papierstückchen oder Haare anziehen.
 
@@ -115,10 +115,10 @@ negativ.
     :name: fig-beruehrungselektrische-spannungsreihe
     :alt:  fig-beruehrungselektrische-spannungsreihe
 
-    Die kontaktelektrische Spannungsreihe (Ausschnitt). 
-  
+    Die kontaktelektrische Spannungsreihe (Ausschnitt).
+
     .. only:: html
-    
+
         :download:`SVG: Kontaktelektrische Spannungsreihe
         <../pics/elektrizitaet-magnetismus/beruehrungselektrische-spannungsreihe.svg>`
 
@@ -129,10 +129,10 @@ negativ.
 
 
 
-.. 
+..
 
-.. index:: 
-    single: Bandgenerator 
+.. index::
+    single: Bandgenerator
     single: Ladungstrennung; Bandgenerator
 .. _Bandgenerator:
 
@@ -141,7 +141,7 @@ Der Bandgenerator
 
 Mit einem Bandgenerator lässt sich eine Ladungstrennung durch Reibung in
 größerem Stil und beliebig oft wiederholen. Dazu wird ein elastisches
-Gummiband mit einer Kurbel oder einem Elektromotor angetrieben: 
+Gummiband mit einer Kurbel oder einem Elektromotor angetrieben:
 
 * Das Band streift an zwei Metallbürsten, wobei es aufgrund Reibung Elektronen
   an die untere Bürste abgibt. Die abgestreiften Elektronen fließen durch eine
@@ -159,10 +159,10 @@ Gummiband mit einer Kurbel oder einem Elektromotor angetrieben:
     :name: fig-bandgenerator
     :alt:  fig-bandgenerator
 
-    Aufbau eines Bandgenerators. 
-  
+    Aufbau eines Bandgenerators.
+
     .. only:: html
-    
+
         :download:`SVG: Bandgenerator
         <../pics/elektrizitaet-magnetismus/bandgenerator.svg>`
 
@@ -209,7 +209,7 @@ Ladungen lassen sich experimentell nachweisen anhand der Kräfte, die zwischen
 geladenen Körpern wirken:
 
 * Gleichartig geladene Körper (Plus und Plus bzw. Minus und Minus) stoßen
-  einander ab. 
+  einander ab.
 * Unterschiedlich geladene Körper (Plus und Minus) ziehen einander an.
 
 .. figure:: ../pics/elektrizitaet-magnetismus/ladung-kraftwirkung.png
@@ -218,17 +218,17 @@ geladenen Körpern wirken:
     :name: fig-ladung-kraftwirkung
     :alt:  fig-ladung-kraftwirkung
 
-    Kraftwirkung zwischen elektrisch geladenen Körpern. 
-  
+    Kraftwirkung zwischen elektrisch geladenen Körpern.
+
     .. only:: html
-    
+
         :download:`SVG: Ladung - Kraftwirkung
         <../pics/elektrizitaet-magnetismus/ladung-kraftwirkung.svg>`
 
 Je stärker zwei Körper elektrisch geladen sind, desto stärker sind die
-Kräfte, die zwischen ihnen wirken. 
+Kräfte, die zwischen ihnen wirken.
 
-.. index:: 
+.. index::
     single: Ladungsnachweis; Elektroskop
 .. _Elektroskop:
 
@@ -239,7 +239,7 @@ Ein Elektroskop besteht aus einem (meist gebogenen) Metallstab, an dem ein
 Zeiger leicht drehbar angebracht ist. Der Metallstab besitzt am oberen Ende eine
 Kontaktfläche und ist durch eine Halterung aus Kunststoff isoliert. Der drehbare
 Zeiger ist unten etwas schwerer, so dass er im Grundzustand senkrecht
-ausgerichtet ist. 
+ausgerichtet ist.
 
 .. figure:: ../pics/elektrizitaet-magnetismus/elektroskop.png
     :width: 40%
@@ -247,10 +247,10 @@ ausgerichtet ist.
     :name: fig-elektroskop
     :alt:  fig-elektroskop
 
-    Aufbau eines Elektroskops. 
-  
+    Aufbau eines Elektroskops.
+
     .. only:: html
-    
+
         :download:`SVG: Elektroskop (Aufbau)
         <../pics/elektrizitaet-magnetismus/elektroskop.svg>`
 
@@ -264,7 +264,7 @@ ausgerichtet ist.
   so werden die frei beweglichen Elektronen des Metallstabs zum positiv
   geladenen Stab hingezogen. Im unteren Bereich des Elektroskops bleiben die
   fest verankerten, positiv geladenen Atomrümpfe zurück. Stab und Zeiger sind
-  wiederum gleichartig geladen und stoßen sich gegenseitig ab. 
+  wiederum gleichartig geladen und stoßen sich gegenseitig ab.
 
 .. figure:: ../pics/elektrizitaet-magnetismus/elektroskop-funktionsweise.png
     :width: 70%
@@ -272,23 +272,23 @@ ausgerichtet ist.
     :name: fig-elektroskop-funktionsweise
     :alt:  fig-elektroskop-funktionsweise
 
-    Funktionsweise eines Elektroskops. 
-  
+    Funktionsweise eines Elektroskops.
+
     .. only:: html
-    
+
         :download:`SVG: Elektroskop (Funktionsweise)
         <../pics/elektrizitaet-magnetismus/elektroskop-funktionsweise.svg>`
 
 * Berührt man ein negativ geladenes Elektroskop mit einem positiv geladenen oder
   geerdeten Körper, so wird es wieder entladen. (Ein positiv geladenes
   Elektroskop lässt sich entsprechend durch Berührung mit einem negativ
-  geladenen oder geerdeten Körper entladen.) 
+  geladenen oder geerdeten Körper entladen.)
 
 Mit einem Elektroskop kann man somit die Menge einer elektrischen Ladung messen,
 jedoch nicht, ob es sich um positive oder negative Ladung handelt.
 
 
-.. index:: 
+.. index::
     single: Ladungsnachweis; Glimmlampe
 .. _Glimmlampe:
 
@@ -306,10 +306,10 @@ gefüllt.
     :name: fig-glimmlampe
     :alt:  fig-glimmlampe
 
-    Aufbau einer Glimmlampe. 
-  
+    Aufbau einer Glimmlampe.
+
     .. only:: html
-    
+
         :download:`SVG: Glimmlampe
         <../pics/elektrizitaet-magnetismus/glimmlampe.svg>`
 
@@ -317,7 +317,7 @@ Glimmlampen werden zum Ladungsnachweis bei hohen elektrischen Spannungen
 (mindestens 180 Volt) eingesetzt. Berührt man mit einem leitenden Kontakt
 der Glimmlampe einen negativ geladenen Körper, beispielsweise die kleine
 Metallkugel eines geladenen Bandgenerators, so leuchtet die Umgebung des
-anliegenden Metalldrahts in der Glimmlampe auf. 
+anliegenden Metalldrahts in der Glimmlampe auf.
 
 Mit einem Elektroskop oder einer Glimmlampe kann nur nachgewiesen werden, *ob*
 ein Körper elektrisch geladen ist oder nicht. Eine quantitative Aussage, *wie
@@ -332,7 +332,7 @@ geeigneten Steckern in einen Stromkreis eingebaut werden und als
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
     .. rubric:: Anmerkung:
@@ -354,7 +354,7 @@ geeigneten Steckern in einen Stromkreis eingebaut werden und als
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu elektrischer Ladung>`
     und :ref:`Übungsaufgaben <Aufgaben zu elektrischer Ladung>`.

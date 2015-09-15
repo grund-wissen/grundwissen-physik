@@ -22,7 +22,7 @@ Versuche
     optik/versuche.rst
     waermelehre/versuche.rst
     elektrizitaet-und-magnetismus/versuche.rst
-    
+
 
 .. _Übungsaufgaben:
 

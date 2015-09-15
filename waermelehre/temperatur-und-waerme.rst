@@ -12,17 +12,17 @@ mittlere Bewegungsenergie seiner Teilchen.
 
     Jeder Körper besitzt direkt beobachtbare Eigenschaften. Die Temperatur eines
     Körpers wird durch die von ihm aufgenommene oder abgegebene Wärmemenge
-    charakterisiert. 
+    charakterisiert.
 
 * *Mikroskopische* Betrachtungsweise:
 
     Jeder Körper ist aus Teilchen aufgebaut, die in ständiger Bewegung sind. Der
     Wärmezustand eines Körpers wird durch eine bestimmte (mittlere)
-    Geschwindigkeit dieser Teilchen charakterisiert. 
+    Geschwindigkeit dieser Teilchen charakterisiert.
 
 ..  Robert Brown, 1827.
 
-Beide Betrachtungsweisen sind gleichermaßen gültig. 
+Beide Betrachtungsweisen sind gleichermaßen gültig.
 
 
 .. index:: System
@@ -112,9 +112,9 @@ wird genutzt, um Thermometer, d.h. Messgeräte für die Temperatur herzustellen.
     :alt:  fig-thermometer
 
     Aufbau eines Thermometers.
-      
+
     .. only:: html
-    
+
         :download:`SVG: Thermometer
         <../pics/waermelehre/thermometer.svg>`
 
@@ -130,9 +130,9 @@ wird genutzt, um Thermometer, d.h. Messgeräte für die Temperatur herzustellen.
     :alt:  fig-bimetallthermometer
 
     Aufbau eines Bimetall-Thermometers.
-      
+
     .. only:: html
-    
+
         :download:`SVG: Bimetall-Thermometer
         <../pics/waermelehre/bimetallthermometer.svg>`
 
@@ -142,7 +142,7 @@ wird genutzt, um Thermometer, d.h. Messgeräte für die Temperatur herzustellen.
 ..  Gefrierpunkt)
 
 Um mit einem Thermometer konkrete Temperaturmessungen durchführen zu können,
-müssen die Messwerte anhand einer bestimmten Temperatur-Skala ablesbar sein. 
+müssen die Messwerte anhand einer bestimmten Temperatur-Skala ablesbar sein.
 
 
 .. _Temperatur-Skalen:
@@ -162,10 +162,10 @@ Die wichtigsten drei Temperatur-Skalen sind:
 
     Bei der Celsius-Skala (benannt nach `Anders Celsius
     <https://de.wikipedia.org/wiki/Anders_Celsius>`_) liegt der erste Fixpunkt
-    bei :math:`\unit[0]{^{\circ}C}` und entspricht der Schmelztemperatur von
-    Eis; der zweite Fixpunkt liegt bei :math:`\unit[100]{^{\circ}C}` und
+    bei :math:`\unit[0]{\degree C}` und entspricht der Schmelztemperatur von
+    Eis; der zweite Fixpunkt liegt bei :math:`\unit[100]{\degree C}` und
     entspricht der Siedetemperatur von Wasser. [#C1]_ Temperaturen unter
-    :math:`\unit[0]{^{\circ}C}` werden durch ein vorgesetztes Minuszeichen
+    :math:`\unit[0]{\degree C}` werden durch ein vorgesetztes Minuszeichen
     :math:`(-)` gekennzeichnet.
 
 .. index:: Kelvin
@@ -177,19 +177,19 @@ Die wichtigsten drei Temperatur-Skalen sind:
     Abstand von Grad zu Grad mit dem der Celsius-Skala identisch. Als unterer
     (und einziger) Fixpunkt wird bei der Kelvin-Skala jedoch die tiefste
     physikalisch mögliche Temperatur verwendet. Dieser absolute Nullpunkt liegt
-    bei etwa :math:`\unit[-273]{^{\circ}C}` (exakt: :math:`\unit[0]{K} =
-    \unit[-273,15]{^{\circ}C}`). [#K1]_ Die Umrechnung zwischen Temperaturen in
-    Celsius :math:`(\unit[]{^{\circ}C})` und Kelvin :math:`(\unit[]{K})` erfolgt
+    bei etwa :math:`\unit[-273]{\degree C}` (exakt: :math:`\unit[0]{K} =
+    \unit[-273,15]{\degree C}`). [#K1]_ Die Umrechnung zwischen Temperaturen in
+    Celsius :math:`(\unit[]{\degree C})` und Kelvin :math:`(\unit[]{K})` erfolgt
     nach folgendem Schema:
-                                                                           
+
     .. math::
-        
+
         \text{Temperatur in K} &= \text{Temperatur in \textdegree C} + 273
         \\[4pt]
         \text{Temperatur in \textdegree C} &= \text{Temperatur in K}
         \phantom{\textdegree }- 273
 
-    Bei der Angabe von Temperaturunterschieden :math:`\Delta T = T_2 - T_1` sind 
+    Bei der Angabe von Temperaturunterschieden :math:`\Delta T = T_2 - T_1` sind
     Grad Celsius und Kelvin gleichwertig.
 
 .. index:: Fahrenheit
@@ -198,28 +198,28 @@ Die wichtigsten drei Temperatur-Skalen sind:
 
     Bei der Fahrenheit-Skala (benannt nach `Daniel Fahrenheit
     <https://de.wikipedia.org/wiki/Daniel_Gabriel_Fahrenheit>`_) liegt der erste
-    Fixpunkt bei :math:`\unit[32]{^{\circ}F} = \unit[0]{^{\circ}C}`, der zweite
-    Fixpunkt liegt bei :math:`\unit[212]{^{\circ}F} = \unit[100]{^{\circ}C}`.
+    Fixpunkt bei :math:`\unit[32]{\degree F} = \unit[0]{\degree C}`, der zweite
+    Fixpunkt liegt bei :math:`\unit[212]{\degree F} = \unit[100]{\degree C}`.
     [#F1]_ Die Umrechnung zwischen Temperaturen in Celsius
-    :math:`(\unit[]{^{\circ}C})` und Fahrenheit :math:`(\unit[]{^{\circ}F})`
+    :math:`(\unit[]{\degree C})` und Fahrenheit :math:`(\unit[]{\degree F})`
     erfolgt nach folgendem Schema:
 
     .. math::
-            
+
         \text{Temperatur in \textdegree F} &= (\text{Temperatur in \textdegree
         C} \cdot 1,8) + 32 \\[4pt]
         \text{Temperatur in \textdegree C} &= (\text{Temperatur in \textdegree
         F} - 32) \, / \, 1,8
-        
+
 Weltweit wird inzwischen die Celsius-Skala am häufigsten verwendet. Die
 Kelvin-Skala wird sehr häufig im wissenschaftlichen Bereich genutzt, die
 Fahrenheit-Skala ist nur (noch) in Amerika und einigen weiteren Ländern in
 Gebrauch.
-    
+
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
     .. rubric:: Anmerkungen:
@@ -235,25 +235,25 @@ Gebrauch.
         Wasser.
 
 .. [#K1]  Temperaturangaben in :math:`K` sind somit stets positiv :math:`(\ge 0)`.
-        
+
 .. [#F1] Ursprünglich legte Fahrenheit den unteren Fixpunkt seiner Skala bei
-        :math:`\unit[0]{^{\circ}F}` fest, der bis dato tiefsten Temperatur in
-        seiner Heimatstadt Danzig :math:`(\unit[-18,7]{^{\circ}C})`; den oberen
-        Fixpunkt legte er auf :math:`\unit[100]{^{\circ}F}` fest, der "normalen
+        :math:`\unit[0]{\degree F}` fest, der bis dato tiefsten Temperatur in
+        seiner Heimatstadt Danzig :math:`(\unit[-18,7]{\degree C})`; den oberen
+        Fixpunkt legte er auf :math:`\unit[100]{\degree F}` fest, der "normalen
         Körpertemperatur eines gesunden Menschen" :math:`(\text{ca. }
-        \unit[37]{^{\circ}C})`. Da beide Werte kaum exakt reproduzierbar waren,
+        \unit[37]{\degree C})`. Da beide Werte kaum exakt reproduzierbar waren,
         ließen sich Thermometer damit nur schwerlich kalibrieren. Um diesen
         Mangel zu beseitigen, wählte man ebenfalls die Schmelztemperatur
-        (:math:`\unit[32]{^{\circ}F}`) und Siedetemperatur
-        :math:`(\unit[212]{^{\circ}F})` des Wassers als neue Fixpunkte. Dadurch
+        (:math:`\unit[32]{\degree F}`) und Siedetemperatur
+        :math:`(\unit[212]{\degree F})` des Wassers als neue Fixpunkte. Dadurch
         konnten die damals weit verbreiteten und "gewohnten" Temperaturangaben
         weiter genutzt werden.
-        
+
 .. raw:: html
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Temperatur und
     Wärme>` und :ref:`Übungsaufgaben <Aufgaben zu Temperatur und Wärme>`.

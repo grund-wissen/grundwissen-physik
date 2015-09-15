@@ -21,39 +21,39 @@ addieren, um den Kehrwert der Gesamtbrennweite zu erhalten:
 
 .. math::
     :label: eqn-brennweite-linsensystem
-    
+
     \frac{1}{f _{\rm{ges}}} = \frac{1}{f_1} + \frac{1}{f_2} + \ldots
 
 Die Brennweiten von Sammellinsen werden dabei positiv, die von
 Zerstreuungslinsen negativ gezählt.
 
 *Beispiele:*
-    
+
 * Eine Kombination zweier Sammellinsen mit den Brennweiten :math:`f_1 =
   \unit[10]{cm}` und :math:`f_2 = \unit[15]{cm}` hat insgesamt folgende
-  Brennweite: 
+  Brennweite:
 
   .. math::
-      
+
       \frac{1}{f _{\rm{ges}}} = \frac{1}{\unit[0,1]{m}} +
       \frac{1}{\unit[0,15]{m}} \quad \Leftrightarrow \quad f _{\rm{ges}} =
       \frac{1}{\frac{1}{\unit[0,1]{m}} + \frac{1}{\unit[0,15]{m}}} =
       \unit[0,06]{m}
-  
+
   Die beiden Linsen haben zusammen somit die gleiche Brechkraft wie eine
   einzelne (Sammel-)Linse mit :math:`f = \unit[6]{cm}` Brennweite.
 
 * Eine Kombination einer Sammellinse mit einer Brennweite von :math:`f_1 =
   \unit[30]{cm}` und einer Zerstreuungslinse mit einer Brennweite von
-  :math:`f_2 = \unit[-10]{cm}` hat insgesamt folgende Brennweite: 
+  :math:`f_2 = \unit[-10]{cm}` hat insgesamt folgende Brennweite:
 
   .. math::
-      
+
       \frac{1}{f _{\rm{ges}}} = \frac{1}{\unit[0,3]{m}} -
       \frac{1}{\unit[0,1]{m}} \quad \Leftrightarrow \quad f _{\rm{ges}} =
       \frac{1}{\frac{1}{\unit[0,3]{m}} - \frac{1}{\unit[0,1]{m}}} =
       -\unit[0,15]{m}
-  
+
   Die beiden Linsen haben zusammen somit die gleiche Brechkraft wie eine
   einzelne (Zerstreuungs-)Linse mit :math:`f = -\unit[15]{cm}` Brennweite.
 
@@ -74,7 +74,7 @@ Kehrwert der Brennweite :math:`f` definiert ist:
 
 .. math::
     :label: eqn-brechkraft
-    
+
     D = \frac{1}{f}
 
 Die Brechkraft einer Linse wird in Dioptrien :math:`(\unit[]{dpt})` angegeben.
@@ -82,24 +82,24 @@ Eine Dioptrie entspricht der Brechkraft einer Sammellinse, die eine Brennweite
 von einem Meter hat:
 
 .. math::
-    
+
     \unit[1]{dpt} = \unit[1]{\frac{1}{m}}
 
 Je kleiner die Brennweite einer Linse ist, desto größer ist ihre Brechkraft
 und somit auch ihre Dioptrienzahl; beispielsweise entspricht eine Brennweite von
 :math:`\unit[\frac{1}{2}]{m}` einer Brechkraft von  :math:`\unit[2]{dpt}` oder
 eine Brennweite von :math:`\unit[\frac{1}{4}]{m}` einer Brechkraft von
-:math:`\unit[4]{dpt}`. 
+:math:`\unit[4]{dpt}`.
 
 Die Dioptrienzahl :math:`D _{\rm{ges}}` eines Linsensystems ist gleich der Summe
 der Dioptrienzahlen der einzelnen Linsen; die Brechkraft von Sammellinsen erhält
 dabei wiederum ein positives, die von Zerstreuungslinsen ein negatives
-Vorzeichen. Es gilt also: 
+Vorzeichen. Es gilt also:
 
 .. math::
     :label: eqn-brechkraft-linsensystem
 
-    D _{\rm{ges}} = D_1 + D_2 + \ldots   
+    D _{\rm{ges}} = D_1 + D_2 + \ldots
 
 
 .. _Linsenfehler und Abhilfen:
@@ -116,7 +116,7 @@ achsennah einfallenden Strahlen in einem einzigen Punkt scharf abgebildet
 werden. Es gilt:
 
 .. math::
-    
+
     f _{\rm{Rand}} < f _{\rm{Mitte}}
 
 Die Verschiebung des Brennpunkts bei Randstrahlen wird als sphärische Abberation
@@ -140,7 +140,7 @@ Licht am schwächsten, violettes Licht am stärksten gebrochen. Dieser Effekt
 wird als chromatische Abberation bezeichnet. Es gilt:
 
 .. math::
-    
+
     f _{\rm{rot}} < f _{\rm{violett}}
 
 ..  Die chromatische Abberation kann nie vollstaendig
@@ -153,7 +153,7 @@ Der Abbildungsmaßstab und die Linsengleichung
 
 Das vergrößerte bzw. verkleinerte Bild, das sich bei einer Abbildung durch
 eine optische Linse ergibt, kann nicht nur durch geometrische Konstruktion
-sondern auch rechnerisch bestimmt werden. 
+sondern auch rechnerisch bestimmt werden.
 
 .. figure::
     ../pics/optik/strahlensatz-abbildungsgleichung.png
@@ -165,7 +165,7 @@ sondern auch rechnerisch bestimmt werden.
     Herleitung der Abbildungsgleichung (Strahlensatz).
 
     .. only:: html
-    
+
         :download:`SVG: Abbildungsgleichung (Strahlensatz)
         <../pics/optik/strahlensatz-abbildungsgleichung.svg>`
 
@@ -176,7 +176,7 @@ steht wie die Größe des Bildes :math:`B` zu seiner Entfernung :math:`b` von
 der Linse:
 
 .. math::
-    
+
     \frac{B}{b} = \frac{G}{g}
 
 Formt man diese für Sammel- wie für Zerstreuungslinsen gleichermaßen gültige
@@ -185,7 +185,7 @@ Abbildung durch die Linse ergibt:
 
 .. math::
     :label: eqn-abbildungsgleichung
-    
+
     \tilde{\beta} = \frac{B}{G} = \frac{b}{g} {\color{white}\;\;\; .}
 
 Der Abbildungsmaßstab :math:`\tilde{\beta}` hat keine Einheit, sondern ist ein reines
@@ -196,7 +196,7 @@ Häufig lassen sich im praktischen Anwendungsfall die Gegenstandsgröße :math:`
 sowie die Gegenstandsweite :math:`g` durch eine gewöhnliche Längenmessung
 ermitteln. Um damit jedoch mittels Gleichung :eq:`eqn-abbildungsgleichung` auf die
 Bildgröße :math:`B` und die Bildweite :math:`b` schließen zu können, ist neben
-der eine zusätzliche Gleichung nötig. 
+der eine zusätzliche Gleichung nötig.
 
 .. figure::
     ../pics/optik/strahlensatz-linsengleichung.png
@@ -208,7 +208,7 @@ der eine zusätzliche Gleichung nötig.
     Herleitung der Linsengleichung (Strahlensatz).
 
     .. only:: html
-    
+
         :download:`SVG: Linsengleichung (Strahlensatz)
         <../pics/optik/strahlensatz-linsengleichung.svg>`
 
@@ -218,13 +218,13 @@ gleichen Verhältnis zur Größe :math:`B` des Bildes steht wie die Entfernung
 :math:`g-f` des Gegenstands vom Brennpunkt zur Brennweite :math:`f` der Linse:
 
 .. math::
-    
-    \frac{G}{B} = \frac{g-f}{f} 
+
+    \frac{G}{B} = \frac{g-f}{f}
 
 Die rechte Seite dieser Gleichung kann in zwei Terme aufgeteilt werden:
 
 .. math::
-    
+
     \frac{G}{B} = \frac{g-f}{f} = \frac{g}{f} - 1
 
 Das Verhältnis :math:`\frac{G}{B}` der Gegenstands- zur Bildgröße ist nach
@@ -232,7 +232,7 @@ Gleichung :eq:`eqn-abbildungsgleichung` mit dem Verhältnis :math:`\frac{g}{b}`
 der Gegenstands- zur Bildweite identisch. Somit gilt:
 
 .. math::
-    
+
     \frac{g}{b} = \frac{g}{f} - 1
 
 Dividiert man diese Gleichung durch :math:`g` und sortiert die Terme, so erhält
@@ -241,7 +241,7 @@ angegeben wird:
 
 .. math::
     :label: eqn-linsengleichung
-    
+
     \frac{1}{f} = \frac{1}{b} + \frac{1}{g}
 
 Bei einer bekannten Brennweite kann mittels dieser Gleichung anhand der
@@ -254,7 +254,7 @@ Bildgröße :math:`B` und damit den Abbildungsmaßstab.
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu
     Linsensystemen>`.

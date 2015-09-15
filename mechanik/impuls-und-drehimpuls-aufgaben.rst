@@ -46,7 +46,7 @@ Drehimpuls <Impuls und Drehimpuls>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Impuls und Drehimpuls>`

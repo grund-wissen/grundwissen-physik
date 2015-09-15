@@ -12,8 +12,8 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
 
 *   Die Standfestigkeit eines Körpers hängt von seiner Masse, der Lage seines
     Schwerpunkts und der Größe seiner Auflagefläche ab. Wann ist die
-    Standfestigkeit eines Körpers groß, wann nur gering? 
-    
+    Standfestigkeit eines Körpers groß, wann nur gering?
+
     :ref:`Lösung <Gleichgewicht-01-Lösung>`
 
 .. raw:: latex
@@ -23,7 +23,7 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Drehmoment und Gleichgewicht>`

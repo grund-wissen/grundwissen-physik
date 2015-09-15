@@ -23,12 +23,12 @@ Mechanik der Flüssigkeiten>` zum Abschnitt :ref:`Mechanik der Flüssigkeiten
   einwirkenden Kraft :math:`F` und der Querschnittsfläche :math:`A` des Kolbens:
 
   .. math::
-    
+
       p = \frac{F}{A} = \frac{\unit[350]{N}}{\unit[0,01]{m^2}} = \unit[35 \cdot
       10^3]{Pa} = \unit[0,35]{bar}
 
   Im Gleichgewichtsfall, also bei einem sich nicht bewegenden Kolben, herrscht
-  im Fluid innerhalb des Zylinders ein ebenso hoher Druck. 
+  im Fluid innerhalb des Zylinders ein ebenso hoher Druck.
 
   :ref:`Zurück zur Aufgabe <Kolbendruck-01>`
 
@@ -43,7 +43,7 @@ Mechanik der Flüssigkeiten>` zum Abschnitt :ref:`Mechanik der Flüssigkeiten
   Wasserdruck :math:`p = \unit[6]{bar} = \unit[6 \cdot 10^5]{Pa}` in Bodenhöhe:
 
   .. math::
-      
+
       p &= \rho \cdot g \cdot h \quad \Longleftrightarrow \quad h = \frac{p}{\rho
       \cdot g} \\[6pt]
       h &= \frac{\unit[6 \cdot 10^5]{Pa}}{\unit[1 \cdot 10^3]{\frac{kg}{m^3}}
@@ -62,7 +62,7 @@ Mechanik der Flüssigkeiten>` zum Abschnitt :ref:`Mechanik der Flüssigkeiten
   \unit[1,05]{\frac{kg}{dm^3}}` hat der badende Mensch eine Masse von :math:`m =
   \rho \cdot V = \unit[1,05]{\frac{kg}{l}} \cdot \unit[80]{l} = \unit[84]{kg}`
   und damit eine Gewichtskraft von :math:`m \cdot g = \unit[80]{kg} \cdot
-  \unit[9,81]{\frac{N}{kg}} \approx \unit[824]{N}`. 
+  \unit[9,81]{\frac{N}{kg}} \approx \unit[824]{N}`.
 
   Die Auftriebskraft :math:`F _{\rm{A}} = \rho _{\rm{Fl}} \cdot g \cdot V
   _{\rm{K}}` ist abhängig vom Volumen des eintauchenden Körpers, jedoch nicht
@@ -71,7 +71,7 @@ Mechanik der Flüssigkeiten>` zum Abschnitt :ref:`Mechanik der Flüssigkeiten
   beträgt somit:
 
   .. math::
-      
+
       F _{\rm{A,W}} = \rho _{\rm{Fl}} \cdot g \cdot V _{\rm{K}} =
       \unit[1,00]{\frac{kg}{l}} \cdot \unit[9,81]{\frac{N}{kg}} \cdot
       \unit[80]{l} \approx \unit[785]{N}.
@@ -84,7 +84,7 @@ Mechanik der Flüssigkeiten>` zum Abschnitt :ref:`Mechanik der Flüssigkeiten
   \unit[1120]{\frac{kg}{m^3}} = \unit[1,12]{\frac{kg}{dm^3}}`:
 
   .. math::
-      
+
       F _{\rm{A,SW}} = \rho _{\rm{Fl}} \cdot g \cdot V _{\rm{K}} =
       \unit[1,12]{\frac{kg}{l}} \cdot \unit[9,81]{\frac{N}{kg}} \cdot
       \unit[80]{l} \approx \unit[879]{N}.
@@ -109,7 +109,7 @@ Mechanik der Flüssigkeiten>` zum Abschnitt :ref:`Mechanik der Flüssigkeiten
   Unterseeboote haben nach dem gleichen Prinzip Wassertanks, die zum Absinken
   geflutet und zum Auftauchen mittels Pressluft entleert werden. Auf diese Weise
   kann ebenfalls die durchschnittliche Dichte des Bootes gesteuert werden.
-  
+
   :ref:`Zurück zur Aufgabe <Auftrieb-02>`
 
 ----
@@ -124,14 +124,14 @@ Mechanik der Flüssigkeiten>` zum Abschnitt :ref:`Mechanik der Flüssigkeiten
   :math:`\Delta p _{\rm{stat}}` in der hinteren Flüssigkeitssäule:
 
   .. math::
-      
+
       \frac{1}{2} \cdot \rho \cdot v^2 = \rho \cdot g \cdot \Delta h
 
   Die Dichte :math:`\rho` kürzt sich heraus, die Gleichung kann dann nach
   :math:`v` aufgelöst werden:
 
   .. math::
-      
+
       v = \sqrt{2 \cdot g \cdot \Delta h} = \sqrt{2 \cdot
       \unit[9,81]{\frac{m}{s^2}} \cdot \unit[0,1]{m}} \approx
       \unit[1,4]{\frac{m}{s}}
@@ -157,7 +157,7 @@ Mechanik der Gase>` zum Abschnitt :ref:`Mechanik der Gase <Mechanik der Gase>`.
   :math:`p _{\rm{dyn}}`:
 
   .. math::
-      
+
       p _{\rm{dyn}} = \frac{1}{2} \cdot \rho \cdot v^2
 
   Setzt man hier :math:`p _{\rm{dyn}} = \unit[10]{kPa} = \unit[10 \cdot
@@ -167,7 +167,7 @@ Mechanik der Gase>` zum Abschnitt :ref:`Mechanik der Gase <Mechanik der Gase>`.
   so folgt:
 
   .. math::
-      
+
       v _{\rm{Wasser}} = \sqrt{\frac{2 \cdot p _{\rm{dyn}}}{\rho _{\rm{Wasser}}}} =
       \sqrt{ \frac{2 \cdot \unit[10 \cdot 10^3]{Pa}}{\unit[1000]{\frac{kg}{m^3}}}}
       \approx \unit[4,47]{\frac{m}{s}}
@@ -176,15 +176,15 @@ Mechanik der Gase>` zum Abschnitt :ref:`Mechanik der Gase <Mechanik der Gase>`.
   :math:`\unit{N} = \unit{kg \cdot \frac{m}{s^2}}` gilt; somit folgt:
 
   .. math::
-      
-      \unit{\sqrt{\frac{Pa}{\frac{kg}{m^3}}}} = \unit{\sqrt{\frac{Pa \cdot m^3}{kg}}}= 
-      \unit{\sqrt{\frac{\frac{N}{m^2} \cdot m^3}{kg}}}=\unit{\sqrt{\frac{N\cdot m}{kg}}} 
+
+      \unit{\sqrt{\frac{Pa}{\frac{kg}{m^3}}}} = \unit{\sqrt{\frac{Pa \cdot m^3}{kg}}}=
+      \unit{\sqrt{\frac{\frac{N}{m^2} \cdot m^3}{kg}}}=\unit{\sqrt{\frac{N\cdot m}{kg}}}
      =\unit{\sqrt{\frac{(kg \cdot \frac{m}{s^2})\cdot m}{kg}}} = \unit{\sqrt{\frac{m^2}{s^2}}}
 
   Für die nötige Strömungsgeschwindigkeit von Luft gilt entsprechend:
 
   .. math::
-      
+
       v _{\rm{Wasser}} = \sqrt{\frac{2 \cdot p _{\rm{dyn}}}{\rho _{\rm{Luft}}}} =
       \sqrt{ \frac{2 \cdot \unit[10 \cdot 10^3]{Pa}}{\unit[1,29]{\frac{kg}{m^3}}}}
       \approx \unit[4,47]{\frac{m}{s}} \approx \unit[124,5]{\frac{m}{s}}
@@ -203,7 +203,7 @@ Mechanik der Gase>` zum Abschnitt :ref:`Mechanik der Gase <Mechanik der Gase>`.
   weiten und im engen Rohrstück:
 
   .. math::
-      
+
       \dot{V} = A_1 \cdot v_1 = A_2 \cdot v_2
 
   Setzt man für den Volumenstrom :math:`\dot{V} = \unit[1,5 \cdot 10
@@ -212,7 +212,7 @@ Mechanik der Gase>` zum Abschnitt :ref:`Mechanik der Gase <Mechanik der Gase>`.
   \unit[0,5]{cm^2} = \unit[0,5 \cdot 10 ^{-4}]{m^2}`:
 
   .. math::
-      
+
       v_1 &= \frac{\dot{V}}{A_1} = \frac{\unit[2,5 \cdot 10
       ^{-4}]{\frac{m^3}{s}}}{\unit[2 \cdot 10 ^{-4}]{m^2}}=
       \unit[1,25]{\frac{m}{s}} \\
@@ -225,14 +225,14 @@ Mechanik der Gase>` zum Abschnitt :ref:`Mechanik der Gase <Mechanik der Gase>`.
   _{\rm{dyn,2}}` im weiten und engen Rohrstück berechnet werden:
 
   .. math::
-      
+
       p _{\rm{dyn,1}} &= \frac{1}{2} \cdot \rho \cdot v_1^2 = \frac{1}{2} \cdot
       \unit[1,32]{\frac{kg}{m^3}} \cdot
       \left(\unit[1,25]{\frac{m}{s}}\right)^2 \approx \unit[1,03]{Pa} \\
       p _{\rm{dyn,2}} &= \frac{1}{2} \cdot \rho \cdot v_2^2 = \frac{1}{2} \cdot
       \unit[1,32]{\frac{kg}{m^3}} \cdot
       \left(\unit[5,0\phantom{5}]{\frac{m}{s}}\right)^2 \approx \unit[16,5]{Pa}
-  
+
   Da nach der Bernoulli-Gleichung der Gesamtdruck in beiden Rohrteilen gleich
   ist, muss im ersten, weiteren Rohrteil der statische Druck um :math:`\Delta p
   = _{\rm{dyn,2}} - p _{\rm{dyn,1}}` höher sein als im zweiten. Der statische
@@ -242,7 +242,7 @@ Mechanik der Gase>` zum Abschnitt :ref:`Mechanik der Gase <Mechanik der Gase>`.
   also:
 
   .. math::
-      
+
       \Delta p = p _{\rm{dyn,2}} - p _{\rm{dyn,1}} = \rho _{\rm{Fl}} \cdot g
       \cdot \Delta h
 
@@ -250,7 +250,7 @@ Mechanik der Gase>` zum Abschnitt :ref:`Mechanik der Gase <Mechanik der Gase>`.
   werden:
 
   .. math::
-      
+
       \Delta h = \frac{p _{\rm{dyn,2}}- p _{\rm{dyn,1}}}{\rho _{\rm{Fl}} \cdot
       g} = \frac{\unit[16,5]{Pa} -
       \unit[1,03]{Pa}}{\unit[1000]{\frac{kg}{m^3}} \cdot
@@ -269,7 +269,7 @@ Mechanik der Gase>` zum Abschnitt :ref:`Mechanik der Gase <Mechanik der Gase>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Mechanik der Flüssigkeiten>`

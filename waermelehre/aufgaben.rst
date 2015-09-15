@@ -1,4 +1,4 @@
-.. meta:: 
+.. meta::
     :description: Übungsaufgaben zur Wärmelehre
     :keywords:  Physik, Physik Aufgaben, Wärmelehre, Wärmelehre Aufgaben, Grundwissen, Schule, Lehrbuch
 
@@ -20,7 +20,7 @@ Wärme <Temperatur und Wärme>`.
 .. _Temperatur-01:
 
 * Wie viel Grad Fahrenheit entsprechen einer Temperatur von
-  :math:`\unit[20]{^{\circ}C}`?
+  :math:`\unit[20]{\degree C}`?
 
   :ref:`Lösung <Temperatur-01-Lösung>`
 
@@ -28,7 +28,7 @@ Wärme <Temperatur und Wärme>`.
 
 .. _Temperatur-02:
 
-* Ab einer Körpertemperatur von über :math:`\unit[40]{^{\circ}C }` spricht man
+* Ab einer Körpertemperatur von über :math:`\unit[40]{\degree C }` spricht man
   bei einem Menschen von "hohem Fieber". Wie viel Kelvin bzw. Grad Fahrenheit
   entsprechen dieser Temperatur?
 
@@ -49,10 +49,10 @@ Phasenübergänge <Wärmekapazität und Phasenübergänge>`.
 .. _Wärmekapazität-und-Schmelzwärme-01:
 
 * Welche Wärmemenge :math:`Q` ist nötig, um :math:`m=\unit[5]{kg}` Eis mit einer
-  Temperatur von :math:`T=\unit[0]{^{\circ}C}` und einer spezifischen
+  Temperatur von :math:`T=\unit[0]{\degree C}` und einer spezifischen
   Schmelzwärme von :math:`q _{\rm{s}} = \unit[334]{kJ/kg}` zu schmelzen? Auf
   welche Temperatur :math:`T_2` könnten :math:`m=\unit[5]{kg}` Wasser mit einer
-  Temperatur von :math:`T_1 = \unit[0]{^{\circ}C}` und einer spezifischen
+  Temperatur von :math:`T_1 = \unit[0]{\degree C}` und einer spezifischen
   Wärmemenge von :math:`c = \unit[4,2]{\frac{kJ}{kg \cdot K}}` mit der gleichen
   Wärmemenge erwärmt werden?
 
@@ -77,7 +77,7 @@ Wärme <Ausbreitung von Wärme>`.
   :math:`\unit[1]{m^2}` großes Fenster mit einfacher, :math:`\unit[4]{mm}`
   dicker Verglasung (Wärmeleitfähigkeit :math:`\lambda = \unit[1]{\frac{W}{m
   \cdot K}}`), wenn die Temperatur an der Innenseite :math:`\unit[20]{°C}` und
-  an der Außenseite :math:`\unit[5]{°C}` beträgt? 
+  an der Außenseite :math:`\unit[5]{°C}` beträgt?
 
   :ref:`Lösung <Wärmeleitung-02-Lösung>`
 
@@ -92,7 +92,7 @@ Wärme <Ausbreitung von Wärme>`.
   breiter Luftspalt mit einer Wärmeleitfähigkeit von :math:`\lambda_2 =
   \unit[0,025]{\frac{W}{m \cdot K}}` liegt? Die Temperatur an der Innenseite
   beträgt wiederum :math:`\unit[20]{°C}` und an der Außenseite
-  :math:`\unit[5]{°C}`. 
+  :math:`\unit[5]{°C}`.
 
 
   :ref:`Lösung <Wärmeleitung-03-Lösung>`
@@ -104,7 +104,7 @@ Wärme <Ausbreitung von Wärme>`.
 * Um welchen Faktor steigt die Leistung der Wärmestrahlung eines schwarzen
   Körpers, wenn man seine Oberflächentemperatur verdoppelt? Um welchen Faktor
   steigt die Strahlungsleistung, wenn die Oberflächentemperatur von :math:`T_1 =
-  \unit[10]{^{\circ}C}` auf :math:`T_2 = \unit[40]{^{\circ}C}` erhöht wird?
+  \unit[10]{\degree C}` auf :math:`T_2 = \unit[40]{\degree C}` erhöht wird?
 
   :ref:`Lösung <Wärmestrahlung-01-Lösung>`
 
@@ -138,7 +138,7 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
   \unit[0,024]{\frac{mm}{m \cdot K} })` und Chrom-Stahl :math:`(\alpha
   _{\rm{FeCr}} = \unit[0,010]{\frac{mm}{m \cdot K} })`. In einem Bügeleisen soll
   sich der Bimetallstreifen bei ausreichender Erwärmung nach oben verbiegen und
-  die Heizung unterbrechen. Welches Metall muss oben, welches unten liegen? 
+  die Heizung unterbrechen. Welches Metall muss oben, welches unten liegen?
 
   :ref:`Lösung <Wärmeausdehnung-Festkörper-02-Lösung>`
 
@@ -158,8 +158,8 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
 
 * Welcher Längenschwankung ist eine :math:`l = \unit[300]{m}` lange Brücke aus
   Beton :math:`(\alpha _{\rm{Beton}} = \unit[0,012]{\frac{mm}{m \cdot K} })`
-  unterworfen, wenn sie im Winter auf :math:`\unit[-15]{^{\circ}C}` abkühlt und
-  sich im Sommer auf :math:`\unit[40]{^{\circ}C }` erhitzt? 
+  unterworfen, wenn sie im Winter auf :math:`\unit[-15]{\degree C}` abkühlt und
+  sich im Sommer auf :math:`\unit[40]{\degree C }` erhitzt?
 
   :ref:`Lösung <Wärmeausdehnung-Festkörper-04-Lösung>`
 
@@ -168,8 +168,8 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
 .. _Wärmeausdehnung-Flüssigkeiten-01:
 
 * An einem Sommertag scheint die Sonne auf einen mit :math:`\unit[40]{l}` Benzin
-  gefüllten Tank. Das Benzin erhitzt sich dabei von :math:`\unit[20]{^{\circ}C}` auf
-  :math:`\unit[70]{^{\circ}C}`. Auf welches Volumen dehnt sich das Benzin aus?
+  gefüllten Tank. Das Benzin erhitzt sich dabei von :math:`\unit[20]{\degree C}` auf
+  :math:`\unit[70]{\degree C}`. Auf welches Volumen dehnt sich das Benzin aus?
 
   :ref:`Lösung <Wärmeausdehnung-Flüssigkeiten-01-Lösung>`
 
@@ -221,7 +221,7 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
 
 * Ein ungeheiztes Zimmer mit einer Fläche von :math:`\unit[20]{m^2}` und einer
   Höhe von :math:`\unit[2,5]{m}` wird im Winter von :math:`T _{\rm{1}} =
-  \unit[12]{^{\circ}C }` auf :math:`T _{\rm{2}} = \unit[20]{^{\circ}C}`
+  \unit[12]{\degree C }` auf :math:`T _{\rm{2}} = \unit[20]{\degree C}`
   aufgeheizt. Wie viel Luft muss dabei aus dem Zimmer entweichen, wenn der
   Luftdruck während der Erwärmung konstant bleibt?
 
@@ -242,9 +242,9 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
 ----
 
 
-.. _Aufgaben zur allgemeinen Gasgleichung: 
+.. _Aufgaben zur allgemeinen Gasgleichung:
 
-Aufgaben zur allgemeinen Gasgleichung 
+Aufgaben zur allgemeinen Gasgleichung
 --------------------------------------
 
 Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Allgemeine
@@ -255,7 +255,7 @@ Gasgleichung <Allgemeine Gasgleichung>`.
 .. _Allgemeine-Gasgleichung-01:
 
 * Wie groß ist die Dichte von Luft in einem Gefäß, wenn dieses bei einer
-  Temperatur von :math:`T = \unit[20]{^{\circ}C}` bis auf ein Ultrahochvakuum
+  Temperatur von :math:`T = \unit[20]{\degree C}` bis auf ein Ultrahochvakuum
   mit einem Restdruck von :math:`p = \unit[1 \cdot 10 ^{-10}]{Pa}` leergepumpt
   wird? Wie viele Teilchen befinden sich dabei in :math:`V = \unit[1]{cm^3}`
   dieses Restgases?
@@ -272,7 +272,7 @@ Gasgleichung <Allgemeine Gasgleichung>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Wärmelehre>`

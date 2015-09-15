@@ -1,4 +1,4 @@
-.. index:: 
+.. index::
     single: Kraftaddition
 .. _Zusammenwirken mehrerer Kräfte:
 
@@ -12,7 +12,7 @@ einzelnen (Teil-)Kräfte.
 
 .. math::
     :label: eqn-kraftaddition
-    
+
     \vec{F} _{\rm{ges}} =  \vec{F} _{\rm{1}} +
     \vec{F} _{\rm{2}} + \ldots + \vec{F} _{\rm{n}}
 
@@ -29,7 +29,7 @@ Wirken zwei Teilkräfte in die gleiche Richtung, so erhält man die
 Gesamtkraft, indem man die Beträge der Teilkräfte addiert. Die Gesamtkraft
 zeigt in die gleiche Richtung wie die einzelnen Teilkräfte.
 
-*Beispiel:* 
+*Beispiel:*
 
 * Die Gewichtskraft, die ein Stapel Teller auf eine Unterlage ausübt, ist gleich
   der Summe der Gewichtskräfte der einzelnen Teller.
@@ -43,15 +43,15 @@ zeigt in die gleiche Richtung wie die einzelnen Teilkräfte.
     Kraftaddition mehrerer Teilkräfte zu einer Gesamtkraft.
 
     .. only:: html
-    
+
         :download:`SVG: Kraftaddition (gleiche Richtung)
         <../../pics/mechanik/dynamik/kraftaddition-gleiche-richtung.svg>`
 
 Wirken zwei Teilkräfte in die entgegengesetzte Richtung, so erhält man die
-Gesamtkraft, indem man die Differenz aus den Beträgen der Teilkräfte bildet. 
+Gesamtkraft, indem man die Differenz aus den Beträgen der Teilkräfte bildet.
 Die Gesamtkraft zeigt in Richtung der größeren der beiden Teilkräfte.
 
-*Beispiel:* 
+*Beispiel:*
 
 * Zieht beim Seilziehen eine Gruppe stärker als die andere, so bewegen sich alle
   Teilnehmer in die Richtung der stärkeren Kraft. Die Gesamtkraft, mit der alle
@@ -68,7 +68,7 @@ Die Gesamtkraft zeigt in Richtung der größeren der beiden Teilkräfte.
     Kraftaddition mehrerer Kräfte mit entgegengesetzter Richtung.
 
     .. only:: html
-    
+
         :download:`SVG: Kraftaddition (entgegengesetzte Richtung)
         <../../pics/mechanik/dynamik/kraftaddition-entgegengesetzte-richtung.svg>`
 
@@ -86,7 +86,7 @@ müssen die Längen der Vektoren zueinander in einem frei wählbaren Maßstab
 den Beträgen der einzelnen Kräfte entsprechen.
 
 *Beispiel:*
-    
+
 * Soll ein Schiff von einem anderen ohne Abdrift über einen Fluss gezogen
   werden, so muss die Kraft des ziehenden Schiffes auch die Schubkraft
   des fließenden Wassers ausgleichen.
@@ -100,7 +100,7 @@ den Beträgen der einzelnen Kräfte entsprechen.
     Kraftaddition mehrerer Kräfte mit unterschiedlichen Richtungen.
 
     .. only:: html
-    
+
         :download:`SVG: Kraftaddition (unterschiedliche Richtungen)
         <../../pics/mechanik/dynamik/kraftaddition-unterschiedliche-richtungen.svg>`
 
@@ -116,7 +116,7 @@ und :math:`\vec{F} _{\rm{2}}` ergebende Gesamtkraft :math:`\vec{F} _{\rm{ges}}`,
 indem man die einzelnen Komponenten beider Kraftvektoren miteinander addiert:
 
 .. math::
-    
+
     \vec{F} _{\rm{1}} + \vec{F} _{\rm{2}} = \begin{pmatrix}
     F _{\rm{x,1}} \\
     F _{\rm{y,1}} \\
@@ -129,19 +129,19 @@ indem man die einzelnen Komponenten beider Kraftvektoren miteinander addiert:
     F _{\rm{x,1}} + F _{\rm{x,2}} \\
     F _{\rm{y,1}} + F _{\rm{y,2}} \\
     F _{\rm{z,1}} + F _{\rm{z,2}} \\
-    \end{pmatrix} 
+    \end{pmatrix}
 
 Der Betrag der wirkenden Gesamtkraft ist auch hierbei gleich dem Betrag des
 Ergebnisvektors, der sich gemäß folgender Formel berechnen lässt:
 
 .. math::
-    
+
     F _{\rm{ges}} = |\vec{F} _{\rm{ges}}| = \sqrt{F _{\rm{ges,x}}^2 + F
     _{\rm{ges,y}}^2 + F _{\rm{ges,3}}^2}
 
 .. Verallgemeinerung: Mehrere Kräfte.
 
-.. index:: 
+.. index::
     single: Kraftzerlegung
 
 .. _Zerlegung einer Kraft in Teilkräfte:
@@ -151,15 +151,15 @@ Zerlegung einer Kraft in Teilkräfte
 
 In gleicher Art und Weise, wie sich mehrere Kräfte zu einer Gesamtkraft addieren
 lassen, kann man eine Kraft auch in mehrere Teilkräfte aufteilen, die gemeinsam
-eine gleiche Wirkung hervorrufen. 
+eine gleiche Wirkung hervorrufen.
 
 *Beispiel:*
-    
+
 * Eine Straßenlampe wird von zwei Halteseilen getragen. Diese können nur
   Zugkräfte vermitteln, d.h. die Teilkräfte :math:`\vec{F} _{\rm{1}}` und
   :math:`\vec{F} _{\rm{2}}` in den Seilen müssen entlang der Seilrichtungen
   verlaufen; die Summe beider Teilkräfte wiederum muss der Gewichtskraft
-  :math:`\vec{F} _{\rm{G}}` der Lampe entsprechen. 
+  :math:`\vec{F} _{\rm{G}}` der Lampe entsprechen.
 
 .. figure:: ../../pics/mechanik/dynamik/kraftzerlegung-strassenlampe.png
     :name: fig-kraftzerlegung
@@ -170,7 +170,7 @@ eine gleiche Wirkung hervorrufen.
     Kraftzerlegung einer Kraft in zwei Teilkräfte.
 
     .. only:: html
-    
+
         :download:`SVG: Kraftzerlegung
         <../../pics/mechanik/dynamik/kraftzerlegung-strassenlampe.svg>`
 
@@ -189,7 +189,7 @@ Parallelogramm ergibt die gesuchten Teilkräfte :math:`\vec{F} _{\rm{1}}` und
     :math:`\beta`.
 
     .. only:: html
-    
+
         :download:`SVG: Kraftzerlegung bei bekannten Winkeln
         <../../pics/mechanik/dynamik/kraftzerlegung-bei-bekannten-winkeln.svg>`
 
@@ -199,7 +199,7 @@ und :math:`\vec{F}_2`, so gilt für die Beträge :math:`F_1` und :math:`F_2` der
 Teilkräfte:
 
 .. math::
-    
+
     F_1 = F \cdot \frac{\sin{(\alpha)}}{\sin{(\alpha + \beta)}} \\[6pt]
     F_2 = F \cdot \frac{\sin{(\beta)}}{\sin{(\alpha + \beta)}} \\[6pt]
 
@@ -222,12 +222,12 @@ als der Betrag :math:`F` der zu zerlegenden Kraft.
     Endpunkt des ersten liegt, der Anfangspunkt des dritten Vektors am Endpunkt
     des zweiten liegt, usw. Der Vektor vom Anfangspunkt der Vektorkette zu ihrem
     Endpunkt entspricht der wirkenden Gesamtkraft.
-    
+
 .. raw:: html
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zum Zusammenwirken
     mehrerer Kräfte>` und :ref:`Übungsaufgaben <Aufgaben zum Zusammenwirken

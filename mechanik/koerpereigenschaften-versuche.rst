@@ -10,7 +10,7 @@ Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Körpereigenschafte
 
 ----
 
-.. _Volumenbestimmung im Standzylinder: 
+.. _Volumenbestimmung im Standzylinder:
 
 .. rubric:: Volumenbestimmung im Standzylinder
 
@@ -19,7 +19,7 @@ Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Körpereigenschafte
 .. hlist::
     :columns: 2
 
-    * Ein Standzylinder :math:`(\unit[500]{ml})` 
+    * Ein Standzylinder :math:`(\unit[500]{ml})`
     * Ein Filzstift
     * Verschiedene, regelmäßig geformte Probekörper (z.B. Quader aus Aluminium)
     * Wasser
@@ -42,20 +42,20 @@ Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Körpereigenschafte
 *Durchführung:*
 
 - Fülle einen Standzylinder etwa zur Hälfte mit Wasser und  markiere den
-  Füllstand mit einem Filzstift. 
+  Füllstand mit einem Filzstift.
 - Tauche einen Quader, Würfel, oder einen anderen regelmäßig geformten Körper
   in das Wasser ein. Beobachte dabei, wie sich der Füllstand im Standzylinder
   verändert.
 - Berechne das Volumen des eingetauchten Körpers mit Hilfe der passenden
   geometrischen Formel. Vergleiche den berechneten Wert mit der Volumenmenge, um
-  die der Standzylinder nun weiter gefüllt ist. 
+  die der Standzylinder nun weiter gefüllt ist.
 - Wiederhole den Versuch mit verschiedenen Flüssigkeiten. Was stellst Du fest?
 
 ..  Quelle: Dorn-Bader S.9
-    
+
 ----
 
-.. _Dichtebestimmung nach Archimedes: 
+.. _Dichtebestimmung nach Archimedes:
 
 .. rubric:: Dichtebestimmung nach Archimedes
 
@@ -70,7 +70,7 @@ Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Körpereigenschafte
     * Ein Auffangbecken (z.B. Kunststoff-Schüssel)
     * Eine Laborwaage
     * Ein Handtuch
-    * Wasser 
+    * Wasser
     * Mehrere kleine Probekörper aus verschiedenen Materialien
     * Taschenrechner und Dichtetabelle
 
@@ -98,7 +98,7 @@ Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Körpereigenschafte
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Körpereigenschaften>`

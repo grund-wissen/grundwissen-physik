@@ -10,7 +10,7 @@ Wärmekraftmaschinen
 ..  :math:`m` wird als Heizwert :math:`H` bezeichnet:
 
 ..  .. math::
-    
+
     ..  H = \frac{Q}{m}
 
 ..  Ist der Heizwert eines Brennstoffs bekannt, so kann umgekehrt die bei der
@@ -19,17 +19,17 @@ Wärmekraftmaschinen
 
 ..  Bei gasförmigen Brennstoffen bezieht sich der spezifische Heizwert
 ..  :math:`H_{\rm{G}}` auf das Normvolumen :math:`V _{\rm{N}}` eines Gases (Druck :math:`p =
-..  \unit[1,013]{bar}`, Temperatur :math:`T = \unit[0]{^{\circ}C}`):
+..  \unit[1,013]{bar}`, Temperatur :math:`T = \unit[0]{\degree C}`):
 
 ..  .. math::
-    
+
     ..  H _{\rm{G}} = \frac{Q}{V _{\rm{N}}}
 
 ..  Die bei der Verbrennung eines gasförmigen Brennstoffs kann somit als
 ..  :math:`H_{\rm{G}} = V _{\rm{N}} \cdot H _{\rm{G}}` berechnet werden.
 
 
-..  Für den Wirkungsgrad η jeder realen Wärmekraftmaschine gilt:
+..  Für den Wirkungsgrad \eta jeder realen Wärmekraftmaschine gilt:
 
 ..  .. math::
 

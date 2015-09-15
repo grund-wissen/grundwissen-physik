@@ -4,7 +4,7 @@ Schwingungen und Wellen
 =======================
 
 In der Natur und in technischen Anwendungen treten häufig zeitlich
-periodische Vorgänge auf. 
+periodische Vorgänge auf.
 
 .. toctree::
     :maxdepth: 2
@@ -12,6 +12,6 @@ periodische Vorgänge auf.
     schwingungen.rst
     harmonische-schwingungen.rst
     wellen.rst
-    
+
 
 

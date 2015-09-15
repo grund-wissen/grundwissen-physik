@@ -1,6 +1,6 @@
 .. _Arbeit, Leistung und Energie:
 
-Arbeit, Leistung und Energie 
+Arbeit, Leistung und Energie
 ============================
 
 .. toctree::

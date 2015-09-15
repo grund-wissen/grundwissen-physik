@@ -39,8 +39,8 @@ außen eine Wärmemenge :math:`\Delta Q` zugeführt oder eine Arbeitsmenge
 
 .. math::
     :label: eqn-erster-hauptsatz
-    
-    \Delta U = \Delta Q + \Delta W 
+
+    \Delta U = \Delta Q + \Delta W
 
 Dieser Zusammenhang, der erstmals von `Julius Robert Mayer
 <https://de.wikipedia.org/wiki/Robert_Mayer>`_ und `Hermann von Helmholtz
@@ -49,7 +49,7 @@ erster Hauptsatz der Wärmelehre genannt. Ist ein System nach außen hin thermis
 isoliert ("abgeschlossenes System"), so bleibt die innere Energie :math:`U` des
 Systems erhalten. Wird einem System Arbeit oder Wärme zugeführt, so erhalten die
 entsprechenden Mengen in den obigen Gleichungen üblicherweise ein positives,
-andernfalls ein negatives Vorzeichen. 
+andernfalls ein negatives Vorzeichen.
 
 *Beispiele:*
 
@@ -75,8 +75,8 @@ andernfalls ein negatives Vorzeichen.
   kürzester Zeit an; dabei verändert sich sein Druck und sein Volumen.
   Gegenüber der verrichteten Volumenänderungsarbeit :math:`\Delta W` des Gases
   ist die durch Wärmeleitung bzw. Wärmestrahlung abgegebene Wärmemenge
-  :math:`\Delta Q` bei diesem Prozess vernachlässigbar klein . 
-  
+  :math:`\Delta Q` bei diesem Prozess vernachlässigbar klein .
+
 Vorgänge wie im letzten Beispiel, bei denen innere Energie (im Idealfall) ohne
 Wärmeaustausch in Arbeit umgewandelt wird, nennt man adiabatisch. Sie lassen
 sich aufgrund stets auftretender Wärmestrahlung und nur endlichen
@@ -86,10 +86,10 @@ Näherung auftreten.
 
 Der erste Hauptsatz der Wärmelehre schließt als Energie-Erhaltungssatz die
 Existenz einer Maschine aus, die ohne Zufuhr von Energie mechanische Arbeit
-verrichten kann. 
+verrichten kann.
 
 .. _Wärmequelle:
-.. _Heizwert: 
+.. _Heizwert:
 .. _Brennwert:
 
 .. rubric:: Wärmequellen, Heiz- und Brennwert
@@ -108,7 +108,7 @@ _{\rm{H}}`. Sie lässt sich anhand der Masse :math:`m` des Brennstoffs sowie
 dessen Heizwert :math:`H _{\rm{i}}` berechnen:
 
 .. math::
-    
+
     Q _{\rm{H}} = m \cdot H _{\rm{i}}
 
 Der Heizwert :math:`H _{\rm{i}}` ist eine materialspezifische Größe und wird
@@ -133,7 +133,7 @@ Der zweite Hauptsatz der Wärmelehre
 
 Der zweite Hauptsatz der Wärmelehre ist im Laufe der Geschichte auf drei
 verschiedene Arten formuliert worden, wobei sich herausgestellt hat, dass all
-diese verschiedenen Formulierungen gleichwertig sind. 
+diese verschiedenen Formulierungen gleichwertig sind.
 
 
 .. rubric:: Formulierung nach Clausius
@@ -144,14 +144,14 @@ Hauptsatz jedoch denkbar, dass eine Maschine, deren innere Energie :math:`U`
 unverändert bleibt, ausschließlich Wärme in Arbeit umwandelt. Beispielsweise
 wäre es nach dem ersten Hauptsatz möglich, dass ein Schiff auf einem Ozean in
 der Lage ist mechanische Arbeit zu verrichten alleinig dadurch, dass es dem
-Ozean Wärme entzieht. 
+Ozean Wärme entzieht.
 
 Der zweite Hauptsatz schließt die Existenz eines solchen "Perpetuum Mobiles"
 aus, indem er vorgibt, in welche *Richtung* eine Übertragung von Wärme
 stattfindet. Diese Tatsache wurde ursprünglich von `Rudolf Clausius
 <https://de.wikipedia.org/wiki/Rudolf_Clausius>`_ formuliert:
 
-.. epigraph:: 
+.. epigraph::
 
     "Wärme fließt immer vom wärmeren System in Richtung eines kälteren Systems."
 
@@ -161,12 +161,12 @@ Systeme, so dass überhaupt ein Wärmestrom auftritt. Bringt man diese beiden
 Systeme in Kontakt, so fließt eine Wärmemenge :math:`Q _{\rm{H}}` vom heißen
 System in Richtung des kälteren. Von diesem Wärmestrom kann ein (zunächst nicht
 näher bestimmter) Anteil :math:`W` an Arbeit "abgezapft" werden, die restliche
-Wärme :math:`Q _{\rm{K}}` fließt zum kälteren System. 
+Wärme :math:`Q _{\rm{K}}` fließt zum kälteren System.
 
 Quantitativ gilt hierbei:
 
 .. math::
-    
+
    Q  _{\rm{H}} = W + Q _{\rm{K}}
 
 Bei einer Wärmekraftmaschine ist man in erster Linie am Anteil der mechanischen
@@ -177,7 +177,7 @@ Wärmemenge :math:`Q _{\rm{H}}`:
 
 .. math::
     :label: eqn-wirkungsgrad-waermekraftmaschine
-    
+
     \eta = \frac{W}{Q _{\rm{H}}} = \frac{Q _{\rm{H}} - Q _{\rm{K}}}{Q _{\rm{H}}}
     = 1 - \frac{Q _{\rm{K}}}{Q _{\rm{H}}}
 
@@ -199,7 +199,7 @@ beschreibt. Er kam zu folgendem Ergebnis:
 
 .. math::
     :label: eqn-carnotprozess
-    
+
     \eta _{\rm{max}} = 1 - \frac{T _{\rm{K}}}{T _{\rm{H}}}
 
 Auch bei dieser Formulierung des zweiten Hauptsatzes kann der Wirkungsgrad einer
@@ -218,7 +218,7 @@ unterschieden:
   würde. Läuft der Prozess einmal in Hin- und einmal in Rückrichtung ab, so
   sind beide Systeme anschließend unverändert.
 
-* *Irreversible* Prozesse laufen von selbst nur in eine bestimmte Richtung ab. 
+* *Irreversible* Prozesse laufen von selbst nur in eine bestimmte Richtung ab.
   Um den Prozess in Gegenrichtung ablaufen zu lassen, muss Energie zugeführt
   werden.
 
@@ -266,7 +266,7 @@ von so genannten "Leistungszahlen":
   Leistungszahl :math:`LZ` einer Kältemaschine gilt damit:
 
   .. math::
-      
+
       LZ = \frac{Q _{\rm{K}}}{W}
 
 * Bei einer Wärmepumpe ist die interessierende Größe die Wärmemenge :math:`Q
@@ -274,7 +274,7 @@ von so genannten "Leistungszahlen":
   :math:`LZ` einer Wärmepumpe gilt damit:
 
   .. math::
-      
+
       LZ = \frac{Q _{\rm{H}}}{W}
 
 In beiden Fällen sind die Leistungszahlen größer als Eins. Gute Wärmepumpen
@@ -314,7 +314,7 @@ macht eine Aussage über das Verhalten von Stoffen in unmittelbarer Nähe des
 absoluten Nullpunktes, also von :math:`\unit[0]{K}`. Man kann diesen Hauptsatz
 in Kurzform folgendermaßen formulieren:
 
-.. epigraph:: 
+.. epigraph::
 
     "Es ist unmöglich, durch irgendeinen Vorgang den absoluten Nullpunkt zu
     erreichen."
@@ -363,6 +363,6 @@ Wärmekraftmaschine von :math:`100\%`, wie er für einen :ref:`Carnot-Prozess
     Beim Brennwert wird dann die Wärmemenge mit einbezogen, die diese Menge
     Wasserdampf beim Kondensieren freisetzt.
 
-.. Brennwert-Tabellen: 
+.. Brennwert-Tabellen:
 .. http://www.heizung-direkt.de/UEBERSHO/brennwert.htm
 .. https://de.wikipedia.org/wiki/Heizwert

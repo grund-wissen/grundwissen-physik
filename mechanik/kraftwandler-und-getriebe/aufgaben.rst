@@ -6,7 +6,7 @@ Aufgaben zu Kraftwandlern und Getrieben
 
 .. _Aufgaben zu Hebeln:
 
-Aufgaben zu Hebeln 
+Aufgaben zu Hebeln
 ------------------
 
 Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Hebel
@@ -17,8 +17,8 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Hebel
 .. _Hebel-01:
 
 * Funktioniert eine Balkenwaage auch auf dem Mond? Gilt das gleiche auch für
-  eine Federkraftwaage? 
-  
+  eine Federkraftwaage?
+
   :ref:`Lösung <Hebel-01-Lösung>`
 
 ----
@@ -91,8 +91,8 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Schiefe Ebene
   entlang einer schiefen Ebene verschoben. Die schiefe Ebene ist
   :math:`\unit[2,4]{m}` lang, ihre Höhe beträgt :math:`\unit[0,6]{m}`. Wie
   groß ist die zum (reibungsfreien) Schieben der Schubkarre notwendige Kraft
-  :math:`F`? 
-  
+  :math:`F`?
+
   :ref:`Lösung <Schiefe-Ebene-01-Lösung>`
 
 ----
@@ -114,7 +114,7 @@ Rollen <Flaschenzüge und Rollen>`.
   Last der Masse :math:`m=\unit[200]{kg}` um eine Höhe von :math:`h =
   \unit[3]{m}` angehoben. Die Masse einer einzelnen Rolle beträgt
   :math:`\unit[5]{kg}`. Wie groß ist die Zugkraft :math:`F`, wie lang die
-  Zugstrecke :math:`s`?  
+  Zugstrecke :math:`s`?
 
   :ref:`Lösung <Flaschenzug-01-Lösung>`
 
@@ -181,10 +181,10 @@ Getriebe <Zahnräder und Getriebe>`.
       :width: 60%
 
   .. only:: html
-      
+
      .. centered:: :download:`SVG: Zahnrad-Getriebe
           <../../pics/mechanik/kraftwandler-und-getriebe/getriebe-gangschaltung-fahrrad.svg>`
-        
+
   Wie groß ist im Vergleich die auf das Hinterrad wirkende Kraft :math:`F_2`,
   wenn der Fahrer vorne auf einen kleineren Zahnkranz mit Radius :math:`r_2 =
   \unit[0,05]{m}` herunter schaltet und die gleiche Kraft auf das Pedal ausübt?
@@ -198,7 +198,7 @@ Getriebe <Zahnräder und Getriebe>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Kraftwandler und Getriebe>`

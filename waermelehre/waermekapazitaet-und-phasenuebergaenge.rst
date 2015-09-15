@@ -23,10 +23,10 @@ benötigt für eine gleiche Erwärmung wesentlich weniger Energie als ein ganzes
 Schwimmbad. Die Menge an Wärme, die man einem konkreten Gegenstand der Masse
 :math:`m` zuführen muss, um ihn um :math:`\Delta T = \unit[1]{K}` zu erwärmen,
 wird als Wärmekapazität :math:`C` des Gegenstands bezeichnet; ihre Einheit ist
-:math:`\frac{J}{K}`. Für die zur Erwärmung nötige Wärmemenge :math:`Q` gilt: 
+:math:`\frac{J}{K}`. Für die zur Erwärmung nötige Wärmemenge :math:`Q` gilt:
 
 .. math::
-    
+
     \Delta Q = C \cdot \Delta T
 
 .. _Die spezifische Wärmekapazität:
@@ -42,12 +42,12 @@ an.
 
     Die Menge :math:`\Delta Q` an Wärme, die nötig ist, um
     :math:`m=\unit[1]{kg}` eines Stoffes um :math:`\Delta T = \unit[1]{K}` zu
-    erwärmen, wird als spezifischen Wärmekapazität :math:`c` bezeichnet: 
+    erwärmen, wird als spezifischen Wärmekapazität :math:`c` bezeichnet:
 
     .. math::
-        
+
         c = \frac{C}{m} = \frac{\Delta Q}{m \cdot \Delta T}
-    
+
     Die Einheit der spezifischen Wärmekapazität ist gemäß der obigen Formel
     :math:`\unit[1]{\frac{J}{kg \cdot K}}`.
 
@@ -66,33 +66,33 @@ an.
     :name: tab-spezifische-waermekapazitaeten
     :widths: 50 50
 
-    * - Stoff       
+    * - Stoff
       - Wärmekapazität :math:`c` in :math:`\unit[]{\frac{kJ}{kg}}`
-    * - Aluminium   
+    * - Aluminium
       - :math:`0,90`
-    * - Blei        
+    * - Blei
       - :math:`0,13`
-    * - Eis         
+    * - Eis
       - :math:`2,10`
-    * - Eisen       
+    * - Eisen
       - :math:`0,45`
-    * - Ethanol      
+    * - Ethanol
       - :math:`2,43`
     * - Holz (trocken)
       - :math:`\approx 1,5`
-    * - Kupfer      
+    * - Kupfer
       - :math:`0,38`
     * - Petroleum
       - :math:`2,14`
-    * - Quecksilber 
+    * - Quecksilber
       - :math:`0,14`
-    * - Silber      
+    * - Silber
       - :math:`0,24`
-    * - Wasser      
+    * - Wasser
       - :math:`4,18`
     * - Wolfram
       - :math:`0,13`
-    * - Zinn        
+    * - Zinn
       - :math:`0,23`
 
 .. _Spezifische Wärmekapazität bei Gasen:
@@ -113,7 +113,7 @@ Wärmekapazitäten :math:`c _{\rm{p}}` und :math:`c _{\rm{V}}`:
   viel Energie zur Erwärmung eines Kilogramms um :math:`\Delta T = \unit[1]{K}`
   nötig ist, wenn der Druck des Gases konstant bleibt. Die zugeführte Wärmemenge
   erhöht hierbei einerseits die mittlere Energie der Moleküle, andererseits muss
-  auch eine so genannte "Ausdehnungsarbeit" am Gas verrichtet werden. 
+  auch eine so genannte "Ausdehnungsarbeit" am Gas verrichtet werden.
 
 Ein gute Modellvorstellung hierfür liefert ein kubischer Gasbehälter, der nach
 oben durch einen beweglichen Kolben abgeschlossen ist. Auf dem Kolben wird ein
@@ -128,11 +128,11 @@ das Gewicht bewirkte Kolbendruck ist dann mit dem Gasdruck im Gleichgewicht.
     :alt:  fig-spezifische-waermekapazitaet-gase
 
     Erwärmung von Gasen bei konstantem Volumen (links) und konstantem Druck
-    (rechts). 
+    (rechts).
 
-  
+
     .. only:: html
-    
+
         :download:`SVG: Spezifische Wärmekapazität von Gasen
         <../pics/waermelehre/spezifische-waermekapazitaet-gase.svg>`
 
@@ -147,8 +147,8 @@ V` aus, so gilt für die vom Gas verrichtete Ausdehnungsarbeit:
 
 .. math::
     :label: eqn-ausdehnungsarbeit
-    
-    p \cdot \Delta V = \frac{F}{A} \cdot \Delta V 
+
+    p \cdot \Delta V = \frac{F}{A} \cdot \Delta V
 
 Hat der kubische Gasbehälter die Seitenlänge :math:`s`, so gilt :math:`A = s^2`,
 und :math:`V = s^3`. Insgesamt ergibt sich also :math:`p \cdot \Delta V = F
@@ -165,7 +165,7 @@ investiert werden.
 Bei Flüssigkeiten ist die Wärmeausdehnung wesentlich geringer als
 bei Gasen, so dass hierbei häufig nur ein :math:`c`-Wert angegeben wird.
 
-..  
+..
     In der Chemie, in der eher gleiche Stoffmengen als gleiche Massen betrachtet
     werden, ist auch die so genannte molare Wärmekapazität als Vergleichsgrösse
     üblich; sie wird in der Einheit :math:`\unit[]{J/(mol \cdot K)}` angegeben.
@@ -184,7 +184,7 @@ Dieser Sonderfall des Energieerhaltungssatzes wird auch Richmannsche
 Mischungsregel bezeichnet:
 
 .. math::
-   
+
    Q _{\rm{abgegeben}} &= Q _{\rm{aufgenommen}} \\
    c_1 \cdot m_1 \cdot (T_1 - T _{\rm{M}}) &= c_2 \cdot m_2 \cdot (T
    _{\rm{M}} - T_2)
@@ -194,16 +194,16 @@ nach dem Mischungsvorgang ergibt. Haben die Wärme austauschenden Körper
 die gleiche Wärmekapazität, so ergibt sich als Mischungstemperatur:
 
 .. math::
-    
+
     T _{\rm{M}} = \frac{m_1 \cdot T_1 + m_2 \cdot T_2}{m_1 + m_2}
-    
+
 Sind mehr als zwei Körper am Mischungsvorgang beteiligt oder treten
 Änderungen des Aggregatszustands auf, so müssen die dabei umgesetzten
 Wärmemengen ebenfalls berücksichtigt werden. Allgemein gilt somit:
 
 .. math::
     :label: eqn-mischungsformel
-    
+
     c_1 \cdot m_1 \cdot T_1 + c_2 \cdot m_2 \cdot T_2 + \ldots = T _{\rm{M}}
     \cdot (c_1 \cdot m_1 + c_2 \cdot m_2 + \ldots)
 
@@ -235,15 +235,15 @@ als Phasenübergange bezeichnet.
     :alt:  fig-phasenuebergaenge
 
     Teilchenmodell von Festkörpern, Flüssigkeiten, und Gasen sowie
-    Phasenübergänge zwischen den drei Aggregatzuständen. 
-  
+    Phasenübergänge zwischen den drei Aggregatzuständen.
+
     .. only:: html
-    
+
         :download:`SVG: Phasenübergänge
         <../pics/waermelehre/phasenuebergaenge.svg>`
 
 
-.. index:: 
+.. index::
     single: Phasenübergang; Schmelzen und Erstarren
 .. _Schmelzen und Erstarren:
 
@@ -253,7 +253,7 @@ Schmelzen und Erstarren
 Wird ein fester Körper erwärmt, so schwingen seine Teilchen immer stärker um
 ihre Ruhelage. Zu einem bestimmten Zeitpunkt reichen die im Körper wirkenden
 Kohäsionskräfte nicht mehr aus, um die Teilchen an ihre Plätze zu binden -- der
-Festkörper schmilzt. 
+Festkörper schmilzt.
 
 Wird einer Flüssigkeit Wärme entzogen, so geht sie bei einer bestimmten
 Temperatur wieder in den festen Aggregatzustand über. Dieser Vorgang heißt
@@ -270,45 +270,45 @@ Grundsätzlich gilt für beliebige Schmelz- und Erstarrungsvorgänge:
   sind die zum Schmelzen nötige bzw. die beim Erstarren frei werdenden
   Wärmemengen (Schmelzenergie bzw. Erstarrungsenergie) identisch.
 
-.. todo:: 
+.. todo::
 
-    Siehe Tabelle... Schmelzenergie Eis 335 J / g. 
+    Siehe Tabelle... Schmelzenergie Eis 335 J / g.
 
 Die meisten Körper dehnen sich beim Schmelzen aus und ziehen sich beim Erstarren
 zusammen (Ausnahme: :ref:`Die Anomalie des Wassers <Anomalie des Wassers>`).
 
-.. list-table:: Schmelztemperaturen verschiedener Stoffe bei Normaldruck :math:`\unit[(1013)]{hPa}` 
+.. list-table:: Schmelztemperaturen verschiedener Stoffe bei Normaldruck :math:`\unit[(1013)]{hPa}`
     :name: tab-schmelztemperaturen
     :widths: 50 50
 
-    * - Stoff       
-      - Schmelztemperatur in :math:`\unit[]{^{\circ}C}`
-    * - Aluminium   
+    * - Stoff
+      - Schmelztemperatur in :math:`\unit[]{\degree C}`
+    * - Aluminium
       - :math:`660`
-    * - Blei        
+    * - Blei
       - :math:`327`
-    * - Eis         
+    * - Eis
       - :math:`0`
-    * - Eisen       
+    * - Eisen
       - :math:`1530`
-    * - Kupfer      
+    * - Kupfer
       - :math:`1083`
-    * - Quecksilber 
+    * - Quecksilber
       - :math:`-39`
-    * - Silber      
+    * - Silber
       - :math:`960`
-    * - Wolfram              
+    * - Wolfram
       - :math:`3380`
-    * - Zinn        
+    * - Zinn
       - :math:`232`
 
 ..  Legierungen weisen einen tieferen Schmelzpunkt auf als die einzelnen
 ..  Bestandteile.
 
-Manche Stoffe, z.B. Glas, haben keine bestimmte Schmelztemperatur: 
+Manche Stoffe, z.B. Glas, haben keine bestimmte Schmelztemperatur:
 
-* Glas erweicht bei :math:`\unit[700]{^{\circ}C}` und wird bei
-  :math:`\unit[1\,300]{^{\circ}C}` dünnflüssig. Man kann Glas als eine Flüssigkeit
+* Glas erweicht bei :math:`\unit[700]{\degree C}` und wird bei
+  :math:`\unit[1\,300]{\degree C}` dünnflüssig. Man kann Glas als eine Flüssigkeit
   ansehen, die bei Zimmertemperatur äußerst zäh ist. (Alte Fenster werden
   beispielsweise im Laufe der Zeit oben etwas dünner, unten dafür etwas dicker.)
 * Andere Stoffe, beispielsweise Holz, verbrennen, wenn man sie an Luft stark
@@ -330,7 +330,7 @@ Wärmemenge :math:`Q` nötig ist, um ein Kilogramm des Stoffes bei seiner
 Schmelztemperatur zu schmelzen:
 
 .. math::
-    
+
     q _{\rm{s}} = \frac{\Delta Q}{m}
 
 Die spezifische Schmelzwärme wird üblicherweise in :math:`\unit[kJ]{kg}`
@@ -341,28 +341,28 @@ abgegeben.
     :name: tab-schmelzwaermen
     :widths: 50 50
 
-    * - Stoff       
+    * - Stoff
       - Schmelzwärme :math:`q _{\rm{s}}` in :math:`\unit[]{\frac{kJ}{kg}}`
-    * - Aluminium   
+    * - Aluminium
       - :math:`397`
-    * - Blei        
+    * - Blei
       - :math:`23`
-    * - Eis         
+    * - Eis
       - :math:`344`
-    * - Eisen       
+    * - Eisen
       - :math:`277`
-    * - Kupfer      
+    * - Kupfer
       - :math:`205`
-    * - Quecksilber 
+    * - Quecksilber
       - :math:`12`
-    * - Silber      
+    * - Silber
       - :math:`105`
     * - Wolfram
       - :math:`192`
-    * - Zinn        
+    * - Zinn
       - :math:`60`
 
-.. index:: 
+.. index::
     single: Phasenübergang; Sieden und Kondensieren
 .. _Sieden und Kondensieren:
 
@@ -373,7 +373,7 @@ Wird ein flüssiger Stoff auf seine Siedetemperatur erhitzt, so bewegen sich die
 Flüssigkeitsteilchen mit sehr großer Geschwindigkeit. Sie können dadurch die
 Kohäsionskräfte überwinden. Innerhalb der Flüssigkeit entstehen Dampfblasen, der
 Stoff geht in den gasförmigen Aggregatzustand über. Dabei muss Wärme zugeführt
-werden. 
+werden.
 
 Wird Dampf Wärme entzogen, so geht er bei einer bestimmten Temperatur wieder in
 den flüssigen Aggregatzustand über. Dieser Vorgang heißt Kondensieren.
@@ -381,33 +381,33 @@ den flüssigen Aggregatzustand über. Dieser Vorgang heißt Kondensieren.
 * Während des Siedens ändert sich die Temperatur des Körpers trotz
   Wärmezufuhr nicht.
 
-* Die Siedetemperatur und Kondensationstemperatur eines Stoffes sind identisch. 
+* Die Siedetemperatur und Kondensationstemperatur eines Stoffes sind identisch.
 
-.. list-table:: Siedetemperaturen verschiedener Stoffe bei Normaldruck :math:`\unit[(1013)]{hPa}` 
+.. list-table:: Siedetemperaturen verschiedener Stoffe bei Normaldruck :math:`\unit[(1013)]{hPa}`
     :name: tab-siedetemperaturen
     :widths: 50 50
 
-    * - Stoff       
-      - Siedetemperatur in :math:`\unit[]{^{\circ}C}`
+    * - Stoff
+      - Siedetemperatur in :math:`\unit[]{\degree C}`
     * - Aluminium
       - :math:`2450`
-    * - Blei              
+    * - Blei
       - :math:`1750`
-    * - Eisen              
+    * - Eisen
       - :math:`2735`
-    * - Ethanol 
+    * - Ethanol
       - :math:`78`
-    * - Kupfer              
+    * - Kupfer
       - :math:`2590`
-    * - Meerwasser        
+    * - Meerwasser
       - :math:`104`
-    * - Quecksilber       
+    * - Quecksilber
       - :math:`357`
-    * - Silber              
+    * - Silber
       - :math:`2180`
-    * - Wasser            
+    * - Wasser
       - :math:`100`
-    * - Wolfram              
+    * - Wolfram
       - :math:`5500`
     * - Zinn
       - :math:`2690`
@@ -430,7 +430,7 @@ an, welche Wärmemenge :math:`Q` nötig ist, um ein Kilogramm der Flüssigkeit
 bei ihrer Siedetemperatur zu verdampfen:
 
 .. math::
-    
+
     q _{\rm{v}} = \frac{\Delta Q}{m}
 
 Beim Kondensieren wird die gleiche Menge an Wärme wieder an die Umgebung
@@ -440,29 +440,29 @@ abgegeben.
     :name: tab-verdampfungswaermen
     :widths: 50 50
 
-    * - Stoff       
+    * - Stoff
       - Verdampfungswärme :math:`q _{\rm{v}}` in :math:`\unit[]{\frac{kJ}{kg}}`
-    * - Aluminium   
+    * - Aluminium
       - :math:`10\,900`
     * - Benzol
       - :math:`394`
-    * - Blei        
+    * - Blei
       - :math:`8\,600`
-    * - Eisen       
+    * - Eisen
       - :math:`6\,339`
     * - Ethanol
       - :math:`840`
-    * - Kupfer      
+    * - Kupfer
       - :math:`4\,790`
-    * - Quecksilber 
+    * - Quecksilber
       - :math:`285`
-    * - Silber      
+    * - Silber
       - :math:`2\,350`
     * - Wasser
       - :math:`2\,257`
     * - Wolfram
       - :math:`4\,350`
-    * - Zinn        
+    * - Zinn
       - :math:`2\,450`
 
 Geht bei Sublimations- bzw. Resublimationsvorgängen ein Stoff unmittelbar von
@@ -471,14 +471,14 @@ spezifische Wärme gleich der Summe der Schmelz- und Verdampfungswärme des
 jeweiligen Stoffs.
 
 
-.. index:: 
+.. index::
     single: Phasenübergang; Verdunsten
 .. _Verdunsten:
 
 .. rubric:: Verdunsten
 
 Flüssigkeiten können bereits unterhalb ihrer Siedetemperatur in den
-gasförmigen Aggregatzustand übergehen. 
+gasförmigen Aggregatzustand übergehen.
 
 Beim Verdunsten müssen die Flüssigkeitsteilchen an der Oberfläche die
 Kohäsionskräfte der anderen Teilchen überwinden. Das ist möglich, weil sich
@@ -489,7 +489,7 @@ verlassen, wenn sie an die Oberfläche gelangen.
 Das Verdunsten einer Flüssigkeit kann folgendermaßen beeinflusst werden:
 
 * Je höher die Temperatur und je größer die Oberfläche, desto schneller
-  verdunstet eine Flüssigkeit. 
+  verdunstet eine Flüssigkeit.
 * Wird der entstehende Dampf fortgeführt, so verdunstet die Flüssigkeit
   ebenfalls schneller.
 
@@ -501,20 +501,20 @@ Flüssigkeit sowie ihre Umgebung ab ("Verdunstungskälte").
 
 .. Tripelpunkt: Wertepaar an Druck und Temperatur, bei dem alle drei
 .. Aggregatzustände (fest, flüssig, gasförmig) gleichzeitig nebeneinander
-.. existieren. Bei Wasser liegt er bei :math:`\unit[0,01]{^{\circ}C}`. Druck?
+.. existieren. Bei Wasser liegt er bei :math:`\unit[0,01]{\degree C}`. Druck?
 
-..  
+..
     .. figure:: ../pics/waermelehre/maxwellverteilung-stickstoffmolekuele.png
         :width: 80%
         :align: center
         :name: fig-phasenuebergaenge
         :alt:  fig-phasenuebergaenge
-        
+
         Teilchenmodell von Festkörpern, Flüssigkeiten, und Gasen sowie
-        Phasenübergänge zwischen den drei Aggregatzuständen. 
-         
+        Phasenübergänge zwischen den drei Aggregatzuständen.
+
         .. only:: html
-         
+
             :download:`SVG: Phasenübergänge
             <../pics/waermelehre/phasenuebergaenge.svg>`
 
@@ -540,7 +540,7 @@ Flüssigkeit sowie ihre Umgebung ab ("Verdunstungskälte").
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu Wärmekapazität
     und Phasenübergängen>`.

@@ -20,11 +20,11 @@ Ladung>`.
 * Ladungen können nicht erzeugt oder vernichtet, sondern nur voneinander
   getrennt werden. Wenn zwei Körper aus unterschiedlichem Material aneinander
   gerieben werden, gibt der eine Körper negative Ladung (Elektronen) an den
-  anderen ab. 
+  anderen ab.
 
   :ref:`Zurück zur Aufgabe <Elektrische-Ladung-01>`
 
-    
+
 ----
 
 .. _Lösungen zu Stromstärke, Spannung und Widerstand:
@@ -48,7 +48,7 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
   .. math::
 
-      U = R \cdot I \quad \Leftrightarrow \quad R = \frac{U}{I} 
+      U = R \cdot I \quad \Leftrightarrow \quad R = \frac{U}{I}
 
   .. math::
 
@@ -67,14 +67,14 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
   Ohmschen Gesetz ergibt sich für die Stromstärke :math:`I` im Stromkreis:
 
   .. math::
-      
-      U = R \cdot I \quad \Leftrightarrow \quad I = \frac{U}{R} 
-  
+
+      U = R \cdot I \quad \Leftrightarrow \quad I = \frac{U}{R}
+
   .. math::
-      
+
       I = \frac{\unit[12]{V}}{\unit[800]{\Omega }} = \unit[0,015]{A} =
       \unit[15]{mA}
-  
+
   Die Stromstärke im Stromkreis beträgt somit :math:`I = \unit[15]{mA}`.
 
   :ref:`Zurück zur Aufgabe <Ohmsches-Gesetz-02>`
@@ -88,14 +88,14 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
   Gesetz ergibt sich für die Stromstärke :math:`I` im Stromkreis:
 
   .. math::
-      
-      
-      U = R \cdot I \quad \Leftrightarrow \quad I = \frac{U}{R} 
-  
+
+
+      U = R \cdot I \quad \Leftrightarrow \quad I = \frac{U}{R}
+
   .. math::
-      
+
       I = \frac{\unit[230]{V}}{\unit[75]{\Omega }} \approx \unit[3,1]{A}
-  
+
   Die Stromstärke im Stromkreis beträgt somit rund :math:`\unit[3,1]{A}`.
 
   :ref:`Zurück zur Aufgabe <Ohmsches-Gesetz-03>`
@@ -109,9 +109,9 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
   ergibt sich für die Spannung :math:`U` der Stromquelle:
 
   .. math::
-      
+
       U = R \cdot I = \unit[50]{\Omega } \cdot \unit[0,3]{A} = \unit[15]{V}
-  
+
   Die Spannung der Stromquelle beträgt somit :math:`U = \unit[15]{V}`.
 
   :ref:`Zurück zur Aufgabe <Ohmsches-Gesetz-04>`
@@ -126,7 +126,7 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
   .. math::
 
-      U = R \cdot I \quad \Leftrightarrow \quad R = \frac{U}{I} 
+      U = R \cdot I \quad \Leftrightarrow \quad R = \frac{U}{I}
 
   .. math::
 
@@ -151,12 +151,12 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
   _{\rm{Cu}} = \unit[0,0156]{\Omega \cdot \frac{mm^2}{m} }` einsetzt:
 
   .. math::
-      
+
       R = \rho \cdot \frac{l}{A} = \unit[0,0156]{\frac{\Omega \cdot mm^2}{m}
       } \cdot \frac{\unit[10]{m}}{\unit[12,56]{mm^2}}
       \approx  \unit[0,12]{\Omega }
 
-  Der Draht hat einen elektrischen Widerstand von rund :math:`\unit[0,12]{\Omega }`. 
+  Der Draht hat einen elektrischen Widerstand von rund :math:`\unit[0,12]{\Omega }`.
 
   :ref:`Zurück zur Aufgabe <Spezifischer-Widerstand-01>`
 
@@ -172,7 +172,7 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
   \frac{mm^2}{m} }` einsetzt:
 
   .. math::
-      
+
       R = \rho \cdot \frac{l}{A} = \unit[0,0156]{\frac{\Omega \cdot mm^2}{m}
       } \cdot \frac{\unit[11400]{m}}{\unit[201]{mm^2}}
       \approx  \unit[0,89]{\Omega }
@@ -180,7 +180,7 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
   Für einen Draht aus Aluminium  folgt in gleicher Weise:
 
   .. math::
-      
+
       R = \rho \cdot \frac{l}{A} = \unit[0,0265]{\frac{\Omega \cdot mm^2}{m}
       } \cdot \frac{\unit[11400]{m}}{\unit[201]{mm^2}}
       \approx  \unit[1,50]{\Omega }
@@ -188,7 +188,7 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
   Für einen Draht aus Edelstahl ergibt sich:
 
   .. math::
-      
+
       R = \rho \cdot \frac{l}{A} = \unit[0,720]{\frac{\Omega \cdot mm^2}{m}
       } \cdot \frac{\unit[11400]{m}}{\unit[201]{mm^2}}
       \approx  \unit[40,8]{\Omega }
@@ -196,8 +196,8 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
   Der Kupferdraht hat einen elektrischen Widerstand von rund
   :math:`\unit[0,89]{\Omega }`. Baugleiche Drähte aus Aluminium bzw. Eisen
   hätten elektrische Widerstände von :math:`\unit[1,50]{\Omega }` bzw.
-  :math:`\unit[40,8]{\Omega }`. 
-  
+  :math:`\unit[40,8]{\Omega }`.
+
   :ref:`Zurück zur Aufgabe <Spezifischer-Widerstand-02>`
 
 ----
@@ -209,26 +209,26 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
   :math:`r` auflöst:
 
   .. math::
-    
+
       R = \rho \cdot \frac{l}{\pi \cdot r^2} \quad \Leftrightarrow \quad r =
-      \sqrt{\rho \cdot \frac{l}{\pi \cdot R} } 
+      \sqrt{\rho \cdot \frac{l}{\pi \cdot R} }
 
   Setzt man hierbei den spezifischen Widerstand von Eisen :math:`\rho
   _{\rm{Fe}} = \unit[0,125]{\Omega \cdot \frac{mm^2}{m} }`, für die Länge
   :math:`l = \unit[50]{m}` und für den maximalen Widerstand :math:`R =
   \unit[1]{\Omega }` ein, so erhält man:
-      
+
   .. math::
-    
+
      r = \sqrt{\rho \cdot \frac{l}{\pi \cdot R} } = \sqrt{ \unit[0,125]{\Omega
      \cdot \frac{mm^2}{m} } \cdot \frac{\unit[10]{m}}{\pi \cdot
      \unit[1]{\Omega }} } \approx \unit[1,41]{mm}
-  
+
   Der Draht muss somit einen Durchmesser von mindestens :math:`2 \cdot r
-  \approx \unit[2,82]{mm}` haben. 
-  
+  \approx \unit[2,82]{mm}` haben.
+
   :ref:`Zurück zur Aufgabe <Spezifischer-Widerstand-02>`
- 
+
 ----
 
 .. _Lösungen zu Magnetismus:
@@ -276,15 +276,15 @@ Arbeit, Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
     fließende Stromstärke :math:`I` folgendermaßen ausgedrückt werden:
 
     .. math::
-        
-        P = U \cdot I \quad \Leftrightarrow \quad I = \frac{P}{U} 
-    
+
+        P = U \cdot I \quad \Leftrightarrow \quad I = \frac{P}{U}
+
     Durch Einsetzen der Werte erhält man für eine
     :math:`P = \unit[40]{W}`-Glühbirne, die mit :math:`U = \unit[230]{V}`
     betrieben wird:
 
     .. math::
-        
+
         I = \frac{P}{U} = \frac{\unit[40]{W}}{\unit[230]{V}} \approx
         \unit[0,17]{A}
 
@@ -293,10 +293,10 @@ Arbeit, Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
     Menge an elektrischer Energie in Licht bzw. Wärme umgewandelt:
 
     .. math::
-        
+
         E = P \cdot t = \unit[40]{W} \cdot \unit[6]{h} = \unit[240]{W \cdot h} =
         \unit[0,24]{kWh}
-    
+
     Es werden somit :math:`\unit[0,24]{kWh}` an elektrischer Energie benötigt.
 
     :ref:`Zurück zur Aufgabe <Elektrische-Leistung-01>`
@@ -309,15 +309,15 @@ Arbeit, Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
     fließende Stromstärke :math:`I` folgendermaßen ausgedrücken:
 
     .. math::
-        
-        P = U \cdot I \quad \Leftrightarrow \quad I = \frac{P}{U} 
-    
+
+        P = U \cdot I \quad \Leftrightarrow \quad I = \frac{P}{U}
+
     Durch Einsetzen der Werte erhält man für einen :math:`P =
     \unit[1\,800]{W}`-Wasserkocher, der mit :math:`U = \unit[230]{V}` betrieben
     wird:
 
     .. math::
-        
+
         I = \frac{P}{U} = \frac{\unit[1\,800]{W}}{\unit[230]{V}} \approx
         \unit[7,83]{A}
 
@@ -333,8 +333,8 @@ Arbeit, Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Elektrizität und Magnetismus>`
-    
+

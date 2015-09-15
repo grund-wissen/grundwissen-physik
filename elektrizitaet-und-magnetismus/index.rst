@@ -12,7 +12,7 @@ mit ihnen verknüpften elektrischen und magnetischen Felder.
     ladung.rst
     stromstaerke-spannung-widerstand.rst
     elektrische-arbeit-energie-leistung.rst
-    leiter-halbleiter-isolator.rst    
+    leiter-halbleiter-isolator.rst
     elektrische-felder.rst
     magnetismus.rst
 

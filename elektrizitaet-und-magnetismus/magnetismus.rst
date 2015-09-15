@@ -12,7 +12,7 @@ Entwicklung der Menschheit. Inzwischen sind insbesondere Elektromagnete,
 Elektromotoren, Generatoren und Transformatoren aus unserer modernen
 Gesellschaft nicht mehr wegzudenken.
 
-.. index:: 
+.. index::
     single: Magnet; Permanentmagnet
 .. _Permanentmagnete:
 
@@ -46,7 +46,7 @@ kleinster "Elementarmagnete" aufgefasst werden:
   so verstärken sie sich in ihrer Wirkung -- ein starkes Magnetfeld ist die
   Folge.
 * Zeigen die Elementarmagnete in unterschiedliche Richtungen, so heben sich ihre
-  Wirkungen gegenseitig auf. 
+  Wirkungen gegenseitig auf.
 
 .. figure::
     ../pics/elektrizitaet-magnetismus/elementarmagnete.png
@@ -60,7 +60,7 @@ kleinster "Elementarmagnete" aufgefasst werden:
     Elementarmagnete hingegen eine einheitliche magnetische Ordnung auf.
 
     .. only:: html
-    
+
         :download:`SVG: Elementarmagnete
         <../pics/elektrizitaet-magnetismus/elementarmagnete.svg>`
 
@@ -73,7 +73,7 @@ kleinster "Elementarmagnete" aufgefasst werden:
 In nicht magnetisiertem Eisen sind die Elementarmagnete bereichsweise geordnet.
 Diese so genannten "Weißsche Bezirke"  besitzen ihrerseits allerdings
 unterschiedliche Ausrichtungen, so dass ein Stück Eisen von sich aus keine
-magnetische Wirkung auf andere Körper ausübt. 
+magnetische Wirkung auf andere Körper ausübt.
 
 Eisen kann durch Annähern eines Magneten selbst zum Magneten werden. Bei diesem
 Vorgang, den man als "magnetische Influenz" bezeichnet, folgen die einzelnen
@@ -94,7 +94,7 @@ Erschütterungen oder starkes Erhitzen können die Ordnung der Elementarmagnete
 wieder zerstören. Für alle Stoffe lässt sich eine bestimmte Temperatur
 ("Curie-Temperatur") angeben, oberhalb derer die thermische Bewegung der
 Stoffteilchen eine magnetische Ordnung verhindert. Beispielsweise ist Eisen ab
-:math:`\unit[770]{^{\circ}C}` nicht mehr magnetisierbar.
+:math:`\unit[770]{\degree C}` nicht mehr magnetisierbar.
 
 
 .. index:: Magnetfeld
@@ -105,7 +105,7 @@ Das Magnetfeld
 
 Die Kraft, die ein Magnet auf einen anderen magnetischen Körper ausübt, ist
 abhängig vom Abstand der Magnete, ihrer Form und von ihrer Ausrichtung
-zueinander. 
+zueinander.
 
 Die stärkste Kraft zeigt ein Magnet an seinen beiden gegenüberliegenden Polen:
 
@@ -120,7 +120,7 @@ Die stärkste Kraft zeigt ein Magnet an seinen beiden gegenüberliegenden Polen:
   abstoßen.
 
 Die magnetische Kraft ist in unmittelbarer Nähe zu den Magnetpolen am stärksten
-und nimmt mit zunehmendem Abstand von den Magnetpolen ab. 
+und nimmt mit zunehmendem Abstand von den Magnetpolen ab.
 
 Die Abhängigkeit der Magnetkräfte von der Form des Magneten lässt sich am
 leichtesten mit Hilfe von Eisenfeilspänen beobachten. Diese werden an
@@ -140,9 +140,9 @@ hin. Man bezeichnet diese räumliche Verteilung der Magnetkräfte um den Magnete
 herum als "Magnetfeld" und stellt sie in technischen Zeichnungen (etwas
 vereinfacht) durch einige stets geschlossene Linien dar. Oftmals werden noch
 entlang dieser "Magnetfeldlinien" kleine Pfeile eingezeichnet, die jeweils am
-Nordpol aus dem Magneten aus- und am Südpol wieder eintreten. 
+Nordpol aus dem Magneten aus- und am Südpol wieder eintreten.
 
-.. index:: 
+.. index::
     single: Magnetfeld; eines Stabmagneten
 
 .. figure::
@@ -156,19 +156,19 @@ Nordpol aus dem Magneten aus- und am Südpol wieder eintreten.
     und am Südpol wieder ein.
 
     .. only:: html
-    
+
         :download:`SVG: Magnetfeld eines Stabmagneten.
         <../pics/elektrizitaet-magnetismus/feldlinien-stabmagnet.svg>`
 
 
 Auf diese Weise kann sowohl die Kraftwirkung eines Magneten visualisiert werden
 als auch sein Einfluss auf andere magnetische bzw. magnetisierbare Körper
-abgeschätzt werden. 
+abgeschätzt werden.
 
 *Zusammenfassung:*
 
 * Magnetpole treten stets paarweise auf. Entlang diesen verlaufen die
-  Magnetfeldlinien auf stets geschlossenen Bahnen. 
+  Magnetfeldlinien auf stets geschlossenen Bahnen.
 * Die Pfeile der Magnetfeldlinien zeigen innerhalb des Magneten in Richtung
   Nordpol, außerhalb des Magneten in Richtung Südpol.
 * Gleiche Magnetpole stoßen sich ab, unterschiedliche Magnetpole ziehen sich
@@ -182,7 +182,7 @@ abgeschätzt werden.
   nahezu ohne Abschwächung.
 
 
-.. index:: 
+.. index::
     single: Magnet; Elektromagnet
 .. _Elektromagnete:
 
@@ -201,7 +201,7 @@ Magnetnadel(n) konnte Örsted in gleicher Weise wie bei Permanentmagneten das
 schwache Magnetfeld des Leiters bestimmen. Er konnte folgende Gesetzmäßigkeit
 beobachten:
 
-.. index:: 
+.. index::
     single: Magnetfeld; eines geraden Leiters
 
 *Rechte-Hand-Regel* (für Leiterbahnen):
@@ -222,7 +222,7 @@ beobachten:
     stromdurchflossenen Leiterstück.
 
     .. only:: html
-    
+
         :download:`SVG: Rechte-Hand-Regel (gerader Leiter)
         <../pics/elektrizitaet-magnetismus/magnetfeld-leiter-rechte-hand-regel.svg>`
 
@@ -230,7 +230,7 @@ Die Rechte-Hand-Regel gilt auch, wenn der elektrische Leiter zu einer Kreisform
 gebogen wird. Der Daumen muss hierbei mit der Krümmung des Leiters mitgeführt
 werden, um stets in die technische Stromrichtung zu zeigen. Es stellt sich
 dabei heraus, dass das resultierende Magnetfeld an den verschiedenen Stellen
-der Leiterschleife stets in die gleiche Richtung zeigt. 
+der Leiterschleife stets in die gleiche Richtung zeigt.
 
 .. figure::
     ../pics/elektrizitaet-magnetismus/magnetfeld-leiterschleife.png
@@ -242,7 +242,7 @@ der Leiterschleife stets in die gleiche Richtung zeigt.
     Das Magnetfeld einer Leiterschleife.
 
     .. only:: html
-    
+
         :download:`SVG: Magnetfeld einer Leiterschleife.
         <../pics/elektrizitaet-magnetismus/magnetfeld-leiterschleife.svg>`
 
@@ -269,7 +269,7 @@ ein Magnetfeld, das dem eines Stabmagneten sehr ähnlich ist. Hierbei gibt
 wieder die Rechte-Hand-Regel Auskunft, in welcher Richtung sich der Nord- bzw.
 Süpol des "Elektromagneten" befindet.
 
-.. index:: 
+.. index::
     single: Magnetfeld; einer Spule
 
 *Rechte-Hand-Regel* (für Spulen):
@@ -288,7 +288,7 @@ Süpol des "Elektromagneten" befindet.
     Magnetfeldlinien und Rechte-Hand-Regel bei einer stromdurchflossenen Spule.
 
     .. only:: html
-    
+
         :download:`SVG: Rechte-Hand-Regel (Spule)
         <../pics/elektrizitaet-magnetismus/magnetfeld-spule-rechte-hand-regel.svg>`
 
@@ -322,11 +322,11 @@ fließenden Stromstärke :math:`\vec{I}` und umgekehrt proportional zum Abstand
 :math:`r` von der Leiterbahn. Es gilt also:
 
 .. math::
-    
+
     H _{\rm{Leiterbahn}} = \frac{I}{2 \cdot \pi \cdot r}
 
 Die Einheit der magnetischen Feldstärke ist gemäß der obigen Formel
-:math:`\frac{A}{m}`. 
+:math:`\frac{A}{m}`.
 
 Im Inneren einer Leiterschleife ist der Wert der magnetischen Feldstärke
 gegenüber einer geraden Leiterbahn um den Faktor :math:`\pi` erhöht, es gilt
@@ -337,7 +337,7 @@ einer Spule mit einer Windungszahl :math:`N` und einer Länge :math:`l` gilt:
 
 .. math::
     :label: eqn-magnetische-feldstaerke-spule
-    
+
     H _{\rm{Spule}} = \frac{N \cdot I}{l}
 
 
@@ -352,7 +352,7 @@ andere Magneten beschreibt, gibt es folgenden Zusammenhang:
 
 .. math::
     :label: eqn-magnetische-feldstaerke-und-flussdichte
-    
+
     \vec{B} = \mu _0 \cdot \vec{H}  \quad \Leftrightarrow \quad \vec{H} =
     \frac{1}{\mu _0} \cdot \vec{B}
 
@@ -361,21 +361,21 @@ s}{A \cdot m}}` die magnetische Feldkonstante. Für die magnetische Flussdichte
 ergibt sich damit als Einheit:
 
 .. math::
-    
+
     [B] = \unit[1]{\frac{V \cdot s}{m^2}} = \unit[1]{Tesla} = \unit[1]{T}
 
 Beispielsweise beträgt die magnetische Flussdichte der Erde rund
-:math:`\unit[0,04]{mT}`. 
+:math:`\unit[0,04]{mT}`.
 
 Der obige Zusammenhang :eq:`eqn-magnetische-feldstaerke-und-flussdichte` gilt
 streng genommen nur im Vakuum, in guter Näherung jedoch auch in Luft. Befindet
 sich jedoch ein anderes Material im Magnetfeld, so muss dessen so genannte
 Permeabilität berücksichtigt werden, die angibt, ob die durch das Material
 laufenden Feldlinien durch das Material eher zusammengezogen oder aus dem
-Material hinausgedrängt werden. Allgemein gilt also: 
+Material hinausgedrängt werden. Allgemein gilt also:
 
 .. math::
-    
+
     \vec{B} = \mu _{\rm{r}} \cdot \mu _0 \cdot \vec{H}
 
 Für die Größe der Permeabilitaetszahl :math:`\mu _{\rm{r}}` gibt es im
@@ -402,7 +402,7 @@ wesentlichen drei verschiedene Fälle:
     ferromagnetischen Material (von links nach rechts).
 
     .. only:: html
-    
+
         :download:`SVG: Diamagnetismus Paramagnetismus Ferromagnetismus
         <../pics/elektrizitaet-magnetismus/diamagnetismus-paramagnetismus-ferromagnetismus.svg>`
 
@@ -461,7 +461,7 @@ der wirkenden Kraft gilt folgende Merkregel:
     technischen Stromrichtung :math:`\vec{I}`.
 
     .. only:: html
-    
+
         :download:`SVG: Drei-Finger-Regel (Lorentzkraft)
         <../pics/elektrizitaet-magnetismus/lorentzkraft-drei-finger-regel.svg>`
 
@@ -475,18 +475,18 @@ Erklärung für den Vorgang der elektromagnetischen Induktion.
 .. rubric:: Die elektromagnetische Induktion
 
 Bewegt man einen elektrischen Leiter senkrecht zu den Feldlinien eines
-Magnetfelds, so entsteht im Leiter ein Stromfluss. 
+Magnetfelds, so entsteht im Leiter ein Stromfluss.
 
 Der gleiche Effekt tritt auf, wenn ein Magnet senkrecht zu einem elektrischen
 Leiter bewegt wird -- nur die relative Bewegung von Magnet und Leiter zueinander
 zählt. Wird beispielsweise ein Magnetstab in eine stromlose Spule hineingesteckt
-bzw. herausgezogen, so tritt in der Spule kurzzeitig ein Stromfluss auf. 
+bzw. herausgezogen, so tritt in der Spule kurzzeitig ein Stromfluss auf.
 
 .. raw:: html
 
     <hr />
-    
-.. hint:: 
+
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Magnetismus>` und
     :ref:`Übungsaufgaben <Aufgaben zu Magnetismus>`.

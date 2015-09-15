@@ -30,7 +30,7 @@ Versuche zur Ausbreitung des Lichts
   Nebelschwaden.
 - Kannst Du die einzelnen Lichtbündel der Lampen auf diese Weise direkt
   beobachten?
-- Weshalb nehmen wir die einzelnen Lichtbündel ohne Rauch bzw. Nebel nicht wahr? 
+- Weshalb nehmen wir die einzelnen Lichtbündel ohne Rauch bzw. Nebel nicht wahr?
 
 ----
 
@@ -77,7 +77,7 @@ Versuche zur Ausbreitung des Lichts
 - Stelle eine Kerze und einen aufrecht stehenden Karton hintereinander vor einer
   weißen Wand oder einem optischen Schirm auf und achte auf das Schattenbild.
   Stelle dann eine zweite Kerze neben die erste und schiebe die Kerzen
-  abwechselnd auseinander und wieder zusammen. 
+  abwechselnd auseinander und wieder zusammen.
 - Wie verändert sich das Schattenbild durch die zweite Kerze?
 - Durch welche Kerze(n) werden der Kernschatten und die beiden Halbschatten
   verursacht?
@@ -149,7 +149,7 @@ Versuche zur Reflexion von Licht
 
 - Stelle vor eine senkrecht stehende (Plexi-)Glasplatte eine brennende Kerze.
   Stelle eine zweite, nicht brennende Kerze in gleichem Abstand hinter die
-  Glasplatte. 
+  Glasplatte.
 - Blicke von vorne, d.h. von der brennenden Seite aus durch die Glasplatte. Was
   kannst Du beobachten?
 - Wie lässt sich die Beobachtung mit Hilfe des Reflexionsgesetzes erklären?
@@ -273,7 +273,7 @@ Versuche zur Reflexion von Licht
   reflektierten Lichtstrahls. Was stellst Du fest?
 - Funktioniert der Versuch auch mit einem breiteren Lichtbündel?
 - Wiederhole den Versuch mit einem gewölbten Spiegel. Gilt das
-  Reflexionsgesetz auch in diesem Fall? [#]_ 
+  Reflexionsgesetz auch in diesem Fall? [#]_
 
 ..  - Gilt das Reflexionsgesetz auch für farbiges Licht?
 
@@ -295,7 +295,7 @@ Versuche zur Lichtbrechung
     :columns: 2
 
     * Ein Reagenzglas mit Stopfen
-    * Ein ausgedrucktes Din-A4-Blatt "Tief im Wald -- Die hohe Eiche" 
+    * Ein ausgedrucktes Din-A4-Blatt "Tief im Wald -- Die hohe Eiche"
 
 .. figure::
     ../pics/optik/tief-im-wald-die-hohe-eiche.png
@@ -317,12 +317,12 @@ Versuche zur Lichtbrechung
   das Reagenzglas kippst, sollten möglichst keine Luftbläßchen mehr zu sehen
   sein. Lege ein farbig ausgedrucktes Blatt mit den zwei Zeilen "TIEF IM WALD"
   und "DIE HOHE EICHE" auf einen Tisch und positioniere das Reagenzglas der
-  Länge nach auf der Schrift. 
+  Länge nach auf der Schrift.
 - Rolle das Reagenzglas auf und ab, so dass Du entweder die obere oder die
   untere Zeile durch das mit Wasser gefüllte Reagenzglas beobachten kannst. Was
   stellst Du fest?
 - Welchen Einfluss haben die Farben und die Form des Reagenzglases auf die
-  Lichtbrechung? 
+  Lichtbrechung?
 - Funktioniert der Versuch auch mit einem leeren Reagenzglas?
 
 ----
@@ -336,19 +336,19 @@ Versuche zur Lichtbrechung
 
     * Eine kleine, quaderförmige (Plexi-)Glasschale
     * Ein Bleistift
-    * Wasser 
+    * Wasser
 
 *Durchführung:*
 
 - Fülle Wasser in die Glasschale und lasse sie etwas über die Kante eines
   Tischs hinausragen. Achte dabei gut darauf, dass die Schale nicht
   herunterfallen kann!
-- Lege einen Bleistift quer über die Glasschale. 
+- Lege einen Bleistift quer über die Glasschale.
 - Versuche den Bleistift von der Unterseite der Glasschale aus zu betrachten.
   Bis zu welchem Blickwinkel kannst Du den Bleistift erkennen? Wie kannst Du die
   Beobachtung anhand der Totalreflexion an der Wasseroberfläche erklären?
 
-..  
+..
     - Lege eine kleine Münze, beispielsweise einen Cent, unter ein Trinkglas.
       Überprüfe, ob Du es von allen Seiten aus sehen kannst.
 
@@ -356,7 +356,7 @@ Versuche zur Lichtbrechung
 .. todo:: Versuche zu optischen Geräten
 .. todo:: Farben-Versuche
 
-    
+
 .. raw:: html
 
     <hr />
@@ -376,7 +376,7 @@ Versuche zur Lichtbrechung
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Optik>`

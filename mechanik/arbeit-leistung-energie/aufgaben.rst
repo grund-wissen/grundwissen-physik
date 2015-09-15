@@ -54,17 +54,17 @@ Arbeit <Mechanische Arbeit>`.
 * Ein Wanderer der Masse :math:`\unit[70]{kg}` trägt einen
   :math:`\unit[7]{kg}` schweren Rucksack auf einen um :math:`\unit[200]{m}`
   höher gelegenen Gipfel eines Berges hinauf. Wie viel Hubarbeit verrichtet er
-  am Rucksack, wie viel insgesamt? 
+  am Rucksack, wie viel insgesamt?
 
   :ref:`Lösung <Hubarbeit-02-Lösung>`
-    
+
 ----
 
 .. _Hubarbeit-03:
 
 * Welche Arbeit ist nötig, um zehn auf der Erde liegende, :math:`h =
   \unit[7]{cm}` hohe und :math:`F _{\rm{g}} = \unit[35]{N}` schwere
-  Ziegelsteine aufeinander zu stapeln? 
+  Ziegelsteine aufeinander zu stapeln?
 
   :ref:`Lösung <Hubarbeit-03-Lösung>`
 
@@ -143,7 +143,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Wirkungsgrad
   um eine Strecke :math:`s = \unit[7]{m}` angezogen. Dadurch wird eine Last
   mit einer Gewichtskraft von :math:`F _{\rm{G}} = \unit[250]{N}` um die
   Höhe :math:`h = \unit[2]{m}` angehoben. Wie groß ist der Wirkungsgrad
-  :math:`\eta` des Flaschenzugs? 
+  :math:`\eta` des Flaschenzugs?
 
   :ref:`Lösung <Wirkungsgrad-02-Lösung>`
 
@@ -180,18 +180,18 @@ Leistung <Leistung>`.
 
 ----
 
-.. _Leistung-01: 
+.. _Leistung-01:
 
 * Wie groß ist die Leistung eines Sportlers mit einer Masse von :math:`m =
   \unit[70]{kg}`, wenn er zehn Klimmzüge mit einem Höhenunterschied von je
   :math:`h = \unit[0,5]{m}` in einer Zeit von insgesamt :math:`t =
-  \unit[8]{s}` schafft? 
-  
+  \unit[8]{s}` schafft?
+
   :ref:`Lösung <Leistung-01-Lösung>`
 
 ----
 
-.. _Leistung-02: 
+.. _Leistung-02:
 
 * Welche Leistung liefert ein Motor, der eine Kiste mit einer Masse von
   :math:`\unit[200]{kg}` in :math:`t=\unit[6]{s}` auf eine Höhe von
@@ -201,7 +201,7 @@ Leistung <Leistung>`.
 
 ----
 
-.. _Leistung-03: 
+.. _Leistung-03:
 
 * Welche Masse kann durch eine Leistung von :math:`P = \unit[1]{PS} =
   \unit[735]{W}` in einer Sekunde um einen Meter angehoben werden?
@@ -210,7 +210,7 @@ Leistung <Leistung>`.
 
 ----
 
-.. _Leistung-04: 
+.. _Leistung-04:
 
 * Ein Löschfahrzeug der Feuerwehr pumpt mit einer Leistung von
   :math:`\unit[5]{kW}` Wasser in :math:`h = \unit[15]{m}` Höhe. Wie viel Liter
@@ -221,7 +221,7 @@ Leistung <Leistung>`.
 
 ----
 
-.. _Leistung-05: 
+.. _Leistung-05:
 
 * Zum Ziehen eines Schlittens sei eine horizontale Kraft von :math:`F =
   \unit[300]{N}` nötig. Wie groß ist die mechanische Leistung, wenn der
@@ -231,7 +231,7 @@ Leistung <Leistung>`.
 
 ----
 
-.. _Beschleunigungs-Leistung-01: 
+.. _Beschleunigungs-Leistung-01:
 
 * Ein Fahrzeug der Masse :math:`m = \unit[900]{kg}` wird beim Einfahren auf eine
   Autobahn in :math:`\unit[t=8]{s}` konstant um :math:`\unit[15]{m/s}`
@@ -256,9 +256,9 @@ Energie <Mechanische Energie>`.
 .. _Energie-01:
 
 * Wie viel Energie besitzt :math:`\unit[1]{m^3}` Wasser :math:`(m =
-  \unit[1000]{kg})`, das aus einem Stausee :math:`h = \unit[120]{m}` 
-  tief hinab fließt? 
-  
+  \unit[1000]{kg})`, das aus einem Stausee :math:`h = \unit[120]{m}`
+  tief hinab fließt?
+
   :ref:`Lösung <Energie-01-Lösung>`
 
 ----
@@ -280,8 +280,8 @@ Energie <Mechanische Energie>`.
 * Angenommen, ein Fahrzeug würde mit :math:`v = \unit[72]{km/h}` gegen ein
   festes Hindernis prallen. Aus welcher Höhe müsste das Fahrzeug stürzen, um
   -- bei Vernachlässigung des Luftwiderstands -- eine vergleichbare Wirkung
-  zu erfahren? 
-  
+  zu erfahren?
+
   :ref:`Lösung <Energie-03-Lösung>`
 
 ----
@@ -313,7 +313,7 @@ Energie <Mechanische Energie>`.
   .. image:: ../../pics/mechanik/arbeit-energie-leistung/energieerhaltung-trampolin.png
       :align: center
       :width: 60%
-  
+
   .. only:: html
 
       .. centered:: :download:`SVG: Energieerhaltung beim Trampolinspringen
@@ -329,7 +329,7 @@ Energie <Mechanische Energie>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Arbeit, Leistung und Energie>`

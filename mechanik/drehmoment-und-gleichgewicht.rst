@@ -1,4 +1,4 @@
-.. meta:: 
+.. meta::
     :keywords: Physik, Mechanik, Drehmoment, Gleichgewicht, Trägheitsmoment,
                Satz von Steiner
 
@@ -24,15 +24,15 @@ senkrecht zur Linie zwischen Drehachse und Angriffspunkt der Kraft steht.
     Wirkt eine Kraft :math:`\vec{F}` im senkrechten Abstand :math:`\vec{s}` von
     einer festen Drehachse, so erzeugt sie ein Drehmoment :math:`\vec{M}`. Für den
     Betrag des Drehmoments gilt:
-    
+
     .. math::
-        
+
         M = \vec{s} \times \vec{F} = s \cdot F \cdot \sin{\alpha }
 
     Der Betrag des Drehmoments :math:`M` ist maximal, wenn die Kraft
     :math:`\vec{F}` senkrecht zur Strecke :math:`\vec{s}` zwischen Angriffspunkt
     und Drehachse auf den Körper einwirkt. Wirkt die Kraft entlang dieser
-    Verbindungslinie, so ist der Betrag des Drehmoments gleich Null. 
+    Verbindungslinie, so ist der Betrag des Drehmoments gleich Null.
 
 .. Drehmoment umgangssprachlich manchmal auch als Drehvermögen bezeichnet.
 
@@ -55,14 +55,14 @@ Wirkungslinien beider Kräfte :math:`F_1` und :math:`F_2`, so gilt für die
 resultierenden Drehmomente :math:`M_1` und :math:`M_2`:
 
 .. math::
-    
+
     M_1 &= \frac{1}{2} \cdot l \cdot F_1 \\
     M_2 &= \frac{1}{2} \cdot l \cdot F_2 \\
 
 Damit ergibt sich als Drehmoment insgesamt:
 
 .. math::
-    
+
     M = M_1 + M_2 = l \cdot F
 
 Das Drehmoment derartiger Kräftepaare ist beispielsweise für Schrauben,
@@ -70,6 +70,7 @@ Windeisen, Kreuzschlüssel usw. von Bedeutung.
 
 .. index:: Gleichgewicht
 .. _Gleichgewicht:
+.. _Schwerpunkt:
 
 Das Gleichgewicht
 -----------------
@@ -86,24 +87,24 @@ wirkenden Drehmomente gegenseitig ausgleichen.
     _{\rm{i}}` zu Null addieren:
 
     .. math::
-        
+
         \sum_{i=1}^{n}  \vec{s}_i  \times \vec{F}_i = 0
 
     Die Kräfte :math:`F_i` entsprechen dabei den Gewichtskräften der einzelnen fest
     miteinander verbundenen Massestücke ("Massenpunkte"). [#]_ Die Strecken
     :math:`s_i` den zugehörigen Abständen vom Schwerpunkt, sofern dieser als
-    Koordinatenursprung angesehen wird. 
+    Koordinatenursprung angesehen wird.
 
-..  
+..
     = \vec{s} _{\rm{1}} \times  \vec{F} _{\rm{1}} + \vec{s} _{\rm{2}} \times
-    \vec{F} _{\rm{2}} + \ldots 
+    \vec{F} _{\rm{2}} + \ldots
 
 
 Ist ein anderes Koordinatensystem vorgegeben, so gilt für den Schwerpunkt
 :math:`\vec{s} _{\rm{S}}` eines Körpers:
 
 .. math::
-    
+
     \vec{s} _{\rm{S}} = \frac{\sum_{i}^{} m_i \cdot \vec{s}_i }{m
     _{\rm{ges}}}
 
@@ -120,11 +121,11 @@ Drehachse aus.
 Allgemein kann zwischen drei unterschiedlichen Gleichgewichts-Arten
 unterschieden werden:
 
-* Ein Körper im stabilen Gleichgewicht kehrt bei einer kleinen Auslenkung 
-  von selbst wieder in seine ursprüngliche Lage zurückführt. 
+* Ein Körper im stabilen Gleichgewicht kehrt bei einer kleinen Auslenkung
+  von selbst wieder in seine ursprüngliche Lage zurückführt.
 
 * Ein Körper im labilen Gleichgewicht kippt bei einer minimalen Auslenkung um,
-  entfernt sich also dauerhaft von der Ausgangslage. 
+  entfernt sich also dauerhaft von der Ausgangslage.
 
 * Ein Körper in indifferentem Gleichgewicht ist in keiner Lage stabiler als in
   einer anderen. Dies gilt beispielsweise für Kugeln, Walzen oder Räder.
@@ -139,7 +140,7 @@ unterschieden werden:
     Holzleiste.
 
     .. only:: html
-    
+
         :download:`SVG: Labiles, stabiles und indifferentes Gleichgewicht
         <../pics/mechanik/drehmoment-und-gleichgewicht/hebelgleichgewicht-stabil-labil-indifferent.svg>`
 
@@ -174,7 +175,7 @@ mit tief liegendem Schwerpunkt ein.
     Umkippen eines Körpers.
 
     .. only:: html
-    
+
         :download:`SVG: Umkippen eines Körpers
         <../pics/mechanik/drehmoment-und-gleichgewicht/kippen-eines-koerpers.svg>`
 
@@ -192,8 +193,8 @@ Fläche, die von den Beinen des Schemels begrenzt wird.
     Standfestigkeit eines Gegenstands.
 
     .. only:: html
-    
-        :download:`SVG: Standfestigkeit 
+
+        :download:`SVG: Standfestigkeit
         <../pics/mechanik/drehmoment-und-gleichgewicht/standfestigkeit.svg>`
 
 Wirkt eine Kraft :math:`\vec{F}` in einer Höhe :math:`h` über der Standfläche
@@ -204,13 +205,13 @@ ein "Standmoment" :math:`F \cdot l`, wobei :math:`l` den Abstand der Kippkante
 von der Wirkungslinie der Gewichtskraft angibt. Im Gleichgewichtsfall gilt:
 
 .. math::
-    
+
     F \cdot h = F _{\rm{G}} \cdot l
 
 Die zum Kippen des Gegenstands nötige Kraft beträgt also mindestens:
 
 .. math::
-    
+
     F = \frac{F _{\rm{G}} \cdot l}{h}
 
 Die Standfestigkeit eines Gegenstands ist umso größer, je geringer seine Höhe
@@ -239,14 +240,14 @@ Es gilt also:
 * Für Translationsbewegungen:
 
     .. math::
-    
+
         \vec{F} = m \cdot \vec{a}
 
 * Für Rotationsbewegungen:
 
     .. math::
         :label: eqn-drehmoment-und-trägheitsmoment
-    
+
         \vec{M} = J \cdot \vec{\alpha}
 
 Das Drehmoment zeigt in die gleiche Richtung wie die Winkelbeschleunigung, zeigt
@@ -270,7 +271,7 @@ m \cdot r^2`.
     Trägheitsmoment einer Punktmasse auf einer Kreisbahn.
 
     .. only:: html
-    
+
         :download:`SVG: Trägheitsmoment einer Punktmasse
         <../pics/mechanik/drehmoment-und-gleichgewicht/traegheitsmoment-punktmasse-auf-kreisbahn.svg>`
 
@@ -282,7 +283,7 @@ _{\rm{i}}` von der Drehachse entfernt liegen. Das Trägheitsmoment des Körpers
 ist dann gleich der Summe der Trägheitsmomente aller einzelnen Teilstücke:
 
 .. math::
-    
+
     J = \sum_{i=1}^{n} m _{\rm{i}} \cdot r _{\rm{i}}^2
 
 Die Trägheitsmomente einiger regelmäßig geformter Körper, die in technischen
@@ -301,7 +302,7 @@ besitzen kann.
     Trägheitsmomente verschieden geformter Körper.
 
     .. only:: html
-    
+
         :download:`SVG: Trägheitsmomente
         <../pics/mechanik/drehmoment-und-gleichgewicht/traegheitsmomente.svg>`
 
@@ -317,7 +318,7 @@ des Körpers auf einer Kreisbahn um die neue Drehachse rotiert. Es gilt somit:
 
 .. math::
     :label: eqn-satz-von-steiner
-    
+
     J _{\rm{a}} = J + m \cdot a^2
 
 Formal ist das neue Trägheitsmoment also gleich dem ursprünglichen
@@ -336,7 +337,7 @@ rotierenden Scheibe oder eines Rades, experimentell zu bestimmen, baut man
 dieses in eine geeignete Halterung ein, so dass es frei um seine Drehachse
 rotieren kann. Dann bringt man ein zusätzliches Massestück mit der Masse
 :math:`m _{\rm{z}}` im Abstand :math:`r _{\rm{z}}` von der Drehachse am Objekt
-an. 
+an.
 
 .. figure:: ../pics/mechanik/drehmoment-und-gleichgewicht/traegheitsmoment-messung.png
     :name: fig-traegheitsmoment-messung
@@ -348,23 +349,23 @@ an.
     Objekts.
 
     .. only:: html
-    
+
         :download:`SVG: Trägheitsmoment (Messung)
         <../pics/mechanik/drehmoment-und-gleichgewicht/traegheitsmoment-messung.svg>`
 
 Lenkt man diese Anordnung aus der Ruhelage aus, so beginnt es mit einer leicht
 messbaren Schwingungsdauer :math:`T` um die Ruhelage zu pendeln. Für das
-Trägheitsmoment des Objekts (ohne Zusatzmasse) gilt dabei: 
+Trägheitsmoment des Objekts (ohne Zusatzmasse) gilt dabei:
 
 .. math::
     :label: eqn-traegheitsmoment-experimentelle-bestimmung
-    
+
     J = m _{\rm{z}} \cdot r _{\rm{z}}^2 \cdot \left( \frac{T^2 \cdot g}{4 \cdot
     \pi^2 \cdot r _{\rm{z}}} - 1\right)
 
 Hierbei bezeichnet :math:`g = \unit[9,81]{\frac{m}{s^2}}` die Erdbeschleunigung.
 Da alle anderen Größen in der obigen Formel entweder konstant oder ebenfalls
-leicht messbar sind, kann das Trägheitsmoment unmittelbar bestimmt werden. 
+leicht messbar sind, kann das Trägheitsmoment unmittelbar bestimmt werden.
 
 .. raw:: html
 
@@ -376,8 +377,8 @@ leicht messbar sind, kann das Trägheitsmoment unmittelbar bestimmt werden.
 
 .. [#] Der Begriff "Massenpunkt" bezieht sich auf einen physikalischen Körper,
     dessen Verhalten hinreichend beschrieben werden kann, wenn man sich dessen
-    gesamte Masse in seinem Schwerpunkt vereinigt denkt. 
-    
+    gesamte Masse in seinem Schwerpunkt vereinigt denkt.
+
     Beispielsweise kann eine Hantelstange mit zwei außen angebrachten Gewichten
     gleicher Masse und Form in guter Näherung als ein starrer Körper aufgefasst
     werden, der aus zwei fest miteinander verbundenen Punktmassen besteht. Der
@@ -389,12 +390,12 @@ leicht messbar sind, kann das Trägheitsmoment unmittelbar bestimmt werden.
     über die Kippkante zu heben -- zum Kippen ist in diesem Fall also mehr
     :ref:`Arbeit <Mechanische Arbeit>` nötig.
 
-    
+
 .. raw:: html
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Drehmoment und
     Gleichgewicht>` und :ref:`Übungsaufgaben <Aufgaben zu Drehmoment und

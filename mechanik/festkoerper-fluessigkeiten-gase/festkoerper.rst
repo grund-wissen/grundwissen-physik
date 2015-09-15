@@ -10,13 +10,13 @@ Salzen bestehen die einzelnen Bausteine des Kristallgitters aus Atomen, bei Eis
 und organischen Verbindungen aus Molekülen.
 
 Die Festigkeit eines Kristalls hängt sowohl von den Bindungskräften zwischen
-den Atomen bzw. Molekülen als auch von der räumlichen Anordnung ab: 
+den Atomen bzw. Molekülen als auch von der räumlichen Anordnung ab:
 
-* Diamant besteht beispielsweise ebenso wie Graphit aus reinem Kohlenstoff; 
-  die Kohlenstoffatome sind allerdings im Diamantkristall anders angeordnet. 
+* Diamant besteht beispielsweise ebenso wie Graphit aus reinem Kohlenstoff;
+  die Kohlenstoffatome sind allerdings im Diamantkristall anders angeordnet.
 * Salze bestehen aus positiv und negativ geladenen Ionen. Die starken
   Bindungskräfte des Ionengitters haben eine große Härte und Festigkeit der
-  Salzkristalle zur Folge. 
+  Salzkristalle zur Folge.
 * In Metallen sind die einzelnen Kristalle mikroskopisch klein und
   unregelmäßig angeordnet; sie sind jedoch bei mikroskopischer Betrachtung der
   Bruchflächen eines Metallstücks deutlich erkennbar.
@@ -27,7 +27,7 @@ Ganzen besitzt daher üblicherweise in alle Raumrichtungen gleiche Eigenschaften
 Im Vergleich dazu bestehen monokristalline Stoffe aus einer einzelnen
 Kristallstruktur, so dass sich die mechanischen, thermischen und elektrischen
 Eigenschaften in den verschiedenen Raumrichtungen unterscheiden.
- 
+
 Für alle Festkörper mit kristalliner Struktur gilt, dass sie bei einer ganz
 bestimmten Temperatur (der "Schmelztemperatur") in den flüssigen
 Aggregatzustand übergehen. Bei manchen Stoffen, die umgangssprachlich ebenfalls
@@ -62,7 +62,7 @@ werden; dabei vergrößert sich seine Länge :math:`l` um ein bestimmtes Stück
 :math:`\Delta l`. Wird der Festkörper weiter gedehnt, so bildet sich die
 Verformung bei einem Nachlassen der Zugkraft nur noch teilweise oder sogar
 überhaupt nicht mehr zurück; die Verformung bleibt also bestehen ("plastische
-Verformung"). 
+Verformung").
 
 .. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/dehnung.png
     :name: fig-dehnung
@@ -71,9 +71,9 @@ Verformung").
     :width: 50%
 
     Richtungen der einwirkenden Kräfte bei einer Dehnung.
-    
+
     .. only:: html
-    
+
         :download:`SVG: Dehnung
         <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/dehnung.svg>`
 
@@ -86,15 +86,15 @@ dargestellt werden:
 .. _Elastizitätsmodul:
 
 *Formel:*
-    
+
     Eine elastische Dehnung :math:`\varepsilon = \frac{\Delta l}{l}` ist
     proportional zur einwirkenden Zugspannug :math:`\sigma`:
 
-    .. math:: 
+    .. math::
         :label: eqn-zugspannung
-        
+
         \sigma = \frac{F}{A} = E \cdot \frac{\Delta l}{l}
-        
+
     Hierbei bezeichnet :math:`F` die Größe der (senkrecht) einwirkenden Kraft
     und :math:`A` die Fläche, auf welche die Kraft einwirkt. Der
     Proportionalitätsfaktor :math:`E` wird als "Elastizitätsmodul" bezeichnet
@@ -116,10 +116,10 @@ Kurve im Hookeschen Bereich linear. Die Steigung dieser Kurve ist
     :width: 50%
 
     Diagramm der Dehnung eines metallischen Festkörpers in Abhängigigkeit von
-    der einwirkenden Zugspannung. 
-    
+    der einwirkenden Zugspannung.
+
     .. only:: html
-    
+
         :download:`SVG: Dehnungsdiagramm
         <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/diagramm-dehnung.svg>`
 
@@ -130,16 +130,16 @@ schließlich bei einer ausreichend großen Krafteinwirkung zu "fließen", bis si
 bei der so genannten Bruchspannung zerreißen. Spröde Materialien wie Glas
 hingegen brechen bereits nach Überschreiten ihrer Elastizitätsgrenze.
 
-.. list-table:: 
+.. list-table::
     :name: tab-elastizitaetsmodule
-    :widths: 50 50 
+    :widths: 50 50
 
     * - Material
       - Elastizitätsmodul in :math:`\unit{GPa} = \unit{\frac{kN}{mm^2}}`
     * - Aluminium
       - :math:`70` bis :math:`75`
     * - Beton
-      - :math:`25` 
+      - :math:`25`
     * - Diamant
       - :math:`800`
     * - Eisen
@@ -167,7 +167,7 @@ sich oftmals erhebliche Abweichungen. Auch die Temperatur hat einen Einfluss auf
 die Elastizität eines Materials: Beispielsweise ähneln die Eigenschaften eines
 weichen Stahl unter tiefen Temperaturen denen eines härteren Stahls.
 Üblicherweise wird der Elastizitätsmodul daher durch langsame Zugversuche bei
-:math:`20 ^{\circ}` ermittelt.
+:math:`20 \degree` ermittelt.
 
 
 .. index:: Querkontraktion
@@ -182,7 +182,7 @@ bei Krafteinwirkungen von benachbarten Gitteratomen aufgefüllt werden, wodurch
 anderer Stelle neue Lücken entstehen. Aus makroskopischer Sicht kann man bei
 einer Dehnung mit der Längenzunahme in den meisten Fällen auch eine Verringerung
 des Querschnitts feststellen; das Volumen des Festkörpers nimmt dabei
-geringfügig zu. 
+geringfügig zu.
 
 Diese so genannte Querkontraktion kann mittels der Querkontraktionszahl
 ("Poisson-Zahl") :math:`\nu` beschrieben werden, welche das Verhältnis der
@@ -191,14 +191,14 @@ Längenänderung in Zugrichtung :math:`\frac{\Delta l}{l}` angibt:
 
 .. math::
     :label: eqn-querkontraktionszahl
-    
+
     \nu = \frac{\Delta d / d}{\Delta l / l}
 
 Die Querkontraktionszahl ist dimensionslos. Für die Volumenänderung bei einer
 Zugspannung in Längsrichtung gilt damit näherungsweie für die Volumenänderung:
 
 .. math::
-    
+
     \frac{\Delta V}{V} = (1 - 2 \cdot \nu) \cdot \frac{\Delta l}{l}
 
 Die Werte der Querkontraktionszahl :math:`\nu` liegen üblicherweise zwischen
@@ -207,9 +207,9 @@ Zugspannung das Volumen zu, denn in diesem Fall ist :math:`(1-2 \cdot \nu) > 0`,
 und :math:`\Delta V` sowie :math:`\Delta l` haben das gleiche Vorzeichen. Im
 Fall :math:`\nu = 0,5` bleibt das Volumen bei einer Zugspannung unverändert.
 
-.. list-table:: 
+.. list-table::
     :name: tab-querkontraktionszahlen
-    :widths: 50 50 
+    :widths: 50 50
 
     * - Material
       - Querkontraktionszahl :math:`\nu`
@@ -258,9 +258,9 @@ einwirkenden Gewichtskraft.
     :width: 50%
 
     Richtungen der einwirkenden Kräfte bei einer Stauchung.
-    
+
     .. only:: html
-    
+
         :download:`SVG: Stauchung
         <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/stauchung.svg>`
 
@@ -274,9 +274,9 @@ definiert als Verhältnis der einwirkenden Kraft :math:`F` zur Querschnittsfläc
 gilt:
 
 .. math:: :label: eqn-druckspannung
-    
+
     \sigma = \frac{F}{A} = E \cdot \frac{\Delta l}{l}
-        
+
 Die Druckspannung entspricht formal der Zugspannung, hat jedoch aufgrund der
 entgegengesetzten Richtung der Kraft ein negatives Vorzeichen; ebenso ist in
 diesem Fall die "Stauchung" :math:`\varepsilon = \frac{\Delta l}{l}` negativ.
@@ -296,7 +296,7 @@ die gegenüber Zugspannungen.
 Eine Biegung, beispielsweise eines Balkens, entsteht durch eine Krafteinwirkung
 auf das eine Ende des Gegenstands, während das andere Ende fest eingespannt ist.
 Das Produkt aus der Länge :math:`l` des Gegenstands und der Kraft :math:`F`
-entspricht dem wirkenden Drehmoment :math:`M`. 
+entspricht dem wirkenden Drehmoment :math:`M`.
 
 Kennzeichnend für eine Biegung ist eine "neutrale Faser" in der Mitte des
 Gegenstands. Oberhalb dieser neutralen Faser steht der Gegenstand unter
@@ -337,9 +337,9 @@ von Scheren bewirken Scherungen im zu zerschneidenden Material.
     :width: 50%
 
     Beispiel von scherenden Kräften auf eine Gewindestange.
-    
+
     .. only:: html
-    
+
         :download:`SVG: Scherung (Beispiel)
         <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/scherung-beispiel.svg>`
 
@@ -353,7 +353,7 @@ Scherung gilt:
 
 .. math::
     :label: eqn-scherung
-    
+
     \tau = \frac{F}{A} = G \cdot \frac{\Delta l}{l}
 
 Der Proportionalitätsfaktor :math:`G` wird Gleit- oder Schubmodul genannt und
@@ -371,21 +371,21 @@ somit schneller zu Brüchen als gleich große Zug- oder Druckspannungen.
     :width: 80%
 
     Richtungen der einwirkenden Kräfte bei einer Scherung.
-    
+
     .. only:: html
-    
-        :download:`SVG: Scherung 
+
+        :download:`SVG: Scherung
         <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/scherung.svg>`
 
 Die Scherung :math:`\frac{\Delta l}{l}` kann auch durch den Scherwinkel
-:math:`\tau` ausgedrückt werden, denn es gilt: 
+:math:`\tau` ausgedrückt werden, denn es gilt:
 
 .. math::
-    
+
     \tan{(\gamma)} = \frac{\Delta l}{l}
 
-Ist der Scherwinkel klein :math:`(< 5 ^{\circ})`, so kann näherungsweise
-:math:`\gamma \approx \tan{(\gamma)}` gesetzt werden. 
+Ist der Scherwinkel klein :math:`(< 5 \degree)`, so kann näherungsweise
+:math:`\gamma \approx \tan{(\gamma)}` gesetzt werden.
 
 ..  Schräg auf die Oberfläche wirkende Kräfte haben sowohl eine Druckspannungs- als
 ..  auch eine Schubspannungskomponente.
@@ -398,14 +398,14 @@ Ist der Scherwinkel klein :math:`(< 5 ^{\circ})`, so kann näherungsweise
 
 Als Torsion wird eine Verdrillung eines Körpers, beispielsweise eines
 zylindrischen Stabes, bezeichnet. Bei dieser Art von Deformation handelt es sich
-prinzipiell ebenfalls um eine Scherung. 
+prinzipiell ebenfalls um eine Scherung.
 Auch bei Torsionen gibt es einen elastischen Bereich, in dem die Verdrillung
 proportional zur Schubspannung :math:`\tau` ist. Für eine elastische Torsion
 eines Stabes mit Radius :math:`r` gilt:
 
 .. math::
     :label: eqn-torsion
-    
+
     \frac{\tau}{r} = \frac{G}{l} \cdot \tan{(\gamma)}
 
 Hierbei bezeichnet :math:`l` die Länge des Stabs und :math:`\gamma` den
@@ -417,7 +417,7 @@ Torsionswinkel. Der Proportionalitätsfaktor :math:`G` steht wiederum für der
 ..  verdrillende Stabende ein Drehmoment :math:`M` aus, so gilt:
 
 ..  .. math::
-    
+
     ..  \frac{\tau}{r} = \frac{M}{J _{\rm{T}}}
 
 ..  Hierbei wird :math:`J _{\rm{T}}` als Torsionssteifigkeit bezeichnet.
@@ -464,7 +464,7 @@ Volumenänderung :math:`\frac{\Delta V}{V}` kann mittels des so genannten
 Kompressionsmoduls :math:`K` beschrieben werden:
 
 .. math::
-    
+
     p = - K \cdot \frac{\Delta V}{V}
 
 Die Einheit des Kompressionsmoduls :math:`K` ist Pascal, wie auch die Einheit
@@ -476,24 +476,24 @@ bestimmte relative Volumenänderung zu erreichen. Die Werte von :math:`K` von
 Festkörpern und Flüssigkeiten sind üblicherweise um mehrere Größenordnungen
 höher als die von Gasen.
 
-.. list-table:: 
+.. list-table::
     :name: tab-kompressionsmodule
-    :widths: 50 50 
+    :widths: 50 50
 
     * - Material
       - Kompressionsmodul :math:`K` in :math:`\unit{Pa}`
     * - Diamant
-      - :math:`4,4 \cdot 10 ^{11}` 
-    * - Glas 
+      - :math:`4,4 \cdot 10 ^{11}`
+    * - Glas
       - :math:`3,5 \cdot 10 ^{10}` bis :math:`5,5 \cdot 10 ^{10}`
     * - Luft
       - :math:`1,0 \cdot 10^5` (isotherm) bis :math:`1,4 \cdot 10^5` (adiabatisch)
     * - Öl
       - :math:`1,0 \cdot 10 ^{9}` bis :math:`1,6 \cdot 10 ^{9}`
     * - Stahl
-      - :math:`1,6 \cdot 10 ^{11}` 
+      - :math:`1,6 \cdot 10 ^{11}`
     * - Wasser
-      - :math:`2,1 \cdot 10 ^{9}` 
+      - :math:`2,1 \cdot 10 ^{9}`
 
 .. index:: Kompressibilität
 
@@ -520,14 +520,14 @@ Kehrwert des Kompressionsmoduls , die so genannte Kompressibilität :math:`\kapp
     :math:`\Delta l` des Gegenstands:
 
     .. math::
-        
+
         \text{Steifigkeit} = \frac{F}{\Delta l}
 
     Zwischen dem Elastizitätsmodul :math:`E` und der Steifigkeit besteht nach
     Gleichung :eq:`eqn-zugspannung` somit folgender Zusammenhang:
 
     .. math::
-        
+
         \text{Steifigkeit} = E \cdot \frac{A}{l}
 
     Die Steifigkeit hängt somit nicht nur vom Material eines Gegenstands,

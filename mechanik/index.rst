@@ -1,6 +1,6 @@
-.. meta:: 
+.. meta::
     :description: Mechanik
-    :keywords:  Mechanik, Schule, Kinematik, Dynamik, Mechanik Schule, 
+    :keywords:  Mechanik, Schule, Kinematik, Dynamik, Mechanik Schule,
 
 .. index:: Mechanik
 .. _Mechanik:
@@ -23,6 +23,6 @@ Bewegungszustände und deren Ursache -- der Kräfte.
     impuls-und-drehimpuls.rst
     festkoerper-fluessigkeiten-gase/index.rst
     schwingungen-und-wellen/index.rst
-    
+
 
 

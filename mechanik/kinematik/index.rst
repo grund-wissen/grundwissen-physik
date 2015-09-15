@@ -14,5 +14,5 @@ werden.
     raumkurve-und-massenpunkt.rst
     geradlinige-bewegungen.rst
     kreisfoermige-bewegungen.rst
-    zusammengesetzte-bewegungen.rst 
+    zusammengesetzte-bewegungen.rst
 

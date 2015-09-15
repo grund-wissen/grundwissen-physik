@@ -13,32 +13,32 @@ Beschleunigung oder ein Anheben des Körpers, so wird physikalische Arbeit
 verrichtet. Um die Größe der verrichteten Arbeit zu bestimmen, müssen der Betrag
 der Kraft und die Länge des Weges, entlang dessen die Kraft wirkt, bekannt sein.
 
-*Definition:* 
+*Definition:*
 
     Die Arbeit :math:`W` ist das Produkt aus der in Richtung des Weges wirkenden
     Kraft :math:`F` und der zurückgelegten Wegstrecke :math:`s`: [#]_
 
 .. math::
     :label: eqn-arbeit
-    
+
     W = F \cdot s _{\rm{\parallel}}
 
-.. Wenn \alpha Winkel zwischen Kraftrichtung und Wegrichtung :math:`(0 < \alpha < 90 ^{\circ})`, so W = F \cdot s \cdot \cos{\alpha}
+.. Wenn \alpha Winkel zwischen Kraftrichtung und Wegrichtung :math:`(0 < \alpha < 90 \degree)`, so W = F \cdot s \cdot \cos{\alpha}
 
-..   
+..
     Wenn Kraft nicht konstant, sondern Funktion des Weges s, und stehen
     gegebenenfalls Kraft und Weg im Winkel \alpha zueinander, so ist die Arbeit
     gleich dem Integral ueber :math:`F(s)`.
-    
+
     .. math::
-         
+
         W = \int_{s_1}^{s^2} F  \cdot  \cos{\alpha} \cdot \mathrm{d} s
-    
+
     In einem F-S-Diagramm entspricht die verrichtete Arbeit der Flaeche
     unterhalb der Kurve von :math:`F(s)`.
 
 
-*Einheit:* 
+*Einheit:*
 
     Die Einheit der Arbeit ist nach Gleichung :eq:`eqn-arbeit` das Produkt der
     Einheiten von Kraft und Weg. Sie wird zu Ehren des Physikers `James Prescott
@@ -46,7 +46,7 @@ der Kraft und die Länge des Weges, entlang dessen die Kraft wirkt, bekannt sein
     :math:`\unit[]{(J)}` genannt.
 
 .. math::
-    
+
     \unit[1]{J} = \unit[1]{N } \cdot \unit[1]{m}
 
 *Beispiele:*
@@ -70,7 +70,7 @@ Unter der Bedingung, dass die Kraft konstant ist und in beliebiger, aber fester
 Richtung wirkt, gilt:
 
 .. math::
-    
+
     W = F \cdot s \cdot \cos{\alpha }
 
 
@@ -82,7 +82,7 @@ Arten mechanischer Arbeit
 Bei mechanischen Prozessen ist sind die folgenden Arten mechanischer Arbeit von
 entscheidender Bedeutung:
 
-.. index:: 
+.. index::
     single: Arbeit; Hubarbeit
 .. _Hubarbeit:
 
@@ -91,31 +91,31 @@ entscheidender Bedeutung:
 Erfahrungsgemäß ist es einfacher, einen leichten Körper hoch zu heben als einen
 schweren. Doch auch beim Heben zweier gleich schwerer Körper gibt es
 Unterschiede: Je weiter man einen Körper hoch heben muss, desto mehr Arbeit ist
-dafür nötig. 
+dafür nötig.
 
 *Definition:*
 
     Die Hubarbeit :math:`W _{\rm{Hub}}` ist proportional zur :ref:`Gewichtskraft
     <Gewichtskraft>` :math:`F _{\rm{ G}}` eines angehobenen Körpers und zur
-    Hubhöhe :math:`h`: 
+    Hubhöhe :math:`h`:
 
-.. math:: 
+.. math::
     :label: eqn-hubarbeit
 
-    W _{\rm{Hub}} = F _{\rm{G}} \cdot h 
+    W _{\rm{Hub}} = F _{\rm{G}} \cdot h
 
 Die Hubarbeit kann mit Hilfe der Formel für die Gewichtskraft (:math:`F _{\rm{G}} = m
 \cdot g`) auch als :math:`W _{\rm{Hub}} = m \cdot g \cdot h` geschrieben werden.
 
 
-.. index:: 
+.. index::
     single: Arbeit; Reibungsarbeit
 .. _Reibungsarbeit:
 
-.. rubric:: Die Reibungsarbeit 
+.. rubric:: Die Reibungsarbeit
 
 Um einen Körper auf einer waagrechten Ebene gleichförmig zu bewegen, muss der
-Reibungskraft eine gleich große Gegenkraft entgegenwirken. 
+Reibungskraft eine gleich große Gegenkraft entgegenwirken.
 
 *Definition:*
 
@@ -131,9 +131,9 @@ Reibungskraft eine gleich große Gegenkraft entgegenwirken.
 Beim gleichzeitigen Auftreten mehrerer Reibungskräfte (z.B. Rollreibung und
 Luftwiderstand) entspricht :math:`F _{\rm{R}}` der Summe aller auftretenden
 Reibungskräfte.
-  
 
-.. index:: 
+
+.. index::
     single: Arbeit; Spannarbeit
 .. _Spannarbeit:
 
@@ -141,12 +141,12 @@ Reibungskräfte.
 
 Die Spannkraft, die ein elastischer Körper (z.B. eine Schraubenfeder) einer
 Stauchung oder Streckung entgegensetzt, ist nicht konstant, sondern nimmt
-gleichmäßig mit der Auslenkung zu: 
+gleichmäßig mit der Auslenkung zu:
 
 * Die anfängliche Spannkraft der Feder in der Ruhelage ist Null.
 * Wird die Feder um eine Wegstrecke :math:`s` ausgelenkt, so beträgt die
   :ref:`Spannkraft <Spannkraft>` der Feder :math:`F _{\rm{S}} = -k \cdot s`.
-  
+
 
 Entlang der Strecke :math:`s` muss im Durchschnitt nur die Hälfte der
 (maximalen) Spannkraft :math:`F _{\rm{S}}` am Auslenkungspunkt aufgewendet
@@ -154,7 +154,7 @@ werden. Für die durchschnittlich nötige Kraft :math:`\bar{F}_{\rm{S}}` gilt
 also:
 
 .. math::
-    
+
     \bar{F} _{\rm{S}} = \frac{1}{2} \cdot F _{\rm{s}}
 
 Dies gilt allgemein für elastische Verformungen.
@@ -168,7 +168,7 @@ Dies gilt allgemein für elastische Verformungen.
 
 .. math::
     :label: eqn-spannarbeit
-    
+
     W _{\rm{Spann}} = \bar{F} _{\rm{S}} \cdot s = \frac{1}{2} \cdot F _{\rm{S}} \cdot s
 
 Die Spannarbeit kann mit Hilfe der Formel für die Spannkraft (:math:`F _{\rm{S}}
@@ -177,7 +177,7 @@ s^2` geschrieben werden, wobei :math:`D` die (oftmals experimentell zu
 bestimmende) Federkonstante des Körpers angibt.
 
 
-.. index:: 
+.. index::
     single: Arbeit; Beschleunigungsarbeit
 .. _Beschleunigungsarbeit:
 
@@ -191,11 +191,11 @@ Beschleunigungsarbeit.
 
     Die Beschleunigungsarbeit :math:`W _{\rm{B}}` eines zunächst ruhenden
     Körpers der Masse :math:`m` ist proportional zum Quadrat der
-    Endgeschwindigkeit :math:`v`, die dieser erreicht: [#]_ 
+    Endgeschwindigkeit :math:`v`, die dieser erreicht: [#]_
 
 .. math::
     :label: eqn-beschleunigungsarbeit
-    
+
     W _{\rm{B}} = \frac{1}{2} \cdot m \cdot v^2
 
 Besitzt der Körper bereits eine Anfangsgeschwindigkeit :math:`v _{\rm{1}}` und
@@ -204,7 +204,7 @@ die Beschleunigungsarbeit :math:`W _{\rm{B}} = \frac{1}{2} \cdot m \cdot (v_2^2
 - v_1^2)`.
 
 
-.. index:: 
+.. index::
     single: Arbeit; Rotationsarbeit
 .. _Rotationsarbeit:
 
@@ -218,11 +218,11 @@ Die zugehörige Arbeit heißt Rotationsarbeit.
     Die Rotationsarbeit :math:`W _{\rm{rot}}` eines zunächst ruhenden Körpers
     mit :ref:`Trägheitsmoment <Trägheitsmoment>` :math:`J` ist proportional zum
     Quadrat der :ref:`Winkelgeschwindigkeit <Winkelgeschwindigkeit>`
-    :math:`\omega`, die dieser erreicht: 
+    :math:`\omega`, die dieser erreicht:
 
 .. math::
     :label: eqn-rotationsarbeit
-    
+
     W _{\rm{rot}} = \frac{1}{2} \cdot J \cdot \omega^2
 
 Besitzt der Körper bereits eine Anfangsgeschwindigkeit :math:`\omega _{\rm{1}}`
@@ -245,19 +245,19 @@ Die goldene Regel der Mechanik
 
 Während Kräfte durch entsprechende Hilfsmittel in ihrer Richtung oder ihrem
 Betrag geändert werden können, kann die für einen mechanischen Prozess nötige
-Arbeit nicht verringert werden; die Menge an Arbeit bleibt erhalten. 
+Arbeit nicht verringert werden; die Menge an Arbeit bleibt erhalten.
 
 Bei Verwendung eines Kraftwandlers ist die aufgenommene Arbeit stets gleich der
 abgegebenen Arbeit (Reibung wird vernachlässigt):
 
 .. math::
-    
+
     F_1 \cdot s_1 &= F_2 \cdot s_2 \\[6pt]
     W_1 &= W_2
 
 Abgesehen von Reibungsverlusten bleibt das Produkt aus Weg und Kraft (entlang
 des Weges) stets konstant. Eine umgangssprachliche Formulierung für das Prinzip
-der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher: 
+der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher:
 
 .. centered:: "Was an Kraft eingespart wird, muss an Weg zugesetzt werden."
 
@@ -268,7 +268,7 @@ der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher:
   :math:`F_1` ist gleich dem Weg der Kraft :math:`F_2`. Somit gilt:
 
   .. math::
-        
+
       F_1 \cdot s_1 = F_2 \cdot s_2
 
 * Bei einer :ref:`losen Rolle <Lose Rolle>` ist die zum Heben aufgewendete Kraft
@@ -277,7 +277,7 @@ der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher:
   :math:`F_2`. Insgesamt gilt:
 
   .. math::
-        
+
       F_1 &= \frac{1}{2} \cdot F_2{\color{white}\ldots} \\
       s_1 &= 2 \cdot s_2 \\
       \Rightarrow F_1 \cdot s_1 = \frac{1}{2} \cdot F_2 &\, \cdot \, 2 \cdot s_2 = F_2 \cdot s_2
@@ -289,14 +289,14 @@ der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher:
   Kraft :math:`F` um das Verhältnis :math:`\frac{h}{l}` geringer. Es gilt:
 
   .. math::
-  
+
       F \cdot l = F _{\rm{G}} \cdot h
 
 
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
     .. rubric:: Anmerkungen:
@@ -307,9 +307,9 @@ der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher:
     Zeitabschnitte einzeln anwenden und die jeweiligen Teilbeträge summieren.
 
     .. math::
-        
+
         W = \sum_{i}^{} F  _{\rm{i}} \cdot s _{\rm{i}}
-    
+
     Im Fall einer sich kontinuierlich ändernden Kraft wird aus der Summe
     :math:`(\sum_{}^{})` ein Integral :math:`(\int_{}^{})`.
 
@@ -322,7 +322,7 @@ der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher:
     \frac{1}{2} \cdot a \cdot t^2`) ein, so folgt:
 
     .. math::
-    
+
         W _{\rm{B}} = F \cdot s =  (m \cdot a)  \cdot (\frac{1}{2} \cdot a \cdot
         t^2) = \frac{1}{2} \cdot m \cdot a^2 \cdot t^2
 
@@ -330,7 +330,7 @@ der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher:
     a^2 \cdot t^2` gilt, so ergibt sich:
 
     .. math::
-            
+
         W _{\rm{B}} = \frac{1}{2} \cdot m \cdot a^2 \cdot t^2 = \frac{1}{2}
         \cdot m \cdot v^2
 
@@ -340,7 +340,7 @@ der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher:
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu mechanischer Arbeit>` und
     :ref:`Übungsaufgaben <Aufgaben zu mechanischer Arbeit>`.

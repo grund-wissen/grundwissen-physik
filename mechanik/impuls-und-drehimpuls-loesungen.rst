@@ -18,7 +18,7 @@ Drehimpuls>`.
   Impuls:
 
   .. math::
-      
+
       p = m \cdot v = \unit[0,02]{kg} \cdot \unit[20,8]{\frac{m}{s}} \approx
       \unit[0,42]{\frac{kg \cdot m}{s}}
 
@@ -43,13 +43,13 @@ Drehimpuls>`.
   identisch ist, muss somit gelten:
 
   .. math::
-      
+
       m_1 \cdot v_1 = 4 \cdot m_1 \cdot u \quad \Leftrightarrow \quad u =
       \frac{1}{4} \cdot v_1
-  
+
   Die Wagen bewegen sich nach dem Ankoppeln also gemeinsam mit :math:`u =
   \unit[0,75]{m/s}` weiter.
-  
+
   :ref:`Zurück zur Aufgabe <Impuls-02>`
 
 
@@ -63,7 +63,7 @@ Drehimpuls>`.
   :math:`v_2 = \unit[-50]{km/h} = \unit[-13,9]{m/s}` folgenden Gesamtimpuls:
 
   .. math::
-      
+
       p = (m_1 \cdot v_2 + m_2 \cdot v_2) = \unit[1000]{kg} \cdot
       \unit[13,9]{\frac{m}{s}} + \unit[2000]{kg} \cdot (\unit[-13,9]{\frac{m}{s}})
       = - \unit[13\,900]{\frac{kg \cdot m}{s}}
@@ -74,7 +74,7 @@ Drehimpuls>`.
   Gesamtmasse beider Fahrzeuge teilt:
 
   .. math::
-      
+
       p = (m_1 + m_2) \cdot u \quad \Leftrightarrow \quad u = \frac{p}{m_1 + m_2} \\[4pt]
 
       \Rightarrow u = \frac{\unit[-13\,900]{\frac{kg \cdot
@@ -83,8 +83,8 @@ Drehimpuls>`.
 
   Die beiden Fahrzeuge bewegen sich unmittelbar nach dem Stoß also mit rund
   :math:`\unit[4,63]{m/s} \approx \unit[16,7]{km/h}` in Richtung des leichteren
-  Fahrzeugs. 
-  
+  Fahrzeugs.
+
   Der Fahrer des leichteren Fahrzeugs erfährt somit innerhalb eines "Bremswegs"
   von :math:`\Delta s = \unit[0,5]{m}` (der Knautschzone) eine
   Geschwindigkeitsänderung :math:`\unit[+50]{km/h}` auf
@@ -95,9 +95,9 @@ Drehimpuls>`.
   \approx \unit[9,3]{m/s}`. Für die beiden Beschleunigungen :math:`a_1` und
   :math:`a_2` gilt damit (vergleiche Aufgabe :ref:`"Gegen die Wand"
   <Beschleunigung-06>`):
-  
+
   .. math::
-      
+
       - v_1^2 = 2 \cdot a_2 \cdot s \quad &\Leftrightarrow \quad a_1 =
         \frac{-v_1^2}{2 \cdot s} \\[4pt]
       a_1 =  \frac{-\left( \unit[18,5]{\frac{m}{s}} \right)^2}{2 \cdot
@@ -112,8 +112,8 @@ Drehimpuls>`.
   Werden beide Karosserien als gleich stabil angenommen, so erfährt der Fahrer
   des schwereren Fahrzeugs beim Zusammenstoß somit etwa eine (noch überlebbare)
   neunfache Erdbeschleunigung, der Fahrer des leichten Fahrzeugs hingegen eine
-  etwa (in den meisten Fällen tödliche) 35-fache Erdbeschleunigung. 
-  
+  etwa (in den meisten Fällen tödliche) 35-fache Erdbeschleunigung.
+
   Um den gleiche Beschleunigungsverhältnis zu erzielen, müsste das leichtere
   Fahrzeug frontal mit einem gleich schweren, aber doppelt so schnellen Fahrzeug
   frontal zusammenprallen. Leichtere Fahrzeuge sind also, obwohl sie meist
@@ -121,7 +121,7 @@ Drehimpuls>`.
   sich "Fair-Play"-Regelungen, wonach für schwere Fahrzeuge striktere Regeln
   bezüglich Knautschzonen gelten müssen, bislang nicht durchsetzen..
 
-..  Jeder Zentner Mehrgewicht kostet im Schnitt 0,2 Liter Kraftstoff auf 100 Kilometer. 
+..  Jeder Zentner Mehrgewicht kostet im Schnitt 0,2 Liter Kraftstoff auf 100 Kilometer.
 
   :ref:`Zurück zur Aufgabe <Impuls-03>`
 
@@ -132,7 +132,7 @@ Drehimpuls>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Impuls und Drehimpuls>`

@@ -5,9 +5,9 @@ Leiter, Halbleiter und Isolator
 ===============================
 
 Ob ein elektrischer Strom in einem Stoff fließen kann, hängt von der Anzahl der
-frei beweglichen Ladungsträger innerhalb des Stoffes ab. 
+frei beweglichen Ladungsträger innerhalb des Stoffes ab.
 
-.. index:: 
+.. index::
     single: Widerstand; Leiter
 .. _Leiter:
 
@@ -32,10 +32,10 @@ Ladungstransport frei zur Verfügung. [#]_
     :name: fig-leiter-metall
     :alt:  fig-leiter-metall
 
-    "Elektronengas" in einem metallischen Leiter.    
-    
+    "Elektronengas" in einem metallischen Leiter.
+
     .. only:: html
-    
+
         :download:`SVG: Metallischer Leiter
         <../pics/elektrizitaet-magnetismus/leiter-metall.svg>`
 
@@ -75,25 +75,25 @@ in einem reinen Halbleiter erreichen.
     :alt:  fig-halbleiter-silicium
 
     Elektronenpaarbindungen im Halbleiter-Element Silicium.
-    
+
     .. only:: html
-    
+
         :download:`SVG: Silicium als Halbleiter
         <../pics/elektrizitaet-magnetismus/halbleiter-silicium.svg>`
 
 Elementare Halbleiter befinden sich im Periodensystem der Elemente in der
 vierten Hauptgruppe und besitzen eine chemische Wertigkeit von vier. Nach dem
 gleichen Bindungsprinzip sind ebenso sogenannte Verbindungshalbleiter möglich,
-bei denen die *durchschnittliche* chemische Wertigkeit vier beträgt: 
+bei denen die *durchschnittliche* chemische Wertigkeit vier beträgt:
 
 * Bei Gallium-Arsenid :math:`(\ce{GaAs})`, einem III-V-Halbleiter, trägt jedes
   Galliumatom drei und jedes Arsenatom fünf Valenzelektronen zu den kovalenten
-  Bindungen bei. 
+  Bindungen bei.
 * Bei Cadmium-Sulfid :math:`(\ce{CdS})`, einem II-VI-Halbleiter, trägt jedes
   Cadmium-Atom zwei und jedes Schwefelatom sechs Valenzelektronen zu den
   kovalenten Bindungen bei. [#]_
 
-.. todo:: 
+.. todo::
 
     Fussnote: Ionischer Anteil
 
@@ -103,7 +103,7 @@ anders als bei Metallen -- durch eine Erwärmung zunächst geringer. Bei noch
 stärkerer Erwärmung überwiegt jedoch wieder der stromhemmende Effekt der
 Atomschwingungen, wodurch der elektrische Widerstand wiederum stark ansteigt.
 
-.. todo:: 
+.. todo::
 
     pic/diagramm
 
@@ -113,7 +113,7 @@ Durch ein gezieltes Einbringen von Fremdatomen kann die Leitfähigkeit eines
 Halbleiters beeinflusst werden.
 
 
-.. index:: 
+.. index::
     single: Halbleiter; n-Dotierung
 .. _n-Dotierung:
 
@@ -139,10 +139,10 @@ als ein "freier" Ladungsträger für den elektrischen Strom zur Verfügung.
 
     n-Dotierung eines Silicium-Kristalls durch Einbringen von
     Phosphor-Atomen.
-    
+
     .. only:: html
-    
-        :download:`SVG: n-Dotierung von Silicium 
+
+        :download:`SVG: n-Dotierung von Silicium
         <../pics/elektrizitaet-magnetismus/halbleiter-silicium-n-dotierung.svg>`
 
 Typische chemisch fünfwertige Fremdatome ("Donatoren") sind beispielsweise
@@ -152,7 +152,7 @@ etwa :math:`1` bis :math:`10` Millionen Halbleiter-Atome eingebracht. Der
 Halbleiter bleibt durch die :math:`n`-Dotierung weiterhin elektrisch neutral.
 
 
-.. index:: 
+.. index::
     single: Halbleiter; p-Dotierung
 .. _p-Dotierung:
 
@@ -181,9 +181,9 @@ geladene Ladungsträger angesehen werden.
 
     p-Dotierung eines Silicium-Kristalls durch Einbringen von
     Phosphor-Atomen.
-    
+
     .. only:: html
-    
+
         :download:`SVG: p-Dotierung von Silicium
         <../pics/elektrizitaet-magnetismus/halbleiter-silicium-p-dotierung.svg>`
 
@@ -191,11 +191,11 @@ Typische chemisch dreiwertige Fremdatome ("Akzeptoren") sind beispielsweise Bor
 :math:`(\ce{B})`, Aluminium  :math:`(\ce{Al})`, Gallium :math:`(\ce{Ga})` sowie
 Indium :math:`(\ce{In})`. In üblichen :math:`p`-Dotierungen wird ebenfalls ein
 Fremdatom auf etwa :math:`1` bis :math:`10` Millionen Halbleiter-Atome
-eingebracht. Auch durch die :math:`p`-Dotierung bleibt der Halbleiter 
+eingebracht. Auch durch die :math:`p`-Dotierung bleibt der Halbleiter
 elektrisch neutral.
 
 
-.. index:: 
+.. index::
     single: Halbleiter; n-p-Übergang
 .. _n-p-Übergang:
 
@@ -216,10 +216,10 @@ Elektronen und Löchern wird als "Rekombination", der entstehende Raumbereich al
     :name: fig-halbleiter-n-p-übergang
     :alt:  fig-halbleiter-n-p-übergang
 
-    Prinzip eines n-p-Übergangs. 
-    
+    Prinzip eines n-p-Übergangs.
+
     .. only:: html
-    
+
         :download:`SVG: n-p-Übergang
         <../pics/elektrizitaet-magnetismus/halbleiter-n-p-uebergang.svg>`
 
@@ -263,10 +263,10 @@ damit auch seine elektrische Leitfähigkeit gezielt beeinflussen.
     :name: fig-halbleiter-n-p-übergang-sperrrichtung
     :alt:  fig-halbleiter-n-p-übergang-sperrrichtung
 
-    Anschluss eines n-p-Übergangs in Sperrichtung. 
-    
+    Anschluss eines n-p-Übergangs in Sperrichtung.
+
     .. only:: html
-    
+
         :download:`SVG: n-p-Übergang (Sperrrichtung)
         <../pics/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-sperrrichtung.svg>`
 
@@ -287,14 +287,14 @@ damit auch seine elektrische Leitfähigkeit gezielt beeinflussen.
     :name: fig-halbleiter-n-p-übergang-durchlassrichtung
     :alt:  fig-halbleiter-n-p-übergang-durchlassrichtung
 
-    Anschluss eines n-p-Übergangs in Durchlassrichtung. 
-    
+    Anschluss eines n-p-Übergangs in Durchlassrichtung.
+
     .. only:: html
-    
+
         :download:`SVG: n-p-Übergang (Durchlassrichtung)
         <../pics/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-durchlassrichtung.svg>`
 
-  
+
 In der Elektronik werden :math:`n`-:math:`p`-Übergänge in
 Halbleiter-Bauelementen verwendet. Ein einzelner :math:`n`-:math:`p`-Übergang
 erfüllt die Funktion einer Diode. Zwei- bzw. dreifache
@@ -302,7 +302,7 @@ erfüllt die Funktion einer Diode. Zwei- bzw. dreifache
 und Triacs Anwendung.
 
 
-.. index:: 
+.. index::
     single: Widerstand; Isolator
 .. _Isolatoren:
 
@@ -313,7 +313,7 @@ Isolatoren sind Stoffe, in denen sich Ladungen (fast) überhaupt nicht bewegen
 können. Bekannte Beispiele hierfür sind Gummi, Porzellan, Glas, Diamant,
 destilliertes Wasser und Luft. Alle diese Stoffe haben gemeinsam, dass in ihnen
 weder Ionen noch schwach gebundene Elektronen für den Ladungstransport zur
-Verfügung stehen; alle Elektronen sind fest in chemischen Bindungen verankert. 
+Verfügung stehen; alle Elektronen sind fest in chemischen Bindungen verankert.
 
 .. figure::
     ../pics/elektrizitaet-magnetismus/isolator-natriumchlorid.png
@@ -323,9 +323,9 @@ Verfügung stehen; alle Elektronen sind fest in chemischen Bindungen verankert.
     :alt:  fig-isolator-natriumchlorid
 
     Ionenbindung im Isolator Natriumchlorid
-    
+
     .. only:: html
-    
+
         :download:`SVG: Natriumchlorid als Isolator
         <../pics/elektrizitaet-magnetismus/isolator-natriumchlorid.svg>`
 
@@ -341,7 +341,7 @@ Blitzableitern ausgestattet.
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
     .. rubric:: Anmerkungen:

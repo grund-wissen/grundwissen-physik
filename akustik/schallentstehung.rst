@@ -1,7 +1,7 @@
 .. index:: Schall
 .. _Eigenschaften von Schall:
 
-Eigenschaften von Schall 
+Eigenschaften von Schall
 ========================
 
 Als "Schall" bezeichnen wir alle Klänge, Geräusche usw. die Menschen und/oder
@@ -33,7 +33,7 @@ als Schallquellen auftreten.
   Luftmenge durch Anblasen in Schwingung versetzt werden. Hierdurch entstehen
   Klänge, die charakteristisch sind für die Größe, die Form und das Material des
   Instruments.
-  
+
 Bei einem Schallempfänger handelt es sich ebenfalls um einen elastischen Körper,
 der zu mechanischen Schwingungen angeregt werden kann und dabei die empfangenen
 Schallwellen in biologische oder elektrische Signale umsetzt.
@@ -67,17 +67,17 @@ kreisförmig von einer Schallquelle aus. Aus mikroskopischer Sichtweise werden
 dabei die Schwingungen der einzelnen Teilchen der Schallquelle durch
 Stoßvorgänge auf benachbarte Teilchen des akustischen Mediums übertragen. Auch
 innerhalb eines akustischen Mediums werden die Schwingungen der Teilchen durch
-Stoßvorgänge an benachbarte Teilchen weitergegeben. 
+Stoßvorgänge an benachbarte Teilchen weitergegeben.
 
 .. list-table:: Schallgeschwindigkeiten in verschiedenen Materialien.
     :name: tab-schallgeschwindigkeit
     :widths: 30 40
 
-    * - Material     
-      - Schallgeschwindigkeit in :math:`\unit[]{\frac{m}{s}}` 
-    * - Gummi         
+    * - Material
+      - Schallgeschwindigkeit in :math:`\unit[]{\frac{m}{s}}`
+    * - Gummi
       - :math:`150`
-    * - Luft (bei :math:`\unit[0]{^{\circ}C}`)        
+    * - Luft (bei :math:`\unit[0]{\degree C}`)
       - :math:`332`
     * - Kork
       - :math:`500`
@@ -102,14 +102,14 @@ Stoßvorgänge an benachbarte Teilchen weitergegeben.
 
 Die Ausbreitungsgeschwindigkeit der Schwingungszustände und damit auch der
 Schallwellen ist allgemein umso höher, je größer die Steifigkeit des Schall
-übertragenden Materials ist. [#SGL]_ 
+übertragenden Materials ist. [#SGL]_
 
 .. Glas: 4000 bis 5000
 .. Gummi: 40
-.. Wasser: 4 ^{\circ}C: 1400, 20 ^{\circ}C: 1484
+.. Wasser: 4 \degree C: 1400, 20 \degree C: 1484
 .. Wasserstoff: 1280
 
-.. index:: 
+.. index::
     single: Schall; Schallfrequenz
 .. _Schallfrequenz:
 
@@ -120,7 +120,7 @@ Schallwellen ist allgemein umso höher, je größer die Steifigkeit des Schall
 ..  Luftdrucks aufeinander.
 
 Je höher die Frequenz ist, mit der eine Schallquelle schwingt, desto höher
-klingt der Ton, den sie erzeugt. 
+klingt der Ton, den sie erzeugt.
 
 Für Menschen hörbare Frequenzen liegen dabei in einem Frequenzbereich von etwa
 :math:`\unit[15]{Hz}` bis :math:`\unit[20]{kHz}`. Die obere Grenze
@@ -132,20 +132,20 @@ Der Frequenzbereich bis :math:`\unit[15]{Hz}` wird als Infraschall, der Bereich
 von etwa :math:`\unit[20]{kHz}` bis :math:`\unit[10]{GHz}` als Ultraschall
 bezeichnet. Viele Tierarten verständigen sich im Ultraschallbereich,
 beispielsweise Nachtfalter, Fledermäuse und Delfine (bei Frequenzen von
-:math:`\unit[100 \text{ bis } 200]{kHz}`). 
+:math:`\unit[100 \text{ bis } 200]{kHz}`).
 
 Technisch wird Ultraschall in vielerlei Anwendungen genutzt, beispielsweise in
 Entfernungsmessern und Bewegungsmeldern. In der Medizin lassen sich mittels
 Ultraschall schwacher Intensität Gewebeuntersuchungen durchführen; mit
 Ultraschall hoher Intensität können auch Geräte gereinigt sowie mineralische
 Ablagerungen im Körper (insbesondere Zahnstein, Blasen- und Nierensteine)
-zertrümmert werden. 
+zertrümmert werden.
 
 ..  Amplitude:        Auslenkung bestimmt die Lautstärke
 ..  Frequenz:         Anzahl der Schwingungen pro Sekunde gemessen in Hertz (Hz), bestimmt die Tonhöhe.
 ..  Periode:          Zeit, nach der sich Schwingung wiederholt
 
- 
+
 
 .. rubric:: Die Länge von Schallwellen
 
@@ -176,7 +176,7 @@ der Schallgeschwindigkeit :math:`c` (Einheit: :math:`\unit[]{\frac{m}{s}}`) ist:
 
 .. math::
     :label: eqn-schall-wellenlänge
-    
+
     c = \lambda \cdot f
 
 Durch Umstellen der obigen Formel kann unmittelbar die Länge einer Schallwelle
@@ -186,11 +186,11 @@ des akustischen Mediums abhängt (siehe Tabelle :ref:`Schallgeschwindigkeiten in
 verschiedenen Materialien <tab-schallgeschwindigkeit>`). Entsprechend gilt:
 
 .. math::
-    
+
     \lambda = \frac{c}{f}
 
 Je höher die Frequenz einer Schallwelle, desto kürzer ist somit ihre
-Wellenlänge. 
+Wellenlänge.
 
 .. Tabelle
 
@@ -206,7 +206,7 @@ Schallwellen lassen sich in folgende drei Arten unterteilen:
     Frequenz bzw. Tonhöhe nach anordnen. Beispielsweise besteht eine Tonleiter
     aus acht Tönen (Oktave) mit bestimmten Frequenzverhältnissen, wobei der
     letzte Ton der Oktave eine genau doppelt so hohe Frequenz besitzt wie
-    der erste  Ton der Oktave. 
+    der erste  Ton der Oktave.
 
     Zur Stimmung von Instrumenten wird häufig der so genannte "Kammerton"
     :math:`{\color{white}_{|}}a'` mit einer Frequenz von :math:`\unit[440]{Hz}`
@@ -217,8 +217,8 @@ Schallwellen lassen sich in folgende drei Arten unterteilen:
 
     Ein Klang setzt sich aus mehreren Tönen zusammen. Er entsteht durch
     Überlagerung verschiedener Frequenzen, die ganzzahlige Vielfache des
-    tiefsten Tons ("Grundtons") sind. 
-    
+    tiefsten Tons ("Grundtons") sind.
+
     Die für jeden Gegenstand und jedes Musikinstrument typischen Vielfachen der
     Grundtonfrequenz werden "Obertöne" genannt und sorgen für die
     charakteristischen "Klangfarben" verschiedener Instrumente. Beispielsweise
@@ -234,7 +234,7 @@ Schallwellen lassen sich in folgende drei Arten unterteilen:
     Lautstärke des Geräusches dabei sehr rasch abnimmt.
 
 
-.. index:: 
+.. index::
     single: Schall; Schallpegel
     single: Dezibel
 .. _Schallpegel und Dämpfung:
@@ -263,7 +263,7 @@ logarithmische Verhältnisgröße Dezibel :math:`(\unit[]{dB})` eingeführt.
 
     .. only:: html
 
-        :download:`SVG: Schallpegel 
+        :download:`SVG: Schallpegel
         <../pics/akustik/schallpegel.svg>`
 
 So entspricht ein Schalldruck von :math:`\unit[0,000\,02]{Pa}` einem Schallpegel
@@ -279,15 +279,15 @@ erkennbar.
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
     .. rubric:: Anmerkungen:
 
 .. [#SGL] Bei einem gasförmigen akustischen Medium ist die
     Schallgeschwindigkeit auch von Druck und Temperatur abhängig. Beispielsweise
-    beträgt die Schallgeschwindigkeit in :math:`\unit[0]{^{\circ}C}` kalter Luft
-    :math:`\unit[332]{\frac{m}{s}}`, bei :math:`\unit[20]{^{\circ}C}` jedoch
+    beträgt die Schallgeschwindigkeit in :math:`\unit[0]{\degree C}` kalter Luft
+    :math:`\unit[332]{\frac{m}{s}}`, bei :math:`\unit[20]{\degree C}` jedoch
     :math:`\unit[343]{m/s}`.
 
 .. Höhere Molekülgeschwindigkeiten...

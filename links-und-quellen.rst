@@ -13,7 +13,7 @@ Links und Quellen
 
 * `Duden Physik: Gymnasiale Oberstufe <http://www.sn.schule.de/~matheabi/data/paetecPhy_Lehrmaterial.pdf>`_
 * `Online-Skripte der Universität Göttingen
-  <https://lp.uni-goettingen.de/get/text/0>`_ (Mathematik, Physik, Chemie) 
+  <https://lp.uni-goettingen.de/get/text/0>`_ (Mathematik, Physik, Chemie)
 * `Physik-Seite von Felix Elsenbruch <http://www.elsenbruch.info/physik.htm>`_
 * `Skript zu Atomphysik und Quantenmechanik
   <http://qudev.ethz.ch/content/science/BuchPhysikIV/PhysikIVli1.html>`_
@@ -22,24 +22,24 @@ Links und Quellen
 
 ..  .. rubric:: Elektronik-Anleitungen
 
-..  * `Die Elektronikerseite <http://dieelektronikerseite.de/>`_ 
+..  * `Die Elektronikerseite <http://dieelektronikerseite.de/>`_
 ..  * `Elektronik-Fibel <http://www.elektronik-kompendium.de/sites/grd/index.htm>`_
-..  * `Electronicsplanet <http://www.electronicsplanet.ch/indexes/ix_schal.html>`_ 
+..  * `Electronicsplanet <http://www.electronicsplanet.ch/indexes/ix_schal.html>`_
 ..  * `Elektronikbasteln <https://sites.google.com/site/bastelnelektroelektrik/home>`_
 ..  * `Elektronik-Ecke <http://pitts-electronics-home.de/electron/elececke.htm>`_
 ..  * `Ferromel Elektronik <http://www.ferromel.de/>`_
 ..  * `Loetstelle <http://www.loetstelle.net/index.php>`_
 ..  * `Elektroniktutor <http://www.elektroniktutor.de/menue.html>`_
 ..  * `Electronicsplanet <http://www.electronicsplanet.ch/indexes/ix_schal.html>`_
-    
+
 
 .. rubric:: Lexika
 
-* `Technik-Lexikon <http://www.techniklexikon.net/>`_ 
+* `Technik-Lexikon <http://www.techniklexikon.net/>`_
 * `Schülerlexikon Physik (Duden, Sekundarstufe 1) <http://m.schuelerlexikon.de/mobile_physik/>`_
 * `Schülerlexikon Physik (Duden, Sekundarstufe 2) <http://m.schuelerlexikon.de/phy_abi2011/index.htm>`_
 
-    
+
 .. rubric:: Versuchsbeschreibungen
 
 * `Versuchsbeschreibungen Physik (RWTH Aachen)
@@ -55,11 +55,11 @@ Links und Quellen
 * Spielzeug und Bausätze:
     Die folgenden Hersteller bzw. Händler bieten für den Einstieg in die
     Naturwissenschaften durchaus interessante Versuchsutensilien sowie komplette
-    Experimentiersätze für Kinder. 
+    Experimentiersätze für Kinder.
 
     .. hlist::
         :columns: 2
-    
+
         * `Astromedia <http://www.astromedia.de>`_
         * `Busch <http://www.busch-model.com/sf/experi.htm>`_
         * `Eitech <http://eitech.de>`_
@@ -67,7 +67,7 @@ Links und Quellen
         * `Kids-and-Science <http://kids-and-science.tradoria.de>`_
         * `Opitec <http://de.opitec.com/opitec-web/st/Home>`_
 
-..  http://www.hund-hersbruck.de/GAphysik_2.htm     
+..  http://www.hund-hersbruck.de/GAphysik_2.htm
 ..  auch Gwagglis
 
 * "Marken"-Hersteller:
@@ -79,7 +79,7 @@ Links und Quellen
 
     .. hlist::
         :columns: 2
-    
+
         * `Conatex <http://www.conatex.com/shop/index.php>`_
         * `Cornelsen <http://www.corex.de/>`_
         * `Elwe <http://www.elwephysik.de/>`_
@@ -124,10 +124,10 @@ finden, beispielsweise in [GrossBerhag1979]_ (Seite 66) oder [Boes1995]_ (Seite
 [Schmidt2003]_ (Seite 105) oder [Harten2007]_ (Seite 92).
 
 Der strukturelle Aufbau des Abschnitts :ref:`Mechanische Schwingungen` folgt
-strukturell [Schmidt2003]_. 
+strukturell [Schmidt2003]_.
 
 Die Werte der im Abschnitt Mechanik der Festkoerper angegebenen
-Elastizitaetsmodule stammen aus 
+Elastizitaetsmodule stammen aus
 
 
 .. rubric:: Quellenangaben zur Akustik
@@ -209,7 +209,7 @@ Werte durch die beiden Nachschlagewerke [Kuchling2001]_ und [Hammer2002]_.
 .. raw:: html
 
     <hr />
-    
+
 
 .. only:: html
 
@@ -217,7 +217,7 @@ Werte durch die beiden Nachschlagewerke [Kuchling2001]_ und [Hammer2002]_.
 
 .. [Barth1981] Nikolaus Barth und Diethelm Völcker: Physik ab dem 7.
     Schuljahr; Teilband Optik, Akustik und Elektrizitätslehre.
-    Hirschgraben-Verlag, Frankfurt am Main, 1981. 
+    Hirschgraben-Verlag, Frankfurt am Main, 1981.
 
 .. [Boes1995] Frank Boes: Physik -- Formeln, Maße, Gesetze. Lingen Verlag,
     Bergisch Gladbach, 1995.
@@ -229,7 +229,7 @@ Werte durch die beiden Nachschlagewerke [Kuchling2001]_ und [Hammer2002]_.
 
 .. [GrossBerhag1979] Klaus Graeff, Hermann Ruoss, Martin Otter, Rolf Peter
     Schloot, Hermann Siege, Norbert Berghof, Rolf Hartmann und Jakob Goblet:
-    Physik für die Sekundarstufe 1. Klett-Verlag, Stuttgart 1979. 
+    Physik für die Sekundarstufe 1. Klett-Verlag, Stuttgart 1979.
 
 .. [Goetz2004] Hans-Peter Götz: Abiturwissen Physik kompakt. Cornelsen Verlag,
     Berlin 2004.
@@ -248,7 +248,7 @@ Werte durch die beiden Nachschlagewerke [Kuchling2001]_ und [Hammer2002]_.
     Berlin, 1987.
 
 .. [Kuchling2001] Horst Kuchling: Taschenbuch der Physik. Fachbuchverlag
-    Leipzig, 2001. 
+    Leipzig, 2001.
 
 .. [Lindner1961] Helmut Lindner: Physikalische Aufgaben. VEB Fachbuchverlag,
     Leipzig, 1961.
@@ -257,14 +257,14 @@ Werte durch die beiden Nachschlagewerke [Kuchling2001]_ und [Hammer2002]_.
     Thieme Verlag, Stuttgart, 2003.
 
 .. [Neyen2001] Susanne Neyen: Gut, dass du Ohren hast. Unabhängiges Institut für
-    Umweltfragen, 2001. 
+    Umweltfragen, 2001.
 
 .. [PhinUe1981] Rudolf Göbel, Eberhard Eichler, Hubert Buscherowsky, Helmut
     Menschel, Werner Steinrück, Werner Damm und Peter Glatz: Physik in
     Übersichten. Volk und Wissen Verlag, Berlin, 1981.
 
 .. [Schmidt2003] Gerd-Dietrich Schmidt: Lehrbuch Physik -- Gymnasiale Oberstufe.
-    Duden Paetec Schulbuchverlag, 2003. 
+    Duden Paetec Schulbuchverlag, 2003.
 
 .. [Voelcker1984] Diethelm Völcker: Physik in der Mittelstufe 1. Mentor Verlag,
     München, 1984.

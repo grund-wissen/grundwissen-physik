@@ -23,7 +23,7 @@ Mittels dieser Zahnungen kann ein Zahnrad ein wirkendes :ref:`Drehmoment
     Kraftübertragung und Drehmomentwandlung bei einem Zahnradgetriebe.
 
     .. only:: html
-    
+
         :download:`SVG: Zahnrad-Getriebe
         <../../pics/mechanik/kraftwandler-und-getriebe/zahnrad-getriebe.svg>`
 
@@ -32,7 +32,7 @@ Konstruktion als Getriebe. Zwei Räder wirken dabei stets mit gleich großer Kra
 :math:`F` aufeinander ein. Sind allerdings die Radien :math:`r _{\rm{1}}` und
 :math:`r _{\rm{2}}` der Zahnräder unterschiedlich groß, so sind jeweils auch die
 wirkenden Drehmomente :math:`M _{\rm{1}} = r _{\rm{1}} \cdot F` und :math:`M
-_{\rm{2}} = r _{\rm{2}} \cdot F` verschieden. 
+_{\rm{2}} = r _{\rm{2}} \cdot F` verschieden.
 
 .. index:: Übersetzungsverhältnis
 
@@ -43,11 +43,11 @@ Verhältnis der wirkenden Drehmomente, gilt die folgende Formel: [#USV]_
 
 .. math::
     :label: eqn-übersetzungsverhältnis
-    
+
     \frac{M _{\rm{1}}}{M _{\rm{2}}} = \frac{r _{\rm{1}}}{r _{\rm{2}}}
 
 Die wirkenden Drehmomente stehen somit im gleichen Größenverhältnis zeinander
-wie die Radien der aufeinander einwirkenden Zahnräder. 
+wie die Radien der aufeinander einwirkenden Zahnräder.
 
 Aufgrund der Zahnungen kann bei Zahnrädern kein Durchrutschen ("Schlupf")
 auftreten, d.h. die aufeinander einwirkenden Oberflächen legen stets den
@@ -62,7 +62,7 @@ gleichen Weg zurück. Dies hat zweierlei Konsequenzen:
 
   .. math::
     :label: eqn-zahnräder-zahnungen
-      
+
       \frac{n _{\rm{1}}}{n _{\rm{2}}} = \frac{r _{\rm{1}}}{r
       _{\rm{2}}}{\color{white}\,\;\ldots}
 
@@ -77,7 +77,7 @@ gleichen Weg zurück. Dies hat zweierlei Konsequenzen:
 
   .. math::
     :label: eqn-zahnräder-winkelgeschwindigkeiten
-        
+
       \frac{\omega _{\rm{1}}}{\omega _{\rm{2}}} = \frac{r _{\rm{2}}}{r
       _{\rm{1}}}{\color{white}\,\;\ldots}
 
@@ -115,7 +115,7 @@ Zahnstange möglich.
     Kraftübertragung mit Hilfe eines Zahnrads und einer Zahnstange.
 
     .. only:: html
-    
+
         :download:`SVG: Zahnrad und Zahnstange
         <../../pics/mechanik/kraftwandler-und-getriebe/zahnrad-zahnstange.svg>`
 
@@ -128,13 +128,13 @@ Riemen- und Kettengetriebe
 Mittels eines Riemens kann der Angriffspunkt einer (Zug-)Kraft in Richtung des
 Riemens verschoben werden. Wird ein Riemen über zwei Riemenscheiben mit
 unterschiedlichem Durchmesser geführt, so lässt sich bei ausreichender Spannung
-des Riemens eine Kraft von der einen Riemenscheibe auf die andere übertragen. 
+des Riemens eine Kraft von der einen Riemenscheibe auf die andere übertragen.
 
 Die übertragene Kraft :math:`F` ist an allen Stellen des Riemens und auch an
 den Angriffspunkten der Riemenscheiben gleich groß; bei unterschiedlichen
 Radien :math:`r _{\rm{1}}` und :math:`r _{\rm{2}}` der Scheiben sind jedoch die
 wirkenden Drehmomente :math:`M _{\rm{1}}` und :math:`M _{\rm{2}}` verschieden
-groß. 
+groß.
 
 Erfolgt die Kraftübertragung von der kleineren Riemenscheibe auf die größere, so
 erfährt diese aufgrund ihres größeren Durchmessers auch ein entsprechend
@@ -151,7 +151,7 @@ Rotationsfrequenz bei der größeren Riemenscheibe ab.
     Kettengetriebe.
 
     .. only:: html
-    
+
         :download:`SVG: Riemen- bzw. Kettengetriebe
         <../../pics/mechanik/kraftwandler-und-getriebe/riemengetriebe-kettengetriebe.svg>`
 
@@ -176,7 +176,7 @@ werden, ohne dass ein Schlupf der Kette auftreten kann.
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
     .. rubric:: Anmerkungen:
@@ -186,20 +186,20 @@ werden, ohne dass ein Schlupf der Kette auftreten kann.
     :math:`M _{\rm{2}}` hergeleitet werden:
 
     .. math::
-    
+
         r _{\rm{1}} \cdot F &= M _{\rm{1}} {\color{white}\ldots}\\
-        r _{\rm{2}} \cdot F &= M _{\rm{2}} 
+        r _{\rm{2}} \cdot F &= M _{\rm{2}}
 
     Da an zwei Zahnrädern paarweise stets die gleiche Kraft wirkt, können die
     beiden obigen Gleichungen jeweils nach :math:`F` aufgelöst und anschließend
     gleichgesetzt werden. Es folgt:
 
     .. math::
-    
+
         \left.\begin{aligned}
         F = \frac{M _{\rm{1}}}{r _{\rm{1}}} \\[4pt]
-        F = \frac{M _{\rm{2}}}{r _{\rm{2}}} 
-        \end{aligned} \; \right\} 
+        F = \frac{M _{\rm{2}}}{r _{\rm{2}}}
+        \end{aligned} \; \right\}
         \quad \Rightarrow \quad \frac{M _{\rm{1}}}{r _{\rm{1}}} = \frac{M
         _{\rm{2}}}{r _{\rm{2}}}{\color{white}.}
 
@@ -209,18 +209,18 @@ werden, ohne dass ein Schlupf der Kette auftreten kann.
     aufeinander folgender Zahnräder.
 
     ..  .. math::
-        
+
         ..  \frac{M _{\rm{1}}}{M _{\rm{2}}} = \frac{r _{\rm{1}}}{r _{\rm{2}}}{\color{white}.}
-    
+
 
 .. [#ZR1] Allgemein muss der Umfang eines Zahnrads stets einem Vielfachen der
     Länge :math:`l` einer einzelnen Zahnung entsprechen. Es gilt also:
 
     .. math::
-        
+
         2 \cdot \pi \cdot r = n \cdot l{\color{white}\,\ldots}
-    
-    Hierbei ist :math:`n` die Anzahl der Zahnungen eines Zahnrads. 
+
+    Hierbei ist :math:`n` die Anzahl der Zahnungen eines Zahnrads.
 
 .. [#ZR2] Die aufeinander einwirkenden Zahnungen haben zwar eine gleiche
     Bahngeschwindigkeit :math:`v`. Bei unterschiedlichen Radien :math:`r
@@ -229,11 +229,11 @@ werden, ohne dass ein Schlupf der Kette auftreten kann.
     _{\rm{2}}` der beiden Zahnräder verschieden groß. Es gilt:
 
     .. math::
-        
+
         {\color{white}\ldots}\left.\begin{aligned}
         v = \omega _{\rm{1}} \cdot r _{\rm{1}} \\[4pt]
-        v = \omega _{\rm{2}} \cdot r _{\rm{2}} 
-        \end{aligned} \; \right\} 
+        v = \omega _{\rm{2}} \cdot r _{\rm{2}}
+        \end{aligned} \; \right\}
         \quad \Rightarrow \quad \omega _{\rm{1}} \cdot r _{\rm{1}} = \omega
         _{\rm{2}} \cdot r _{\rm{2}}
 
@@ -247,7 +247,7 @@ werden, ohne dass ein Schlupf der Kette auftreten kann.
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu Zahnrädern und
     Getrieben>`.

@@ -10,7 +10,7 @@ Gases>` in einem geschlossenen System kann auch in folgender Form geschrieben
 werden:
 
 .. math::
-    
+
     p \cdot V = \text{konst.} \cdot T
 
 Betrachtet man :math:`\unit[1]{mol}` eines Gases, so ist der konstante Faktor
@@ -21,11 +21,11 @@ somit für beliebige Gasmengen innerhalb eines geschlossenen Systems:
 
 .. math::
     :label: eqn-allgemeine-gasgleichung
-    
+
     p \cdot V = n \cdot R \cdot T
 
 Diese Gleichung wird als "allgemeine Gasgleichung" bezeichnet und gilt in sehr
-guter Näherung bei nicht allzu hohen Drücken auch für reale Gase. 
+guter Näherung bei nicht allzu hohen Drücken auch für reale Gase.
 
 .. index:: Normalbedingungen, Normalvolumen
 .. _Normalvolumen:
@@ -37,7 +37,7 @@ idealen Gases unter Normalbedingungen, also bei einem Druck von
 einnimmt:
 
 .. math::
-    
+
     V_0 = \frac{\unit[1]{mol} \cdot \unit[8,31]{\frac{J}{mol \cdot K}} \cdot
     \unit[273]{K}}{\unit[101,3 \cdot 10^3]{Pa}} \approx \unit[0,0224]{\frac{N
     \cdot m}{\frac{N}{m^2}}} = \unit[0,0224]{m^3} = \unit[22,4]{l}
@@ -63,7 +63,7 @@ als weiterer Zusammenhang zwischen Stoffmenge :math:`n` und Teilchenzahl
 
 .. math::
     :label: eqn-stoffmenge-und-teilchenzahl
-    
+
     n = \frac{N}{N _{\rm{A}}}
 
 .. index:: Molare Masse
@@ -74,7 +74,7 @@ wiederum bestimmen, wenn man die Masse :math:`m` eines Gases und seine molare
 Masse :math:`m _{\rm{Mol}}` kennt:
 
 .. math::
-    
+
     n = \frac{m}{m _{\rm{M}}}
 
 Die molare Masse :math:`m _{\rm{M}}` eines Gases kann anhand der relativen
@@ -94,9 +94,9 @@ entspricht die molare Masse der doppelten relativen Atommasse des Elements.
   Helium hat eine relative Atommasse von :math:`\unit[4]{\frac{g}{mol}}`. Da
   Helium-Atome als einzelne Atome in Heliumgas auftreten, gilt auch für die
   molare Masse von Helium:
-  
+
   .. math::
-      
+
       m _{\rm{M,Helium}} = \unit[4]{\frac{g}{mol}}
 
   Stickstoff hat eine relative Atommasse von  :math:`\unit[14]{\frac{g}{mol}}`,
@@ -106,7 +106,7 @@ entspricht die molare Masse der doppelten relativen Atommasse des Elements.
   Atommasse der Elemente:
 
   .. math::
-      
+
       m _{\rm{M,Stickstoff}} &= 2 \cdot \unit[14]{\frac{g}{mol}}=
       \unit[28]{\frac{g}{mol}} \\
       m _{\rm{M,Sauerstoff}} &= 2 \cdot \unit[16]{\frac{g}{mol}}=
@@ -115,11 +115,11 @@ entspricht die molare Masse der doppelten relativen Atommasse des Elements.
   Argon hat eine relative Atommasse von :math:`\unit[40]{\frac{g}{mol}}`. Da
   Argon ebenso wie Helium als ein-atomiges Gas auftritt, gilt für die molare
   Masse von Argon:
-    
+
   .. math::
-      
+
       m _{\rm{M,Argon}} = \unit[40]{\frac{g}{mol}}
-    
+
 * Wie groß ist die molare Masse von Luft?
 
   Luft besteht näherungsweise aus :math:`78\%` Stickstoff, :math:`21\%`
@@ -129,17 +129,17 @@ entspricht die molare Masse der doppelten relativen Atommasse des Elements.
   werden:
 
   .. math::
-      
+
       m _{\rm{M, Luft}} = 0,78 \cdot \unit[28]{\frac{g}{mol}} + 0,21 \cdot
       \unit[32]{\frac{g}{mol}} + 0,01 \cdot \unit[40]{\frac{g}{mol}} \approx
       \unit[29]{\frac{g}{mol}}
 
 Anhand der molaren Masse eines Gases kann mittels der allgemeinen Gasgleichung
 beispielsweise dessen Dichte bei einem bestimmten Druck und einer bestimmten
-Temperatur bestimmt werden: 
+Temperatur bestimmt werden:
 
 .. math::
-    
+
     p \cdot V = \frac{m}{m _{\rm{M}}} \cdot R \cdot T \quad \Leftrightarrow
     \quad \rho = \frac{m}{V} = \frac{p \cdot m _{\rm{M}}}{R \cdot T}
 
@@ -147,7 +147,7 @@ Für Luft gilt beispielsweise unter Normalbedingungen, also bei :math:`p =
 \unit[101,3]{kPa}` und :math:`T = \unit[273]{K}`:
 
 .. math::
-    
+
     \rho _{\rm{Luft}} = \frac{\unit[101,3 \cdot 10^3]{Pa} \cdot
     \unit[29]{\frac{g}{mol}}}{\unit[8,31]{\frac{J}{mol \cdot K}} \cdot
     \unit[273]{K}} \approx \unit[1294,9]{\frac{\frac{N}{m^2} \cdot g}{N \cdot m

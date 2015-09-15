@@ -66,7 +66,7 @@ Wärme <Ausbreitung von Wärme>`.
     * Mehrere gleichförmige Materialproben (verschiedene Metalle, Kunststoff
       o.ä. als Stäbe oder Streifen) mit passender Halterung
     * Eine Schüssel
-    * Heißes Wasser (ca. :math:`\unit[50]{^{\circ}C}`)
+    * Heißes Wasser (ca. :math:`\unit[50]{\degree C}`)
 
 *Durchführung:*
 
@@ -133,7 +133,7 @@ Wärme <Ausbreitung von Wärme>`.
   kleinen Steinchen, so dass es an den Boden des Reagenzglases sinkt. Wiederhole
   den Versuch, indem Du mit einem Bunsenbrenner wiederum das obere Ende des
   Reagenzglases erwärmst. Kannst Du auf diese Weise Wasser in allen drei
-  Aggregatzuständen (fest, flüssig, gasförmig) gleichzeitig beobachten? 
+  Aggregatzuständen (fest, flüssig, gasförmig) gleichzeitig beobachten?
 
 
 ----
@@ -147,7 +147,7 @@ Wärme <Ausbreitung von Wärme>`.
 .. hlist::
     :columns: 2
 
-    * Eine Wärmelampe oder elektrische Heizplatte 
+    * Eine Wärmelampe oder elektrische Heizplatte
     * Zwei Reagenzgläser aus Glas mit durchbohrtem Stopfen
     * Zwei passende Glasröhrchen
     * Tinte oder Lebensmittelfarbe
@@ -234,10 +234,10 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
 *Durchführung:*
 
 - Erhitze eine Kugel, die bei Zimmertemperatur gerade noch durch eine passende
-  Bohrung passt. Passt die Kugel immer noch durch die Bohrung? 
+  Bohrung passt. Passt die Kugel immer noch durch die Bohrung?
 - Was passiert, wenn sie wieder abkühlt?
 
-..  
+..
     Beim Erwärmen vergrößert sich der Kugeldurchmesser; auch das Volumen der
     Kugel nimmt daher zu. Beim Abkühlen schrumpft die Kugel wieder auf ihre
     ursprüngliche Größe
@@ -255,7 +255,7 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
 
     * Ein Reagenzglas mit durchbohrtem Stopfen
     * Ein passendes Glasröhrchen
-    * Tinte oder Lebensmittelfarbe 
+    * Tinte oder Lebensmittelfarbe
     * Wasserfester Filzstift
     * Wasserbad (Elektrische Heizplatte, mit Wasser gefüllter Topf)
 
@@ -263,14 +263,14 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
 
 - Fülle ein Reagenzglas bis zum Rand mit kaltem, schwach gefärbtem Wasser und
   verschließe es mit einem durchbohrten Stopfen. Führe durch den Stopfen ein
-  enges Glasrohr. Unter dem Stopfen darf keine Luftblase bleiben. 
+  enges Glasrohr. Unter dem Stopfen darf keine Luftblase bleiben.
 - Markiere den Wasserstand mit einem wasserfesten Filzstift. Erhitze das
   Reagenzglas in einem Wasserbad. Was passiert, wenn das das Wasser erwärmt
-  wird? 
+  wird?
 - Was passiert, wenn das Reagenzglas wieder mit kaltem Wasser übergossen
   wird?
 
-..  
+..
     Die Wassersäule steigt bei Erwärmung an und sinkt bei Abkühlung. Die
     Flüssigkeit dehnt sich stärker aus als das feste Thermometergefäß.
 
@@ -295,11 +295,11 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
 
 - Fülle ein Reagenzglas mit Wasser, ein anderes mit Petroleum. Verschließe sie
   mit einem durchbohrtem Stopfen und führe durch den Stopfen ein dünnes
-  Glasrohr. Erhitze beide Reagenzgläser in einem Wasserbad. 
+  Glasrohr. Erhitze beide Reagenzgläser in einem Wasserbad.
 - Warum werden gleich große Reagenzgläser und gleich weite Glasrohre benutzt?
-- Bei welcher Flüssigkeit nimmt das Volumen stärker zu? 
+- Bei welcher Flüssigkeit nimmt das Volumen stärker zu?
 
-..  
+..
     Die Ausdehnung der Flüssigkeiten hängt unter gleichen Bedingungen vom Stoff
     ab. Das Volumen des Petroleums nimmt bei gleicher Erwärmung stärker zu.
 
@@ -323,12 +323,12 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
 
 - Verschließe ein Reagenzglas oder einen Rundkolben mit einem durchbohrten
   Stopfen und führe durch den Stopfen ein dünnes Glasrohr. Tauche das Glasrohr
-  in Wasser und erwärme das Reagenzglas mit der Hand oder mit einer Flamme. 
+  in Wasser und erwärme das Reagenzglas mit der Hand oder mit einer Flamme.
   Was kannst Du beobachten?
 - Was passiert, wenn das Reagenzglas anschließend mit kaltem Wasser übergossen
   wird?
 
-..  
+..
     Aus dem Rohr entweichen bei Erwärmung Luftblasen (die Luft im Reagenzglas
     dehnt sich aus). Bei Abkühlung steigt das Wasser im Glasrohr auf und nimmt
     den Raum der vorher ausgeströmten Luft ein.
@@ -344,23 +344,23 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
 .. hlist::
     :columns: 2
 
-    * Eine Schüssel 
-    * Eiskaltes und :math:`\unit[10]{^{\circ}C }` warmes Wasser
+    * Eine Schüssel
+    * Eiskaltes und :math:`\unit[10]{\degree C }` warmes Wasser
     * Zwei Thermometer
 
 *Durchführung:*
 
-- Fülle auf :math:`\unit[0]{^{\circ}C }`  kaltes Wasser vorsichtig Wasser mit einer
-  Temperatur von etwa :math:`\unit[10]{^{\circ}C }`  (Tip: Gieße das Wasser auf
+- Fülle auf :math:`\unit[0]{\degree C }`  kaltes Wasser vorsichtig Wasser mit einer
+  Temperatur von etwa :math:`\unit[10]{\degree C }`  (Tip: Gieße das Wasser auf
   ein kleines Hölzchen, das auf dem kalten Wasser schwimmt). Messe nach kurzer
   Zeit mit zwei Thermometern die Temperaturen an der Ober- und Unterseite der
   Wasser-Schichtung.
 - Welches Thermometer zeigt die höhere Temperatur an?
 - Bei welcher Temperatur besitzt Wasser somit die höhere Dichte?
 
-..  
+..
     Das obere Thermometer zeigt etwa 8 C, das untere etwa 4  C an. Die Dichte
-    des Wassers muss folglich bei 4  C größer als bei höheren Temperaturen sein. 
+    des Wassers muss folglich bei 4  C größer als bei höheren Temperaturen sein.
 
 
 ----
@@ -374,7 +374,7 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
 .. hlist::
     :columns: 2
 
-    * Ein Standzylinder :math:`(\unit[500]{ml})` 
+    * Ein Standzylinder :math:`(\unit[500]{ml})`
     * Zwei Thermometer
     * Eiswürfel
 
@@ -387,9 +387,9 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
   Standzylinders?
 - Bei welcher Temperatur besitzt Wasser somit die höhere Dichte?
 
-..  
-    Das untere Thermometer zeigt 4  C, das obere 0  C an. 
-    Wasser besitzt somit bei 4  C eine höhere Dichte als bei 0  C. 
+..
+    Das untere Thermometer zeigt 4  C, das obere 0  C an.
+    Wasser besitzt somit bei 4  C eine höhere Dichte als bei 0  C.
 
 ..  waermekraftmaschinen.rst
 
@@ -405,7 +405,7 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Wärmelehre>`

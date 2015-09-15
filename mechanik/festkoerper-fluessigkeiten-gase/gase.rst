@@ -4,7 +4,7 @@ Mechanik der Gase
 =================
 
 In der Ärodynamik werden die mechanischen Eigenschaften von Gasen,
-insbesondere von Luft, untersucht. 
+insbesondere von Luft, untersucht.
 
 
 .. _Der Luftdruck:
@@ -27,17 +27,17 @@ auch das Volumen des Gases wieder zu. Hierbei gilt: [#]_
 .. math::
     :label: eqn-boyle-mariotte
 
-      p _{\rm{1}} \cdot V _{\rm{1}} = p _{\rm{2}} \cdot V _{\rm{2}} 
-  
+      p _{\rm{1}} \cdot V _{\rm{1}} = p _{\rm{2}} \cdot V _{\rm{2}}
+
 Bei Standardbedingungen, das heißt einem Luftdruck von :math:`p _{\rm{0}} =
 \unit[1,01325]{bar}` und einer Temperatur von :math:`T _{\rm{0}} =
-\unit[0]{^{\circ}C}` nehmen fast alle Gase ein Volumen von :math:`V _{\rm{0}} =
+\unit[0]{\degree C}` nehmen fast alle Gase ein Volumen von :math:`V _{\rm{0}} =
 \unit[22,4]{l}` ein. Der "normale" Luftdruck :math:`p _0` in Bodennähe
 resultiert aus dem Gewicht der darüber liegenden Luftschichten. Da
 :math:`\unit[1]{bar} = \unit[10^5]{Pa} = \unit[10^5]{\frac{N}{m}}` gilt,
 entspricht der durch die Luft ausgeübte Druck in Bodennähe rund einem Gewicht
 von :math:`\unit[10]{t}` je Quadratmeter beziehungsweise :math:`\unit[1]{kg}` je
-Quadrat-Zentimeter. [#]_ 
+Quadrat-Zentimeter. [#]_
 
 .. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/luftdruck.png
     :name: fig-luftdruck
@@ -46,10 +46,10 @@ Quadrat-Zentimeter. [#]_
     :width: 30%
 
     Veranschaulichung der Größe des "normalen" Luftdrucks (1 bar).
-    
+
     .. only:: html
-    
-        :download:`SVG: Die Größe des Luftdrucks 
+
+        :download:`SVG: Die Größe des Luftdrucks
         <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/luftdruck.svg>`
 
 Da die Masse eines Gases in einem geschlossenen System unabhängig vom Druck
@@ -58,7 +58,7 @@ Veränderung der Gasdichte :math:`\rho`. Es gilt: [#]_
 
 .. math::
     :label: eqn-gas-dichte
-    
+
     \frac{\rho_1}{\rho_2} = \frac{p_1}{p_2}
 
 Bei einem niedrigem Gasdruck nimmt das Volumen eines Gases zu, seine Dichte
@@ -68,7 +68,7 @@ genannte "barometrische Höhenformel": [#]_
 
 .. math::
     :label: eqn-barometrische-hoehenformel
-    
+
     p = p_0 \cdot e ^{-\frac{h}{h _{\rm{s}}}}
 
 Hierbei ist :math:`p_0` der Luftdruck auf Meereshöhe und :math:`h _{\rm{s}}`
@@ -100,7 +100,7 @@ Stand-Luftpumpen bis zu :math:`\unit[12]{bar}` erreichen.
 ..  werden. Allgemein gilt für die Defintion der Arbeit:
 
 ..  .. math::
-    
+
     ..  \Delta W = F \cdot \Delta s
 
 ..  Befindet sich das Gas in einem zylinderförmigen Gefäß, dessen Volumen durch
@@ -108,7 +108,7 @@ Stand-Luftpumpen bis zu :math:`\unit[12]{bar}` erreichen.
 ..  (beispielsweise einer Luftpumpe), so gilt für die obere Gleichung:
 
 ..  .. math::
-    
+
     ..  \Delta W = \frac{F}{A} \cdot \Delta s \cdot A  = p \cdot \Delta V
 
 
@@ -123,7 +123,7 @@ Schweben>`:
 
 .. math::
     :label: eqn-auftriebskraft-gase
-    
+
     F _{\rm{A}} = \rho _{\rm{G}} \cdot g \cdot V _{\rm{K}}
 
 Hierbei bezeichnet :math:`V _{\rm{K}}` das Volumen des Körpers, :math:`g =
@@ -161,59 +161,59 @@ Luft mit zunehmender Höhe abnimmt.
     stoffspezifische molare Masse des Gases angibt. Es gilt also:
 
     .. math::
-        
+
         p \cdot V = \frac{m}{m _{\rm{Mol}}} \cdot R \cdot T \quad
         \Longleftrightarrow \quad p = \frac{m}{V} \cdot \frac{R \cdot T}{m
-        _{\rm{Mol}}}  
+        _{\rm{Mol}}}
 
     Der Term :math:`\frac{m}{V}` auf der rechten Gleichungsseite gibt die Dichte
     des Gases an. Da :math:`R` und :math:`m _{\rm{Mol}}` konstante Werte sind,
     gilt bei konstanter Temperatur :math:`\frac{p}{\rho} = \text{konstant}`,
-    also :math:`\frac{p_1}{\rho_1} = \frac{p_2}{\rho_2}`. 
+    also :math:`\frac{p_1}{\rho_1} = \frac{p_2}{\rho_2}`.
 
 .. [#] Bei der Herleitung der barometrischen Höhenformel wird vom
     :ref:`Schweredruck in Flüssigkeiten <Schweredruck>` ausgegangen; für den
     Druckunterschied :math:`\Delta p` bei einem Höhenunterschied :math:`\Delta
-    h` gilt: 
+    h` gilt:
 
     .. math::
-        
-        \Delta p = - \rho \cdot g \cdot \Delta h 
 
-    Hierbei steht :math:`\rho` für die Dichte und :math:`g` für den Ortsfaktor. 
+        \Delta p = - \rho \cdot g \cdot \Delta h
+
+    Hierbei steht :math:`\rho` für die Dichte und :math:`g` für den Ortsfaktor.
     Das Minuszeichen ergibt sich daraus, dass der Druck mit zunehmender Höhe
     geringer wird (da bei Flüssigkeiten :math:`h` für die Eintauchtiefe steht,
-    wird der Druck in diesem Fall größer, wenn :math:`h` größer wird.) 
-    
+    wird der Druck in diesem Fall größer, wenn :math:`h` größer wird.)
+
     Bei konstanter Temperatur hängt bei Gasen die Dichte :math:`\rho` und der
     Druck :math:`p` in der Höhe :math:`h`  über :math:`\frac{\rho}{\rho_0} =
     \frac{p}{p_0}` mit der Dichte :math:`\rho_0` und dem Druck :math:`p_0` in
     der Ausgangshöhe :math:`h=\unit[0]{m}` zusammen. Umgeformt gilt also:
 
     .. math::
-        
+
         \rho = \frac{p}{p_0} \cdot \rho_0
 
     Setzt man diesen Ausdruck für :math:`\rho` in die vorherige Gleichung ein,
     erhält man folgenden Ausdruck:
 
     .. math::
-        
+
         \Delta p = - \frac{p}{p_0} \cdot \rho _0 \cdot g \cdot \Delta h
 
     Dividiert man beide Seiten dieser Gleichung durch :math:`p`, so folgt:
 
     .. math::
-        
+
         \frac{\Delta p}{p} = -\frac{\rho_0}{p_0} \cdot g \cdot \Delta h
 
     Wertet man die relativen Druckänderung für eine jeweils nur kleine
     Höhenänderung aus, so kann man alle Änderungen von :math:`0` bis :math:`h`
     aufsummieren; dies entspricht im mathematischen Sinn einem :ref:`Integral
-    <gwm:Integralrechnung>`: 
+    <gwm:Integralrechnung>`:
 
     .. math::
-        
+
         \int_{p_0}^{p} \frac{\mathrm{d} p}{p} = \int_{0}^{h} -\frac{\rho_0}{p_0} \cdot g
         \cdot \mathrm{d}  h
 
@@ -224,7 +224,7 @@ Luft mit zunehmender Höhe abnimmt.
     konstanter Faktor vor das Integral gezogen werden:
 
     .. math::
-        
+
         \int_{p_0}^{p} \frac{\mathrm{d} p}{p} = -\frac{\rho_0}{p_0} \cdot g
         \cdot \int_{0}^{h} \mathrm{d}  h
 
@@ -236,7 +236,7 @@ Luft mit zunehmender Höhe abnimmt.
     <Integration-Zähler-gleich-Ableitung-des-Nenners>` folgt:
 
     .. math::
-        
+
         \ln{(p)} - \ln{(p_0)} = - \frac{\rho_0}{p_0} \cdot g \cdot h
 
     Mit Hilfe der :ref:`Rechenregeln für Logarithmen <gwm:Rechenregeln für
@@ -248,7 +248,7 @@ Luft mit zunehmender Höhe abnimmt.
     schließlich:
 
     .. math::
-        
+
         p = p_0 \cdot e ^{- \frac{\rho_0}{p_0} \cdot g \cdot h}
 
 .. [#] Dieser Druck ist erheblich, wird aber von uns Menschen kaum wahrgenommen,

@@ -50,7 +50,7 @@ Elementarwellen:
     Lichtwelle und Wellenfronten nach dem Huygenschen Prinzip der Elementarwellen.
 
     .. only:: html
-    
+
         :download:`SVG: Lichtwelle (Huygensches Prinzip)
         <../pics/optik/lichtwelle-huygensches-prinzip.svg>`
 
@@ -63,7 +63,7 @@ kann also als eine Art geometrische Konstruktionshilfe aufgefasst werden, die
 beispielsweise zum Zeichnen der Ausbreitung einer Welle genutzt werden kann. Ist
 eine gleichmäßig verlaufende Welle weit vom ursprünglichen Erregerzentrum
 entfernt, so verlaufen die Wellenfronten bzw. die Ausbreitungsrichtungen nahezu
-geradlinig und parallel. 
+geradlinig und parallel.
 
 .. figure::
     ../pics/optik/lichtwellen-beugungsmuster.png
@@ -75,7 +75,7 @@ geradlinig und parallel.
     Beugungsmuster von Lichtwellen.
 
     .. only:: html
-    
+
         :download:`SVG: Lichtwellen (Beugungsmuster)
         <../pics/optik/lichtwellen-beugungsmuster.svg>`
 
@@ -126,7 +126,7 @@ Ausbreitung eine um :math:`\Delta s` längere Wegstrecke zurücklegen muss.
     Lichtbeugung und Interferenz am Doppelspalt.
 
     .. only:: html
-    
+
         :download:`SVG: Interferenz am Doppelspalt
         <../pics/optik/lichtbeugung-interferenz-doppelspalt.svg>`
 
@@ -139,7 +139,7 @@ ein ganzzahliges Vielfaches :math:`k = 1,2,3,\ldots` der Wellenlänge
 
 .. math::
     :label: eqn-doppelspalt-maxima
-    
+
     \Delta s = k \cdot \lambda
 
 Entlang der Mittellinie tritt (für beliebige Wellenlängen) an allen Stellen
@@ -147,7 +147,7 @@ konstruktive Interferenz ein, da alle Punkte auf dieser Linie von beiden
 Spaltöffnungen gleich weit entfernt sind, der Gangunterschied für beide Wellen
 somit gleich Null ist. Das zugehörige Helligkeitsmaximum wird auch als "nulltes
 Maximum" bezeichnet, da es dem Gangunterschied :math:`\Delta s = 0 \cdot
-\lambda` entspricht. 
+\lambda` entspricht.
 
 .. figure::
     ../pics/optik/lichtbeugung-interferenz-doppelspalt-maxima-minima.png
@@ -160,14 +160,14 @@ Maximum" bezeichnet, da es dem Gangunterschied :math:`\Delta s = 0 \cdot
     Wellenlänge.
 
     .. only:: html
-    
+
         :download:`SVG: Interferenz am Doppelspalt (Maxima und Minima)
         <../pics/optik/lichtbeugung-interferenz-doppelspalt-maxima-minima.svg>`
 
 Ist der Gangunterschied :math:`\Delta s` hingegen gleich der Hälfte
 der Wellenlänge :math:`\lambda` (oder einem ungeradzahligen Vielfachen), so
 verlaufen die Lichtwellen anschließend in Gegenphase, es tritt also destruktive
-Interferenz auf. 
+Interferenz auf.
 
 Wie weit die hellen und dunklen Streifen auf dem Schirm auseinander liegen bzw.
 unter welchen Winkeln :math:`\alpha _{k}` sie erscheinen, ist somit von der
@@ -178,7 +178,7 @@ _{\rm{k}}` gelten zudem folgende geometrische Beziehungen:
 ..  Beispielsweise werden so die Maxima von
 ..  rotem Licht mit :math:`\lambda _{\rm{rot}} = \unit[700]{nm}` weiter
 ..  "aufgefächert" als die Maxima von blauem Licht mit :math:`\lambda _{\rm{blau}} =
-..  \unit[450]{nm}`. 
+..  \unit[450]{nm}`.
 
 * Der Abstand :math:`s \approx \unit[5]{m}` zwischen dem Doppelspalt und dem
   Schirm ist sehr viel größer als der Abstand :math:`b \approx \unit[0,1]{mm}`
@@ -187,9 +187,9 @@ _{\rm{k}}` gelten zudem folgende geometrische Beziehungen:
   :math:`\alpha`. Somit gilt:
 
   .. math::
-      
+
       \tan{\alpha} = \frac{a}{s}
-  
+
   Dabei bezeichnet :math:`a` den Abstand des auf dem Schirm betrachteten
   Maximums von der Mittellinie.
 
@@ -205,7 +205,7 @@ _{\rm{k}}` gelten zudem folgende geometrische Beziehungen:
     Mittellinie.
 
     .. only:: html
-    
+
         :download:`SVG: Interferenz am Doppelspalt (Winkelbeziehung 1)
         <../pics/optik/lichtbeugung-interferenz-doppelspalt-winkelbeziehung-1.svg>`
 
@@ -213,11 +213,11 @@ _{\rm{k}}` gelten zudem folgende geometrische Beziehungen:
   rechtwinklige Dreieck, so kann man folgenden Zusammenhang zwischen dem Winkel
   :math:`\alpha`, dem Spaltabstand :math:`b` und dem Gangunterschied
   :math:`\Delta s` erkennen:
-  
+
   .. math::
-      
+
       \sin{\alpha} = \frac{\Delta s}{b}
-  
+
 .. figure::
     ../pics/optik/lichtbeugung-interferenz-doppelspalt-winkelbeziehung-2.png
     :align: center
@@ -229,25 +229,25 @@ _{\rm{k}}` gelten zudem folgende geometrische Beziehungen:
     dem Gangunterschied :math:`\Delta s` und dem Doppelspaltabstand :math:`b`.
 
     .. only:: html
-    
+
         :download:`SVG: Interferenz am Doppelspalt (Winkelbeziehung 2)
         <../pics/optik/lichtbeugung-interferenz-doppelspalt-winkelbeziehung-2.svg>`
 
 Da der Winkel :math:`\alpha` bei fast allen Doppelspalt-Versuchen sehr klein
-ist :math:`(\alpha < 5^{\circ})`, kann in sehr guter Näherung :math:`\sin{\alpha}
+ist :math:`(\alpha < 5\degree)`, kann in sehr guter Näherung :math:`\sin{\alpha}
 \approx \tan{\alpha}` gesetzt werden. Damit lassen sich die obigen
 Zusammenhänge und die Bedingung :eq:`eqn-doppelspalt-maxima` für
 Intensitätsmaxima zu einer einzigen Formel zusammenfassen:
 
 .. math::
-    
+
     \Delta s = \frac{a \cdot b}{s} = k \cdot \lambda
 
 beziehungsweise, wenn man die Wellenlänge des Lichts bestimmen möchte: [#]_
 
 .. math::
     :label: eqn-doppelspalt-wellenlaenge
-    
+
     \lambda = \frac{a \cdot b}{k \cdot s}
 
 Ist der Doppelspalt-Abstand :math:`b` bekannt, so kann man also mittels einer
@@ -257,7 +257,7 @@ der Mittellinie auf dem Schirm unmittelbar die Wellenlänge des Lichts berechnet
 werden.
 
 *Beispiel:*
-    
+
 * Ein Doppelspalt wird mit einem roten Laserstrahl beleuchtet. Bei einem
   Schirmabstand von :math:`s = \unit[5,00]{m}` erscheint auf dem Schirm das
   :math:`k=3.` Maximum in einem Abstand :math:`a = \unit[0,10]{m}` von der
@@ -266,11 +266,11 @@ werden.
   des Lichts:
 
   .. math::
-      
+
       \lambda = \frac{a \cdot b}{k \cdot s} = \frac{\unit[10 ^{-1}]{m} \cdot
       \unit[10 ^{-4}]{m}}{3 \cdot \unit[5]{m}} \approx \unit[667 \cdot
       10^{-9}]{m}
-  
+
   Die Wellenlänge des roten Laserlichts beträgt somit rund
   :math:`\unit[667]{nm}`.
 
@@ -287,7 +287,7 @@ können etwa eine Anzahl von :math:`N=1000` Spalten je Millimeter aufweisen. Fü
 den Abstand :math:`g` zwischen den den lichtdurchlässigen Bereichen gilt somit:
 
 .. math::
-    
+
     g = \frac{1}{N}
 
 Der Gitterabstand beträgt für :math:`N=\unit[1000]{\frac{1}{mm}} = \unit[1 \cdot
@@ -307,7 +307,7 @@ formuliert, in besserer Auflösung betrachtet werden.
     Lichtbeugung und Interferenz am optischen Gitter.
 
     .. only:: html
-    
+
         :download:`SVG: Interferenz am optischen Gitter
         <../pics/optik/lichtbeugung-interferenz-gitter.svg>`
 
@@ -323,7 +323,7 @@ Mittellinie bestimmt werden:
 
 .. math::
     :label: eqn-gitter-wellenlaenge
-    
+
     \lambda = \frac{a \cdot g}{k \cdot s}
 
 Verwendet man für Interferenzversuche an einem optischen Gitter *kein*
@@ -336,7 +336,7 @@ bezeichnet. Bei der Verwendung von Lasern kann die spaltartige Blende vor dem
 Gitter weggelassen werden, da Laser aufgrund ihres besonderen Aufbaus bereits
 von sich aus kohärentes Licht erzeugen.
 
-.. index:: 
+.. index::
     single: Spektrometer ; Gitterspektrometer
     single: Gitterspektrometer
 
@@ -351,7 +351,7 @@ von sich aus kohärentes Licht erzeugen.
     Interferenzmaxima am optischen Gitter.
 
     .. only:: html
-    
+
         :download:`SVG: Interferenzmaxima am optischen Gitter
         <../pics/optik/lichtbeugung-interferenz-gitter-spektrum.svg>`
 
@@ -363,7 +363,7 @@ Gleichung :eq:`eqn-gitter-wellenlaenge` ist die Ablenkung proportional zur
 Wellenlänge :math:`(a = \frac{k \cdot s}{g} \cdot \lambda)`, blaues Licht wird
 also weniger stark abgelenkt als rotes. Diese Eigenschaft wird beispielsweise
 zur so genannten Spektralanalyse genutzt.
-  
+
 
 .. index:: Lichtdispersion
 .. _Lichtdispersion:
@@ -387,7 +387,7 @@ Prismas weißes Licht in seine Farbanteile aufteilen lässt. [#]_
     Lichtdispersion bzw. Spektralzerlegung in einem Prisma.
 
     .. only:: html
-    
+
         :download:`SVG: Lichtdispersion (Prisma)
         <../pics/optik/lichtbrechung-prisma-dispersion.svg>`
 
@@ -399,9 +399,9 @@ nutzen:
 * Bei einem "Monochromator" wird anstelle eines Schirms eine Blende mit schmaler
   Öffnung angebracht. Dadurch wird nur ein schmaler Bereich (quasi eine einzelne
   Farbe) des Spektrums für weitere Versuchszwecke aus dem Lichtspektrum
-  herausgefiltert. 
+  herausgefiltert.
 
-.. index:: 
+.. index::
     single: Spektrometer ; Prismenspektrometer
     single: Prismenspektrometer
 
@@ -418,7 +418,7 @@ Lichts beruht, wird blaues Licht stärker von der ursprünglichen Richtung
 abgelenkt als rotes; genau umgekehrt ist es bei einem Gitterspektrometer. Ein
 weiterer Unterschied zwischen beiden Spektrometer-Arten besteht darin, dass ein
 Prisma im Gegensatz zu einem optischen Gitter nur *ein* Spektrum erzeugt, das
-allerdings lichtintensiver ist als die einzelnen Gitterspektren. 
+allerdings lichtintensiver ist als die einzelnen Gitterspektren.
 
 Zur Spektralanalyse werden im Allgemeinen dennoch bevorzugt Gitter eingesetzt,
 zum einen aufgrund ihrer leichteren Kalibrierbarkeit, vor allem jedoch aufgrund

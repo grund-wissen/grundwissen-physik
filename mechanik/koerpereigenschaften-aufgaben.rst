@@ -18,7 +18,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Volumen
 * (*) Auf dem Etikett eines Wandfarbe-Eimers ist angegeben, dass :math:`V =
   \unit[1,0]{l}` der Farbe zum Anstreichen einer Fläche von :math:`A =
   \unit[6,0]{m^2}` genügt. Mit welcher Schichtdicke muss dazu die Farbe
-  aufgetragen werden? 
+  aufgetragen werden?
 
   :ref:`Lösung <Volumen-01-Lösung>`
 
@@ -28,7 +28,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Volumen
 
 * (*) Eine Blechtafel der Größe :math:`\unit[1,50]{m} \times \unit[1,20]{m}` soll
   beidseitig mit einer  :math:`\unit[0,1]{mm}` dicken Lackschicht überzogen
-  werden. Wie viel :math:`\unit[]{dm^3}` Lack werden benötigt? 
+  werden. Wie viel :math:`\unit[]{dm^3}` Lack werden benötigt?
 
   :ref:`Lösung <Volumen-02-Lösung>`
 
@@ -48,8 +48,8 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Dichte
 .. _Dichte-01:
 
 * (*) Warum haben Kork und Styropor -- im Vergleich zu anderen Festkörpern -- eine
-  so geringe Dichte? 
-  
+  so geringe Dichte?
+
   :ref:`Lösung <Dichte-01-Lösung>`
 
 ----
@@ -58,8 +58,8 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Dichte
 
 * (*) Welche Dichte hat ein Würfel, wenn sein Volumen gleich :math:`V =
   \unit[20]{cm^3}` ist und seine Masse :math:`m = \unit[178]{g}` beträgt? Aus
-  welchem Stoff besteht er wohl? 
-  
+  welchem Stoff besteht er wohl?
+
   :ref:`Lösung <Dichte-02-Lösung>`
 
 ----
@@ -68,8 +68,8 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Dichte
 
 * (*) Kann man :math:`\unit[6]{kg}` Quecksilber mit einer Dichte: von
   :math:`\rho = \unit[13,6]{\frac{g}{cm^3}} = \unit[13,6]{\frac{kg}{dm^3}}`) in
-  eine Flasche mit einem Volumen von :math:`V = \unit[0,50]{l}` füllen? 
-    
+  eine Flasche mit einem Volumen von :math:`V = \unit[0,50]{l}` füllen?
+
   :ref:`Lösung <Dichte-03-Lösung>`
 
 ----
@@ -81,8 +81,8 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Dichte
   \unit[100]{kg}`. Wie groß ist der Anteil des Glasgemisches am Gesamtvolumen,
   wenn die Dichte des Glasgemisches :math:`\rho = \unit[2,5]{g/cm^3} =
   \unit[2500]{kg/m^3}` beträgt und die Masse der Luft vernachlässigt werden
-  kann? 
-  
+  kann?
+
   :ref:`Lösung <Dichte-04-Lösung>`
 
 ----
@@ -103,8 +103,8 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Dichte
 
 * (*) Welche Masse hat ein :math:`l = \unit[100]{m}` langer Kupferdraht mit
   einem Durchmesser von :math:`d = \unit[2,0]{mm}`? (Die Dichte von Kupfer
-  beträgt :math:`\rho _{\rm{Cu}} = \unit[8,9]{g/cm^3}`.) 
-    
+  beträgt :math:`\rho _{\rm{Cu}} = \unit[8,9]{g/cm^3}`.)
+
   :ref:`Lösung <Dichte-06-Lösung>`
 
 ----
@@ -126,7 +126,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Dichte
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Körpereigenschaften>`

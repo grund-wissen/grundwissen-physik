@@ -12,7 +12,7 @@ Aufgaben zu geradlinigen Bewegungen
 Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Geradlinige
 Bewegungen <Geradlinige Bewegungen>`.
 
-.. rubric:: Aufgaben zu geradlinigen Bewegungen mit konstanter Geschwindigkeit 
+.. rubric:: Aufgaben zu geradlinigen Bewegungen mit konstanter Geschwindigkeit
 
 ----
 
@@ -26,8 +26,8 @@ Bewegungen <Geradlinige Bewegungen>`.
 
   Wie verhält es sich dies bezüglich der Lage eines sitzenden Fahrgasts in
   einem sich bewegenden Schnellzug? Ist der Fahrgast in Ruhe, oder bewegt er
-  sich? 
-  
+  sich?
+
   :ref:`Lösung <Bewegung-01-Lösung>`
 
 ----
@@ -37,7 +37,7 @@ Bewegungen <Geradlinige Bewegungen>`.
 * (*) Ein Radfahrer legt bei einer geradlinigen Bewegung mit konstanter
   Geschwindigkeit in der Zeit :math:`t=\unit[6]{s}` eine Wegstrecke der Länge
   :math:`s=\unit[36]{m}` zurück. Wie groß ist seine Geschwindigkeit?
-  
+
   :ref:`Lösung <Geschwindigkeit-01-Lösung>`
 
 ----
@@ -46,8 +46,8 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 * (*) Ein Läufer legt eine Strecke :math:`s = \unit[10]{km}` in einer Zeit von
   :math:`t = \unit[30]{min}` zurück. Wie groß ist seine
-  Durchschnittsgeschwindigkeit? 
-  
+  Durchschnittsgeschwindigkeit?
+
   :ref:`Lösung <Geschwindigkeit-02-Lösung>`
 
 ----
@@ -56,8 +56,8 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 * (*) Der Weltrekord im :math:`\unit[100]{m}`-Lauf aus dem Jahr 2009 liegt bei
   :math:`t=\unit[9,58]{s}`. Welche mittlere Geschwindigkeit in
-  :math:`\unit[]{km/h}` hatte der Läufer? 
-  
+  :math:`\unit[]{km/h}` hatte der Läufer?
+
   :ref:`Lösung <Geschwindigkeit-03-Lösung>`
 
 ----
@@ -66,8 +66,8 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 * (*) Welche Durchschnittsgeschwindigkeit erreicht ein Zug, der um 9:05 Uhr in
   Augsburg abfährt und um 12:35 Uhr im :math:`s = \unit[245]{km}` weit
-  entfernten Würzburg ankommt? 
-  
+  entfernten Würzburg ankommt?
+
   :ref:`Lösung <Geschwindigkeit-04-Lösung>`
 
 ----
@@ -85,7 +85,7 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 * (*) Das Licht legt in einer Sekunde rund :math:`\unit[300 000]{km}` zurück. Die
   Entfernung Erde-Sonne beträgt ungefähr :math:`s = \unit[150 000 000]{km}`.
-  Welche Zeit benötigt das Licht von der Sonne zur Erde? 
+  Welche Zeit benötigt das Licht von der Sonne zur Erde?
 
   :ref:`Lösung <Geschwindigkeit-06-Lösung>`
 
@@ -105,7 +105,7 @@ Bewegungen <Geradlinige Bewegungen>`.
 * (*) Die Schallgeschwindigkeit in Luft beträgt ca. :math:`v = \unit[330]{m/s}`.
   Ein Wanderer steht gegenüber einer großen Felswand und ruft laut
   "Haallooo!!". Erst nach einer Zeit von :math:`t = \unit[5]{s}` hört er ein
-  Echo. Wie weit ist die Felswand vom Wanderer entfernt? 
+  Echo. Wie weit ist die Felswand vom Wanderer entfernt?
 
   :ref:`Lösung <Geschwindigkeit-08-Lösung>`
 
@@ -124,7 +124,7 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 ----
 
-.. rubric:: Aufgaben zur geradlinigen Bewegung mit konstanter Beschleunigung 
+.. rubric:: Aufgaben zur geradlinigen Bewegung mit konstanter Beschleunigung
 
 ----
 
@@ -148,7 +148,7 @@ Bewegungen <Geradlinige Bewegungen>`.
 
   :ref:`Lösung <Beschleunigung-02-Lösung>`
 
-..  
+..
     Aufgabe: v-t-diagramm konstante Beschleunigung. Zurückgelegte Wegstrecke?
 
 ----
@@ -172,7 +172,7 @@ Bewegungen <Geradlinige Bewegungen>`.
   :math:`h=\unit[5,0]{m}` ins Wasser. Der Luftwiderstand kann hierbei
   vernachlässigt werden, die Erdbeschleunigung beträgt :math:`g =
   \unit[9,81]{m/s^2}`. Wie lange dauert seine Flugzeit, und welche
-  Geschwindigkeit hat er in dem Moment, in dem er ins Wasser eintaucht? 
+  Geschwindigkeit hat er in dem Moment, in dem er ins Wasser eintaucht?
 
   :ref:`Lösung <Beschleunigung-04-Lösung>`
 
@@ -197,11 +197,11 @@ Bewegungen <Geradlinige Bewegungen>`.
 * (**) Wie groß ist die Beschleunigung, die ein Fahrer bei frontalem Aufprall
   eines Fahrzeugs gegen eine Mauer erfährt, wenn die Knautschzone :math:`\Delta
   s = \unit[0,5]{m}` und die Aufprallgeschwindigkeit :math:`v = \unit[30]{km/h}`
-  beträgt? 
+  beträgt?
   Wie groß ist die Beschleunigung, wenn das Fahrzeug nicht gegen eine Wand
   fährt, sondern frontal auf ein baugleiches und gleich schnell in die
-  Gegenrichtung fahrendes Fahrzeug trifft? 
-  
+  Gegenrichtung fahrendes Fahrzeug trifft?
+
   Wie groß ist die Beschleunigung, wenn die Aufprallgeschwindigkeit bei
   :math:`\unit[50]{km/h}` oder :math:`\unit[100]{km/h}` liegt?
 
@@ -224,7 +224,7 @@ Bewegungen <Kreisförmige Bewegungen>`.
 * (*) Ein Stein wird an eine Schnur gebunden und im Kreis geschleudert;
   plötzlich reißt die Schnur. In welcher Richtung fliegt der Stein weiter? Um
   was für einen Bewegungstyp handelt es sich folglich bei einer kreisförmigen
-  Bewegung? 
+  Bewegung?
 
   :ref:`Lösung <Kreisbewegung-01-Lösung>`
 
@@ -257,7 +257,7 @@ Bewegungen <Kreisförmige Bewegungen>`.
   der auf Höhe des Äquators mit der Erde (Radius :math:`r _{\rm{E}} =
   \unit[6378]{km}`) mitrotiert? Wie groß ist :math:`a _{\rm{\varphi}}` bei einem
   Körper, der sich auf Höhe des 45. nördlichen Breitengrades bzw. am Nordpol
-  befindet? 
+  befindet?
 
   :ref:`Lösung <Radialbeschleunigung-02-Lösung>`
 
@@ -290,7 +290,7 @@ Bewegungen <Zusammengesetzte Bewegungen>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Kinematik>`

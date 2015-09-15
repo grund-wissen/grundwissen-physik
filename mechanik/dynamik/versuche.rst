@@ -12,7 +12,7 @@ Die folgenden Versuche beziehen sich auf die Abschnitte :ref:`Kraft <Kraft>`.
 und :ref:`Arten mechanischer Kräfte <Arten mechanischer Kräfte>`.
 
 ----
- 
+
 .. _Kraft und Verformung:
 
 .. rubric:: Kraft und Verformung
@@ -23,7 +23,7 @@ und :ref:`Arten mechanischer Kräfte <Arten mechanischer Kräfte>`.
     :columns: 2
 
     * Eine Sperrholz-Platte (:math:`4 \text{ bis } \unit[6]{mm}` dick)
-    * Zwei Holzklötze :math:`(6 \times 6 \text{ oder } \unit[8 \times 8]{cm})` 
+    * Zwei Holzklötze :math:`(6 \times 6 \text{ oder } \unit[8 \times 8]{cm})`
     * Verschiedene Gewichte
 
 .. figure::
@@ -58,7 +58,7 @@ und :ref:`Arten mechanischer Kräfte <Arten mechanischer Kräfte>`.
 .. rubric:: Verformung einer Schraubenfeder
 
 Dieses klassische Experiment zum "Hookeschen Gesetz" zeigt, wie Federkraftmesser
-funktionieren. 
+funktionieren.
 
 *Material:*
 
@@ -67,7 +67,7 @@ funktionieren.
 
     * Eine weiche bis mittelharte Schraubenfeder
     * Verschieden schwere Haken-Gewichte :math:`(3 \times \unit[10]{g},\; 1 \times
-      \unit[20]{g})` 
+      \unit[20]{g})`
     * Stativmaterial (ein Stativfuß, je eine lange und eine kurze Stativstange,
       zwei Quermuffen)
 
@@ -100,7 +100,7 @@ lassen.
     :columns: 2
 
     * Eine oder mehrere mittelharte Schraubenfeder(n)
-    * Zwei oder mehrere Gewichte der Masse :math:`\unit[100]{g}` 
+    * Zwei oder mehrere Gewichte der Masse :math:`\unit[100]{g}`
     * Stativmaterial (ein Stativfuß, je eine lange und eine kurze Stativstange,
       zwei Quermuffen)
     * Ein Lineal
@@ -136,7 +136,7 @@ Zentripetalkraft bei einer Modell-Zentrifuge schön veranschaulicht.
 
     * Säge von einer Dachlatte ein :math:`\unit[20]{cm}` langes Stück ab und
       bringe eine exakt mittige Bohrung mit einem :math:`\unit[10]{mm}` dicken
-      Bohrer an. 
+      Bohrer an.
     * Säge anschließend zwei weitere :math:`\unit[5]{cm}` lange Stücke ab,
       bringe je eine mittige Markierung :math:`\unit[]{cm}` von einem einem der
       beiden Enden entfernt an und bohre an diesen Stellen mit Hilfe eines
@@ -148,7 +148,7 @@ Zentripetalkraft bei einer Modell-Zentrifuge schön veranschaulicht.
     * Befestige die Hauptleiste mittig mit zwei Unterlegscheiben und
       (Stop-)Muttern an einer langen Schlossschraube. Saege den Kopf der
       Schraube ab und feile das abgeschnittene Ende nach, und fertig ist der
-      Aufnahmeschaft (für Handgetriebe, Experimentiermotor oder Bohrmaschinen). 
+      Aufnahmeschaft (für Handgetriebe, Experimentiermotor oder Bohrmaschinen).
 
 *Material:*
 
@@ -217,8 +217,8 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
 .. hlist::
     :columns: 2
 
-    * Vier Federkraftmesser :math:`(\unit[10]{N})` 
-    * Holzklotz mit großer Bohrung 
+    * Vier Federkraftmesser :math:`(\unit[10]{N})`
+    * Holzklotz mit großer Bohrung
     * Schraubzwinge
     * Drei Hakenschrauben
     * Ein dreieckiges Metallstück mit drei Bohrungen entlang einer Kante und
@@ -228,7 +228,7 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
 *Durchführung:*
 
 - Drehe die drei Hakenschrauben in einer Reihe in den Holzklotz. Befestige ihn
-  mittels einer Schraubzwinge am Rand einer Tischplatte. 
+  mittels einer Schraubzwinge am Rand einer Tischplatte.
 - Hänge einen Federkraftmesser an der mittleren Hakenschraube ein. Welche Kraft
   zeigt er an, wenn du mit einem anderen Federkraftmesser mit einer Kraft von
   :math:`\unit[5]{N}` an ihm ziehst?
@@ -250,7 +250,7 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Dynamik>`

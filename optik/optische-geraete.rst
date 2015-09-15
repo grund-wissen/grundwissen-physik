@@ -26,7 +26,7 @@ weiterleiten.
     Schematischer Aufbau eines Auges.
 
     .. only:: html
-    
+
         :download:`SVG: Auge
         <../pics/optik/auge.svg>`
 
@@ -48,7 +48,7 @@ Abhilfen>` ein unscharfes Bild erzeugen könnten.
     Strahlengang und Bildentstehung im Auge.
 
     .. only:: html
-    
+
         :download:`SVG: Strahlengang im Auge
         <../pics/optik/auge-strahlengang.svg>`
 
@@ -73,7 +73,7 @@ notwendig, um nahe liegende Gegenstände betrachten zu können.
 .. rubric:: Weit- und Kurzsichtigkeit
 
 Zu den häufigsten Sehfehlern zählen die so genannte Weit- bzw.
-Kurzsichtigkeit. 
+Kurzsichtigkeit.
 
 * Bei der Weitsichtigkeit ist der Augapfel "zu klein", das von der Augenlinse
   erzeugte Bild liegt also hinter der Netzhaut. In diesem Fall kann eine
@@ -87,10 +87,10 @@ Kurzsichtigkeit.
     :name: fig-auge-weitsichtigkeit
     :alt:  fig-auge-weitsichtigkeit
 
-    Weitsichtigkeit ohne und mit Sehhilfe. 
+    Weitsichtigkeit ohne und mit Sehhilfe.
 
     .. only:: html
-    
+
         :download:`SVG: Weitsichtigkeit
         <../pics/optik/auge-weitsichtigkeit.svg>`
 
@@ -106,16 +106,16 @@ Kurzsichtigkeit.
     :name: fig-auge-kurzsichtigkeit
     :alt:  fig-auge-kurzsichtigkeit
 
-    Kurzsichtigkeit ohne und mit Sehhilfe. 
+    Kurzsichtigkeit ohne und mit Sehhilfe.
 
     .. only:: html
-    
+
         :download:`SVG: Kurzsichtigkeit
         <../pics/optik/auge-kurzsichtigkeit.svg>`
 
 Beide Sehfehler können angeboren sein, wenn die Größe des Augapfels von der
 "normalen" Größe abweicht. Ebenso kann bei der Kurzsichtigkeit die Augenlinse zu
-stark bzw. bei der Kurzsichtigkeit zu schwach gekrümmt sein. 
+stark bzw. bei der Kurzsichtigkeit zu schwach gekrümmt sein.
 
 Bei der Weitsichtigkeit kann auch ein altersbedingtes Nachlassen des Ringmuskels
 bzw. einer Verhärtung der Augenlinse zu einer zu schwachen Brechkraft der
@@ -127,11 +127,11 @@ Brechkraft ausgeglichen werden.
 
 ..  .. _Astigmatismus:
 
-..  .. rubric:: Astigmatismus 
+..  .. rubric:: Astigmatismus
 
 ..  Da die Netzhaut gewölbt ist, muss das Linsensystem des Auges ein
 ..  ebenso gewölbtes Bild erzeugen. Dies gelingt dadurch, dass die Wölbung des
-..  Auges 
+..  Auges
 .. Ist die Hornhaut des Auges allerdings ungleichmässig gekrümmt, so spricht
 ..  man von einem Astigmatismus. Abhilfe kann in diesem Fall eine passende
 ..  Zylinderlinse schaffen.
@@ -143,7 +143,7 @@ Brechkraft ausgeglichen werden.
 ..  zueinander stehenden Richtung unterschiedlich stark
 ..  gewölbt ist.
 ..  Abhilfe schaffen in diesem Fall Zylinderlinsen, deren Stärke und Ausrichtung
-..  auf jedes Auge individuell abbestimmt werden muss. 
+..  auf jedes Auge individuell abbestimmt werden muss.
 ..  Durch geeignete Formgebung der Gläser lassen sich mit nur einer Brille alle drei
 ..  Fehlsichtigkeiten kompensieren.
 
@@ -172,7 +172,7 @@ Sehwinkel bezeichnet.
     Netzhaut erscheint.
 
     .. only:: html
-    
+
         :download:`SVG: Sehwinkel
         <../pics/optik/auge-sehwinkel.svg>`
 
@@ -191,7 +191,7 @@ genannten deutlichen Sehweite :math:`s_0 = \unit[25]{cm}` üblicherweise zwei
 Für kleine Sehwinkel :math:`\varepsilon` gilt näherungsweise:
 
 .. math::
-    
+
     {\color{white}\ldots}\varepsilon = \frac{\text{Größe des Gegenstands}}{\text{Abstand zum
     Gegenstand}}
 
@@ -208,7 +208,7 @@ Sehwinkel erscheint. Formal lässt sich die Vergrößerung :math:`V` eines
 optischen Geräts folgendermaßen definieren:
 
 .. math::
-    
+
     V = \frac{\text{Sehwinkel mit Sehhilfe}}{\text{Sehwinkel ohne Sehhilfe}}
 
 ..  Die Lupe bringt man nun in eine etwas geringere Entfernung zum Gegenstand als
@@ -259,7 +259,7 @@ vergrößert betrachtet. [#]_
     Strahlengang in einem Kepler-Fernrohr.
 
     .. only:: html
-    
+
         :download:`SVG: Kepler-Fernrohr
         <../pics/optik/fernrohr-kepler.svg>`
 
@@ -269,7 +269,7 @@ Verhältnis der Brennweite :math:`f _{\rm{Obj}}` des Objektivs zur Brennweite
 
 .. math::
     :label: eqn-fernrohr-kepler
-    
+
     V _{\rm{K}} = \frac{f _{\rm{Obj}}}{f _{\rm{Ok}}}
 
 Neben der (verhältnismäßig geringen) Vergrößerung des Sehwinkels bewirkt das
@@ -288,7 +288,7 @@ befindet.
 ..  .. rubric:: Variante: Das Spiegelteleskop
 
 ..  In der Astronomie verwendet man anstelle des ursprünglichen Kepler-Fernrohrs
-..  sehr häufig so genannte Spiegelteleskope. 
+..  sehr häufig so genannte Spiegelteleskope.
 
 ..  Ein Spiegelteleskop hat die gleiche Vergrößerungseigenschaft wie ein
 ..  Kepler-Fernrohr, es kann allerdings durch die Verwendung von Spiegeln einen sehr
@@ -329,7 +329,7 @@ seitenvertauschtes Bild des Gegenstands innerhalb des Tubus.
     Größe des Bildes auf der Netzhaut bzw. den Sehwinkel ohne Mikroskop an.
 
     .. only:: html
-    
+
         :download:`SVG: Lichtmikroskop
         <../pics/optik/lichtmikroskop.svg>`
 
@@ -338,8 +338,8 @@ Durch das Okular, das wie eine Lupe wirkt, wird das vom Objektiv erzeugte
 (Zwischen-)Bild unter einer nochmaligen Vergrößerung betrachtet. Die gesamte
 Vergrößerung des Mikroskops entspricht dem Produkt der Vergrößerungen von
 Objektiv und Okular.
- 
-..  Das einem Kondensorlinsensystem, 
+
+..  Das einem Kondensorlinsensystem,
 
 ..  Bei modernen Mikroskopen findet man meist mehrere Objektive zur Wahl in einem
 ..  drehbaren Objektivrevolver angeordnet, um die Vergrößerung optimal wählen zu
@@ -364,7 +364,7 @@ wesentlich stärker gekrümmten Zerstreuungslinselinse als Okular.
     Strahlengang in einem Galilei-Fernrohr.
 
     .. only:: html
-    
+
         :download:`SVG: Galilei-Fernrohr
         <../pics/optik/fernrohr-galilei.svg>`
 
@@ -373,17 +373,17 @@ Gegenstände, die sich weit außerhalb der doppelten Brennweite des Objektivs
 befinden. Im Gegensatz zum Kepler-Fernrohr schneiden sich jedoch die von der
 Objektivlinse gebündelten Lichtstrahlen nicht innerhalb des Fernrohrs; vielmehr
 werden die einfallenden Strahlen durch das Okular wieder so gestreut, dass sie
-parallel zu den ursprünglichen Strahlen verlaufen. 
+parallel zu den ursprünglichen Strahlen verlaufen.
 
 Ein Galilei-Fernrohr erzeugt also kein Zwischenbild, sondern vergrößert
 lediglich den Sehwinkel, unter dem der betrachtete Gegenstand erscheint. Die
 Vergrößerung :math:`V` eines Galilei-Fernrohrs kann -- ebenso wie bei einem
 Kepler-Fernrohr -- anhand der (positiven) Brennweiten :math:`f _{\rm{Obj}}` und
-:math:`f _{\rm{Ok}}` der beiden Linsen berechnet werden: 
+:math:`f _{\rm{Ok}}` der beiden Linsen berechnet werden:
 
 .. math::
     :label: eqn-fernrohr-galilei
-    
+
     V _{\rm{G}} = \frac{f _{\rm{Obj}}}{f _{\rm{Ok}}}
 
 Die Mindestlänge :math:`l _{\rm{G}}` eines Kepler-Fernrohrs ist gleich der
@@ -404,8 +404,8 @@ Fernrohrs wiederum auf parallele Strahlen abgebildet.
 
 .. [#] Diese Fähigkeit ist bei neugeborenen Kindern in den ersten Lebenstagen
     noch nicht vorhanden; es dauert etwa eine Woche, bis die Sinneswahrnehmungen des
-    Auges vom Gehirn "richtig" verarbeitet werden. 
-    
+    Auges vom Gehirn "richtig" verarbeitet werden.
+
     Mittels einer so genannten "Umkehrbrille" kann die gegenteilige Erfahrung
     auch im späteren Lebensalter experimentell nochmals nachempfunden werden.
 
@@ -413,14 +413,14 @@ Fernrohrs wiederum auf parallele Strahlen abgebildet.
     Zwischenbild innerhalb der einfachen Brennweite, also zwischen der Linse und
     dem zugehörigen Brennpunkt :math:`F_2` befinden. Damit diese Bedingung
     erfüllt ist, kann bei Kepler-Fernrohren üblicherweise der Abstand zwischen
-    Objektiv und Okular manuell eingestellt werden. 
+    Objektiv und Okular manuell eingestellt werden.
 
 
 .. raw:: html
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu optischen
     Geräten>`.

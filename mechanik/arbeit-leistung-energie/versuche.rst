@@ -1,6 +1,6 @@
 .. _Versuche zu Arbeit, Leistung und Energie:
 
-Versuche zu Arbeit, Leistung und Energie 
+Versuche zu Arbeit, Leistung und Energie
 ========================================
 
 .. _Versuche zu mechanischer Arbeit:
@@ -13,7 +13,7 @@ Arbeit <Mechanische Arbeit>`.
 
 ----
 
-.. _Einfache Beispiele mechanischer Arbeit: 
+.. _Einfache Beispiele mechanischer Arbeit:
 
 .. rubric:: Einfache Beispiele mechanischer Arbeit
 
@@ -75,7 +75,7 @@ Leistung <Leistung>`.
     Tabelle zur Leistungsmessung im Treppenhaus.
 
     .. only:: html
-    
+
         :download:`SVG: Leistungsmessung im Treppenhaus
         <../../pics/mechanik/arbeit-energie-leistung/leistung-im-treppenhaus.svg>`
 
@@ -125,9 +125,9 @@ Energie <Mechanische Energie>`.
 *Durchführung:*
 
 - Lasse einen Flummi aus einer bestimmten Höhe (z.B. :math:`h = \unit[1,5]{m}`)
-  auf eine Stahl- oder Holzplatte oder auf Sand fallen. 
+  auf eine Stahl- oder Holzplatte oder auf Sand fallen.
 - Wie hoch springt der Ball zurück? Messe die Sprunghöhe und überlege, wie viel
-  Prozent der Ausgangshöhe :math:`h` sie beträgt. 
+  Prozent der Ausgangshöhe :math:`h` sie beträgt.
 - Welche Energieumwandlungen sind aufgetreten? Was ist mit der "verlorenen"
   Energiemenge geschehen?
 
@@ -167,7 +167,7 @@ Energie <Mechanische Energie>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Arbeit, Leistung und Energie>`

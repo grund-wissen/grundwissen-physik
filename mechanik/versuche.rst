@@ -17,5 +17,5 @@ Versuche zur Mechanik
 
 ..  schwingungen-und-wellen/versuche.rst
 
-    
+
 

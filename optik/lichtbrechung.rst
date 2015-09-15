@@ -7,10 +7,10 @@ Lichtbrechung
 
 Trifft Licht auf die Grenzfläche zweier Stoffe, so wird es zum Teil reflektiert,
 zum Teil verändert es an der Grenze beider Stoffe seine Richtung. Senkrecht
-auftreffendes Licht ändert seine Richtung nicht. 
+auftreffendes Licht ändert seine Richtung nicht.
 
 .. index:: Brechungsgesetz
-.. _Brechungsgesetz: 
+.. _Brechungsgesetz:
 
 Das Brechungsgesetz
 -------------------
@@ -50,8 +50,8 @@ Winkelgrößen einen konstanten, vom Material abhängigen Wert, der als
 
 .. math::
     :label: eqn-brechzahl-absolut
-    
-    n = \frac{\sin{\alpha} }{\sin{\beta} } 
+
+    n = \frac{\sin{\alpha} }{\sin{\beta} }
 
 Die (absolute) Brechzahl :math:`n` gegenüber dem Vakuum ist eine für jeden Stoff
 charakteristische Materialeigenschaft. [#]_ Sie gibt gleichzeitig das
@@ -61,7 +61,7 @@ Stoff an:
 
 .. math::
     :label: eqn-brechzahl-lichtgeschwindigkeit
-    
+
     n = \frac{c_0}{c}
 
 Für die Brechzahl von Vakuum gilt nach der obigen Formel :math:`n _{\rm{0}}=1`,
@@ -79,7 +79,7 @@ Versuchen zur Materialbestimmung genutzt werden.
     :name: tab-brechzahlen
 
     * - Stoff
-      - Brechzahl :math:`n _{\rm{0}}` 
+      - Brechzahl :math:`n _{\rm{0}}`
     * - Eis
       - :math:`1,31`
     * - Wasser
@@ -101,7 +101,7 @@ des Einfalls- und Brechungswinkels stehen:
 
 .. math::
     :label: eqn-brechungsgesetz
-    
+
     \frac{n_2}{n_1} = \frac{\sin{\alpha}}{\sin{\beta}}
 
 *Beispiel:*
@@ -112,10 +112,10 @@ des Einfalls- und Brechungswinkels stehen:
   :math:`1`:
 
   .. math::
-      
+
     n _{\mathrm{Luft \rightarrow  Wasser}} = \frac{c _{\rm{Luft}}}{c _{\rm{Wasser}}} =
     \frac{\unit[300 000]{\frac{km}{s} } }{\unit[225 000]{\frac{km}{s} } } = 1,33
-  
+
   Das bedeutet nichts anderes, als dass der Einfallswinkel :math:`\alpha` des
   Lichts um den Faktor :math:`1,33` größer ist als der Brechungswinkel
   :math:`\beta`. Das Licht wird zur senkrechten Gerade hin gebrochen.
@@ -136,7 +136,7 @@ diesem Fall größer als der Einfallswinkel :math:`\alpha`. Konkret gilt:
 
 .. math::
     :label: eqn-totalreflexion-1
-    
+
     \sin{\alpha } = \frac{n _{\rm{2}}}{n _{\rm{1}}} \cdot \sin{\beta }
 
 .. figure::
@@ -155,14 +155,14 @@ diesem Fall größer als der Einfallswinkel :math:`\alpha`. Konkret gilt:
 
 Bei einem bestimmten, von den beiden Materialien abhängigen Einfallswinkel
 :math:`\alpha _{\rm{max}}` nimmt der Brechungswinkel :math:`\beta` den Wert
-:math:`90^{\circ}` an. In diesem Fall kann der einfallende Lichtstrahl nicht mehr aus
+:math:`90\degree` an. In diesem Fall kann der einfallende Lichtstrahl nicht mehr aus
 dem optisch dichteren Medium in das optisch dünnere Medium übergehen, sondern
 wird reflektiert bzw. verläuft längs der Grenzfläche beider Medien. Da hierbei
-:math:`\sin{90^{\circ}} = 1` gilt, vereinfacht sich die obige Gleichung
+:math:`\sin{90\degree} = 1` gilt, vereinfacht sich die obige Gleichung
 :eq:`eqn-totalreflexion-1` zu folgender Formel:
 
 .. math::
-    \sin{\alpha _{\rm{max}}} = \frac{n _{\rm{2}}}{n _{\rm{1}}} 
+    \sin{\alpha _{\rm{max}}} = \frac{n _{\rm{2}}}{n _{\rm{1}}}
 
 .. figure::
     ../pics/optik/lichtbrechung-totalreflexion.png
@@ -193,7 +193,7 @@ von Totalreflexion anhand der beiden Brechzahlen :math:`n _{\rm{1}}` und
 Hierbei ist zu beachten, dass bei der Totalreflexion :math:`n_1` die Brechzahl
 des optisch dichteren und :math:`n_2` die Brechzahl des optisch dünneren Mediums
 bezeichnet, also :math:`n_1 > n_2` und somit :math:`\frac{n_1}{n_2} < 1` gilt.
-Andernfalls kann keine Totalreflexion stattfinden. 
+Andernfalls kann keine Totalreflexion stattfinden.
 
 ..  Die Arcus-Sinus-Funktion :math:`\text{asin}` ist für Werte :math:`>1` nicht
 ..  definiert.
@@ -203,12 +203,12 @@ Andernfalls kann keine Totalreflexion stattfinden.
 * Für den Übergang eines Lichtstrahls von Wasser in Luft ist :math:`n _{\rm{1}}
   = 1,33` und :math:`n _{\rm{2}} = 1`. Somit ergibt :math:`\frac{n _{\rm{2}} }{n
   _{\rm{1}} } \approx 0,752` und :math:`\alpha = \text{sin} ^{-1}(0,752)  \cdot
-  \frac{360 ^{\circ}}{2 \cdot \pi} \approx 48,75^{\circ}`.
+  \frac{360 \degree}{2 \cdot \pi} \approx 48,75\degree`.
 
 * Für den Übergang eines Lichtstrahls von Quarzglas in Wasser ist :math:`n
   _{\rm{1}} = 1,46` und :math:`n _{\rm{2}} = 1,33`. Somit ergibt :math:`\frac{n
   _{\rm{2}} }{n _{\rm{1}} } \approx 0,911` und :math:`\alpha = \text{sin}
-  ^{-1}(0,911) \cdot \frac{360 ^{\circ}}{2 \cdot \pi} \approx 65,64^{\circ}`.
+  ^{-1}(0,911) \cdot \frac{360 \degree}{2 \cdot \pi} \approx 65,64\degree`.
 
 Je größer der Unterschied der Brechzahlen :math:`n _{\rm{1}}` und :math:`n
 _{\rm{2}}` ist, desto kleiner ist der Grenzwinkel :math:`\alpha _{\rm{max}}`, ab
@@ -216,7 +216,7 @@ dem Totalreflexion auftritt. Ist der Einfallswinkel größer als der Grenzwinkel
 :math:`(\alpha > \alpha _{\rm{max}})`, so wird der Lichtstrahl an der
 Grenzfläche vollständig gemäß dem :ref:`Reflexionsgesetz <Reflexionsgesetz>`
 zurückgeworfen. Diese Eigenschaft wird zur Konstruktion von optischen Glasfaser-
-bzw. Kunstfaserkabeln als so genannte "Lichtleiter" genutzt. 
+bzw. Kunstfaserkabeln als so genannte "Lichtleiter" genutzt.
 
 .. figure::
     ../pics/optik/lichtleiter.png
@@ -225,7 +225,7 @@ bzw. Kunstfaserkabeln als so genannte "Lichtleiter" genutzt.
     :name: fig-lichtleiter
     :alt:  fig-lichtleiter
 
-    Totalreflexion in einem Lichtleiter. 
+    Totalreflexion in einem Lichtleiter.
 
     .. only:: html
 
@@ -266,7 +266,7 @@ Lichtstrahl durch einen einzelnen, geraden Lichtstrahl ersetzt werden.
 
 Eine :ref:`Totalreflexion <Totalreflexion>` kann in diesem Fall nicht
 auftreten, da der Austrittswinkel des Lichtstrahls gleich dem Eintrittswinkel
-ist und für diesen (von der Senkrechten aus gemessen) stets :math:`\alpha < 90^{\circ}`
+ist und für diesen (von der Senkrechten aus gemessen) stets :math:`\alpha < 90\degree`
 gilt.
 
 .. index:: Prisma
@@ -295,14 +295,14 @@ Ende des Prismas hin abgelenkt.
 
 Umso größer der Keilwinkel :math:`\gamma` des Prismas ist (d.h. je stumpfer das
 Prisma ist), desto stärker ist der Winkel :math:`\delta`, um den der einfallende
-Lichtstrahl abgelenkt wird. 
+Lichtstrahl abgelenkt wird.
 
 Bei sehr stumpfen Prismen ist sogar eine Totalreflexion des einfallenden Lichts
 an dem Lichtstrahl gegenüber liegenden Fläche auftreten. Hierbei kann eine
-Ablenkung des Lichts um :math:`90^{\circ}` bzw. :math:`180^{\circ}` erreicht
+Ablenkung des Lichts um :math:`90\degree` bzw. :math:`180\degree` erreicht
 werden. Derartige "Umkehrprismen" werden beispielsweise in Fernrohre oder
 Fotokameras eingebaut, um eine Umlenkung  bzw. Vertauschung parallel
-einfallender Strahlen zu erreichen. 
+einfallender Strahlen zu erreichen.
 
 .. figure::
     ../pics/optik/lichtbrechung-umkehrprisma.png
@@ -311,7 +311,7 @@ einfallender Strahlen zu erreichen.
     :name: fig-lichtbrechung-umkehrprisma
     :alt:  fig-lichtbrechung-umkehrprisma
 
-    Ablenkung von Lichtstrahlen um :math:`90^{\circ}` bzw. :math:`180^{\circ}`
+    Ablenkung von Lichtstrahlen um :math:`90\degree` bzw. :math:`180\degree`
     an rechtwinkligen Prismen.
 
     .. only:: html
@@ -331,7 +331,7 @@ Geschliffene Gläser können einfallende Lichtstrahlen -- je nach Bauform --
 bündeln oder zerstreuen. Solche glasartigen Körper, die meist kreisförmig sind
 und eine bestimmte Krümmung aufweisen, werden als "optische Linsen" bezeichnet.
 Ein bekanntes Beispiel ist die Lupe, mit deren Hilfe man ein vergrößertes Bild
-eines Gegenstandes erhalten kann. 
+eines Gegenstandes erhalten kann.
 
 .. figure::
     ../pics/optik/optische-linsen.png
@@ -353,30 +353,30 @@ Um die Bildentstehung an einer optischen Linse zu erklären, verwendet man
 Spiegeln <Gekrümmte Spiegel>`:
 
 
-* Optische Achse: 
+* Optische Achse:
 
     Die Gerade, die durch die Mitte der Linse verläuft und senkrecht zur
-    Linsenebene steht, heißt optische Achse. 
+    Linsenebene steht, heißt optische Achse.
 
-* Parallelstrahlen: 
+* Parallelstrahlen:
 
     Alle Strahlen, die parallel zur optischen Achse auf eine optische Linse
     treffen, heißen Parallelstrahlen. Sie werden durch die Linse gesammelt bzw.
     zerstreut und schneiden sich in einem gemeinsamen Punkt hinter bzw. vor der
     Linse. Dieser Punkt auf der optischen Achse wird Brennpunkt :math:`F`
-    genannt. 
+    genannt.
 
     Der Abstand zwischen Linsenmittelpunkt und einem Brennpunkt wird Brennweite
     :math:`f` genannt. Die Brennweite einer optischen Linse ist umso größer,
-    desto flacher die Linse ist. 
-    
-* Brennpunktstrahlen: 
+    desto flacher die Linse ist.
+
+* Brennpunktstrahlen:
 
     Alle Strahlen, die durch einen Brennpunkt einer optischen Linse verlaufen,
     werden durch die Linse so gebrochen, dass sie hinter der Linse parallel zur
     optischen Achse verlaufen.
 
-* Mittelpunktstrahlen: 
+* Mittelpunktstrahlen:
 
     Strahlen, die durch den Linsenmittelpunkt verlaufen, werden beim Eintritt in
     das Linsenglas ebenso stark gebrochen wie beim Austritt. Mittelpunktstrahlen
@@ -386,7 +386,7 @@ Spiegeln <Gekrümmte Spiegel>`:
 
 Zeichnet man für einen beliebigen Gegenstandspunkt :math:`G` zwei oder drei der
 oben genannten Strahlen ein, so erhält man den passenden Bildpunkt als
-Schnittpunkt der Strahlen. 
+Schnittpunkt der Strahlen.
 
 
 .. _Bildentstehung an einer Sammellinse:
@@ -412,7 +412,7 @@ Brennweite befinden.
     Bildentstehung an einer Sammellinse (Gegenstand außerhalb der Brennweite).
 
     .. only:: html
-    
+
         :download:`SVG: Bildentstehung an einer Sammellinse 1
         <../pics/optik/bildentstehung-sammellinse-ausserhalb-brennweite.svg>`
 
@@ -425,7 +425,7 @@ Schnittpunkt der gebrochenen Strahlen entspricht der Lage des Bildes.
 Nähert man einen Gegenstand vom Brennpunkt her einer Sammellinse, so nähert sich
 auch das Bild der Sammellinse. Sammellinsen erzeugen vergrößerte und aufrechte
 Bilder der Gegenstände, wenn sie sich innerhalb der Brennweite befinden
-(Lupeneffekt). 
+(Lupeneffekt).
 
 .. figure::
     ../pics/optik/bildentstehung-sammellinse-innerhalb-brennweite.png
@@ -437,7 +437,7 @@ Bilder der Gegenstände, wenn sie sich innerhalb der Brennweite befinden
     Bildentstehung an einer Sammellinse (Gegenstand innerhalb der Brennweite).
 
     .. only:: html
-    
+
         :download:`SVG: Bildentstehung an einer Sammellinse 2
         <../pics/optik/bildentstehung-sammellinse-innerhalb-brennweite.svg>`
 
@@ -471,7 +471,7 @@ kleiner als das Original.
     Bildentstehung an einer Zerstreuungslinse
 
     .. only:: html
-    
+
         :download:`SVG: Bildentstehung an einer Zerstreuungslinse
         <../pics/optik/bildentstehung-zerstreuungslinse.svg>`
 
@@ -485,7 +485,7 @@ Mittelpunktstrahl zwischen dem Gegenstand und der Linse.
 .. raw:: html
 
     <hr />
-    
+
 .. only:: html
 
     .. rubric:: Anmerkungen:
@@ -498,8 +498,8 @@ Mittelpunktstrahl zwischen dem Gegenstand und der Linse.
     gilt:
 
     .. math::
-        
-        n = \frac{\sin{\alpha }}{\sin{\beta }} \approx \frac{\alpha }{\beta } 
+
+        n = \frac{\sin{\alpha }}{\sin{\beta }} \approx \frac{\alpha }{\beta }
 
     Für steilere Einfallswinkel muss hingegen stets mit dem Brechungsgesetz
     in der allgemeinen Form :eq:`eqn-brechungsgesetz` gerechnet werden.
@@ -512,13 +512,13 @@ Mittelpunktstrahl zwischen dem Gegenstand und der Linse.
     <http://de.wikipedia.org/wiki/Brechungsindex>`_ von Luft bei
     Normalbedingungen :math:`1,000292`. Starke Temperatur- und
     Feuchtigkeitsschwankungen können zu Abweichungen führen und optische Effekte
-    verursachen (z.B. Fata Morgana). 
+    verursachen (z.B. Fata Morgana).
 
 .. raw:: html
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zur Lichtbrechung>` und
     :ref:`Übungsaufgaben <Aufgaben zur Lichtbrechung>`.

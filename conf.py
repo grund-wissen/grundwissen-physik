@@ -50,7 +50,7 @@ latex_preamble = r"""
 \usepackage{shadow}
 \usepackage{amsmath, units, cancel}
 \usepackage{amsfonts, amssymb,color}
-\usepackage{nicefrac,marvosym,wasysym} 
+\usepackage{nicefrac,marvosym,wasysym, textcomp, gensymb} 
 \usepackage[left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry}
 % \usepackage{mathtools}
 \setcounter{secnumdepth}{-1}

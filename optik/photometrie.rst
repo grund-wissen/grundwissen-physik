@@ -33,7 +33,7 @@ Wellenlängen-Spektrum von ca. :math:`\unit[380]{nm}` bis :math:`\unit[680]{nm}`
     beim menschlichen Auge.
 
     .. only:: html
-    
+
         :download:`SVG: Empfindlichkeit (Zäpfchen)
         <../pics/optik/empfindlichkeit-zaepfchen.svg>`
 
@@ -60,7 +60,7 @@ Magenta, eine Mischung von Grün und Blau ergibt die Farbe Cyan.
     Farbkombinationen bei einer additiven Farbmischung.
 
     .. only:: html
-    
+
         :download:`SVG: Farbmischung (additiv)
         <../pics/optik/farbmischung-additiv.svg>`
 
@@ -91,7 +91,7 @@ Grundfarben, so ergibt sich bei einer vollen Deckkraft die Farbe schwarz.
     Farbkombinationen bei einer subtraktiven Farbmischung.
 
     .. only:: html
-    
+
         :download:`SVG: Farbmischung (subtraktiv)
         <../pics/optik/farbmischung-subtraktiv.svg>`
 
@@ -119,7 +119,7 @@ das Auge gelangen kann. Dabei trifft ein größerer Lichtanteil auf die äußere
 Bereiche der Netzhaut. In diesem Fall tragen die am sensibelsten auf Licht
 reagierenden Zäpfchen für blaues Licht stärker zur gesamten Lichtempfindlichkeit
 des Auges bei. Die höchste Empfindlichkeit verschiebt sich bei dem so genannten
-"Nachtsehen" zu einer Wellenlänge von :math:`\unit[507]{nm}`. 
+"Nachtsehen" zu einer Wellenlänge von :math:`\unit[507]{nm}`.
 
 .. empfindlichkeitskurve
 
@@ -145,7 +145,7 @@ grundlegend:
   _{\rm{out}}` insgesamt von einer Lichtquelle ausgeht:
 
   .. math::
-      
+
       \varPhi = P _{\rm{out}}
 
   Die Einheit des Strahlungsflusses ist Watt :math:`(\unit{W})`.
@@ -154,10 +154,10 @@ grundlegend:
 
 * Die Strahlstärke :math:`I` gibt denjenigen Anteil :math:`\Delta \varPhi` der
   Lichtleistung an, die eine Lichtquelle in den Raumwinkel :math:`\Delta \Omega`
-  abstrahlt: 
+  abstrahlt:
 
   .. math::
-      
+
       I = \frac{\Delta \varPhi}{\Delta \Omega}
 
   Die Einheit der Strahlstärke ist Watt je Steradiant :math:`(\unit{\frac{W}{sr}})`.
@@ -173,7 +173,7 @@ grundlegend:
     Bestrahlungsstärke und Strahldichte.
 
     .. only:: html
-    
+
         :download:`SVG: Bestrahlungsstaerke und Strahldichte
         <../pics/optik/bestrahlungsstaerke-und-strahldichte.svg>`
 
@@ -182,24 +182,24 @@ beziehungsweise leuchtenden Fläche gesetzt. Damit ergeben sich folgende zwei
 weitere Einheiten:
 
 .. index:: Bestrahlungsstärke
- 
+
 * Die Bestrahlungsstärke :math:`E` gibt an, wie viel Watt an Lichtleistung auf
   eine beleuchteter Fläche :math:`A _{\rm{b}}` auftreffen:
 
   .. math::
-      
-      E = \frac{\varPhi}{A _{\rm{b}}} 
+
+      E = \frac{\varPhi}{A _{\rm{b}}}
 
   Die Einheit der Bestrahlungsstärke ist Watt je Quadratmeter
   :math:`(\unit{\frac{W}{m^2}})`.
 
 .. index:: Strahldichte
- 
+
 * Die Strahldichte :math:`L` gibt an, wie viel Watt an Lichtleistung von einer
   leuchtenden Fläche :math:`A _{\rm{l}}` im Raumwinkel :math:`\Omega` ausgehen:
 
   .. math::
-      
+
       L = \frac{I}{A _{\rm{l}}}
 
   Die Einheit der Strahldichte ist Watt je Quadratmeter und Steradiant
@@ -208,7 +208,7 @@ weitere Einheiten:
 Die obigen Größen beziehen sich allgemein auf die abgestrahlte Leistung einer
 Lichtquelle. Das menschliche Auge allerdings ist nicht für alle Lichtfrequenzen
 (Farben) gleich empfindlich: Im grünen Farbbereich (:math:`\lambda \approx
-\unit[555]{nm}`) ist das Auge beim Tagsehen am empfindlichsten. 
+\unit[555]{nm}`) ist das Auge beim Tagsehen am empfindlichsten.
 
 .. figure::
     ../pics/optik/spektrale-empfindlichkeit-auge.png
@@ -220,7 +220,7 @@ Lichtquelle. Das menschliche Auge allerdings ist nicht für alle Lichtfrequenzen
     Spektrale Empfindlichkeit des Auges beim Tagsehen.
 
     .. only:: html
-    
+
         :download:`SVG: Spektrale Empfindlichkeit des Auges
         <../pics/optik/spektrale-empfindlichkeit-auge.svg>`
 
@@ -232,7 +232,7 @@ angibt:
 
 .. math::
     :label: eqn-spektrale-gewichtungsfunktion
-    
+
     K (\lambda) = V (\lambda) \cdot K (\lambda _{\rm{max}})
 
 Der Gewichtungsfaktor :math:`V (\lambda)` hat keine Einheit, sein Wert liegt
@@ -246,17 +246,17 @@ empfunden wird wie eine Lichtquelle mit einer Lichtstärke von
 
 
 .. index:: Lichtstrom, Lumen
- 
+
 * Für den Lichtstrom :math:`\varPhi _{\rm{\nu}}` gilt:
 
   .. math::
-      
+
       \varPhi _{\rm{\nu}} = K (\lambda) \cdot \varPhi
 
   Die Einheit des Lichtstroms ist Lumen :math:`(\unit{lm})`. Es gilt:
 
   .. math::
-      
+
       \unit[1]{lm} = \unit[1]{cd \cdot sr}
 
 .. index:: Lichtstärke
@@ -264,25 +264,25 @@ empfunden wird wie eine Lichtquelle mit einer Lichtstärke von
 * Für die Lichtstärke :math:`I _{\rm{\nu}}` gilt:
 
   .. math::
-      
+
       I _{\rm{\nu}} = K (\lambda) \cdot I
 
   Die Einheit der Lichtstärke ist die SI-Basiseinheit Candela
   :math:`(\unit{cd})`.
-  
+
 
 .. index:: Beleuchtungsstärke, Lux
- 
+
 * Für die Beleuchtungsstärke :math:`E _{\rm{\nu}}` gilt:
 
   .. math::
-      
+
       E _{\rm{\nu}} = K (\lambda) \cdot E
 
   Die Einheit der Beleuchtungsstärke ist Lux :math:`(\unit{lx})`. Es gilt:
-  
+
   .. math::
-      
+
       \unit[1]{lx} = \unit[1]{\frac{cd \cdot sr}{m^2}}
 
 .. index:: Leuchtdichte, Nit
@@ -290,13 +290,13 @@ empfunden wird wie eine Lichtquelle mit einer Lichtstärke von
 * Für die Leuchtdichte :math:`L _{\rm{\nu}}` gilt:
 
   .. math::
-      
+
       L _{\rm{\nu}} = K (\lambda) \cdot E
 
   Die Einheit der Beleuchtungsstärke ist Nit :math:`(\unit{nt})`. Es gilt:
-  
+
   .. math::
-      
+
       \unit[1]{nt} = \unit[1]{\frac{cd}{m^2}}
 
 .. raw:: html

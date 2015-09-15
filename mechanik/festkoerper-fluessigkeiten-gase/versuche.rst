@@ -53,7 +53,7 @@ Flüssigkeiten <Mechanik der Flüssigkeiten>`.
 - Fülle ein U-Rohr etwa zur Hälfte mit Wasser. Verschließe eine der beiden
   Öffnungen mit einem passenden Stopfen. Fülle dann in die andere Öffnung etwas
   Wasser nach. Weshalb steht das Wasser im offenen Rohrstück höher als im
-  abgeschlossenen? 
+  abgeschlossenen?
 - Was sagt die Zustandsgleichung für ideale Gase bzw. das :ref:`Gesetz von
   Boyle-Mariotte <Gesetz von Boyle-Mariotte>` bei den gegebenen Voraussetzungen
   aus? Wie kannst du aus dem Verhältnis der Füllhöhen auf den Gasdruck im
@@ -76,7 +76,7 @@ Flüssigkeiten <Mechanik der Flüssigkeiten>`.
 
 *Durchführung:*
 
-- Fülle beide Kunststoffspritzen ("Kolbenprober") etwa bis zur Hälfte mit Wasser. 
+- Fülle beide Kunststoffspritzen ("Kolbenprober") etwa bis zur Hälfte mit Wasser.
 - Stecke den Kunststoffschlauch auf eine der beiden Spritzen auf und presse
   eventuell vorhandene Luftblasen heraus. Stecke dann das lose Ende des
   Kunststoffschlauchs auf die andere Spritze auf.
@@ -91,7 +91,7 @@ Flüssigkeiten <Mechanik der Flüssigkeiten>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Mechanik der Festkörper, Flüssigkeiten und Gase>`

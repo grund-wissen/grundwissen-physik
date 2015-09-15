@@ -20,8 +20,8 @@ Kräften>` zum Abschnitt :ref:`Kraft <Kraft>`.
     einer Fahrt gegen eine hohe Bordsteinkante: Der Fahrer, der Fahrrad-Rahmen
     sowie das ungebremste Hinterrad behalten aufgrund ihrer Massenträgtheit
     ihre ursprüngliche Bewegungsrichtung und (zunächst) auch ihre
-    Geschwindigkeit bei. 
-    
+    Geschwindigkeit bei.
+
     Da der Weg nach vorne "blockiert" ist, ähnelt die Situation eher einem
     (schwungvollen) Hebelarm, der sich um eine feste Drehachse bewegt: Durch die
     Trägheit seiner Masse wird der Fahrer im schlimmsten Fall über die
@@ -37,7 +37,7 @@ Kräften>` zum Abschnitt :ref:`Kraft <Kraft>`.
 *   Während des Bremsens spürt ein Fahrgast seine Trägheitskraft und
     drückt unbewusst nach hinten. Der plötzliche Wegfall der Trägheitskraft
     beim Anhalten wird jedoch nicht schnell genug bemerkt, und der Körper gibt
-    rückwärts nach. 
+    rückwärts nach.
 
     :ref:`Zurück zur Aufgabe <Trägheit-02>`
 
@@ -51,7 +51,7 @@ Kräften>` zum Abschnitt :ref:`Kraft <Kraft>`.
     geschoben oder gezogen, so liegen die Wirkungslinien der jeweiligen Kraft
     auf einer Linie. In diesem Fall wird der Wagen durch gleich große Zug- oder
     Druckkräfte in gleichem Maße beschleunigt.
-    
+
     :ref:`Zurück zur Aufgabe <Angriffspunkt-und-Wirkungslinie-01>`
 
 ----
@@ -77,7 +77,7 @@ Kräften>` zum Abschnitt :ref:`Kraft <Kraft>`.
       :width: 70%
 
   .. only:: html
-      
+
       .. centered:: :download:`SVG: Kraft und Gegenkraft 1 (Lösung)
                     <../../pics/mechanik/dynamik/kraft-und-gegenkraft-beispiele-1-loesung.svg>`
 
@@ -113,15 +113,15 @@ mechanischer Kräfte>`.
     :math:`g _{\rm{Erde}} = \unit[9,81]{N/kg}`:
 
     .. math::
-        
+
         F _{\rm{G, Erde}} = \unit[1]{kg} \cdot \unit[9,81]{\frac{N}{kg} } =
         \unit[9,81]{N}
 
     Auf dem Mond gilt für den Ortsfaktor :math:`g _{\rm{Mond}} =
-    \unit[1,60]{\frac{N}{kg} }` und somit: 
+    \unit[1,60]{\frac{N}{kg} }` und somit:
 
     .. math::
-        
+
         F _{\rm{G, Mond}} = \unit[1]{kg} \cdot \unit[1,60]{\frac{N}{kg} } =
         \unit[1,60]{N}
 
@@ -129,7 +129,7 @@ mechanischer Kräfte>`.
     :math:`F _{\rm{G, Erde}} = \unit[9,81]{N}` somit etwa :math:`6` mal größer
     als die Gewichtskraft :math:`F _{\rm{G, Mond}} = \unit[1,60]{N}` der
     gleichen Masse auf dem Mond.
-    
+
     :ref:`Zurück zur Aufgabe <Gewichtskraft-01>`
 
 ----
@@ -139,22 +139,22 @@ mechanischer Kräfte>`.
 *   Der Ortsfaktor auf dem Mond ist :math:`g _{\rm{Mond}} = \unit[1,60]{N/kg}`,
     der Ortsfaktor auf der Erde ist :math:`g _{\rm{Erde}} = \unit[9,81]{N/kg}`.
     Der Astronaut spürt auf der Erde somit eine :math:`9,81 / 1,60 \approx
-    6,13`-fache Gewichtskraft: 
+    6,13`-fache Gewichtskraft:
 
     .. math::
-        
+
         F _{\rm{G, Erde}} = \unit[130]{N} \cdot \frac{\unit[9,81]{\frac{N}{kg}
-        }}{\unit[1,60]{\frac{N}{kg} }} \approx  \unit[130]{N} \cdot 6,13 \approx 
+        }}{\unit[1,60]{\frac{N}{kg} }} \approx  \unit[130]{N} \cdot 6,13 \approx
         \unit[797]{N}
-    
+
     Die Masse des Astronauten lässt sich berechnen, indem man seine
     Gewichtskraft durch den jeweiligen Ortsfaktor teilt:
 
     .. math::
-        
+
         m = \frac{\unit[130]{N}}{\unit[1,60]{\frac{N}{kg} }} =
         \frac{\unit[797]{N}}{\unit[9,81]{\frac{N}{kg} }} = \unit[81,25]{kg}
-    
+
     Die Masse des Astronauten beträgt somit :math:`m = \unit[81,25]{kg}`.
 
     :ref:`Zurück zur Aufgabe <Gewichtskraft-02>`
@@ -164,14 +164,14 @@ mechanischer Kräfte>`.
 .. _Reibung-01-Lösung:
 
 *   Ohne Reibung würden die Füße --  extremer als auf Eis -- unkontrollierbar
-    über den Boden gleiten. 
-  
+    über den Boden gleiten.
+
     Tatsächlich muss die Erde immer "dagegen halten", wenn ein Körper (durch
     Muskelkraft oder einen Motor) in eine bestimmte Richtung beschleunigt werden
     soll. Ohne Reibung würde die Erde keine Kraft spüren, und damit wäre auch
     die Gegenkraft der Erde auf den Körper gleich Null. Der Körper erfährt somit
-    keine Beschleunigung. 
-    
+    keine Beschleunigung.
+
     :ref:`Zurück zur Aufgabe <Reibung-01>`
 
 ----
@@ -184,22 +184,22 @@ mechanischer Kräfte>`.
     \unit[0,54]{}` in die Haftreibungs-Gleichung ein, so ergibt sich:
 
     .. math::
-        
+
         F _{\rm{R,H}} = \mu _{\rm{H}} \cdot F _{\rm{G}} = 0,54 \cdot \unit[50]{kg}
         \cdot \unit[9,81]{\frac{N}{kg}} \approx \unit[265]{N}
-    
+
     Es muss somit eine Kraft :math:`F \ge \unit[265]{N}` aufgebracht werden, um
     die Kiste in Bewegung zu versetzen. Um das Gleiten aufrecht zu erhalten,
     muss nur die Gleitreibungskraft :math:`F _{\rm{R,G}}` ausgeglichen werden:
 
     .. math::
-        
+
         F _{\rm{R,G}} = \mu _{\rm{G}} \cdot F _{\rm{G}} = 0,34 \cdot \unit[50]{kg}
         \cdot \unit[9,81]{\frac{N}{kg}} \approx \unit[167]{N}
 
     Somit gilt für die zum (Weiter-)Gleiten der Kiste nötige Kraft :math:`F \ge
     \unit[167]{N}`.
-    
+
     :ref:`Zurück zur Aufgabe <Reibung-02>`
 
 ----
@@ -208,17 +208,17 @@ mechanischer Kräfte>`.
 
 *   Die Federkonstante :math:`k` einer Schraubenfeder ist gleich dem Verhältnis
     aus der auf sie wirkenden Kraft :math:`F` und der resultierenden
-    Längenänderung :math:`\Delta s`: 
+    Längenänderung :math:`\Delta s`:
 
     .. math::
-        
-        k = \frac{F}{\Delta s} 
-    
+
+        k = \frac{F}{\Delta s}
+
     Setzt man die Werte :math:`F = \unit[1]{N}` und :math:`\Delta s =
     \unit[33]{cm} = \unit[0,33]{m}` ein, erhält man:
 
     .. math::
-        
+
         k = \frac{\unit[1]{N}}{\unit[0,33]{m}} = \unit[0,33]{\frac{N}{m} }
 
     Die Federkonstante :math:`k` beträgt somit  :math:`\unit[0,33]{\frac{N}{m} }`.
@@ -234,10 +234,10 @@ mechanischer Kräfte>`.
     = \unit[0,12]{m}`:
 
     .. math::
-        
+
         F _{\rm{S}} = k \cdot s = \unit[40]{\frac{N}{m} } \cdot \unit[0,12]{m} =
         \unit[4,8]{N}
-    
+
     Es ist somit eine Kraft von :math:`\unit[4,8]{N}` nötig, um die
     Schraubenfeder :math:`\unit[12]{cm}` weit zu dehnen.
 
@@ -252,14 +252,14 @@ mechanischer Kräfte>`.
     \unit[20]{N}` wie folgt berechnen:
 
     .. math::
-        
+
         F _{\rm{s}} = k \cdot s \quad \Longleftrightarrow \quad s = \frac{F
-        _{\rm{s}}}{k} 
+        _{\rm{s}}}{k}
 
     .. math::
-        
+
         s = \frac{F _{\rm{S}}}{k} = \frac{\unit[20]{N}}{\unit[650]{\frac{N}{m}
-        }} \approx \unit[0,031]{m} 
+        }} \approx \unit[0,031]{m}
 
     Die Schraubenfeder wird somit um :math:`\unit[0,031]{m} = \unit[3,1]{cm}`
     gedehnt.
@@ -276,7 +276,7 @@ mechanischer Kräfte>`.
   _{\rm{rad}}`, es muss also gelten:
 
   .. math::
-      
+
       F _{\rm{H}} &= F _{\rm{rad}} \\[4pt]
       \mu _{\rm{H}} \cdot m \cdot g &= m \cdot \frac{v^2}{r} \\
       \Rightarrow r &= \frac{v^2}{\mu _{\rm{H}}\cdot g} \\
@@ -287,7 +287,7 @@ mechanischer Kräfte>`.
   _{\rm{H}} = 0,8` und :math:`g = \unit[9,81]{\frac{m}{s^2}}` folgt:
 
   .. math::
-      
+
       r = \frac{v^2}{ \mu _{\rm{H}} \cdot g} =
       \frac{\left(\unit[10]{\frac{m}{s}}\right)^2 }{0,8 \cdot
       \unit[9,81]{\frac{m}{s^2}}} \approx \unit[12,75]{m}
@@ -317,12 +317,12 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
     für die Kraft :math:`F` in jedem der beiden Seile:
 
     .. math::
-        
+
         F = \frac{1}{2} \cdot F _{\rm{G}} = \frac{1}{2} \cdot \unit[30]{kg}
         \cdot \unit[9,81]{\frac{N}{kg}} = \unit[147,15]{N}
 
     In beiden Seilen wirkt somit eine Zugkraft von rund :math:`\unit[147]{N}`.
-    
+
     :ref:`Zurück zur Aufgabe <Zusammenwirken-mehrerer-Kräfte-01>`
 
 ----
@@ -332,7 +332,7 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
 *   Zeichnerisch findet man die Gesamtkraft :math:`\vec{F} _{\rm{Ges}}`, indem
     man ein Kräfteparallelogramm durch durch paralleles Verschiebung der beiden
     Kraftpfeile konstruiert. Die gesuchte Gesamtkraft entspricht der Diagonalen
-    des Kräfteparallelogramms. 
+    des Kräfteparallelogramms.
 
     (Es würde bereits genügen, nur einen Pfeil parallel an die Spitze des
     anderen zu verschieben. Durch Bildung eines Kräfteparallelogramms erhöht
@@ -343,43 +343,43 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
         :align: center
 
     .. only:: html
-        
+
         .. centered:: :download:`SVG: Kraftaddition Schlitten (Lösung)
                       <../../pics/mechanik/dynamik/kraftaddition-kinder-schlitten-loesung.svg>`
 
     Rechnerisch lässt sich die Aufgabe lösen, indem man den Kräfte
     :math:`\vec{F} _{\rm{1}}` und :math:`\vec{F} _{\rm{2}}` mit Hilfe der
     trigonometrischen Funktionen :math:`\sin{}` und :math:`\cos{}` in jeweils
-    eine :math:`x`- und eine :math:`y`-Komponente aufteilt. 
+    eine :math:`x`- und eine :math:`y`-Komponente aufteilt.
 
     Für die Kraft :math:`\vec{F} _{\rm{1}}` gilt:
 
     .. math::
-        
-        F _{\rm{1,x}} = \unit[40]{N} \cdot \cos{(30^{\circ})} \approx \unit[35]{N}\\
-        F _{\rm{1,y}} = \unit[40]{N} \cdot \sin{(30^{\circ})} \approx \unit[20]{N}\\
+
+        F _{\rm{1,x}} = \unit[40]{N} \cdot \cos{(30\degree)} \approx \unit[35]{N}\\
+        F _{\rm{1,y}} = \unit[40]{N} \cdot \sin{(30\degree)} \approx \unit[20]{N}\\
 
     Für die Kraft :math:`\vec{F} _{\rm{2}}` gilt:
 
     .. math::
-        
-        F _{\rm{2,x}} &= \unit[40]{N} \cdot \cos{(30^{\circ})} \approx \unit[35]{N}\\
-        F _{\rm{2,y}} &= \unit[40]{N} \cdot \,\sin{(30^{\circ})} \approx \unit[-20]{N}\\
+
+        F _{\rm{2,x}} &= \unit[40]{N} \cdot \cos{(30\degree)} \approx \unit[35]{N}\\
+        F _{\rm{2,y}} &= \unit[40]{N} \cdot \,\sin{(30\degree)} \approx \unit[-20]{N}\\
 
     Das Minuszeichen der Kraftkomponente :math:`F _{\rm{2,y}}` gibt an, dass die
     Kraft entgegen der als positiv festgelegten :math:`y`-Richtung verläuft. Um
     beide Kräfte zu addieren, werden die :math:`x`- und die
     :math:`y`-Komponenten beider Kräfte addiert. Es ergibt sich:
-    
+
     .. math::
-        
+
         F _{\rm{1,x}} + F _{\rm{2,x}} = \unit[35]{N} &+ \unit[35]{N} =
         \unit[70]{N} \\
         F _{\rm{1,y}} + F _{\rm{2,y}} = \unit[20]{N} &- \unit[20]{N} =
         \unit[0]{N} \\
-    
+
     Die Gesamtkraft :math:`\vec{F} _{\rm{Ges}}` hat somit einen Betrag von
-    rund :math:`\unit[70]{N}` und verläuft in die positive :math:`x`-Richtung. 
+    rund :math:`\unit[70]{N}` und verläuft in die positive :math:`x`-Richtung.
 
     :ref:`Zurück zur Aufgabe <Zusammenwirken-mehrerer-Kräfte-02>`
 
@@ -394,7 +394,7 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
   <gwm:Cosinus-Satz>` genutzt werden. Hierbei gilt:
 
   .. math::
-      
+
       F_1^2 &= F_2^2 + F_3^2 - 2 \cdot F_2 \cdot F_3 \cdot \cos{(\alpha)} \quad
       \Leftrightarrow \quad \alpha = \text{acos}\left( \frac{F_2^2 + F_3^2 -
       F_1^2}{2 \cdot F_2 \cdot F_3}\right) \\[4pt]
@@ -403,32 +403,32 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
       F_2^2}{2 \cdot F_3 \cdot F_1}\right) \\[4pt]
       F_3^2 &= F_1^2 + F_2^2 - 2 \cdot F_1 \cdot F_2 \cdot \cos{(\gamma)} \quad
       \Leftrightarrow \quad \gamma = \text{acos}\left( \frac{F_1^2 + F_2^2 -
-      F_3^2}{2 \cdot F_1 \cdot F_2}\right) 
+      F_3^2}{2 \cdot F_1 \cdot F_2}\right)
 
   Mit :math:`F_1 = \unit[50]{N}`, :math:`F_2 = \unit[70]{N}` und :math:`F_3 =
   \unit[90]{N}` folgt:
 
   .. math::
 
-      \alpha &= \text{acos}\left( \frac{70^2 + 90^2 - 50^2}{2 \cdot 70 \cdot 90}\right) \approx 33,56 ^{\circ} \\
-      \beta &= \text{acos}\left( \frac{90^2 + 50^2 - 70^2}{2 \cdot 90 \cdot 50}\right) \approx 50,70 ^{\circ} \\
-      \gamma &= \text{acos}\left( \frac{50^2 + 70^2 - 90^2}{2 \cdot 50 \cdot 70}\right) \approx 95,74 ^{\circ} \\
-      
-  In Summe ergeben die obigen Winkel :math:`180 ^{\circ}`. Die Winkel zwischen
-  drei in einem Punkt wirkenden Kräften beträgt jedoch :math:`360 ^{\circ}`, die
+      \alpha &= \text{acos}\left( \frac{70^2 + 90^2 - 50^2}{2 \cdot 70 \cdot 90}\right) \approx 33,56 \degree \\
+      \beta &= \text{acos}\left( \frac{90^2 + 50^2 - 70^2}{2 \cdot 90 \cdot 50}\right) \approx 50,70 \degree \\
+      \gamma &= \text{acos}\left( \frac{50^2 + 70^2 - 90^2}{2 \cdot 50 \cdot 70}\right) \approx 95,74 \degree \\
+
+  In Summe ergeben die obigen Winkel :math:`180 \degree`. Die Winkel zwischen
+  drei in einem Punkt wirkenden Kräften beträgt jedoch :math:`360 \degree`, die
   "richtigen" Winkel :math:`\alpha ^{*}`, :math:`\beta ^{*}` und :math:`\gamma
   ^{*}` entsprechen also den zu den obigen Winkeln gehörenden Außenwinkeln. Sie
   lassen sich berechnen, indem man für jeden Innenwinkel des Dreiecks die
-  Differenz zu :math:`180 ^{\circ}` bildet:
+  Differenz zu :math:`180 \degree` bildet:
 
   .. math::
-      
-      \alpha ^{*} &= 180 ^{\circ} - \alpha \approx  180 ^{\circ} - 33,56 ^{\circ} = 146,44 ^{\circ} \\
-      \beta ^{*} &= 180 ^{\circ} - \beta \approx  180 ^{\circ} - 50,70 ^{\circ} = 129,30 ^{\circ} \\
-      \gamma ^{*} &= 180 ^{\circ} - \gamma \approx  180 ^{\circ} - 95,74 ^{\circ} = \phantom{1}84,26 ^{\circ} 
+
+      \alpha ^{*} &= 180 \degree - \alpha \approx  180 \degree - 33,56 \degree = 146,44 \degree \\
+      \beta ^{*} &= 180 \degree - \beta \approx  180 \degree - 50,70 \degree = 129,30 \degree \\
+      \gamma ^{*} &= 180 \degree - \gamma \approx  180 \degree - 95,74 \degree = \phantom{1}84,26 \degree
 
   Für die Summe dieser Winkel gilt schließlich :math:`\alpha ^{*} + \beta ^{*} +
-  \gamma ^{*} = 360 ^{\circ}`.
+  \gamma ^{*} = 360 \degree`.
 
 
   :ref:`Zurück zur Aufgabe <Zusammenwirken-mehrerer-Kräfte-03>`
@@ -439,10 +439,10 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
 * Bei einer Gleitreibungszahl von  :math:`\mu = 0,15` ergibt sich aus der
   Gewichtskraft :math:`F _{\rm{G}} = \unit[500]{N}` folgende Reibungskraft
-  :math:`F _{\rm{R}}`: 
+  :math:`F _{\rm{R}}`:
 
   .. math::
-      
+
       F _{\rm{R}} = \mu \cdot F _{\rm{G}} = 0,15 \cdot \unit[500]{N} = \unit[75]{N}
 
   .. image:: ../../pics/mechanik/dynamik/kraftzerlegung-schlitten-loesung.png
@@ -450,7 +450,7 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
       :align: center
 
   .. only:: html
-        
+
       .. centered:: :download:`SVG: Kraftzerlegung beim Ziehen eines Schlittens (Lösung)
                     <../../pics/mechanik/dynamik/kraftzerlegung-schlitten-loesung.svg>`
 
@@ -459,12 +459,12 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
   werden. Für die horizontale bzw. vertikale Komponente der Zugkraft gilt:
 
   .. math::
-      
+
       \frac{F _{\rm{Z,y}}}{F _{\rm{Z}}} = \sin{(\alpha)} \quad \Leftrightarrow \quad F _{\rm{Z,y}} = F _{\rm{Z}} \cdot \sin{(\alpha)} \\
-      \frac{F _{\rm{Z,x}}}{F _{\rm{Z}}} = \cos{(\alpha)} \quad \Leftrightarrow \quad F _{\rm{Z,x}} = F _{\rm{Z}} \cdot \cos{(\alpha)} 
+      \frac{F _{\rm{Z,x}}}{F _{\rm{Z}}} = \cos{(\alpha)} \quad \Leftrightarrow \quad F _{\rm{Z,x}} = F _{\rm{Z}} \cdot \cos{(\alpha)}
 
   Für den Betrag der Zugkraft gilt somit :math:`F _{\rm{Z}} = \frac{F
-  _{\rm{Z,x}}}{\cos{(\alpha)}} = \frac{\unit[75]{N}}{\cos{(10 ^{\circ})}}
+  _{\rm{Z,x}}}{\cos{(\alpha)}} = \frac{\unit[75]{N}}{\cos{(10 \degree)}}
   \approx \unit[76,2]{N}`.
 
   :ref:`Zurück zur Aufgabe <Kraftzerlegung-01>`
@@ -477,10 +477,10 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
   :math:`\vec{F}_1` und :math:`\vec{F}_2` im linken und im rechten Seilstück
   betragsmäßig gleich sein. Jedes der beiden Seilstücke muss somit in
   vertikaler Richtung die Hälfte des Gewichtskraft :math:`F _{\rm{G}} =
-  \unit[50]{N}` der Lampe ausgleichen: 
+  \unit[50]{N}` der Lampe ausgleichen:
 
   .. math::
-      
+
       F _{\rm{1,y}} &= F _{\rm{2,y}} \\
       F _{\rm{1,y}} + F _{\rm{2,y}} &= \unit[50]{N}\\[8pt]
       \Rightarrow F _{\rm{1,y}} = F _{\rm{2,y}} &= \unit[25]{N}
@@ -488,14 +488,14 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
   Die Größe der horizontalen Kraftkomponente kann graphisch mit Hilfe eines
   Kräfte-Parallelogramms oder rechnerisch mit Hilfe der :ref:`trigonometrischen
   Funktionen <gwm:Trigonometrische Funktionen>` anhand des Winkels :math:`\alpha
-  = 25 ^{\circ}` bestimmt werden.
+  = 25 \degree` bestimmt werden.
 
   .. image:: ../../pics/mechanik/dynamik/kraftzerlegung-strassenlampe-loesung.png
       :align: center
       :width: 60%
-    
+
   .. only:: html
-       
+
        .. centered:: :download:`SVG: Kraftzerlegung am Beispiel einer Straßenlaterne (Lösung)
                       <../../pics/mechanik/dynamik/kraftzerlegung-strassenlampe-loesung.svg>`
 
@@ -508,12 +508,12 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
   folgenden Beziehung ausdrücken:
 
   .. math::
-      
-      \frac{F _{\rm{1,y}}}{F _{\rm{1,x}}} = \tan{(\alpha)} \qquad &\text{oder} \qquad 
+
+      \frac{F _{\rm{1,y}}}{F _{\rm{1,x}}} = \tan{(\alpha)} \qquad &\text{oder} \qquad
       \frac{F _{\rm{1,x}}}{F _{\rm{1,y}}} = \cot{(\alpha)} \\[8pt]
       \Rightarrow F _{\rm{1,x}} = &F _{\rm{1,y}} \cdot \text{cot}(\alpha)
 
-  Mit dem Cotangens-Wert :math:`\text{cot}(\alpha) = \text{cot}(25 ^{\circ})
+  Mit dem Cotangens-Wert :math:`\text{cot}(\alpha) = \text{cot}(25 \degree)
   \approx 2,145` folgt somit :math:`F _{\rm{1,x}} \approx \unit[53,61]{N}`.
   Der Kraftanteil :math:`F _{\rm{2,x}}` ist ebenso groß, zeigt aber in die
   entgegengesetzte Richtung.
@@ -529,45 +529,45 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
   :math:`\beta` folgendermaßen berechnen:
 
   .. math::
-      
+
       \tan{(\alpha)} = \frac{\unit[1]{m}}{\unit[10]{m}} \quad &\Leftrightarrow \quad
-      \alpha = \text{atan}\left(\frac{1}{10}\right) \approx \phantom{1}5,7 ^{\circ} \\[8pt]
+      \alpha = \text{atan}\left(\frac{1}{10}\right) \approx \phantom{1}5,7 \degree \\[8pt]
       \tan{(\beta)} = \frac{\unit[1]{m}}{\unit[5]{m}} \quad &\Leftrightarrow \quad
-      \beta = \text{atan}\left(\frac{1}{5}\right) \approx 11,3 ^{\circ} 
-  
+      \beta = \text{atan}\left(\frac{1}{5}\right) \approx 11,3 \degree
+
   Um die Beträge :math:`F_1` und :math:`F_2` der zwei unbekannten Kräfte zu
   berechnen, sind auch zwei Gleichungen notwendig. Dieses Kräfte-Gleichungssystem
   lässt sich aufstellen, indem man als Bedingungen voraussetzt, dass die
   vertikalen Anteile der Kräfte in Summe die Gewichtskraft :math:`F _{\rm{G}} =
   \unit[50]{N}` der Lampe ausgleichen, und sich die horizontalen Anteile der
   Kräfte zu Null addieren. Es muss also gelten:
-  
+
   .. math::
-      
+
       F_1  \cdot \sin{(\alpha)} + F_2 \cdot \sin{(\beta)} &= \unit[50]{N} \\
       -F_1  \cdot \cos{(\alpha)} + F_2 \cdot \cos{(\beta)} &= \unit[\phantom{5}0]{N} \\
-  
+
   .. image:: ../../pics/mechanik/dynamik/kraftzerlegung-strassenlampe-asymmetrisch-loesung.png
       :align: center
       :width: 60%
-    
+
   .. only:: html
-       
+
        .. centered:: :download:`SVG: Asymmetrische Kraftzerlegung am Beispiel einer Straßenlaterne (Lösung)
                       <../../pics/mechanik/dynamik/kraftzerlegung-strassenlampe-asymmetrisch-loesung.svg>`
 
   Um das Gleichungssystem zu lösen, kann beispielsweise die zweite Gleichung nach
   :math:`F_1` aufgelöst werden:
-  
+
   .. math::
-      
+
       F_1 = \frac{F_2 \cdot \cos{(\beta)}}{\cos{(\alpha)}}
-  
+
   Dieser Ausdruck für :math:`F_1` kann anschließend in die erste Gleichung
   eingesetzt werden. Es folgt:
-  
+
   .. math::
-      
+
       \frac{F_2 \cdot \cos{(\beta)}}{\cos{(\alpha)}} \cdot \sin{(\alpha)} + F_2
       \cdot \sin{(\beta)} &= \unit[50]{N} \\[5pt]
       F_2 \cdot \left( \frac{\cos{(\beta)}}{\cos{(\alpha)}} \cdot \sin{(\alpha)}
@@ -576,14 +576,14 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
   Man erhält damit als allgemeine Lösungsformeln:
 
   .. math::
-      
+
         \Rightarrow F_2 &= \frac{\unit[50]{N}}{\left( \frac{\cos{(\beta)}}{\cos{(\alpha)}} \cdot \sin{(\alpha)}
       + \sin{(\beta)}\right)}\\[5pt]
         \Rightarrow F_1 &= \frac{\unit[50]{N}}{\left( \frac{\cos{(\beta)}}{\cos{(\alpha)}} \cdot \sin{(\alpha)}
       + \sin{(\beta)}\right)} \cdot \frac{\cos{(\beta)}}{\cos{(\alpha)}}
-  
-  Setzt man hier :math:`\alpha \approx 5,7 ^{\circ}` und :math:`\beta \approx
-  11,3 ^{\circ}` ein, so erhält man :math:`F _2 \approx \unit[179,0]{N}` und
+
+  Setzt man hier :math:`\alpha \approx 5,7 \degree` und :math:`\beta \approx
+  11,3 \degree` ein, so erhält man :math:`F _2 \approx \unit[179,0]{N}` und
   :math:`F_1 \approx \unit[167,5]{N}`; die an den beiden Seilstücken ziehenden
   Kräfte sind also jeweils deutlich größer als die Gewichtskraft der Lampe. Da
   :math:`\beta > \alpha` ist, hat die Kraft :math:`F_2` einen größeren Kraftteil
@@ -598,7 +598,7 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Dynamik>`

@@ -17,7 +17,7 @@ Flüssigkeiten <Mechanik der Flüssigkeiten>`.
 
 * Auf einen Kolben mit einer Fläche von :math:`\unit[1 \cdot 10^4]{mm^2}` wird
   eine Kraft von :math:`\unit[350]{N}` ausgeübt. Welcher Druck wird dadurch auf
-  das Fluid im Zylinder ausgeübt? 
+  das Fluid im Zylinder ausgeübt?
 
   :ref:`Lösung <Kolbendruck-01-Lösung>`
 
@@ -38,7 +38,7 @@ Flüssigkeiten <Mechanik der Flüssigkeiten>`.
   :math:`\unit[80\,]{l}` und einer Dichte von :math:`\rho _{\rm{K}} =
   \unit[1050]{\frac{kg}{m^3}}` in normalem Wasser :math:`\rho _{\rm{W}} =
   \unit[1000]{\frac{kg}{m^3}}` und in gesättigtem Salzwasser mit einer Dichte
-  :math:`\rho _{\rm{SW}} = \unit[1120]{\frac{kg}{m^3}}`? 
+  :math:`\rho _{\rm{SW}} = \unit[1120]{\frac{kg}{m^3}}`?
 
   :ref:`Lösung <Auftrieb-01-Lösung>`
 
@@ -88,7 +88,7 @@ Gase <Mechanik der Gase>`.
   Druck von :math:`p _{\rm{dyn}} = \unit[10]{kPa}` zu erzeugen, wenn es sich bei
   dem Fluid um Wasser :math:`(\rho _{\rm{Wasser}}= \unit[1]{\frac{g}{cm^3}})`
   beziehungsweise Luft :math:`(\rho _{\rm{Luft}} = \unit[1,29]{\frac{kg}{m^3}})`
-  handelt? 
+  handelt?
 
   :ref:`Lösung <Dynamischer-Druck-01-Lösung>`
 
@@ -133,7 +133,7 @@ Gase <Mechanik der Gase>`.
 ..  Wie groß ist die Reynoldszahl in der Aorta für die mittlere Blutgeschwindigkeit
 ..  v mittel = 40cm/s und die maximale systolische Geschwindigkeit v max = 120cm/s.
 ..  Welche Strömungsart erwarten Sie? Von welcher Blutgeschwindigkeit an gibt es
-..  sicher turbulente Strömung? r Aorta = 1,2cm; ρ Vollblut = 1,06g/cm 
+..  sicher turbulente Strömung? r Aorta = 1,2cm; ρ Vollblut = 1,06g/cm
 
 .. raw:: latex
 
@@ -142,7 +142,7 @@ Gase <Mechanik der Gase>`.
 .. raw:: html
 
     <hr/>
-    
+
 .. only:: html
 
     :ref:`Zurück zum Skript <Mechanik der Festkörper, Flüssigkeiten und Gase>`

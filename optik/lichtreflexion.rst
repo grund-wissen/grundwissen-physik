@@ -17,7 +17,7 @@ Oberfläche unterscheidet man zwischen ebenen und gewölbten sowie zwischen glat
 und rauhen Spiegeln.
 
 
-.. index:: 
+.. index::
     single: Spiegel; Ebener Spiegel
 .. _Ebener Spiegel:
 
@@ -25,7 +25,7 @@ Der ebene Spiegel
 -----------------
 
 Jede glatte, ebene Fläche (z.B. eine glatte Metallplatte, eine ruhige
-Wasseroberfläche, eine Fensterscheibe usw.) wirkt wie ein ebener Spiegel. 
+Wasseroberfläche, eine Fensterscheibe usw.) wirkt wie ein ebener Spiegel.
 Während eine blank polierte Metalloberfläche das gesamte einfallende Licht
 zurückwirft, wird von Glas oder Wasser nur einen Teil des einfallenden Lichts
 reflektiert. Spiegel aus Glas sind daher gewöhnlich auf der Rückseite schwarz
@@ -46,9 +46,9 @@ verlässt den Spiegel im gleichen Winkel, wie er aufgetroffen ist.
     :alt:  fig-reflexionsgesetz
 
     Reflexion eines Lichtstrahls an einem ebenen Spiegel.
-    
+
     .. only:: html
-    
+
         :download:`SVG: Reflexionsgesetz am ebenen Spiegel
         <../pics/optik/reflexionsgesetz.svg>`
 
@@ -58,7 +58,7 @@ lässt sich das Reflexionsgesetz damit folgendermaßen formulieren:
 
 .. math::
     :label: reflexionsgesetz
-    
+
     \alpha = \alpha '
 
 Vertauscht man in den Abbildungen :ref:`Reflexionsgesetz
@@ -83,10 +83,10 @@ Reflexionsgesetzes (am besten mit Lineal und Winkelmesser) konstruieren.
     :name: fig-ebener-spiegel
     :alt:  fig-ebener-spiegel
 
-    Bildentstehung an einem ebenen Spiegel. 
-  
+    Bildentstehung an einem ebenen Spiegel.
+
     .. only:: html
-    
+
         :download:`SVG: Ebener Spiegel <../pics/optik/ebener-spiegel.svg>`
 
 Lichtstrahlen, die von einem Punkt des Gegenstandes :math:`\rm{G}`, ausgehen,
@@ -103,23 +103,23 @@ scheint das ins Auge fallende Licht von diesem Punkt auszugehen.
     :name: fig-ebener-spiegel-gegenstand-und-bild
     :alt:  fig-ebener-spiegel-gegenstand-und-bild
 
-    Gegenstandsgröße und Bildgröße an einem ebenen Spiegel. 
-    
+    Gegenstandsgröße und Bildgröße an einem ebenen Spiegel.
+
     .. only:: html
-    
+
         :download:`SVG: Gegenstandsgröße und Bildgröße
         <../pics/optik/ebener-spiegel-gegenstand-und-bild.svg>`
 
 Insgesamt gilt somit für ebene Spiegel:
 
-* Der Gegenstand und sein Bild liegen symmetrisch zur Spiegelfläche. 
-* Das Bild ist ebenso groß wie der Gegenstand. 
+* Der Gegenstand und sein Bild liegen symmetrisch zur Spiegelfläche.
+* Das Bild ist ebenso groß wie der Gegenstand.
 
 Jeder Bildpunkt :math:`\rm{B}` liegt daher ebenso weit hinter dem Spiegel, wie der
 passende Gegenstandspunkt :math:`\rm{G}` vor ihm liegt.
 
 
-.. index:: 
+.. index::
     single: Lichtreflexion; Diffuse Reflexion
     single: Lichtreflexion; Direkte Reflexion
 
@@ -145,7 +145,7 @@ verschiedene Richtungen zurückgeworfen ("gestreut").
     Verlauf der Lichtstrahlen bei direkter und diffuser Reflexion.
 
     .. only:: html
-    
+
         :download:`SVG: Direkte und diffuse Reflexion
         <../pics/optik/reflexion-direkt-diffus.svg>`
 
@@ -154,7 +154,7 @@ blank polierten Metall-Oberflächen; fein verteilte Wassertropfen in der Luft
 (Wolken, Nebel) oder Eiskristalle im Schnee haben einen ähnlichen Effekt. Je
 kleiner die einzelnen Spiegelflächen einer rauhen Oberfläche sind, desto
 stärker wird das Licht gestreut -- häufig ist dabei überhaupt kein Spiegelbild
-mehr erkennbar. 
+mehr erkennbar.
 
 
 .. _Gekrümmte Spiegel:
@@ -165,7 +165,7 @@ Gekrümmte Spiegel
 Ist die Spiegelfläche gekrümmt, so gilt das Reflexionsgesetz für jede einzelne
 Stelle des Spiegels. Eine gute Vorstellung für einen gekrümmten Spiegel bietet
 eine Disko-Kugel, die mit zahlreichen kleinen Spiegelflächen das einfallende
-Licht kugelförmig in den Raum reflektiert. 
+Licht kugelförmig in den Raum reflektiert.
 
 .. figure::
     ../pics/optik/disko-kugel.png
@@ -174,10 +174,10 @@ Licht kugelförmig in den Raum reflektiert.
     :name: fig-disko-kugel
     :alt:  fig-disko-kugel
 
-    Eine Disko-Kugel als Wölbspiegel. 
+    Eine Disko-Kugel als Wölbspiegel.
 
     .. only:: html
-    
+
         :download:`SVG: Disko-Kugel <../pics/optik/disko-kugel.svg>`
 
 Um die Entstehung der Bilder an einem gekrümmten Spiegel beschreiben zu können,
@@ -203,19 +203,19 @@ verwendet man folgende Begriffe:
 
     Alle auf den Spiegel treffenden Parallelstrahlen werden so reflektiert, dass
     sie sich in einem Punkt schneiden. Dieser Punkt liegt auf der optischen
-    Achse und heißt Brennpunkt (Fokus) :math:`\rm{F}`. 
-  
+    Achse und heißt Brennpunkt (Fokus) :math:`\rm{F}`.
+
     Der Abstand des Brennpunkts zum Scheitelpunkt wird Brennweite :math:`f`
     genannt. Bei einem kugelförmigen Hohlspiegel ist die Brennweite :math:`f`
     gleich der Hälfte der Strecke zwischen dem Mittelpunkt :math:`\rm{M}` und
-    dem Scheitelpunkt :math:`\rm{S}`: 
+    dem Scheitelpunkt :math:`\rm{S}`:
 
     .. math::
-    
+
         f = \frac{\overline{\rm{MS}}}{2}
 
 ..  Diese Laenge entspricht dem halben Radius :math:`r` der zum Spiegel passenden Kugel.
-    
+
 
 * Mittelpunkt:
 
@@ -223,7 +223,7 @@ verwendet man folgende Begriffe:
     herausgeschnitten denken kann, liegt ebenfalls auf der optischen Achse.
     Strahlen, die auf der Innenseite des Kreises durch den Mittelpunkt gehen,
     werden stets auf sich selbst abgebildet.
-    
+
 
 .. figure::
     ../pics/optik/gekruemmter-spiegel.png
@@ -235,13 +235,13 @@ verwendet man folgende Begriffe:
     Markante Punkte für die Bildentstehung an einem gekrümmten Spiegel.
 
     .. only:: html
-    
+
         :download:`SVG: Der gekrümmte Spiegel <../pics/optik/gekruemmter-spiegel.svg>`
 
 Je nachdem, welche Seite eines gekrümmten Spiegels dem Licht zugewandt ist,
 unterscheidet man zwischen einem Wölb- und einem Hohlspiegel.
 
-.. index:: 
+.. index::
     single: Spiegel; Wölbspiegel
 .. _Bildentstehung an einem Wölbspiegel:
 
@@ -256,13 +256,13 @@ Original.
     ../pics/optik/bildentstehung-woelbspiegel.png
     :align: center
     :width: 50%
-    :name: fig-bildentstehung-wölbspiegel    
+    :name: fig-bildentstehung-wölbspiegel
     :alt:  fig-bildentstehung-wölbspiegel
 
     Bildentstehung an einem Wölbspiegel.
 
     .. only:: html
-    
+
         :download:`SVG: Bildentstehung an einem Wölbspiegel
         <../pics/optik/bildentstehung-woelbspiegel.svg>`
 
@@ -285,7 +285,7 @@ auf den Spiegel blickt, die Lichtstrahlen scheinen immer vom verkleinerten Bild
 der Kerze auf der Rückseite des Spiegels zu stammen.
 
 
-.. index:: 
+.. index::
     single: Spiegel; Hohlspiegel
 .. _Bildentstehung an einem Hohlspiegel:
 
@@ -310,7 +310,7 @@ Spiegels ab:
       Bildentstehung an einem Hohlspiegel (Gegenstand innerhalb der Brennweite).
 
       .. only:: html
-      
+
           :download:`SVG: Bildentstehung an einem Hohlspiegel 1
           <../pics/optik/bildentstehung-hohlspiegel-innerhalb-brennweite.svg>`
 
@@ -340,7 +340,7 @@ Spiegels ab:
       Bildentstehung an einem Hohlspiegel (Gegenstand außerhalb der Brennweite).
 
       .. only:: html
-      
+
           :download:`SVG: Bildentstehung an einem Hohlspiegel 2
           <../pics/optik/bildentstehung-hohlspiegel-ausserhalb-brennweite.svg>`
 
@@ -353,7 +353,7 @@ Spiegels ab:
 
     <hr />
 
-.. hint:: 
+.. hint::
 
     Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zur Reflexion von Licht>` und
     :ref:`Übungsaufgaben <Aufgaben zur Reflexion von Licht>`.
