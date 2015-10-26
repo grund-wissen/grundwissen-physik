@@ -3,7 +3,82 @@
 Versuche zur Dynamik
 ====================
 
-.. _Versuche zu Kräften:
+.. _Versuche zum Zusammenwirken mehrerer Kräfte:
+
+Versuche zum Zusammenwirken mehrerer Kräfte
+-------------------------------------------
+
+Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Zusammenwirken
+mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
+
+----
+
+.. _Der Team-Turmbau:
+
+.. rubric:: Der Team-Turmbau
+
+*Material:* (für 3 bis 6 Personen)
+
+.. hlist::
+    :columns: 2
+
+    * 6 Holzklötze (8x8 cm breit, ca. 25 cm hoch) mit vorgefertigten
+      Aussparungen
+    * 6 Seilstücke (ca. 1 m Länge, ca. 6 mm Durchmesser)
+    * 1 Seilstücke (0,5 m Länge, ca. 6 mm Durchmesser)
+    * 1 Scheibe mit einer zentrierten Bohrung (8mm) und 6 weiteren regelmäßig
+      angebrachten Bohrungen im Außenbereich der Scheibe , ca. 1 cm vom Rand
+      entfernt.
+
+*Durchführung:*
+
+- Verteile die Holzklötze stehend auf dem Boden.
+- Befestige die sechs gleichlangen Seilstücke an der Scheibe mit den Bohrungen.
+- Forme das kürzere Seilstück zu einer Schlinge und befestige die Enden
+  mittels eines dicken Knotens an der inneren Bohrung der Scheibe.
+- Stelle gemeinsam mit Deinen Teampartnern die Holzklötze nur durch gemeinsames
+  Ziehen an den Seilenden aufeinander.
+
+----
+
+.. _Kraftmessung-mit-Federkraftmesser:
+
+.. rubric:: Kraftmessung
+
+*Material:*
+
+.. hlist::
+    :columns: 2
+
+    * Vier Federkraftmesser :math:`(\unit[10]{N})`
+    * Holzklotz mit großer Bohrung
+    * Schraubzwinge
+    * Drei Hakenschrauben
+    * Ein dreieckiges Metallstück mit drei Bohrungen entlang einer Kante und
+      einer Bohrung an der gegenüber liegenden Spitze (z.B. aus einem
+      Metallbau-Kasten)
+
+*Durchführung:*
+
+- Drehe die drei Hakenschrauben in einer Reihe in den Holzklotz. Befestige ihn
+  mittels einer Schraubzwinge am Rand einer Tischplatte.
+- Hänge einen Federkraftmesser an der mittleren Hakenschraube ein. Welche Kraft
+  zeigt er an, wenn du mit einem anderen Federkraftmesser mit einer Kraft von
+  :math:`\unit[5]{N}` an ihm ziehst?
+- Befestige zwei Federkraftmesser an den beiden äußeren Hakenschrauben und
+  hänge das dreieckige Metall an den beiden Eck-Bohrungen ein. Welche Kraft
+  zeigen die beiden Kraftmesser an, wenn Du mit :math:`\unit[10]{N}` an der
+  anderen Seite des Metallblechs ziehst? Welche Gesetzmäßigkeit kannst Du
+  darin erkennen?
+- Überprüfe Deine Vermutung, indem Du drei Kraftmesser an den Hakenschrauben
+  im Holzklotz einhängst, das Metallstück an den drei in Reihe liegenden
+  Bohrungen einhängst und wiederum mit :math:`\unit[10]{N}` an der anderen
+  Seite des Metalls ziehst. Was stellst Du fest?
+
+----
+
+
+.. _Versuche zu mechanischen Kräften:
 
 Versuche zu mechanischen Kräften
 --------------------------------
@@ -164,83 +239,9 @@ Zentripetalkraft bei einer Modell-Zentrifuge schön veranschaulicht.
   beziehungsweise der Bohrmaschine ein. Bringe es erst langsam, dann schneller
   zum Rotieren. Achte dabei darauf, dass das Zentrifugenmodell aufrecht gehalten
   wird, um Unwuchten zu vermeiden.
-
-.. todo:: Fertigschreiben..
-
-----
-
-
-.. _Versuche zum Zusammenwirken mehrerer Kräfte:
-
-Versuche zum Zusammenwirken mehrerer Kräfte
--------------------------------------------
-
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Zusammenwirken
-mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
-
-----
-
-.. _Der Team-Turmbau:
-
-.. rubric:: Der Team-Turmbau
-
-*Material:* (für 3 bis 6 Personen)
-
-.. hlist::
-    :columns: 2
-
-    * 6 Holzklötze (8x8 cm breit, ca. 25 cm hoch) mit vorgefertigten
-      Aussparungen
-    * 6 Seilstücke (ca. 1 m Länge, ca. 6 mm Durchmesser)
-    * 1 Seilstücke (0,5 m Länge, ca. 6 mm Durchmesser)
-    * 1 Scheibe mit einer zentrierten Bohrung (8mm) und 6 weiteren regelmäßig
-      angebrachten Bohrungen im Außenbereich der Scheibe , ca. 1 cm vom Rand
-      entfernt.
-
-*Durchführung:*
-
-- Verteile die Holzklötze stehend auf dem Boden.
-- Befestige die sechs gleichlangen Seilstücke an der Scheibe mit den Bohrungen.
-- Forme das kürzere Seilstück zu einer Schlinge und befestige die Enden
-  mittels eines dicken Knotens an der inneren Bohrung der Scheibe.
-- Stelle gemeinsam mit Deinen Teampartnern die Holzklötze nur durch gemeinsames
-  Ziehen an den Seilenden aufeinander.
-
-----
-
-.. _Kraftmessung-mit-Federkraftmesser:
-
-.. rubric:: Kraftmessung
-
-*Material:*
-
-.. hlist::
-    :columns: 2
-
-    * Vier Federkraftmesser :math:`(\unit[10]{N})`
-    * Holzklotz mit großer Bohrung
-    * Schraubzwinge
-    * Drei Hakenschrauben
-    * Ein dreieckiges Metallstück mit drei Bohrungen entlang einer Kante und
-      einer Bohrung an der gegenüber liegenden Spitze (z.B. aus einem
-      Metallbau-Kasten)
-
-*Durchführung:*
-
-- Drehe die drei Hakenschrauben in einer Reihe in den Holzklotz. Befestige ihn
-  mittels einer Schraubzwinge am Rand einer Tischplatte.
-- Hänge einen Federkraftmesser an der mittleren Hakenschraube ein. Welche Kraft
-  zeigt er an, wenn du mit einem anderen Federkraftmesser mit einer Kraft von
-  :math:`\unit[5]{N}` an ihm ziehst?
-- Befestige zwei Federkraftmesser an den beiden äußeren Hakenschrauben und
-  hänge das dreieckige Metall an den beiden Eck-Bohrungen ein. Welche Kraft
-  zeigen die beiden Kraftmesser an, wenn Du mit :math:`\unit[10]{N}` an der
-  anderen Seite des Metallblechs ziehst? Welche Gesetzmäßigkeit kannst Du
-  darin erkennen?
-- Überprüfe Deine Vermutung, indem Du drei Kraftmesser an den Hakenschrauben
-  im Holzklotz einhängst, das Metallstück an den drei in Reihe liegenden
-  Bohrungen einhängst und wiederum mit :math:`\unit[10]{N}` an der anderen
-  Seite des Metalls ziehst. Was stellst Du fest?
+- Beobachte, wie weit sich die Kugel bei verschiedenen Drehzahlen aus ihrer
+  Ruhelage auslenkt. Was stellst Du fest? Wie kannst Du Deine Beobachtung
+  erklären?
 
 
 .. raw:: latex

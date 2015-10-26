@@ -2,8 +2,8 @@
     single: Kraftwandler; Schiefe Ebene
 .. _Schiefe Ebene:
 
-Die schiefe Ebene
-==================
+Schiefe Ebenen
+==============
 
 Wird ein Körper auf eine schiefe Ebene gestellt, so wird er aufgrund seiner
 Gewichtskraft :math:`F _{\rm{G}}` entlang der schiefen Ebene hangabwärts
@@ -135,24 +135,23 @@ die auf den Keil wirkende Kraft :math:`F`.
 
     ..  F _{\rm{N}} = F \cdot \frac{s}{r} = \frac{F}{2 \cdot \sin{\alpha}}
 
-..
-    TODO Schraube als schiefe Ebene: Deutung als schiefe Ebene, die um eine Achse
-    gewickelt wurde.
+.. TODO Schraube als schiefe Ebene: Deutung als schiefe Ebene, die um eine Achse
+.. gewickelt wurde.
 
-    Die passenden Muttern sind zylindrisch durchbohrte Körper mit
-    eingeschnittenen Gewinden. Dreht man die Schraubenmutter bei fest stehender
-    Spindel, so schiebt sie sich bei einer Umdrehung um eine Ganghöhe in
-    Richtung der Zylinderachse vor. Dabei wird in Richtung der Zylinderachse
-    eine Druckkraft ausgeübt; je kleiner die Ganghöhe ist, umso leichter kann
-    bei vorhandener Gegenkraft die Mutter in die Spindel eingedreht werden.
+.. Die passenden Muttern sind zylindrisch durchbohrte Körper mit
+.. eingeschnittenen Gewinden. Dreht man die Schraubenmutter bei fest stehender
+.. Spindel, so schiebt sie sich bei einer Umdrehung um eine Ganghöhe in
+.. Richtung der Zylinderachse vor. Dabei wird in Richtung der Zylinderachse
+.. eine Druckkraft ausgeübt; je kleiner die Ganghöhe ist, umso leichter kann
+.. bei vorhandener Gegenkraft die Mutter in die Spindel eingedreht werden.
 
-    Wenn F1 die zur Drehung der Schraube erforderliche Kraft ist (wirksam im
-    Abstand r), F2 die in Achsenrichtung wirkende Kraft, h die Ganghöhe der
-    Schraube, r der mittlere Gewinderadius und \alpha der Neigungswinkel der
-    geneigten Ebene, dann gilt:
+.. Wenn F1 die zur Drehung der Schraube erforderliche Kraft ist (wirksam im
+.. Abstand r), F2 die in Achsenrichtung wirkende Kraft, h die Ganghöhe der
+.. Schraube, r der mittlere Gewinderadius und \alpha der Neigungswinkel der
+.. geneigten Ebene, dann gilt:
 
-    F1 / F2 = h:b = \tan{\alpha} \\
-    F1 = F2 \cdot \tan{\alpha}
+.. F1 / F2 = h:b = \tan{\alpha} \\
+.. F1 = F2 \cdot \tan{\alpha}
 
 
 .. raw:: html

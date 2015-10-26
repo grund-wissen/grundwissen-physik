@@ -107,6 +107,9 @@ aufgelistet.
     * - impellere
       - anstoßen
       - Impuls
+    * - labilis
+      - unsicher
+      - labiles Gleichgewicht
     * - minimum
       - das Kleinste
       - Minimum

@@ -4,8 +4,8 @@
     single: Kraftwandler; Hebel
 .. _Hebel:
 
-Der Hebel
-=========
+Hebel
+=====
 
 Ein Hebel ist ein starrer, meist stabförmiger Körper, der sich und um eine feste
 Achse drehen lässt (z.B. eine Wippe). Hebel werden beispielsweise dazu genutzt,
@@ -48,10 +48,10 @@ Hebelformen gleichermaßen.
 
 .. index::
     single: Hebel; Zweiseitiger Hebel
-.. _Zweiseitiger Hebel:
+.. _Zweiseitige Hebel:
 
-Der zweiseitige Hebel
----------------------
+Zweiseitige Hebel
+-----------------
 
 An einem zweiseitigen Hebel liegen die Angriffspunkte der Kräfte, von der
 Drehachse aus betrachtet, auf verschiedenen Seiten des Hebels.
@@ -79,10 +79,10 @@ Drehachse aus.
 
 .. index::
     single: Hebel; Einseitiger Hebel
-.. _Einseitiger Hebel:
+.. _Einseitige Hebel:
 
-Der einseitige Hebel
---------------------
+Einseitige Hebel
+----------------
 
 An einem einseitigen Hebel liegt die Drehachse am Rand der Hebelstange, so dass
 die Angriffspunkte aller wirkenden Kräfte, von der Drehachse aus betrachtet, auf
@@ -118,8 +118,8 @@ Vielfaches größer sein.
     single: Hebel; Winkelhebel
 .. _Winkelhebel:
 
-Der Winkelhebel
----------------
+Winkelhebel
+-----------
 
 Ein Hebel mit einer gewinkelten Stange wird Winkelhebel genannt. Je nachdem, an
 welcher Stelle sich die Drehachse befindet, gleicht ein Winkelhebel einem

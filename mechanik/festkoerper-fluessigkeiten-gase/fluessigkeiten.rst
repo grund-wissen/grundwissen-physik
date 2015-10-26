@@ -1058,3 +1058,14 @@ Oberflächenspannung einer Flüssigkeit zu bestimmen.
     sehr hohem Druck oder sehr tiefen Temperaturen beobachten, da die Abstände
     der Moleküle ansonsten zu groß und ihre Geschwindigkeiten zu hoch sind.
 
+.. raw:: html
+
+    <hr />
+
+.. hint::
+
+    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zur Mechanik der
+    Flüssigkeiten>` und :ref:`Übungsaufgaben <Aufgaben zur Mechanik der
+    Flüssigkeiten>`.
+
+

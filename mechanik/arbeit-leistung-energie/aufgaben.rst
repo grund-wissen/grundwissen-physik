@@ -17,7 +17,7 @@ Arbeit <Mechanische Arbeit>`.
 
 .. _Arbeit-01:
 
-* Warum handelt es sich um Arbeit, wenn man eine :math:`\unit[10]{kg}` schwere
+* (\*) Warum handelt es sich um Arbeit, wenn man eine :math:`\unit[10]{kg}` schwere
   Getränke-Kiste um :math:`\unit[1]{m}` anhebt? Verrichtet man auch Arbeit,
   wenn man die Kiste längere Zeit in dieser Höhe hält? Handelt es sich um
   Arbeit, wenn die Kiste auf gleicher Höhe entlang einer :math:`\unit[10]{m}`
@@ -29,7 +29,7 @@ Arbeit <Mechanische Arbeit>`.
 
 .. _Arbeit-02:
 
-* Durch eine Kraft :math:`F _{\rm{Zug}} = \unit[25]{N}` wird ein Körper über
+* (\*) Durch eine Kraft :math:`F _{\rm{Zug}} = \unit[25]{N}` wird ein Körper über
   eine :math:`s = \unit[5]{m}` lange Strecke gezogen. Welche Menge an Arbeit
   wird dabei verrichtet? Wie groß ist die Arbeit der Schwerkraft auf diesem
   Weg, wenn der Körper eine Gewichtskraft von :math:`F _{\rm{G}} =
@@ -41,7 +41,7 @@ Arbeit <Mechanische Arbeit>`.
 
 .. _Hubarbeit-01:
 
-* Ein Gewicht mit einer Masse von :math:`\unit[100]{kg}` soll um
+* (\*) Ein Gewicht mit einer Masse von :math:`\unit[100]{kg}` soll um
   :math:`\unit[1]{m}` angehoben werden. Wie viel Arbeit muss dafür aufgebracht
   werden?
 
@@ -51,7 +51,7 @@ Arbeit <Mechanische Arbeit>`.
 
 .. _Hubarbeit-02:
 
-* Ein Wanderer der Masse :math:`\unit[70]{kg}` trägt einen
+* (\*) Ein Wanderer der Masse :math:`\unit[70]{kg}` trägt einen
   :math:`\unit[7]{kg}` schweren Rucksack auf einen um :math:`\unit[200]{m}`
   höher gelegenen Gipfel eines Berges hinauf. Wie viel Hubarbeit verrichtet er
   am Rucksack, wie viel insgesamt?
@@ -62,7 +62,7 @@ Arbeit <Mechanische Arbeit>`.
 
 .. _Hubarbeit-03:
 
-* Welche Arbeit ist nötig, um zehn auf der Erde liegende, :math:`h =
+* (\**) Welche Arbeit ist nötig, um zehn auf der Erde liegende, :math:`h =
   \unit[7]{cm}` hohe und :math:`F _{\rm{g}} = \unit[35]{N}` schwere
   Ziegelsteine aufeinander zu stapeln?
 
@@ -72,7 +72,7 @@ Arbeit <Mechanische Arbeit>`.
 
 .. _Reibungsarbeit-01:
 
-* Durch eine Kraft :math:`F = \unit[15]{N}` wird ein Körper über eine
+* (\*) Durch eine Kraft :math:`F = \unit[15]{N}` wird ein Körper über eine
   :math:`s = \unit[5]{m}` lange Strecke gezogen. Welche Menge an Arbeit wird
   dabei verrichtet?
 
@@ -82,7 +82,7 @@ Arbeit <Mechanische Arbeit>`.
 
 .. _Reibungsarbeit-02:
 
-* Zwei Jugendliche mit den Massen :math:`m _{\rm{1}} = \unit[55]{kg}` und
+* (\**) Zwei Jugendliche mit den Massen :math:`m _{\rm{1}} = \unit[55]{kg}` und
   :math:`m _{\rm{2}} = \unit[40]{kg}` sitzen auf einem Schlitten und werden
   von einem Pferd über ein ebenes, :math:`l = \unit[200]{m}` langes
   Schneefeld gezogen. Der Schlitten wiegt :math:`m _{\rm{S}} = \unit[5]{kg}`,
@@ -95,7 +95,7 @@ Arbeit <Mechanische Arbeit>`.
 
 .. _Beschleunigungsarbeit-01:
 
-* Ein Fahrzeug mit einer Masse von :math:`m = \unit[1000]{kg}` wird  von
+* (\*) Ein Fahrzeug mit einer Masse von :math:`m = \unit[1000]{kg}` wird  von
   :math:`v _{\rm{1}} = \unit[0]{m/s}` konstant auf :math:`v _{\rm{2}} =
   \unit[30]{m/s}` (entspricht :math:`\unit[108]{km/h}`) beschleunigt. Wie groß
   ist die dabei verrichtete Beschleunigungsarbeit?
@@ -108,7 +108,7 @@ Arbeit <Mechanische Arbeit>`.
 
 .. _Beschleunigungsarbeit-02:
 
-* Ein Fahrzeug mit einer Masse von :math:`m = \unit[750]{kg}` wird aus dem Stand
+* (\**) Ein Fahrzeug mit einer Masse von :math:`m = \unit[750]{kg}` wird aus dem Stand
   :math:`t = \unit[10]{s}` lang mit einer konstanten Beschleunigung :math:`a =
   \unit[2,5]{m/s^2}` beschleunigt. Wie groß ist die dabei verrichtete Arbeit?
 
@@ -129,7 +129,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Wirkungsgrad
 
 .. _Wirkungsgrad-01:
 
-* Wie groß ist der Wirkungsgrad eines "idealen", d.h. reibungsfreien und
+* (\*) Wie groß ist der Wirkungsgrad eines "idealen", d.h. reibungsfreien und
   gewichtslosen, Flaschenzugs? Inwiefern gilt in diesem Fall die "Goldene
   Regel der Mechanik"?
 
@@ -139,7 +139,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Wirkungsgrad
 
 .. _Wirkungsgrad-02:
 
-* Das Zugseil eines Flaschenzugs wird einer Kraft von :math:`F = \unit[80]{N}`
+* (\*) Das Zugseil eines Flaschenzugs wird einer Kraft von :math:`F = \unit[80]{N}`
   um eine Strecke :math:`s = \unit[7]{m}` angezogen. Dadurch wird eine Last
   mit einer Gewichtskraft von :math:`F _{\rm{G}} = \unit[250]{N}` um die
   Höhe :math:`h = \unit[2]{m}` angehoben. Wie groß ist der Wirkungsgrad
@@ -151,7 +151,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Wirkungsgrad
 
 .. _Wirkungsgrad-03:
 
-* Einem Kraftwandler mit einem Wirkungsgrad von :math:`33\%` wird eine Arbeit
+* (\*) Einem Kraftwandler mit einem Wirkungsgrad von :math:`33\%` wird eine Arbeit
   von :math:`W _{\rm{auf}} = \unit[7200]{J}` zugeführt. Welche Menge an
   Arbeit wird dabei von dem Kraftwandler abgegeben?
 
@@ -161,7 +161,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Wirkungsgrad
 
 .. _Wirkungsgrad-04:
 
-* Welche Menge an Arbeit muss in eine mechanische Vorrichtung mit einem
+* (\*) Welche Menge an Arbeit muss in eine mechanische Vorrichtung mit einem
   Wirkungsgrad von :math:`80\%` aufgewandt werden, wenn sie :math:`W
   _{\rm{ab}} = \unit[5000]{J}` an Arbeit abgeben soll?
 
@@ -182,7 +182,7 @@ Leistung <Leistung>`.
 
 .. _Leistung-01:
 
-* Wie groß ist die Leistung eines Sportlers mit einer Masse von :math:`m =
+* (\*) Wie groß ist die Leistung eines Sportlers mit einer Masse von :math:`m =
   \unit[70]{kg}`, wenn er zehn Klimmzüge mit einem Höhenunterschied von je
   :math:`h = \unit[0,5]{m}` in einer Zeit von insgesamt :math:`t =
   \unit[8]{s}` schafft?
@@ -193,7 +193,7 @@ Leistung <Leistung>`.
 
 .. _Leistung-02:
 
-* Welche Leistung liefert ein Motor, der eine Kiste mit einer Masse von
+* (\*) Welche Leistung liefert ein Motor, der eine Kiste mit einer Masse von
   :math:`\unit[200]{kg}` in :math:`t=\unit[6]{s}` auf eine Höhe von
   :math:`h=\unit[4]{m}` anheben kann?
 
@@ -203,7 +203,7 @@ Leistung <Leistung>`.
 
 .. _Leistung-03:
 
-* Welche Masse kann durch eine Leistung von :math:`P = \unit[1]{PS} =
+* (\*) Welche Masse kann durch eine Leistung von :math:`P = \unit[1]{PS} =
   \unit[735]{W}` in einer Sekunde um einen Meter angehoben werden?
 
   :ref:`Lösung <Leistung-03-Lösung>`
@@ -212,7 +212,7 @@ Leistung <Leistung>`.
 
 .. _Leistung-04:
 
-* Ein Löschfahrzeug der Feuerwehr pumpt mit einer Leistung von
+* (\**) Ein Löschfahrzeug der Feuerwehr pumpt mit einer Leistung von
   :math:`\unit[5]{kW}` Wasser in :math:`h = \unit[15]{m}` Höhe. Wie viel Liter
   Wasser stehen den Feuerwehrleuten in einer Sekunde, wie viel in einer Minute
   zur Verfügung?
@@ -223,7 +223,7 @@ Leistung <Leistung>`.
 
 .. _Leistung-05:
 
-* Zum Ziehen eines Schlittens sei eine horizontale Kraft von :math:`F =
+* (\**) Zum Ziehen eines Schlittens sei eine horizontale Kraft von :math:`F =
   \unit[300]{N}` nötig. Wie groß ist die mechanische Leistung, wenn der
   Schlitten mit :math:`v = \unit[0,75]{m/s}` gezogen wird?
 
@@ -233,10 +233,10 @@ Leistung <Leistung>`.
 
 .. _Beschleunigungs-Leistung-01:
 
-* Ein Fahrzeug der Masse :math:`m = \unit[900]{kg}` wird beim Einfahren auf eine
-  Autobahn in :math:`\unit[t=8]{s}` konstant um :math:`\unit[15]{m/s}`
-  (entspricht :math:`\unit[54]{km/h}`) beschleunigt. Wie groß ist die
-  Beschleunigungs-Leistung des Motors?
+* (\**) Ein Fahrzeug der Masse :math:`m = \unit[900]{kg}` wird beim Einfahren
+  auf eine Autobahn in :math:`\unit[t=8]{s}` konstant um :math:`\unit[15]{m/s}`
+  (entspricht :math:`\unit[54]{km/h}`) beschleunigt. Wie groß muss dabei die
+  Beschleunigungs-Leistung des Motors (mindestens) sein?
 
   :ref:`Lösung <Beschleunigungs-Leistung-01-Lösung>`
 
@@ -255,7 +255,7 @@ Energie <Mechanische Energie>`.
 
 .. _Energie-01:
 
-* Wie viel Energie besitzt :math:`\unit[1]{m^3}` Wasser :math:`(m =
+* (\*) Wie viel Energie besitzt :math:`\unit[1]{m^3}` Wasser :math:`(m =
   \unit[1000]{kg})`, das aus einem Stausee :math:`h = \unit[120]{m}`
   tief hinab fließt?
 
@@ -265,7 +265,7 @@ Energie <Mechanische Energie>`.
 
 .. _Energie-02:
 
-* Ein PKW mit einer Masse von :math:`m _{\rm{PKW}} = \unit[1\,000]{kg}` und
+* (\*) Ein PKW mit einer Masse von :math:`m _{\rm{PKW}} = \unit[1\,000]{kg}` und
   ein LKW mit einer Masse von :math:`m _{\rm{LKW}} = \unit[8\,000]{kg}` fahren
   jeweils :math:`v _{\rm{1}} =  \unit[50]{km/h}`. Wie groß sind die
   Bewegungsenergien der beiden Fahrzeuge? Wie groß ist die Bewegungsenergie
@@ -277,7 +277,7 @@ Energie <Mechanische Energie>`.
 
 .. _Energie-03:
 
-* Angenommen, ein Fahrzeug würde mit :math:`v = \unit[72]{km/h}` gegen ein
+* (\**) Angenommen, ein Fahrzeug würde mit :math:`v = \unit[72]{km/h}` gegen ein
   festes Hindernis prallen. Aus welcher Höhe müsste das Fahrzeug stürzen, um
   -- bei Vernachlässigung des Luftwiderstands -- eine vergleichbare Wirkung
   zu erfahren?
@@ -288,7 +288,7 @@ Energie <Mechanische Energie>`.
 
 .. _Energie-04:
 
-* Ein Badegast springt von einem 5-m-Turm ins Wasser. Wie groß ist
+* (\**) Ein Badegast springt von einem 5-m-Turm ins Wasser. Wie groß ist
   seine Geschwindigkeit :math:`v` beim Eintauchen, wenn der Luftwiderstand
   vernachlässigt werden kann?
 
@@ -298,7 +298,7 @@ Energie <Mechanische Energie>`.
 
 .. _Energie-05:
 
-* Stimmt es, dass alle Lebensmittel gespeicherte Sonnen-Energie beinhalten?
+* (\*) Stimmt es, dass alle Lebensmittel gespeicherte Sonnen-Energie beinhalten?
 
   :ref:`Lösung <Energie-05-Lösung>`
 
@@ -308,7 +308,7 @@ Energie <Mechanische Energie>`.
 
 .. _Energie-06:
 
-* Welche Energieumwandlungen finden beim Trampolinspringen statt?
+* (\*) Welche Energieumwandlungen finden beim Trampolinspringen statt?
 
   .. image:: ../../pics/mechanik/arbeit-energie-leistung/energieerhaltung-trampolin.png
       :align: center

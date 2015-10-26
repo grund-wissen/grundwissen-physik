@@ -400,6 +400,7 @@ _{\rm{0}}` lässt sich folgendermaßen beschreiben:
   angibt. [#]_
 
 .. index:: Bremsformel, Bremsweg
+.. _Bremsformel:
 
 * Für Bremsvorgänge gibt es eine weitere nützliche Formel, die sich aus
   der obigen Gleichung :eq:`eqn-konstante-beschleunigung-wegstrecke` herleiten

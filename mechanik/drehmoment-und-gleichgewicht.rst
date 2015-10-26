@@ -184,6 +184,8 @@ Auflagefläche der Fläche zwischen den einzelnen Auflagepunkten. Beispielsweise
 entspricht die Auflagefläche eines Schemels mit drei Beinen der dreieckigen
 Fläche, die von den Beinen des Schemels begrenzt wird.
 
+.. index:: Standfestigkeit
+
 .. figure:: ../pics/mechanik/drehmoment-und-gleichgewicht/standfestigkeit.png
     :name: fig-standfestigkeit
     :alt:  fig-standfestigkeit

@@ -15,7 +15,7 @@ Flüssigkeiten <Mechanik der Flüssigkeiten>`.
 
 .. _Kolbendruck-01:
 
-* Auf einen Kolben mit einer Fläche von :math:`\unit[1 \cdot 10^4]{mm^2}` wird
+* (\*) Auf einen Kolben mit einer Fläche von :math:`\unit[1 \cdot 10^4]{mm^2}` wird
   eine Kraft von :math:`\unit[350]{N}` ausgeübt. Welcher Druck wird dadurch auf
   das Fluid im Zylinder ausgeübt?
 
@@ -25,7 +25,7 @@ Flüssigkeiten <Mechanik der Flüssigkeiten>`.
 
 .. _Schweredruck-01:
 
-* Bis zu welcher Höhe kann Wasser in den Leitungen eines Gebäudes maximal
+* (\*) Bis zu welcher Höhe kann Wasser in den Leitungen eines Gebäudes maximal
   steigen, wenn der Druck in Bodenhöhe :math:`p = \unit[6]{bar}` beträgt?
 
   :ref:`Lösung <Schweredruck-01-Lösung>`
@@ -34,7 +34,7 @@ Flüssigkeiten <Mechanik der Flüssigkeiten>`.
 
 .. _Auftrieb-01:
 
-* Welchen Auftrieb erfährt ein badender Mensch mit einem Volumen von
+* (\**) Welchen Auftrieb erfährt ein badender Mensch mit einem Volumen von
   :math:`\unit[80\,]{l}` und einer Dichte von :math:`\rho _{\rm{K}} =
   \unit[1050]{\frac{kg}{m^3}}` in normalem Wasser :math:`\rho _{\rm{W}} =
   \unit[1000]{\frac{kg}{m^3}}` und in gesättigtem Salzwasser mit einer Dichte
@@ -46,7 +46,7 @@ Flüssigkeiten <Mechanik der Flüssigkeiten>`.
 
 .. _Auftrieb-02:
 
-* Durch welchen Mechanismus können Fische im Wasser auf- und abtauchen, ohne
+* (\*) Durch welchen Mechanismus können Fische im Wasser auf- und abtauchen, ohne
   sich dabei in horizontaler Richtung fortzubewegen? Wie funktioniert das Auf-
   und Abtauchen bei einem Unterseeboot?
 
@@ -56,7 +56,7 @@ Flüssigkeiten <Mechanik der Flüssigkeiten>`.
 
 .. _Bernoulli-01:
 
-* (**) Durch ein horizontal verlaufendes Rohr fließt eine Flüssigkeit. Der
+* (\**) Durch ein horizontal verlaufendes Rohr fließt eine Flüssigkeit. Der
   Unterschied der Flüssigkeitsniveaus in der vorderen und hinteren Röhre
   beträgt :math:`\unit[10]{cm}`, wobei die Durchmesser der beiden Röhren
   identisch sind. Wie groß die Strömungsgeschwindigkeit :math:`v` der
@@ -84,7 +84,7 @@ Gase <Mechanik der Gase>`.
 
 .. _Dynamischer-Druck-01:
 
-* Welche Strömungsgeschwindigkeit :math:`v` ist notwendig, um einen dynamischen
+* (\**) Welche Strömungsgeschwindigkeit :math:`v` ist notwendig, um einen dynamischen
   Druck von :math:`p _{\rm{dyn}} = \unit[10]{kPa}` zu erzeugen, wenn es sich bei
   dem Fluid um Wasser :math:`(\rho _{\rm{Wasser}}= \unit[1]{\frac{g}{cm^3}})`
   beziehungsweise Luft :math:`(\rho _{\rm{Luft}} = \unit[1,29]{\frac{kg}{m^3}})`
@@ -104,7 +104,7 @@ Gase <Mechanik der Gase>`.
 
 .. _Bernoulli-02:
 
-* (**) Durch ein sich verengendes Rohr wird Luft geblasen. In jeder Minute
+* (\***) Durch ein sich verengendes Rohr wird Luft geblasen. In jeder Minute
   strömen :math:`\unit[1,5 \cdot 10 ^{-2}]{m^3}` durch das Rohr. Die
   Querschnittsfläche des weiten Teils beträgt :math:`\unit[2]{cm^2}`, die des
   engen Teils :math:`\unit[0,5]{cm^2}`. Wie groß ist der Unterschied

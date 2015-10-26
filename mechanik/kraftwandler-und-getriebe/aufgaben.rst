@@ -16,7 +16,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Hebel
 
 .. _Hebel-01:
 
-* Funktioniert eine Balkenwaage auch auf dem Mond? Gilt das gleiche auch für
+* (\*) Funktioniert eine Balkenwaage auch auf dem Mond? Gilt das gleiche auch für
   eine Federkraftwaage?
 
   :ref:`Lösung <Hebel-01-Lösung>`
@@ -25,7 +25,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Hebel
 
 .. _Hebel-02:
 
-* Weshalb ist weniger Kraft nötig, um Deckel einer Farbdose mit Hilfe eines
+* (\*) Weshalb ist weniger Kraft nötig, um Deckel einer Farbdose mit Hilfe eines
   Schraubenziehers zu öffnen, wenn dieser unter dem Deckelrand angesetzt wird?
 
   *Beispiel:* Wie groß ist die Kraft :math:`F_2` auf den Deckel, wenn der Abstand vom
@@ -39,7 +39,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Hebel
 
 .. _Hebel-03:
 
-* An einer Balkenwaage hängt im Abstand :math:`s _{\rm{1}} = \unit[10]{cm}`
+* (\*) An einer Balkenwaage hängt im Abstand :math:`s _{\rm{1}} = \unit[10]{cm}`
   eine Last :math:`m _{\rm{1}} = \unit[2]{kg}`. In welchem Abstand zur Drehachse
   muss man ein Gegengewicht mit einer Masse von :math:`m _{\rm{2}} =
   \unit[500]{g}` anbringen, damit die Waage im Gleichgewicht ist?
@@ -50,7 +50,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Hebel
 
 .. _Hebel-04:
 
-* Eine Person hält ein :math:`m = \unit[2]{kg}` schweres Gewicht mit horizontal
+* (\*) Eine Person hält ein :math:`m = \unit[2]{kg}` schweres Gewicht mit horizontal
   gehaltenem Unterarm in der Hand (der Oberarm hängt dabei lose nach unten). Der
   Anriffspunkt des Muskels am Unterarm ist :math:`s_1 = \unit[5]{cm}` vom
   Drehpunkt im Ellenbogen entfernt, der Abstand der Hand zum Drehpunkt beträgt
@@ -63,7 +63,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Hebel
 
 .. _Hebel-05:
 
-* An der linken Seite eines zweiseitigen Hebels sind zwei Gewichte :math:`F
+* (\**) An der linken Seite eines zweiseitigen Hebels sind zwei Gewichte :math:`F
   _{\rm{1}} = \unit[3,5]{N}` und :math:`m _{\rm{2}} = \unit[5]{N}` im Abstand
   :math:`s _{\rm{1}} = \unit[0,2]{m}` bzw. :math:`s _{\rm{2}} = \unit[0,1]{m}`
   von der Drehachse befestigt. Am rechten Arm sind zwei Gewichte :math:`F
@@ -87,7 +87,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Schiefe Ebene
 
 .. _Schiefe-Ebene-01:
 
-* Eine Schubkarre mit einer Gewichtskraft von :math:`\unit[600]{N}` wird
+* (\*) Eine Schubkarre mit einer Gewichtskraft von :math:`\unit[600]{N}` wird
   entlang einer schiefen Ebene verschoben. Die schiefe Ebene ist
   :math:`\unit[2,4]{m}` lang, ihre Höhe beträgt :math:`\unit[0,6]{m}`. Wie
   groß ist die zum (reibungsfreien) Schieben der Schubkarre notwendige Kraft
@@ -110,7 +110,7 @@ Rollen <Flaschenzüge und Rollen>`.
 
 .. _Flaschenzug-01:
 
-* Mit einem Flaschenzug aus vier losen und und vier festen Rollen wird eine
+* (\*) Mit einem Flaschenzug aus vier losen und und vier festen Rollen wird eine
   Last der Masse :math:`m=\unit[200]{kg}` um eine Höhe von :math:`h =
   \unit[3]{m}` angehoben. Die Masse einer einzelnen Rolle beträgt
   :math:`\unit[5]{kg}`. Wie groß ist die Zugkraft :math:`F`, wie lang die
@@ -122,7 +122,7 @@ Rollen <Flaschenzüge und Rollen>`.
 
 .. _Flaschenzug-02:
 
-* Welche Masse kann eine Person, die selbst :math:`\unit[50]{kg}` wiegt, durch
+* (\*) Welche Masse kann eine Person, die selbst :math:`\unit[50]{kg}` wiegt, durch
   ihre Gewichtskraft mit Hilfe eines Flaschenzugs aus zwei festen und zwei losen
   Rollen anheben, wenn das Gewicht des Flaschenzugs und die in den Rollen
   auftretende Reibung vernachlässigt werden können?
@@ -133,7 +133,7 @@ Rollen <Flaschenzüge und Rollen>`.
 
 .. _Flaschenzug-03:
 
-* Eine Anordnung, wie sie in der folgenden Abbildung dargestellt ist, heißt
+* (\**) Eine Anordnung, wie sie in der folgenden Abbildung dargestellt ist, heißt
   "Potenzflaschenzug". Mit welcher Kraft :math:`F` muss am losen Seilende
   mindestens gezogen werden, um eine Last mit einem Gewicht von :math:`F
   _{\rm{G}} = \unit[800]{N}` anzuheben? Mit welcher Kraft muss man am losen
@@ -165,7 +165,7 @@ Getriebe <Zahnräder und Getriebe>`.
 
 .. _Ketten-Getriebe-01:
 
-* An einem Fahrrad wird die Kraft von den Pedalen mittels dem Pedal und der
+* (\**) An einem Fahrrad wird die Kraft von den Pedalen mittels dem Pedal und der
   Kurbel, dem vorderen Zahnrad, der Kette und schließlich dem hinteren Zahnrad
   auf das Hinterrad übertragen. Wie groß ist die auf ein Hinterrad mit einem
   Radius von :math:`r_4 = \unit[0,35]{m}` wirkende Kraft :math:`F_4`, wenn der

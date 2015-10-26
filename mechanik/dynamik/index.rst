@@ -10,8 +10,8 @@ Körper untersucht werden.
 .. toctree::
     :maxdepth: 2
 
-    kraft.rst
-    arten-mechanischer-kraefte.rst
+    mechanische-kraefte.rst
     zusammenwirken-mehrerer-kraefte.rst
+    arten-mechanischer-kraefte.rst
 
 

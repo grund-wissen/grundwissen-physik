@@ -233,4 +233,3 @@ als der Betrag :math:`F` der zu zerlegenden Kraft.
     mehrerer Kräfte>` und :ref:`Übungsaufgaben <Aufgaben zum Zusammenwirken
     mehrerer Kräfte>`.
 
-

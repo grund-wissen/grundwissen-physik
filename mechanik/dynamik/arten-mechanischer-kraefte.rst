@@ -506,6 +506,6 @@ bis :math:`250\,000`-faches der Erdbeschleunigung :math:`g` betragen.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Arten mechanischer
-    Kräfte>` und :ref:`Übungsaufgaben <Aufgaben zu Arten mechanischer Kräfte>`.
+    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu mechanischen
+    Kräften>` und :ref:`Übungsaufgaben <Aufgaben zu Arten mechanischer Kräfte>`.
 

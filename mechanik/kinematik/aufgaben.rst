@@ -113,6 +113,8 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 .. _Geschwindigkeit-09:
 
+.. Idee nach Brenneke S.271
+
 * (**) Ein Fahrzeug startet mit einer Geschwindigkeit :math:`v_1 = \unit[30,0]{km/h}`
   von Ort :math:`\rm{A}` nach Ort :math:`\rm{B}`. Gleichzeitig startet von Ort
   :math:`\rm{B}` ein Fahrzeug mit :math:`v_2 = \unit[50,0]{km/h}` nach Ort
@@ -132,7 +134,8 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 * (*) Welche durchschnittliche Beschleunigung erreicht ein Radfahrer, der aus
   dem Stand (:math:`v _{\rm{0}} = \unit[0]{m/s}`) in einer Zeit von :math:`t =
-  \unit[15]{s}` eine Geschwindigkeit von :math:`v = \unit[8,0]{m/s}` erreicht?
+  \unit[8,0]{s}` eine Geschwindigkeit von :math:`v = \unit[30]{\frac{km}{h}}`
+  erreicht?
 
   :ref:`Lösung <Beschleunigung-01-Lösung>`
 
@@ -155,7 +158,7 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 .. _Beschleunigung-03:
 
-* (**) Wie groß ist die Beschleunigung :math:`a` eines Fahrzeugs, das in
+* (*) Wie groß ist die Beschleunigung :math:`a` eines Fahrzeugs, das in
   :math:`t = \unit[5,0]{s}` von :math:`v _{\rm{1}} = \unit[20,0]{m/s}` auf
   :math:`v _{\rm{2}} = \unit[36,5]{m/s}` beschleunigt? Wie groß ist der
   Beschleunigungswert im Vergleich zum Wert der Erdbeschleunigung :math:`(g =
@@ -168,11 +171,12 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 .. _Beschleunigung-04:
 
-* (**) Ein Badegast eines Schwimmbades springt aus einer Höhe von
-  :math:`h=\unit[5,0]{m}` ins Wasser. Der Luftwiderstand kann hierbei
-  vernachlässigt werden, die Erdbeschleunigung beträgt :math:`g =
-  \unit[9,81]{m/s^2}`. Wie lange dauert seine Flugzeit, und welche
-  Geschwindigkeit hat er in dem Moment, in dem er ins Wasser eintaucht?
+* (\**) Ein PKW fährt innerorts mit :math:`v_0 = \unit[40]{\frac{km}{h}}`.
+  Plötzlich bemerkt der Fahrer in :math:`\Delta s = \unit[25]{m}` Entfernung ein
+  Hindernis. Nach einer Reaktionszeit von :math:`\Delta t = \unit[1,0]{s}`
+  bremst er den Wagen mit einer Beschleunigung von
+  :math:`a=\unit[-4,5]{\frac{m}{s^2}}` ab. Kommt der Wagen noch rechtzeitig vor
+  dem Hindernis zum Stillstand?
 
   :ref:`Lösung <Beschleunigung-04-Lösung>`
 
@@ -180,13 +184,11 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 .. _Beschleunigung-05:
 
-* (**) Ein Stein, der in einen Brunnen fallen gelassen wird, erfährt durch die
-  Erdanziehung eine Beschleunigung von :math:`(g = \unit[9,81]{m/s^2})`.
-  Anfangs hat der Stein eine Geschwindigkeit von :math:`v _{\rm{0}} =
-  \unit[0]{m/s}`; nach einer Zeit von :math:`t = \unit[1,7]{s}` kommt er auf
-  dem Grund des Brunnens auf. Welche Geschwindigkeit erreicht der Stein dabei,
-  wenn der Luftwiderstand vernachlässigt werden kann? Welche Strecke legt er
-  bis zum Aufprall zurück?
+* (\**) Ein Badegast eines Schwimmbades springt aus einer Höhe von
+  :math:`h=\unit[5,0]{m}` ins Wasser. Der Luftwiderstand kann hierbei
+  vernachlässigt werden, die Erdbeschleunigung beträgt :math:`g =
+  \unit[9,81]{m/s^2}`. Wie lange dauert seine Flugzeit, und welche
+  Geschwindigkeit hat er in dem Moment, in dem er ins Wasser eintaucht?
 
   :ref:`Lösung <Beschleunigung-05-Lösung>`
 
@@ -194,7 +196,21 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 .. _Beschleunigung-06:
 
-* (**) Wie groß ist die Beschleunigung, die ein Fahrer bei frontalem Aufprall
+* (\**) Ein Stein, der in einen Brunnen fallen gelassen wird, erfährt durch die
+  Erdanziehung eine Beschleunigung von :math:`(g = \unit[9,81]{m/s^2})`.
+  Anfangs hat der Stein eine Geschwindigkeit von :math:`v _{\rm{0}} =
+  \unit[0]{m/s}`; nach einer Zeit von :math:`t = \unit[1,7]{s}` kommt er auf
+  dem Grund des Brunnens auf. Welche Geschwindigkeit erreicht der Stein dabei,
+  wenn der Luftwiderstand vernachlässigt werden kann? Welche Strecke legt er
+  bis zum Aufprall zurück?
+
+  :ref:`Lösung <Beschleunigung-06-Lösung>`
+
+----
+
+.. _Beschleunigung-07:
+
+* (\**) Wie groß ist die Beschleunigung, die ein Fahrer bei frontalem Aufprall
   eines Fahrzeugs gegen eine Mauer erfährt, wenn die Knautschzone :math:`\Delta
   s = \unit[0,5]{m}` und die Aufprallgeschwindigkeit :math:`v = \unit[30]{km/h}`
   beträgt?
@@ -205,7 +221,7 @@ Bewegungen <Geradlinige Bewegungen>`.
   Wie groß ist die Beschleunigung, wenn die Aufprallgeschwindigkeit bei
   :math:`\unit[50]{km/h}` oder :math:`\unit[100]{km/h}` liegt?
 
-  :ref:`Lösung <Beschleunigung-06-Lösung>`
+  :ref:`Lösung <Beschleunigung-07-Lösung>`
 
 ----
 
@@ -221,7 +237,7 @@ Bewegungen <Kreisförmige Bewegungen>`.
 
 .. _Kreisbewegung-01:
 
-* (*) Ein Stein wird an eine Schnur gebunden und im Kreis geschleudert;
+* (\*) Ein Stein wird an eine Schnur gebunden und im Kreis geschleudert;
   plötzlich reißt die Schnur. In welcher Richtung fliegt der Stein weiter? Um
   was für einen Bewegungstyp handelt es sich folglich bei einer kreisförmigen
   Bewegung?
@@ -232,7 +248,7 @@ Bewegungen <Kreisförmige Bewegungen>`.
 
 .. _Kreisbewegung-02:
 
-* (*) Ein Fahrradreifen mit einem Durchmesser von :math:`d=\unit[72]{cm}` dreht
+* (\*) Ein Fahrradreifen mit einem Durchmesser von :math:`d=\unit[72]{cm}` dreht
   sich in einer Sekunde :math:`1,8` mal. Wie groß ist dabei die Umlaufzeit
   :math:`T`? Welche Winkelgeschwindigkeit und welche Bahngeschwindigkeit hat ein
   Kieselstein, der sich im Profil des Mantels festgesetzt hat?
@@ -241,9 +257,20 @@ Bewegungen <Kreisförmige Bewegungen>`.
 
 ----
 
+.. _Kreisbewegung-03:
+
+* (\*) Ein PKW fährt mit einer Geschwindigkeit von :math:`\unit[90 ]{\frac{km}{h}}`.
+  Wie groß sind die Winkelgeschwindigkeit :math:`\omega` und die Drehzahl
+  :math:`n` der Räder, wenn deren Durchmesser :math:`d=\unit[45]{cm}` beträgt?
+
+
+  :ref:`Lösung <Kreisbewegung-03-Lösung>`
+
+----
+
 .. _Radialbeschleunigung-01:
 
-* (*) Wie groß ist die Radialbeschleunigung :math:`a _{\rm{\varphi}}` einer
+* (\*) Wie groß ist die Radialbeschleunigung :math:`a _{\rm{\varphi}}` einer
   Zentrifuge mit Radius :math:`r = \unit[1,00]{cm}`, wenn sie eine Drehzahl von
   :math:`n = \unit[3\,000]{\frac{U}{min}}` aufweist?
 
@@ -253,7 +280,7 @@ Bewegungen <Kreisförmige Bewegungen>`.
 
 .. _Radialbeschleunigung-02:
 
-* (**) Welche Radialbeschleunigung :math:`a _{\rm{\varphi}}` erfährt ein Körper,
+* (\**) Welche Radialbeschleunigung :math:`a _{\rm{\varphi}}` erfährt ein Körper,
   der auf Höhe des Äquators mit der Erde (Radius :math:`r _{\rm{E}} =
   \unit[6378]{km}`) mitrotiert? Wie groß ist :math:`a _{\rm{\varphi}}` bei einem
   Körper, der sich auf Höhe des 45. nördlichen Breitengrades bzw. am Nordpol
@@ -275,7 +302,7 @@ Bewegungen <Zusammengesetzte Bewegungen>`.
 
 .. _Zusammengesetzte-Bewegung-01:
 
-* (*) Ein Schwimmer bewegt sich mit :math:`v_y=\unit[0,5]{\frac{m}{s}}` quer zur
+* (\*) Ein Schwimmer bewegt sich mit :math:`v_y=\unit[0,5]{\frac{m}{s}}` quer zur
   Strömung eines Flusses. Er wird um :math:`s_x=\unit[35]{m}` abgetrieben, bis
   er das :math:`s_y = \unit[100]{m}` entfernte Ufer erreicht. Wie groß ist die
   mittlere Strömungsgeschwindigkeit des Flusses?

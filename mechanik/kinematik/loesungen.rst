@@ -296,16 +296,17 @@ Bewegungen>`.
 .. _Beschleunigung-01-Lösung:
 
 * Die Beschleunigung des Radfahrers ist gleich dem Verhältnis aus der
-  Veränderung seiner Geschwindigkeit :math:`\Delta v = \unit[8]{m/s}`
-  (entspricht :math:`\unit[28,8]{km/h}`) und der dafür benötigten Zeit
-  :math:`\Delta t = \unit[15]{s}`
+  Veränderung seiner Geschwindigkeit :math:`\Delta v = \unit[30]{\frac{km}{h}}
+  \approx \unit[8,33]{\frac{m}{s}}` und der dafür benötigten Zeit
+  :math:`\Delta t = \unit[8,0]{s}`
 
   .. math::
 
-      a = \frac{\Delta v}{\Delta t} = \frac{\unit[8]{\frac{m}{s}
-      }}{\unit[15]{s}} \approx \unit[0,53]{\frac{m}{s^2} }
+      a = \frac{\Delta v}{\Delta t} = \frac{\unit[8,33]{\frac{m}{s}
+      }}{\unit[8,0]{s}} \approx \unit[1,04]{\frac{m}{s^2} }
 
-  Die Beschleunigung des Radfahrers entspricht somit rund :math:`\unit[0,5]{m/s^2 }`.
+  Die Beschleunigung des Radfahrers entspricht somit rund
+  :math:`\unit[1,0]{m/s^2 }`.
 
   :ref:`Zurück zur Aufgabe <Beschleunigung-01>`
 
@@ -380,6 +381,36 @@ Bewegungen>`.
 
 .. _Beschleunigung-04-Lösung:
 
+* Während der Reaktionszeit von :math:`\Delta t = \unit[1,0]{s}` bewegt sich der
+  PKW mit seiner Anfangsgeschwindigkeit :math:`v_0=\unit[40]{\frac{km}{h}}
+  \approx \unit[11,1]{\frac{m}{s}}` weiter; für den Reaktionsweg gilt also:
+
+  .. math::
+
+      s _{\mathrm{Reaktion}} = v_0 \cdot \Delta t = \unit[11,1]{\frac{m}{s}}
+      \cdot \unit[1,0]{s} = \unit[11,1]{m}
+
+  Der anschließende Bremsweg kann mittels der :ref:`Bremsformel <Bremsformel>`
+  :math:`v^2 - v_0^2 = 2 \cdot a \cdot s` berechnet werden; da die
+  Endgeschwindigkeit :math:`v` gleich Null ist, folgt:
+
+  .. math::
+
+      - v_0^2 = 2 \cdot a \cdot s_{\mathrm{Brems}} \quad \Longleftrightarrow
+        \quad s_{\mathrm{Brems}} = \frac{-v_0^2}{2 \cdot a} \\[5pt]
+      s _{\mathrm{Brems}} = \frac{-(\unit[11,1]{\frac{m}{s}})^2}{2 \cdot
+      (\unit[-4,5]{\frac{m}{s^2}})} \approx \unit[13,69]{m}
+
+  Der PKW kommt somit nach einem Anhalteweg von rund
+  :math:`s_{\mathrm{Reaktion}} + s _{\mathrm{Brems}} = \unit[(11,1 + 13,69)]{m}
+  = \unit[24,8]{m}` gerade noch rechtzeitig vor dem Hindernis zum Stehen.
+
+  :ref:`Zurück zur Aufgabe <Beschleunigung-04>`
+
+----
+
+.. _Beschleunigung-05-Lösung:
+
 * Während des Sprungs wird der Badegast durch die Erdanziehung :math:`a = g =
   \unit[9,81]{m/s^2}` konstant beschleunigt. Um die Flugzeit zu bestimmen,
   kann die Formel für die zurückgelegte Wegstrecke :math:`s = \unit[5,0]{m}`
@@ -408,11 +439,11 @@ Bewegungen>`.
   Die Geschwindigkeit des Badegastes beim Eintauchen beträgt somit rund
   :math:`\unit[9,9]{m/s}` (entspricht :math:`\unit[35,7]{km/h}`).
 
-  :ref:`Zurück zur Aufgabe <Beschleunigung-04>`
+  :ref:`Zurück zur Aufgabe <Beschleunigung-05>`
 
 ----
 
-.. _Beschleunigung-05-Lösung:
+.. _Beschleunigung-06-Lösung:
 
 * Der Stein wird, wenn der Luftwiderstand vernachlässigt werden kann, mit
   der konstanten Beschleunigung :math:`a = g = \unit[9,81]{m/s^2}`
@@ -437,11 +468,11 @@ Bewegungen>`.
 
   Der Brunnen ist somit (mindestens) :math:`\unit[14]{m}` tief.
 
-  :ref:`Zurück zur Aufgabe <Beschleunigung-05>`
+  :ref:`Zurück zur Aufgabe <Beschleunigung-06>`
 
 ----
 
-.. _Beschleunigung-06-Lösung:
+.. _Beschleunigung-07-Lösung:
 
 * Um die beim Aufprall wirkende Beschleunigung :math:`a` anhand des Bremsweges
   (der "Knautschzone") :math:`\Delta s = \unit[0,5]{m}` zu ermitteln, kann die
@@ -491,7 +522,7 @@ Bewegungen>`.
   Diese Beschleunigungen entsprechen rund :math:`\unit[20]{g}` beziehungsweise
   :math:`\unit[89]{g}` und sind somit lebensgefährlich bzw. tödlich.
 
-  :ref:`Zurück zur Aufgabe <Beschleunigung-06>`
+  :ref:`Zurück zur Aufgabe <Beschleunigung-07>`
 
 ----
 
@@ -556,6 +587,34 @@ kreisförmigen Bewegungen>` zum Abschnitt :ref:`Kreisförmige Bewegungen
   :math:`\unit[4,1]{m/s} \approx \unit[15]{km/h}`.
 
   :ref:`Zurück zur Aufgabe <Kreisbewegung-02>`
+
+----
+
+.. _Kreisbewegung-03-Lösung:
+
+* Der PKW bewegt sich mit einer Geschwindigkeit von :math:`v =
+  \unit[90]{\frac{km}{h}} = \unit[25]{\frac{m}{s}}`; mit dem Radius :math:`r =
+  \frac{d}{2} = \unit[22,5]{cm} = \unit[0,225]{m}` folgt für die
+  Winkelgeschwindigkeit :math:`\omega` der Räder:
+
+  .. math::
+
+      \omega = \frac{v}{r} = \frac{\unit[25]{\frac{m}{s}}}{\unit[0,225]{m}}
+      \approx \unit[111,1]{\frac{1}{s}}
+
+  Die Winkelgeschwindigkeit beträgt somit rund
+  :math:`\unit[111,1]{\frac{rad}{s}}`. Da eine voll Umdrehung einem Drehwinkel von
+  :math:`2 \cdot \pi` entspricht, folgt für die Drehzahl :math:`n`:
+
+  .. math::
+
+      n = \frac{\omega}{2 \cdot \pi} = \frac{\unit[111,1]{\frac{1}{s}}}{2 \cdot
+      \pi} \approx \unit[17,7]{\frac{U}{s}}
+
+  Das Rad führt in je Sekunde somit rund :math:`17,7` Umdrehungen aus.
+
+  :ref:`Zurück zur Aufgabe <Kreisbewegung-03>`
+
 
 ----
 

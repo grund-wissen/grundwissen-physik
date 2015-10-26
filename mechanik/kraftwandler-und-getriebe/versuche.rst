@@ -171,6 +171,35 @@ Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Schiefe Ebene <Schi
 
 ----
 
+.. _Schiefe Ebene und Haftreibung:
+
+.. rubric:: Schiefe Ebene und Haftreibung
+
+*Material:*
+
+.. hlist::
+    :columns: 2
+
+    * Stativ mit Quermuffe und langer Achse (4mm)
+    * Breites Versuchsbrett
+    * Schraubzwinge (optional)
+    * Mehrere Gegenstände (Stifte, Radiergummi, ...)
+
+*Durchführung:*
+
+- Baue das Stativ samt Quermuffe und langer Achse auf und hänge ein Ende des
+  Versuchbretts über die Querbohrung an der Achse auf. Sichere das untere Ende
+  des Versuchsbretts gegebenenfalls mit einer Schraubzwinge ab, so dass es nicht
+  wegrutschen kann.
+- Stelle die Anordnung zunächst auf einen geringen Neigungswinkel ein und lege
+  verschiedene Gegenstände auf das Brett. Notiere Dir als Vermutung, welcher
+  Gegenstand wohl als erster zu rutschen beginnen wird und welcher wohl am
+  längsten liegen bleiben wird.
+- Überprüfe Deine Vermutung, indem Du die Neigung des Versuchsbretts *langsam*
+  erhöhst. Bis zu welchem Neigungswinkel bleiben die einzelnen Gegenstände
+  liegen? Wie kannst Du das Ergebnis erklären?
+
+
 .. _Versuche zu Flaschenzügen und Rollen:
 
 Versuche zu Flaschenzügen und Rollen

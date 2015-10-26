@@ -13,8 +13,8 @@ Eine HTML-Version dieser Seite ist unter folgender Adresse abrufbar:
 http://www.grund-wissen.de/physik
 
 
-Lokale Kopien und Mitarbeit
----------------------------
+Lokale Kopien und eigene Änderungen
+-----------------------------------
 
 Um lokale Kopien der Dokumentation zu erstellen, müssen einige Pakete
 installiert sein. Unter Debian, Ubuntu oder Linux Mint können diese

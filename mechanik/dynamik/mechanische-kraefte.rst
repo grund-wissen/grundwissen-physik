@@ -1,9 +1,10 @@
 
 .. index:: Kraft
 .. _Kraft:
+.. _Mechanische Kräfte:
 
-Die Kraft
-=========
+Mechanische Kräfte
+==================
 
 Kräfte erkennt man an den Wirkungen, die sie hervorrufen. Wird ein Körper
 verformt oder ändert sich seine Geschwindigkeit, so ist stets eine Kraft die
@@ -168,10 +169,10 @@ können sich somit nicht gegenseitig aufheben.
   ihrer Wirkung auf.
 
   .. figure:: ../../pics/mechanik/dynamik/kraft-und-gegenkraft.png
-      :width: 35%
-      :align: center
       :name: fig-kraft-gegenkraft
       :alt:  fig-kraft-gegenkraft
+      :align: center
+      :width: 35%
 
       Kraft und Gegenkraft an einem hängenden Gewichtsstück.
 
@@ -201,10 +202,10 @@ Um die Wirkung einer Kraft vorhersagen zu können, muss man nicht nur die Größ
 angreift und in welche Richtung sie wirkt.
 
 .. figure:: ../../pics/mechanik/dynamik/kraftvektor.png
-    :width: 50%
-    :align: center
     :name: fig-kraftvektor
     :alt:  fig-kraftvektor
+    :align: center
+    :width: 50%
 
     Ein Kraftvektor ist durch seinen Betrag, seine Wirkungslinie und seinen
     Angriffspunkt eindeutig definiert.
@@ -395,6 +396,6 @@ bei einer kreisförmigen Bewegung.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Kräften>` und
-    :ref:`Übungsaufgaben <Aufgaben zu Kräften>`.
+    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu mechanischen Kräften>` und
+    :ref:`Übungsaufgaben <Aufgaben zu mechanischen Kräften>`.
 
