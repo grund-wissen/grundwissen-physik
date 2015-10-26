@@ -30,7 +30,7 @@ Anschließend kann das Repository heruntergeladen werden:
 
 .. code-block:: bash
 
-    git clone https://github.com//grund-wissen/grundwissen-linux.git
+    git clone https://github.com//grund-wissen/grundwissen-physik.git
 
 Im Projektverzeichnis können dann aus den Quelldateien wahlweise HTML-Seiten
 oder ein PDF-Dokument erstellt werden:
