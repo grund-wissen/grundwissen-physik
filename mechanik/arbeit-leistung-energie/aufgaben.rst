@@ -116,6 +116,18 @@ Arbeit <Mechanische Arbeit>`.
 
 ----
 
+.. _Beschleunigungsarbeit-03:
+
+* (\*) Welche Menge an Arbeit ist nötig, um ein Fahrzeug mit einer Masse von
+  :math:`m=\unit[1000]{kg}` von :math:`0` auf :math:`\unit[50]{\frac{km}{h}}`
+  beziehungsweise von :math:`0` auf :math:`\unit[100]{\frac{km}{h}}` zu
+  beschleunigen? Welche Menge an Arbeit ist nötig, um das Fahrzeug von
+  :math:`\unit[50]{\frac{km}{h}}` auf :math:`\unit[100]{\frac{km}{h}}` zu
+  beschleunigen?
+
+----
+
+
 
 .. _Aufgaben zum Wirkungsgrad:
 
@@ -233,10 +245,11 @@ Leistung <Leistung>`.
 
 .. _Beschleunigungs-Leistung-01:
 
-* (\**) Ein Fahrzeug der Masse :math:`m = \unit[900]{kg}` wird beim Einfahren
-  auf eine Autobahn in :math:`\unit[t=8]{s}` konstant um :math:`\unit[15]{m/s}`
-  (entspricht :math:`\unit[54]{km/h}`) beschleunigt. Wie groß muss dabei die
-  Beschleunigungs-Leistung des Motors (mindestens) sein?
+* (\*) Ein Fahrzeug der Masse :math:`m = \unit[1200]{kg}` wird beim Einfahren
+  auf eine Autobahn in :math:`\unit[t=8]{s}` konstant von
+  :math:`\unit[15]{\frac{m}{s}}` auf :math:`\unit[25]{\frac{m}{s}}`
+  beschleunigt. Wie groß muss die Beschleunigungs-Leistung des Motors dabei
+  mindestens sein?
 
   :ref:`Lösung <Beschleunigungs-Leistung-01-Lösung>`
 
@@ -303,6 +316,7 @@ Energie <Mechanische Energie>`.
   :ref:`Lösung <Energie-05-Lösung>`
 
 ----
+
 
 ..  Wenn sich Label ändert, Verweis in Links-und-Quellen auch anpassen!
 

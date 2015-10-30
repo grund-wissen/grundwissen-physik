@@ -136,7 +136,9 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
 * (\*) Ein Schlitten mit Kind (Gesamt-Gewichtskraft: :math:`\unit[500]{N}`) wird
   von einem Erwachsenen gezogen. Das Zugseil schließt dabei einen Winkel von
-  zwischen Schlitten und Schnee :math:`\mu = 0,03` beträgt?
+  :math:`\alpha = 10 \degree` ein. Wie groß ist die nötige Zugkraft :math:`F
+  _{\mathrm{z}}`, wenn die Reibungszahl zwischen Schlitten und Schnee :math:`\mu
+  = 0,03` beträgt?
 
   .. image:: ../../pics/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png
       :align: center

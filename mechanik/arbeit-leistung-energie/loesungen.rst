@@ -249,6 +249,48 @@ Arbeit>`.
 
 ----
 
+.. _Beschleunigungsarbeit-03-Lösung:
+
+* Die zum Beschleunigen des Fahrzeugs auf :math:`v_1=\unit[50]{\frac{km}{h}}
+  \approx \unit[13,9]{\frac{m}{s}}` nötige Arbeit beträgt mit :math:`m =
+  \unit[1000]{kg}`:
+
+  .. math::
+
+      W _{\mathrm{B,1}} = \frac{1}{2} \cdot m \cdot v_1^2 = \frac{1}{2} \cdot
+      \unit[1000]{kg} \cdot (\unit[13,9]{\frac{m}{s}})^2 \approx \unit[96\,451]{J}
+
+  Zum Beschleunigen des Fahrzeugs auf :math:`v_2=\unit[100]{\frac{km}{h}}
+  \approx \unit[27,8]{\frac{m}{s}}` muss folgende Arbeit verrichtet werden:
+
+  .. math::
+
+      W _{\mathrm{B,2}} = \frac{1}{2} \cdot m \cdot v_2^2 = \frac{1}{2} \cdot
+      \unit[1000]{kg} \cdot (\unit[27,8]{\frac{m}{s}})^2 \approx \unit[385\,802]{J}
+
+  Die zum Beschleunigen des Fahrzeugs von :math:`v_1=\unit[50]{\frac{km}{h}}`
+  auf :math:`v_2 = \unit[100]{\frac{km}{h}}` nötige Arbeitsmenge :math:`W
+  _{\mathrm{B,3}}` muss der Differenz :math:`W_2 - W_1` der Arbeitsmengen
+  entsprechen, die zum Beschleunigen aus der Ruhelage auf :math:`50`
+  beziehungsweise :math:`\unit[100]{\frac{km}{h}}` nötig sind:
+
+  .. math::
+
+      W _{\mathrm{B,3}} = W_{\mathrm{B,2}} - W_{\mathrm{B,1}} =
+      \unit[385,802]{J} - \unit[96\,451]{J} \approx \unit[289\,351]{J}
+
+  Es sind somit rund :math:`\unit[289]{kJ}` zum Beschleunigen von :math:`50` auf
+  :math:`\unit[100]{\frac{km}{h}}` an Beschleunigungsarbeit nötig.
+
+  Hinweis: Die Arbeitsmenge :math:`W_{\mathrm{B,3}}` könnte ebenfalls mittels
+  :math:`W_{\mathrm{B,3}} = \frac{1}{2} \cdot m \cdot (v_2^2 - v_1^2)` berechnet
+  werden; falsch wäre es hingegen, :math:`\frac{1}{2} \cdot m \cdot (\Delta
+  v)^2` zu rechnen, da :math:`(\Delta v)^2 = (v_2-v_1)^2 \ne v_2^2-v_1^2` ist!
+
+
+  :ref:`Zurück zur Aufgabe <Beschleunigungsarbeit-03>`
+
+----
 
 .. _Lösungen zum Wirkungsgrad:
 
@@ -517,28 +559,33 @@ mechanischer Leistung>` zum Abschnitt :ref:`Mechanische Leistung <Leistung>`.
 
 .. _Beschleunigungs-Leistung-01-Lösung:
 
-* Die verrichtete Beschleunigungsarbeit beträgt mit :math:`m =
-  \unit[900]{kg}` und :math:`\Delta v = \unit[15]{m/s}`:
+* Die verrichtete Beschleunigungsarbeit beträgt mit :math:`m = \unit[1200]{kg}`
+  und :math:`v_2 = \unit[25]{m/s}` und :math:`v_1 = \unit[15]{\frac{m}{s}}`:
 
   .. math::
 
-      \Delta W &= \frac{1}{2} \cdot m \cdot (\Delta v)^2 = \frac{1}{2} \cdot
-      \unit[900]{kg} \cdot \left( \unit[15]{\frac{m}{s} }\right) ^2 =
-      \frac{1}{2} \cdot \unit[900]{kg} \cdot \unit[225]{\frac{m^2}{s^2} } \\ &=
-      \unit[101\,250]{kg \cdot \frac{m^2}{s^2} } = \unit[101\,250]{J}
+      \Delta W &= \frac{1}{2} \cdot m \cdot (v_2^2 - v_1^2) = \frac{1}{2} \cdot
+      \unit[1200]{kg} \cdot \left( \left( \unit[25]{\frac{m}{s}} \right)^2 -
+      \left( \unit[15]{\frac{m}{s}} \right)^2 \right) \\ &= \frac{1}{2} \cdot
+      \unit[1200]{kg} \cdot \left( \unit[625]{\frac{m^2}{s^2} } -
+      \unit[225]{\frac{m^2}{s^2}} \right) = \unit[240\,000]{kg \cdot
+      \frac{m^2}{s^2} } = \unit[240\,000]{J}
 
   Diese Arbeit wird in :math:`\Delta t = \unit[8]{s}` verrichtet. Damit lässt
   sich auch die Beschleunigungs-Leistung :math:`P` berechnen:
 
   .. math::
 
-      P = \frac{\Delta W}{\Delta t} = \frac{\unit[101\,250]{J}}{\unit[8]{s}}
-      \approx \unit[12\,656]{W}
+      P = \frac{\Delta W}{\Delta t} = \frac{\unit[240\,000]{J}}{\unit[8]{s}}
+      \approx \unit[30\,000]{W}
 
-  Die Beschleunigungs-Leistung des Motors beträgt somit rund
-  :math:`\unit[12\,656]{W} \approx \unit[12,7]{kW}`. [#]_
+  Der Motor muss somit (abgesehen vom Luftwiderstand und von Reibungsverlusten
+  im Getriebe) zur Beschleunigung mindestens :math:`\unit[30\,000]{W} =
+  \unit[30]{kW}` aufbringen.
 
   :ref:`Zurück zur Aufgabe <Beschleunigungs-Leistung-01>`
+
+
 
 ----
 
@@ -732,8 +779,7 @@ mechanischer Energie>` zum Abschnitt :ref:`Mechanische Energie <Mechanische Ener
 
   .. only:: html
 
-      .. centered:: `SVG: Energieerhaltung beim Trampolinspringen (Lösung)
-          <../../pics/mechanik/arbeit-energie-leistung/energieerhaltung-trampolin-loesung.svg>`
+      .. centered:: :download:`SVG: Energieerhaltung beim Trampolinspringen (Lösung) <../../pics/mechanik/arbeit-energie-leistung/energieerhaltung-trampolin-loesung.svg>`
 
   Am höchsten Punkt wurde die gesamte Bewegungsenergie in Höhenenergie
   umgewandelt. Anschließend findet in umgekehrter Weise eine Umwandlung von
@@ -788,9 +834,6 @@ mechanischer Energie>` zum Abschnitt :ref:`Mechanische Energie <Mechanische Ener
     dem Newtonschen :ref:`Kraftgesetz <Kraftgesetz>`); andererseits gilt
     nach der Definition der Energie-Einheit :math:`\unit[1]{J} = \unit[1]{N
     \cdot m}`.
-
-.. [#] Die zusätzlich zum Ausgleich der Reibung verrichtete Motoreistung bleibt
-    dabei unberücksichtigt.
 
 
 .. raw:: latex
