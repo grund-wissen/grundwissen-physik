@@ -66,9 +66,9 @@ Der Term :math:`m \cdot \frac{\Delta v}{\Delta t}` im ersten Teil dieser Summe
 kann aufgrund des Zusammenhangs :math:`a = \frac{\Delta v}{\Delta t}` auch als
 :math:`m \cdot a` geschrieben werden. Dieser Term entspricht der üblichen
 Definition der Kraft :math:`(F = m \cdot a)` und ist mit der Änderung des
-Impulses identisch, sofern die Änderung der Masse gleich Null ist.
-Andernfalls muss das :ref:`2. Newtonsche Gesetz ("Kraftgesetz") <Kraftgesetz>`
-allgemeiner formuliert werden. Newton selbst hat es in folgender Form angegeben:
+Impulses identisch, sofern die Änderung der Masse gleich Null ist. Andernfalls
+muss das :ref:`2. Newtonsche Gesetz ("Kraftgesetz") <Kraftgesetz>` allgemeiner
+formuliert werden. Newton selbst hat es in folgender Form angegeben:
 
 .. math::
     :label: eqn-kraftgesetz-allgemein
@@ -268,7 +268,7 @@ folgender Formel experimentell bestimmt werden:
 
 .. math::
 
-    k = \frac{v_2 - v_1}{u_2 - u_1}
+    k = \left| \frac{u_2 - u_1}{v_2 - v_1} \right|
 
 Die Stoßzahl :math:`k` ist gleich Null für komplett unelastische Prozesse und
 gleich Eins für komplett elastische Prozesse. Für teilelastische Prozesse
@@ -331,12 +331,12 @@ werden, in der die Änderung stattfindet. Damit folgt:
     \omega
 
 Der Term :math:`J \cdot \frac{\Delta \omega}{\Delta t}` im ersten Teil dieser
-Summe kann aufgrund des Zusammenhangs :math:`\alpha = \frac{\Delta
-\omega}{\Delta t}` auch als :math:`J \cdot \alpha` geschrieben werden. Dieser
+Summe lässt sich aufgrund des Zusammenhangs :math:`\alpha = \frac{\Delta
+\omega}{\Delta t}` auch als :math:`J \cdot \alpha` schreiben. Dieser
 Term kann als :ref:`Drehmoment <Drehmoment>` aufgefasst werden :math:`(M = J
 \cdot \alpha)` und ist mit der Änderung des Drehimpulses identisch, sofern die
 Änderung des Trägheitsmoments gleich Null ist. Andernfalls muss diese zusätzlich
-berücksichtigt werden:
+berücksichtigt werden: [#]_
 
 .. math::
     :label: eqn-drehimpuls-änderung
@@ -371,12 +371,6 @@ Gesamt-Drehimpuls konstant. Dieser empirisch gefundene Sachverhalt wird
 Drehimpulserhaltung genannt und stellt gemeinsam mit der Impulserhaltung und der
 Erhaltung der Energie einen der wichtigsten Erhaltungssätze der Mechanik dar.
 
-.. raw:: latex
-
-    Zu diesem Abschnitt gibt es Übungsaufgaben (Seite \pageref{Aufgaben
-    zu Impuls und Drehimpuls}) und Versuche (Seite \pageref{Aufgaben zu Impuls
-    und Drehimpuls})
-
 
 .. raw:: html
 
@@ -401,5 +395,19 @@ Erhaltung der Energie einen der wichtigsten Erhaltungssätze der Mechanik dar.
     Experimentell lässt sich ein unelastischer Stoß beispielsweise dadurch
     erreichen, dass an dem Berührungspunkt der Kugeln ein kleines Stück Kaugummi
     aufgeklebt wird.
+
+.. [#] Beispielsweise verringern Eiskunstläufer(innen) bei Pirouetten durch
+    ein Einziehen der zunächst ausgestreckten Arme bewusst ihr Trägheitsmoment,
+    um damit -- ohne zusätzliche Energiezufuhr -- eine deutlich höhere
+    Winkelgeschwindigkeit zu erreichen.
+
+.. raw:: html
+
+    <hr />
+
+.. hint::
+
+    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Impuls und
+    Drehimpuls>` und :ref:`Übungsaufgaben <Aufgaben zu Impuls und Drehimpuls>`.
 
 

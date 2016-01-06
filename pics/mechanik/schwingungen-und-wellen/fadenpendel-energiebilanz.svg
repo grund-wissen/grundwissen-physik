@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg3619"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="fadenpendel-energiebilanz.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.63852195"
+     inkscape:cx="418.48298"
+     inkscape:cy="649.2429"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true" />
+  <title
+     id="title4288">Das Fadenpendel</title>
+  <defs
+     id="defs3621">
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Sstart"
+       style="overflow:visible">
+      <path
+         id="path7023"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         id="path7017"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path7020"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.96"
+       y="-0.47999999"
+       width="1.96"
+       x="-0.47999999"
+       id="filter4801-2-7"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur4803-3-5"
+         stdDeviation="4.5714287"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata3624">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Das Fadenpendel</dc:title>
+        <dc:date>2014-12-20</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier />
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Schwingung</rdf:li>
+            <rdf:li>Fadenpendel</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       y="31.459503"
+       x="-826.36279"
+       height="681.17548"
+       width="600.3634"
+       id="rect7874"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:5.16644859;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path12202-9"
+       sodipodi:cx="234.75"
+       sodipodi:cy="-357.15552"
+       sodipodi:rx="12.125"
+       sodipodi:ry="12.125"
+       d="m 234.75,-345.03052 a 12.125,12.125 0 1 1 12.125,-12.125"
+       transform="matrix(-0.65920219,0,0,-0.65920219,525.46498,71.979012)"
+       sodipodi:start="1.5707963"
+       sodipodi:end="6.2831853"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#333333;stroke-width:3.40573478;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 370.71729,299.42389 0,-11.12404"
+       id="path12204-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       ry="0"
+       y="258.90521"
+       x="228.59904"
+       height="29.493601"
+       width="288.55576"
+       id="rect12198"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:1.55799997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#808080;stroke-width:2.62702322;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.62702282, 7.88106845;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path24726"
+       sodipodi:cx="383.85797"
+       sodipodi:cy="468.49402"
+       sodipodi:rx="395.9798"
+       sodipodi:ry="395.9798"
+       d="m 632.83039,776.41079 a 395.9798,395.9798 0 0 1 -496.80372,0.91918"
+       transform="matrix(1.1419772,0,0,1.1419772,-66.961372,-219.63719)"
+       sodipodi:start="0.89085127"
+       sodipodi:end="2.247041"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 146.31686,707.61437 225.07858,0"
+       id="path29596"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g24784"
+       transform="matrix(0.94045177,0,0,0.94045177,18.871409,88.811976)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:7.1534543;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path12218"
+         sodipodi:cx="342.85715"
+         sodipodi:cy="400.93362"
+         sodipodi:rx="131.42857"
+         sodipodi:ry="131.42857"
+         d="m 474.28572,400.93362 c 0,72.586 -58.84258,131.42858 -131.42857,131.42858 -72.586,0 -131.42858,-58.84258 -131.42858,-131.42858 0,-72.58599 58.84258,-131.42857 131.42858,-131.42857 72.58599,0 131.42857,58.84258 131.42857,131.42857 z"
+         transform="matrix(0.23152059,0,0,0.23152059,55.981951,565.07069)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4801-2-7)"
+         id="path12220"
+         sodipodi:cx="290"
+         sodipodi:cy="350.93362"
+         sodipodi:rx="11.428572"
+         sodipodi:ry="11.428572"
+         d="m 301.42857,350.93362 c 0,6.31183 -5.11674,11.42858 -11.42857,11.42858 -6.31183,0 -11.42857,-5.11675 -11.42857,-11.42858 0,-6.31182 5.11674,-11.42857 11.42857,-11.42857 6.31183,0 11.42857,5.11675 11.42857,11.42857 z"
+         transform="matrix(0.23152059,0,0,0.23152059,55.981948,565.07067)" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path24685"
+       d="m 371.39565,701.02548 -10e-6,-385.65324"
+       style="fill:none;stroke:#000080;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.99999996, 8.99999981;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.35133989,0,0,0.35133989,236.53102,150.7716)"
+       d="M 384.31661,864.47355 A 395.9798,395.9798 0 0 1 185.2464,811.0629"
+       sodipodi:ry="395.9798"
+       sodipodi:rx="395.9798"
+       sodipodi:cy="468.49402"
+       sodipodi:cx="383.85797"
+       id="path24730"
+       style="color:#000000;fill:none;stroke:#333333;stroke-width:8.53874111;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       sodipodi:start="1.5696381"
+       sodipodi:end="2.0962089"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(0.24209093,0,0,0.24209093,69.846734,597.50435)"
+       d="M 779.83777,468.49402 A 395.9798,395.9798 0 0 1 766.34508,570.98113"
+       sodipodi:ry="395.9798"
+       sodipodi:rx="395.9798"
+       sodipodi:cy="468.49402"
+       sodipodi:cx="383.85797"
+       id="path24808"
+       style="color:#000000;fill:#008000;stroke:#008000;stroke-width:8.26135826;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow2Sstart);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       sodipodi:start="0"
+       sodipodi:end="0.26179939"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       ns0:text="$l$"
+       ns0:preamble=""
+       transform="matrix(3.8274898,0,0,3.8274898,-623.51922,4.5500106)"
+       style="fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.68002081;stroke-opacity:1"
+       id="g25362"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs25364">
+        <g
+           id="g25366">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-a305dbee-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path25369" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-a305dbee-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.578125,-6.8125 c 0,0 0,-0.109375 -0.140625,-0.109375 -0.21875,0 -0.953125,0.078125 -1.21875,0.109375 -0.078125,0 -0.1875,0.015625 -0.1875,0.203125 0,0.109375 0.109375,0.109375 0.25,0.109375 0.484375,0 0.5,0.09375 0.5,0.171875 L 1.75,-6.125 0.484375,-1.140625 C 0.453125,-1.03125 0.4375,-0.96875 0.4375,-0.8125 c 0,0.578125 0.4375,0.921875 0.90625,0.921875 0.328125,0 0.578125,-0.203125 0.75,-0.5625 0.171875,-0.375 0.296875,-0.953125 0.296875,-0.96875 0,-0.109375 -0.09375,-0.109375 -0.125,-0.109375 -0.09375,0 -0.109375,0.046875 -0.125,0.1875 C 1.96875,-0.703125 1.78125,-0.109375 1.375,-0.109375 c -0.296875,0 -0.296875,-0.3125 -0.296875,-0.453125 0,-0.25 0.015625,-0.296875 0.0625,-0.484375 z m 0,0"
+               id="path25372" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#000080;stroke:#000080;stroke-width:1.68002081"
+         id="textext-a305dbee-2">
+        <g
+           style="fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.68002081"
+           id="g25375">
+          <use
+             style="fill:#000080;stroke:#000080;stroke-width:1.68002081"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-a305dbee-1"
+             x="223.43201"
+             y="134.765"
+             id="use25377" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$\\alpha$"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(4.9747249,0,0,4.9747249,-966.42245,38.386942)"
+       style="opacity:0.5;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1.29258657;stroke-opacity:1"
+       id="g29556"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs29558">
+        <g
+           id="g29560">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol29562">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path29564" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol29566">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 4.75,-2.359375 c 0,-1.5625 -0.921875,-2.046875 -1.65625,-2.046875 -1.375,0 -2.6875,1.421875 -2.6875,2.828125 0,0.9375 0.59375,1.6875 1.625,1.6875 0.625,0 1.34375,-0.234375 2.09375,-0.84375 0.125,0.53125 0.453125,0.84375 0.90625,0.84375 0.53125,0 0.84375,-0.546875 0.84375,-0.703125 0,-0.078125 -0.0625,-0.109375 -0.125,-0.109375 -0.0625,0 -0.09375,0.03125 -0.125,0.109375 -0.1875,0.484375 -0.546875,0.484375 -0.5625,0.484375 -0.3125,0 -0.3125,-0.78125 -0.3125,-1.015625 0,-0.203125 0,-0.234375 0.109375,-0.34375 C 5.796875,-2.65625 6,-3.8125 6,-3.8125 6,-3.84375 5.984375,-3.921875 5.875,-3.921875 c -0.09375,0 -0.09375,0.03125 -0.140625,0.21875 -0.1875,0.625 -0.515625,1.375 -0.984375,1.96875 z m -0.65625,1.375 c -0.890625,0.765625 -1.65625,0.875 -2.046875,0.875 -0.59375,0 -0.90625,-0.453125 -0.90625,-1.09375 0,-0.484375 0.265625,-1.5625 0.578125,-2.0625 C 2.1875,-4 2.734375,-4.1875 3.078125,-4.1875 c 0.984375,0 0.984375,1.3125 0.984375,2.078125 0,0.375 0,0.953125 0.03125,1.125 z m 0,0"
+               id="path29568" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g29570"
+         style="fill:#d40000;fill-opacity:1;stroke-width:1.29258657">
+        <g
+           style="fill:#d40000;fill-opacity:1;stroke-width:1.29258657"
+           id="g29572">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-0e51608b-1"
+             x="223.43201"
+             y="134.765"
+             id="use29574"
+             style="fill:#d40000;fill-opacity:1;stroke-width:1.29258657" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g29576"
+       style="opacity:0.5;fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1.29258657;stroke-opacity:1"
+       transform="matrix(4.9747249,0,0,4.9747249,-919.95535,87.884417)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$\\alpha$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs29578">
+        <g
+           id="g29580">
+          <symbol
+             id="symbol29582"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path29584"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="symbol29586"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path29588"
+               d="m 4.75,-2.359375 c 0,-1.5625 -0.921875,-2.046875 -1.65625,-2.046875 -1.375,0 -2.6875,1.421875 -2.6875,2.828125 0,0.9375 0.59375,1.6875 1.625,1.6875 0.625,0 1.34375,-0.234375 2.09375,-0.84375 0.125,0.53125 0.453125,0.84375 0.90625,0.84375 0.53125,0 0.84375,-0.546875 0.84375,-0.703125 0,-0.078125 -0.0625,-0.109375 -0.125,-0.109375 -0.0625,0 -0.09375,0.03125 -0.125,0.109375 -0.1875,0.484375 -0.546875,0.484375 -0.5625,0.484375 -0.3125,0 -0.3125,-0.78125 -0.3125,-1.015625 0,-0.203125 0,-0.234375 0.109375,-0.34375 C 5.796875,-2.65625 6,-3.8125 6,-3.8125 6,-3.84375 5.984375,-3.921875 5.875,-3.921875 c -0.09375,0 -0.09375,0.03125 -0.140625,0.21875 -0.1875,0.625 -0.515625,1.375 -0.984375,1.96875 z m -0.65625,1.375 c -0.890625,0.765625 -1.65625,0.875 -2.046875,0.875 -0.59375,0 -0.90625,-0.453125 -0.90625,-1.09375 0,-0.484375 0.265625,-1.5625 0.578125,-2.0625 C 2.1875,-4 2.734375,-4.1875 3.078125,-4.1875 c 0.984375,0 0.984375,1.3125 0.984375,2.078125 0,0.375 0,0.953125 0.03125,1.125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#d40000;fill-opacity:1;stroke-width:1.29258657"
+         id="g29590">
+        <g
+           id="g29592"
+           style="fill:#d40000;fill-opacity:1;stroke-width:1.29258657">
+          <use
+             style="fill:#d40000;fill-opacity:1;stroke-width:1.29258657"
+             id="use29594"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-0e51608b-1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$s$"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(3.8328176,0,0,3.8328176,-593.06464,180.68027)"
+       style="fill:#008000;fill-opacity:1;stroke:#d40000;stroke-width:1.6776855;stroke-opacity:1"
+       id="g30255"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs30257">
+        <g
+           id="g30259">
+          <symbol
+             overflow="visible"
+             id="textext-109744d3-0"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d=""
+               id="path30262"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="textext-109744d3-1"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="M 3.890625,-3.734375 C 3.625,-3.71875 3.421875,-3.5 3.421875,-3.28125 c 0,0.140625 0.09375,0.296875 0.3125,0.296875 0.21875,0 0.453125,-0.171875 0.453125,-0.5625 C 4.1875,-4 3.765625,-4.40625 3,-4.40625 c -1.3125,0 -1.6875,1.015625 -1.6875,1.453125 0,0.78125 0.734375,0.921875 1.03125,0.984375 0.515625,0.109375 1.03125,0.21875 1.03125,0.765625 0,0.25 -0.21875,1.09375 -1.421875,1.09375 -0.140625,0 -0.90625,0 -1.140625,-0.53125 0.390625,0.046875 0.640625,-0.25 0.640625,-0.53125 0,-0.21875 -0.171875,-0.34375 -0.375,-0.34375 -0.265625,0 -0.5625,0.203125 -0.5625,0.65625 0,0.5625 0.578125,0.96875 1.421875,0.96875 1.625,0 2.015625,-1.203125 2.015625,-1.65625 0,-0.359375 -0.1875,-0.609375 -0.3125,-0.71875 -0.265625,-0.28125 -0.5625,-0.34375 -1,-0.421875 -0.359375,-0.078125 -0.75,-0.15625 -0.75,-0.609375 C 1.890625,-3.578125 2.125,-4.1875 3,-4.1875 c 0.25,0 0.75,0.078125 0.890625,0.453125 z m 0,0"
+               id="path30265"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#008000;stroke-width:1.6776855"
+         id="textext-109744d3-2">
+        <g
+           style="fill:#008000;fill-opacity:1;stroke-width:1.6776855"
+           id="g30268">
+          <use
+             style="fill:#008000;stroke-width:1.6776855"
+             xlink:href="#textext-109744d3-1"
+             x="223.43201"
+             y="134.765"
+             id="use30270"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g31544"
+       style="fill:#808080;fill-opacity:1;stroke:#d40000;stroke-width:1.52844524;stroke-opacity:1"
+       transform="matrix(4.2070611,0,0,4.2070611,-692.53258,226.81123)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$s^{*}$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs31546">
+        <g
+           id="g31548">
+          <symbol
+             id="textext-6572c48b-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path31551"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-6572c48b-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path31554"
+               d="M 3.890625,-3.734375 C 3.625,-3.71875 3.421875,-3.5 3.421875,-3.28125 c 0,0.140625 0.09375,0.296875 0.3125,0.296875 0.21875,0 0.453125,-0.171875 0.453125,-0.5625 C 4.1875,-4 3.765625,-4.40625 3,-4.40625 c -1.3125,0 -1.6875,1.015625 -1.6875,1.453125 0,0.78125 0.734375,0.921875 1.03125,0.984375 0.515625,0.109375 1.03125,0.21875 1.03125,0.765625 0,0.25 -0.21875,1.09375 -1.421875,1.09375 -0.140625,0 -0.90625,0 -1.140625,-0.53125 0.390625,0.046875 0.640625,-0.25 0.640625,-0.53125 0,-0.21875 -0.171875,-0.34375 -0.375,-0.34375 -0.265625,0 -0.5625,0.203125 -0.5625,0.65625 0,0.5625 0.578125,0.96875 1.421875,0.96875 1.625,0 2.015625,-1.203125 2.015625,-1.65625 0,-0.359375 -0.1875,-0.609375 -0.3125,-0.71875 -0.265625,-0.28125 -0.5625,-0.34375 -1,-0.421875 -0.359375,-0.078125 -0.75,-0.15625 -0.75,-0.609375 C 1.890625,-3.578125 2.125,-4.1875 3,-4.1875 c 0.25,0 0.75,0.078125 0.890625,0.453125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-6572c48b-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path31557"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-6572c48b-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path31560"
+               d="m 2.25,-1.734375 c 0.578125,-0.25 0.828125,-0.34375 1,-0.4375 0.140625,-0.046875 0.203125,-0.078125 0.203125,-0.21875 0,-0.109375 -0.09375,-0.21875 -0.21875,-0.21875 -0.046875,0 -0.0625,0 -0.140625,0.0625 L 2.140625,-1.90625 2.25,-2.9375 c 0.015625,-0.125 0,-0.296875 -0.21875,-0.296875 -0.078125,0 -0.21875,0.046875 -0.21875,0.203125 0,0.0625 0.03125,0.265625 0.046875,0.34375 0.015625,0.109375 0.0625,0.625 0.078125,0.78125 L 0.984375,-2.546875 c -0.0625,-0.03125 -0.078125,-0.0625 -0.140625,-0.0625 -0.140625,0 -0.21875,0.109375 -0.21875,0.21875 0,0.140625 0.078125,0.1875 0.140625,0.203125 L 1.8125,-1.734375 c -0.5625,0.25 -0.828125,0.34375 -1,0.421875 -0.125,0.0625 -0.1875,0.09375 -0.1875,0.21875 0,0.125 0.078125,0.21875 0.21875,0.21875 0.046875,0 0.0625,0 0.140625,-0.0625 l 0.953125,-0.625 -0.125,1.109375 c 0,0.15625 0.140625,0.21875 0.21875,0.21875 0.09375,0 0.21875,-0.0625 0.21875,-0.21875 0,-0.0625 -0.03125,-0.265625 -0.03125,-0.328125 -0.015625,-0.125 -0.0625,-0.625 -0.078125,-0.78125 L 2.96875,-1.015625 C 3.15625,-0.875 3.171875,-0.875 3.234375,-0.875 c 0.125,0 0.21875,-0.09375 0.21875,-0.21875 0,-0.140625 -0.09375,-0.171875 -0.15625,-0.203125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-6572c48b-4"
+         style="fill:#808080;fill-opacity:1;stroke-width:1.52844524">
+        <g
+           id="g31563"
+           style="fill:#808080;fill-opacity:1;stroke-width:1.52844524">
+          <use
+             id="use31565"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-6572c48b-1"
+             style="fill:#808080;fill-opacity:1;stroke-width:1.52844524"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g31567"
+           style="fill:#808080;fill-opacity:1;stroke-width:1.52844524">
+          <use
+             id="use31569"
+             y="131.149"
+             x="228.10201"
+             xlink:href="#textext-6572c48b-3"
+             style="fill:#808080;fill-opacity:1;stroke-width:1.52844524"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       ns0:text="$\\varphi$"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       transform="matrix(5.1352366,0,0,5.1352366,-820.84562,-271.23581)"
+       style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:1.25218427;stroke-opacity:1"
+       id="g3550">
+      <defs
+         id="defs3552">
+        <g
+           id="g3554">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-f3268422-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path3557" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-f3268422-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 1.6875,1.6875 C 1.65625,1.828125 1.640625,1.84375 1.640625,1.890625 c 0,0.21875 0.1875,0.28125 0.296875,0.28125 0.046875,0 0.265625,-0.03125 0.359375,-0.265625 C 2.328125,1.828125 2.375,1.5 2.65625,0.09375 c 0.078125,0 0.15625,0.015625 0.328125,0.015625 1.65625,0 3.1875,-1.5625 3.1875,-3.140625 0,-0.78125 -0.390625,-1.375 -1.140625,-1.375 -1.4375,0 -2.046875,1.9375 -2.640625,3.875 C 1.3125,-0.734375 0.75,-1.28125 0.75,-2 c 0,-0.28125 0.234375,-1.375 0.828125,-2.0625 0.09375,-0.09375 0.09375,-0.109375 0.09375,-0.140625 0,-0.03125 -0.03125,-0.09375 -0.125,-0.09375 -0.28125,0 -1.046875,1.453125 -1.046875,2.40625 0,0.9375 0.65625,1.65625 1.71875,1.90625 z m 1.390625,-2.15625 c -0.09375,0 -0.109375,0 -0.1875,-0.015625 -0.125,0 -0.125,0 -0.125,-0.03125 0,-0.015625 0.171875,-0.9375 0.1875,-1.078125 0.3125,-1.28125 1.09375,-2.234375 1.984375,-2.234375 0.6875,0 0.953125,0.53125 0.953125,1.015625 0,1.125 -1.28125,2.34375 -2.8125,2.34375 z m 0,0"
+               id="path3560" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="stroke-width:1.25218427"
+         id="textext-f3268422-2">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke-width:1.25218427"
+           id="g3563">
+          <use
+             style="stroke-width:1.25218427"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-f3268422-1"
+             x="223.43201"
+             y="134.765"
+             id="use3565" />
+        </g>
+      </g>
+    </g>
+    <path
+       style="fill:#008000;stroke:#008000;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 371.39568,767.57222 146.31686,707.61436"
+       id="path24790"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000080;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 146.17137,707.53055 371.39563,315.37222"
+       id="path4504"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:end="6.551966"
+       sodipodi:start="6.276204"
+       sodipodi:type="arc"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#4d4d4d;stroke-width:7.1534543;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path5512"
+       sodipodi:cx="342.85715"
+       sodipodi:cy="400.93362"
+       sodipodi:rx="131.42857"
+       sodipodi:ry="131.42857"
+       d="m 474.28252,400.01609 a 131.42857,131.42857 0 0 1 -4.71569,35.81919 L 342.85715,400.93362 z"
+       transform="matrix(0.21773395,0,0,0.21773395,71.519734,620.23371)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g5723"
+       style="fill:#008000;fill-opacity:1;stroke:#d40000;stroke-width:1.6776855;stroke-opacity:1"
+       transform="matrix(3.8328176,0,0,3.8328176,-471.86962,233.06751)"
+       ns0:preamble=""
+       ns0:text="$h$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs5725">
+        <g
+           id="g5727">
+          <symbol
+             id="textext-590a2061-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path5730"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-590a2061-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path5733"
+               d="m 2.859375,-6.8125 c 0,0 0,-0.109375 -0.125,-0.109375 -0.234375,0 -0.953125,0.078125 -1.21875,0.109375 -0.078125,0 -0.1875,0.015625 -0.1875,0.1875 0,0.125 0.09375,0.125 0.234375,0.125 0.484375,0 0.5,0.0625 0.5,0.171875 L 2.03125,-6.125 0.59375,-0.390625 c -0.046875,0.140625 -0.046875,0.15625 -0.046875,0.21875 0,0.234375 0.203125,0.28125 0.296875,0.28125 0.15625,0 0.3125,-0.125 0.359375,-0.265625 l 0.1875,-0.75 0.21875,-0.890625 C 1.671875,-2.03125 1.734375,-2.25 1.78125,-2.46875 1.796875,-2.53125 1.890625,-2.859375 1.890625,-2.921875 1.921875,-3.015625 2.234375,-3.5625 2.578125,-3.84375 2.796875,-4 3.09375,-4.1875 3.53125,-4.1875 c 0.421875,0 0.53125,0.34375 0.53125,0.703125 0,0.53125 -0.375,1.625 -0.609375,2.234375 C 3.375,-1.03125 3.3125,-0.90625 3.3125,-0.703125 c 0,0.46875 0.359375,0.8125 0.828125,0.8125 0.9375,0 1.296875,-1.453125 1.296875,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.109375,0 -0.109375,0.03125 -0.15625,0.1875 -0.140625,0.53125 -0.46875,1.234375 -1.015625,1.234375 -0.171875,0 -0.234375,-0.09375 -0.234375,-0.328125 0,-0.25 0.078125,-0.484375 0.171875,-0.703125 0.15625,-0.4375 0.609375,-1.625 0.609375,-2.203125 0,-0.640625 -0.390625,-1.0625 -1.140625,-1.0625 -0.625,0 -1.109375,0.3125 -1.484375,0.765625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-590a2061-2"
+         style="fill:#008000">
+        <g
+           id="g5736"
+           style="fill:#008000;fill-opacity:1">
+          <use
+             id="use5738"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-590a2061-1"
+             width="744.09448"
+             height="1052.3622"
+             style="fill:#008000" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g6321"
+       style="fill:#008000;fill-opacity:1;stroke:#d40000;stroke-width:2.34517288;stroke-opacity:1"
+       transform="matrix(2.7419141,0,0,2.7419141,-351.95153,362.48109)"
+       ns0:preamble="/home/waldgeist/data/homepage/inkscape-preamble.tex"
+       ns0:text="$\\nicefrac{\\varphi}{2}$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs6323">
+        <g
+           id="g6325">
+          <symbol
+             id="textext-848add61-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6328"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-848add61-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6331"
+               d="m 2.203125,0.0625 c 0.078125,0 0.15625,0 0.234375,0 1.25,0 2.40625,-1.015625 2.40625,-2.125 0,-0.609375 -0.375,-1.015625 -0.90625,-1.015625 -0.96875,0 -1.484375,1.234375 -1.671875,1.75 -0.09375,0.265625 -0.25,0.75 -0.28125,0.875 C 1.21875,-0.546875 0.71875,-0.90625 0.71875,-1.421875 c 0,0 0.046875,-0.78125 0.609375,-1.40625 0.046875,-0.046875 0.0625,-0.0625 0.0625,-0.09375 C 1.390625,-3 1.296875,-3 1.28125,-3 c -0.0625,0 -0.09375,0 -0.234375,0.15625 -0.390625,0.46875 -0.5625,1.203125 -0.5625,1.5 0,0.625 0.453125,1.15625 1.34375,1.34375 C 1.484375,1.09375 1.4375,1.21875 1.4375,1.28125 1.4375,1.46875 1.609375,1.5 1.671875,1.5 1.75,1.5 1.890625,1.453125 1.953125,1.359375 2,1.25 2.0625,0.890625 2.203125,0.0625 z m 0.09375,-0.46875 c 0.140625,-0.8125 0.1875,-1.125 0.53125,-1.578125 C 3.140625,-2.40625 3.5,-2.59375 3.859375,-2.59375 c 0.46875,0 0.734375,0.3125 0.734375,0.671875 0,0.703125 -0.875,1.515625 -2.078125,1.515625 -0.0625,0 -0.15625,0 -0.21875,0 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-848add61-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6334"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-848add61-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6337"
+               d="m 4.375,-7.09375 c 0.046875,-0.140625 0.046875,-0.171875 0.046875,-0.1875 0,-0.109375 -0.078125,-0.203125 -0.1875,-0.203125 -0.078125,0 -0.140625,0.03125 -0.171875,0.09375 l -3.46875,9.5 C 0.546875,2.25 0.546875,2.28125 0.546875,2.296875 0.546875,2.40625 0.640625,2.5 0.75,2.5 0.875,2.5 0.90625,2.421875 0.96875,2.25 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-848add61-4"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6340"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-848add61-5"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6343"
+               d="m 3.515625,-1.265625 -0.234375,0 c -0.015625,0.15625 -0.09375,0.5625 -0.1875,0.625 -0.046875,0.046875 -0.578125,0.046875 -0.6875,0.046875 l -1.28125,0 c 0.734375,-0.640625 0.984375,-0.84375 1.390625,-1.171875 0.515625,-0.40625 1,-0.84375 1,-1.5 0,-0.84375 -0.734375,-1.359375 -1.625,-1.359375 -0.859375,0 -1.453125,0.609375 -1.453125,1.25 0,0.34375 0.296875,0.390625 0.375,0.390625 0.15625,0 0.359375,-0.125 0.359375,-0.375 0,-0.125 -0.046875,-0.375 -0.40625,-0.375 C 0.984375,-4.21875 1.453125,-4.375 1.78125,-4.375 c 0.703125,0 1.0625,0.546875 1.0625,1.109375 0,0.609375 -0.4375,1.078125 -0.65625,1.328125 L 0.515625,-0.265625 C 0.4375,-0.203125 0.4375,-0.1875 0.4375,0 l 2.875,0 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-848add61-6"
+         style="fill:#008000;stroke-width:2.34517288">
+        <g
+           id="g6346"
+           style="fill:#008000;fill-opacity:1;stroke-width:2.34517288">
+          <use
+             id="use6348"
+             y="132.722"
+             x="223.43201"
+             xlink:href="#textext-848add61-1"
+             width="744.09448"
+             height="1052.3622"
+             style="fill:#008000;stroke-width:2.34517288" />
+        </g>
+        <g
+           id="g6350"
+           style="fill:#008000;fill-opacity:1;stroke-width:2.34517288">
+          <use
+             id="use6352"
+             y="134.765"
+             x="227.565"
+             xlink:href="#textext-848add61-3"
+             width="744.09448"
+             height="1052.3622"
+             style="fill:#008000;stroke-width:2.34517288" />
+        </g>
+        <g
+           id="g6354"
+           style="fill:#008000;fill-opacity:1;stroke-width:2.34517288">
+          <use
+             id="use6356"
+             y="134.765"
+             x="231.993"
+             xlink:href="#textext-848add61-5"
+             width="744.09448"
+             height="1052.3622"
+             style="fill:#008000;stroke-width:2.34517288" />
+        </g>
+      </g>
+    </g>
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       style="fill:#008000;stroke:#008000;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 371.39565,767.57222 -10e-6,-59.62247"
+       id="path6987"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g8263"
+       style="fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.64492679;stroke-opacity:1"
+       transform="matrix(3.9091479,0,0,3.9091479,-488.90043,-7.8912174)"
+       ns0:preamble="/home/waldgeist/data/homepage/inkscape-preamble.tex"
+       ns0:text="$l\\!-\\!h$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs8265">
+        <g
+           id="g8267">
+          <symbol
+             id="textext-3fbd0e5d-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path8270"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-3fbd0e5d-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path8273"
+               d="m 2.578125,-6.8125 c 0,0 0,-0.109375 -0.140625,-0.109375 -0.21875,0 -0.953125,0.078125 -1.21875,0.109375 -0.078125,0 -0.1875,0.015625 -0.1875,0.203125 0,0.109375 0.109375,0.109375 0.25,0.109375 0.484375,0 0.5,0.09375 0.5,0.171875 L 1.75,-6.125 0.484375,-1.140625 C 0.453125,-1.03125 0.4375,-0.96875 0.4375,-0.8125 c 0,0.578125 0.4375,0.921875 0.90625,0.921875 0.328125,0 0.578125,-0.203125 0.75,-0.5625 0.171875,-0.375 0.296875,-0.953125 0.296875,-0.96875 0,-0.109375 -0.09375,-0.109375 -0.125,-0.109375 -0.09375,0 -0.109375,0.046875 -0.125,0.1875 C 1.96875,-0.703125 1.78125,-0.109375 1.375,-0.109375 c -0.296875,0 -0.296875,-0.3125 -0.296875,-0.453125 0,-0.25 0.015625,-0.296875 0.0625,-0.484375 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-3fbd0e5d-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path8276"
+               d="m 2.859375,-6.8125 c 0,0 0,-0.109375 -0.125,-0.109375 -0.234375,0 -0.953125,0.078125 -1.21875,0.109375 -0.078125,0 -0.1875,0.015625 -0.1875,0.1875 0,0.125 0.09375,0.125 0.234375,0.125 0.484375,0 0.5,0.0625 0.5,0.171875 L 2.03125,-6.125 0.59375,-0.390625 c -0.046875,0.140625 -0.046875,0.15625 -0.046875,0.21875 0,0.234375 0.203125,0.28125 0.296875,0.28125 0.15625,0 0.3125,-0.125 0.359375,-0.265625 l 0.1875,-0.75 0.21875,-0.890625 C 1.671875,-2.03125 1.734375,-2.25 1.78125,-2.46875 1.796875,-2.53125 1.890625,-2.859375 1.890625,-2.921875 1.921875,-3.015625 2.234375,-3.5625 2.578125,-3.84375 2.796875,-4 3.09375,-4.1875 3.53125,-4.1875 c 0.421875,0 0.53125,0.34375 0.53125,0.703125 0,0.53125 -0.375,1.625 -0.609375,2.234375 C 3.375,-1.03125 3.3125,-0.90625 3.3125,-0.703125 c 0,0.46875 0.359375,0.8125 0.828125,0.8125 0.9375,0 1.296875,-1.453125 1.296875,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.109375,0 -0.109375,0.03125 -0.15625,0.1875 -0.140625,0.53125 -0.46875,1.234375 -1.015625,1.234375 -0.171875,0 -0.234375,-0.09375 -0.234375,-0.328125 0,-0.25 0.078125,-0.484375 0.171875,-0.703125 0.15625,-0.4375 0.609375,-1.625 0.609375,-2.203125 0,-0.640625 -0.390625,-1.0625 -1.140625,-1.0625 -0.625,0 -1.109375,0.3125 -1.484375,0.765625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-3fbd0e5d-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path8279"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-3fbd0e5d-4"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path8282"
+               d="m 6.5625,-2.296875 c 0.171875,0 0.359375,0 0.359375,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.359375,-0.1875 l -5.390625,0 c -0.171875,0 -0.34375,0 -0.34375,0.1875 0,0.203125 0.171875,0.203125 0.34375,0.203125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-3fbd0e5d-5"
+         style="fill:#000080;stroke:#000080;stroke-width:2.19188952">
+        <g
+           id="g8285"
+           style="fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.64492679">
+          <use
+             id="use8287"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-3fbd0e5d-1"
+             width="744.09448"
+             height="1052.3622"
+             style="fill:#000080;stroke:#000080;stroke-width:1.64492679" />
+        </g>
+        <g
+           id="g8289"
+           style="fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.64492679">
+          <use
+             id="use8291"
+             y="134.765"
+             x="227.15401"
+             xlink:href="#textext-3fbd0e5d-4"
+             width="744.09448"
+             height="1052.3622"
+             style="fill:#000080;stroke:#000080;stroke-width:1.64492679" />
+        </g>
+        <g
+           id="g8293"
+           style="fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.64492679">
+          <use
+             id="use8295"
+             y="134.765"
+             x="235.45599"
+             xlink:href="#textext-3fbd0e5d-2"
+             width="744.09448"
+             height="1052.3622"
+             style="fill:#000080;stroke:#000080;stroke-width:1.64492679" />
+        </g>
+      </g>
+    </g>
+    <path
+       style="opacity:0.1;color:#000000;fill:#000080;stroke:#000080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 371.39544,707.61437 146.17137,707.53057 371.39564,315.37224 z"
+       id="path8465"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="opacity:0.1;color:#000000;fill:#008000;stroke:#008000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 371.39564,707.94975 4e-5,59.62247 -225.07882,-59.95786 z"
+       id="path8467"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

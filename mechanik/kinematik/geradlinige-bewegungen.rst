@@ -262,11 +262,8 @@ Körpers in gleichen Zeitabschnitten um den jeweils gleichen Betrag zu bzw. ab.
     ..  = \frac{v_2 - v_1}{t_2 - t_1}
 
     Beginnt die Bewegung zur Zeit :math:`t_1 = 0` aus der Ruhelage (:math:`v_1 =
-    0`), so folgt:
-
-    .. math::
-
-        a = \frac{v}{t}
+    0`), so ist :math:`\Delta v = v_2` und :math:`\Delta t = t_2`, also (unter
+    Vernachlässigung der Indizes) :math:`a = \frac{v}{t}`.
 
 *Einheit:*
 

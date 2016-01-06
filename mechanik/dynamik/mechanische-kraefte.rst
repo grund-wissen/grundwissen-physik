@@ -188,6 +188,7 @@ können sich somit nicht gegenseitig aufheben.
   Körper zu -- die Wirkung ist allerdings so gering, dass wir davon nichts
   merken.
 
+.. todo Ergänzung: Kein Antrieb ohne Kraft-und-Gegenkraft-Prinzip!
 
 .. index::
     single: Kraft; Wirkungslinie

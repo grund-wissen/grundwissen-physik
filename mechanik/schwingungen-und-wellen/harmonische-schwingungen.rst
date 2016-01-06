@@ -1,12 +1,15 @@
-.. _Mathematische Beschreibung einer harmonischen Schwingung:
+.. _Harmonische Schwingungen:
 
-Exkurs: Mathematische Beschreibung einer harmonischen Schwingung
-================================================================
+Mathematische Beschreibung harmonischer Schwingungen
+====================================================
 
 Die mathematische Beschreibung eines harmonisch schwingenden Gegenstands
 ("Oszillators") wird häufig als Basis-Modell in der theoretischen Physik
 genutzt. In diesem Abschnitt wird daher das grundlegende mathematische Konzept
-für Interessierte kurz vorgestellt.
+kurz vorgestellt.
+
+Schwingungsgleichungen
+----------------------
 
 Ein Körper führt genau dann eine harmonische Schwingung aus, wenn auf ihn eine
 eine Kraft wirkt, die proportional zu seiner Auslenkung ist und stets in
@@ -18,7 +21,7 @@ gering ist.
 .. _Federpendel:
 
 Das Federpendel
----------------
+"""""""""""""""
 
 In guter Näherung werden diese Bedingungen von einem Pendelkörper, der an einer
 hängenden Schraubenfeder befestigt ist, erfüllt. Bei einer Auslenkung :math:`s`
@@ -36,6 +39,9 @@ wobei :math:`m` die Masse des Oszillators symbolisiert. Die Beschleunigung
 :math:`a` entspricht nun gerade der zeitlichen Änderung der Geschwindigkeit,
 welche wiederum einer zeitlichen Änderung des Ortes bzw. der Auslenkung
 entspricht.
+
+.. index:: Wellengleichung
+
 
 Aus mathematischer Sicht sind die zur Auslenkung :math:`s` proportionale Kraft
 und ihre zur Beschleunigung :math:`a = \dot{v} = \ddot{s}` proportionale Wirkung
@@ -63,8 +69,9 @@ Gleichung durch die Masse :math:`(m \ne 0)` teilt:
 Diese Gleichung wird von jeder zeitabhängigen Funktion :math:`s(t)` erfüllt,
 deren zweite zeitliche Ableitung der ursprünglichen Funktion bis auf einen
 konstanten Faktor identisch ist. Eine bekannte Funktion, die diese Bedingung
-erfüllt, ist die Sinus-Funktion. Ein Ansatz für den zeitlichen Verlauf der
-Auslenkung :math:`s`  kann somit folgendermaßen lauten:
+erfüllt, ist die :ref:`Sinus <gwm:Winkelfunktionen am Einheitskreis>`-Funktion.
+Ein Ansatz für den zeitlichen Verlauf der Auslenkung :math:`s`  kann somit
+folgendermaßen lauten:
 
 .. math::
     :label: eqn-harmonischer-oszillator-ansatz
@@ -77,7 +84,7 @@ Bewegung, denn multipliziert mit der Zeit :math:`t` beschreibt sie den Ort, an
 dem sich der periodisch schwingende Körper gerade befindet. [#]_
 
 Bildet man für den Ansatz :eq:`eqn-harmonischer-oszillator-ansatz` :math:`s` die
-erste und zweite zeitliche Ableitung der Sinusfunktion, so erhält man unter
+erste und zweite zeitliche Ableitung der Sinus-Funktion, so erhält man unter
 Berücksichtigung der :ref:`Kettenregel <gwm:Allgemeine Ableitungsregeln>`:
 
 .. math::
@@ -97,6 +104,7 @@ Dieses Ergebnis kann direkt in Gleichung :eq:`eqn-harmonischer-oszillator`
 eingesetzt werden. Es folgt:
 
 .. math::
+    :label: eqn-harmonischer-oszillator-resultierende-gleichung
 
     - \omega ^2 \cdot s + \frac{D}{m} \cdot s = 0
 
@@ -152,7 +160,7 @@ Schwingungen eines gefederten Fahrzeugs oder einer gefedert gelagerten Maschine
 .. _Fadenpendel:
 
 Das Fadenpendel
----------------
+"""""""""""""""
 
 Auch Schwingungen eines Fadenpendels haben -- bei nicht zu großer Auslenkung des
 Pendelkörpers -- annähernd einen sinusförmigen Verlauf. Ist die Masse des Fadens
@@ -194,15 +202,22 @@ Für die rücktreibende Kraft :math:`F _{\rm{R}}` gilt mit :math:`\sin{(\varphi)
 
 Der Term :math:`\frac{m \cdot g}{l}` hat somit die gleiche Bedeutung für das
 Fadenpendel wie die Federhärte :math:`D` für das Federpendel. Man bezeichnet
-ihn daher auch als "Richtgröße" :math:`D` eines mathematischen Pendels.
+ihn daher auch als "Richtgröße" :math:`D` eines mathematischen Pendels. Man kann
+also wiederum schreiben:
 
-Für die Oszillatorfrequenz eines mathematischen Pendels gilt nach Gleichung
+.. math::
+
+    F = m \cdot \ddot{s} = \frac{m \cdot g}{l} \cdot s \\
+    \Rightarrow \ddot{s} = \frac{g}{l} \cdot s
+
+Für die Oszillatorfrequenz eines mathematischen Pendels gilt somit nach den
+Gleichungen :eq:`eqn-harmonischer-oszillator-resultierende-gleichung` und
 :eq:`eqn-oszillator-frequenz`:
 
 .. math::
     :label: eqn-oszillator-frequenz-fadenpendel
 
-    \omega = \sqrt{\frac{D}{m}} = \sqrt{\frac{g}{l}}
+    \omega = \sqrt{\frac{g}{l}}
 
 Experimentell bestätigt sich, dass die Schwingungsfrequenz eines Fadenpendels
 zwar von der Länge :math:`l` des Pendels, aber nicht von der Masse des
@@ -219,7 +234,7 @@ drehbar aufgehängte Gegenstände als physikalische Pendel.
 .. _Physikalisches Pendel:
 
 Das physikalische Pendel
-------------------------
+""""""""""""""""""""""""
 
 Führt ein beliebiges, drehbar gelagertes Objekt Schwingungsbewegungen aus, so
 können diese bei nur kleinen Auslenkungen und bei Vernachlässigung des
@@ -259,9 +274,9 @@ ebenso folgender Zusammenhang:
     M = J \cdot \alpha = J \cdot \ddot{\varphi}
 
 Hierbei steht :math:`J` für das :ref:`Trägheitsmoment <Trägheitsmoment>` des
-schwingenden Gegenstands und :math:`\alpha = \ddot{\varphi}` für die
-:ref:`Winkelbeschleunigung <Kreisförmige Bewegung mit konstanter
-Beschleunigung>`. Setzt man beide Terme gleich, erhält man folgende
+schwingenden Gegenstands bezüglich dem Aufhängengepunkt und :math:`\alpha =
+\ddot{\varphi}` für die :ref:`Winkelbeschleunigung <Kreisförmige Bewegung mit
+konstanter Beschleunigung>`. Setzt man beide Terme gleich, erhält man folgende
 Differentialgleichung:
 
 .. math::
@@ -287,41 +302,228 @@ Für :math:`\varphi \ne 0` ergibt sich damit für die Oszillator-Frequenz
 
 Die Oszillator-Frequenz :math:`\omega` eines physikalischen Pendels hängt somit
 von der Masse des schwingenden Objekts, der Lage seines Schwerpunkts sowie von
-seinem Trägheitsmoment ab. Bei dieser Frequenz sind ebenfalls :ref:`Resonanz
-<Erzwungene Schwingungen und Resonanz>`-Effekte am stärksten ausgeprägt.
+seinem Trägheitsmoment bezüglich dem Aufhängepunkt ab. Bei dieser Frequenz sind
+ebenfalls :ref:`Resonanz <Erzwungene Schwingungen und Resonanz>`-Effekte am
+stärksten ausgeprägt.
+
+In den obigen Gleichungen wurde mit :math:`J` jeweils das Trägheitsmoment des
+physikalischen Pendels um seinen Aufhängepunkt bezeichnet. Nach dem :ref:`Satz
+von Steiner <Satz von Steiner>` gilt für dieses :math:`J = J _{\mathrm{S}} + m
+\cdot a^2`, wobei :math:`J _{\mathrm{S}}` für das Trägheitsmoment des
+Gegenstands bei einer Rotation um seinen Schwerpunkt und :math:`a` für den
+Abstand des Schwerpunkts von der Drehachse steht. Mit :math:`a=l` ergibt sich
+damit folgende Gleichung für das Trägheitsmoment :math:`J _{\mathrm{S}}` des
+schwingenden Gegenstands:
+
+.. math::
+
+    J_{\mathrm{S}} + m \cdot l^2 = \frac{m \cdot g \cdot l}{\omega^2}
+
+Diese Gleichung kann noch mit Hilfe der Beziehung :math:`\omega = \frac{2 \cdot
+\pi}{T}` zwischen der Winkelgeschwindigkeit :math:`\omega` und der
+Schwingungsdauer :math:`T` umformuliert werden. Es ergibt sich damit folgende
+Gleichung:
+
+.. math::
+
+    J _{\mathrm{S}} &= \frac{m \cdot g \cdot l}{\omega^2} - m \cdot l^2 \\ 
+    &= m \cdot (\frac{g \cdot l}{\frac{4 \cdot \pi^2}{T^2}} - l^2)\\
+    &= m \cdot l^2 \cdot (\frac{g \cdot T^2}{4 \cdot \pi^2 \cdot l} - 1)
+
+Diese Gleichung kann beispielsweise zur :ref:`experimentellen Bestimmung des
+Trägheitsmoments <Experimentelle Bestimmung des Trägheitsmoments>` eines
+Gegenstands genutzt werden kann, da alle darin vorkommenden Größen konstant oder
+leicht messbar sind.
+
+.. Bei Flüssigkeitsschwingungen, beispielsweise einem U-Rohr, ist nur die
+.. Länge der Flüssigkeitssäule von Bedeutung. Die Art der Flüssigkeit, die
+.. Querschnittsfläche des U-Rohrs und die unterschiedlichen
+.. Flüssigkeitshöhen auf beiden Seiten haben keinen Einfluss.
+.. Auch: Hahn S.367
+
+.. In der Ruhelage haben die Flüssigkeitssäulen in den Schenkeln eines U-Rohres
+.. nach Bild 5.4 gleiche Höhe. Drückt man die eine Säule um ein Stück \Delta s tiefer, so
+.. steigt die andere um den gleichen Betrag, falls die Querschnitte A in beiden
+.. Schenkeln gleich sind. Die Höhendifferenz ist dann 2 \cdot \Delta s, die
+.. Druckdifferenz \Delta p =
+.. 2\cdot \Delta s \cdot \rho \cdot g (\rho = Dichte), die rückstellende Kraft
+.. also
+
+.. .. math::
+
+..     F = - p \cdot A = - 2 \cdot A \cdot \rho \cdot x
+
+.. Minuszeichen, weil x und F entgegengesetzte Richtungen haben. Es liegt also ein
+.. lineares Kraftgesetz vor. Das bedeutet: Die Flüssigkeit in einem
+.. kommunizierenden Rohrsystem mit konstanten Querschnitten kann sinusförmige
+.. Schwingungen ausführen.
+
+.. Setzt man die Richtgröße von D = 2 \cdot A \cdot  g ein, so erhält man T_0 = 2
+.. \cdot \pi \cdot \sqrt{m/(2 \cdot A \cdot \rho \cdot p)}, oder mit \rho = m/V und
+.. (bei konstantem Querschnitt A) = A \cdot l (Bild 5.4))
+.. T_0 = 2 \cdot \pi \cdot \sqrt{ l/(2g)}.
+
+.. Dieser Modellfall lässt sich auf beliebig geformte flüssigkeitsgefüllte Gefäße
+.. verallgemeinern, allerdings sind dann die Schwingungen im Allgemeinen nicht mehr
+.. sinusförmig.
+
+.. _Energiebilanz beim Feder- und Fadenpendel:
+
+Energiebilanz beim Feder- und Fadenpendel
+-----------------------------------------
+
+Die Beziehung zwischen der Geschwindigkeit :math:`v` des Pendelkörpers bei einer
+harmonischen Schwingung und der Winkelgeschwindigkeit ("Kreisfrequenz")
+:math:`\omega`  einer ebenso "schnellen" Rotationsbewegung kann auch ohne
+Differentialrechnung hergeleitet werden, wenn man die Energiebilanz der
+Schwingung betrachtet. Nach dem Energie-Erhaltungssatz ist die maximale
+kinetische Energie (beim Durchgang durch die Ruhelage) gleich der maximalen
+potentiellen Energie (am Umkehrpunkt). Bei einem Federpendel ist :math:`E
+_{\mathrm{pot}} = E _{\mathrm{spann}} = \frac{1}{2} \cdot D \cdot s^2`, wobei
+:math:`D` die Federhärte und :math:`s` die Auslenkung bezeichnet. Es gilt also:
+
+.. math::
+
+    E _{\mathrm{kin,max}} &= E _{\mathrm{pot,max}} \\
+    \frac{1}{2} \cdot  m \cdot v^2 &= \frac{1}{2} \cdot D \cdot s^2 \\
+    \Rightarrow v &= \sqrt{\frac{D}{m}} \cdot s
+
+Vergleicht man diesen Zusammenhang mit der Gleichung :math:`v = \omega \cdot r`,
+so entspricht der Radius :math:`r` der Kreisbewegung der Auslenkung :math:`s`
+aus der Ruhelage. Der Term :math:`\sqrt{\frac{D}{m}}` hingegen entspricht der
+Winkelgeschwindigkeit :math:`\omega`.
+
+.. figure:: ../../pics/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.png
+    :name: fig-fadenpendel-energiebilanz
+    :alt:  fig-fadenpendel-energiebilanz
+    :align: center
+    :width: 35%
+
+    Skizze zur Herleitung der Energiebilanz bei einem Fadenpendel.
+
+    .. only:: html
+
+        :download:`SVG: Fadenpendel (Energiebilanz)
+        <../../pics/mechanik/schwingungen-und-wellen/fadenpendel-energiebilanz.svg>`
+
+Bei einem Fadenpendel ergeben sich harmonische Schwingungen in guter Näherung
+wiederum nur für kleine Winkel, für die die Näherung :math:`\sin{\varphi}
+\approx \varphi` gilt. In diesem Fall können, wie in der obigen Abbildung zu
+sehen, zwei Winkelbeziehungen verwendet werden:
+
+.. math::
+
+    \varphi \approx \sin{(\varphi)} = \frac{s}{l}
+
+und:
+
+.. math::
+
+    \frac{\varphi}{2} \approx \sin{(\frac{\varphi}{2})} \approx \frac{h}{s}
+
+Löst man die zweite Gleichung nach :math:`\varphi` auf, so erhält man
+:math:`\varphi \approx \frac{2 \cdot h}{s}`. Dieser Ausdruck kann mit der ersten
+Gleichung gleichgesetzt werden. Aufgelöst nach :math:`h` erhält man folgende
+Näherung:
+
+.. math::
+
+    \frac{s}{l} = \frac{2 \cdot h}{s} \quad \Longleftrightarrow \quad h =
+    \frac{1}{2} \cdot \frac{s^2}{l} 
+
+Setzt man diesen Ausdruck für :math:`h` in die Energiegleichung ein, erhält man:
+
+.. math::
+
+    E _{\mathrm{kin,max}} &= E _{\mathrm{pot,max}} \\
+    \frac{1}{2} \cdot  m \cdot v^2 &= m \cdot g \cdot h \\
+    \frac{1}{2} \cdot  m \cdot v^2 &= m \cdot g \cdot \frac{s^2}{2\cdot l} \\
+    \Rightarrow v &= \sqrt{\frac{g}{l}} \cdot s
+
+Bei dieser entspricht nun der Term :math:`\sqrt{\frac{g}{l}}` der
+Winkelgeschwindigkeit :math:`\omega`; die Näherung gilt allerdings nur für
+kleine Auslenkungen.
+
+.. _Zeitliche Änderung von Auslenkung und Geschwindigkeit:
+
+Zeitliche Änderung von Auslenkung und Geschwindigkeit
+-----------------------------------------------------
+
+Sowohl die Auslenkung :math:`s` wie auch die Geschwindigkeit :math:`v` haben
+bei Schwingungsvorgängen sich periodisch ändernde Werte. Der zeitliche Verlauf
+hängt von der Anfangsbedingung ab. Befindet sich ein Pendel zum Zeitpunkt
+:math:`t=0` in der Ruhelage und bewegt sich dabei mit einer Geschwindigkeit
+:math:`v > 0` auf einen Umkehrpunkt zu, so kann im Fall einer harmonischen
+Schwingung die Auslenkung zu einem beliebigen späteren Zeitpunkt :math:`t`
+mittels der Sinus-Funktion beschrieben werden:
+
+.. math::
+
+    s(t) = s _{\mathrm{max }} \cdot \sin{(\varphi)} = s _{\mathrm{max }} \cdot
+    \sin{(\omega \cdot t)}
+
+Hierbei ist wiederum die Vorstellung entscheidend, dass jede harmonische
+Schwingung mit einer Bewegung eines bestimmten Punktes auf einer Kreisscheibe
+verglichen werden kann. Beginnt die Schwingung nicht bei der Ruhelage, sondern
+an einem anderen Punkt, so muss zusätzlich eine "Phasenverschiebung" um einen
+Winkel von :math:`\varphi_0` berücksichtigt werden. Es gilt also allgemein:
+
+.. math::
+
+    s(t) = s _{\mathrm{max}} \cdot \sin{(\omega \cdot t + \varphi_0)}
+
+Ist im Speziellen :math:`\varphi_0 = 90 \degree = \frac{\pi}{2}`, so ist die
+verschobene Sinus-Funktion mit der entsprechenden Cosinus-Funktion identisch:
+
+.. math::
+
+    \sin{(\omega \cdot t + \frac{\pi}{2})} = \cos{(\omega \cdot t)}
+
+Beginnt die Schwingung also zum Zeitpunkt :math:`t=0` an einem Umkehrpunkt und
+hat hierbei die Geschwindigkeit :math:`v(t_0)=0`, so ist beispielsweise die
+Cosinus-Funktion für die Beschreibung der zeitlichen Änderung der Auslenkung
+besser geeignet.
+
+Sowohl die Sinus- wie auch die Cosinus-Funktion haben eine Periode von :math:`2
+\cdot \pi`. Löst man die Beziehung :math:`\omega = \frac{2 \cdot \pi}{T_0}` nach
+der Schwingungsdauer :math:`T_0` auf, so erhält man für :math:`t=T_0`
+tatsächlich wieder den gleichen Wert wie für :math:`t=0`.
+
+Beginnt die Schwingung beispielsweise an einem der Umkehrpunkte, so wird nach
+:math:`\frac{1}{4} \! \cdot \! T_0` zum ersten mal die Ruhelage durchlaufen. Setzt man
+diesen Wert für :math:`t` in die Gleichung :math:`s(t) = \cos{(\omega \cdot t)}`
+ein, so erhält man wegen :math:`T_0 = \frac{2 \cdot \pi}{\omega}` nach
+:math:`\frac{2}{4} \! \cdot \! T_0` wird der andere Umkehrpunkt erreicht. Nach
+:math:`\frac{3}{4} \! \cdot \! T_0` wird zum zweiten Mal die Ruhelage
+durchlaufen, bis das Pendel schließlich nach :math:`\frac{4}{4}\!\cdot \! T_0`
+wieder am Ausgangspunkt ankommt.
+
+.. figure:: ../../pics/mechanik/schwingungen-und-wellen/schwingung-zeigerdarstellung.png
+    :name: fig-schwingung-zeigerdarstellung
+    :alt:  fig-schwingung-zeigerdarstellung
+    :align: center
+    :width: 80%
+
+    Zeigerdarstellung einer sinusförmigen Schwingung.
+
+    .. only:: html
+
+        :download:`SVG: Schwingung (Zeigerdarstellung)
+        <../../pics/mechanik/schwingungen-und-wellen/schwingung-zeigerdarstellung.svg>`
 
 
+In der obigen Abbildung ist der zeitliche Verlauf der Phasenwinkel für ein
+horizontal schwingenden Pendels als so genanntes "Zeigerdiagramm" dargestellt.
+Diese Darstellung ist insbesondere praktisch, um mehrere Schwingungen
+gleichzeitig darzustellen: Unterschiedliche Zeigerlängen bedeuten verschiedene
+Amplituden, und unterschiedliche Winkelgeschwindigkeiten bedeuten verschiedene
+Frequenzen. Die einzelnen Schwingungszustände beziehungsweise Phasen sind zudem
+am Winkel des jeweiligen Zeigers zu erkennen.
 
-..
-    Bei Flüssigkeitsschwingungen, beispielsweise einem U-Rohr, ist nur die
-    Länge der Flüssigkeitssäule von Bedeutung. Die Art der Flüssigkeit, die
-    Querschnittsfläche des U-Rohrs und die unterschiedlichen
-    Flüssigkeitshöhen auf beiden Seiten haben keinen Einfluss.
-    Auch: Hahn S.367
+.. TODO Phasenverschiebung zwischen Auslenkungs- und Geschwindigkeits-Vektor
 
-    In der Ruhelage haben die Flüssigkeitssäulen in den Schenkeln eines U-Rohres
-    nach Bild 5.4 gleiche Höhe. Drückt man die eine Säule um ein Stück x tiefer, so
-    steigt die andere um den gleichen Betrag, falls die Querschnitte A in beiden
-    Schenkeln gleich sind. Die Höhendifferenz ist dann 2 \cdot x, der Druck p =
-    2\cdot x \cdot \rho \cdot g (\rho = Dichte), die rückstellende Kraft also
-
-    .. math::
-
-        F = - p \cdot A = - 2 \cdot A \cdot \rho \cdot x
-
-    Minuszeichen, weil x und F entgegengesetzte Richtungen haben. Es liegt also ein
-    lineares Kraftgesetz vor. Das bedeutet: Die Flüssigkeit in einem
-    kommunizierenden Rohrsystem mit konstanten Querschnitten kann sinusförmige
-    Schwingungen ausführen.
-
-    Setzt man die Richtgröße von D = 2 \cdot A \cdot  g ein, so erhält man T_0 = 2
-    \cdot \pi \cdot \sqrt{m/(2 \cdot A \cdot \rho \cdot p)}, oder mit \rho = m/V und
-    (bei konstantem Querschnitt A) = A \cdot l (Bild 5.4))
-    T_0 = 2 \cdot \pi \cdot \sqrt{ l/(2g)}.
-
-    Dieser Modellfall lässt sich auf beliebig geformte flüssigkeitsgefüllte Gefäße
-    verallgemeinern, allerdings sind dann die Schwingungen im Allgemeinen nicht mehr
-    sinusförmig.
+.. Mathematische Beschreibung harmonischer Schwingungen
+.. ====================================================
 
 .. raw:: html
 

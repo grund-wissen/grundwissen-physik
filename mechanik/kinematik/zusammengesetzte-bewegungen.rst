@@ -158,7 +158,7 @@ Für die Summe der einzelnen Geschwindigkeiten gilt entsprechend:
 
 Die Winkel :math:`\alpha ,\, \beta ,\, \gamma` zwischen der resultierenden
 Geschwindigkeit und den drei Raumachsen :math:`x ,\, y ,\, z` lassen sich
-berechnen, indem man die :ref:`Skalarprodukte <gwm:Das Skalarprodukt>`
+berechnen, indem man die :ref:`Skalarprodukte <gwm:Skalarprodukt>`
 :math:`\vec{v} \cdot \vec{e} _{\rm{x}}`, :math:`\vec{v} \cdot \vec{e} _{\rm{y}}`
 und :math:`\vec{v} \cdot \vec{e} _{\rm{z}}` mit den Einheitsvektoren der
 jeweiligen Richtungen bildet und diese nach den gesuchten Winkeln auflöst.

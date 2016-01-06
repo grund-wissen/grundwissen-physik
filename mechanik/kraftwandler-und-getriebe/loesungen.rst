@@ -160,29 +160,29 @@ schiefen Ebene>` zum Abschnitt :ref:`Schiefe Ebene <Schiefe Ebene>`.
 
 .. _Schiefe-Ebene-01-Lösung:
 
-*   Entlang einer schiefen Ebene gilt als Kraftverhältnis:
+* Entlang einer schiefen Ebene gilt als Kraftverhältnis:
 
-    .. :eq:`eqn-schiefe-ebene`:
+  .. :eq:`eqn-schiefe-ebene`:
 
-    .. math::
+  .. math::
 
-        \frac{F}{F _{\rm{G}}}  = \frac{h}{l}
+      \frac{F}{F _{\rm{G}}}  = \frac{h}{l}
 
-    Die Höhe :math:`h=\unit[0,4]{m}` der schiefen Ebene sowie ihre Länge
-    :math:`l= \unit[2,4]{m}` sind gegeben, auch die Gewichtskraft :math:`F
-    _{\rm{G}}=\unit[600]{N}` der Schubkarre ist bekannt. Löst man die obige
-    Gleichung nach der Kraft :math:`F` auf, so erhält man nach Einsetzen der
-    gegeben Werte die gesuchte Kraft.
+  Die Höhe :math:`h=\unit[0,4]{m}` der schiefen Ebene sowie ihre Länge
+  :math:`l= \unit[2,4]{m}` sind gegeben, auch die Gewichtskraft :math:`F
+  _{\rm{G}}=\unit[600]{N}` der Schubkarre ist bekannt. Löst man die obige
+  Gleichung nach der Kraft :math:`F` auf, so erhält man nach Einsetzen der
+  gegeben Werte die gesuchte Kraft.
 
-    .. math::
+  .. math::
 
-        F = \frac{F _{\rm{G}} \cdot h}{l} = \frac{\unit[600]{N} \cdot
-        \unit[0,6]{m}}{\unit[2,4]{m}} = \unit[150]{N}
+      F = \frac{F _{\rm{G}} \cdot h}{l} = \frac{\unit[600]{N} \cdot
+      \unit[0,6]{m}}{\unit[2,4]{m}} = \unit[150]{N}
 
-    Die zum Schieben der Schubkarre nötige Kraft beträgt somit
-    :math:`\unit[150]{N}`.
+  Die zum Schieben der Schubkarre nötige Kraft beträgt somit
+  :math:`\unit[150]{N}`.
 
-    :ref:`Zurück zur Aufgabe <Schiefe-Ebene-01>`
+  :ref:`Zurück zur Aufgabe <Schiefe-Ebene-01>`
 
 ----
 

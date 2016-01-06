@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     id="namedview42033"
+     showgrid="false"
+     inkscape:zoom="0.81824725"
+     inkscape:cx="119.18945"
+     inkscape:cy="674.34827"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title7501">Kraeftegleichgewicht (Aufgabe)</title>
+  <defs
+     id="defs4">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         id="path3861"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Sstart"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         id="path3849"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path3864"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7534"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path7536"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7538"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path7540"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7542"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path7544"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Mend-0"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path3864-7"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker12542"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path12544"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker12546"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path12548"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker12550"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path12552"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Kraeftegleichgewicht (Aufgabe)</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2015-11-01</dc:date>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Dynamik</rdf:li>
+            <rdf:li>Zusammenwirken mehrerer Kraefte</rdf:li>
+            <rdf:li>Kraeftegleichgewicht</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 3.99999999;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect45007"
+     width="714.94281"
+     height="311.64175"
+     x="14.575836"
+     y="370.36023"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:#c837ab;stroke:#ff6600;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000002, 4.00000004;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path13128"
+     d="M 695.08353,586.67857 51.334019,418.94229"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 4.00000001;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path12922"
+     d="M 280.69692,410.33441 512.38779,642.02778"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:#c837ab;stroke:#ff6600;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#marker7542);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path12670"
+     d="M 372.87691,502.47856 50.523407,418.27858"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:none;stroke:#999999;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path12672"
+     d="M 479.23097,502.81044 A 106.02219,106.02219 0 0 1 475.61835,530.251"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:none;stroke:#d40000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999999, 4;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path13124"
+     d="m 457.07687,586.67856 239.34564,0"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:none;stroke:#d40000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 4;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path13126"
+     d="m 611.0304,502.47857 84.19999,84.19999"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:#ffffff;stroke:#999999;stroke-width:2.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path17114"
+     d="m 572.06843,502.47857 a 38.961966,38.961966 0 0 0 66.51224,27.55027"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:none;stroke:#999999;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path17683"
+     d="M 627.86586,568.62829 A 69.740897,69.740897 0 0 1 645.91613,537.3643"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:none;stroke:#999999;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.00000002, 4.00000004;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path13730"
+     d="m 160.18002,502.4786 536.24249,0"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path12746"
+     d="m 372.87691,502.47857 238.15349,0"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:none;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path12748"
+     d="m 372.87691,502.47857 84.19996,84.19999"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     style="fill:#ff6600;stroke:#d40000;stroke-width:1.19026005;display:inline"
+     id="g18780"
+     transform="matrix(2.5204578,0,0,2.5204578,-34.820735,230.07212)"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <defs
+       id="defs18782">
+      <g
+         id="g18784">
+        <symbol
+           style="overflow:visible"
+           id="textext-457c5b2b-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path18787"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-457c5b2b-1">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path18790"
+             d="m 3.015625,-3.234375 0.96875,0 c 0.75,0 0.828125,0.15625 0.828125,0.4375 0,0.078125 0,0.1875 -0.0625,0.5 C 4.71875,-2.25 4.71875,-2.21875 4.71875,-2.1875 c 0,0.078125 0.0625,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.203125 L 5.53125,-4.453125 C 5.5625,-4.5625 5.5625,-4.578125 5.5625,-4.609375 5.5625,-4.625 5.546875,-4.71875 5.4375,-4.71875 5.34375,-4.71875 5.328125,-4.671875 5.296875,-4.5 5.078125,-3.734375 4.859375,-3.546875 4,-3.546875 l -0.90625,0 0.640625,-2.53125 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.3125,0 c 1.21875,0 1.453125,0.328125 1.453125,1.09375 0,0.234375 0,0.265625 -0.03125,0.546875 C 7,-4.703125 7,-4.6875 7,-4.65625 c 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.109375,-0.0625 0.125,-0.25 L 7.453125,-6.515625 C 7.484375,-6.78125 7.4375,-6.78125 7.1875,-6.78125 l -4.890625,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.5625,-0.03125 1.84375,-0.03125 2.171875,-0.03125 3,0 3.328125,0 3.421875,0 3.53125,0 3.53125,-0.1875 3.53125,-0.265625 3.484375,-0.296875 3.484375,-0.296875 3.453125,-0.3125 3.421875,-0.3125 3.203125,-0.3125 c -0.21875,0 -0.265625,0 -0.515625,-0.015625 -0.296875,-0.03125 -0.328125,-0.078125 -0.328125,-0.203125 0,-0.015625 0,-0.078125 0.046875,-0.21875 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-457c5b2b-2">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path18793"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-457c5b2b-3">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path18796"
+             d="m 1.90625,-2.328125 c 0.546875,0 0.9375,0.375 0.9375,1.125 0,0.859375 -0.515625,1.125 -0.90625,1.125 -0.28125,0 -0.90625,-0.078125 -1.1875,-0.5 0.328125,0 0.40625,-0.234375 0.40625,-0.390625 0,-0.21875 -0.171875,-0.375 -0.390625,-0.375 -0.1875,0 -0.390625,0.125 -0.390625,0.40625 0,0.65625 0.71875,1.078125 1.5625,1.078125 0.96875,0 1.640625,-0.65625 1.640625,-1.34375 0,-0.546875 -0.4375,-1.09375 -1.203125,-1.25 0.71875,-0.265625 0.984375,-0.78125 0.984375,-1.21875 0,-0.546875 -0.625,-0.953125 -1.40625,-0.953125 -0.765625,0 -1.359375,0.375 -1.359375,0.9375 0,0.234375 0.15625,0.359375 0.359375,0.359375 0.21875,0 0.359375,-0.15625 0.359375,-0.34375 0,-0.203125 -0.140625,-0.359375 -0.359375,-0.375 0.25,-0.296875 0.71875,-0.375 0.984375,-0.375 0.3125,0 0.75,0.15625 0.75,0.75 0,0.296875 -0.09375,0.625 -0.28125,0.828125 -0.21875,0.265625 -0.421875,0.28125 -0.765625,0.3125 -0.171875,0.015625 -0.1875,0.015625 -0.21875,0.015625 -0.015625,0 -0.078125,0.015625 -0.078125,0.09375 0,0.09375 0.0625,0.09375 0.1875,0.09375 z m 0,0" />
+        </symbol>
+      </g>
+    </defs>
+    <g
+       style="fill:#ff6600;stroke-width:1.19026005"
+       id="textext-457c5b2b-4">
+      <g
+         style="fill:#ff6600;fill-opacity:1;stroke-width:1.19026005"
+         id="g18799">
+        <use
+           xlink:href="#textext-457c5b2b-1"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="223.43201"
+           style="fill:#ff6600;stroke-width:1.19026005"
+           id="use18801" />
+      </g>
+      <g
+         style="fill:#ff6600;fill-opacity:1;stroke-width:1.19026005"
+         id="g18803">
+        <use
+           xlink:href="#textext-457c5b2b-3"
+           height="1052.3622"
+           width="744.09448"
+           y="136.259"
+           x="229.839"
+           style="fill:#ff6600;stroke-width:1.19026005"
+           id="use18805" />
+      </g>
+    </g>
+  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:none;stroke:#999999;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path19696"
+     d="M 305.51238,484.42829 A 69.740897,69.740897 0 0 1 323.56265,453.1643"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     style="fill:#999999;fill-opacity:1"
+     id="g31882"
+     transform="matrix(1.71937,0,0,1.71937,-87.645604,236.9712)"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <defs
+       id="defs31884">
+      <g
+         id="g31886">
+        <symbol
+           style="overflow:visible"
+           id="textext-8ac757cb-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path31889"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-8ac757cb-1">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path31892"
+             d="m 5.734375,-5.671875 c 0,-0.75 -0.546875,-1.359375 -1.359375,-1.359375 -0.578125,0 -0.859375,0.15625 -1.203125,0.40625 C 2.625,-6.21875 2.078125,-5.25 1.890625,-4.5 L 0.296875,1.828125 C 0.296875,1.875 0.34375,1.9375 0.421875,1.9375 0.5,1.9375 0.53125,1.90625 0.53125,1.890625 L 1.234375,-0.875 c 0.1875,0.609375 0.625,0.96875 1.359375,0.96875 C 3.3125,0.09375 4.0625,-0.25 4.515625,-0.6875 5,-1.140625 5.3125,-1.78125 5.3125,-2.515625 c 0,-0.71875 -0.375,-1.25 -0.734375,-1.484375 0.578125,-0.34375 1.15625,-0.953125 1.15625,-1.671875 z M 3.9375,-4.015625 c -0.125,0.046875 -0.234375,0.0625 -0.484375,0.0625 -0.140625,0 -0.328125,0.015625 -0.4375,-0.03125 0.03125,-0.109375 0.390625,-0.078125 0.5,-0.078125 0.203125,0 0.296875,0 0.421875,0.046875 z M 5.171875,-5.90625 c 0,0.703125 -0.375,1.421875 -0.890625,1.734375 C 4,-4.28125 3.8125,-4.296875 3.515625,-4.296875 c -0.21875,0 -0.78125,-0.015625 -0.78125,0.3125 0,0.28125 0.515625,0.25 0.6875,0.25 0.375,0 0.53125,0 0.828125,-0.125 0.375,0.359375 0.421875,0.671875 0.4375,1.125 0.015625,0.578125 -0.21875,1.328125 -0.5,1.71875 C 3.796875,-0.484375 3.125,-0.125 2.5625,-0.125 c -0.765625,0 -1.140625,-0.578125 -1.140625,-1.28125 0,-0.09375 0,-0.25 0.046875,-0.4375 L 2.109375,-4.359375 C 2.328125,-5.21875 3.046875,-6.8125 4.25,-6.8125 c 0.578125,0 0.921875,0.3125 0.921875,0.90625 z m 0,0" />
+        </symbol>
+      </g>
+    </defs>
+    <g
+       style="fill:#999999;fill-opacity:1"
+       id="textext-8ac757cb-2">
+      <g
+         style="fill:#999999;fill-opacity:1"
+         id="g31895">
+        <use
+           xlink:href="#textext-8ac757cb-1"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="223.43201"
+           style="fill:#999999;fill-opacity:1"
+           id="use31897" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="fill:#999999;fill-opacity:1"
+     id="g32669"
+     transform="matrix(1.7780428,0,0,1.7780428,-114.1603,257.69966)"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <defs
+       id="defs32671">
+      <g
+         id="g32673">
+        <symbol
+           style="overflow:visible"
+           id="textext-6548b19a-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path32676"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-6548b19a-1">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path32679"
+             d="m 4.75,-2.359375 c 0,-1.5625 -0.921875,-2.046875 -1.65625,-2.046875 -1.375,0 -2.6875,1.421875 -2.6875,2.828125 0,0.9375 0.59375,1.6875 1.625,1.6875 0.625,0 1.34375,-0.234375 2.09375,-0.84375 0.125,0.53125 0.453125,0.84375 0.90625,0.84375 0.53125,0 0.84375,-0.546875 0.84375,-0.703125 0,-0.078125 -0.0625,-0.109375 -0.125,-0.109375 -0.0625,0 -0.09375,0.03125 -0.125,0.109375 -0.1875,0.484375 -0.546875,0.484375 -0.5625,0.484375 -0.3125,0 -0.3125,-0.78125 -0.3125,-1.015625 0,-0.203125 0,-0.234375 0.109375,-0.34375 C 5.796875,-2.65625 6,-3.8125 6,-3.8125 6,-3.84375 5.984375,-3.921875 5.875,-3.921875 c -0.09375,0 -0.09375,0.03125 -0.140625,0.21875 -0.1875,0.625 -0.515625,1.375 -0.984375,1.96875 z m -0.65625,1.375 c -0.890625,0.765625 -1.65625,0.875 -2.046875,0.875 -0.59375,0 -0.90625,-0.453125 -0.90625,-1.09375 0,-0.484375 0.265625,-1.5625 0.578125,-2.0625 C 2.1875,-4 2.734375,-4.1875 3.078125,-4.1875 c 0.984375,0 0.984375,1.3125 0.984375,2.078125 0,0.375 0,0.953125 0.03125,1.125 z m 0,0" />
+        </symbol>
+      </g>
+    </defs>
+    <g
+       style="fill:#999999;fill-opacity:1"
+       id="textext-6548b19a-2">
+      <g
+         style="fill:#999999;fill-opacity:1"
+         id="g32682">
+        <use
+           xlink:href="#textext-6548b19a-1"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="223.43201"
+           style="fill:#999999;fill-opacity:1"
+           id="use32684" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="fill:#999999;fill-opacity:1"
+     id="g33444"
+     transform="matrix(1.71937,0,0,1.71937,259.49396,334.35625)"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <defs
+       id="defs33446">
+      <g
+         id="g33448">
+        <symbol
+           style="overflow:visible"
+           id="symbol33450">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path33452"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="symbol33454">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path33456"
+             d="m 5.734375,-5.671875 c 0,-0.75 -0.546875,-1.359375 -1.359375,-1.359375 -0.578125,0 -0.859375,0.15625 -1.203125,0.40625 C 2.625,-6.21875 2.078125,-5.25 1.890625,-4.5 L 0.296875,1.828125 C 0.296875,1.875 0.34375,1.9375 0.421875,1.9375 0.5,1.9375 0.53125,1.90625 0.53125,1.890625 L 1.234375,-0.875 c 0.1875,0.609375 0.625,0.96875 1.359375,0.96875 C 3.3125,0.09375 4.0625,-0.25 4.515625,-0.6875 5,-1.140625 5.3125,-1.78125 5.3125,-2.515625 c 0,-0.71875 -0.375,-1.25 -0.734375,-1.484375 0.578125,-0.34375 1.15625,-0.953125 1.15625,-1.671875 z M 3.9375,-4.015625 c -0.125,0.046875 -0.234375,0.0625 -0.484375,0.0625 -0.140625,0 -0.328125,0.015625 -0.4375,-0.03125 0.03125,-0.109375 0.390625,-0.078125 0.5,-0.078125 0.203125,0 0.296875,0 0.421875,0.046875 z M 5.171875,-5.90625 c 0,0.703125 -0.375,1.421875 -0.890625,1.734375 C 4,-4.28125 3.8125,-4.296875 3.515625,-4.296875 c -0.21875,0 -0.78125,-0.015625 -0.78125,0.3125 0,0.28125 0.515625,0.25 0.6875,0.25 0.375,0 0.53125,0 0.828125,-0.125 0.375,0.359375 0.421875,0.671875 0.4375,1.125 0.015625,0.578125 -0.21875,1.328125 -0.5,1.71875 C 3.796875,-0.484375 3.125,-0.125 2.5625,-0.125 c -0.765625,0 -1.140625,-0.578125 -1.140625,-1.28125 0,-0.09375 0,-0.25 0.046875,-0.4375 L 2.109375,-4.359375 C 2.328125,-5.21875 3.046875,-6.8125 4.25,-6.8125 c 0.578125,0 0.921875,0.3125 0.921875,0.90625 z m 0,0" />
+        </symbol>
+      </g>
+    </defs>
+    <g
+       style="fill:#999999;fill-opacity:1"
+       id="g33458">
+      <g
+         style="fill:#999999;fill-opacity:1"
+         id="g33460">
+        <use
+           xlink:href="#textext-8ac757cb-1"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="223.43201"
+           style="fill:#999999;fill-opacity:1"
+           id="use33462" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="fill:#999999;fill-opacity:1"
+     id="g34210"
+     transform="matrix(1.71937,0,0,1.71937,216.30059,292.59161)"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <defs
+       id="defs34212">
+      <g
+         id="g34214">
+        <symbol
+           style="overflow:visible"
+           id="textext-2d04ed63-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path34217"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-2d04ed63-1">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path34220"
+             d="M 0.40625,-2.53125 C 0.796875,-3.671875 1.890625,-3.6875 2,-3.6875 c 1.5,0 1.609375,1.75 1.609375,2.53125 0,0.609375 -0.046875,0.78125 -0.125,0.984375 -0.21875,0.71875 -0.515625,1.875 -0.515625,2.140625 0,0.109375 0.046875,0.171875 0.125,0.171875 0.140625,0 0.21875,-0.21875 0.328125,-0.59375 C 3.65625,0.703125 3.75,0.140625 3.78125,-0.171875 c 0.03125,-0.125 0.046875,-0.25 0.09375,-0.390625 0.3125,-0.984375 0.953125,-2.46875 1.34375,-3.25 0.078125,-0.125 0.1875,-0.34375 0.1875,-0.390625 0,-0.09375 -0.09375,-0.09375 -0.109375,-0.09375 -0.03125,0 -0.09375,0 -0.125,0.0625 C 4.65625,-3.28125 4.25,-2.28125 3.859375,-1.28125 3.84375,-1.578125 3.84375,-2.34375 3.453125,-3.3125 3.203125,-3.921875 2.8125,-4.40625 2.125,-4.40625 c -1.25,0 -1.953125,1.515625 -1.953125,1.828125 0,0.09375 0.09375,0.09375 0.203125,0.09375 z m 0,0" />
+        </symbol>
+      </g>
+    </defs>
+    <g
+       style="fill:#999999;fill-opacity:1"
+       id="textext-2d04ed63-2">
+      <g
+         style="fill:#999999;fill-opacity:1"
+         id="g34223">
+        <use
+           xlink:href="#textext-2d04ed63-1"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="223.43201"
+           style="fill:#999999;fill-opacity:1"
+           id="use34225" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="fill:#999999;fill-opacity:1"
+     id="g34961"
+     transform="matrix(1.7780428,0,0,1.7780428,56.74568,278.71133)"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <defs
+       id="defs34963">
+      <g
+         id="g34965">
+        <symbol
+           style="overflow:visible"
+           id="symbol34967">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path34969"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="symbol34971">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path34973"
+             d="m 4.75,-2.359375 c 0,-1.5625 -0.921875,-2.046875 -1.65625,-2.046875 -1.375,0 -2.6875,1.421875 -2.6875,2.828125 0,0.9375 0.59375,1.6875 1.625,1.6875 0.625,0 1.34375,-0.234375 2.09375,-0.84375 0.125,0.53125 0.453125,0.84375 0.90625,0.84375 0.53125,0 0.84375,-0.546875 0.84375,-0.703125 0,-0.078125 -0.0625,-0.109375 -0.125,-0.109375 -0.0625,0 -0.09375,0.03125 -0.125,0.109375 -0.1875,0.484375 -0.546875,0.484375 -0.5625,0.484375 -0.3125,0 -0.3125,-0.78125 -0.3125,-1.015625 0,-0.203125 0,-0.234375 0.109375,-0.34375 C 5.796875,-2.65625 6,-3.8125 6,-3.8125 6,-3.84375 5.984375,-3.921875 5.875,-3.921875 c -0.09375,0 -0.09375,0.03125 -0.140625,0.21875 -0.1875,0.625 -0.515625,1.375 -0.984375,1.96875 z m -0.65625,1.375 c -0.890625,0.765625 -1.65625,0.875 -2.046875,0.875 -0.59375,0 -0.90625,-0.453125 -0.90625,-1.09375 0,-0.484375 0.265625,-1.5625 0.578125,-2.0625 C 2.1875,-4 2.734375,-4.1875 3.078125,-4.1875 c 0.984375,0 0.984375,1.3125 0.984375,2.078125 0,0.375 0,0.953125 0.03125,1.125 z m 0,0" />
+        </symbol>
+      </g>
+    </defs>
+    <g
+       style="fill:#999999;fill-opacity:1"
+       id="g34975">
+      <g
+         style="fill:#999999;fill-opacity:1"
+         id="g34977">
+        <use
+           xlink:href="#textext-6548b19a-1"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="223.43201"
+           style="fill:#999999;fill-opacity:1"
+           id="use34979" />
+      </g>
+    </g>
+  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:#ffffff;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow2Mstart);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path23107"
+     d="m 428.30127,502.4786 a 53.149605,53.149605 0 0 1 -15.56716,37.58245 L 375.15167,502.4786 z"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:#ffffff;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow2Mstart);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path23311"
+     d="m 412.73411,540.06105 a 53.149605,53.149605 0 0 1 -89.04042,-50.88498 l 51.45798,13.30253 z"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:#ffffff;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow2Mstart);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path23109"
+     d="m 323.76538,488.90176 a 53.149605,53.149605 0 0 1 104.53589,13.57684 l -53.1496,0 z"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;fill:none;stroke:#999999;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path39053"
+     d="m 303.13602,502.47856 a 69.740897,69.740897 0 0 1 2.28616,-17.71025"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     style="fill:#ff6600;stroke:#d40000;stroke-width:1.19026005;display:inline"
+     id="g39055"
+     transform="matrix(2.5204578,0,0,2.5204578,-394.19306,142.34395)"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <defs
+       id="defs39057">
+      <g
+         id="g39059">
+        <symbol
+           style="overflow:visible"
+           id="symbol39061">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path39063"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="symbol39065">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path39067"
+             d="m 3.015625,-3.234375 0.96875,0 c 0.75,0 0.828125,0.15625 0.828125,0.4375 0,0.078125 0,0.1875 -0.0625,0.5 C 4.71875,-2.25 4.71875,-2.21875 4.71875,-2.1875 c 0,0.078125 0.0625,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.203125 L 5.53125,-4.453125 C 5.5625,-4.5625 5.5625,-4.578125 5.5625,-4.609375 5.5625,-4.625 5.546875,-4.71875 5.4375,-4.71875 5.34375,-4.71875 5.328125,-4.671875 5.296875,-4.5 5.078125,-3.734375 4.859375,-3.546875 4,-3.546875 l -0.90625,0 0.640625,-2.53125 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.3125,0 c 1.21875,0 1.453125,0.328125 1.453125,1.09375 0,0.234375 0,0.265625 -0.03125,0.546875 C 7,-4.703125 7,-4.6875 7,-4.65625 c 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.109375,-0.0625 0.125,-0.25 L 7.453125,-6.515625 C 7.484375,-6.78125 7.4375,-6.78125 7.1875,-6.78125 l -4.890625,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.5625,-0.03125 1.84375,-0.03125 2.171875,-0.03125 3,0 3.328125,0 3.421875,0 3.53125,0 3.53125,-0.1875 3.53125,-0.265625 3.484375,-0.296875 3.484375,-0.296875 3.453125,-0.3125 3.421875,-0.3125 3.203125,-0.3125 c -0.21875,0 -0.265625,0 -0.515625,-0.015625 -0.296875,-0.03125 -0.328125,-0.078125 -0.328125,-0.203125 0,-0.015625 0,-0.078125 0.046875,-0.21875 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="symbol39069">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path39071"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="symbol39073">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path39075"
+             d="m 1.90625,-2.328125 c 0.546875,0 0.9375,0.375 0.9375,1.125 0,0.859375 -0.515625,1.125 -0.90625,1.125 -0.28125,0 -0.90625,-0.078125 -1.1875,-0.5 0.328125,0 0.40625,-0.234375 0.40625,-0.390625 0,-0.21875 -0.171875,-0.375 -0.390625,-0.375 -0.1875,0 -0.390625,0.125 -0.390625,0.40625 0,0.65625 0.71875,1.078125 1.5625,1.078125 0.96875,0 1.640625,-0.65625 1.640625,-1.34375 0,-0.546875 -0.4375,-1.09375 -1.203125,-1.25 0.71875,-0.265625 0.984375,-0.78125 0.984375,-1.21875 0,-0.546875 -0.625,-0.953125 -1.40625,-0.953125 -0.765625,0 -1.359375,0.375 -1.359375,0.9375 0,0.234375 0.15625,0.359375 0.359375,0.359375 0.21875,0 0.359375,-0.15625 0.359375,-0.34375 0,-0.203125 -0.140625,-0.359375 -0.359375,-0.375 0.25,-0.296875 0.71875,-0.375 0.984375,-0.375 0.3125,0 0.75,0.15625 0.75,0.75 0,0.296875 -0.09375,0.625 -0.28125,0.828125 -0.21875,0.265625 -0.421875,0.28125 -0.765625,0.3125 -0.171875,0.015625 -0.1875,0.015625 -0.21875,0.015625 -0.015625,0 -0.078125,0.015625 -0.078125,0.09375 0,0.09375 0.0625,0.09375 0.1875,0.09375 z m 0,0" />
+        </symbol>
+      </g>
+    </defs>
+    <g
+       style="fill:#ff6600;stroke-width:1.19026005"
+       id="g39077">
+      <g
+         style="fill:#ff6600;fill-opacity:1;stroke-width:1.19026005"
+         id="g39079">
+        <use
+           xlink:href="#textext-457c5b2b-1"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="223.43201"
+           style="fill:#ff6600;stroke-width:1.19026005"
+           id="use39081" />
+      </g>
+      <g
+         style="fill:#ff6600;fill-opacity:1;stroke-width:1.19026005"
+         id="g39083">
+        <use
+           xlink:href="#textext-457c5b2b-3"
+           height="1052.3622"
+           width="744.09448"
+           y="136.259"
+           x="229.839"
+           style="fill:#ff6600;stroke-width:1.19026005"
+           id="use39085" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="fill:#d40000;fill-opacity:1"
+     id="g39087"
+     transform="matrix(1.8880535,0,0,1.8880535,-20.042084,266.37004)"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <defs
+       id="defs39089">
+      <g
+         id="g39091">
+        <symbol
+           style="overflow:visible"
+           id="symbol39093">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path39095"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="symbol39097">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path39099"
+             d="M 0.40625,-2.53125 C 0.796875,-3.671875 1.890625,-3.6875 2,-3.6875 c 1.5,0 1.609375,1.75 1.609375,2.53125 0,0.609375 -0.046875,0.78125 -0.125,0.984375 -0.21875,0.71875 -0.515625,1.875 -0.515625,2.140625 0,0.109375 0.046875,0.171875 0.125,0.171875 0.140625,0 0.21875,-0.21875 0.328125,-0.59375 C 3.65625,0.703125 3.75,0.140625 3.78125,-0.171875 c 0.03125,-0.125 0.046875,-0.25 0.09375,-0.390625 0.3125,-0.984375 0.953125,-2.46875 1.34375,-3.25 0.078125,-0.125 0.1875,-0.34375 0.1875,-0.390625 0,-0.09375 -0.09375,-0.09375 -0.109375,-0.09375 -0.03125,0 -0.09375,0 -0.125,0.0625 C 4.65625,-3.28125 4.25,-2.28125 3.859375,-1.28125 3.84375,-1.578125 3.84375,-2.34375 3.453125,-3.3125 3.203125,-3.921875 2.8125,-4.40625 2.125,-4.40625 c -1.25,0 -1.953125,1.515625 -1.953125,1.828125 0,0.09375 0.09375,0.09375 0.203125,0.09375 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="symbol39101">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path39103"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="symbol39105">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path39107"
+             d="m 2.25,-1.734375 c 0.578125,-0.25 0.828125,-0.34375 1,-0.4375 0.140625,-0.046875 0.203125,-0.078125 0.203125,-0.21875 0,-0.109375 -0.09375,-0.21875 -0.21875,-0.21875 -0.046875,0 -0.0625,0 -0.140625,0.0625 L 2.140625,-1.90625 2.25,-2.9375 c 0.015625,-0.125 0,-0.296875 -0.21875,-0.296875 -0.078125,0 -0.21875,0.046875 -0.21875,0.203125 0,0.0625 0.03125,0.265625 0.046875,0.34375 0.015625,0.109375 0.0625,0.625 0.078125,0.78125 L 0.984375,-2.546875 c -0.0625,-0.03125 -0.078125,-0.0625 -0.140625,-0.0625 -0.140625,0 -0.21875,0.109375 -0.21875,0.21875 0,0.140625 0.078125,0.1875 0.140625,0.203125 L 1.8125,-1.734375 c -0.5625,0.25 -0.828125,0.34375 -1,0.421875 -0.125,0.0625 -0.1875,0.09375 -0.1875,0.21875 0,0.125 0.078125,0.21875 0.21875,0.21875 0.046875,0 0.0625,0 0.140625,-0.0625 l 0.953125,-0.625 -0.125,1.109375 c 0,0.15625 0.140625,0.21875 0.21875,0.21875 0.09375,0 0.21875,-0.0625 0.21875,-0.21875 0,-0.0625 -0.03125,-0.265625 -0.03125,-0.328125 -0.015625,-0.125 -0.0625,-0.625 -0.078125,-0.78125 L 2.96875,-1.015625 C 3.15625,-0.875 3.171875,-0.875 3.234375,-0.875 c 0.125,0 0.21875,-0.09375 0.21875,-0.21875 0,-0.140625 -0.09375,-0.171875 -0.15625,-0.203125 z m 0,0" />
+        </symbol>
+      </g>
+    </defs>
+    <g
+       style="fill:#d40000;fill-opacity:1"
+       id="g39109">
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="g39111">
+        <g
+           id="use39113"
+           style="fill:#d40000;fill-opacity:1"
+           transform="translate(223.43201,134.765)">
+          <path
+             d="M 0.40625,-2.53125 C 0.796875,-3.671875 1.890625,-3.6875 2,-3.6875 c 1.5,0 1.609375,1.75 1.609375,2.53125 0,0.609375 -0.046875,0.78125 -0.125,0.984375 -0.21875,0.71875 -0.515625,1.875 -0.515625,2.140625 0,0.109375 0.046875,0.171875 0.125,0.171875 0.140625,0 0.21875,-0.21875 0.328125,-0.59375 C 3.65625,0.703125 3.75,0.140625 3.78125,-0.171875 c 0.03125,-0.125 0.046875,-0.25 0.09375,-0.390625 0.3125,-0.984375 0.953125,-2.46875 1.34375,-3.25 0.078125,-0.125 0.1875,-0.34375 0.1875,-0.390625 0,-0.09375 -0.09375,-0.09375 -0.109375,-0.09375 -0.03125,0 -0.09375,0 -0.125,0.0625 C 4.65625,-3.28125 4.25,-2.28125 3.859375,-1.28125 3.84375,-1.578125 3.84375,-2.34375 3.453125,-3.3125 3.203125,-3.921875 2.8125,-4.40625 2.125,-4.40625 c -1.25,0 -1.953125,1.515625 -1.953125,1.828125 0,0.09375 0.09375,0.09375 0.203125,0.09375 z m 0,0"
+             id="path44937"
+             style="stroke:none"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="g39115">
+        <g
+           id="use39117"
+           style="fill:#d40000;fill-opacity:1"
+           transform="translate(229.144,131.149)">
+          <path
+             d="m 2.25,-1.734375 c 0.578125,-0.25 0.828125,-0.34375 1,-0.4375 0.140625,-0.046875 0.203125,-0.078125 0.203125,-0.21875 0,-0.109375 -0.09375,-0.21875 -0.21875,-0.21875 -0.046875,0 -0.0625,0 -0.140625,0.0625 L 2.140625,-1.90625 2.25,-2.9375 c 0.015625,-0.125 0,-0.296875 -0.21875,-0.296875 -0.078125,0 -0.21875,0.046875 -0.21875,0.203125 0,0.0625 0.03125,0.265625 0.046875,0.34375 0.015625,0.109375 0.0625,0.625 0.078125,0.78125 L 0.984375,-2.546875 c -0.0625,-0.03125 -0.078125,-0.0625 -0.140625,-0.0625 -0.140625,0 -0.21875,0.109375 -0.21875,0.21875 0,0.140625 0.078125,0.1875 0.140625,0.203125 L 1.8125,-1.734375 c -0.5625,0.25 -0.828125,0.34375 -1,0.421875 -0.125,0.0625 -0.1875,0.09375 -0.1875,0.21875 0,0.125 0.078125,0.21875 0.21875,0.21875 0.046875,0 0.0625,0 0.140625,-0.0625 l 0.953125,-0.625 -0.125,1.109375 c 0,0.15625 0.140625,0.21875 0.21875,0.21875 0.09375,0 0.21875,-0.0625 0.21875,-0.21875 0,-0.0625 -0.03125,-0.265625 -0.03125,-0.328125 -0.015625,-0.125 -0.0625,-0.625 -0.078125,-0.78125 L 2.96875,-1.015625 C 3.15625,-0.875 3.171875,-0.875 3.234375,-0.875 c 0.125,0 0.21875,-0.09375 0.21875,-0.21875 0,-0.140625 -0.09375,-0.171875 -0.15625,-0.203125 z m 0,0"
+             id="path44945"
+             style="stroke:none"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="fill:#d40000"
+     id="g29421"
+     transform="matrix(1.6171185,0,0,1.6171185,-17.458617,300.91294)"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <defs
+       id="defs29423">
+      <g
+         id="g29425">
+        <symbol
+           style="overflow:visible"
+           id="textext-5ab50815-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path29428"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-5ab50815-1">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path29431"
+             d="m 5.734375,-5.671875 c 0,-0.75 -0.546875,-1.359375 -1.359375,-1.359375 -0.578125,0 -0.859375,0.15625 -1.203125,0.40625 C 2.625,-6.21875 2.078125,-5.25 1.890625,-4.5 L 0.296875,1.828125 C 0.296875,1.875 0.34375,1.9375 0.421875,1.9375 0.5,1.9375 0.53125,1.90625 0.53125,1.890625 L 1.234375,-0.875 c 0.1875,0.609375 0.625,0.96875 1.359375,0.96875 C 3.3125,0.09375 4.0625,-0.25 4.515625,-0.6875 5,-1.140625 5.3125,-1.78125 5.3125,-2.515625 c 0,-0.71875 -0.375,-1.25 -0.734375,-1.484375 0.578125,-0.34375 1.15625,-0.953125 1.15625,-1.671875 z M 3.9375,-4.015625 c -0.125,0.046875 -0.234375,0.0625 -0.484375,0.0625 -0.140625,0 -0.328125,0.015625 -0.4375,-0.03125 0.03125,-0.109375 0.390625,-0.078125 0.5,-0.078125 0.203125,0 0.296875,0 0.421875,0.046875 z M 5.171875,-5.90625 c 0,0.703125 -0.375,1.421875 -0.890625,1.734375 C 4,-4.28125 3.8125,-4.296875 3.515625,-4.296875 c -0.21875,0 -0.78125,-0.015625 -0.78125,0.3125 0,0.28125 0.515625,0.25 0.6875,0.25 0.375,0 0.53125,0 0.828125,-0.125 0.375,0.359375 0.421875,0.671875 0.4375,1.125 0.015625,0.578125 -0.21875,1.328125 -0.5,1.71875 C 3.796875,-0.484375 3.125,-0.125 2.5625,-0.125 c -0.765625,0 -1.140625,-0.578125 -1.140625,-1.28125 0,-0.09375 0,-0.25 0.046875,-0.4375 L 2.109375,-4.359375 C 2.328125,-5.21875 3.046875,-6.8125 4.25,-6.8125 c 0.578125,0 0.921875,0.3125 0.921875,0.90625 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-5ab50815-2">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path29434"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-5ab50815-3">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path29437"
+             d="m 2.25,-1.734375 c 0.578125,-0.25 0.828125,-0.34375 1,-0.4375 0.140625,-0.046875 0.203125,-0.078125 0.203125,-0.21875 0,-0.109375 -0.09375,-0.21875 -0.21875,-0.21875 -0.046875,0 -0.0625,0 -0.140625,0.0625 L 2.140625,-1.90625 2.25,-2.9375 c 0.015625,-0.125 0,-0.296875 -0.21875,-0.296875 -0.078125,0 -0.21875,0.046875 -0.21875,0.203125 0,0.0625 0.03125,0.265625 0.046875,0.34375 0.015625,0.109375 0.0625,0.625 0.078125,0.78125 L 0.984375,-2.546875 c -0.0625,-0.03125 -0.078125,-0.0625 -0.140625,-0.0625 -0.140625,0 -0.21875,0.109375 -0.21875,0.21875 0,0.140625 0.078125,0.1875 0.140625,0.203125 L 1.8125,-1.734375 c -0.5625,0.25 -0.828125,0.34375 -1,0.421875 -0.125,0.0625 -0.1875,0.09375 -0.1875,0.21875 0,0.125 0.078125,0.21875 0.21875,0.21875 0.046875,0 0.0625,0 0.140625,-0.0625 l 0.953125,-0.625 -0.125,1.109375 c 0,0.15625 0.140625,0.21875 0.21875,0.21875 0.09375,0 0.21875,-0.0625 0.21875,-0.21875 0,-0.0625 -0.03125,-0.265625 -0.03125,-0.328125 -0.015625,-0.125 -0.0625,-0.625 -0.078125,-0.78125 L 2.96875,-1.015625 C 3.15625,-0.875 3.171875,-0.875 3.234375,-0.875 c 0.125,0 0.21875,-0.09375 0.21875,-0.21875 0,-0.140625 -0.09375,-0.171875 -0.15625,-0.203125 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-5ab50815-4">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path29440"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-5ab50815-5">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path29443"
+             d="m 6.84375,-3.265625 c 0.15625,0 0.34375,0 0.34375,-0.1875 C 7.1875,-3.65625 7,-3.65625 6.859375,-3.65625 l -5.96875,0 c -0.140625,0 -0.328125,0 -0.328125,0.203125 0,0.1875 0.1875,0.1875 0.328125,0.1875 z m 0.015625,1.9375 c 0.140625,0 0.328125,0 0.328125,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.34375,-0.1875 l -5.953125,0 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 z m 0,0" />
+        </symbol>
+      </g>
+    </defs>
+    <g
+       style="fill:#d40000"
+       id="textext-5ab50815-6">
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="g29446">
+        <use
+           xlink:href="#textext-5ab50815-1"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="223.43201"
+           style="fill:#d40000"
+           id="use29448" />
+      </g>
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="g29450">
+        <use
+           xlink:href="#textext-5ab50815-3"
+           height="1052.3622"
+           width="744.09448"
+           y="131.149"
+           x="229.593"
+           style="fill:#d40000"
+           id="use29452" />
+      </g>
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="g29454">
+        <use
+           xlink:href="#textext-5ab50815-5"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="236.94"
+           style="fill:#d40000"
+           id="use29456" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="fill:#d40000"
+     id="g28604"
+     transform="matrix(1.6171185,0,0,1.6171185,-27.770671,316.58042)"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <defs
+       id="defs28606">
+      <g
+         id="g28608">
+        <symbol
+           style="overflow:visible"
+           id="textext-71603f8d-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path28611"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-71603f8d-1">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path28614"
+             d="m 2.9375,-6.375 c 0,-0.25 0,-0.265625 -0.234375,-0.265625 C 2.078125,-6 1.203125,-6 0.890625,-6 l 0,0.3125 c 0.203125,0 0.78125,0 1.296875,-0.265625 l 0,5.171875 c 0,0.359375 -0.03125,0.46875 -0.921875,0.46875 l -0.3125,0 0,0.3125 c 0.34375,-0.03125 1.203125,-0.03125 1.609375,-0.03125 0.390625,0 1.265625,0 1.609375,0.03125 l 0,-0.3125 -0.3125,0 c -0.90625,0 -0.921875,-0.109375 -0.921875,-0.46875 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-71603f8d-2">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path28617"
+             d="m 1.625,-4.5625 c -0.453125,-0.296875 -0.5,-0.625 -0.5,-0.796875 0,-0.609375 0.65625,-1.03125 1.359375,-1.03125 0.71875,0 1.359375,0.515625 1.359375,1.234375 0,0.578125 -0.390625,1.046875 -0.984375,1.390625 z m 1.453125,0.953125 C 3.796875,-3.984375 4.28125,-4.5 4.28125,-5.15625 c 0,-0.921875 -0.875,-1.484375 -1.78125,-1.484375 -1,0 -1.8125,0.734375 -1.8125,1.671875 0,0.171875 0.015625,0.625 0.4375,1.09375 0.109375,0.109375 0.484375,0.359375 0.734375,0.53125 C 1.28125,-3.046875 0.421875,-2.5 0.421875,-1.5 c 0,1.046875 1.015625,1.71875 2.0625,1.71875 1.125,0 2.078125,-0.828125 2.078125,-1.890625 0,-0.359375 -0.109375,-0.8125 -0.5,-1.234375 C 3.875,-3.109375 3.71875,-3.203125 3.078125,-3.609375 z m -1,0.421875 1.234375,0.78125 c 0.28125,0.1875 0.75,0.484375 0.75,1.09375 0,0.734375 -0.75,1.25 -1.5625,1.25 -0.859375,0 -1.578125,-0.609375 -1.578125,-1.4375 0,-0.578125 0.3125,-1.21875 1.15625,-1.6875 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-71603f8d-3">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path28620"
+             d="m 4.578125,-3.1875 c 0,-0.796875 -0.046875,-1.59375 -0.390625,-2.328125 -0.453125,-0.96875 -1.28125,-1.125 -1.6875,-1.125 -0.609375,0 -1.328125,0.265625 -1.75,1.1875 -0.3125,0.6875 -0.359375,1.46875 -0.359375,2.265625 0,0.75 0.03125,1.640625 0.453125,2.40625 0.421875,0.796875 1.15625,1 1.640625,1 0.53125,0 1.296875,-0.203125 1.734375,-1.15625 0.3125,-0.6875 0.359375,-1.46875 0.359375,-2.25 z M 2.484375,0 C 2.09375,0 1.5,-0.25 1.328125,-1.203125 1.21875,-1.796875 1.21875,-2.71875 1.21875,-3.3125 c 0,-0.640625 0,-1.296875 0.078125,-1.828125 0.1875,-1.1875 0.9375,-1.28125 1.1875,-1.28125 0.328125,0 0.984375,0.1875 1.171875,1.171875 0.109375,0.5625 0.109375,1.3125 0.109375,1.9375 0,0.75 0,1.421875 -0.109375,2.0625 C 3.5,-0.296875 2.9375,0 2.484375,0 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-71603f8d-4">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path28623"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-71603f8d-5">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path28626"
+             d="m 6.5625,-2.296875 c 0.171875,0 0.359375,0 0.359375,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.359375,-0.1875 l -5.390625,0 c -0.171875,0 -0.34375,0 -0.34375,0.1875 0,0.203125 0.171875,0.203125 0.34375,0.203125 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-71603f8d-6">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path28629"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-71603f8d-7">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path28632"
+             d="m 5.734375,-5.671875 c 0,-0.75 -0.546875,-1.359375 -1.359375,-1.359375 -0.578125,0 -0.859375,0.15625 -1.203125,0.40625 C 2.625,-6.21875 2.078125,-5.25 1.890625,-4.5 L 0.296875,1.828125 C 0.296875,1.875 0.34375,1.9375 0.421875,1.9375 0.5,1.9375 0.53125,1.90625 0.53125,1.890625 L 1.234375,-0.875 c 0.1875,0.609375 0.625,0.96875 1.359375,0.96875 C 3.3125,0.09375 4.0625,-0.25 4.515625,-0.6875 5,-1.140625 5.3125,-1.78125 5.3125,-2.515625 c 0,-0.71875 -0.375,-1.25 -0.734375,-1.484375 0.578125,-0.34375 1.15625,-0.953125 1.15625,-1.671875 z M 3.9375,-4.015625 c -0.125,0.046875 -0.234375,0.0625 -0.484375,0.0625 -0.140625,0 -0.328125,0.015625 -0.4375,-0.03125 0.03125,-0.109375 0.390625,-0.078125 0.5,-0.078125 0.203125,0 0.296875,0 0.421875,0.046875 z M 5.171875,-5.90625 c 0,0.703125 -0.375,1.421875 -0.890625,1.734375 C 4,-4.28125 3.8125,-4.296875 3.515625,-4.296875 c -0.21875,0 -0.78125,-0.015625 -0.78125,0.3125 0,0.28125 0.515625,0.25 0.6875,0.25 0.375,0 0.53125,0 0.828125,-0.125 0.375,0.359375 0.421875,0.671875 0.4375,1.125 0.015625,0.578125 -0.21875,1.328125 -0.5,1.71875 C 3.796875,-0.484375 3.125,-0.125 2.5625,-0.125 c -0.765625,0 -1.140625,-0.578125 -1.140625,-1.28125 0,-0.09375 0,-0.25 0.046875,-0.4375 L 2.109375,-4.359375 C 2.328125,-5.21875 3.046875,-6.8125 4.25,-6.8125 c 0.578125,0 0.921875,0.3125 0.921875,0.90625 z m 0,0" />
+        </symbol>
+      </g>
+    </defs>
+    <g
+       style="fill:#d40000"
+       id="textext-71603f8d-8">
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="g28635">
+        <use
+           xlink:href="#textext-71603f8d-1"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="223.43201"
+           style="fill:#d40000"
+           id="use28637" />
+        <use
+           xlink:href="#textext-71603f8d-2"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="228.4133"
+           style="fill:#d40000"
+           id="use28639" />
+        <use
+           xlink:href="#textext-71603f8d-3"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="233.39461"
+           style="fill:#d40000"
+           id="use28641" />
+      </g>
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="g28643">
+        <use
+           xlink:href="#textext-71603f8d-5"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="240.59"
+           style="fill:#d40000"
+           id="use28645" />
+      </g>
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="g28647">
+        <use
+           xlink:href="#textext-71603f8d-7"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="250.55299"
+           style="fill:#d40000"
+           id="use28649" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="fill:#d40000"
+     id="g30240"
+     transform="matrix(1.6207277,0,0,1.6207277,-2.2828998,254.36899)"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <defs
+       id="defs30242">
+      <g
+         id="g30244">
+        <symbol
+           style="overflow:visible"
+           id="textext-622a7465-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path30247"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-622a7465-1">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path30250"
+             d="m 4.75,-2.359375 c 0,-1.5625 -0.921875,-2.046875 -1.65625,-2.046875 -1.375,0 -2.6875,1.421875 -2.6875,2.828125 0,0.9375 0.59375,1.6875 1.625,1.6875 0.625,0 1.34375,-0.234375 2.09375,-0.84375 0.125,0.53125 0.453125,0.84375 0.90625,0.84375 0.53125,0 0.84375,-0.546875 0.84375,-0.703125 0,-0.078125 -0.0625,-0.109375 -0.125,-0.109375 -0.0625,0 -0.09375,0.03125 -0.125,0.109375 -0.1875,0.484375 -0.546875,0.484375 -0.5625,0.484375 -0.3125,0 -0.3125,-0.78125 -0.3125,-1.015625 0,-0.203125 0,-0.234375 0.109375,-0.34375 C 5.796875,-2.65625 6,-3.8125 6,-3.8125 6,-3.84375 5.984375,-3.921875 5.875,-3.921875 c -0.09375,0 -0.09375,0.03125 -0.140625,0.21875 -0.1875,0.625 -0.515625,1.375 -0.984375,1.96875 z m -0.65625,1.375 c -0.890625,0.765625 -1.65625,0.875 -2.046875,0.875 -0.59375,0 -0.90625,-0.453125 -0.90625,-1.09375 0,-0.484375 0.265625,-1.5625 0.578125,-2.0625 C 2.1875,-4 2.734375,-4.1875 3.078125,-4.1875 c 0.984375,0 0.984375,1.3125 0.984375,2.078125 0,0.375 0,0.953125 0.03125,1.125 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-622a7465-2">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path30253"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-622a7465-3">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path30256"
+             d="m 2.25,-1.734375 c 0.578125,-0.25 0.828125,-0.34375 1,-0.4375 0.140625,-0.046875 0.203125,-0.078125 0.203125,-0.21875 0,-0.109375 -0.09375,-0.21875 -0.21875,-0.21875 -0.046875,0 -0.0625,0 -0.140625,0.0625 L 2.140625,-1.90625 2.25,-2.9375 c 0.015625,-0.125 0,-0.296875 -0.21875,-0.296875 -0.078125,0 -0.21875,0.046875 -0.21875,0.203125 0,0.0625 0.03125,0.265625 0.046875,0.34375 0.015625,0.109375 0.0625,0.625 0.078125,0.78125 L 0.984375,-2.546875 c -0.0625,-0.03125 -0.078125,-0.0625 -0.140625,-0.0625 -0.140625,0 -0.21875,0.109375 -0.21875,0.21875 0,0.140625 0.078125,0.1875 0.140625,0.203125 L 1.8125,-1.734375 c -0.5625,0.25 -0.828125,0.34375 -1,0.421875 -0.125,0.0625 -0.1875,0.09375 -0.1875,0.21875 0,0.125 0.078125,0.21875 0.21875,0.21875 0.046875,0 0.0625,0 0.140625,-0.0625 l 0.953125,-0.625 -0.125,1.109375 c 0,0.15625 0.140625,0.21875 0.21875,0.21875 0.09375,0 0.21875,-0.0625 0.21875,-0.21875 0,-0.0625 -0.03125,-0.265625 -0.03125,-0.328125 -0.015625,-0.125 -0.0625,-0.625 -0.078125,-0.78125 L 2.96875,-1.015625 C 3.15625,-0.875 3.171875,-0.875 3.234375,-0.875 c 0.125,0 0.21875,-0.09375 0.21875,-0.21875 0,-0.140625 -0.09375,-0.171875 -0.15625,-0.203125 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-622a7465-4">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path30259"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-622a7465-5">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path30262"
+             d="m 6.84375,-3.265625 c 0.15625,0 0.34375,0 0.34375,-0.1875 C 7.1875,-3.65625 7,-3.65625 6.859375,-3.65625 l -5.96875,0 c -0.140625,0 -0.328125,0 -0.328125,0.203125 0,0.1875 0.1875,0.1875 0.328125,0.1875 z m 0.015625,1.9375 c 0.140625,0 0.328125,0 0.328125,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.34375,-0.1875 l -5.953125,0 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 z m 0,0" />
+        </symbol>
+      </g>
+    </defs>
+    <g
+       style="fill:#d40000"
+       id="textext-622a7465-6">
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="g30265">
+        <use
+           xlink:href="#textext-622a7465-1"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="223.43201"
+           style="fill:#d40000"
+           id="use30267" />
+      </g>
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="g30269">
+        <use
+           xlink:href="#textext-622a7465-3"
+           height="1052.3622"
+           width="744.09448"
+           y="131.149"
+           x="229.842"
+           style="fill:#d40000"
+           id="use30271" />
+      </g>
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="g30273">
+        <use
+           xlink:href="#textext-622a7465-5"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="237.189"
+           style="fill:#d40000"
+           id="use30275" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="fill:#d40000"
+     id="g31053"
+     transform="matrix(1.6207277,0,0,1.6207277,-12.542814,269.72402)"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <defs
+       id="defs31055">
+      <g
+         id="g31057">
+        <symbol
+           style="overflow:visible"
+           id="textext-3ade82a2-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path31060"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-3ade82a2-1">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path31063"
+             d="m 2.9375,-6.375 c 0,-0.25 0,-0.265625 -0.234375,-0.265625 C 2.078125,-6 1.203125,-6 0.890625,-6 l 0,0.3125 c 0.203125,0 0.78125,0 1.296875,-0.265625 l 0,5.171875 c 0,0.359375 -0.03125,0.46875 -0.921875,0.46875 l -0.3125,0 0,0.3125 c 0.34375,-0.03125 1.203125,-0.03125 1.609375,-0.03125 0.390625,0 1.265625,0 1.609375,0.03125 l 0,-0.3125 -0.3125,0 c -0.90625,0 -0.921875,-0.109375 -0.921875,-0.46875 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-3ade82a2-2">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path31066"
+             d="m 1.625,-4.5625 c -0.453125,-0.296875 -0.5,-0.625 -0.5,-0.796875 0,-0.609375 0.65625,-1.03125 1.359375,-1.03125 0.71875,0 1.359375,0.515625 1.359375,1.234375 0,0.578125 -0.390625,1.046875 -0.984375,1.390625 z m 1.453125,0.953125 C 3.796875,-3.984375 4.28125,-4.5 4.28125,-5.15625 c 0,-0.921875 -0.875,-1.484375 -1.78125,-1.484375 -1,0 -1.8125,0.734375 -1.8125,1.671875 0,0.171875 0.015625,0.625 0.4375,1.09375 0.109375,0.109375 0.484375,0.359375 0.734375,0.53125 C 1.28125,-3.046875 0.421875,-2.5 0.421875,-1.5 c 0,1.046875 1.015625,1.71875 2.0625,1.71875 1.125,0 2.078125,-0.828125 2.078125,-1.890625 0,-0.359375 -0.109375,-0.8125 -0.5,-1.234375 C 3.875,-3.109375 3.71875,-3.203125 3.078125,-3.609375 z m -1,0.421875 1.234375,0.78125 c 0.28125,0.1875 0.75,0.484375 0.75,1.09375 0,0.734375 -0.75,1.25 -1.5625,1.25 -0.859375,0 -1.578125,-0.609375 -1.578125,-1.4375 0,-0.578125 0.3125,-1.21875 1.15625,-1.6875 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-3ade82a2-3">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path31069"
+             d="m 4.578125,-3.1875 c 0,-0.796875 -0.046875,-1.59375 -0.390625,-2.328125 -0.453125,-0.96875 -1.28125,-1.125 -1.6875,-1.125 -0.609375,0 -1.328125,0.265625 -1.75,1.1875 -0.3125,0.6875 -0.359375,1.46875 -0.359375,2.265625 0,0.75 0.03125,1.640625 0.453125,2.40625 0.421875,0.796875 1.15625,1 1.640625,1 0.53125,0 1.296875,-0.203125 1.734375,-1.15625 0.3125,-0.6875 0.359375,-1.46875 0.359375,-2.25 z M 2.484375,0 C 2.09375,0 1.5,-0.25 1.328125,-1.203125 1.21875,-1.796875 1.21875,-2.71875 1.21875,-3.3125 c 0,-0.640625 0,-1.296875 0.078125,-1.828125 0.1875,-1.1875 0.9375,-1.28125 1.1875,-1.28125 0.328125,0 0.984375,0.1875 1.171875,1.171875 0.109375,0.5625 0.109375,1.3125 0.109375,1.9375 0,0.75 0,1.421875 -0.109375,2.0625 C 3.5,-0.296875 2.9375,0 2.484375,0 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-3ade82a2-4">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path31072"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-3ade82a2-5">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path31075"
+             d="m 6.5625,-2.296875 c 0.171875,0 0.359375,0 0.359375,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.359375,-0.1875 l -5.390625,0 c -0.171875,0 -0.34375,0 -0.34375,0.1875 0,0.203125 0.171875,0.203125 0.34375,0.203125 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-3ade82a2-6">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path31078"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-3ade82a2-7">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path31081"
+             d="m 4.75,-2.359375 c 0,-1.5625 -0.921875,-2.046875 -1.65625,-2.046875 -1.375,0 -2.6875,1.421875 -2.6875,2.828125 0,0.9375 0.59375,1.6875 1.625,1.6875 0.625,0 1.34375,-0.234375 2.09375,-0.84375 0.125,0.53125 0.453125,0.84375 0.90625,0.84375 0.53125,0 0.84375,-0.546875 0.84375,-0.703125 0,-0.078125 -0.0625,-0.109375 -0.125,-0.109375 -0.0625,0 -0.09375,0.03125 -0.125,0.109375 -0.1875,0.484375 -0.546875,0.484375 -0.5625,0.484375 -0.3125,0 -0.3125,-0.78125 -0.3125,-1.015625 0,-0.203125 0,-0.234375 0.109375,-0.34375 C 5.796875,-2.65625 6,-3.8125 6,-3.8125 6,-3.84375 5.984375,-3.921875 5.875,-3.921875 c -0.09375,0 -0.09375,0.03125 -0.140625,0.21875 -0.1875,0.625 -0.515625,1.375 -0.984375,1.96875 z m -0.65625,1.375 c -0.890625,0.765625 -1.65625,0.875 -2.046875,0.875 -0.59375,0 -0.90625,-0.453125 -0.90625,-1.09375 0,-0.484375 0.265625,-1.5625 0.578125,-2.0625 C 2.1875,-4 2.734375,-4.1875 3.078125,-4.1875 c 0.984375,0 0.984375,1.3125 0.984375,2.078125 0,0.375 0,0.953125 0.03125,1.125 z m 0,0" />
+        </symbol>
+      </g>
+    </defs>
+    <g
+       style="fill:#d40000"
+       id="textext-3ade82a2-8">
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="g31084">
+        <use
+           xlink:href="#textext-3ade82a2-1"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="223.43201"
+           style="fill:#d40000"
+           id="use31086" />
+        <use
+           xlink:href="#textext-3ade82a2-2"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="228.4133"
+           style="fill:#d40000"
+           id="use31088" />
+        <use
+           xlink:href="#textext-3ade82a2-3"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="233.39461"
+           style="fill:#d40000"
+           id="use31090" />
+      </g>
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="g31092">
+        <use
+           xlink:href="#textext-3ade82a2-5"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="240.59"
+           style="fill:#d40000"
+           id="use31094" />
+      </g>
+      <g
+         style="fill:#d40000;fill-opacity:1"
+         id="g31096">
+        <use
+           xlink:href="#textext-3ade82a2-7"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="250.55299"
+           style="fill:#d40000"
+           id="use31098" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="fill:#d40000;stroke:#d40000;stroke-width:1.19026005;display:inline"
+     id="g39556"
+     transform="matrix(2.5204578,0,0,2.5204578,-82.635095,153.16384)"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <defs
+       id="defs39558">
+      <g
+         id="g39560">
+        <symbol
+           style="overflow:visible"
+           id="textext-b3e3611a-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path39563"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-b3e3611a-1">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path39566"
+             d="m 3.015625,-3.234375 0.96875,0 c 0.75,0 0.828125,0.15625 0.828125,0.4375 0,0.078125 0,0.1875 -0.0625,0.5 C 4.71875,-2.25 4.71875,-2.21875 4.71875,-2.1875 c 0,0.078125 0.0625,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.203125 L 5.53125,-4.453125 C 5.5625,-4.5625 5.5625,-4.578125 5.5625,-4.609375 5.5625,-4.625 5.546875,-4.71875 5.4375,-4.71875 5.34375,-4.71875 5.328125,-4.671875 5.296875,-4.5 5.078125,-3.734375 4.859375,-3.546875 4,-3.546875 l -0.90625,0 0.640625,-2.53125 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.3125,0 c 1.21875,0 1.453125,0.328125 1.453125,1.09375 0,0.234375 0,0.265625 -0.03125,0.546875 C 7,-4.703125 7,-4.6875 7,-4.65625 c 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.109375,-0.0625 0.125,-0.25 L 7.453125,-6.515625 C 7.484375,-6.78125 7.4375,-6.78125 7.1875,-6.78125 l -4.890625,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.5625,-0.03125 1.84375,-0.03125 2.171875,-0.03125 3,0 3.328125,0 3.421875,0 3.53125,0 3.53125,-0.1875 3.53125,-0.265625 3.484375,-0.296875 3.484375,-0.296875 3.453125,-0.3125 3.421875,-0.3125 3.203125,-0.3125 c -0.21875,0 -0.265625,0 -0.515625,-0.015625 -0.296875,-0.03125 -0.328125,-0.078125 -0.328125,-0.203125 0,-0.015625 0,-0.078125 0.046875,-0.21875 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-b3e3611a-2">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path39569"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-b3e3611a-3">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path39572"
+             d="m 2.328125,-4.4375 c 0,-0.1875 0,-0.1875 -0.203125,-0.1875 -0.453125,0.4375 -1.078125,0.4375 -1.359375,0.4375 l 0,0.25 c 0.15625,0 0.625,0 1,-0.1875 l 0,3.546875 c 0,0.234375 0,0.328125 -0.6875,0.328125 l -0.265625,0 0,0.25 c 0.125,0 0.984375,-0.03125 1.234375,-0.03125 0.21875,0 1.09375,0.03125 1.25,0.03125 l 0,-0.25 -0.265625,0 c -0.703125,0 -0.703125,-0.09375 -0.703125,-0.328125 z m 0,0" />
+        </symbol>
+      </g>
+    </defs>
+    <g
+       style="fill:#d40000;stroke-width:1.19026005"
+       id="textext-b3e3611a-4">
+      <g
+         style="fill:#d40000;fill-opacity:1;stroke-width:1.19026005"
+         id="g39575">
+        <use
+           xlink:href="#textext-b3e3611a-1"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="223.43201"
+           style="fill:#d40000;stroke-width:1.19026005"
+           id="use39577" />
+      </g>
+      <g
+         style="fill:#d40000;fill-opacity:1;stroke-width:1.19026005"
+         id="g39579">
+        <use
+           xlink:href="#textext-b3e3611a-3"
+           height="1052.3622"
+           width="744.09448"
+           y="136.259"
+           x="229.839"
+           style="fill:#d40000;stroke-width:1.19026005"
+           id="use39581" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="fill:#d40000;stroke:#d40000;stroke-width:1.19026005;display:inline"
+     id="g40455"
+     transform="matrix(2.5204578,0,0,2.5204578,-156.42514,242.27101)"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <defs
+       id="defs40457">
+      <g
+         id="g40459">
+        <symbol
+           style="overflow:visible"
+           id="textext-ebcd3ae0-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path40462"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-ebcd3ae0-1">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path40465"
+             d="m 3.015625,-3.234375 0.96875,0 c 0.75,0 0.828125,0.15625 0.828125,0.4375 0,0.078125 0,0.1875 -0.0625,0.5 C 4.71875,-2.25 4.71875,-2.21875 4.71875,-2.1875 c 0,0.078125 0.0625,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.203125 L 5.53125,-4.453125 C 5.5625,-4.5625 5.5625,-4.578125 5.5625,-4.609375 5.5625,-4.625 5.546875,-4.71875 5.4375,-4.71875 5.34375,-4.71875 5.328125,-4.671875 5.296875,-4.5 5.078125,-3.734375 4.859375,-3.546875 4,-3.546875 l -0.90625,0 0.640625,-2.53125 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.3125,0 c 1.21875,0 1.453125,0.328125 1.453125,1.09375 0,0.234375 0,0.265625 -0.03125,0.546875 C 7,-4.703125 7,-4.6875 7,-4.65625 c 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.109375,-0.0625 0.125,-0.25 L 7.453125,-6.515625 C 7.484375,-6.78125 7.4375,-6.78125 7.1875,-6.78125 l -4.890625,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.5625,-0.03125 1.84375,-0.03125 2.171875,-0.03125 3,0 3.328125,0 3.421875,0 3.53125,0 3.53125,-0.1875 3.53125,-0.265625 3.484375,-0.296875 3.484375,-0.296875 3.453125,-0.3125 3.421875,-0.3125 3.203125,-0.3125 c -0.21875,0 -0.265625,0 -0.515625,-0.015625 -0.296875,-0.03125 -0.328125,-0.078125 -0.328125,-0.203125 0,-0.015625 0,-0.078125 0.046875,-0.21875 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-ebcd3ae0-2">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path40468"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="textext-ebcd3ae0-3">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path40471"
+             d="m 3.515625,-1.265625 -0.234375,0 c -0.015625,0.15625 -0.09375,0.5625 -0.1875,0.625 -0.046875,0.046875 -0.578125,0.046875 -0.6875,0.046875 l -1.28125,0 c 0.734375,-0.640625 0.984375,-0.84375 1.390625,-1.171875 0.515625,-0.40625 1,-0.84375 1,-1.5 0,-0.84375 -0.734375,-1.359375 -1.625,-1.359375 -0.859375,0 -1.453125,0.609375 -1.453125,1.25 0,0.34375 0.296875,0.390625 0.375,0.390625 0.15625,0 0.359375,-0.125 0.359375,-0.375 0,-0.125 -0.046875,-0.375 -0.40625,-0.375 C 0.984375,-4.21875 1.453125,-4.375 1.78125,-4.375 c 0.703125,0 1.0625,0.546875 1.0625,1.109375 0,0.609375 -0.4375,1.078125 -0.65625,1.328125 L 0.515625,-0.265625 C 0.4375,-0.203125 0.4375,-0.1875 0.4375,0 l 2.875,0 z m 0,0" />
+        </symbol>
+      </g>
+    </defs>
+    <g
+       style="fill:#d40000;stroke-width:1.19026005"
+       id="textext-ebcd3ae0-4">
+      <g
+         style="fill:#d40000;fill-opacity:1;stroke-width:1.19026005"
+         id="g40474">
+        <use
+           xlink:href="#textext-ebcd3ae0-1"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="223.43201"
+           style="fill:#d40000;stroke-width:1.19026005"
+           id="use40476" />
+      </g>
+      <g
+         style="fill:#d40000;fill-opacity:1;stroke-width:1.19026005"
+         id="g40478">
+        <use
+           xlink:href="#textext-ebcd3ae0-3"
+           height="1052.3622"
+           width="744.09448"
+           y="136.259"
+           x="229.839"
+           style="fill:#d40000;stroke-width:1.19026005"
+           id="use40480" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="fill:#d40000;stroke:#d40000;stroke-width:1.19026005;display:inline"
+     id="g40917"
+     transform="matrix(2.5204578,0,0,2.5204578,96.143066,202.71596)"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/kraeftegleichgewicht-fehlende-dritte-kraft-loesung-2.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <defs
+       id="defs40919">
+      <g
+         id="g40921">
+        <symbol
+           style="overflow:visible"
+           id="symbol40923">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path40925"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="symbol40927">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path40929"
+             d="m 3.015625,-3.234375 0.96875,0 c 0.75,0 0.828125,0.15625 0.828125,0.4375 0,0.078125 0,0.1875 -0.0625,0.5 C 4.71875,-2.25 4.71875,-2.21875 4.71875,-2.1875 c 0,0.078125 0.0625,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.203125 L 5.53125,-4.453125 C 5.5625,-4.5625 5.5625,-4.578125 5.5625,-4.609375 5.5625,-4.625 5.546875,-4.71875 5.4375,-4.71875 5.34375,-4.71875 5.328125,-4.671875 5.296875,-4.5 5.078125,-3.734375 4.859375,-3.546875 4,-3.546875 l -0.90625,0 0.640625,-2.53125 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.3125,0 c 1.21875,0 1.453125,0.328125 1.453125,1.09375 0,0.234375 0,0.265625 -0.03125,0.546875 C 7,-4.703125 7,-4.6875 7,-4.65625 c 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.109375,-0.0625 0.125,-0.25 L 7.453125,-6.515625 C 7.484375,-6.78125 7.4375,-6.78125 7.1875,-6.78125 l -4.890625,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.5625,-0.03125 1.84375,-0.03125 2.171875,-0.03125 3,0 3.328125,0 3.421875,0 3.53125,0 3.53125,-0.1875 3.53125,-0.265625 3.484375,-0.296875 3.484375,-0.296875 3.453125,-0.3125 3.421875,-0.3125 3.203125,-0.3125 c -0.21875,0 -0.265625,0 -0.515625,-0.015625 -0.296875,-0.03125 -0.328125,-0.078125 -0.328125,-0.203125 0,-0.015625 0,-0.078125 0.046875,-0.21875 z m 0,0" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="symbol40931">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path40933"
+             d="" />
+        </symbol>
+        <symbol
+           style="overflow:visible"
+           id="symbol40935">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             id="path40937"
+             d="m 3.515625,-1.265625 -0.234375,0 c -0.015625,0.15625 -0.09375,0.5625 -0.1875,0.625 -0.046875,0.046875 -0.578125,0.046875 -0.6875,0.046875 l -1.28125,0 c 0.734375,-0.640625 0.984375,-0.84375 1.390625,-1.171875 0.515625,-0.40625 1,-0.84375 1,-1.5 0,-0.84375 -0.734375,-1.359375 -1.625,-1.359375 -0.859375,0 -1.453125,0.609375 -1.453125,1.25 0,0.34375 0.296875,0.390625 0.375,0.390625 0.15625,0 0.359375,-0.125 0.359375,-0.375 0,-0.125 -0.046875,-0.375 -0.40625,-0.375 C 0.984375,-4.21875 1.453125,-4.375 1.78125,-4.375 c 0.703125,0 1.0625,0.546875 1.0625,1.109375 0,0.609375 -0.4375,1.078125 -0.65625,1.328125 L 0.515625,-0.265625 C 0.4375,-0.203125 0.4375,-0.1875 0.4375,0 l 2.875,0 z m 0,0" />
+        </symbol>
+      </g>
+    </defs>
+    <g
+       style="fill:#d40000;stroke-width:1.19026005"
+       id="g40939">
+      <g
+         style="fill:#d40000;fill-opacity:1;stroke-width:1.19026005"
+         id="g40941">
+        <use
+           xlink:href="#textext-ebcd3ae0-1"
+           height="1052.3622"
+           width="744.09448"
+           y="134.765"
+           x="223.43201"
+           style="fill:#d40000;stroke-width:1.19026005"
+           id="use40943" />
+      </g>
+      <g
+         style="fill:#d40000;fill-opacity:1;stroke-width:1.19026005"
+         id="g40945">
+        <use
+           xlink:href="#textext-ebcd3ae0-3"
+           height="1052.3622"
+           width="744.09448"
+           y="136.259"
+           x="229.839"
+           style="fill:#d40000;stroke-width:1.19026005"
+           id="use40947" />
+      </g>
+    </g>
+  </g>
+</svg>

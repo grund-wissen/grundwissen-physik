@@ -78,7 +78,13 @@ als Überlagerung der zahlreichen einzelnen Coulomb-Kräfte zu beschreiben.
 Stattdessen verwendet man den Begriff der elektrischen Feldstärke
 :math:`\vec{E}`; diese gibt an, welche Kraftwirkung :math:`\vec{F}` eine
 Probeladung :math:`Q _{\rm{p}}` durch eine bereits vorhandene Ladung oder
-Ladungsverteilung erfährt:
+Ladungsverteilung erfährt: 
+
+.. todo Fußnote Hinweis Feldstärke einer punktförmigen Ladung
+
+.. .. math::
+
+..     E = \frac{1}{4 \cdot \pi \cdot \varepsilon_0} \cdot \frac{Q}{r}
 
 .. math::
 
@@ -88,8 +94,8 @@ Die elektrische Feldstärke wird in der Einheit :math:`\unit{\frac{N}{C}}`
 angegeben. [#]_ Als Vektor gibt die elektrische Feldstärke die Richtung der Kraft an,
 die auf eine positive Probeladung wirkt. Die einzelnen Feldlinien gehen deshalb
 senkrecht von positiven Ladungen aus und enden senkrecht auf negativen Ladungen.
-Die Dichte der Feldlinien kann dabei als Maß für die Stärke des elektrischen
-Felds angesehen werden.
+Die Dichte der Feldlinien kann als Maß für die Stärke des elektrischen Felds
+angesehen werden.
 
 .. figure::
     ../pics/elektrizitaet-magnetismus/feldlinien-elektrische-ladungen.png
@@ -426,6 +432,7 @@ beim Dielektrikum um ein anderes Material, so muss anstelle von
 Dielektrikum zwischen den Kondensatorplatten kann somit die Kapazität des
 Kondensators bei gleicher Baugröße um ein Vielfaches erhöht werden.
 
+.. Elektrische Flussdichte D nicht verwechseln mit Flächenenladungsdichte :math:`\sigma = \frac{Q}{A}`
 
 
 .. Bewegung von Teilchen in elektrischen Feldern

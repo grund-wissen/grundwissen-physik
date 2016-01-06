@@ -332,11 +332,11 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
       \beta = \text{atan}\left(\frac{1}{5}\right) \approx 11,3 \degree
 
   Um die Beträge :math:`F_1` und :math:`F_2` der zwei unbekannten Kräfte zu
-  berechnen, sind auch zwei Gleichungen notwendig. Dieses Kräfte-Gleichungssystem
-  lässt sich aufstellen, indem man als Bedingungen voraussetzt, dass die
-  vertikalen Anteile der Kräfte in Summe die Gewichtskraft :math:`F _{\rm{G}} =
-  \unit[50]{N}` der Lampe ausgleichen, und sich die horizontalen Anteile der
-  Kräfte zu Null addieren. Es muss also gelten:
+  berechnen, kann man ein Gleichungssystem der wirkenden Kräfte aufstellen.
+  Dabei lassen sich als Bedingungen nutzen, dass die vertikalen Anteile der
+  Kräfte in Summe die Gewichtskraft :math:`F _{\rm{G}} = \unit[50]{N}` der Lampe
+  ausgleichen, und sich die horizontalen Anteile der Kräfte zu Null addieren. Es
+  muss also gelten:
 
   .. math::
 
@@ -352,8 +352,8 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
        .. centered:: :download:`SVG: Asymmetrische Kraftzerlegung am Beispiel einer Straßenlaterne (Lösung)
                       <../../pics/mechanik/dynamik/kraftzerlegung-strassenlampe-asymmetrisch-loesung.svg>`
 
-  Um das Gleichungssystem zu lösen, kann beispielsweise die zweite Gleichung nach
-  :math:`F_1` aufgelöst werden:
+  Um dieses Gleichungssystem zu lösen, kann beispielsweise die zweite Gleichung
+  nach :math:`F_1` aufgelöst werden:
 
   .. math::
 
@@ -373,17 +373,50 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
   .. math::
 
-        \Rightarrow F_2 &= \frac{\unit[50]{N}}{\left( \frac{\cos{(\beta)}}{\cos{(\alpha)}} \cdot \sin{(\alpha)}
-      + \sin{(\beta)}\right)}\\[5pt]
-        \Rightarrow F_1 &= \frac{\unit[50]{N}}{\left( \frac{\cos{(\beta)}}{\cos{(\alpha)}} \cdot \sin{(\alpha)}
-      + \sin{(\beta)}\right)} \cdot \frac{\cos{(\beta)}}{\cos{(\alpha)}}
+        \Rightarrow F_2 &= \frac{\unit[50]{N}}{\left(
+        \frac{\cos{(\beta)}}{\cos{(\alpha)}} \cdot \sin{(\alpha)} +
+        \sin{(\beta)}\right)}\\[5pt]
+        \Rightarrow F_1 &= \frac{\unit[50]{N}}{\left(
+        \frac{\cos{(\beta)}}{\cos{(\alpha)}} \cdot \sin{(\alpha)} +
+        \sin{(\beta)}\right)} \cdot \frac{\cos{(\beta)}}{\cos{(\alpha)}}
 
   Setzt man hier :math:`\alpha \approx 5,7 \degree` und :math:`\beta \approx
-  11,3 \degree` ein, so erhält man :math:`F _2 \approx \unit[179,0]{N}` und
-  :math:`F_1 \approx \unit[167,5]{N}`; die an den beiden Seilstücken ziehenden
-  Kräfte sind also jeweils deutlich größer als die Gewichtskraft der Lampe. Da
-  :math:`\beta > \alpha` ist, hat die Kraft :math:`F_2` einen größeren Kraftteil
-  in vertikaler Richtung als :math:`F_1`.
+  11,3 \degree` ein, so erhält man :math:`F _2 \approx \unit[169,0]{N}` und
+  :math:`F_1 \approx \unit[167,5]{N}`.
+
+  Diese Lösung kann ebenfalls (wesentlich schneller!) gefunden werden, wenn man
+  feststellt, dass die in der folgenden Abbildung farblich hervorgehobenen
+  Dreiecke :ref:`kongruent <gwm:Kongruenzabbildungen>` sind. Damit folgt mit
+  Hilfe des :ref:`Sinus-Satzes <gwm:Sinus-Satz>` unmittelbar:
+
+  .. image:: ../../pics/mechanik/dynamik/kraftzerlegung-strassenlampe-asymmetrisch-loesung-2.png
+      :align: center
+      :width: 60%
+
+  .. only:: html
+
+       .. centered:: :download:`SVG: Asymmetrische Kraftzerlegung am Beispiel einer Straßenlaterne (Lösung)
+                      <../../pics/mechanik/dynamik/kraftzerlegung-strassenlampe-asymmetrisch-loesung-2.svg>`
+
+  .. math::
+
+      \frac{F_{\mathrm{G}}}{ \sin{(\alpha + \beta)}} = \frac{F_1}{ \sin{(90
+      \degree - \beta)}} \quad &\Longleftrightarrow \quad F_1 =
+      \frac{F_{\mathrm{G}}}{ \sin{(\alpha + \beta)}} \cdot \sin{(90 \degree -
+      \beta)} \\
+      \frac{F_{\mathrm{G}}}{ \sin{(\alpha + \beta)}} = \frac{F_2}{ \sin{(90
+      \degree - \alpha)}} \quad &\Longleftrightarrow \quad F_2 =
+      \frac{F_{\mathrm{G}}}{ \sin{(\alpha + \beta)}} \cdot \sin{(90 \degree -
+      \alpha)} \\
+
+  Auch hier liefert ein Einsetzen der Werte  :math:`\alpha \approx 5,7 \degree`
+  und :math:`\beta \approx 11,3 \degree` die Werte :math:`F_1 \approx
+  \unit[167,5]{N}` und :math:`F _2 \approx \unit[169,0]{N}`.
+
+  Die an den beiden Seilstücken ziehenden Kräfte sind also jeweils deutlich
+  größer als die Gewichtskraft der Lampe. Da :math:`\beta > \alpha` ist, hat die
+  Kraft :math:`F_2` einen größeren Kraftteil in vertikaler Richtung als
+  :math:`F_1`.
 
   :ref:`Zurück zur Aufgabe <Kraftzerlegung-03>`
 

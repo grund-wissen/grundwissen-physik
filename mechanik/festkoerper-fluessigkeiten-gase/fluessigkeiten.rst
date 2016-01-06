@@ -147,8 +147,9 @@ Der Schweredruck in einer Flüssigkeit hängt, da der Ortsfaktor :math:`g`
 konstant ist, somit nur von der Dichte der Flüssigkeit und der Höhe der
 Flüssigkeitssäule ab. Beispielsweise nimmt in Wasser der Schweredruck je
 :math:`\Delta h = \unit[1]{m}` Tiefe um ungefähr :math:`\Delta p =
-\unit[0,1]{bar}` zu (am Boden einer :math:`h=\unit[10]{m}` tiefen Wassersäule
-herrscht somit ein Druck von :math:`p=\unit[1]{bar}`).
+\unit[0,1]{bar}` zu. Am Boden einer :math:`h=\unit[10]{m}` tiefen Wassersäule
+herrscht somit ein Schweredruck von :math:`p=\unit[1]{bar}` -- zusätzlich zum
+Luftdruck, der ebenfalls rund :math:`\unit[1]{bar}` beträgt.
 
 Die Summe aus dem Kolbendruck :math:`p _{\rm{k}}` und dem Schweredruck :math:`p
 _{\rm{s}}` wird auch statischer Druck :math:`p _{\rm{stat}}` genannt.
@@ -199,10 +200,12 @@ _{\rm{s}}` wird auch statischer Druck :math:`p _{\rm{stat}}` genannt.
 Eine wichtige technische Anwendung der Inkompressibilität und gleichmäßigen
 Druckausbreitung in Flüssigkeiten sind hydraulische Anlagen. Hierbei wird auf
 der einen Seite eine (verhältnismäßig) schwache Kraft auf einen Kolben mit
-möglichst geringem Durchmesser ausgeübt. Der Kolbendruck :math:`p = \frac{F
-_{\rm{1}}}{A _{\rm{1}}}`, also das Verhältnis aus der ausgeübten Kraft :math:`F
-_{\rm{1}}` und der Querschnittsfläche :math:`A _{\rm{1}}` des Kolbens, nimmt
-innerhalb der Flüssigkeit dabei deutlich zu.
+möglichst geringem Durchmesser ausgeübt. Der durch den Kolben ausgeübte Druck
+:math:`p = \frac{F _{\rm{1}}}{A _{\rm{1}}}`, also das Verhältnis aus der
+ausgeübten Kraft :math:`F _{\rm{1}}` und der Querschnittsfläche :math:`A
+_{\rm{1}}` des Kolbens, entspricht in guter Näherung dem insgesamt in der
+Flüssigkeit wirkenden Druck, da gegenüber ihm der Schweredruck meist
+vernachlässigbar klein ist.
 
 .. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png
     :name: fig-hydraulische-anlage
@@ -954,6 +957,8 @@ Oberflächenspannung als reines Wasser.
 ..  Oberflächenspannung einen Binnendruck :math:`p = \frac{2 \cdot \sigma}{r}`
 ..  Dies gilt sowohl für eine Flüssigkeitskugel als auch für eine Luftblase in
 ..  einer Flüssigkeit.
+
+.. rubric:: Adhäsionskräfte und Benetzbarkeit
 
 Kräfte, die zwischen den Molekülen einer einer flüssigen und einer festen oder
 zweier flüssiger beziehungsweise fester Substanzen wirken, bezeichnet man als

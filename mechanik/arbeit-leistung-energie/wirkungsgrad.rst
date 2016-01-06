@@ -56,13 +56,6 @@ Gesamt-Wirkungsgrad :math:`\eta _{\rm{Ges}}` der Anlage:
 Der Gesamt-Wirkungsgrad einer mechanischen Einrichtung ist wegen :math:`\eta \le
 1` somit kleiner als der Wirkungsgrad der am wenigsten effizienten Komponente.
 
-..
-    Bei komplexen mechanischen Anlagen ergibt sich der Gesamtwirkungsgrad aus
-    den Wirkungsgraden der einzelnen Teile, an denen Arbeit verrichtet wird. Der
-    Gesamtwirkungsgrad einer komplexen Anordnung kann folgendermaßen berechnet
-    werden:
-    .. math:: \eta = \eta _{\rm{1}} \cdot \eta _{\rm{2}} \cdot \ldots
-
 
 .. raw:: html
 

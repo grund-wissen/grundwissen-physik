@@ -309,8 +309,7 @@ Manche Stoffe, z.B. Glas, haben keine bestimmte Schmelztemperatur:
 
 * Glas erweicht bei :math:`\unit[700]{\degree C}` und wird bei
   :math:`\unit[1\,300]{\degree C}` dünnflüssig. Man kann Glas als eine Flüssigkeit
-  ansehen, die bei Zimmertemperatur äußerst zäh ist. (Alte Fenster werden
-  beispielsweise im Laufe der Zeit oben etwas dünner, unten dafür etwas dicker.)
+  ansehen, die bei Zimmertemperatur äußerst zäh ist. [#]_
 * Andere Stoffe, beispielsweise Holz, verbrennen, wenn man sie an Luft stark
   erwärmt.
 
@@ -532,6 +531,13 @@ Flüssigkeit sowie ihre Umgebung ab ("Verdunstungskälte").
 .. [#] Gibt ein Körper im umgekehrten Fall Wärme ab, so verringert sich unter
     den gleichen Bedingungen (konstantes Volumen, gleicher Aggregatszustand)
     seine Temperatur.
+
+.. [#] Alte Fenster werden beispielsweise im Laufe der Zeit oben um wenige
+    Atomlagen etwas dünner, unten dafür um wenige Atomlagen dicker. Dass viele
+    antike Fenster im unteren Teil deutlich dicker sind als im oberen, hängt
+    hingegen mit dem damaligen `Herstellungsprozess
+    <http://pauli.uni-muenster.de/~munsteg/physik-irrtuemer.html>`_ zusammen.
+
 
 .. Ein weiterer Aggregatszustand, bei dem die Atome zumindest teilweise
 .. ionisiert sind, wird "Plasma" genannt.

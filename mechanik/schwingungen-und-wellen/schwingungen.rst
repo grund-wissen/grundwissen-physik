@@ -141,19 +141,6 @@ Schwingungen hingegen kommen, sofern ihnen nicht regelmäßig Energie zugeführt
 wird, nach einer gewissen Zeit zum Erliegen. Einen Vorgang, bei denen die
 Amplitude stetig abnimmt, bezeichnet man als gedämpfte Schwingung.
 
-.. figure:: ../../pics/mechanik/schwingungen-und-wellen/gedaempfte-schwingung.png
-    :name: fig-gedämpfte-schwingung
-    :alt:  fig-gedämpfte-schwingung
-    :align: center
-    :width: 60%
-
-    Zeitlicher Verlauf einer gedämpften Schwingung.
-
-    .. only:: html
-
-        :download:`SVG: Gedämpfte Schwingung
-        <../../pics/mechanik/schwingungen-und-wellen/gedaempfte-schwingung.svg>`
-
 Ist die Dämpfung abhängig von der Geschwindigkeit, was beispielsweise bei
 Luftreibung der Fall ist, so nimmt die anfängliche Amplitude :math:`y_0`
 exponentiell mit der Zeit ab. Für die Amplitude :math:`y` zum Zeitpunkt
@@ -163,18 +150,35 @@ exponentiell mit der Zeit ab. Für die Amplitude :math:`y` zum Zeitpunkt
 
     y(t) = y_0 \cdot e ^{- \delta \cdot t}
 
+.. figure:: ../../pics/mechanik/schwingungen-und-wellen/gedaempfte-schwingung.png
+    :name: fig-gedämpfte-schwingung
+    :alt:  fig-gedämpfte-schwingung
+    :align: center
+    :width: 80%
+
+    Zeitlicher Verlauf einer Schwingung mit geschwindigkeitsabhängiger
+    beziehungsweise konstanter Dämpfung.
+
+    .. only:: html
+
+        :download:`SVG: Gedämpfte Schwingung
+        <../../pics/mechanik/schwingungen-und-wellen/gedaempfte-schwingung.svg>`
+
+.. nach Herr S.237:
+.. konstante Dämpfung: :math:`\Delta y = 4 \cdot \frac{F _{\mathrm{Reib}}}{D}`
+
 Ebenfalls möglich ist eine konstante dämpfende Kraft, beispielsweise infolge von
 (Gleit-)Reibung. In diesem Fall ist die Differenz zweier benachbarter Amplituden
 konstant, die Amplitude der Schwingung nimmt somit linear ab.
 
-..
-    Jede Dämpfung bewirkt bei Schwingungen eine Verkleinerung der Frequenz
-    beziehungsweise eine Vergrösserung der Schwingungsdauer. In technischen
-    Anwendungen, beispielsweise bei Federungen, versucht man üblicherweise,
-    Schwingungen möglichst zu vermeiden; das schwingende System soll bestenfalls
-    nach einer einmaligen Auslenkung sofort in die Ausgangslage zurückkehren,
-    jedoch keine weiteren Schwingungen ausführen. In diesem Fall nennt man die
-    Schwingung aperiodisch.
+Jede Dämpfung bewirkt bei Schwingungen eine Verkleinerung der Frequenz
+beziehungsweise eine Vergrößerung der Schwingungsdauer. 
+
+.. In technischen Anwendungen, beispielsweise bei Federungen, versucht man
+.. üblicherweise, Schwingungen möglichst zu vermeiden. Das schwingende System soll
+.. bestenfalls nach einer einmaligen Auslenkung sofort in die Ausgangslage
+.. zurückkehren, jedoch keine weiteren Schwingungen ausführen. In diesem Fall nennt
+.. man die Schwingung aperiodisch.
 
 
 .. index:: Schwingung; erzwungen

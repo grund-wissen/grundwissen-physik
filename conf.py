@@ -15,8 +15,8 @@ master_doc     = 'index'
 project   = "Grundwissen Physik"
 copyright = "2011-2015, Bernhard Grotz"
 
-version = '0.4.1'
-release = '0.4.1'
+version = '0.4.1c'
+release = '0.4.1c'
 
 language = 'de'
 # spelling_lang = 'de_DE'
@@ -34,7 +34,7 @@ html_short_title  = "Grundwissen Physik"
 html_show_sourcelink = True
 html_show_copyright  = False
 html_show_sphinx     = False
-html_last_updated_fmt = '%d. %b %Y'
+html_last_updated_fmt = '%d.%m.%Y'
 html_favicon = "favicon.ico"
 html_logo    = "logo.png"
 html_search_language = 'en'

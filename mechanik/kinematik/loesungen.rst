@@ -520,7 +520,7 @@ Bewegungen>`.
       \approx \unit[772]{\frac{m}{s^2}}
 
   Diese Beschleunigungen entsprechen rund :math:`\unit[20]{g}` beziehungsweise
-  :math:`\unit[89]{g}` und sind somit lebensgefährlich bzw. tödlich.
+  :math:`\unit[79]{g}` und sind somit lebensgefährlich bzw. tödlich.
 
   :ref:`Zurück zur Aufgabe <Beschleunigung-07>`
 

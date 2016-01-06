@@ -315,6 +315,7 @@ wäre eine gezielte Fortbewegung unmöglich, die Räder würden durchdrehen.
 Um den Rädern eine gute Straßenlage zu geben, sind die Reifen aus
 Spezialgummi und mit Profilen versehen.
 
+.. index:: Strömungswiderstand, Luftwiderstand
 .. _Strömungswiderstand:
 
 .. rubric:: Der Strömungswiderstand

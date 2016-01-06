@@ -22,19 +22,22 @@ senkrecht zur Linie zwischen Drehachse und Angriffspunkt der Kraft steht.
 *Definition:*
 
     Wirkt eine Kraft :math:`\vec{F}` im senkrechten Abstand :math:`\vec{s}` von
-    einer festen Drehachse, so erzeugt sie ein Drehmoment :math:`\vec{M}`. Für den
-    Betrag des Drehmoments gilt:
+    einer festen Drehachse, so erzeugt sie ein Drehmoment :math:`\vec{M}`, für
+    das gilt:
 
     .. math::
 
-        M = \vec{s} \times \vec{F} = s \cdot F \cdot \sin{\alpha }
+        \vec{M} &= \vec{s} \times \vec{F} \\
+        M &= s \cdot F \cdot \sin{\alpha }
 
-    Der Betrag des Drehmoments :math:`M` ist maximal, wenn die Kraft
-    :math:`\vec{F}` senkrecht zur Strecke :math:`\vec{s}` zwischen Angriffspunkt
-    und Drehachse auf den Körper einwirkt. Wirkt die Kraft entlang dieser
-    Verbindungslinie, so ist der Betrag des Drehmoments gleich Null.
+    Hierbei bezeichnet :math:`\alpha` den Winkel zwischen der Kraftrichtung und
+    der Verbindungslinie vom Drehzentrum zum Angriffspunkt der Kraft.
 
-.. Drehmoment umgangssprachlich manchmal auch als Drehvermögen bezeichnet.
+    Das Drehmoment ist als :ref:`Vektorprodukt <gwm:Vektorprodukt>` seinem
+    Betrag nach maximal, wenn die Kraft :math:`\vec{F}` senkrecht zur Strecke
+    :math:`\vec{s}` zwischen Angriffspunkt und Drehachse auf den Körper
+    einwirkt. Wirkt die Kraft entlang dieser Verbindungslinie, so ist der Betrag
+    des Drehmoments gleich Null.
 
 *Einheit:*
 
@@ -42,7 +45,6 @@ senkrecht zur Linie zwischen Drehachse und Angriffspunkt der Kraft steht.
     Newtonmeter :math:`(\unit{Nm})`. Ein Newtonmeter entspricht demjenigen
     Drehmoment, das eine Kraft :math:`F = \unit[1]{N}` im senkrechten Abstand
     :math:`s = \unit[1]{m}` ihrer Wirkungslinie von der Drehachse erzeugt.
-
 
 .. Reibung bei Drehmomenten: Oftmals proportional zur Winkelgeschwindigkeit \omega.
 
@@ -335,39 +337,39 @@ Drehbewegungen um den Schwerpunkt zurückführen.
 .. rubric:: Experimentelle Bestimmung des Trägheitsmoments
 
 Um das Trägheitsmoment eines beliebigen Objekts, beispielsweise einer
-rotierenden Scheibe oder eines Rades, experimentell zu bestimmen, baut man
-dieses in eine geeignete Halterung ein, so dass es frei um seine Drehachse
-rotieren kann. Dann bringt man ein zusätzliches Massestück mit der Masse
-:math:`m _{\rm{z}}` im Abstand :math:`r _{\rm{z}}` von der Drehachse am Objekt
-an.
+rotierenden Scheibe oder eines Rades, experimentell zu bestimmen, kann man es
+beispielsweise mittels einer Halterung oberhalb seines Schwerpunkts frei drehbar
+aufhängen.
 
-.. figure:: ../pics/mechanik/drehmoment-und-gleichgewicht/traegheitsmoment-messung.png
-    :name: fig-traegheitsmoment-messung
-    :alt:  fig-traegheitsmoment-messung
+.. figure:: ../pics/mechanik/drehmoment-und-gleichgewicht/traegheitsmoment-experimentelle-bestimmung.png
+    :name: fig-traegheitsmoment-experimentelle-bestimmung
+    :alt:  fig-traegheitsmoment-experimentelle-bestimmung
     :align: center
     :width: 40%
 
-    Aufbau zur experimentellen Bestimmung des Trägheitsmoment eines rotierenden
-    Objekts.
+    Aufbau zur experimentellen Bestimmung des Trägheitsmoment eines rotierenden Objekts.
 
     .. only:: html
 
-        :download:`SVG: Trägheitsmoment (Messung)
-        <../pics/mechanik/drehmoment-und-gleichgewicht/traegheitsmoment-messung.svg>`
+        :download:`SVG: Trägheitsmoment (Experimentelle Bestimmung)
+        <../pics/mechanik/drehmoment-und-gleichgewicht/traegheitsmoment-experimentelle-bestimmung.svg>`
 
-Lenkt man diese Anordnung aus der Ruhelage aus, so beginnt es mit einer leicht
-messbaren Schwingungsdauer :math:`T` um die Ruhelage zu pendeln. Für das
-Trägheitsmoment des Objekts (ohne Zusatzmasse) gilt dabei:
+Lenkt man diese Anordnung aus der Ruhelage aus, so beginnt es als
+:ref:`physikalisches Pendel <Physikalisches Pendel>` mit einer leicht messbaren
+Schwingungsdauer :math:`T` um die Ruhelage zu schwingen. Für das Trägheitsmoment
+des Objekts um seinen Schwerpunkt gilt dann:
 
 .. math::
     :label: eqn-traegheitsmoment-experimentelle-bestimmung
 
-    J = m _{\rm{z}} \cdot r _{\rm{z}}^2 \cdot \left( \frac{T^2 \cdot g}{4 \cdot
-    \pi^2 \cdot r _{\rm{z}}} - 1\right)
+    J = m \cdot a \cdot \left( \frac{T^2 \cdot g}{4 \cdot
+    \pi^2 \cdot a} - 1\right)
 
-Hierbei bezeichnet :math:`g = \unit[9,81]{\frac{m}{s^2}}` die Erdbeschleunigung.
-Da alle anderen Größen in der obigen Formel entweder konstant oder ebenfalls
-leicht messbar sind, kann das Trägheitsmoment unmittelbar bestimmt werden.
+Hierbei bezeichnet :math:`g = \unit[9,81]{\frac{m}{s^2}}` die Erdbeschleunigung,
+:math:`m` die Masse des schwingenden Gegenstands, und :math:`a` den Abstand
+zwischen seinem Schwerpunkt :math:`S` und dem Aufhängepunkt. Da alle anderen
+Größen in der obigen Formel entweder konstant oder ebenfalls leicht messbar
+sind, kann das Trägheitsmoment unmittelbar bestimmt werden.
 
 .. raw:: html
 

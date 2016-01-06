@@ -66,6 +66,8 @@ bei Erdbebenwellen oder bei Schallwellen in Flüssigkeiten und Festkörpern,
 treten Längs- und Querwellen gleichzeitig auf.
 
 
+.. _Ausbreitung von Wellen:
+
 Ausbreitung von Wellen
 ----------------------
 
@@ -98,6 +100,8 @@ Zusätzlich sind zwei weitere Begriffe für die Beschreibung von Wellen nützlic
         :download:`SVG: Wellenfronten und Ausbreitungsrichtungen
         <../../pics/mechanik/schwingungen-und-wellen/wellenfront-und-ausbreitungsrichtung.svg>`
 
+.. index:: Wellenformel
+
 Die Geschwindigkeit, mit der sich die einzelnen Wellenfronten ausbreiten, wird
 als Ausbreitungs- oder Phasengeschwindigkeit :math:`v` der Welle bezeichnet.
 [#]_ Die Richtung von :math:`v` ist dabei stets senkrecht zur Wellenfront. In
@@ -105,7 +109,7 @@ vielen Materialien, insbesondere in Luft, breiten sich die einzelnen
 Wellenfronten -- nahezu unabhängig von der Frequenz der Wellen -- mit der
 gleichen Ausbreitungsgeschwindigkeit fort. Zwischen der Frequenz :math:`f` der
 Welle und der Wellenlänge :math:`\lambda` gilt dabei folgender wichtiger
-Zusammenhang:
+Zusammenhang, der bisweilen auch "Wellenformel" genannt wird:
 
 .. math::
     :label: eqn-frequenz-und-wellenlaenge
@@ -159,12 +163,17 @@ zugehörige fehlende Größe berechnen:
   :math:`\unit[380]{nm}` und :math:`\unit[780]{nm}`; dies entspricht Frequenzen
   von etwa :math:`\unit[789]{THz}` bis :math:`\unit[384]{THz}`.
 
+.. Ausbreitungsgeschwindigkeit von Wellen
+
 In manchen Materialien ist die Ausbreitungsgeschwindigkeit :math:`v` abhängig
 von der Frequenz :math:`f` der Wellen. In diesem Fall laufen die einzelnen
 Wellen auseinander, man spricht von Dispersion. Dieser Effekt wird
 beispielsweise in der :ref:`Optik <Lichtdispersion>` zur Aufspaltung von
 weißem Licht in Spektralfarben mittels eines Prismas genutzt.
 
+
+.. index:: Superpositionsprinzip
+.. _Superpositionsprinzip:
 
 Das Superpositionsprinzip
 -------------------------
@@ -173,9 +182,8 @@ Wellen können sich, ohne sich gegenseitig zu stören, zu einer resultierenden
 Welle überlagern. Sind die Frequenzen und Amplituden der einzelnen Schwingungen
 Wellen bekannt, so kann man daraus die resultierende Welle bestimmen.
 
-..
-    Die Ausbreitungsgeschwindigkeit einer Welle ist die Geschwindigkeit, mit der
-    sich ein Schwingungszustand im Raum ausbreitet.
+.. Die Ausbreitungsgeschwindigkeit einer Welle ist die Geschwindigkeit, mit der
+.. sich ein Schwingungszustand ("Wellenpaket") im Raum ausbreitet.
 
 Überlagern sich zwei sinusförmige Wellen mit gleicher Ausbreitungsrichtung und
 gleicher Frequenz, so entsteht wiederum eine sinusförmige Welle mit der gleichen
@@ -238,6 +246,14 @@ Amplitude schwankt.
         :download:`SVG: Überlagerung (Schwebung)
         <../../pics/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.svg>`
 
+Je geringer der Frequenzunterschied der Teilwellen ist, desto länger wird die
+Dauer der Schwebung. Dieser Effekt wird beispielsweise genutzt, um Klaviere oder
+Gitarren zu stimmen: Verklingt die Schwebung nicht schneller als die
+angeschlagenen Töne des Instruments, die in Übereinstimmung gebracht werden
+sollen, so ist das Instrument gut gestimmt.
+
+
+.. _Interferenz-Effekte:
 
 Interferenz-Effekte
 -------------------
@@ -250,6 +266,7 @@ Wellenamplituden statt:
   positive oder beide in negative Auslenkungsrichtung), so überlagern sich die
   Wellen "konstruktiv", das heißt die resultierende Amplitude ist größer als
   die Amplituden der einzelnen Wellen.
+
 * Haben die einzelnen Wellen hingegen unterschiedliche Auslenkungsrichtungen, so
   überlagern sich die Wellen "destruktiv"; die resultierende Amplitude ist
   hierbei geringer als die Beträge der einzelnen Amplituden. Auch eine völlige
@@ -281,34 +298,165 @@ Wellenamplituden statt:
         gleich großer Ausbreitungsgeschwindigkeit :math:`v`.
 
 An jeder Stelle der Welle sind somit die Auslenkungszustände der Teilwellen
-unter Berücksichtigung des Vorzeichens zu addieren.
+unter Berücksichtigung des Vorzeichens zu addieren. Vereinfacht gesagt: Trifft
+ein "Wellenberg" auf einen anderen "Wellenberg", so ergibt sich ein höherer
+Wellenberg, trifft ein "Wellenberg" auf ein "Wellental", so löschen sich die
+Amplituden an dieser Stelle zumindest teilweise aus.
 
+Handelt es sich bei den aufeinander treffenden Wellen nicht nur um einen
+einzelnen Auslenkungszustand (Wellenberg bzw. Wellental, manchmal allgemein auch
+"Wellenpaket" genannt), sondern um einen kontinuierlichen, nicht abbrechenden
+"Wellenzug", so bezeichnet man das Ergebnis der Überlagerungen der Teilwellen
+als Interferenz.
+
+.. index:: Kohärenz
+
+.. rubric:: Kohärenz und Gangunterschied
+
+Dauerhaft bilden sich Interferenz-Effekte nur dann aus, wenn die sich
+überlagernden Wellen eine gleiche Frequenz und eine feste Phasenbeziehung
+zueinander haben. Die Wellen müssen also von gleich schnell schwingenden
+Erregern ausgehen, die sich relativ zueinander in Ruhe befinden, sich also nicht
+voneinander entfernen oder aufeinander zubewegen. Erfüllen zwei oder mehrere
+Wellenzüge diese beiden Bedingungen, so bezeichnet man sie als kohärent.
+
+Werden beispielsweise, wie in der obigen Abbildung dargestellt, Wasserwellen
+durch zwei im gleichen Rhythmus eintauchende Stangen erzeugt, so kommen beide
+Teilwellen stets gleichzeitig an der Mittelsenkrechten zwischen den beiden
+Eintauchstellen an. Entlang dieser Linie überlagern sich beide Wellen somit
+stets konstruktiv, es treten dort also hohe Wellenberge auf, gefolgt von tiefen
+Wellentälern. Zusätzlich zur Mittelsenkrechten existieren noch weitere Linien,
+an denen es stets zu konstruktiver (oder auch destruktiver) Interferenz kommt.
+
+.. index:: Gangunterschied
+
+Entscheidend dafür, ob es an einer Stelle zu konstruktiver oder destruktiver
+Interferenz kommt, sind die beiden Weglängen :math:`s_1` und :math:`s_2` von den
+beiden Ausgangspunkten der Welle zur betreffenden Stelle. Haben beide Wellen zu
+Beginn den gleichen Auslenkungszustand (die gleiche Phase), so ergibt sich genau
+dann ein Interferenz-Maximum, wenn sich die beiden Weglänge um ein Vielfaches
+einer ganzen Wellenlänge unterscheiden. Es muss in diesem Fall also für den so
+genannten "Gangunterschied" :math:`\Delta s = s_2 - s_1` folgendes gelten:
+
+.. math::
+    :label: eqn-interferenz-maximum
+
+    \Delta s = n \cdot \lambda \quad ; \quad \text{n = 0,\, 1,\, 2,\, \ldots}
+
+Diese Bedingung besagt anschaulich, dass beide Wellen exakt mit dem gleichen
+Auslenkungszustand ankommen, auch wenn die eine Welle bis zum Ankunftsort
+bereits ein paar Wellenberge und Wellentäler mehr durchlaufen hat. Beträgt der
+Gangunterschied hingegen genau eine halbe Wellenlänge, so treffen die
+Wellenberge der einen Welle auf die Wellentäler der anderen Welle, und man
+erhält destruktive Interferenz. An einem Interferenz-Minimum muss also für den
+Gangunterschied :math:`\Delta s` gelten:
+
+.. math::
+    :label: eqn-interferenz-minimum
+
+    \Delta s = \frac{2 \cdot n+1}{2} \cdot \lambda \quad ; \quad \text{n = 0,\,
+    1,\, 2,\, \ldots}
+
+Durch :math:`\frac{2 \cdot n + 1}{2}` wird hierbei ein ungerades Vielfaches
+einer halben Wellenlänge bezeichnet, also :math:`\frac{1}{2},\, \frac{3}{2},\,
+\frac{5}{2},\, \ldots`.
+
+.. TODO Link zu Interferenz in der Optik
+
+.. index:: Stehende Welle, Oberschwingung
 
 .. _Stehende Wellen:
 
 .. rubric:: Stehende Wellen
 
 Eins Sonderfall von Interferenz ergibt sich, wenn eine Welle auf ein festes
-Hindernis trifft; kann sich die Welle nicht weiter ausbreiten, so wird sie
-reflektiert und läuft mit gleicher Ausbreitungsgeschwindigkeit in die
-entgegengesetzte Richtung. Dabei kann sich die reflektierte mit weiteren Wellen,
-die sich noch in der ursprünglichen Richtung bewegen, überlagern.
+Hindernis oder das Ende des Wellenträgers trifft. Kann sich die Welle nicht
+weiter ausbreiten, so wird sie reflektiert und läuft mit gleicher
+Ausbreitungsgeschwindigkeit in die entgegengesetzte Richtung. Dabei überlagert
+sich die reflektierte mit weiteren Wellen, die sich noch in der ursprünglichen
+Richtung bewegen.
 
-... to be continued ... :-)
+Da die Frequenz der reflektierten Welle mit der Frequenz des ursprünglichen
+Wellenzugs identisch ist, kann es wiederum zu konstruktiver Interferenz kommen,
+wenn der Wellenträger eine zur Wellenlänge :math:`\lambda` passende Wellenlänge
+hat:
+
+* Ist der Wellenträger, beispielsweise ein Seil oder eine Saite eines
+  Musikinstrumens, an beiden Enden fest eingespannt, so ergibt sich genau dann
+  eine konstruktive Interferenz, wenn die Seillänge :math:`l` einem ganzzahligen
+  Vielfachen von einem Halben der Wellenlänge entspricht. Es muss also folgende
+  Bedingung gelten:
+
+  .. math::
+      :label: eqn-grundschwingung-fest-fest
+
+      l = n \cdot \frac{\lambda}{2}
+
+  Schwingende Saiten haben also, im Gegensatz zu normalen Pendeln, nicht nur
+  eine einzige Eigenfrequenz. Zusätzlich zur so genannten "Grundschwingung" mit
+  :math:`\lambda_0 = 2 \cdot l` können weitere "Oberschwingungen" auftreten,
+  wobei für die erste Oberschwingung :math:`\lambda_1 = \frac{2 \cdot l}{2}`
+  gilt, für die zweite :math:`\lambda_2 = \frac{2 \cdot l}{3}`, für die dritte
+  :math:`\lambda_3 = \frac{2 \cdot l}{4}`, usw.
+
+  Die Grundschwingung hat stets die größte Amplitude und ist  ausschlaggebend
+  für die Frequenz der sich ausbreitenden Welle. Die zusätzlich auftretenden
+  Oberschwingungen hingegen modifizieren die Wellenkurve, so dass sich
+  beispielsweise bei verschiedenen Musikinstrumenten auch dann unterschiedliche
+  Klänge ergeben, wenn die Instrumente perfekt gestimmt sind und der gleiche
+  "Ton" gespielt wird.
+
+* Ist der Wellenträger, beispielsweise eine Stimmgabel oder ein schwingendes
+  Metallplättchen, an einem Ende fest eingespannt und am anderen Ende lose, so
+  ergibt sich genau dann eine konstruktive Interferenz, wenn die Länge :math:`l`
+  des Objekts einem ganzzahligen Vielfachen von einem Viertel der Wellenlänge
+  entspricht. Es muss also folgende Bedingung gelten:
+
+  .. math::
+      :label: eqn-grundschwingung-fest-lose
+
+      l = n \cdot \frac{\lambda}{4}
+
+  Dieser Zusammenhang gilt auch, wenn die Luftsäule in einem einseitig
+  geschlosssenen Rohr zum Schwingen gebracht wird.
+
+.. \lambda = \frac{4 \cdot l}{n}
+.. f = \frac{c}{\lambda} = \frac{n \cdot c}{4 \cdot l}
+
+* Ist der Wellenträger, beispielsweise bei einem Blasinstrument, an beiden Enden
+  offen, so ergibt sich genau dann eine konstruktive Interferenz, wenn die Länge
+  :math:`l` des Objekts einem ganzzahligen Vielfachen von einem Halben der
+  Wellenlänge entspricht. Es muss also -- ebenso wie bei beidseitig fest
+  eingespannten Wellenträgern -- folgende Bedingung gelten:
+
+  .. math::
+      :label: eqn-grundschwingung-lose-lose
+
+      l = n \cdot \frac{\lambda}{2}
+
+Die Länge des Wellenträgers ist, beispielsweise bei Musikinstrumenten, also
+maßgeblich für die Wellenlänge :math:`\lambda` der Grundschwingung. Welche
+Frequenz :math:`f` die stehende Welle und somit der entstehende Ton hat, hängt
+allerdings wegen :math:`v = \lambda \cdot f` beziehungsweise :math:`f =
+\frac{c}{\lambda}` auch von der Ausbreitungsgeschwindigkeit :math:`v` der Welle
+auf dem Wellenträger ab.
+
+
+.. Zusammenhang zwischen Wellengeschwindigkeit und weiteren physikalischen
+.. Größen.
+
+.. Instrumenten-Saiten: Unterschiedliche Verteilung der Masse
 
 ..  Huygensches Prinzip der Elementarwellen: Jeder von einer Wellenbewegung erfasste
 ..  Punkt eines Mediums kann selbst als Ausgangspunkt einer neuen Welle
 ..  ("Elementarwelle") aufgefasst werden. Jede Wellenfront kann als Einhuellende von
 ..  Elementarwellen aufgefasst werden.
 
-..  Wellen breiten sich in der Regel von einem Erreger in den Raum aus. Man spricht
-..  dann von fortschreitenden Wellen. Werden solche Wellen reflektiert, so können
+
 ..  sich hin- und rücklaufende Wellen überlagern. Dabei können sich stehende Wellen
 ..  ausbilden.
 
-..  Für die beschriebene stehende Welle ist charakteristisch, dass der Bereich
-..  zwischen den beiden festen Enden (Erreger und Ort der Reflexion) ein
-..  ganzzahliges Vielfaches der halben Wellenlänge ist, und sich an bestimmten
+.. und sich an bestimmten
 ..  Stellen des Raumes Orte mit maximaler Auslenkung (Schwingungsbäuche) und solche
 ..  mit der Auslenkung null (Schwingungsknoten) herausbilden.
 

@@ -315,26 +315,18 @@ der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher:
 
 .. [#]  Um die Formel für die Beschleunigungsarbeit :math:`W _{\rm{B}}`
     herzuleiten, geht man von der allgemeinen Definition der Arbeit :math:`W = F
-    \cdot s` aus. Setzt man in diese hierbei für die Kraft :math:`F` das
-    allgemeine Kraftgesetz :math:`F = m \cdot a` und für die Wegstrecke
-    :math:`s` die Weg-Zeit-Formel einer :ref:`Bewegung mit konstanter
-    Beschleunigung <Wegstrecke bei konstanter Beschleunigung>` (:math:`s =
-    \frac{1}{2} \cdot a \cdot t^2`) ein, so folgt:
+    \cdot s` aus. Für die Kraft :math:`F` kann man das allgemeine Kraftgesetz
+    :math:`F = m \cdot a` einsetzen. Für die Wegstrecke kann man die
+    :ref:`Bremsformel <Bremsformel>` :math:`v^2-v_0^2 = 2 \cdot a \cdot s` nach
+    :math:`s` auflösen. Erfolgt die Beschleunigung aus dem Stillstand
+    :math:`(v_0=0)`, so ist :math:`s = \frac{v^2}{2 \cdot a}`. Setzt man
+    auch diesen Ausdruck in die allgemeine Definition der Arbeit ein, so erhält
+    man:
 
     .. math::
 
-        W _{\rm{B}} = F \cdot s =  (m \cdot a)  \cdot (\frac{1}{2} \cdot a \cdot
-        t^2) = \frac{1}{2} \cdot m \cdot a^2 \cdot t^2
-
-    Beachtet man weiterhin, dass :math:`v = a \cdot t` und somit :math:`v^2 =
-    a^2 \cdot t^2` gilt, so ergibt sich:
-
-    .. math::
-
-        W _{\rm{B}} = \frac{1}{2} \cdot m \cdot a^2 \cdot t^2 = \frac{1}{2}
-        \cdot m \cdot v^2
-
-..  Alternative: a = \frac{v^2}{2 \cdot s} direkt einsetzen.
+        W _{\rm{B}} = F \cdot s =  (m \cdot a)  \cdot \frac{v^2}{2 \cdot a} =
+        \frac{1}{2} \cdot m \cdot v^2
 
 .. raw:: html
 

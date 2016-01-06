@@ -214,7 +214,7 @@ Reibungseffekte auf, die mechanische Energie in Wärme umwandeln. [#]_
     Strahlungsenergie (z.B. Licht), Kernenergie und chemische Energie.
 
 .. [#] Arbeit kann in diesem Sinn als Energiemenge aufgefasst werden, die zum
-    Anheben eines Gegenstands auf ein anderes Energiepotential nötig ist.
+    Anheben eines Gegenstands auf ein anderes Energie-Niveau nötig ist.
 
 .. [#] Diese für den weiteren mechanischen Prozess "verloren gegangene" Energie
     ist dann gleich der verrichteten Reibungsarbeit :math:`W _{\rm{R}} = F
