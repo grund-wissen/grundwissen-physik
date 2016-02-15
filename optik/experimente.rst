@@ -1,13 +1,13 @@
 
-.. _Versuche zur Optik:
+.. _Experimente zur Optik:
 
-Versuche zur Optik
-==================
+Experimente zur Optik
+=====================
 
-.. _Versuche zur Ausbreitung des Lichts:
+.. _Experimente zur Ausbreitung des Lichts:
 
-Versuche zur Ausbreitung des Lichts
------------------------------------
+Experimente zur Ausbreitung des Lichts
+--------------------------------------
 
 .. _Licht im Nebel:
 
@@ -112,10 +112,10 @@ Versuche zur Ausbreitung des Lichts
 
 ----
 
-.. _Versuche zur Reflexion von Licht:
+.. _Experimente zur Reflexion von Licht:
 
-Versuche zur Reflexion von Licht
---------------------------------
+Experimente zur Reflexion von Licht
+-----------------------------------
 
 .. _Spiegelbild einer Kerze 1:
 
@@ -278,10 +278,10 @@ Versuche zur Reflexion von Licht
 ..  - Gilt das Reflexionsgesetz auch für farbiges Licht?
 
 
-.. _Versuche zur Lichtbrechung:
+.. _Experimente zur Lichtbrechung:
 
-Versuche zur Lichtbrechung
---------------------------
+Experimente zur Lichtbrechung
+-----------------------------
 
 .. _Tief im Wald die hohe Eiche:
 

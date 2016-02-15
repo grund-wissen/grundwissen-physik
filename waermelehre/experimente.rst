@@ -1,19 +1,19 @@
 
-.. _Versuche zur Wärmelehre:
+.. _Experimente zur Wärmelehre:
 
-Versuche zur Wärmelehre
-=======================
+Experimente zur Wärmelehre
+==========================
 
 *Achtung:* Sicherheit hat immer Vorrang! Versuche mit offenem Feuer oder
 elektrischen Heizquellen dürfen stets nur in Anwesenheit eines Erwachsenen
 durchgeführt werden.
 
-.. _Versuche zu Temperatur und Wärme:
+.. _Experimente zu Temperatur und Wärme:
 
-Versuche zu Temperatur und Wärme
---------------------------------
+Experimente zu Temperatur und Wärme
+-----------------------------------
 
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Temperatur und Wärme <Temperatur und Wärme>`.
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Temperatur und Wärme <Temperatur und Wärme>`.
 
 ----
 
@@ -42,12 +42,12 @@ Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Temperatur und Wär
 
 ----
 
-.. _Versuche zu Ausbreitung von Wärme:
+.. _Experimente zu Ausbreitung von Wärme:
 
-Versuche zur Ausbreitung von Wärme
-----------------------------------
+Experimente zur Ausbreitung von Wärme
+-------------------------------------
 
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Ausbreitung von
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Ausbreitung von
 Wärme <Ausbreitung von Wärme>`.
 
 ----
@@ -209,12 +209,12 @@ Wärme <Ausbreitung von Wärme>`.
 
 ----
 
-.. _Versuche zur Ausdehnung bei Erwärmung:
+.. _Experimente zur Ausdehnung bei Erwärmung:
 
-Versuche zur Ausdehnung bei Erwärmung
--------------------------------------
+Experimente zur Ausdehnung bei Erwärmung
+----------------------------------------
 
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Ausdehnung bei
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Ausdehnung bei
 Erwärmung <Ausdehnung bei Erwärmung>`.
 
 ----
@@ -393,9 +393,9 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
 
 ..  waermekraftmaschinen.rst
 
-.. .. _Versuche zu Phasenübergängen:
+.. .. _Experimente zu Phasenübergängen:
 
-.. todo:: Versuche zu Phasenübergängen
+.. todo:: Experimente zu Phasenübergängen
 
 
 .. raw:: latex

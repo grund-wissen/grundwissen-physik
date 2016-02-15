@@ -1,8 +1,8 @@
 
-.. _Versuche zur Akustik:
+.. _Experimente zur Akustik:
 
-Versuche zur Akustik
-====================
+Experimente zur Akustik
+=======================
 
 .. _Der tickende Wecker:
 

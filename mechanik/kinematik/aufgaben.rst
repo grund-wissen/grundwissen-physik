@@ -16,115 +16,92 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 ----
 
-.. _Bewegung-01:
+.. _kin-01:
 
-* (*) Bewegung ist relativ. Konkret bedeutet das:
+* (\*) Bei den folgenden Aufgaben geht es jeweils um durchschnittliche
+  Geschwindigkeiten oder Bewegungsvorgänge mit konstanter Geschwindigkeit:
 
-  *"Eine Bewegung ist die Änderung der Lage eines Körpers gegenüber einem
-  anderen Körper. Wenn ein Körper seine Lage gegenüber einem anderen Körper
-  nicht ändert, dann ist er in Ruhe gegenüber diesem Körper."*
+  - Ein Läufer legt eine Strecke :math:`s = \unit[8,0]{km}` in einer Zeit von
+    :math:`t = \unit[30]{min}` zurück. Wie groß ist seine
+    Durchschnittsgeschwindigkeit :math:`\bar{v}`?
+  - Ein Radfahrer legt alle :math:`\Delta t=\unit[5,0]{s}` eine Wegstrecke von
+    :math:`\Delta s=\unit[36]{m}` zurück. Wie groß ist seine Geschwindigkeit?
+  - Der Weltrekord im :math:`\unit[100]{m}`-Lauf aus dem Jahr 2009 liegt bei
+    :math:`t=\unit[9,58]{s}`. Welche mittlere Geschwindigkeit :math:`\bar{v}` in
+    :math:`\unit{\frac{km}{h}}` hatte der Läufer?
+  - Welche Durchschnittsgeschwindigkeit erreicht ein Zug, der um 9:05 Uhr in
+    Augsburg abfährt und um 12:35 Uhr im :math:`\Delta s = \unit[245]{km}` weit
+    entfernten Würzburg ankommt?
+  - Ein Auto fährt mit :math:`v= \unit[108]{\frac{km}{h}}` auf einer Autobahn. Welche
+    Wegstrecke legt es in einer Sekunde, welche in einer Minute zurück?
+  - Wie viel Sekunden braucht man, um mit einer Geschwindigkeit von :math:`v =
+    \unit[5,0]{\frac{km}{h}}` eine Strecke von :math:`\unit[800]{m}` zurückzulegen?
+  - Das Licht legt in einer Sekunde rund :math:`\unit[300\,000]{km}` zurück. Die
+    Entfernung Erde-Sonne beträgt ungefähr :math:`s = \unit[150\,000\,000]{km}`.
+    Welche Zeit benötigt das Licht von der Sonne zur Erde?
 
-  Wie verhält es sich dies bezüglich der Lage eines sitzenden Fahrgasts in
-  einem sich bewegenden Schnellzug? Ist der Fahrgast in Ruhe, oder bewegt er
-  sich?
 
-  :ref:`Lösung <Bewegung-01-Lösung>`
-
-----
-
-.. _Geschwindigkeit-01:
-
-* (*) Ein Radfahrer legt bei einer geradlinigen Bewegung mit konstanter
-  Geschwindigkeit in der Zeit :math:`t=\unit[6]{s}` eine Wegstrecke der Länge
-  :math:`s=\unit[36]{m}` zurück. Wie groß ist seine Geschwindigkeit?
-
-  :ref:`Lösung <Geschwindigkeit-01-Lösung>`
-
-----
-
-.. _Geschwindigkeit-02:
-
-* (*) Ein Läufer legt eine Strecke :math:`s = \unit[10]{km}` in einer Zeit von
-  :math:`t = \unit[30]{min}` zurück. Wie groß ist seine
-  Durchschnittsgeschwindigkeit?
-
-  :ref:`Lösung <Geschwindigkeit-02-Lösung>`
+  :ref:`Lösung <kin-01l>`
 
 ----
 
-.. _Geschwindigkeit-03:
-
-* (*) Der Weltrekord im :math:`\unit[100]{m}`-Lauf aus dem Jahr 2009 liegt bei
-  :math:`t=\unit[9,58]{s}`. Welche mittlere Geschwindigkeit in
-  :math:`\unit[]{km/h}` hatte der Läufer?
-
-  :ref:`Lösung <Geschwindigkeit-03-Lösung>`
-
-----
-
-.. _Geschwindigkeit-04:
-
-* (*) Welche Durchschnittsgeschwindigkeit erreicht ein Zug, der um 9:05 Uhr in
-  Augsburg abfährt und um 12:35 Uhr im :math:`s = \unit[245]{km}` weit
-  entfernten Würzburg ankommt?
-
-  :ref:`Lösung <Geschwindigkeit-04-Lösung>`
-
-----
-
-.. _Geschwindigkeit-05:
-
-* (*) Ein Auto fährt mit :math:`v= \unit[108]{km/h}` auf einer Autobahn. Welche
-  Wegstrecke legt es in einer Sekunde, welche in einer Minute zurück?
-
-  :ref:`Lösung <Geschwindigkeit-05-Lösung>`
-
-----
-
-.. _Geschwindigkeit-06:
-
-* (*) Das Licht legt in einer Sekunde rund :math:`\unit[300 000]{km}` zurück. Die
-  Entfernung Erde-Sonne beträgt ungefähr :math:`s = \unit[150 000 000]{km}`.
-  Welche Zeit benötigt das Licht von der Sonne zur Erde?
-
-  :ref:`Lösung <Geschwindigkeit-06-Lösung>`
-
-----
-
-.. _Geschwindigkeit-07:
-
-* (*) Wie viel Sekunden braucht man, um mit einer Geschwindigkeit von :math:`v =
-  \unit[60]{km/h}` eine Strecke von :math:`\unit[800]{m}` zurückzulegen?
-
-  :ref:`Lösung <Geschwindigkeit-07-Lösung>`
-
-----
-
-.. _Geschwindigkeit-08:
+.. _kin-02:
 
 * (*) Die Schallgeschwindigkeit in Luft beträgt ca. :math:`v = \unit[330]{m/s}`.
   Ein Wanderer steht gegenüber einer großen Felswand und ruft laut
   "Haallooo!!". Erst nach einer Zeit von :math:`t = \unit[5]{s}` hört er ein
   Echo. Wie weit ist die Felswand vom Wanderer entfernt?
 
-  :ref:`Lösung <Geschwindigkeit-08-Lösung>`
+  :ref:`Lösung <kin-02l>`
 
 ----
 
-.. _Geschwindigkeit-09:
+.. _kin-03:
+
+* (\*) Bewegung ist relativ. Konkret bedeutet das:
+
+  *"Eine Bewegung ist die Änderung der Lage eines Körpers gegenüber einem
+  anderen Körper. Wenn ein Körper seine Lage gegenüber einem anderen Körper
+  nicht ändert, dann ist er in Ruhe gegenüber diesem Körper."*
+
+  Wie verhält sich dies bezüglich der Lage eines sitzenden Fahrgasts in einem
+  sich bewegenden Schnellzug? Ist der Fahrgast in Ruhe, oder bewegt er sich?
+
+  :ref:`Lösung <kin-03l>`
+
+----
+
+.. _kin-04:
+
+* (**) Bei einem "Verfolgungsrennen" startet zunächst eine Gruppe an Läufern;
+  nach einer Zeit von :math:`\Delta t = \unit[30]{min}` startet ein Fahrzeug am
+  Ausgangspunkt und fährt den Läufern mit einer konstanten Geschwindigkeit von
+  :math:`v_{\mathrm{F}}=\unit[35]{\frac{km}{h}}` hinterher. Das Rennen ist für
+  jeden einzelnen Läufer beendet, sobald das Fahrzeug ihn eingeholt hat.
+
+  Nach welcher Wegstrecke :math:`\Delta s` beziehungsweise welcher Zeit
+  :math:`\Delta t` holt das Fahrzeug einen Läufer ein, dessen durchschnittliche
+  Geschwindigkeit :math:`v _{\mathrm{L}} = \unit[15]{\frac{km}{h}}` beträgt?
+
+  :ref:`Lösung <kin-04l>`
+
+----
+
+.. _kin-05:
 
 .. Idee nach Brenneke S.271
 
-* (**) Ein Fahrzeug startet mit einer Geschwindigkeit :math:`v_1 = \unit[30,0]{km/h}`
+* (**) Ein Fahrzeug startet mit einer Geschwindigkeit :math:`v_1 = \unit[30,0]{\frac{km}{h}}`
   von Ort :math:`\rm{A}` nach Ort :math:`\rm{B}`. Gleichzeitig startet von Ort
-  :math:`\rm{B}` ein Fahrzeug mit :math:`v_2 = \unit[50,0]{km/h}` nach Ort
+  :math:`\rm{B}` ein Fahrzeug mit :math:`v_2 = \unit[50,0]{\frac{km}{h}}` nach Ort
   :math:`\rm{A}`. Die Strecke zwischen beiden Orten kann als geradlinig
   angenommen werden, ihre Länge beträgt :math:`s = \unit[100]{km}`. An welcher
   Stelle treffen sich die beiden Fahrzeuge?
 
-  :ref:`Lösung <Geschwindigkeit-09-Lösung>`
+  :ref:`Lösung <kin-05l>`
 
 ----
+
 
 .. rubric:: Aufgaben zur geradlinigen Bewegung mit konstanter Beschleunigung
 

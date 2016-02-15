@@ -56,7 +56,7 @@ Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
   .. math::
 
       F_1 \cdot s_1 &= - F_2 \cdot s_2 \\
-      \Rightarrow \; \frac{F_1}{F_2} = - \frac{s_2}{s_1}
+      \Rightarrow \; \frac{F_1}{F_2} &= - \frac{s_2}{s_1}
 
   Die von den beiden Trägern aufzubringenden Kräfte stehen also im umgekehrten
   Verhältnis zu den jeweiligen Entfernungen der Last von den beiden Trägern. Das

@@ -18,188 +18,112 @@ Bewegungen>`.
 
 ----
 
-.. _Bewegung-01-Lösung:
+.. _kin-01l:
 
-* Je nach Betrachtungsweise sind zwei Aussagen möglich:
+* Alle Teil-Aufgaben können mittels der Formel :math:`v = \frac{\Delta s}{\Delta
+  t}` beziehungsweise :math:`\bar{v} = \frac{s _{\mathrm{ges}}}{t
+  _{\mathrm{ges}}}` berechnet werden:
 
-  1. Der Fahrgast ändert, genauso wie der Zug, seine Lage gegenüber dem
-     Bahnhofsgebäude (als feststehend angenommen). Der Fahrgast ist in
-     Bewegung.
+  - Der Läufer legt eine Wegstrecke von :math:`s_{\mathrm{ges}} = \unit[8,0]{km}` in
+    einer Zeitspanne von :math:`t_{\mathrm{ges}} = \unit[0,5]{h}` zurück. Somit
+    beträgt seine Durchschnittsgeschwindigkeit:
 
-  2. Der Fahrgast ändert nicht seine Lage gegenüber dem Abteil, in dem er
-     sitzt. Der Fahrgast ist in Ruhe gegenüber dem Abteil.
+    .. math::
 
-  Übrigens soll Einstein einmal einen Schaffner gefragt haben: *"Wann hält
-  denn Ulm an diesem Zug?"*
+        \bar{v} = \frac{s_{\mathrm{ges}}}{t_{\mathrm{ges}}} =
+        \frac{\unit[8,0]{km}}{\unit[0,5]{h}} = \unit[16]{\frac{km}{h}}
 
-  Die Wahl eines Bezugpunktes, gegenüber dem die weiteren Bewegungen
-  beschrieben werden, ist frei und ändert nichts an den physikalischen
-  Gesetzmäßigkeiten. Wir nehmen beispielsweise gerne auf der Erde 'ruhende'
-  Objekte als feste Bezugspunkte an, obwohl sich die Erde selbst mit ca.
-  :math:`\unit[30]{km/s}` um die Sonne bewegt!
+  - Der Radfahrer legt kontinuierlich :math:`\Delta s = \unit[36]{m}` in
+    :math:`\Delta t = \unit[6]{s}` zurück. Seine Geschwindigkeit beträgt damit:
 
-  :ref:`Zurück zur Aufgabe <Bewegung-01>`
+    .. math::
+
+        v = \frac{\Delta s}{\Delta t} = \frac{\unit[36]{m}}{\unit[6]{s}} =
+        \unit[6]{\frac{m}{s}} = \unit[21,6]{\frac{km}{h}}
+
+    Bei der letzten Umrechnung wurde verwendet, dass
+    :math:`\unit[1]{\frac{m}{s}} = \unit[3,6]{\frac{km}{h}}` ist.
+
+  - Der Weltrekord-Läufer legt :math:`s_{\mathrm{ges}}=\unit[100]{m}` in
+    :math:`t_{\mathrm{ges}} = \unit[9,58]{s}` zurück. Für seine
+    Durchschnittsgeschwindigkeit gilt damit:
+
+    .. math::
+
+        \bar{v = \frac{s_{\mathrm{ges}}}{t_{\mathrm{ges}}}} =
+        \frac{\unit[100]{m}}{\unit[9,58]{s}} \approx \unit[10,44]{\frac{m}{s}}
+        \approx \unit[37,58]{\frac{km}{h}}
+
+  - Der Zug legt :math:`s_{\mathrm{ges}} = \unit[245]{km}` in einer Zeit von
+    Zeit :math:`t_{\mathrm{ges}} = \unit[3,5]{h}` zurück. Somit ergibt sich:
+
+  .. math::
+
+      \bar{v} = \frac{s_{\mathrm{ges}}}{t_{\mathrm{ges}}} =
+      \frac{\unit[245]{km}}{\unit[3,5]{h}} = \unit[70]{\frac{km}{h} }
+
+  - Um die Wegstrecke zu berechnen, die das Auto in einer Sekunde zurücklegt,
+    muss man die in :math:`\unit[]{km/h}` angegebene Geschwindigkeit in
+    :math:`\unit[]{m/s}` umrechnen:
+
+    .. math::
+
+        \unit[1]{\frac{km}{h} } = \unit[\frac{1}{3,6} ]{\frac{m}{s} } \quad
+        \Rightarrow \quad v = \unit[108]{\frac{km}{h} } = \unit[\frac{108}{3,6}
+        ]{\frac{m}{s} } = \unit[30]{\frac{m}{s} }
+
+    In einer Sekunde legt das Auto somit :math:`\unit[30]{m}` zurück. Die Strecke,
+    die das Fahrzeugt in einer Minute :math:`(\unit[60]{s})` zurück legt, ist das
+    :math:`60`-fache dieser Strecke, also :math:`\unit[1\,800]{m} =
+    \unit[1,80]{km}` .
+
+  - Um die Zeit zu berechnen, die man bei einer Geschwindigkeit von
+    :math:`v=\unit[5,0]{km/h}` für eine Strecke von :math:`s= \unit[800]{m}`
+    benötigt, muss die Geschwindigkeit wiederum in :math:`\unit{\frac{m}{s}}`
+    umgerechnet werden:
+
+    .. math::
+
+        v = \unit[5,0]{\frac{km}{h}} = \unit[\frac{5,0}{3,6}]{\frac{m}{s}} =
+        \unit[1,39]{\frac{m}{s}}
+
+
+    Löst man nun die Formel :math:`v = \frac{\Delta s}{\Delta t}` nach
+    :math:`\Delta t` auf und setzt die obigen Werte ein, erhält man:
+
+    .. math::
+
+        v &= \frac{s}{t} \quad \Leftrightarrow \quad t = \frac{s}{v} \\[6pt]
+        t &= \frac{\unit[800]{m}}{\unit[1,39]{\frac{m}{s} }} \approx \unit[576]{s}
+
+    Man benötigt somit etwa :math:`576` Sekunden (das entspricht rund
+    :math:`\unit[9,6]{min}`).
+
+  - Um die benötigte Zeit zu berechnen, die das Licht von der Sonne bis zur Erde
+    benötigt, muss die Geschwindigkeitsformel :math:`v = \frac{s}{t}` wieder
+    nach der Zeit :math:`t` aufgelöst werden:
+
+    .. math::
+
+        v = \frac{s}{t} \qquad \Leftrightarrow \qquad t = \frac{s}{v}
+
+    Die Strecke, die das Licht von der Sonne bis zur Erde zurücklegt, beträgt
+    :math:`s = \unit[150\,000\,000]{km}`. Die Geschwindigkeit des Lichts liegt bei
+    :math:`\unit[300 000]{\frac{km}{s} }`. Eingesetzt ergibt sich:
+
+    .. math::
+
+        t = \frac{s}{v}  =
+        \frac{\unit[150\,000\,000]{km}}{\unit[300\,000]{\frac{km}{s} }} =
+        \unit[500]{s}= \unit[8]{min} \, \unit[20]{s}
+
+    Das Licht benötigt für seinen Weg zur Erde somit etwas mehr als :math:`8` Minuten.
+
+  :ref:`Zurück zur Aufgabe <kin-01>`
 
 ----
 
-.. _Geschwindigkeit-01-Lösung:
-
-* Die Formel für die Geschwindigkeit :math:`v` lautet :math:`v = s/t`. Die
-  zurückgelegte Strecke :math:`s` und die dafür benötigte Zeit :math:`t` sind
-  bekannt. Eingesetzt ergibt sich:
-
-  .. math::
-
-      v = \frac{s}{t} = \frac{\unit[36]{m} }{\unit[6]{s} } = \unit[6]{\frac{m}{s} }
-
-  Die Geschwindigkeit des Radfahrers beträgt somit :math:`\unit[6]{m/s}`.
-
-  :ref:`Zurück zur Aufgabe <Geschwindigkeit-01>`
-
-----
-
-.. _Geschwindigkeit-02-Lösung:
-
-* Die Formel für die Durchschnittsgeschwindigkeit :math:`\bar{v}` lautet
-  :math:`\bar{v} = s/t`. Die zurückgelegte Wegstrecke beträgt
-  :math:`s=\unit[10]{km}`, die dafür benötigte Zeit :math:`t=\unit[0,5]{h}`.
-  Eingesetzt ergibt sich:
-
-  .. math::
-
-      \bar{v} = \frac{s}{t} = \frac{\unit[10]{km}}{\unit[0,5]{h}} =
-      \unit[20]{\frac{km}{h} }
-
-  Die Durchschnittsgeschwindigkeit des Läufers beträgt somit
-  :math:`\unit[20]{km/h}`.
-
-  :ref:`Zurück zur Aufgabe <Geschwindigkeit-02>`
-
-----
-
-.. _Geschwindigkeit-03-Lösung:
-
-* Um die Durchschnittsgeschwindigkeit :math:`\bar{v} = s/t` in
-  :math:`\unit[]{km/h}` angeben zu können, müssen die gegebenen Werte für Weg
-  und Zeit in Kilometer bzw. Stunden umgerechnet werden. Die zurückgelegte
-  Wegstrecke beträgt :math:`s=\unit[100]{m} = \unit[0,1]{km}`, die dafür
-  benötigte Zeit :math:`t=\unit[9,58]{s} = \unit[\frac{9,58}{60 \cdot 60}
-  ]{h}`. Daraus folgt:
-
-  .. math::
-
-      \bar{v} = \frac{s}{t} = \frac{\unit[0,1]{km}}{\unit[\frac{9,58}{60 \cdot
-      60}]{h}} = \unit[\frac{0,1}{0,002661} ]{\frac{km}{h} } \approx
-      \unit[37,58]{\frac{km}{h} }
-
-  Der Läufer hatte somit eine Durchschnittsgeschwindigkeit von rund
-  :math:`\unit[37,6]{km/h}`.
-
-  :ref:`Zurück zur Aufgabe <Geschwindigkeit-03>`
-
-----
-
-.. _Geschwindigkeit-04-Lösung:
-
-* Für die Durchschnittsgeschwindigkeit gilt: :math:`\bar{v}` lautet
-  :math:`\bar{v} = s/t`. Die zurückgelegte Wegstrecke beträgt :math:`s
-  = \unit[245]{km}`, die dafür benötigte Zeit :math:`t = \unit[3,5]{h}`.
-  Somit ergibt sich:
-
-  .. math::
-
-      \bar{v} = \frac{s}{t} = \frac{\unit[245]{km}}{\unit[3,5]{h}} =
-      \unit[70]{\frac{km}{h} }
-
-  Die Durchschnittsgeschwindigkeit des Zuges beträgt somit
-  :math:`\unit[70]{km/h}`.
-
-  :ref:`Zurück zur Aufgabe <Geschwindigkeit-04>`
-
-----
-
-.. _Geschwindigkeit-05-Lösung:
-
-* Um die Wegstrecke zu berechnen, die das Auto in einer Sekunde zurücklegt,
-  muss man die in :math:`\unit[]{km/h}` angegebene Geschwindigkeit in
-  :math:`\unit[]{m/s}` umrechnen:
-
-  .. math::
-
-      \unit[1]{\frac{km}{h} } = \unit[\frac{1}{3,6} ]{\frac{m}{s} }
-
-  .. math::
-
-      v = \unit[108]{\frac{km}{h} } = \unit[\frac{108}{3,6} ]{\frac{m}{s} } =
-      \unit[30]{\frac{m}{s} }
-
-  Die Geschwindigkeit :math:`v = \unit[108]{km/h}` des Fahrzeugs entspricht
-  somit einer Geschwindigkeit von :math:`v= \unit[30]{m/s}`; in einer Sekunde
-  legt das Auto somit :math:`\unit[30]{m}` zurück. Die Strecke, die das
-  Fahrzeugt in einer Minute :math:`(\unit[60]{s})` zurück legt, ist genau das
-  :math:`60`-fache dieser Strecke, d.h. :math:`\unit[1\,800]{m} =
-  \unit[1,80]{km}` .
-
-  :ref:`Zurück zur Aufgabe <Geschwindigkeit-05>`
-
-----
-
-.. _Geschwindigkeit-06-Lösung:
-
-* Um die benötigte Zeit zu berechnen, die das Licht von der Sonne bis zur Erde
-  benötigt, muss die Geschwindigkeitsformel :math:`v = \frac{s}{t}` nach der
-  Zeit :math:`t` aufgelöst werden:
-
-  .. math::
-
-      v = \frac{s}{t} \qquad \Leftrightarrow \qquad t = \frac{s}{v}
-
-  Die Strecke, die das Licht von der Sonne bis zur Erde zurücklegt, beträgt
-  :math:`s = \unit[150\,000\,000]{km}`. Die Geschwindigkeit des Lichts liegt bei
-  :math:`\unit[300 000]{\frac{km}{s} }`. Eingesetzt ergibt sich:
-
-  .. math::
-
-      t = \frac{s}{v}  =
-      \frac{\unit[150\,000\,000]{km}}{\unit[300\,000]{\frac{km}{s} }} =
-      \unit[500]{s}= \unit[8]{min} \, \unit[20]{s}
-
-  .. \unit[500]{s}= \unit[8 \nicefrac{1}{3}]{min}
-
-  Das Licht benötigt für seinen Weg zur Erde somit etwas mehr als :math:`8` Minuten.
-
-  :ref:`Zurück zur Aufgabe <Geschwindigkeit-06>`
-
-----
-
-.. _Geschwindigkeit-07-Lösung:
-
-* Um die Anzahl an Sekunden zu berechnen, die man für eine Strecke von
-  :math:`s= \unit[800]{m}` braucht, wenn die Geschwindigkeit
-  :math:`v=\unit[60]{km/h} = \unit[16,67]{m/s}` beträgt, muss man die in
-  :math:`\unit[]{km/h}` angegebene Geschwindigkeit in :math:`\unit[]{m/s}`
-  umrechnen :math:`(\unit[1]{m/s} = \unit[3,6]{km/h})` und in die nach
-  :math:`t` aufgelöste Geschwindigkeitsformel :math:`v = \frac{s}{t}`
-  einsetzen:
-
-  .. math::
-
-      v = \unit[60]{\frac{km}{h} } = \unit[\frac{60}{3,6} ]{\frac{m}{s} }
-      \approx \unit[16,67]{\frac{m}{s} }
-
-  .. math::
-
-      v &= \frac{s}{t} \quad \Leftrightarrow \quad t = \frac{s}{v} \\[6pt]
-      t &= \frac{\unit[800]{m}}{\unit[16,67]{\frac{m}{s} }} \approx \unit[48]{s}
-
-
-  Man benötigt somit etwa :math:`48` Sekunden.
-
-  :ref:`Zurück zur Aufgabe <Geschwindigkeit-07>`
-
-----
-
-.. _Geschwindigkeit-08-Lösung:
+.. _kin-02l:
 
 * Um den vom Schall zurückgelegten Weg zu berechnen, muss die
   Geschwindigkeitsformel :math:`v = \frac{s}{t}` nach der Wegstrecke :math:`s`
@@ -221,11 +145,115 @@ Bewegungen>`.
   beträgt :math:`\unit[1650]{m}`. Die Entfernung der Felswand vom Wanderer ist
   gleich der Hälfte dieser Strecke, also rund :math:`\unit[0,8]{km}`.
 
-  :ref:`Zurück zur Aufgabe <Geschwindigkeit-08>`
+  :ref:`Zurück zur Aufgabe <kin-02>`
 
 ----
 
-.. _Geschwindigkeit-09-Lösung:
+.. _kin-03l:
+
+* Je nach Betrachtungsweise sind zwei Aussagen möglich:
+
+  1. Der Fahrgast ändert, genauso wie der Zug, seine Lage gegenüber dem
+     Bahnhofsgebäude (als feststehend angenommen). Der Fahrgast ist in
+     Bewegung.
+
+  2. Der Fahrgast ändert nicht seine Lage gegenüber dem Abteil, in dem er
+     sitzt. Der Fahrgast ist in Ruhe gegenüber dem Abteil.
+
+  Übrigens soll Einstein einmal einen Schaffner gefragt haben: *"Wann hält
+  denn Ulm an diesem Zug?"*
+
+  Die Wahl eines Bezugpunktes, gegenüber dem die weiteren Bewegungen
+  beschrieben werden, ist frei und ändert nichts an den physikalischen
+  Gesetzmäßigkeiten. Wir nehmen beispielsweise gerne auf der Erde 'ruhende'
+  Objekte als feste Bezugspunkte an, obwohl sich die Erde selbst mit ca.
+  :math:`\unit[30]{km/s}` um die Sonne bewegt!
+
+  :ref:`Zurück zur Aufgabe <kin-03>`
+
+----
+
+.. _kin-04l:
+
+* Wenn das Fahrzeug einen Läufer einholt, so ist die gleichbedeutend damit, dass
+  zu diesem Zeitpunkt beide die gleiche Wegstrecken zurückgelegt haben, also
+  :math:`\Delta s_{\mathrm{F}} = \Delta s _{\mathrm{L}}` ist.
+
+  Bis das Fahrzeug nach :math:`\Delta t = \unit[30]{min} = \unit[0,5]{h}`
+  startet, hat sich der Läufer mit :math:`v _{\mathrm{L}} =
+  \unit[15]{\frac{km}{h}}` einen "Vorsprung" von :math:`\unit[15]{\frac{km}{h}}
+  \cdot \unit[0,5]{h} = \unit[7,5]{km}` erkämpft. Für den Treffpunkt muss damit
+  gelten:
+
+  .. math::
+
+      \Delta s_{\mathrm{F}} &= \Delta s _{\mathrm{L}} \\
+      v_{\mathrm{F}} \cdot \Delta t &= v_{\mathrm{L}} \cdot \Delta t +
+      \unit[7,5]{km} \\
+
+  Hierbei bezeichnet :math:`\Delta t` die Zeit, die ab dem Start des Fahrzeugs
+  vergeht. Die Gleichung enthält nur :math:`\Delta t` als unbekannte Größe und
+  kann somit unmittelbar aufgelöst werden:
+
+  .. math::
+
+      v_{\mathrm{F}} \cdot \Delta t - V _{\mathrm{L}} \cdot \Delta t &= \unit[7,5]{km} \\
+      (v_{\mathrm{F}} - v _{\mathrm{L}}) \cdot \Delta t &= \unit[7,5]{km} \\
+
+  .. math::
+
+      \Delta t &= \frac{\unit[7,5]{km}}{v_{\mathrm{F}} - v _{\mathrm{L}}} = 
+      \frac{\unit[7,5]{km}}{\unit[(35-15)]{\frac{km}{h}}} = \unit[0,375]{h}\\
+
+  Das Fahrzeug ist bis zum Treffpunkt :math:`\Delta t = \unit[0,375]{h}`
+  unterwegs, bis es den Läufer einholt. In dieser Zeit legt es folgende Wegstrecke
+  zurück:
+
+  .. math::
+
+      \Delta s = v _{\mathrm{F}} \cdot \Delta t = \unit[35]{\frac{km}{h}} \cdot
+      \unit[0,375]{h} = \unit[13,125]{km}
+
+  In dieser Entfernung vom Startpunkt treffen sich der Läufer und das Fahrzeug
+  also; der Läufer war insgesamt :math:`\unit[(0,5 + 0,375)]{h} =
+  \unit[0,875]{h}` unterwegs.
+
+  Alternativ kann die Aufgabe auch mittels einer anders formulierten Bedingung
+  für den Treffpunkt gelöst werden. Da das Fahrzeug immer eine konstante
+  Geschwindigkeit hat und erst nach einer halben Stunde startet, könnte es
+  ebenso zeitgleich starten, aber von einer Stelle aus, die sich
+  :math:`\unit[35]{\frac{km}{h}} \cdot \unit[0,5]{h} = \unit[17,5]{km}` *vor*
+  dem Startpunkt befindet. Die Gleichung für den Treffpunkt kann also
+  gleichwertig folgendermaßen formuliert werden:
+
+  .. math::
+
+      s_{\mathrm{F}} &= s _{\mathrm{L}} \\
+      v _{\mathrm{F}} \cdot t - \unit[17,5]{km} &= v _{\mathrm{L}} \cdot t \\
+
+  Hierbei bezeichnet :math:`t` die insgesamt verstrichene Zeit, da beide
+  Fahrzeuge zum gleichen Zeitpunkt starten. Die Gleichung kann wiederum nach
+  :math:`t` aufgelöst werden, man erhält dabei :math:`t=\unit[0,875]{h}`.
+
+  Eine dritte Lösungsmöglichkeit liegt darin, bei der Formulierung der
+  Gleichung für den Treffpunkt die unterschiedlichen Startzeiten zu
+  berücksichtigen. Eine so aufgestellte Gleichung lautet;
+
+  .. math::
+
+      v_{\mathrm{F}} \cdot (t - \unit[0,5]{h}) &= v_{\mathrm{L}} \cdot t
+      \\
+
+  Bei dieser Formulierung wird berücksichtigt, dass das Fahrzeug insgesamt um
+  :math:`\Delta t = \unit[30]{min} = \unit[0,5]{h}` weniger lang unterwegs ist. 
+  Löst man die Gleichung nach :math:`t` auf, erhält man wiederum :math:`t=
+  \unit[0,875]{h}` als Ergebnis.
+  
+  :ref:`Zurück zur Aufgabe <kin-04>`
+
+----
+
+.. _kin-05l:
 
 * Der Treffpunkt :math:`s _{\rm{T}}` beider Fahrzeuge lässt sich bestimmen,
   indem man die jeweiligen Ortsfunktionen aufstellt gleichsetzt. Wählt man ein
@@ -278,16 +306,11 @@ Bewegungen>`.
   Beide Fahrzeuge treffen sich somit :math:`s=\unit[37,5]{km}` vom Ort
   :math:`\rm{A}` entfernt.
 
-  :ref:`Zurück zur Aufgabe <Geschwindigkeit-09>`
+  :ref:`Zurück zur Aufgabe <kin-05>`
 
 ----
 
-..
-    Aufgabe: Diagramm einer Bewegung mit konst. Geschwindigkeit, v ablesen. +
-    Erklärung (lineares Verhältnis -> kirekt proportional) in Lösung.
 
-..
-    Aufgabe: v-t-Diagramm; Ablesen der Geschwindigkeit?
 
 .. rubric:: Lösungen zu geradlinigen Bewegungen mit konstanter Beschleunigung
 

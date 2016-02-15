@@ -34,7 +34,8 @@ Physik
     waermelehre/index.rst
     elektrizitaet-und-magnetismus/index.rst
     atomphysik/index.rst
-    versuche-aufgaben-loesungen.rst
+    experimente.rst
+    aufgaben-und-loesungen.rst
     tabellen.rst
     links-und-quellen.rst
 

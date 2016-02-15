@@ -163,13 +163,42 @@ zugehörige fehlende Größe berechnen:
   :math:`\unit[380]{nm}` und :math:`\unit[780]{nm}`; dies entspricht Frequenzen
   von etwa :math:`\unit[789]{THz}` bis :math:`\unit[384]{THz}`.
 
-.. Ausbreitungsgeschwindigkeit von Wellen
+Die Ausbreitungsgeschwindigkeit :math:`v` von Wellen hängt Materialeigenschaften
+des Wellenträgers ab. Beispielsweise gelten folgende Zusammenhänge:
 
-In manchen Materialien ist die Ausbreitungsgeschwindigkeit :math:`v` abhängig
-von der Frequenz :math:`f` der Wellen. In diesem Fall laufen die einzelnen
-Wellen auseinander, man spricht von Dispersion. Dieser Effekt wird
-beispielsweise in der :ref:`Optik <Lichtdispersion>` zur Aufspaltung von
-weißem Licht in Spektralfarben mittels eines Prismas genutzt.
+* Bei Longitudinalvellen in Flüssigkeiten gilt :math:`v = \sqrt{\frac{K}{\rho}}`,
+  wobei :math:`K` für den Kompressionsmodul der Flüssigkeit und :math:`\rho` für
+  ihre Dichte steht.
+
+* Bei Longitudinalvellen in Gasen gilt :math:`v = \sqrt{\frac{\kappa \cdot
+  \pi}{\rho}}`, wobei :math:`\kappa` für den Adiabatenexponenten, :math:`p` für den
+  Druck im Gas und :math:`\rho` für dessen Dichte steht.
+
+* Bei Longitudinalvellen in festen Stäben gilt :math:`v =
+  \sqrt{\frac{E}{\rho}}`, wobei :math:`E` für den Elastizitätsmodul des
+  Festkörpers und :math:`\rho` für dessen Dichte steht.
+
+* Bei Transversalwellen in festen Stäben gilt :math:`v = \sqrt{\frac{G}{\rho}}`,
+  wobei :math:`G` für den Schubmodul des Festkörpers und :math:`\rho` für dessen
+  Dichte steht.
+
+* Bei Transversalwellen in dünnen Drähten gilt :math:`v = \sqrt{\frac{F}{\rho \cdot
+  A}}`, wobei :math:`F` für die Spannkraft im Draht, :math:`\rho` für dessen
+  Dichte  und :math:`A` für dessen Querschnittsfläche steht.
+
+Aus den obigen Formeln folgt beispielsweise, dass die Schallgeschwindigkeit in
+Luft mit zunehmender Temperatur ebenfalls zunimmt, da die Dichte von Gasen bei
+gleichem Druck und steigender Temperatur abnimmt. Bei Musikinstrumenten hingegen
+ist vor allem die Spannkraft und die Querschnittsfläche der Seiten von
+Bedeutung: Tief klingende Saiten sind oftmals dicker, aus Materialien mit einer
+höheren Dichte gefertigt und/oder weniger stark gespannt.
+
+In manchen Materialien ist die Ausbreitungsgeschwindigkeit :math:`v` zudem
+abhängig von der Frequenz :math:`f` der Wellen. In diesem Fall laufen die
+einzelnen Wellen auseinander, man spricht von Dispersion. Dieser Effekt wird
+beispielsweise in der :ref:`Optik <Lichtdispersion>` zur Aufspaltung von weißem
+Licht in Spektralfarben mittels eines Prismas genutzt.
+
 
 
 .. index:: Superpositionsprinzip
@@ -247,11 +276,17 @@ Amplitude schwankt.
         <../../pics/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.svg>`
 
 Je geringer der Frequenzunterschied der Teilwellen ist, desto länger wird die
-Dauer der Schwebung. Dieser Effekt wird beispielsweise genutzt, um Klaviere oder
-Gitarren zu stimmen: Verklingt die Schwebung nicht schneller als die
-angeschlagenen Töne des Instruments, die in Übereinstimmung gebracht werden
-sollen, so ist das Instrument gut gestimmt.
+Dauer der Schwebung. Für die Frequenz der Schwebung gilt:
 
+.. math::
+    :label: eqn-frequenz-schwebung
+
+    f _{\mathrm{s}} = \Delta f = |f_2 - f_1|
+
+Schwebungen werden beispielsweise genutzt, um Klaviere oder Gitarren zu stimmen:
+Verklingt die Schwebung nicht schneller als die angeschlagenen Töne des
+Instruments, die in Übereinstimmung gebracht werden sollen, so ist das
+Instrument gut gestimmt.
 
 .. _Interferenz-Effekte:
 
@@ -267,10 +302,18 @@ Wellenamplituden statt:
   Wellen "konstruktiv", das heißt die resultierende Amplitude ist größer als
   die Amplituden der einzelnen Wellen.
 
+.. todo Pic simple destruktive bzw. konstruktive Interferrenz (Herr 243
+
 * Haben die einzelnen Wellen hingegen unterschiedliche Auslenkungsrichtungen, so
   überlagern sich die Wellen "destruktiv"; die resultierende Amplitude ist
   hierbei geringer als die Beträge der einzelnen Amplituden. Auch eine völlige
   Auslöschung zweier Teilwellen ist in diesem Fall möglich.
+
+An jeder Stelle der Welle sind somit die Auslenkungszustände der Teilwellen
+unter Berücksichtigung des Vorzeichens zu addieren. Vereinfacht gesagt: Trifft
+ein "Wellenberg" auf einen anderen "Wellenberg", so ergibt sich ein höherer
+Wellenberg, trifft ein "Wellenberg" auf ein "Wellental", so löschen sich die
+Amplituden an dieser Stelle zumindest teilweise aus.
 
 .. only:: html
 
@@ -297,12 +340,6 @@ Wellenamplituden statt:
         Interferenz zweier Wellen mit gleich großer Amplitude und entgegengesetzt
         gleich großer Ausbreitungsgeschwindigkeit :math:`v`.
 
-An jeder Stelle der Welle sind somit die Auslenkungszustände der Teilwellen
-unter Berücksichtigung des Vorzeichens zu addieren. Vereinfacht gesagt: Trifft
-ein "Wellenberg" auf einen anderen "Wellenberg", so ergibt sich ein höherer
-Wellenberg, trifft ein "Wellenberg" auf ein "Wellental", so löschen sich die
-Amplituden an dieser Stelle zumindest teilweise aus.
-
 Handelt es sich bei den aufeinander treffenden Wellen nicht nur um einen
 einzelnen Auslenkungszustand (Wellenberg bzw. Wellental, manchmal allgemein auch
 "Wellenpaket" genannt), sondern um einen kontinuierlichen, nicht abbrechenden
@@ -319,6 +356,21 @@ zueinander haben. Die Wellen müssen also von gleich schnell schwingenden
 Erregern ausgehen, die sich relativ zueinander in Ruhe befinden, sich also nicht
 voneinander entfernen oder aufeinander zubewegen. Erfüllen zwei oder mehrere
 Wellenzüge diese beiden Bedingungen, so bezeichnet man sie als kohärent.
+
+.. figure:: ../../pics/mechanik/schwingungen-und-wellen/interferenz-kreiswellen.png
+    :name: fig-interferenz-kreiswellen
+    :alt:  fig-interferenz-kreiswellen
+    :align: center
+    :width: 100%
+
+    Interferenz zweier kreisförmiger Wellen.
+
+    .. only:: html
+
+        | :download:`SVG: Interferenz-Kreiswellen 
+          <../../pics/mechanik/schwingungen-und-wellen/interferenz-kreiswellen.svg>`
+        | :download:`PDF: Interferenz-Kreiswellen (Kopiervorlage für Overhead-Folie)
+          <../../pics/mechanik/schwingungen-und-wellen/interferenz-kreiswellen.pdf>`
 
 Werden beispielsweise, wie in der obigen Abbildung dargestellt, Wasserwellen
 durch zwei im gleichen Rhythmus eintauchende Stangen erzeugt, so kommen beide
@@ -362,6 +414,10 @@ einer halben Wellenlänge bezeichnet, also :math:`\frac{1}{2},\, \frac{3}{2},\,
 \frac{5}{2},\, \ldots`.
 
 .. TODO Link zu Interferenz in der Optik
+
+.. Zusammenhang zwischen Wellengeschwindigkeit und weiteren physikalischen
+.. Größen.
+
 
 .. index:: Stehende Welle, Oberschwingung
 
@@ -442,8 +498,197 @@ allerdings wegen :math:`v = \lambda \cdot f` beziehungsweise :math:`f =
 auf dem Wellenträger ab.
 
 
-.. Zusammenhang zwischen Wellengeschwindigkeit und weiteren physikalischen
-.. Größen.
+Mathematische Beschreibung von Wellen
+=====================================
+
+Im folgenden werden Wellen betrachtet, die räumlich ein sinus-förmiges
+Ausbreitungsmuster haben. Beginnt die Welle am Koordinatenursprung :math:`x_0=0`
+mit der Auslenkung :math:`y(x_0)=0`, so ergibt sich ein Wellenausbreitung, wie
+sie in der folgenden Abbildung dargestellt ist.
+
+.. figure:: ../../pics/mechanik/schwingungen-und-wellen/ausbreitung-von-wellen-1.png
+    :name: fig-ausbreitung-einer-welle-1
+    :alt:  fig-ausbreitung-einer-welle-1
+    :align: center
+    :width: 60%
+
+    Raümliche Ausbreitung einer Welle zur Zeit :math:`t_0`.
+
+    .. only:: html
+
+        | :download:`SVG: Ausbreitung einer Welle 1
+          <../../pics/mechanik/schwingungen-und-wellen/ausbreitung-von-wellen-1.png>`
+
+In einer Entfernung von einem ganzzahligen Vielfachen der Wellenlänge
+:math:`\lambda` wiederholt sich jeweils das Wellenmuster. Die Welle hat aus
+räumlicher Sicht also eine Periode der Länge :math:`\lambda`; zugleich hat jede
+Sinusfunktion eine Periode von :math:`2 \cdot \pi`. Die Welle kann somit
+durch folgende Formel charakterisiert werden:
+
+.. math::
+    :label: eqn-auslenkung-welle
+
+    y(x) = y_{\mathrm{max}} \cdot \sin{\left(2 \cdot \pi \cdot \frac{x}{\lambda}\right)}
+
+Hierbei bezeichnet :math:`y_{\mathrm{max}}` die Amplitude der Welle. Ist
+:math:`x` ein ganzzahliges Vielfaches von :math:`\lambda`, so wird das Argument
+der Sinus-Funktion entsprechend zu einem ganzzahligen Vielfachen von :math:`2
+\cdot \pi`. Beginnt die Welle bei :math:`x=0` mit dem Wert :math:`y=0`, so
+genügt bereits die obige Gleichung zur Beschreibung der Welle, ansonsten muss
+im Argument der Sinusfunktion noch ein anfänglicher Phasenwinkel
+:math:`\varphi_0` dazu addiert werden.
+
+Wellenmuster bleiben -- abgesehen von stehenden Wellen -- allerdings nicht an
+Ort und Stelle, sondern bewegen sich im Laufe der Zeit weiter. Bewegt sich die
+Welle beispielsweise in positiver :math:`x`-Richtung, so wandert das
+Wellenmuster in der Zeit :math:`\Delta t` um die Länge :math:`\Delta x` weiter.
+
+.. figure:: ../../pics/mechanik/schwingungen-und-wellen/ausbreitung-von-wellen-2.png
+    :name: fig-ausbreitung-einer-welle-2
+    :alt:  fig-ausbreitung-einer-welle-2
+    :align: center
+    :width: 60%
+
+    Raümliche Ausbreitung einer Welle zur Zeit :math:`t_1`.
+
+    .. only:: html
+
+        | :download:`SVG: Ausbreitung einer Welle 2
+          <../../pics/mechanik/schwingungen-und-wellen/ausbreitung-von-wellen-2.png>`
+
+Für die "Verschiebung" der Welle um :math:`\Delta x` gilt:
+
+.. math::
+
+    \Delta x = v _{\mathrm{welle}} \cdot \Delta t
+
+Diese Beziehung ist nützlich, um den Auslenkungszustand einer sinus-förmigen
+Welle an jedem beliebigen Ort *und* zu jeder beliebigen Zeit zu bestimmen: Zum
+Zeitpunkt :math:`t_1` hat die Welle an der Stelle :math:`x_1` nämlich genau die
+gleiche Auslenkung, die sie zum Zeitpunkt :math:`t_0=0` an der Stelle :math:`x_0
+= (x_1 - \Delta x)` hatte. Es gilt somit:
+
+.. math::
+
+    y(x,t) &= y_{\mathrm{max}} \cdot \sin{\left(2 \cdot \pi \cdot \frac{x -
+    \Delta x}{\lambda}\right)} \\[6pt]
+    &= y_{\mathrm{max}} \cdot \sin{\left(\frac{2 \cdot \pi}{\lambda} \cdot
+    (x-\Delta x)\right)} \\[6pt]
+    &= y_{\mathrm{max}} \cdot \sin{\left(\frac{2 \cdot \pi}{\lambda} \cdot (x-
+    v_{\mathrm{welle}} \cdot t)\right)}
+
+Hierbei wurde vereinfacht :math:`t` für die Differenz :math:`\Delta t` zwischen
+dem Zeitpunkt :math:`t` und dem Startpunkt :math:`t_0=0`  geschrieben. Die
+Gleichung kann weiter umgeformt werden, wenn man für :math:`v _{\mathrm{welle}}`
+die Wellenbeziehung :math:`v_{\mathrm{welle}} = \lambda \cdot f` einsetzt:
+
+.. math::
+
+    y(x,t) &= y_{\mathrm{max}} \cdot \sin{\left(\frac{2 \cdot \pi}{\lambda}
+    \cdot (x- \lambda \cdot f \cdot t)\right)} \\[6pt] 
+    &= y_{\mathrm{max}} \cdot \sin{\left(2 \cdot \pi \cdot
+    \left(\frac{x}{\lambda}- \cdot f \cdot t\right)\right)}
+
+Im zweiten Rechenschritt wurde der Faktor :math:`\frac{1}{\lambda}` in die
+innere Klammer hinein multipliziert. Schreibt man in dieser Form für die
+Frequenz :math:`f = \frac{1}{T}`, so wird die raümliche sowie zeitliche Periode
+der Welle deutlich:
+
+.. math::
+
+    y(x,t) &= y_{\mathrm{max}} \cdot \sin{\left(2 \cdot \pi \cdot
+    \left(\frac{x}{\lambda}- \frac{t}{T}\right)\right)}
+
+Die Welle fängt immer wieder dan von Neuem an, wenn :math:`x` ein Vielfaches der
+Wellenlänge :math:`\lambda` ist (räumliche Periode), oder wenn :math:`t` ein
+Vielfaches der Schwingungsdauer :math:`T` ist (zeitliche Periode).
+
+Für praktische Rechnungen ist es noch "handlicher", auch den Faktor :math:`2
+\cdot \pi` im Argument der Sinus-Funktion in die Klammer hinein zu
+multiplizieren. Man erhält hierbei:
+
+.. math::
+
+    y(x,t) &= y_{\mathrm{max}} \cdot \sin{\left(\frac{2 \cdot \pi}{\lambda}
+    \cdot x - \frac{2 \cdot \pi}{T} \cdot t\right)}
+
+In dieser Darstellung entspricht der Term :math:`\frac{2 \cdot \pi}{T}` gerade
+der Kreisfrequenz :math:`\omega` der Welle; diese gibt an, mit welcher
+Geschwindigkeit die Welle in der :ref:`Zeigerdarstellung <Zeigerdarstellung>`
+oszilliert.  Entsprechend bezeichnet man den Term :math:`\frac{2 \cdot
+\pi}{\lambda}` als so genannte "Kreiswellenzahl" :math:`k`. Damit ergibt sich
+für den Auslenkungszustand einer Welle folgende "einfache" Form der Gleichung:
+
+.. math::
+    :label: eqn-auslenkung-welle-zeitlich
+
+    y(x,t) &= y_{\mathrm{max}} \cdot \sin{\left(k \cdot x - \omega \cdot t\right)}
+
+Die Kreiswellenzahl :math:`k` gibt an, wie viele Wellen in eine bestimmte
+Längeneinheit (beispielsweise :math:`\unit{cm}` oder :math:`\unit{m}`) hinein
+passen. Je kürzer also die Wellenlänge :math:`\lambda` einer Welle ist, desto
+größer ist also ihr :math:`k`-Wert. Für Mikrowellen ist beispielsweise :math:`k`
+in der Größenordnung von etwa :math:`10` je :math:`\unit{cm}`, bei Lichtwellen in der
+Größenordnung von über :math:`10\,000` je :math:`\unit{cm}`.
+
+.. Reflexion von Wellen
+
+.. ändert sich der Auslenkungszustand an jedem einzelnen Ort ebenfalls
+.. sinus-förmig. Eine Welle kann somit mittels einer Sinus-Funktion beschrieben
+.. werden, die sowohl vom Ort :math:`s` als auch von der Zeit :math:`t` abhängt.
+
+.. Die Sinus-Funktion hat eine Periode von :math:`2 \cdot \pi`, es ist also
+.. beispielsweise :math:`\sin{(\varphi)} = \sin{(\varphi + 2 \cdot \pi)}`. Drückt
+.. man den Phasenwinkel :math:`\varphi` mittels :math:`\varphi = \omega \cdot t`
+.. aus und nutzt die Beziehung :math:`\omega = \frac{2 \cdot \pi}{T}`, so ergibt
+.. sich für die zeitliche Abhängigkeit des Schwingungszustands:
+
+.. .. math::
+
+..     y _{\mathrm{max}} \cdot \sin{(\varphi_0)} = y _{\mathrm{max}} \cdot \sin{(\varphi_0 + 2 \cdot \pi \cdot \frac{t}{T})}
+
+.. Nach einer ganzen Schwingungsdauer :math:`(t=T_0)` beginnt die Schwingung wieder
+.. von vorne. Nach dem gleichen Prinzip kann die räumliche Periodizität beschrieben
+.. werden:
+
+.. .. math::
+
+..     y _{\mathrm{max}} \cdot \sin{(\varphi_0)} = y _{\mathrm{max}} \cdot \sin{(\varphi_0 + \frac{2 \cdot \pi \cdot s}{\lambda})}
+
+.. Für :math:`s=\lambda`, also nach einer ganzen Wellenlänge, zeigt die Welle
+.. erneut den gleichen Auslenkungszustand.
+
+.. Kombiniert man die beiden obigen Gleichungen, so erhält man folgende Beziehung
+.. für den Auslenkungszustand :math:`y` einer Welle an der Stelle :math:`s` und zum
+.. Zeitpunkt :math:`t`:
+
+.. .. math::
+..     :label: eqn-auslenkungszustand-einer-welle
+
+..     y(s,t) = y_{\mathrm{max}} \cdot \sin{\left(\varphi_0 + 2 \cdot \pi \cdot \left(
+..     \frac{t}{T} + \frac{s}{\lambda} \right)\right)}
+
+.. Die Geschwindigkeit eines Teilchens an der Stelle :math:`s` und zum
+.. Zeitpunkt :math:`t` entspricht der zeitlichen Ableitung der Ortsfunktion. Somit
+.. gilt:
+
+.. .. math::
+..     :label: eqn-geschwindigkeit-eines-teilchens-auf-welle
+
+..     v(s,t) = \dot{y}(s,t) = \frac{2 \cdot \pi}{T} \cdot y_{\mathrm{max}} \cdot
+..     \cos{\left(\varphi_0 + 2 \cdot \pi \cdot \left( \frac{t}{T} +
+..     \frac{s}{\lambda} \right)\right)}
+
+.. Die maximale Geschwindigkeit, die ein Teilchen aufgrund der sich ausbreitenden
+.. Schwingung erreichen kann, beträgt somit :math:`v _{\mathrm{max}} = \frac{2
+.. \cdot \pi}{T} \cdot y_{\mathrm{max}}`.
+
+.. ... to be continued ... :-)
+
+.. Mittels dieser Gleichung ist beispielsweise das Interferenz-Prinzip anschaulich erklärbar:
+.. Beträgt der Gangunterschied zweier sich überlagernder Wellen mit gleicher
+.. Kreisfrequenz :math:`\omega` genau :math:`s = \lambda`
+
 
 .. Instrumenten-Saiten: Unterschiedliche Verteilung der Masse
 

@@ -327,8 +327,9 @@ Gleichung:
 .. math::
 
     J _{\mathrm{S}} &= \frac{m \cdot g \cdot l}{\omega^2} - m \cdot l^2 \\ 
-    &= m \cdot (\frac{g \cdot l}{\frac{4 \cdot \pi^2}{T^2}} - l^2)\\
-    &= m \cdot l^2 \cdot (\frac{g \cdot T^2}{4 \cdot \pi^2 \cdot l} - 1)
+    &= m \cdot \left(\frac{g \cdot l}{\frac{4 \cdot \pi^2}{T^2}} - l^2\right)\\
+    &= m \cdot l^2 \cdot \left(\frac{g \cdot T^2}{4 \cdot \pi^2 \cdot l} -
+    1\right)
 
 Diese Gleichung kann beispielsweise zur :ref:`experimentellen Bestimmung des
 Trägheitsmoments <Experimentelle Bestimmung des Trägheitsmoments>` eines
@@ -498,6 +499,8 @@ ein, so erhält man wegen :math:`T_0 = \frac{2 \cdot \pi}{\omega}` nach
 durchlaufen, bis das Pendel schließlich nach :math:`\frac{4}{4}\!\cdot \! T_0`
 wieder am Ausgangspunkt ankommt.
 
+.. _Zeigerdarstellung:
+
 .. figure:: ../../pics/mechanik/schwingungen-und-wellen/schwingung-zeigerdarstellung.png
     :name: fig-schwingung-zeigerdarstellung
     :alt:  fig-schwingung-zeigerdarstellung
@@ -511,7 +514,6 @@ wieder am Ausgangspunkt ankommt.
         :download:`SVG: Schwingung (Zeigerdarstellung)
         <../../pics/mechanik/schwingungen-und-wellen/schwingung-zeigerdarstellung.svg>`
 
-
 In der obigen Abbildung ist der zeitliche Verlauf der Phasenwinkel für ein
 horizontal schwingenden Pendels als so genanntes "Zeigerdiagramm" dargestellt.
 Diese Darstellung ist insbesondere praktisch, um mehrere Schwingungen
@@ -522,8 +524,27 @@ am Winkel des jeweiligen Zeigers zu erkennen.
 
 .. TODO Phasenverschiebung zwischen Auslenkungs- und Geschwindigkeits-Vektor
 
-.. Mathematische Beschreibung harmonischer Schwingungen
+.. Mathematische Beschreibung gedämpfter Schwingungen
 .. ====================================================
+
+.. Kenngrößen: (Herr 238)
+
+.. Dämpfungsproportionale :math:`b` in :math:`\unit{\frac{kg}{s}}`:
+.. Entspricht Reibungskraft je Geschwindigkeit: :math:`b = \frac{F _{\mathrm{R}}}{v}`
+
+.. Abklingkoeffizient :math:`\delta` in :math:`\unit{\frac{1}{s}}`:
+.. :math:`\delta = \frac{b}{2 \cdot m}`
+.. Beschreibt Verringerung der Amplitude und Abnahme der Kreisfrequenz
+.. :math:`\omega _{\mathrm{D}} = \sqrt{\omega_^2 - \delta^2}`
+
+.. Dämpfungsgrad :math:`\vartheta` (ohne Einheit): 
+.. Verhältnis aus Abklingkoeffizient und ungedämpfter Kreisfrequenz:
+.. :math:`\vartheta = \frac{\delta}{\omega_0}`
+
+.. Dämpfungsverhältnis :math:`k` (ohne Einheit) 
+
+.. Schwingfall: :math:`\omega_0 > \delta \quad \rightarrow \vartheta < 1`
+.. Kriechfall: :math:`\omega_0 < \delta \quad \rightarrow \vartheta > 1`
 
 .. raw:: html
 

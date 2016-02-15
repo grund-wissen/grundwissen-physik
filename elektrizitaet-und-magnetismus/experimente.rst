@@ -1,7 +1,7 @@
-.. _Versuche zu Elektrizität und Magnetismus:
+.. _Experimente zu Elektrizität und Magnetismus:
 
-Versuche zu Elektrizität und Magnetismus
-========================================
+Experimente zu Elektrizität und Magnetismus
+===========================================
 
 *Beachte:* Sicherheit hat immer Vorrang! Damit Elektrizität keine Gefahr
 darstellt, sind folgende Regeln stets zu beachten:
@@ -19,10 +19,10 @@ darstellt, sind folgende Regeln stets zu beachten:
   angeschlossen werden!
 
 
-.. _Versuche zu elektrischer Ladung:
+.. _Experimente zu elektrischer Ladung:
 
-Versuche zu elektrischer Ladung
--------------------------------
+Experimente zu elektrischer Ladung
+----------------------------------
 
 .. _Elektrizität durch Reibung:
 
@@ -49,10 +49,10 @@ Versuche zu elektrischer Ladung
 ----
 
 
-.. _Versuche zu Stromstärke, Spannung und Widerstand:
+.. _Experimente zu Stromstärke, Spannung und Widerstand:
 
-Versuche zu Stromstärke, Spannung und Widerstand
-------------------------------------------------
+Experimente zu Stromstärke, Spannung und Widerstand
+---------------------------------------------------
 
 .. _Stromversorgung einer Glühbirne 1:
 
@@ -231,10 +231,10 @@ Versuche zu Stromstärke, Spannung und Widerstand
 ----
 
 
-.. _Versuche zu Leitern, Halbleitern und Isolatoren:
+.. _Experimente zu Leitern, Halbleitern und Isolatoren:
 
-Versuche zu Leitern, Halbleitern und Isolatoren
------------------------------------------------
+Experimente zu Leitern, Halbleitern und Isolatoren
+--------------------------------------------------
 
 .. _Prüfstrecke für elektrischen Widerstand:
 
@@ -272,10 +272,10 @@ Versuche zu Leitern, Halbleitern und Isolatoren
     mit deren Hilfe man die Leitfähigkeit von Stoffen testen kann.
 
 
-.. _Versuche zu Magnetismus:
+.. _Experimente zu Magnetismus:
 
-Versuche zu Magnetismus
------------------------
+Experimente zu Magnetismus
+--------------------------
 
 .. _Eine Leiterschaukel im Hufeisenmagneten:
 

@@ -1,33 +1,17 @@
-.. _Versuche, Übungsaufgaben und Lösungen:
+.. _Aufgaben und Lösungen:
+.. _Übungsaufgaben und Lösungen:
 
-Versuche, Übungsaufgaben und Lösungen
-=====================================
+Übungsaufgaben und Lösungen
+===========================
 
 ..  Now: 46 Versuche, 9 Bilder..
 
-.. _Versuche:
-
-Versuche
---------
-
-..  Versuche sind in der Physik von besonderer Bedeutung. Mit geeigneten
-..  Experimenten lassen sich einzelne Ursache-Wirkungs-Zusammenhänge anschaulich und
-..  beliebig oft wiederholbar untersuchen.
-
-.. toctree::
-    :maxdepth: 2
-
-    mechanik/versuche.rst
-    akustik/versuche.rst
-    optik/versuche.rst
-    waermelehre/versuche.rst
-    elektrizitaet-und-magnetismus/versuche.rst
-
-
+.. _Aufgaben:
 .. _Übungsaufgaben:
 
-Übungsaufgaben
---------------
+.. raw:: html
+
+    <h2>Aufgaben<a class="headerlink" href="#aufgaben" title="Permalink zu dieser Überschrift"></a></h2>
 
 .. toctree::
     :maxdepth: 2
@@ -38,7 +22,6 @@ Versuche
     waermelehre/aufgaben.rst
     elektrizitaet-und-magnetismus/aufgaben.rst
     atomphysik/aufgaben.rst
-
 
 .. _Lösungen:
 
@@ -55,7 +38,6 @@ Lösungen
     elektrizitaet-und-magnetismus/loesungen.rst
     atomphysik/loesungen.rst
 
-
-
 .. Papier hat in etwa gleiche Dicke wie menschliches Haar, rund 100 Mikrometer.
 .. Ein Blatt Papier hat ca. 10 Millionen Fasern.
+

@@ -13,10 +13,10 @@ source_suffix  = '.rst'
 master_doc     = 'index'
 
 project   = "Grundwissen Physik"
-copyright = "2011-2015, Bernhard Grotz"
+copyright = "2011-2016, Bernhard Grotz"
 
-version = '0.4.1c'
-release = '0.4.1c'
+version = '0.4.1d'
+release = '0.4.1d'
 
 language = 'de'
 # spelling_lang = 'de_DE'
@@ -50,6 +50,7 @@ latex_preamble = r"""
 \usepackage{shadow}
 \usepackage{amsmath, units, cancel}
 \usepackage{amsfonts, amssymb,color}
+\usepackage{pifont,mdframed}
 \usepackage{nicefrac,marvosym,wasysym, textcomp, gensymb} 
 \usepackage[left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry}
 % \usepackage{mathtools}
@@ -59,6 +60,11 @@ latex_preamble = r"""
 \clubpenalty  = 10000 % Disable single lines at the start of a page (Schusterjungen)
 \widowpenalty = 10000 % Disable single lines at the end   of a page (Hurenkinder)
 \displaywidowpenalty = 10000
+\newenvironment{hinweis}
+  {\par\begin{mdframed}[linewidth=1.5pt,linecolor=blue]%
+    \begin{list}{}{\leftmargin=1cm
+                   \labelwidth=\leftmargin}\item[\Large\ding{43}]}
+  {\end{list}\end{mdframed}\par}
 """
 
 pngmath_latex_preamble = latex_preamble
@@ -69,8 +75,9 @@ latex_elements = {
     "pointsize": '12pt',
     "fontpkg": '',
     "babel":    "\\usepackage[ngerman]{babel}",
-    "fncychap": "\\usepackage[Conny]{fncychap}",
+    "fncychap": '',
 }
+# "fncychap": "\\usepackage[Conny]{fncychap}",
 # Glenn ist auch schick
 
 
