@@ -1,10 +1,10 @@
-.. _Versuche zu Körpereigenschaften:
+.. _Experimente zu Körpereigenschaften:
 
-Versuche zu Körpereigenschaften
-===============================
+Experimente zu Körpereigenschaften
+==================================
 
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Körpereigenschaften
-<Körpereigenschaften>`.
+Die folgenden Experimente beziehen sich auf den Abschnitt
+:ref:`Körpereigenschaften <Körpereigenschaften>`.
 
 .. todo:: Höhenbestimmung mit Geodreieck und Entfernungsmesser
 
@@ -26,18 +26,18 @@ Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Körpereigenschafte
     * Öl und/oder Glycerin (optional)
 
 .. figure::
-    ../pics/mechanik/volumenbestimmung.png
+    ../pics/mechanik/experiment-volumenbestimmung.png
+    :name: fig-experiment-volumenbestimmung
+    :alt:  fig-experiment-volumenbestimmung
     :align: center
     :width: 40%
-    :name: fig-volumenbestimmung
-    :alt:  fig-volumenbestimmung
 
-    Volumenbestimmung eines (beliebig) geformten Körpers
+    Volumenbestimmung eines (beliebig geformten) Körpers.
 
     .. only:: html
 
         :download:`SVG: Volumenbestimmung
-        <../pics/mechanik/volumenbestimmung.svg>`
+        <../pics/mechanik/experiment-volumenbestimmung.svg>`
 
 *Durchführung:*
 
@@ -49,7 +49,7 @@ Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Körpereigenschafte
 - Berechne das Volumen des eingetauchten Körpers mit Hilfe der passenden
   geometrischen Formel. Vergleiche den berechneten Wert mit der Volumenmenge, um
   die der Standzylinder nun weiter gefüllt ist.
-- Wiederhole den Versuch mit verschiedenen Flüssigkeiten. Was stellst Du fest?
+- Wiederhole das Experiment mit verschiedenen Flüssigkeiten. Was stellst Du fest?
 
 ..  Quelle: Dorn-Bader S.9
 
@@ -74,6 +74,21 @@ Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Körpereigenschafte
     * Mehrere kleine Probekörper aus verschiedenen Materialien
     * Taschenrechner und Dichtetabelle
 
+.. figure::
+    ../pics/mechanik/experiment-dichtebestimmung-archimedes.png
+    :name: fig-experiment-dichtebestimmung-archimedes
+    :alt:  fig-experiment-dichtebestimmung-archimedes
+    :align: center
+    :width: 40%
+
+    Dichtebestimmung eines (beliebig geformten) Körpers nach dem Archimedischen
+    Prinzip.
+
+    .. only:: html
+
+        :download:`SVG: Dichtebestimmung
+        <../pics/mechanik/experiment-dichtebestimmung-archimedes.png>`
+
 *Durchführung:*
 
 - Stelle ein Überlaufgefäß auf einen Labortisch oder eine ähnliche
@@ -89,7 +104,7 @@ Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Körpereigenschafte
   Probekörpers und dem Volumen :math:`V` des ausgelaufenen Wassers. Kannst
   den erhaltenen Wert in der Dichtetabelle wiederfinden? Um welches Material
   handelt es sich?
-- Wiederhole den Versuch mit unterschiedlichen Materialproben.
+- Wiederhole das Experiment mit unterschiedlichen Materialproben.
 
 .. raw:: latex
 

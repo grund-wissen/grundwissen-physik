@@ -1,10 +1,10 @@
 
-.. _Versuche zu Impuls und Drehimpuls:
+.. _Experimente zu Impuls und Drehimpuls:
 
-Versuche zu Impuls und Drehimpuls
-=================================
+Experimente zu Impuls und Drehimpuls
+====================================
 
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Impuls und
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Impuls und
 Drehimpuls <Impuls und Drehimpuls>`.
 
 ----

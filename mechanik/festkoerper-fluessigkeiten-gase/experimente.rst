@@ -1,14 +1,14 @@
-.. _Versuche zu Mechanik der Festkörper, Flüssigkeiten und Gase:
+.. _Experimente zu Mechanik der Festkörper, Flüssigkeiten und Gase:
 
-Versuche zur Mechanik der Festkörper, Flüssigkeiten und Gase
-============================================================
+Experimente zur Mechanik der Festkörper, Flüssigkeiten und Gase
+===============================================================
 
-.. _Versuche zur Mechanik der Flüssigkeiten:
+.. _Experimente zur Mechanik der Flüssigkeiten:
 
-Versuche zur Mechanik der Flüssigkeiten
----------------------------------------
+Experimente zur Mechanik der Flüssigkeiten
+------------------------------------------
 
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Mechanik der
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Mechanik der
 Flüssigkeiten <Mechanik der Flüssigkeiten>`.
 
 ----

@@ -7,7 +7,8 @@ Atom- und Kernphysik
     :maxdepth: 2
 
     atommodelle.rst
-    aufbau-der-stoffe.rst
+    aufbau-der-materie.rst
+    radioaktivitaet.rst
 
 
 

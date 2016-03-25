@@ -241,6 +241,6 @@ große Kraft am kleinen Antriebsrad.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Hebeln>` und
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu Hebeln>` und
     :ref:`Übungsaufgaben <Aufgaben zu Hebeln>`.
 

@@ -17,8 +17,9 @@ Links und Quellen
 * `Physik-Seite von Felix Elsenbruch <http://www.elsenbruch.info/physik.htm>`_
 * `Skript zu Atomphysik und Quantenmechanik
   <http://qudev.ethz.ch/content/science/BuchPhysikIV/PhysikIVli1.html>`_
-* `Halbleiter-Infos <http://www.halbleiter.org/>`_
+* `Halbleiter-Infos <https://www.halbleiter.org/>`_
 * `Physik-Wikibooks <https://de.wikibooks.org/wiki/Regal:Physik>`_
+* `Grundlagen der Akustik Wikibook <https://de.wikibooks.org/wiki/Grundlagen_der_Akustik:_Inhaltsübersicht>`_ 
 
 ..  .. rubric:: Elektronik-Anleitungen
 
@@ -60,11 +61,11 @@ Links und Quellen
     .. hlist::
         :columns: 2
 
-        * `Astromedia <http://www.astromedia.de>`_
+        * `Astromedia <http://astromedia.de>`_
         * `Busch <http://www.busch-model.com/sf/experi.htm>`_
-        * `Eitech <http://eitech.de>`_
-        * `Experimentis <http://www.experimentis-shop.de>`_
-        * `Kids-and-Science <http://kids-and-science.tradoria.de>`_
+        * `Eitech <http://www.eitech.de>`_
+        * `Experimentis <http://experimentis-shop.de>`_
+        * `Kids-and-Science <http://kids-and-science.rakuten-shop.de/>`_
         * `Opitec <http://de.opitec.com/opitec-web/st/Home>`_
 
 ..  http://www.hund-hersbruck.de/GAphysik_2.htm
@@ -80,13 +81,13 @@ Links und Quellen
     .. hlist::
         :columns: 2
 
-        * `Conatex <http://www.conatex.com/shop/index.php>`_
+        * `Conatex <https://www.conatex.com/>`_
         * `Cornelsen <http://www.corex.de/>`_
-        * `Elwe <http://www.elwephysik.de/>`_
+        * `Elwe <https://www.3bscientific.de/Physik,pg_83.html>`_
         * `Henschke <http://www.henschke-geraetebau.de/>`_
         * `Leybold <http://www.ld-didactic.de/>`_
-        * `NTL <http://www.ntl.at/>`_
-        * `Phywe <https://www.phywe.de/de/1/Home.htm>`_
+        * `NTL <http://shop.ntl.de/>`_
+        * `Phywe <https://www.phywe.de/>`_
 
 ..  * Elektronik-Artikel:
     ..  Wer selbst elektronische Schaltungen ausprobieren möchte, findet bei
@@ -133,7 +134,11 @@ Elastizitaetsmodule stammen aus
 .. rubric:: Quellenangaben zur Akustik
 
 Die Graphik :ref:`Schallpegel in Dezibel <fig-schallpegel>` ist nach
-[Neyen2001]_ (Seite 9) entworfen.
+[Neyen2001]_ (Seite 9), die Graphik :ref:`Isophone Lautstärkepegel
+<fig-isophone-lautstaerkepegel>` nach der Creative-Commons-Graphik `Isophone
+<https://de.wikibooks.org/wiki/Datei:Isophone.svg>`_ von Raphael Frey entworfen
+(veröffentlicht im `Wikibook: Grundlagen Akustik
+<https://de.wikibooks.org/wiki/Grundlagen_der_Akustik:_Lautstärke_und_Lautheit>`_.
 
 Die Werte aus Tabelle :ref:`Schallgeschwindigkeiten in verschiedenen Materialien
 <tab-schallgeschwindigkeit>` stammt von der Seite `Schallgeschwindigkeit
@@ -167,6 +172,18 @@ entnommen.
 
 .. rubric:: Quellenangaben zu Atom- und Kernphysik
 
+Die Grundlage für die Graphik :ref:`Mittlere Bindungsenergie je Nukleon
+<fig-bindungsenergie-je-nukleon>` ist das Diagramm `Binding energy curve -
+common isotopes
+<https://commons.wikimedia.org/wiki/File:Binding_energy_curve_-_common_isotopes.svg>`_,
+zugänglich über die `Wikimedia Commons
+<https://commons.wikimedia.org/wiki/Main_Page>`_
+
+
+Die Werte aus der Tabelle :ref:`Halbwertszeiten (Beispiele)
+<tab-halbwertszeiten-beispiele>` stammen aus den Wikipedia-Einträgen der
+jeweiligen chemischen Elemente.
+
 .. rubric:: Quellenangaben zu den Versuchen, Übungsaufgaben und Lösungen
 
 * Versuche zur Mechanik:
@@ -197,9 +214,10 @@ entnommen.
 .. rubric:: Quellenangaben zu den Tabellen
 
 Die Daten aus den Tabellen stammen zum größten Teil aus der `Scholarpedia
-<http://www.scholarpedia.org>`_ und der `deutschsprachigen Wikipedia
-<http://de.wikipedia.org/wiki/Wikipedia:Hauptseite>`_. Ergänzt wurden fehlende
-Werte durch die beiden Nachschlagewerke [Kuchling2001]_ und [Hammer2002]_.
+<http://www.scholarpedia.org/article/Main_Page>`_ und der `deutschsprachigen
+Wikipedia <https://de.wikipedia.org/wiki/Wikipedia:Hauptseite>`_. Ergänzt wurden
+fehlende Werte durch die beiden Nachschlagewerke [Kuchling2001]_ und
+[Hammer2002]_.
 
 .. raw:: latex
 

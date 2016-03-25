@@ -401,7 +401,7 @@ sind, kann das Trägheitsmoment unmittelbar bestimmt werden.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Drehmoment und
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu Drehmoment und
     Gleichgewicht>` und :ref:`Übungsaufgaben <Aufgaben zu Drehmoment und
     Gleichgewicht>`.
 

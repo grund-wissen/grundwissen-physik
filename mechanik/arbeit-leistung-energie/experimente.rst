@@ -1,14 +1,14 @@
-.. _Versuche zu Arbeit, Leistung und Energie:
+.. _Experimente zu Arbeit, Leistung und Energie:
 
-Versuche zu Arbeit, Leistung und Energie
-========================================
+Experimente zu Arbeit, Leistung und Energie
+===========================================
 
-.. _Versuche zu mechanischer Arbeit:
+.. _Experimente zu mechanischer Arbeit:
 
-Versuche zu mechanischer Arbeit
--------------------------------
+Experimente zu mechanischer Arbeit
+----------------------------------
 
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Mechanische
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Mechanische
 Arbeit <Mechanische Arbeit>`.
 
 ----
@@ -43,12 +43,12 @@ Arbeit <Mechanische Arbeit>`.
 
 ----
 
-.. _Versuche zu mechanischer Leistung:
+.. _Experimente zu mechanischer Leistung:
 
-Versuche zu mechanischer Leistung
----------------------------------
+Experimente zu mechanischer Leistung
+------------------------------------
 
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Mechanische
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Mechanische
 Leistung <Leistung>`.
 
 ----
@@ -98,12 +98,12 @@ Leistung <Leistung>`.
 ----
 
 
-.. _Versuche zu mechanischer Energie:
+.. _Experimente zu mechanischer Energie:
 
-Versuche zu mechanischer Energie
---------------------------------
+Experimente zu mechanischer Energie
+-----------------------------------
 
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Mechanische
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Mechanische
 Energie <Mechanische Energie>`.
 
 ----

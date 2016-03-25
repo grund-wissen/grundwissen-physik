@@ -16,7 +16,7 @@ zusammenpressen ("komprimieren"). Dies gilt sowohl für von außen wirkende
 Kräfte wie auch für den so genannten "Schweredruck", der sich aus dem
 Eigengewicht der Flüssigkeit ergibt.
 
-.. _Der Kolbendruck:
+.. _Kolbendruck:
 
 .. rubric:: Der Kolbendruck
 
@@ -81,7 +81,7 @@ an den allen Öffnungen senkrecht zur Oberfläche aus. [#]_
         \unit[1]{Pa} &= \unit[1]{\frac{N}{m^2} } \\[6pt]
 
     Größere Drücke, wie sie in der alltäglichen Praxis des öfteren
-    anzutreffen sind, werden häufig in der Einheit "Bar" :math:`(\unit[]{bar})`
+    anzutreffen sind, werden häufig in der Einheit "Bar" :math:`(\unit{bar})`
     angegeben. Dabei gilt:
 
     .. math::
@@ -91,19 +91,23 @@ an den allen Öffnungen senkrecht zur Oberfläche aus. [#]_
     Ein Bar entspricht auf der Erde in etwa der Größe des Luftdrucks in
     Bodennähe.
 
-..  .. rubric:: Messung des Drucks in Flüssigkeiten
+Der auf ein Fluid einwirkende Kolbendruck sowie der im nächsten Abschnitt
+behandelte Schweredruck werden auch als *statischer* Druck :math:`p
+_{\mathrm{stat}}` bezeichnet. Diese Druckformen treten sowohl in ruhenden wie
+auch in sich bewegenden Fluiden auf.
 
-
+.. index:: Schweredruck
 .. _Schweredruck:
 
 .. rubric:: Der Schweredruck
 
 Durch das Eigengewicht der Flüssigkeit wird innerhalb der Flüssigkeit ein mit
-zunehmender Tiefe immer größer werdender Schweredruck hervorgerufen. Dieser
-wirkt in einer bestimmten Tiefe in alle Raumrichtungen gleich stark. Die Größe
-:math:`p _{\rm{s}}` des Schweredrucks lässt sich berechnen, wenn man das Volumen
-einer Flüssigkeitssäule mit einer Grundfläche :math:`A` und einer Gewichtskraft
-:math:`F _{\rm{G}} = m \cdot g` betrachtet.
+zunehmender Tiefe immer größer werdender Schweredruck hervorgerufen; dieser
+wirkt in einer bestimmten Tiefe in alle Raumrichtungen gleich stark.
+
+Die Größe :math:`p _{\rm{s}}` des Schweredrucks lässt sich berechnen, wenn man
+das Volumen einer Flüssigkeitssäule mit einer Grundfläche :math:`A` und einer
+Gewichtskraft :math:`F _{\rm{G}} = m_{\mathrm{Fl}} \cdot g` betrachtet.
 
 .. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/schweredruck.png
     :name: fig-schweredruck
@@ -122,17 +126,17 @@ Am Boden der Flüssigkeitssäule gilt:
 
 .. math::
 
-    p _{\rm{s}} = \frac{F _{\rm{G}}}{A } = \frac{m \cdot g}{A}
+    p _{\mathrm{s}} = \frac{F _{\mathrm{G,fl}}}{A } = \frac{m_{\mathrm{Fl}} \cdot g}{A}
 
 Die Masse :math:`m` der Flüssigkeit kann auch als Produkt aus ihrer :ref:`Dichte
 <Dichte>` :math:`\rho` und ihrem Volumen :math:`V` geschrieben werden. Das
 Volumen :math:`V` der Flüssigkeit wiederum entspricht dem Produkt aus der
-Grundfläche :math:`A` und der Höhe :math:`h` des betrachteten Quaders. Somit
-gilt:
+Grundfläche :math:`A` und der Höhe :math:`h` des betrachteten Quaders. Es
+gilt also:
 
 .. math::
 
-    m = \rho \cdot V \qquad \text{und} \qquad V = A \cdot h
+    m_{\mathrm{Fl}} = \rho_{\mathrm{Fl}} \cdot V \qquad \text{und} \qquad V = A \cdot h
 
 Setzt man :math:`m = \rho \cdot V = \rho \cdot A \cdot h` in die obere
 Gleichung ein, so kann die Fläche :math:`A` im Zähler und Nenner gekürzt
@@ -141,24 +145,138 @@ werden. Es ergibt sich damit folgende Formel:
 .. math::
     :label: eqn-schweredruck
 
-    p _{\rm{s}} = \rho \cdot g \cdot h
+    p _{\mathrm{s}} = \rho_{\mathrm{Fl}} \cdot g \cdot h
 
 Der Schweredruck in einer Flüssigkeit hängt, da der Ortsfaktor :math:`g`
-konstant ist, somit nur von der Dichte der Flüssigkeit und der Höhe der
-Flüssigkeitssäule ab. Beispielsweise nimmt in Wasser der Schweredruck je
-:math:`\Delta h = \unit[1]{m}` Tiefe um ungefähr :math:`\Delta p =
-\unit[0,1]{bar}` zu. Am Boden einer :math:`h=\unit[10]{m}` tiefen Wassersäule
-herrscht somit ein Schweredruck von :math:`p=\unit[1]{bar}` -- zusätzlich zum
-Luftdruck, der ebenfalls rund :math:`\unit[1]{bar}` beträgt.
+konstant ist, nur von der Dichte der Flüssigkeit und der Höhe der
+Flüssigkeitssäule ab.
 
-Die Summe aus dem Kolbendruck :math:`p _{\rm{k}}` und dem Schweredruck :math:`p
-_{\rm{s}}` wird auch statischer Druck :math:`p _{\rm{stat}}` genannt.
+*Beispiel*:
 
-.. Schlauchwaage beim Bau: Gleiche Mauerhöhen. Mentor1,86.
-.. Druckschalter Waschmaschine Mentor1,87.
+* Wie hoch ist der Schweredruck des Wassers in :math:`h=\unit[10]{m}` unterhalb
+  der Wasseroberfläche?
+
+  Für den Schweredruck gilt mit :math:`\rho _{\mathrm{Wasser}} =
+  \unit[1000]{\frac{kg}{m^3}}`:
+
+  .. math::
+
+      p _{\mathrm{s}} = \rho \cdot g \cdot h = \unit[1000]{\frac{kg}{m^3}} \cdot
+      \unit[9,81]{\frac{N}{kg}} \cdot \unit[10]{m} = \unit[98\,100]{Pa}
+
+  Der Schweredruck des Wassers in :math:`h=\unit[10]{m}` beträgt somit knapp
+  :math:`\unit[100\,000]{Pa}`, also rund :math:`\unit[1]{bar}`.
+
+.. _Manometer-Druck:
+
+Um Verwechslungen zu vermeiden, wird die Angabe des Schweredrucks in einer
+Flüssigkeit häufig um die Angabe :math:`\text{(man.)}` ergänzt. Dieses Kürzel
+steht für "Manometer-Druck" und soll darauf hindeuten, dass sich die Druckangabe
+relativ zum Luftdruck bezieht. Addiert man beispielsweise zu dem Schweredruck
+von :math:`p_{\mathrm{s}}=\unit[1]{bar} \text{ (man.)}` noch den Luftdruck dazu,
+der ebenfalls :math:`p _{\mathrm{Luft}} = \unit[1]{bar}` groß ist, so erhält man
+:math:`p = \unit[2]{bar} \text{ (abs.)}` als "absoluten" Druck, der in dieser
+Tiefe vorherrscht.
+
+.. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/kommunizierende-gefaesse.png
+    :name: fig-kommunizierende-gefaesse
+    :alt:  fig-kommunizierende-gefaesse
+    :align: center
+    :width: 80%
+
+    Gleiche Wasserniveaus bei verbundenen Gefäßen unterschiedlicher Form (hydrostatisches Paradoxon).
+
+    .. only:: html
+
+        :download:`SVG: Verbundene Gefäße
+        <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/kommunizierende-gefaesse.svg>`
+
+Die Zunahme des Schweredrucks mit der Tiefe ist unabhängig von der Form der
+darüber liegenden Wassersäule. Dieses als "hydrostatisches Paradoxon" bekannte
+Prinzip kann man beispielsweise mittels einer Anordnung von unterschiedlich
+geformten Glasgefäßen zeigen, die untereinander durch Wasserleitungen verbunden
+sind ("kommunizierende Gefäße"). Bei einer solchen Anordnung ist das
+Wasserniveau in allen Gefäßen gleich hoch -- ein höheres Wasserniveau in einem
+der Gefäße hätte einen höheren Wasserdruck auf die unteren Wasserschichten in
+diesem Gefäß zur Folge, wodurch wiederum Wasser von dort in die übrigen Gefäße
+gepresst würde. Dieses Prinzip wird nicht nur zur Konstruktion von Siphons als
+"Geruchstopper" verwendet (beispielsweise an Waschbecken), sondern ebenso, um
+mittels so genannter "Schlauchwaagen" -- ähnlich wie mit Wasserwaagen -- über
+sehr große Entfernungen hinweg eine waagrechte Ausrichtung von Gegenständen zu
+erreichen.
+
+
+.. _Druckmessung:
+
+Druckmessung
+------------
+
+Die Zunahme des Schweredrucks mit der Höhe der Wassersäule wird bei so genannten
+"U-Rohr-Manometern" zur Druckmessung genutzt. Als "Manometer" bezeichnet man
+allgemein Druckmessgeräte, die einen externen, relativ zum Luftdruck
+vorherrschenden Druck :math:`p _{\mathrm{ext}}` messen.
+
+.. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/u-rohr-manometer.png
+    :name: fig-u-rohr-manometer
+    :alt:  fig-u-rohr-manometer
+    :align: center
+    :width: 80%
+
+    Messung eines externen Drucks :math:`p_{\mathrm{ext}}` mit Hilfe eines
+    U-Rohr-Manometers.
+
+    .. only:: html
+
+        :download:`SVG: U-Rohr-Manometer
+        <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/u-rohr-manometer.svg>`
+
+Wird auf ein Ende eines mit einer Flüssigkeit gefüllten U-Rohrs ein externer Druck
+:math:`p _{\mathrm{ext}}` ausgeübt, so wird durch diesen die Flüssigkeit in die
+andere Hälfte des U-Rohrs verdrängt. Dies erfolgt so lange, bis sich in der
+anderen Hälfte durch die höhere Wassersäule ein hinreichend großer Schweredruck
+aufgebaut hat, der dem externen Druck :math:`p _{\mathrm{ext}}` entgegenwirkt.
+
+Im Gleichgewichtsfall gilt:
+
+.. math::
+    :label: eqn-druckmessung-u-rohr-1
+
+    p_{\mathrm{links}} &= p _{\mathrm{rechts}} \\
+    p_{\mathrm{ext}} + p_{\mathrm{s,1}} &= p_{\mathrm{s,2}} \\
+    p_{\mathrm{ext}} + \rho_{\mathrm{Fl}} \cdot g \cdot h_1 &= \rho_{\mathrm{Fl}} \cdot g \cdot h_2
+
+Durch diesen Zusammenhang kann unmittelbar die gesuchte Größe :math:`p
+_{\mathrm{ext}}` bestimmt werden. Schreibt man :math:`\Delta h = h_2 - h_1`, so
+folgt:
+
+.. math::
+    :label: eqn-druckmessung-u-rohr-2
+
+    p_{\mathrm{ext}} = \rho _{\mathrm{Fl}} \cdot g \cdot \Delta h
+
+Zur Messung des externen Drucks :math:`p _{\mathrm{ext}}` muss somit lediglich
+der sich einstellende Unterschied der Füllhöhen, also eine Länge gemessen
+werden. Da der Zusammenhang direkt proportional bzw. linear ist, kann durch
+eine Kalibrierung auf eine bestimmte Flüssigkeit auch eine entsprechende Skala
+mit Druckwerten angebracht werden. Für kleine zu messende Druckwerte verwendet
+man eine Flüssigkeit mit geringer Dichte, für hohe Drücke eine Flüssigkeit mit
+hoher Dichte, damit ein entsprechend großer Gegendruck durch die Schwere des
+Fluids zustande kommt.
+
+Genau genommen muss bei der Herleitung des Druck-Gleichgewichts in einem U-Rohr
+(Gleichung :eq:`eqn-druckmessung-u-rohr-1`) auch noch der Luftdruck
+berücksichtigt werden. Dieser wirkt allerdings gleichermaßen auf beide Seiten
+des U-Rohrs ein und hat daher keinen Einfluss auf das Gleichgewicht. Wäre
+allerdings das rechte Ende des U-Rohrs oben abgeschlossen und luftleer, so
+müsste man den dann nur auf die linke Seite einwirkenden Luftdruck
+berücksichtigen; in diesem Fall spricht man von einem Barometer, das
+üblicherweise zur Messung des Luftdrucks verwendet wird.
+
+
+
+.. todo Manometer <-> Barometer; Membran-Manometer Pic
 
 ..
-    Wasserstandsglas, Schlauchwaage, Geruchsverschluss. Todo: Pic Gascha 74.
     Zwei verschiedene, nicht mischbare Flüssigkeiten mit unterschiedlichen
     Dichten :math:`\rho _1` und :math:`\rho _2` -> Höhen stellen sich so ein,
     dass Druckausgleich zustande kommt.
@@ -172,46 +290,27 @@ _{\rm{s}}` wird auch statischer Druck :math:`p _{\rm{stat}}` genannt.
 .. Wasserdruck 4,5 bar. Höhe des Wasserspiegels im Wasserturm über Zapfstelle?
 .. Staumauern eines Stausees unten viel dicker als oben.
 
-..  Dichte von Fluessigkeiten: Aus der Eintauchtiefe des oberen, zylinderförmigen
-..  Teils eines Aräometers kann man die Dichte einer Flüssigkeit sehr genau bestimmen, da
-..  \rho _{\rm{Fl}} = \rho _{\rm{K}} \cdot  (V _{\rm{K}}/ V _{\rm{Fl}}) = konst / VFl.
+.. _Hydraulische Anlage:
+.. _Hydraulische Presse:
+.. _Druckwandler:
 
-..
-    Kompressibilität: Da die Moleküle einer Flüssigkeit dicht nebeneinander
-    liegen, lassen sich Flüssigkeiten auch unter sehr grossem Druck nur
-    geringfügig zusammenpressen.
-
-    Unter der Kompressibilität versteht man allgemein das Verhältnis der
-    relativen Volumenänderungen zur dazu erforderlichen Druckänderung.
-
-    Die Kompressibilität ist ein wesentlicher Unterschied zwischen
-    Flüssigkeiten und Gasen: Ein Gas ändert unter Druck sein Volumen, während
-    die Volumenänderung bei einer Flüssigkeit vernachlässigbar klein bleibt.
-
-    Die Kompressibilität ist geringfügig temperaturabhängig. Aufgrund ihrer
-    geringen Grösse kann die Volumenänderung bei vielen Flüssigkeiten
-    vernachlässigt werden. Dies ist eine wichtige Voraussetzung für
-    hydraulische Anlagen.
-
-.. _Hydraulische Anlagen:
-
-.. rubric:: Hydraulische Anlagen
+Hydraulische Anlagen und Druckwandler
+-------------------------------------
 
 Eine wichtige technische Anwendung der Inkompressibilität und gleichmäßigen
 Druckausbreitung in Flüssigkeiten sind hydraulische Anlagen. Hierbei wird auf
 der einen Seite eine (verhältnismäßig) schwache Kraft auf einen Kolben mit
 möglichst geringem Durchmesser ausgeübt. Der durch den Kolben ausgeübte Druck
-:math:`p = \frac{F _{\rm{1}}}{A _{\rm{1}}}`, also das Verhältnis aus der
-ausgeübten Kraft :math:`F _{\rm{1}}` und der Querschnittsfläche :math:`A
-_{\rm{1}}` des Kolbens, entspricht in guter Näherung dem insgesamt in der
-Flüssigkeit wirkenden Druck, da gegenüber ihm der Schweredruck meist
-vernachlässigbar klein ist.
+:math:`p = \frac{F_1}{A_1}`, also das Verhältnis aus der ausgeübten Kraft
+:math:`F_1` und der Querschnittsfläche :math:`A_1` des Kolbens, entspricht in
+guter Näherung dem insgesamt in der Flüssigkeit wirkenden Druck, da gegenüber
+ihm der Schweredruck meist vernachlässigbar klein ist.
 
 .. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png
     :name: fig-hydraulische-anlage
     :alt:  fig-hydraulische-anlage
     :align: center
-    :width: 40%
+    :width: 55%
 
     "Gleichgewicht" an einer hydraulischen Anlage.
 
@@ -221,7 +320,7 @@ vernachlässigbar klein ist.
         <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.svg>`
 
 Auf der anderen Seite der hydraulischen Anlage befindet sich ein zweiter Kolben
-mit (verhältnißmäßig) großer Querschnittsfläche :math:`A _{\rm{2}}`. Da
+mit (verhältnismäßig) großer Querschnittsfläche :math:`A _{\rm{2}}`. Da
 innerhalb der Flüssigkeit der Kolbendruck :math:`p = \frac{F}{A}` an allen
 Stellen gleich groß ist, wird beim Hineinpressen des kleinen Kolbens eine Kraft
 auf den großen Kolben ausgeübt, die um das Verhältnis der Kolbenflächen
@@ -240,12 +339,16 @@ verstärkt ist:
 Diese zunächst unerwartete Tatsache, dass eine kleine schwache Kraft auf den
 kleinen Kolben eine große Kraft am großen Kolben bewirkt, kann man sich
 anschaulich damit erklären, dass am großen Kolben wesentlich mehr
-Flüssigkeits-Teilchen "anstoßen" als am kleinen. Die unter Druck gesetzte
+Flüssigkeits-Teilchen "anstoßen" als am kleinen; die unter Druck gesetzte
 Flüssigkeit kann daher in Richtung des großen Kolbens auch leichter zusätzlichen
-Raum einnehmen.
+Raum einnehmen. Vergleichsweise kann man sich als Merkhilfe auch vorstellen,
+dass man zum Abdichten eines kleinen Lochs in einer Wasserleitung weniger Kraft
+braucht als bei einem großen Loch, obwohl der Wasserdruck in beiden Fällen
+gleich ist.
 
-Die :ref:`goldene Regel der Mechanik <Goldene Regel der Mechanik>` gilt
-unverändert auch für hydraulische Anlagen: Um den großen Kolben um eine Höhe
+Eine hydraulische Anlage stellt somit ebenfalls einen :ref:`Kraftwandler
+<Kraftwandler und Getriebe>` dar. Die :ref:`goldene Regel der Mechanik <Goldene
+Regel der Mechanik>` gilt unverändert: Um den großen Kolben um eine Höhe
 :math:`s_2` anzuheben, muss man den kleinen Kolben um eine entsprechend längere
 Wegstrecke :math:`s _{\rm{1}}` bewegen. Es gilt mit der obigen Gleichung
 :eq:`eqn-hydraulische-anlage`:
@@ -266,8 +369,75 @@ zurückgelegten Wegstrecken folgt damit:
 
     s _{\rm{1}} = \frac{A _{\rm{2}}}{A _{\rm{1}}} \cdot s _{\rm{2}}
 
-Eine hydraulische Anlage stellt somit ebenfalls einen :ref:`Kraftwandler
-<Kraftwandler und Getriebe>` dar.
+Um den großen Kolben nennenswert nach oben zu bringen, müsste der kleine Kolben
+wesentlich länger sein. Als Alternative hierzu kann ein Ventil-System und ein
+Reservoire mit Hydraulik-Flüssigkeit verwendet werden. Während des "Hochpumpens"
+der Last wird aus dem Reservoire nachgetankt; zum Herablassen der Last muss
+hingegen ein Verschluss-Mechanismus geöffnet werden, so dass die
+Hydraulik-Flüssigkeit durch das Gewicht der Last wieder zurück in das Reservoire
+gedrückt wird. Hydraulische Anlagen werden in der Praxis unter anderem in
+Lastenhebern, in Münzpressen sowie in Bremsanlagen von Fahrzeugen eingesetzt.
+
+Ein zweites wichtiges Prinzip bei der technischen Verwendung von Fluiden sind
+so genannte Druckwandler. Diese bestehen im Wesentlichen aus zwei
+Rohren mit unterschiedlichem Durchmesser und einer sich zwischen den beiden
+Rohren befindenden Kolbenstange.
+
+.. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/druckwandler.png
+    :name: fig-druckwandler
+    :alt:  fig-druckwandler
+    :align: center
+    :width: 65%
+
+    Schematischer Aufbau eines Druckwandlers.
+
+    .. only:: html
+
+        :download:`SVG: Druckwandler
+        <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/druckwandler.svg>`
+
+Von den beiden Fluiden :math:`1` und :math:`2` wird jeweils aufgrund der darin
+vorherrschenden Drücke eine Kraft auf den Kolben ausgeübt. Im Gleichgewichtsfall
+müssen diese beiden Kräfte :math:`F_1` und :math:`F_2` gleich groß sein:
+
+.. math::
+
+    F_1 &= F_2 \\
+    \Rightarrow p_1 \cdot A_1 &= p_2 \cdot A_2
+
+Die in den beiden Fluiden vorherrschenden Drücke sind im Gleichgewichtsfall
+somit umgekehrt proportional zu den Querschnittsflächen :math:`A_1` und
+:math:`A_2` des Kolbens:
+
+.. math::
+    :label: eqn-druckwandler
+
+    \frac{p_1}{p_2} = \frac{A_2}{A_1}
+
+In der praktischen Anwendung wird dieses Prinzip beispielsweise folgendermaßen
+verwendet: Auf der linken Seite wird die Druckluft eines Kompressors als Fluid
+verwendet; der Druck :math:`p_1` liegt dabei bei etwa :math:`\unit[10]{bar}`.
+Durch den Druckwandler wird damit auf das Fluid der rechten Seite,
+beispielsweise Hydraulik-Öl, ein wesentlich höhererer Druck :math:`p_2`
+ausgeübt; mit diesem Druck kann wiederum eine hydraulische Anlage betrieben
+werden. Dieses Prinzip wird unter anderem in industriellen Einspann-Vorrichtung
+verwendet.
+
+.. Kompressibilität: Da die Moleküle einer Flüssigkeit dicht nebeneinander
+.. liegen, lassen sich Flüssigkeiten auch unter sehr grossem Druck nur
+.. geringfügig zusammenpressen.
+
+.. Unter der Kompressibilität versteht man allgemein das Verhältnis der
+.. relativen Volumenänderungen zur dazu erforderlichen Druckänderung.
+
+.. Die Kompressibilität ist ein wesentlicher Unterschied zwischen
+.. Flüssigkeiten und Gasen: Ein Gas ändert unter Druck sein Volumen, während
+.. die Volumenänderung bei einer Flüssigkeit vernachlässigbar klein bleibt.
+
+.. Die Kompressibilität ist geringfügig temperaturabhängig. Aufgrund ihrer
+.. geringen Größe kann die Volumenänderung bei vielen Flüssigkeiten
+.. vernachlässigt werden. Dies ist eine wichtige Voraussetzung für
+.. hydraulische Anlagen.
 
 
 .. index:: Auftriebskraft
@@ -414,23 +584,59 @@ bewegt (sinkt).
       _{\rm{K}} | \cdot g \cdot V
 
   Ein schwimmender Körper befindet sich zum Teil über, zum Teil in der
-  Flüssigkeit. Er taucht soweit ein, bis seine gesamte Masse im Verhältnis auf
-  das Volumen des eintauchenden Teils gleich der Dichte :math:`\rho` der
-  Flüssigkeit ist.
+  Flüssigkeit. Er taucht soweit ein, bis sich ein Gleichgewicht zwischen seiner
+  Gewichtskraft :math:`F_{\mathrm{G}}` und der Auftriebskraft
+  :math:`F_{\mathrm{A}}` einstellt:
 
-  .. pic Araeometer
+  .. math::
+
+      F_{\mathrm{G}} = F_{\mathrm{A}} \quad \Longleftrightarrow \quad \rho
+      _{\mathrm{K}} \cdot g \cdot V_{\mathrm{K,ges}} = \rho _{\mathrm{Fl}} \cdot
+      g \cdot V _{\mathrm{K,nass}}
+
+  Hierbei kann man den Ortsfaktor :math:`g`, der auf beiden Seiten der Gleichung
+  auftritt, kürzen. Löst man die verbleibende Gleichung nach dem eintauchenden
+  Volumen-Anteil :math:`V _{\mathrm{K,nass}}` des Körpers auf, so folgt:
+
+  .. math::
+
+      \frac{V _{\mathrm{k,nass}}}{V _{\mathrm{K}}} = \frac{\rho
+      _{\mathrm{K}}}{\rho _{\mathrm{Fl}}}
+
+  Der eintauchende Anteil des Körpervolumens :math:`V_{\mathrm{K,nass}}`
+  entspricht also dem Verhältnis
+  :math:`\frac{\rho_{\mathrm{K}}}{\rho_{\mathrm{Fl}}}` der Dichten des
+  schwimmenden Körpers und der Flüssigkeit.
+
+  .. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/dichtemessung-araeometer.png
+      :name: fig-dichtemessung-araeometer
+      :alt:  fig-dichtemessung-araeometer
+      :align: center
+      :width: 50%
+
+      Dichtemessung einer Flüssigkeit mit Hilfe eines Aräometers.
+
+      .. only:: html
+
+
+          :download:`SVG: Dichtemessung (Aräometer)
+          <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/dichtemessung-araeometer.svg>`
 
   Dieses Prinzip wird beispielsweise bei so genannten Senkwaagen ("Aräometer")
   genutzt. Diese bestehen aus einem hohlen Glaskörper mit einem Volumen
-  :math:`V _{\rm{K}}`, der am unteren Ende mit Bleischrot gefüllt ist und am
+  :math:`V_{\mathrm{K}}`, der am unteren Ende mit Bleischrot gefüllt ist und am
   oberen Ende eine Skala zum unmittelbaren Ablesen der Flüssigkeitsdichte
   enthält. Je geringer die Dichte der Flüssigkeit ist, desto tiefer taucht das
   Aräometer in die Flüssigkeit ein.
 
-  Der eintauchende Anteil des Körpervolumens entspricht dem
-  Verhältnis :math:`\frac{\rho _{\rm{K}}}{\rho _{\rm{Fl}}}` der Dichten des
-  schwimmenden Körpers und der Flüssigkeit, der restliche Teil des Körpers
-  schwimmt oberhalb der Flüssigkeitsoberfläche. [#]_
+
+.. der restliche Teil
+.. :math:`V_{\mathrm{K,trocken}}` des Körpers schwimmt oberhalb der
+.. Flüssigkeitsoberfläche. [#]_
+
+..  Dichte von Fluessigkeiten: Aus der Eintauchtiefe des oberen, zylinderförmigen
+..  Teils eines Aräometers kann man die Dichte einer Flüssigkeit sehr genau bestimmen, da
+..  \rho _{\rm{Fl}} = \rho _{\rm{K}} \cdot  (V _{\rm{K}}/ V _{\rm{Fl}}) = konst / VFl.
 
 
 Die genannte Form des Auftriebs wird "statischer" Auftrieb genannt. Es gilt
@@ -493,8 +699,8 @@ Bei einer reibungslosen Flüssigkeit verhalten sich die
 Strömungsgeschwindigkeiten somit umgekehrt proportional zum Rohrquerschnitt.
 
 Überprüft man mit einem Manometer an verschiedenen Stellen der Rohrleitung den
-(statischen) Druck :math:`p _{\rm{st}}` der Flüssigkeit, so zeigt sich, dass an
-den engen Stellen mit größeren Geschwindigkeiten *geringere* (statische)
+statischen Druck :math:`p _{\rm{st}}` der Flüssigkeit, so zeigt sich, dass an
+den engen Stellen mit größeren Geschwindigkeiten *geringere* statische
 Druckwerte gemessen werden. Diese zunächst etwas verblüffend wirkende Tatsache
 wird als "hydrodynamisches Paradoxon" bezeichnet; sie kann dadurch erklärt
 werden, dass an allen Stellen der Flüssigkeit ein gleich großer Gesamtdruck
@@ -531,8 +737,8 @@ Die Bernoulli-Gleichung wird in zahlreichen technischen Bereichen genutzt:
   (Luft-)Drucks und damit für ein Ansaugen der Flüssigkeit in dem
   Zerstäuberrohr.
 
-* Mit einer so genannten Messblende kann die Stroemungsgeschwindigkeit eines
-  Fluids in einer Roehre bestimmt werden.
+* Mit einer so genannten Messblende kann die Strömungsgeschwindigkeit eines
+  Fluids in einer Röhre bestimmt werden.
 
 Das obige Bernoulli-Prinzip gilt nicht nur für Flüssigkeiten, sondern auch für
 Gase, wobei es für die Flugfähigkeit von Körpern von entscheidender Bedeutung
@@ -946,12 +1152,14 @@ Vergrößerung :math:`\Delta A` der Oberfläche wird Oberflächenspannung
     \sigma = \frac{\Delta W}{\Delta A}
 
 Die Einheit der Oberflächenspannung ist :math:`\unit{\frac{J}{m^2}} =
-\unit{\frac{N \cdot m}{m^2}} = \unit{\frac{N}{m}}`. Die Oberflächenspannung ist
-allgemein temperaturabhängig; am Gefrierpunkt ist sie am größten, mit
-zunehmender Temperatur wird sie geringer. Gelöste Stoffe oder Verunreinigungen
-können ebenfalls eine starke Verringerung der Oberflächenspannung bewirken,
-beispielsweise hat eine Seifenlösung eine deutlich geringere
-Oberflächenspannung als reines Wasser.
+\unit{\frac{N \cdot m}{m^2}} = \unit{\frac{N}{m}}`; die Oberflächenspannung ist
+also eigentlich eine Energiemenge je Fläche.
+
+Die Oberflächenspannung eines Materials ist allgemein temperaturabhängig; am
+Gefrierpunkt ist sie am größten, mit zunehmender Temperatur wird sie geringer.
+Gelöste Stoffe oder Verunreinigungen können ebenfalls eine starke Verringerung
+der Oberflächenspannung bewirken, beispielsweise hat eine Seifenlösung eine
+deutlich geringere Oberflächenspannung als reines Wasser.
 
 ..  In einem Tropfen einer Flüssigkeit mit dem Radius :math:`r` bewirkt die
 ..  Oberflächenspannung einen Binnendruck :math:`p = \frac{2 \cdot \sigma}{r}`
@@ -1017,8 +1225,8 @@ Oberflächenspannung einer Flüssigkeit zu bestimmen.
 
 .. [#] Das Wasser kann gegebenenfalls sogar "nach hinten losgehen". Eine
     derartige Erfahrung hat vermutlich jedes Kind schon einmal gemacht, wenn es
-    versucht
-    hat, mit einem Finger die Öffnung eines Gartenschlauchs abzudichten...
+    versucht hat, mit einem Finger die Öffnung eines Gartenschlauchs
+    abzudichten... ;-)
 
 .. [#] Da der (Kolben-)Druck in einer ruhenden Flüssigkeit in alle Richtungen
     gleich groß ist, wird er durch eine skalare Größe angegeben. In Festkörpern
@@ -1069,7 +1277,7 @@ Oberflächenspannung einer Flüssigkeit zu bestimmen.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zur Mechanik der
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zur Mechanik der
     Flüssigkeiten>` und :ref:`Übungsaufgaben <Aufgaben zur Mechanik der
     Flüssigkeiten>`.
 

@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="team-turmbau.svg">
+  <title
+     id="title48560">Team-Turmbau</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.67534224"
+     inkscape:cx="156.25628"
+     inkscape:cy="793.05452"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path8225"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8225-5"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <defs
+       id="defs5554">
+      <g
+         id="g5556">
+        <symbol
+           style="overflow:visible"
+           overflow="visible"
+           id="textext-9f790aa7-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             d="m 6.4375,-6.921875 c 0,-0.03125 -0.03125,-0.109375 -0.125,-0.109375 -0.046875,0 -0.046875,0.015625 -0.171875,0.15625 L 5.65625,-6.3125 c -0.25,-0.46875 -0.765625,-0.71875 -1.421875,-0.71875 -1.265625,0 -2.453125,1.15625 -2.453125,2.359375 0,0.796875 0.515625,1.265625 1.03125,1.40625 l 1.0625,0.28125 c 0.375,0.09375 0.921875,0.25 0.921875,1.0625 0,0.890625 -0.8125,1.828125 -1.796875,1.828125 -0.640625,0 -1.75,-0.21875 -1.75,-1.453125 0,-0.234375 0.0625,-0.484375 0.0625,-0.53125 0.015625,-0.046875 0.015625,-0.0625 0.015625,-0.078125 0,-0.09375 -0.0625,-0.109375 -0.109375,-0.109375 -0.046875,0 -0.078125,0.015625 -0.109375,0.046875 -0.03125,0.03125 -0.59375,2.3125 -0.59375,2.34375 0,0.046875 0.046875,0.09375 0.109375,0.09375 0.046875,0 0.0625,-0.015625 0.1875,-0.15625 L 1.296875,-0.5 c 0.421875,0.578125 1.109375,0.71875 1.6875,0.71875 1.359375,0 2.53125,-1.328125 2.53125,-2.5625 0,-0.6875 -0.34375,-1.03125 -0.484375,-1.171875 C 4.796875,-3.734375 4.640625,-3.78125 3.765625,-4 3.53125,-4.0625 3.1875,-4.171875 3.09375,-4.1875 2.828125,-4.28125 2.484375,-4.5625 2.484375,-5.09375 c 0,-0.8125 0.796875,-1.65625 1.75,-1.65625 0.8125,0 1.421875,0.4375 1.421875,1.546875 0,0.3125 -0.03125,0.5 -0.03125,0.5625 0,0 0,0.09375 0.109375,0.09375 0.109375,0 0.125,-0.03125 0.15625,-0.203125 z m 0,0"
+             id="path5559" />
+        </symbol>
+      </g>
+    </defs>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Team-Turmbau</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2016-02-23</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Zusammenwirken mehrerer Kraefte</rdf:li>
+            <rdf:li>Team-Turmbau</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 276.13129,426.06978 60.64052,-55.6218"
+       id="path48582"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48667"
+       d="m 276.1313,426.06978 -1e-5,-26.55297 56.9795,0 10e-6,26.55297 z"
+       style="color:#000000;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 362.66885,426.06978 -1e-5,-26.55297 56.9795,0 10e-6,26.55297 z"
+       id="path48665"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.99999997, 3.99999995;stroke-dashoffset:0"
+       id="rect5695"
+       width="689.36908"
+       height="707.49292"
+       x="27.362701"
+       y="172.43463"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 69.734567,297.44397 0,23.50221"
+       id="path48755"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.82037342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect48578"
+       width="431.0979"
+       height="303.39359"
+       x="973.49493"
+       y="961.14996"
+       rx="4.5478563"
+       ry="2.7908607"
+       transform="matrix(1,0,-0.73415018,0.67898712,0,0)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 419.64835,811.83342 -2e-5,-277.84616 75.35383,-69.11742 2e-5,277.84616 -75.35384,69.11741"
+       id="path48595"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,813.2216,45.794858)"
+       id="g4582" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#784421;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 419.64833,533.67745 0,278.15596 -143.51704,0 0,-385.76363 143.51704,0 -0.0533,75.57479"
+       id="rect48562"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#a05a2c;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 338.54044,533.98726 0,-32.40598 35.32994,0 z"
+       id="path48708"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#d38d5f;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:1"
+       d="m 276.1313,426.06978 -1e-5,-26.55297 56.97949,-1e-5 2e-5,26.55298 z"
+       id="path48827"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48829"
+       d="m 362.66885,426.06978 -1e-5,-26.55297 56.97949,-1e-5 2e-5,26.55298 z"
+       style="color:#000000;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#d38d5f;fill-opacity:1;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 419.64835,426.06978 -143.51706,0 0,385.76363 143.51704,0 0,-277.84616 -81.10789,0 0,-32.40597 81.05463,0.0633 z"
+       id="path48597"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 419.64835,811.83342 495.00218,742.716"
+       id="path48568"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 495.00218,356.95236 0,75.77621 m 0,32.08618 0,277.90125"
+       id="path48570"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="color:#000000;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 379.77535,383.72446 -10e-6,-26.55298 29.52809,-27.2621 2e-5,26.55298 z"
+       id="path48675"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 351.48512,356.95236 27.91213,0 m 29.69837,0 85.90656,0"
+       id="path48572"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48671"
+       d="m 465.47409,384.21447 -2e-5,-26.55298 29.52809,-27.2621 2e-5,26.55297 z"
+       style="color:#000000;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#cb7943;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 338.54044,533.98726 35.32994,-32.40598 45.77795,0 39.85682,-36.71144 35.49703,-0.0551 -75.35384,68.8627 z"
+       id="path48706"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 419.64833,533.98725 -81.10789,0 0,-32.40597 81.10789,0"
+       id="path48574"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48673"
+       d="m 333.1108,426.06978 -10e-6,-26.55297 31.88552,-29.06883 0,26.55299 z"
+       style="color:#000000;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48688"
+       d="m 276.66537,399.51681 31.35143,-29.06883 57.51356,0 -31.88553,29.06883 z"
+       style="color:#000000;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48576"
+       d="m 362.66887,399.5168 -2e-5,26.55298 -29.55807,1e-5 1e-5,-26.55298"
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path48580"
+       d="m 419.64835,426.06978 75.35383,-69.11742"
+       style="color:#000000;fill:none;stroke:#333333;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48584"
+       d="m 495.00215,464.86983 -35.497,0"
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 419.64833,533.98725 75.35382,-69.11742"
+       id="path48586"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path48588"
+       d="m 338.54044,533.98725 35.32994,-32.40597"
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path48590"
+       d="m 419.64833,501.58128 75.35382,-69.11742"
+       style="color:#000000;fill:none;stroke:#333333;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 419.64835,426.06978 -10e-6,-26.55297 31.88552,-29.06883 0,26.55299 z"
+       id="path48669"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#d38d5f;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 419.64833,501.58128 2e-5,-75.5115 75.35383,-69.11742 -3e-5,75.83129 z"
+       id="path48592"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 438.02269,330.39938 -1e-5,26.55298 -29.55807,10e-6 1e-5,-26.55298"
+       id="path48599"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48684"
+       d="m 409.39912,357.05847 28.62357,-26.65908 56.97949,0 -29.52811,27.2621 z"
+       style="color:#000000;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="color:#000000;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 323.3223,356.34935 28.62356,-26.65909 56.9795,0 -29.52811,27.2621 z"
+       id="path48690"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path48601"
+       d="m 333.11079,399.51681 31.3066,-28.71562 m 15.29274,-14.02707 28.75449,-26.37473"
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 362.66887,399.5168 75.35382,-69.11742"
+       id="path48603"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 419.64833,399.5168 0,26.55298"
+       id="path48605"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48607"
+       d="m 495.00218,330.39938 0,26.55298"
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 276.13129,399.5168 31.88551,-29.06882 m 14.74415,-13.70168 28.72417,-26.34692"
+       id="path48613"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48704"
+       d="m 451.11445,397.62228 0.11159,-14.02911 14.66744,0.14959 z"
+       style="color:#000000;fill:#a05a2c;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#d38d5f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 362.66887,399.51681 31.35144,-29.06883 57.51355,0 -31.88552,29.06883 z"
+       id="path48682"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48702"
+       d="m 408.46461,370.47368 0,-13.52131 56.91381,0.11301 0.0657,25.80038 -14.73313,0 -0.6257,-12.2301 z"
+       style="color:#000000;fill:#cb7943;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 419.64833,399.5168 31.39927,-28.8006 m 14.18841,-13.01416 29.76615,-27.30266"
+       id="path48615"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 276.13129,399.5168 56.97949,0"
+       id="path48617"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path48619"
+       d="m 351.48513,330.39939 56.97949,0"
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 438.02269,330.39938 56.97949,0"
+       id="path48621"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path48623"
+       d="m 362.66884,399.5168 56.97949,0"
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#cb7943;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 322.86153,370.57978 0,-13.52131 56.91381,0.11301 0.0657,25.80039 -14.73313,0 -0.62569,-12.23011 z"
+       id="path48694"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#a05a2c;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 364.99631,397.00097 0.11158,-14.0291 14.66745,0.14959 z"
+       id="path48696"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#a05a2c;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 394.02031,370.44798 14.4443,-13.49561 0,13.4956 -14.4443,10e-6"
+       id="path48698"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(0.81448003,0,0,0.81448003,-71.266868,140.44997)"
+       id="g48640"
+       style="stroke:#784421;stroke-width:3.68333149;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         style="color:#000000;fill:none;stroke:#784421;stroke-width:3.68333149;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 483.90185,282.54813 0,-16.60115 69.60981,0 m 35.73006,0 69.75655,0.74037"
+         id="path48646"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path48659"
+         d="m 535.46083,314.95553 0,-32.60116"
+         style="color:#000000;fill:none;stroke:#784421;stroke-width:3.68333149;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="color:#000000;fill:none;stroke:#784421;stroke-width:3.68333149;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 553.77932,297.94652 0,-31.86079"
+         id="path48661"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path48663"
+         d="m 589.00336,282.3863 0,-16.56959"
+         style="color:#000000;fill:none;stroke:#784421;stroke-width:3.68333173;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path48825"
+         d="m 426.52754,350.50281 -10e-6,-32.42646 m 105.33987,0 69.75655,0.74037"
+         style="color:#000000;fill:none;stroke:#784421;stroke-width:3.68333149;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       style="stroke:#784421;stroke-width:3.68333149;stroke-opacity:1"
+       id="g48635"
+       transform="matrix(0.81448003,0,0,0.81448003,71.345671,141.05299)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         inkscape:connector-curvature="0"
+         id="path48629"
+         d="m 466.78638,314.2471 17.11547,-15.69897"
+         style="color:#000000;fill:none;stroke:#784421;stroke-width:3.68333149;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path48631"
+         d="m 466.78638,314.2471 0,-32.60116"
+         style="color:#000000;fill:none;stroke:#784421;stroke-width:3.68333149;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path48633"
+         d="m 483.90185,298.54813 0,-32.60115"
+         style="color:#000000;fill:none;stroke:#784421;stroke-width:3.68333149;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 451.53386,370.44798 -57.51355,0 m -29.13295,0 -56.87056,0"
+       id="path48648"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 333.11078,426.06979 75.35383,-69.11742"
+       id="path48657"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path48686"
+       d="m 365.10789,382.97186 14.73313,0"
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#a05a2c;stroke:#784421;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 362.66885,426.06978 -29.55807,1e-5 29.55806,-26.55299 z"
+       id="path48692"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 451.53386,383.72448 13.10417,0"
+       id="path48700"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#917c6f;fill-opacity:1;stroke:#6c5d53;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 175.04259,257.48241 a 4.0004,4.0004 0 0 0 -2.40625,1.0625 c -0.0693,0.038 -0.0685,0.0475 -0.15625,0.0937 -0.55268,0.29136 -1.43456,0.73223 -2.5,1.25 -0.62111,0.30184 -1.55466,0.74426 -2.28125,1.09375 -1.70884,-0.26945 -3.52675,-0.66645 -5.03125,-0.875 -0.59032,-0.0818 -1.29914,-0.62596 -3.25,0.6875 -0.97543,0.65673 -1.82919,2.32137 -1.8125,3.46875 0.0123,0.84379 0.24227,1.17931 0.4375,1.5625 -1.17995,0.6146 -2.57989,1.25602 -3.53125,1.8125 -1.0335,0.60452 -1.83479,1.09677 -2.6875,1.84375 -0.42636,0.37349 -0.96219,0.65642 -1.5,2.09375 -0.26891,0.71867 -0.45086,2.01733 0.0937,3.21875 0.54461,1.20142 1.53607,1.84305 2.1875,2.125 1.97435,0.85454 4.17792,1.72429 5.75,2.4375 0.25804,0.11707 0.31405,0.17468 0.53125,0.28125 -1.28591,35.39686 -1.44453,58.51496 -1.53125,75.125 0.006,0.6177 -0.042,1.22659 -0.0312,1.84375 -0.0593,11.47971 -0.11122,20.40797 -0.53125,26.59375 -0.52207,7.68856 -1.53144,12.44735 -3.875,18.34375 -2.34356,5.8964 -6.11963,12.97263 -12.0625,24.375 -4.76318,9.13894 -12.60892,17.30062 -19.6875,26.15626 -7.07859,8.85564 -13.50288,18.63542 -14.09375,31 -0.76848,16.08112 4.71585,29.80468 14.53125,39.34375 9.81539,9.53907 23.80267,14.89625 39.75,15.21875 40.39441,0.8169 70.8463,-29.83954 67.71875,-70.21875 -1.19187,-15.38795 -12.55331,-25.02871 -24.15625,-33.40626 -11.60294,-8.37755 -23.78707,-16.04564 -29.625,-26.6875 -9.00637,-16.41755 -10.85811,-44.88784 -9.625,-71.03125 1.1812,-25.04285 4.85149,-47.23957 6.46875,-56.21875 0.0298,-0.0121 0.0321,-0.019 0.0625,-0.0312 1.04498,-0.41975 2.5489,-1.01439 4.09375,-1.625 0.0102,-0.004 0.0211,0.004 0.0312,0 a 4.0004,4.0004 0 0 0 4.4375,-2 c 0.52477,-0.25226 1.09731,-0.44712 1.59375,-0.71875 1.68763,-0.9234 3.43178,-1.44629 4.59375,-4.3125 0.38742,-0.95566 0.40738,-2.23171 0.0937,-3.1875 -0.31363,-0.95579 -0.82529,-1.5801 -1.28125,-2.03125 -0.91191,-0.9023 -1.72863,-1.30173 -2.59375,-1.6875 -1.19888,-0.5346 -2.69394,-0.89162 -4.15625,-1.28125 0.16247,-0.35835 0.31605,-0.78985 0.34375,-1.5 a 4.0004,4.0004 0 0 0 -4.3125,-4.21875 z m -3.21875,2.09375 a 4.0004,4.0004 0 0 0 -0.15625,0.34375 c 0.0563,-0.12479 0.0959,-0.25013 0.15625,-0.34375 z m -7.28125,11.875 c 0.55592,0.35866 0.94684,0.66373 1.53125,1.03125 0.68092,0.42821 0.7554,0.42482 1.4375,0.84375 -0.0606,0.0293 -0.1272,0.0635 -0.1875,0.0937 -0.29436,0.14769 -0.56367,0.30402 -0.96875,0.59375 -0.1653,0.11823 -0.47508,0.24724 -0.75,0.46875 -0.50676,-0.51928 -0.92779,-0.79957 -1.34375,-1.0625 -0.5638,-0.35639 -1.17956,-0.6169 -1.78125,-0.90625 0.72562,-0.37308 1.27751,-0.67189 2.0625,-1.0625 z m -1.90625,125.625 c 1.50012,5.07228 3.3292,9.85181 5.65625,14.09375 7.24346,13.20397 20.68272,21.21759 31.9375,29.34375 11.25478,8.12617 19.96653,15.80214 20.875,27.53126 2.80185,36.17405 -23.22132,62.32931 -59.59375,61.59375 -14.2607,-0.28839 -26.17818,-5.03306 -34.34375,-12.96875 -8.16558,-7.93569 -12.7675,-19.08886 -12.09375,-33.1875 0.4686,-9.80599 5.59364,-17.96155 12.34375,-26.40625 6.7501,-8.4447 15.03578,-16.92479 20.53125,-27.46876 5.92107,-11.36055 9.78834,-18.50708 12.40625,-25.09375 0.99531,-2.50421 1.64401,-4.95194 2.28125,-7.4375 z"
+       id="path48763"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path48823"
+       d="m 256.63027,247.30673 0,21.69082"
+       style="color:#000000;fill:none;stroke:#784421;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g48738"
+       transform="matrix(0.96592583,0.25881905,-1.0242843,0.76082004,412.52533,-32.213818)"
+       style="fill:#d38d5f;fill-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path48757"
+         sodipodi:cx="122.90065"
+         sodipodi:cy="359.38022"
+         sodipodi:rx="66.632881"
+         sodipodi:ry="66.632881"
+         d="m 189.53353,359.38022 c 0,36.80032 -29.83256,66.63288 -66.63288,66.63288 -36.800324,0 -66.632881,-29.83256 -66.632881,-66.63288 0,-36.80033 29.832557,-66.63288 66.632881,-66.63288 36.80032,0 66.63288,29.83255 66.63288,66.63288 z"
+         transform="translate(20.485688,19.318518)" />
+      <path
+         d="m 189.53353,359.38022 c 0,36.80032 -29.83256,66.63288 -66.63288,66.63288 -36.800324,0 -66.632881,-29.83256 -66.632881,-66.63288 0,-36.80033 29.832557,-66.63288 66.632881,-66.63288 36.80032,0 66.63288,29.83255 66.63288,66.63288 z"
+         sodipodi:ry="66.632881"
+         sodipodi:rx="66.632881"
+         sodipodi:cy="359.38022"
+         sodipodi:cx="122.90065"
+         id="path48710"
+         style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.2857143,0,0,1.2857143,-34.93983,-88.013397)"
+         d="m 128.26175,308.96753 c 0,3.03587 -2.46106,5.49693 -5.49693,5.49693 -3.03588,0 -5.49694,-2.46106 -5.49694,-5.49693 0,-3.03587 2.46106,-5.49693 5.49694,-5.49693 3.03587,0 5.49693,2.46106 5.49693,5.49693 z"
+         sodipodi:ry="5.4969325"
+         sodipodi:rx="5.4969325"
+         sodipodi:cy="308.96753"
+         sodipodi:cx="122.76482"
+         id="path48712"
+         style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:1.16666663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:1.16666663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path48714"
+         sodipodi:cx="122.76482"
+         sodipodi:cy="308.96753"
+         sodipodi:rx="5.4969325"
+         sodipodi:ry="5.4969325"
+         d="m 128.26175,308.96753 c 0,3.03587 -2.46106,5.49693 -5.49693,5.49693 -3.03588,0 -5.49694,-2.46106 -5.49694,-5.49693 0,-3.03587 2.46106,-5.49693 5.49694,-5.49693 3.03587,0 5.49693,2.46106 5.49693,5.49693 z"
+         transform="matrix(1.2857143,0,0,1.2857143,15.209816,-37.863751)" />
+      <path
+         transform="matrix(1.2857143,0,0,1.2857143,-85.089475,-37.863751)"
+         d="m 128.26175,308.96753 c 0,3.03587 -2.46106,5.49693 -5.49693,5.49693 -3.03588,0 -5.49694,-2.46106 -5.49694,-5.49693 0,-3.03587 2.46106,-5.49693 5.49694,-5.49693 3.03587,0 5.49693,2.46106 5.49693,5.49693 z"
+         sodipodi:ry="5.4969325"
+         sodipodi:rx="5.4969325"
+         sodipodi:cy="308.96753"
+         sodipodi:cx="122.76482"
+         id="path48718"
+         style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:1.16666663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:1.16666663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path48720"
+         sodipodi:cx="122.76482"
+         sodipodi:cy="308.96753"
+         sodipodi:rx="5.4969325"
+         sodipodi:ry="5.4969325"
+         d="m 128.26175,308.96753 c 0,3.03587 -2.46106,5.49693 -5.49693,5.49693 -3.03588,0 -5.49694,-2.46106 -5.49694,-5.49693 0,-3.03587 2.46106,-5.49693 5.49694,-5.49693 3.03587,0 5.49693,2.46106 5.49693,5.49693 z"
+         transform="matrix(1.2857143,0,0,1.2857143,-34.93983,12.285894)" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:1.16666663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path48722"
+         sodipodi:cx="122.76482"
+         sodipodi:cy="308.96753"
+         sodipodi:rx="5.4969325"
+         sodipodi:ry="5.4969325"
+         d="m 128.26175,308.96753 c 0,3.03587 -2.46106,5.49693 -5.49693,5.49693 -3.03588,0 -5.49694,-2.46106 -5.49694,-5.49693 0,-3.03587 2.46106,-5.49693 5.49694,-5.49693 3.03587,0 5.49693,2.46106 5.49693,5.49693 z"
+         transform="matrix(1.2857143,0,0,1.2857143,-78.370702,-62.93858)" />
+      <path
+         transform="matrix(1.2857143,0,0,1.2857143,-60.014658,5.5671096)"
+         d="m 128.26175,308.96753 c 0,3.03587 -2.46106,5.49693 -5.49693,5.49693 -3.03588,0 -5.49694,-2.46106 -5.49694,-5.49693 0,-3.03587 2.46106,-5.49693 5.49694,-5.49693 3.03587,0 5.49693,2.46106 5.49693,5.49693 z"
+         sodipodi:ry="5.4969325"
+         sodipodi:rx="5.4969325"
+         sodipodi:cy="308.96753"
+         sodipodi:cx="122.76482"
+         id="path48724"
+         style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:1.16666663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:1.16666663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path48726"
+         sodipodi:cx="122.76482"
+         sodipodi:cy="308.96753"
+         sodipodi:rx="5.4969325"
+         sodipodi:ry="5.4969325"
+         d="m 128.26175,308.96753 c 0,3.03587 -2.46106,5.49693 -5.49693,5.49693 -3.03588,0 -5.49694,-2.46106 -5.49694,-5.49693 0,-3.03587 2.46106,-5.49693 5.49694,-5.49693 3.03587,0 5.49693,2.46106 5.49693,5.49693 z"
+         transform="matrix(1.2857143,0,0,1.2857143,8.4910312,-12.788934)" />
+      <path
+         transform="matrix(1.2857143,0,0,1.2857143,-9.8650129,-81.294624)"
+         d="m 128.26175,308.96753 c 0,3.03587 -2.46106,5.49693 -5.49693,5.49693 -3.03588,0 -5.49694,-2.46106 -5.49694,-5.49693 0,-3.03587 2.46106,-5.49693 5.49694,-5.49693 3.03587,0 5.49693,2.46106 5.49693,5.49693 z"
+         sodipodi:ry="5.4969325"
+         sodipodi:rx="5.4969325"
+         sodipodi:cy="308.96753"
+         sodipodi:cx="122.76482"
+         id="path48728"
+         style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:1.16666663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.2857143,0,0,1.2857143,-60.014655,-81.29462)"
+         d="m 128.26175,308.96753 c 0,3.03587 -2.46106,5.49693 -5.49693,5.49693 -3.03588,0 -5.49694,-2.46106 -5.49694,-5.49693 0,-3.03587 2.46106,-5.49693 5.49694,-5.49693 3.03587,0 5.49693,2.46106 5.49693,5.49693 z"
+         sodipodi:ry="5.4969325"
+         sodipodi:rx="5.4969325"
+         sodipodi:cy="308.96753"
+         sodipodi:cx="122.76482"
+         id="path48730"
+         style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:1.16666663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:1.16666663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path48732"
+         sodipodi:cx="122.76482"
+         sodipodi:cy="308.96753"
+         sodipodi:rx="5.4969325"
+         sodipodi:ry="5.4969325"
+         d="m 128.26175,308.96753 c 0,3.03587 -2.46106,5.49693 -5.49693,5.49693 -3.03588,0 -5.49694,-2.46106 -5.49694,-5.49693 0,-3.03587 2.46106,-5.49693 5.49694,-5.49693 3.03587,0 5.49693,2.46106 5.49693,5.49693 z"
+         transform="matrix(1.2857143,0,0,1.2857143,8.4910348,-62.938576)" />
+      <path
+         transform="matrix(1.2857143,0,0,1.2857143,-9.8650092,5.5671135)"
+         d="m 128.26175,308.96753 c 0,3.03587 -2.46106,5.49693 -5.49693,5.49693 -3.03588,0 -5.49694,-2.46106 -5.49694,-5.49693 0,-3.03587 2.46106,-5.49693 5.49694,-5.49693 3.03587,0 5.49693,2.46106 5.49693,5.49693 z"
+         sodipodi:ry="5.4969325"
+         sodipodi:rx="5.4969325"
+         sodipodi:cy="308.96753"
+         sodipodi:cx="122.76482"
+         id="path48734"
+         style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:1.16666663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:1.16666663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path48736"
+         sodipodi:cx="122.76482"
+         sodipodi:cy="308.96753"
+         sodipodi:rx="5.4969325"
+         sodipodi:ry="5.4969325"
+         d="m 128.26175,308.96753 c 0,3.03587 -2.46106,5.49693 -5.49693,5.49693 -3.03588,0 -5.49694,-2.46106 -5.49694,-5.49693 0,-3.03587 2.46106,-5.49693 5.49694,-5.49693 3.03587,0 5.49693,2.46106 5.49693,5.49693 z"
+         transform="matrix(1.2857143,0,0,1.2857143,-78.370699,-12.788931)" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:1.16666663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path48761"
+         sodipodi:cx="122.76482"
+         sodipodi:cy="308.96753"
+         sodipodi:rx="5.4969325"
+         sodipodi:ry="5.4969325"
+         d="m 128.26175,308.96753 c 0,3.03587 -2.46106,5.49693 -5.49693,5.49693 -3.03588,0 -5.49694,-2.46106 -5.49694,-5.49693 0,-3.03587 2.46106,-5.49693 5.49694,-5.49693 3.03587,0 5.49693,2.46106 5.49693,5.49693 z"
+         transform="matrix(1.2857143,0,0,1.2857143,-34.93983,-37.863752)" />
+    </g>
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#917c6f;fill-opacity:1;stroke:#6c5d53;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 141.82384,258.38866 a 4.0019526,4.0019526 0 1 0 -0.25,8 c 7.25332,0.57209 13.48958,1.22697 18.1875,4 l -0.15625,3.9375 a 4.0030506,4.0030506 0 1 0 8,0.3125 l 0.25,-6.3125 a 4.0004,4.0004 0 0 0 -1.5625,-3.34375 c -7.26471,-5.58706 -16.09475,-5.9316 -24.09375,-6.5625 a 4.0004,4.0004 0 0 0 -0.375,-0.0312 z"
+       id="path48779"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#917c6f;fill-opacity:1;stroke:#6c5d53;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 176.19884,254.76366 c -0.0836,0.008 -0.16702,0.0182 -0.25,0.0312 -5.68153,0.54677 -10.33202,2.91903 -13.53125,5.78125 -0.0571,0.0511 -0.10003,0.10489 -0.15625,0.15625 -1.29265,0.23014 -2.59841,0.62521 -3.78125,1.34375 -2.70082,1.64067 -4.78155,4.14573 -5.15625,7.28125 -0.3747,3.13552 2.54857,8.74815 2.54857,8.74815 0.44168,1.47421 4.9712,1.26712 6.43967,-0.10737 0.75067,0.26676 1.02002,0.4494 1.85148,0.46875 1.83977,0.0428 5.14765,-1.35529 6.45917,-3.02351 1.31152,-1.66822 1.32963,-4.28884 1.20111,-6.46102 -0.0853,-1.44218 -0.15208,-2.55492 -0.86324,-3.91986 1.70367,-0.91368 3.38498,-2.07242 5.73824,-2.29889 2.09452,-0.13073 3.88125,-2.15551 3.75034,-4.25002 -0.13091,-2.09451 -2.15584,-3.88107 -4.25034,-3.74998 z"
+       id="path48781"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccssccsscccscc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:#917c6f;fill-opacity:1;stroke:#6c5d53;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 162.75166,260.59543 c 2.53894,0.44482 4.69475,1.22959 8.25437,4.05599"
+       id="path48795"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cssssc"
+       inkscape:connector-curvature="0"
+       id="path48799"
+       d="m 161.85735,277.70056 c -1.65278,-2.22764 -6.60403,-8.39352 -1.1317,-10.75283 1.63033,-0.7029 4.96608,-0.65064 5.97748,1.5907 1.31873,2.92243 -1.28558,4.62389 -2.85519,5.21438 -0.3638,0.13687 -0.87967,0.0827 -1.31014,-0.068 -0.43739,-0.15317 -0.32389,-0.4986 -0.33584,-0.75215"
+       style="color:#000000;fill:#917c6f;fill-opacity:1;stroke:#6c5d53;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path48801"
+       d="m 158.67965,269.10963 c 2.53894,0.44482 4.32456,3.17305 4.55254,4.70381"
+       style="color:#000000;fill:none;stroke:#6c5d53;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#917c6f;fill-opacity:1;stroke:#6c5d53;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 282.27273,193.5128 a 4.0004,4.0004 0 0 0 -1.44101,0.39362 c 0,0 -10.8905,4.84299 -22.92073,12.23689 -12.03023,7.3939 -25.43507,16.95263 -30.53314,28.57698 -1.48387,3.38345 -0.75022,6.26263 -0.26425,8.74801 0.48596,2.48539 1.14797,4.51024 1.14797,4.51024 a 4.0025631,4.0025631 0 0 0 7.58524,-2.55855 c 0,0 -0.50305,-1.57028 -0.87578,-3.47656 -0.37273,-1.90628 -0.1579,-4.20353 -0.24615,-4.00231 3.52594,-8.03968 15.84893,-17.8946 27.37645,-24.97954 11.52752,-7.08493 22.01041,-11.7761 22.01041,-11.7761 a 4.0004,4.0004 0 0 0 -1.83901,-7.67268 z"
+       id="path48803"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#917c6f;fill-opacity:1;stroke:#6c5d53;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 83.316097,204.73645 a 4.0004,4.0004 0 0 0 -0.53125,7.96875 c 0,0 11.31592,1.9014 24.250003,5.875 12.93408,3.9736 27.32372,10.44273 32.75,17.34375 -0.13582,-0.17273 0.6649,1.9986 0.78125,3.9375 0.11635,1.9389 0,3.59374 0,3.59374 a 4.0004,4.0004 0 1 0 7.96876,0.5625 c 0,0 0.15169,-2.12834 0,-4.65624 -0.15169,-2.5279 -0.15387,-5.50199 -2.4375,-8.40625 -7.84573,-9.978 -23.22063,-15.85311 -36.71876,-20 -13.498133,-4.14689 -25.281253,-6.15625 -25.281253,-6.15625 a 4.0004,4.0004 0 0 0 -0.78125,-0.0625 z"
+       id="path48805"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#917c6f;fill-opacity:1;stroke:#6c5d53;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 134.32384,306.29491 c -0.79227,-0.0813 -1.61701,-0.0689 -2.53125,0.0625 -12.56407,1.8056 -25.34713,12.16497 -35.687503,21.78125 -10.34038,9.61628 -17.96875,18.8125 -17.96875,18.8125 a 4.0072261,4.0072261 0 1 0 6.1875,5.09375 c 0,0 7.31046,-8.84806 17.218753,-18.0625 9.90828,-9.21444 22.6854,-18.46996 31.375,-19.71875 -0.21749,0.0312 2.04394,0.44381 3.78125,1.3125 1.73731,0.86869 3.125,1.8125 3.125,1.8125 a 4.0043921,4.0043921 0 1 0 4.5,-6.625 c 0,0 -1.76618,-1.21117 -4.03125,-2.34375 -1.69881,-0.84944 -3.59194,-1.88104 -5.96875,-2.125 z"
+       id="path48807"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dynamik/team-turmbau.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

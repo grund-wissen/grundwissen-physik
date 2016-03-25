@@ -287,7 +287,7 @@ verlaufende warme Fläche kann hierbei näherungsweise :math:`h _{\rm{cv}} \appr
 \unit[9]{\frac{W}{m^2 \cdot K}}` angenommen werden, für eine vertikale ist
 :math:`h _{\rm{cv}} \approx \unit[5,5]{\frac{W}{m^2 \cdot K}}`.
 
-.. index:: Wärmestrahlung
+.. index:: Thermische Strahlung, Wärmestrahlung
 .. _Wärmestrahlung:
 
 Die Wärmestrahlung

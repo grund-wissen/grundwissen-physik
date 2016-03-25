@@ -13,18 +13,19 @@ Körper durch eine warme Umgebung bis zum thermischen Gleichgewicht erwärmt.
 
 .. rubric:: Der "nullte" Hauptsatz
 
-Steht ein System :math:`\rm{A}` im thermischen Gleichgewicht mit einem System
-:math:`\rm{B}`, und steht gleichzeitig das System :math:`\rm{B}` im thermischen
-Gleichgewicht mit einem weiteren System :math:`\rm{C}`, so stehen auch die
-System :math:`\rm{A}` und :math:`\rm{C}` im thermischen Gleichgewicht. Diese
-Feststellung mag trivial klingen, stellt jedoch eine wichtige Voraussetzung
-beispielsweise für Temperatur-Messverfahren dar.
+Steht ein System :math:`\mathrm{A}` im thermischen Gleichgewicht mit einem
+System :math:`\mathrm{B}`, und steht gleichzeitig das System :math:`\mathrm{B}`
+im thermischen Gleichgewicht mit einem weiteren System :math:`\mathrm{C}`, so
+stehen auch die System :math:`\mathrm{A}` und :math:`\mathrm{C}` im thermischen
+Gleichgewicht. Diese Feststellung mag trivial klingen, stellt jedoch eine
+wichtige Voraussetzung beispielsweise für Temperatur-Messverfahren dar.
 
 Da historisch gesehen zunächst die anderen drei Hauptsätze formuliert wurden
 und diese implizit auf die obige Feststellung aufbauen, wurde der genannte
 Hauptsatz im Nachhinein als "nullter" Hauptsatz bezeichnet.
 
 
+.. index:: Innere Energie
 .. _Erster Hauptsatz:
 
 Der erste Hauptsatz der Wärmelehre
@@ -104,18 +105,19 @@ Verringerung der inneren Energie :math:`U` des Systems einher.
 
 Die Energiemenge, die beim Verbrennen von Heizstoffen wie Holz, Benzin, Diesel,
 Kohle oder Erdgas freigesetzt wird, heißt Verbrennungswärme :math:`Q
-_{\rm{H}}`. Sie lässt sich anhand der Masse :math:`m` des Brennstoffs sowie
-dessen Heizwert :math:`H _{\rm{i}}` berechnen:
+_{\mathrm{H}}`. Sie lässt sich anhand der Masse :math:`m` des Brennstoffs sowie
+dessen Heizwert :math:`H _{\mathrm{i}}` berechnen:
 
 .. math::
 
-    Q _{\rm{H}} = m \cdot H _{\rm{i}}
+    Q _{\mathrm{H}} = m \cdot H _{\mathrm{i}}
 
-Der Heizwert :math:`H _{\rm{i}}` ist eine materialspezifische Größe und wird
-üblicherweise in :math:`\unit{\frac{MJ}{kg}}` angegeben. Für verschiedene
-Materialien ist in Tabellenwerken neben dem Heizwert :math:`H _{\rm{i}}` oftmals
-zusätzlich der Brennwert :math:`H _{\rm{s}}` des Materials angegeben. Letzterer
-gibt an, wie viel Wärme genutzt werden kann, wenn auch die
+Der Heizwert :math:`H _{\mathrm{i}}` ist eine materialspezifische Größe und wird
+bei Festkörpern und Flüssigkeiten üblicherweise in :math:`\unit{\frac{MJ}{kg}}`,
+bei Gasen in :math:`\unit{\frac{MJ}{m^3}}` angegeben. Für verschiedene
+Materialien ist in Tabellenwerken neben dem Heizwert :math:`H _{\mathrm{i}}`
+oftmals zusätzlich der Brennwert :math:`H _{\mathrm{s}}` des Materials
+angegeben. Letzterer gibt an, wie viel Wärme genutzt werden kann, wenn auch die
 :ref:`Verdampfungswärme <Verdampfungswärme>` des im Brennstoff enthaltenen oder
 bei der Verbrennung entstehenden Wasseranteils mit genutzt werden kann. [#]_
 Hierfür muss der bei der Verbrennung frei werdende Wasserdampf wieder an einer
@@ -125,6 +127,60 @@ einzelnen Körperzellen eines Organismus hingegen wird auch dieser Wärmeanteil
 genutzt, so dass der Energiegehalt von Nahrungsmitteln üblicherweise als
 Brennwert (ebenfalls in :math:`\unit{\frac{MJ}{kg}}`) angegeben wird.
 
+.. list-table::
+    :name: tab-heizwert-beispiele
+    :widths: 60 40 60 40
+
+    * - Feste und flüssige Brennstoffe 
+      - Durchschnittlicher Heizwert in :math:`\unit[]{MJ/kg}`
+      - Gasförmige Brennstoffe 
+      - Durchschnittlicher Heizwert in :math:`\unit[]{MJ/m^3}`
+    * - Benzin
+      - :math:`41`
+      - Ammoniak 
+      - :math:`14`
+    * - Braunkohle
+      - :math:`12`
+      - Butan
+      - :math:`124`
+    * - Diesel
+      - :math:`42`
+      - Methan
+      - :math:`36`
+    * - Ethanol
+      - :math:`27`
+      - Propan
+      - :math:`94`
+    * - Heizöl
+      - :math:`42`
+      - Stadtgas
+      - :math:`20`
+    * - Holz
+      - :math:`12`
+      - Wasserstoff
+      - :math:`11`
+    * - Petroleum
+      - :math:`42`
+      -
+      -
+    * - Steinkohle
+      - :math:`30`
+      -
+      -
+
+Da es sich bei vielen Brennstoffen um Substanzen aus dem Bereich der organischen
+Chemie und/oder um Substanzen mit unterschiedlich möglichen Zusammensetzungen
+handelt, können die tatsächlichen Heizwerte von den angegebenen
+Durchschnittswerten geringfügig abweichen. Bei Nahrungsmitteln wird der
+Brennwert aus den Anteilen der drei Energieträger berechnet: Kohlenhydrate haben
+einen Brennwert von :math:`\unit[17,2]{\frac{MJ}{kg}}`, Proteine ebenso; Fette
+haben sogar einen Brennwert von :math:`\unit[38,9]{\frac{MJ}{kg}}`. Die
+Brennwerte von Lebensmitteln sind also ähnlich groß wie die Heizwerte der
+übrigen gängigen Brennstoffe.
+
+.. Wasserstoff fl
+
+.. Ethanol Brennwert 29,0
 
 .. _Zweiter Hauptsatz:
 
@@ -146,6 +202,20 @@ wäre es nach dem ersten Hauptsatz möglich, dass ein Schiff auf einem Ozean in
 der Lage ist mechanische Arbeit zu verrichten alleinig dadurch, dass es dem
 Ozean Wärme entzieht.
 
+.. figure:: ../pics/waermelehre/zweiter-hauptsatz-waermestrom.png
+    :name: fig-waermestrom-zweiter-hauptsatz
+    :alt:  fig-waermestrom-zweiter-hauptsatz
+    :align: center
+    :width: 55%
+
+    Richtung des Wärmestroms nach dem zweiten Hauptsatz: Gegenstand I erwärmt
+    Gegenstand II.
+
+    .. only:: html
+
+        :download:`SVG: Wärmestrom (2. Hauptsatz)
+        <../pics/waermelehre/zweiter-hauptsatz-waermestrom.png>`
+
 Der zweite Hauptsatz schließt die Existenz eines solchen "Perpetuum Mobiles"
 aus, indem er vorgibt, in welche *Richtung* eine Übertragung von Wärme
 stattfindet. Diese Tatsache wurde ursprünglich von `Rudolf Clausius
@@ -158,35 +228,36 @@ stattfindet. Diese Tatsache wurde ursprünglich von `Rudolf Clausius
 Möchte man mittels einer Maschine Wärme in mechanische Arbeit umwandeln
 ("Wärmekraftmaschine"), so benötigt man zunächst zwei unterschiedlich warme
 Systeme, so dass überhaupt ein Wärmestrom auftritt. Bringt man diese beiden
-Systeme in Kontakt, so fließt eine Wärmemenge :math:`Q _{\rm{H}}` vom heißen
+Systeme in Kontakt, so fließt eine Wärmemenge :math:`Q _{\mathrm{H}}` vom heißen
 System in Richtung des kälteren. Von diesem Wärmestrom kann ein (zunächst nicht
 näher bestimmter) Anteil :math:`W` an Arbeit "abgezapft" werden, die restliche
-Wärme :math:`Q _{\rm{K}}` fließt zum kälteren System.
+Wärme :math:`Q _{\mathrm{K}}` fließt zum kälteren System.
 
 Quantitativ gilt hierbei:
 
 .. math::
 
-   Q  _{\rm{H}} = W + Q _{\rm{K}}
+   Q  _{\mathrm{H}} = W + Q _{\mathrm{K}}
 
 Bei einer Wärmekraftmaschine ist man in erster Linie am Anteil der mechanischen
 Arbeit :math:`W` interessiert. Man definiert den :ref:`Wirkungsgrad
 <Wirkungsgrad>` :math:`\eta` somit als Quotient der verrichteten mechanischen
-Arbeit :math:`W = Q _{\rm{H}} - Q _{\rm{k}}` und der dafür investierten
-Wärmemenge :math:`Q _{\rm{H}}`:
+Arbeit :math:`W = Q _{\mathrm{H}} - Q _{\mathrm{k}}` und der dafür investierten
+Wärmemenge :math:`Q _{\mathrm{H}}`:
 
 .. math::
     :label: eqn-wirkungsgrad-waermekraftmaschine
 
-    \eta = \frac{W}{Q _{\rm{H}}} = \frac{Q _{\rm{H}} - Q _{\rm{K}}}{Q _{\rm{H}}}
-    = 1 - \frac{Q _{\rm{K}}}{Q _{\rm{H}}}
+    \eta = \frac{W}{Q _{\mathrm{H}}} = \frac{Q _{\mathrm{H}} - Q
+    _{\mathrm{K}}}{Q _{\mathrm{H}}} = 1 - \frac{Q _{\mathrm{K}}}{Q
+    _{\mathrm{H}}}
 
 Der so definierte Wirkungsgrad kann nicht größer als :math:`1` beziehungsweise
 :math:`100\%` sein; der maximale Wirkungsgrad von :math:`100\%` wird genau dann
-erreicht, wenn :math:`Q _{\rm{K}} = 0` ist, also keine Wärme an das kältere
+erreicht, wenn :math:`Q _{\mathrm{K}} = 0` ist, also keine Wärme an das kältere
 System fließt.
 
-.. index:: Carnot-Prozess
+.. index:: Carnot-Wirkungsgrad
 .. _Formulierung nach Carnot:
 .. _Carnot-Prozess:
 
@@ -200,14 +271,14 @@ beschreibt. Er kam zu folgendem Ergebnis:
 .. math::
     :label: eqn-carnotprozess
 
-    \eta _{\rm{max}} = 1 - \frac{T _{\rm{K}}}{T _{\rm{H}}}
+    \eta _{\mathrm{max}} = 1 - \frac{T _{\mathrm{K}}}{T _{\mathrm{H}}}
 
 Auch bei dieser Formulierung des zweiten Hauptsatzes kann der Wirkungsgrad einer
 Wärmemaschine nicht größer als :math:`100\%` sein; dieser wird genau dann
-erreicht, wenn :math:`T _{\rm{K}} = \unit[0]{K}` ist. Bei jeder anderen
-Temperatur ist :math:`\eta _{\rm{max}} < 1`. Der Wirkungsgrad ist umso größer,
-desto höher die Temperatur :math:`T _{\rm{H}}` des heißen Systems und desto
-niedriger die Temperatur :math:`T _{\rm{K}}` des kalten Systems ist.
+erreicht, wenn :math:`T _{\mathrm{K}} = \unit[0]{K}` ist. Bei jeder anderen
+Temperatur ist :math:`\eta _{\mathrm{max}} < 1`. Der Wirkungsgrad ist umso größer,
+desto höher die Temperatur :math:`T _{\mathrm{H}}` des heißen Systems und desto
+niedriger die Temperatur :math:`T _{\mathrm{K}}` des kalten Systems ist.
 
 Carnot hat bei seiner Formulierung zwischen zwei Arten von Prozessen
 unterschieden:
@@ -226,12 +297,12 @@ unterschieden:
   durch Reibungsarbeit erzeugte Wärme nicht wieder zurück in mechanische
   Arbeit umgewandelt werden kann.
 
-Der maximale Wirkungsgrad :math:`\eta _{\rm{max}}` nach Gleichung
+Der maximale Wirkungsgrad :math:`\eta _{\mathrm{max}}` nach Gleichung
 :eq:`eqn-carnotprozess` gilt exakt für reversible Prozesse, die zwischen zwei
-Systemen mit den Temperaturen :math:`T _{\rm{H}}` und :math:`T _{\rm{K}}`
+Systemen mit den Temperaturen :math:`T _{\mathrm{H}}` und :math:`T _{\mathrm{K}}`
 stattfinden ("Carnot-Prozess"). Bei irreversiblen Prozessen, also Prozessen mit
 Reibung, ist der tatsächliche Wirkungsgrad bei den gegebenen Temperaturen
-kleiner als :math:`\eta _{\rm{max}}`.
+kleiner als :math:`\eta _{\mathrm{max}}`.
 
 
 .. _Kältemaschinen und Wärmepumpen:
@@ -262,51 +333,30 @@ einem Wirkungsgrad, der stets kleiner als :math:`100\%` ist, spricht man daher
 von so genannten "Leistungszahlen":
 
 * Bei einer Kältemaschine ist die interessierende Größe die Wärmemenge
-  :math:`Q _{\rm{K}}`, die dem kalten System entzogen wird. Für die
+  :math:`Q _{\mathrm{K}}`, die dem kalten System entzogen wird. Für die
   Leistungszahl :math:`LZ` einer Kältemaschine gilt damit:
 
   .. math::
 
-      LZ = \frac{Q _{\rm{K}}}{W}
+      LZ = \frac{Q _{\mathrm{K}}}{W}
 
 * Bei einer Wärmepumpe ist die interessierende Größe die Wärmemenge :math:`Q
-  _{\rm{H}}`, die dem wärmeren System zugeführt wird. Für die Leistungszahl
+  _{\mathrm{H}}`, die dem wärmeren System zugeführt wird. Für die Leistungszahl
   :math:`LZ` einer Wärmepumpe gilt damit:
 
   .. math::
 
-      LZ = \frac{Q _{\rm{H}}}{W}
+      LZ = \frac{Q _{\mathrm{H}}}{W}
 
 In beiden Fällen sind die Leistungszahlen größer als Eins. Gute Wärmepumpen
 können Leistungszahlen von :math:`\approx 3` erreichen, bei Kältemaschinen sind
-die Leistungszahlen wegen  :math:`Q _{\rm{K}} < Q _{\rm{H}}` geringer.
+die Leistungszahlen wegen  :math:`Q _{\mathrm{K}} < Q _{\mathrm{H}}` geringer.
 
-..  Wärmeenergie lässt sich nie vollständig in mechanische Energie oder eine
-..  andere makroskopische Energieform umwandeln. Es gibt also kein derartiges
-..  Perpetuum mobile, das die unter Abkühlung eines Wärmereservoirs Wärme zu 100%
-..  in Arbeit umwandelt, ohne an ein zweites Reservoir Wärme abzugeben.
-
-..  Alle realen Wärmekraftmaschinen beruhen auf irreversiblen Kreisprozessen
-..  aufgrund von Reibungsverlusten und Wärmeabgabe durch unvollkommene Isolierung.
-..  Sie haben deshalb stets einen geringeren Wirkungsgrad :math:`\eta` als der oben
-..  genannte Carnotsche Kreisprozess.
-
-..  Die Entropie eines abgeschlossenen Systems wird nie von selbst, d.h. ohne
-..  äußere Einwirkungen, kleiner. In einem derartign System verlaufen alle
-..  Vorgänge stets so, dass die Entropie :math:`S` konstant bleibt oder zunimmt.
-..  Die Wiederherstellung des Ausgangszustandes ist zwar statistisch gesehen
-..  prinzipiell möglich, aber völlig unwahrscheinlich und damit praktisch
-..  ausgeschlossen.
-
-..  Bei irreversiblen Prozessen nimmt die Entropie zu, bei reversiblen bleibt sie
-..  konstant.
 
 .. _Dritter Hauptsatz:
 
-Der dritte Hauptsatz
---------------------
-
-..  "Es ist nicht möglich, ein System bis zum absoluten Nullpunkt abzukühlen."
+Der dritte Hauptsatz der Wärmelehre
+-----------------------------------
 
 Der dritte Hauptsatz der Wärmelehre, auch `Nernst
 <https://de.wikipedia.org/wiki/Walther_Nernst>`_'sches Wärmetheorem genannt,
@@ -316,8 +366,8 @@ in Kurzform folgendermaßen formulieren:
 
 .. epigraph::
 
-    "Es ist unmöglich, durch irgendeinen Vorgang den absoluten Nullpunkt zu
-    erreichen."
+    "Es ist unmöglich, ein System durch irgendeinen Vorgang auf den absoluten
+    Nullpunkt abzukühlen."
 
 Durch den dritten Hauptsatz der Wärmelehre wird somit ein Wirkungsgrad einer
 Wärmekraftmaschine von :math:`100\%`, wie er für einen :ref:`Carnot-Prozess
@@ -351,11 +401,11 @@ Wärmekraftmaschine von :math:`100\%`, wie er für einen :ref:`Carnot-Prozess
     thermodynamischen Prozesse ist dies bereits ausreichend.
 
 .. [#] Der Brennwert eines Materials ist stets größer als sein Heizwert. Früher
-    wurde der Brennwert :math:`H _{\rm{s}}` daher als oberer Heizwert :math:`H
-    _{\rm{o}}` und der Heizwert :math:`H _{\rm{i}}` als unterer Heizwert
-    :math:`H _{\rm{u}}` bezeichnet. Inzwischen haben sich allerdings die
-    entsprechenden lateinischen Bezeichnungen :math:`H _{\rm{s}}` ("superior")
-    und :math:`H _{\rm{i}}` ("inferior") international durchgesetzt.
+    wurde der Brennwert :math:`H _{\mathrm{s}}` daher als oberer Heizwert :math:`H
+    _{\mathrm{o}}` und der Heizwert :math:`H _{\mathrm{i}}` als unterer Heizwert
+    :math:`H _{\mathrm{u}}` bezeichnet. Inzwischen haben sich allerdings die
+    entsprechenden lateinischen Bezeichnungen :math:`H _{\mathrm{s}}` ("superior")
+    und :math:`H _{\mathrm{i}}` ("inferior") international durchgesetzt.
 
     Auch wenn ein Brennstoff keine Restfeuchte besitzt, kann es bei der
     Verbrennung zur Bildung von Wasserdampf kommen, wenn einzelne

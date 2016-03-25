@@ -273,7 +273,7 @@ Formverhalten.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu
     Körpereigenschaften>` und :ref:`Übungsaufgaben <Aufgaben zu
     Körpereigenschaften>`.
 

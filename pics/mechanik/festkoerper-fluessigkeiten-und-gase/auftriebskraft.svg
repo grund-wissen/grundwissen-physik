@@ -17,7 +17,7 @@
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="auftriebskraft.svg">
   <title
-     id="title5438">Die Auftriebskraft</title>
+     id="title5438">Schweredruck und Auftriebskraft</title>
   <defs
      id="defs4">
     <marker
@@ -1285,6 +1285,20 @@
          offset="1"
          id="stop42049" />
     </linearGradient>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6649"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1293,9 +1307,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66981795"
-     inkscape:cx="-118.1143"
-     inkscape:cy="599.49229"
+     inkscape:zoom="1.2219813"
+     inkscape:cx="305.93783"
+     inkscape:cy="357.81658"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1318,7 +1332,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Die Auftriebskraft</dc:title>
+        <dc:title>Schweredruck und Auftriebskraft</dc:title>
         <dc:rights>
           <cc:Agent>
             <dc:title>Bernhard Grotz</dc:title>
@@ -1341,10 +1355,12 @@
             <rdf:li>Mechanik der Fluessigkeiten und Gase</rdf:li>
             <rdf:li>Auftrieb</rdf:li>
             <rdf:li>Auftriebskraft</rdf:li>
+            <rdf:li>Schweredruck</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:language>de-DE</dc:language>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -1383,7 +1399,7 @@
        height="523.55701"
        x="91.023132"
        y="264.40259"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <rect
@@ -1393,277 +1409,29 @@
        height="377.07028"
        x="200.92564"
        y="371.12338"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="fill:none;stroke:#9b9c9f;stroke-width:3.88121557;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        d="m 200.86626,748.3085 0,-445.14204"
        id="path5242"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        inkscape:connector-curvature="0"
        id="path5244"
        d="m 543.22822,749.19572 0,-445.14204"
-       style="fill:none;stroke:#9b9c9f;stroke-width:3.88121557;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/auftriebskraft.png"
+       style="fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <g
        style="fill:#d40000;fill-opacity:1"
-       id="g5248"
-       transform="matrix(0,-0.47538344,0.47538344,0,186.64183,589.75063)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/auftriebskraft.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         sodipodi:nodetypes="cccccc"
-         inkscape:connector-curvature="0"
-         id="path5250"
-         d="m -232.59462,396.19832 c 52.73463,0 105.46922,0 158.203846,0 0,0 11.070481,-7.33223 11.052119,-7.39062 l -11.052119,-7.39063 c -52.734626,0 -105.469216,0 -158.203846,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <path
-         inkscape:transform-center-x="-3.0302635"
-         transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-         inkscape:transform-center-y="-0.00017641075"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.6179939"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="6.060915"
-         sodipodi:r1="12.121831"
-         sodipodi:cy="1607.946"
-         sodipodi:cx="-707.10675"
-         sodipodi:sides="3"
-         id="path5252"
-         style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         sodipodi:type="star" />
-    </g>
-    <g
-       style="fill:#d40000;fill-opacity:1"
-       id="g5254"
-       transform="matrix(0,0.47538344,-0.47538344,0,556.30031,487.57179)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/auftriebskraft.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         inkscape:transform-center-x="-3.0302635"
-         transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-         inkscape:transform-center-y="-0.00017641075"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.6179939"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="6.060915"
-         sodipodi:r1="12.121831"
-         sodipodi:cy="1607.946"
-         sodipodi:cx="-707.10675"
-         sodipodi:sides="3"
-         id="path5256"
-         style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         sodipodi:type="star" />
-      <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m -134.31699,396.19832 c 19.46631,0 38.932611,0 58.398915,0 0,0 4.086526,-7.33223 4.079748,-7.39062 l -4.079748,-7.39063 c -19.466304,0 -38.932605,0 -58.398915,0 z"
-         id="path5258"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc" />
-    </g>
-    <g
-       transform="matrix(2,0,0,2,-227.44763,-193.62665)"
-       id="g5260"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/auftriebskraft.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <g
-         style="fill:#d40000;fill-opacity:1"
-         id="g5262"
-         transform="matrix(0.23769172,0,0,0.23769172,284.46644,295.05073)">
-        <path
-           inkscape:transform-center-x="-3.0302635"
-           transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-           inkscape:transform-center-y="-0.00017641075"
-           d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="false"
-           sodipodi:arg2="2.6179939"
-           sodipodi:arg1="1.5707963"
-           sodipodi:r2="6.060915"
-           sodipodi:r1="12.121831"
-           sodipodi:cy="1607.946"
-           sodipodi:cx="-707.10675"
-           sodipodi:sides="3"
-           id="path5264"
-           style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           sodipodi:type="star" />
-        <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-           d="m -207.09556,396.19832 c 42.14173,0 84.28344,0 126.425163,0 0,0 8.846734,-7.33223 8.83206,-7.39062 l -8.83206,-7.39063 c -42.141723,0 -84.283433,0 -126.425163,0 z"
-           id="path5266"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc" />
-      </g>
-      <g
-         transform="matrix(0.23769172,0,0,0.23769172,284.46644,273.20619)"
-         id="g5268"
-         style="fill:#d40000;fill-opacity:1">
-        <path
-           sodipodi:type="star"
-           style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="path5270"
-           sodipodi:sides="3"
-           sodipodi:cx="-707.10675"
-           sodipodi:cy="1607.946"
-           sodipodi:r1="12.121831"
-           sodipodi:r2="6.060915"
-           sodipodi:arg1="1.5707963"
-           sodipodi:arg2="2.6179939"
-           inkscape:flatsided="false"
-           inkscape:rounded="0"
-           inkscape:randomized="0"
-           d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-           inkscape:transform-center-y="-0.00017641075"
-           transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-           inkscape:transform-center-x="-3.0302635" />
-        <path
-           sodipodi:nodetypes="cccccc"
-           inkscape:connector-curvature="0"
-           id="path5272"
-           d="m -185.31511,396.19832 c 35.35565,0 70.71129,0 106.066941,0 0,0 7.422146,-7.33223 7.409835,-7.39062 l -7.409835,-7.39063 c -35.355651,0 -70.711291,0 -106.066941,0 z"
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      </g>
-      <g
-         style="fill:#d40000;fill-opacity:1"
-         id="g5274"
-         transform="matrix(0.23769172,0,0,0.23769172,284.46644,251.36164)">
-        <path
-           inkscape:transform-center-x="-3.0302635"
-           transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-           inkscape:transform-center-y="-0.00017641075"
-           d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="false"
-           sodipodi:arg2="2.6179939"
-           sodipodi:arg1="1.5707963"
-           sodipodi:r2="6.060915"
-           sodipodi:r1="12.121831"
-           sodipodi:cy="1607.946"
-           sodipodi:cx="-707.10675"
-           sodipodi:sides="3"
-           id="path5276"
-           style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           sodipodi:type="star" />
-        <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-           d="m -149.72267,396.19832 c 24.26621,0 48.53242,0 72.798629,0 0,0 5.094161,-7.33223 5.085712,-7.39062 l -5.085712,-7.39063 c -24.266209,0 -48.532419,0 -72.798629,0 z"
-           id="path5278"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc" />
-      </g>
-    </g>
-    <g
-       transform="matrix(2,0,0,2,-227.44764,-193.62665)"
-       id="g5280"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/auftriebskraft.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <g
-         transform="matrix(-0.23769172,0,0,0.23769172,314.45226,295.05073)"
-         id="g5282"
-         style="fill:#d40000;fill-opacity:1">
-        <path
-           sodipodi:type="star"
-           style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="path5284"
-           sodipodi:sides="3"
-           sodipodi:cx="-707.10675"
-           sodipodi:cy="1607.946"
-           sodipodi:r1="12.121831"
-           sodipodi:r2="6.060915"
-           sodipodi:arg1="1.5707963"
-           sodipodi:arg2="2.6179939"
-           inkscape:flatsided="false"
-           inkscape:rounded="0"
-           inkscape:randomized="0"
-           d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-           inkscape:transform-center-y="-0.00017641075"
-           transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-           inkscape:transform-center-x="-3.0302635" />
-        <path
-           sodipodi:nodetypes="cccccc"
-           inkscape:connector-curvature="0"
-           id="path5286"
-           d="m -207.09556,396.19832 c 42.14173,0 84.28344,0 126.425163,0 0,0 8.846734,-7.33223 8.83206,-7.39062 l -8.83206,-7.39063 c -42.141723,0 -84.283433,0 -126.425163,0 z"
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      </g>
-      <g
-         style="fill:#d40000;fill-opacity:1"
-         id="g5288"
-         transform="matrix(-0.23769172,0,0,0.23769172,314.45226,273.20619)">
-        <path
-           inkscape:transform-center-x="-3.0302635"
-           transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-           inkscape:transform-center-y="-0.00017641075"
-           d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="false"
-           sodipodi:arg2="2.6179939"
-           sodipodi:arg1="1.5707963"
-           sodipodi:r2="6.060915"
-           sodipodi:r1="12.121831"
-           sodipodi:cy="1607.946"
-           sodipodi:cx="-707.10675"
-           sodipodi:sides="3"
-           id="path5290"
-           style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           sodipodi:type="star" />
-        <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-           d="m -185.31511,396.19832 c 35.35565,0 70.71129,0 106.066941,0 0,0 7.422146,-7.33223 7.409835,-7.39062 l -7.409835,-7.39063 c -35.355651,0 -70.711291,0 -106.066941,0 z"
-           id="path5292"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc" />
-      </g>
-      <g
-         transform="matrix(-0.23769172,0,0,0.23769172,314.45226,251.36164)"
-         id="g5294"
-         style="fill:#d40000;fill-opacity:1">
-        <path
-           sodipodi:type="star"
-           style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="path5296"
-           sodipodi:sides="3"
-           sodipodi:cx="-707.10675"
-           sodipodi:cy="1607.946"
-           sodipodi:r1="12.121831"
-           sodipodi:r2="6.060915"
-           sodipodi:arg1="1.5707963"
-           sodipodi:arg2="2.6179939"
-           inkscape:flatsided="false"
-           inkscape:rounded="0"
-           inkscape:randomized="0"
-           d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-           inkscape:transform-center-y="-0.00017641075"
-           transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-           inkscape:transform-center-x="-3.0302635" />
-        <path
-           sodipodi:nodetypes="cccccc"
-           inkscape:connector-curvature="0"
-           id="path5298"
-           d="m -149.72267,396.19832 c 24.26621,0 48.53242,0 72.798629,0 0,0 5.094161,-7.33223 5.085712,-7.39062 l -5.085712,-7.39063 c -24.266209,0 -48.532419,0 -72.798629,0 z"
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      </g>
-    </g>
+       id="g5268"
+       transform="matrix(0.47538344,0,0,0.47538344,341.48525,352.78573)" />
     <rect
        style="color:#000000;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:#a05a2c;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect5300"
@@ -1671,16 +1439,94 @@
        height="150.0625"
        x="317.84607"
        y="462.96719"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="fill:none;stroke:#9b9c9f;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        d="m 200.92565,748.19365 342.24318,0.94268"
        id="path5302"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#aa0000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 371.44224,423.06442 0,31.58873"
+       id="path11328"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:connector-curvature="0"
+       id="path14193"
+       d="m 371.49989,698.59561 0,-76.12909"
+       style="color:#000000;fill:none;stroke:#aa0000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       id="g14226"
+       transform="translate(-1.6057657,0)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g14221">
+        <path
+           style="color:#000000;fill:none;stroke:#aa0000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 244.93489,581.33637 64.35308,0"
+           id="path14195"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/u-rohr-manometer.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+        <path
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/u-rohr-manometer.png"
+           inkscape:connector-curvature="0"
+           id="path14206"
+           d="m 253.96677,537.5678 55.3212,0"
+           style="color:#000000;fill:none;stroke:#aa0000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           style="color:#000000;fill:none;stroke:#aa0000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 270.51928,493.95819 38.76869,0"
+           id="path14208"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/u-rohr-manometer.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,1,746.15367,0)"
+         id="g14216">
+        <path
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/u-rohr-manometer.png"
+           inkscape:connector-curvature="0"
+           id="path14210"
+           d="m 244.93489,581.33637 64.35308,0"
+           style="color:#000000;fill:none;stroke:#aa0000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           style="color:#000000;fill:none;stroke:#aa0000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 253.96677,537.5678 55.3212,0"
+           id="path14212"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/u-rohr-manometer.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+        <path
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/u-rohr-manometer.png"
+           inkscape:connector-curvature="0"
+           id="path14214"
+           d="m 270.51928,493.95819 38.76869,0"
+           style="color:#000000;fill:none;stroke:#aa0000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+    </g>
   </g>
 </svg>

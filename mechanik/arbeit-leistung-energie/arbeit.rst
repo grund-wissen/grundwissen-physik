@@ -42,7 +42,7 @@ der Kraft und die Länge des Weges, entlang dessen die Kraft wirkt, bekannt sein
 
     Die Einheit der Arbeit ist nach Gleichung :eq:`eqn-arbeit` das Produkt der
     Einheiten von Kraft und Weg. Sie wird zu Ehren des Physikers `James Prescott
-    Joule <http://de.wikipedia.org/wiki/James_Prescott_Joule>`_ kurzerhand Joule
+    Joule <https://de.wikipedia.org/wiki/James_Prescott_Joule>`_ kurzerhand Joule
     :math:`\unit[]{(J)}` genannt.
 
 .. math::
@@ -334,7 +334,7 @@ der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher:
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu mechanischer Arbeit>` und
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu mechanischer Arbeit>` und
     :ref:`Übungsaufgaben <Aufgaben zu mechanischer Arbeit>`.
 
 

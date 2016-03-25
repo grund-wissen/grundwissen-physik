@@ -1,16 +1,16 @@
 
-.. _Lösungen zur Dynamik:
+.. _Lösungen zu den Dynamik-Aufgaben:
 
-Lösungen zur Dynamik
-====================
+Lösungen zu den Dynamik-Aufgaben
+================================
 
-.. _Lösungen zu Kräften:
+.. _Lösungen zu den Kräfte-Aufgaben:
 
-Lösungen zu Kräften
--------------------
+Lösungen zu den Kräfte-Aufgaben
+-------------------------------
 
 Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
-Kräften>` zum Abschnitt :ref:`Kraft <Kraft>`.
+mechanischen Kräften>` zum Abschnitt :ref:`Kraft <Kraft>`.
 
 ----
 
@@ -95,10 +95,10 @@ Kräften>` zum Abschnitt :ref:`Kraft <Kraft>`.
 ----
 
 
-.. _Lösungen zum Zusammenwirken mehrerer Kräfte:
+.. _Lösungen zu den Aufgaben zum Zusammenwirken mehrerer Kräfte:
 
-Lösungen zum Zusammenwirken mehrerer Kräfte
--------------------------------------------
+Lösungen zu den Aufgaben zum Zusammenwirken mehrerer Kräfte
+-----------------------------------------------------------
 
 Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zum
 Zusammenwirken mehrerer Kräfte>` zum Abschnitt :ref:`Zusammenwirken mehrerer
@@ -206,9 +206,12 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
   .. math::
 
-      \alpha &= \text{acos}\left( \frac{70^2 + 90^2 - 50^2}{2 \cdot 70 \cdot 90}\right) \approx 33,56 \degree \\
-      \beta &= \text{acos}\left( \frac{90^2 + 50^2 - 70^2}{2 \cdot 90 \cdot 50}\right) \approx 50,70 \degree \\
-      \gamma &= \text{acos}\left( \frac{50^2 + 70^2 - 90^2}{2 \cdot 50 \cdot 70}\right) \approx 95,74 \degree \\
+      \alpha &= \text{acos}\left( \frac{70^2 + 90^2 - 50^2}{2 \cdot 70 \cdot
+      90}\right) \approx 33,56 \degree \\
+      \beta &= \text{acos}\left( \frac{90^2 + 50^2 - 70^2}{2 \cdot 90 \cdot
+      50}\right) \approx 50,70 \degree \\
+      \gamma &= \text{acos}\left( \frac{50^2 + 70^2 - 90^2}{2 \cdot 50 \cdot
+      70}\right) \approx 95,74 \degree \\
 
   In Summe ergeben die obigen Winkel :math:`180 \degree`. Die Winkel zwischen
   drei in einem Punkt wirkenden Kräften beträgt jedoch :math:`360 \degree`, die
@@ -219,9 +222,12 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
   .. math::
 
-      \alpha ^{*} &= 180 \degree - \alpha \approx  180 \degree - 33,56 \degree = 146,44 \degree \\
-      \beta ^{*} &= 180 \degree - \beta \approx  180 \degree - 50,70 \degree = 129,30 \degree \\
-      \gamma ^{*} &= 180 \degree - \gamma \approx  180 \degree - 95,74 \degree = \phantom{1}84,26 \degree
+      \alpha ^{*} &= 180 \degree - \alpha \approx  180 \degree - 33,56 \degree =
+      146,44 \degree \\
+      \beta ^{*} &= 180 \degree - \beta \approx  180 \degree - 50,70 \degree =
+      129,30 \degree \\
+      \gamma ^{*} &= 180 \degree - \gamma \approx  180 \degree - 95,74 \degree =
+      \phantom{1}84,26 \degree
 
   Für die Summe dieser Winkel gilt schließlich :math:`\alpha ^{*} + \beta ^{*} +
   \gamma ^{*} = 360 \degree`.
@@ -256,8 +262,10 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
   .. math::
 
-      \frac{F _{\rm{Z,y}}}{F _{\rm{Z}}} = \sin{(\alpha)} \quad \Leftrightarrow \quad F _{\rm{Z,y}} = F _{\rm{Z}} \cdot \sin{(\alpha)} \\
-      \frac{F _{\rm{Z,x}}}{F _{\rm{Z}}} = \cos{(\alpha)} \quad \Leftrightarrow \quad F _{\rm{Z,x}} = F _{\rm{Z}} \cdot \cos{(\alpha)}
+      \frac{F _{\rm{Z,y}}}{F _{\rm{Z}}} = \sin{(\alpha)} \quad \Leftrightarrow
+      \quad F _{\rm{Z,y}} = F _{\rm{Z}} \cdot \sin{(\alpha)} \\
+      \frac{F _{\rm{Z,x}}}{F _{\rm{Z}}} = \cos{(\alpha)} \quad \Leftrightarrow
+      \quad F _{\rm{Z,x}} = F _{\rm{Z}} \cdot \cos{(\alpha)}
 
   Für den Betrag der Zugkraft gilt somit :math:`F _{\rm{Z}} = \frac{F
   _{\rm{Z,x}}}{\cos{(\alpha)}} = \frac{\unit[75]{N}}{\cos{(10 \degree)}}
@@ -422,10 +430,11 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
 ----
 
-.. _Lösungen zu Arten mechanischer Kräfte:
 
-Lösungen zu Arten mechanischer Kräfte
--------------------------------------
+.. _Lösungen zu den Aufgaben zu Arten mechanischer Kräfte:
+
+Lösungen zu den Aufgaben zu Arten mechanischer Kräfte
+-----------------------------------------------------
 
 Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
 Arten mechanischer Kräfte>` zum Abschnitt :ref:`Arten mechanischer Kräfte <Arten

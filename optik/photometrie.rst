@@ -114,6 +114,21 @@ vorwiegend im zentralen Bereich der Netzhaut auftrifft. Bei dem so genannten
 "Tagsehen" hat das menschliche Auge die höchste Empfindlichkeit bei einer
 Wellenlänge von :math:`\unit[555]{nm}`, also im grünen Farbbereich.
 
+.. figure::
+    ../pics/optik/netzhaut-verteilung-zaepfchen.png
+    :name: fig-netzhaut-verteilung-zaepfchen
+    :alt:  fig-netzhaut-verteilung-zaepfchen
+    :align: center
+    :width: 50%
+
+    Verteilung der für rote, grüne und blaue Farbnehmung zuständigen Zäpfchen
+    auf der Netzhaut.
+
+    .. only:: html
+
+        :download:`SVG: Netzhaut (Zäpfchen)
+        <../pics/optik/netzhaut-verteilung-zaepfchen.svg>`
+
 Bei zunehmender Dunkelheit vergrößert sich die Pupille, so dass mehr Licht in
 das Auge gelangen kann. Dabei trifft ein größerer Lichtanteil auf die äußeren
 Bereiche der Netzhaut. In diesem Fall tragen die am sensibelsten auf Licht

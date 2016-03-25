@@ -190,7 +190,7 @@ Elektromagnete
 --------------
 
 Im Jahr 1820 entdeckte der Physiker `Hans-Christian Oersted
-<http://de.wikipedia.org/wiki/Hans_Christian_Oersted>`_, dass auch von einem
+<https://de.wikipedia.org/wiki/Hans_Christian_Oersted>`_, dass auch von einem
 stromdurchflossenen elektrischen Leiter eine (schwache) Kraftwirkung auf eine
 nahe gelegene Kompassnadel ausgeht. Diese Feststellung widersprach der bis dahin
 gängigen Auffassung, dass es sich bei Elektrizität und Magnetismus um zwei
@@ -429,7 +429,7 @@ gleichermaßen jedes Magnetfeld einen Einfluss auf einen elektrischen Strom.
 
 Befindet sich ein Stück eines stromdurchflossenen Leiters in einem Magnetfeld,
 so wirkt auf das Leiterstück eine Kraft. Sie wird nach ihrem Entdecker `Hendrik
-Antoon Lorentz <http://de.wikipedia.org/wiki/Hendrik_Antoon_Lorentz>`_ als
+Antoon Lorentz <https://de.wikipedia.org/wiki/Hendrik_Antoon_Lorentz>`_ als
 "Lorentz-Kraft" bezeichnet. Der Betrag der Kraft hängt von der Stärke
 Stromflusses bzw. Magnetfeldes sowie vom Winkel zwischen Leiter und Magnetfeld
 ab:
@@ -481,6 +481,8 @@ Der gleiche Effekt tritt auf, wenn ein Magnet senkrecht zu einem elektrischen
 Leiter bewegt wird -- nur die relative Bewegung von Magnet und Leiter zueinander
 zählt. Wird beispielsweise ein Magnetstab in eine stromlose Spule hineingesteckt
 bzw. herausgezogen, so tritt in der Spule kurzzeitig ein Stromfluss auf.
+
+... to be continued ...
 
 .. raw:: html
 

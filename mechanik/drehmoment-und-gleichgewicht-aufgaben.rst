@@ -8,17 +8,26 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
 
 ----
 
-.. _Gleichgewicht-01:
+.. _ggw01:
 
 * (\*) Die Standfestigkeit eines Körpers hängt von seiner Masse, der Lage seines
   Schwerpunkts und der Größe seiner Auflagefläche ab. Wann ist die
   Standfestigkeit eines Körpers groß, wann nur gering?
 
-  :ref:`Lösung <Gleichgewicht-01-Lösung>`
+  :ref:`Lösung <ggw01l>`
 
 ----
 
-.. _Gleichgewicht-02:
+.. _ggw03:
+
+* Wie muss ein Stehaufmännchen aufgebaut sein, damit es sich von selbst wieder
+  aufrichtet, wenn es "umgeschubst" wird?
+
+  :ref:`Lösung <ggw03l>`
+
+----
+
+.. _ggw02:
 
 .. Idee nach Brenneke1972 S.44
 
@@ -28,7 +37,7 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
   :math:`F_2`, welche die beiden Träger aufwenden müssen, wenn sich die Last
   :math:`s_1 = \unit[1]{m}` weit vom hinteren Träger entfernt befindet?
 
-  .. figure:: 
+  .. figure::
       ../pics/mechanik/drehmoment-und-gleichgewicht/gewichtsverteilung-aufgabe.png
       :name: fig-gewichtsverteilung-aufgabe
       :alt:  fig-gewichtsverteilung-aufgabe
@@ -40,7 +49,7 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
       .. centered:: :download:`SVG: Gewichtsverteilung (Aufgabe) <../pics/mechanik/drehmoment-und-gleichgewicht/gewichtsverteilung-aufgabe.svg>`
 
 
-  :ref:`Lösung <Gleichgewicht-02-Lösung>`
+  :ref:`Lösung <ggw02l>`
 
 
 .. raw:: latex

@@ -1,4 +1,4 @@
-.. index:: Atommodell
+.. index:: Atom, Atommodell
 .. _Atommodelle:
 
 Atommodelle

@@ -1105,5 +1105,38 @@ Materialabhängige Größen
     %\restoregeometry
 
 
+.. _Periodensystem der Elemente:
+
+Periodensystem der Elemente
+---------------------------
+
+.. only:: html
+
+    .. figure:: pics/atomphysik/periodensystem-mit-elektronenkonfiguration.png
+        :width: 100%
+        :align: center
+        :name: fig-periodensystem-mit-elektronenkonfiguration
+        :alt:  fig-periodensystem-mit-elektronenkonfiguration
+
+        Das Periodensystem der Elemente.
+
+        .. only:: html
+
+            :download:`SVG: Periodensystem mit Elektronenkonfiguration
+            <pics/atomphysik/periodensystem-mit-elektronenkonfiguration.svg>`
+
+    Das Periodensystem gibt es auch als Druckversion mit hoher Auflösung (300 dpi):
+    :download:`Periodensystem der Elemente (PDF)<pics/atomphysik/periodensystem-mit-elektronenkonfiguration.pdf>`
+
+
+.. raw:: latex
+
+    \newpage
+    \newgeometry{left=1cm, right=1cm, top=1cm, bottom=1cm}
+    \begin{landscape}
+    \centering\includegraphics[height=1.0\textheight]{../../pics/atomphysik/periodensystem-mit-elektronenkonfiguration.png}
+    \end{landscape}
+
+
 ..  http://www.formel-sammlung.de/physik/wertetabellen/schmelz-_siedetemperatur.htm
 ..  http://www.chemie.de/lexikon/Ausdehnungskoeffizient.html

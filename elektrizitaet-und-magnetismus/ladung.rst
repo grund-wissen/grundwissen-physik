@@ -52,14 +52,11 @@ Allgemein gilt für jedes chemische Element:
   betrachtet erscheint ein Atom deshalb als ein elektrisch neutrales
   Teilchen.
 
+.. index:: Coulomb
+.. _Coulomb:
+
 Alle in der Realität vorkommenden elektrischen Ladungsmengen setzen sich
 aus den Ladungen der Elektronen und Protonen zusammen.
-
-..  Ohne Protonen und Elektronen als Ladungstraeger kann keine elektrische Ladung
-..  existieren. Bei geladenen Koerpern ist eine Ladungstraegerart in der
-..  Überzahl -> Übungsaufgabe
-
-.. index:: Coulomb
 
 *Einheit:*
 
@@ -136,8 +133,7 @@ negativ.
     single: Ladungstrennung; Bandgenerator
 .. _Bandgenerator:
 
-Der Bandgenerator
-^^^^^^^^^^^^^^^^^
+.. rubric:: Bandgeneratoren
 
 Mit einem Bandgenerator lässt sich eine Ladungstrennung durch Reibung in
 größerem Stil und beliebig oft wiederholen. Dazu wird ein elastisches
@@ -177,8 +173,8 @@ Ladungsausgleich, und beide Kugeln werden entladen.
 .. index:: Erdung
 .. _Erdung:
 
-Die Erdung
-^^^^^^^^^^
+Ladungsausgleich und Ladungsnachweis
+------------------------------------
 
 Wird ein geladener Körper über einen Metalldraht oder einen ähnlichen leitenden
 Kontakt mit dem Erdboden verbunden, so kommt es zu einer Entladung. Diesen
@@ -198,15 +194,11 @@ eine elektrische Aufladung der Erde selbst bei Kontakt mit größeren
 Ladungsmengen unmessbar klein. Die Erde kann daher stets als elektrisch neutral
 betrachtet werden. [#]_
 
-
 .. index:: Ladungsnachweis
 .. _Ladungsnachweis:
 
-Ladungsnachweis
----------------
-
-Ladungen lassen sich experimentell nachweisen anhand der Kräfte, die zwischen
-geladenen Körpern wirken:
+Experimentell nachweisen kann man Ladungen beispielsweise anhand der Kräfte, die
+zwischen geladenen Körpern wirken:
 
 * Gleichartig geladene Körper (Plus und Plus bzw. Minus und Minus) stoßen
   einander ab.
@@ -228,12 +220,13 @@ geladenen Körpern wirken:
 Je stärker zwei Körper elektrisch geladen sind, desto stärker sind die
 Kräfte, die zwischen ihnen wirken.
 
+.. todo: Größe der Coulomb-Kraft
+
 .. index::
     single: Ladungsnachweis; Elektroskop
 .. _Elektroskop:
 
-Das Elektroskop
-^^^^^^^^^^^^^^^
+.. rubric:: Elektroskope
 
 Ein Elektroskop besteht aus einem (meist gebogenen) Metallstab, an dem ein
 Zeiger leicht drehbar angebracht ist. Der Metallstab besitzt am oberen Ende eine
@@ -292,8 +285,7 @@ jedoch nicht, ob es sich um positive oder negative Ladung handelt.
     single: Ladungsnachweis; Glimmlampe
 .. _Glimmlampe:
 
-Die Glimmlampe
-^^^^^^^^^^^^^^
+.. rubric:: Glimmlampen
 
 Eine Glimmlampe besteht aus einem Glaskolben, in dem zwei Metalldrähte so
 eingeschmolzen sind, daß sie einander dicht gegenüberstehen, sich jedoch nicht

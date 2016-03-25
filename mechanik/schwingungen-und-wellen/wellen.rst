@@ -347,6 +347,7 @@ einzelnen Auslenkungszustand (Wellenberg bzw. Wellental, manchmal allgemein auch
 als Interferenz.
 
 .. index:: Kohärenz
+.. _Kohärenz und Gangunterschied:
 
 .. rubric:: Kohärenz und Gangunterschied
 

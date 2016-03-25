@@ -1,14 +1,14 @@
-.. _Versuche zu Kraftwandlern und Getrieben:
+.. _Experimente zu Kraftwandlern und Getrieben:
 
-Versuche zu Kraftwandlern und Getrieben
-=======================================
+Experimente zu Kraftwandlern und Getrieben
+==========================================
 
-.. _Versuche zu Hebeln:
+.. _Experimente zu Hebeln:
 
-Versuche zu Hebeln
-------------------
+Experimente zu Hebeln
+---------------------
 
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Hebel <Hebel>`.
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Hebel <Hebel>`.
 
 ----
 
@@ -131,12 +131,12 @@ getestet und geübt werden.
 ----
 
 
-.. _Versuche zur schiefen Ebene:
+.. _Experimente zur schiefen Ebene:
 
-Versuche zur schiefen Ebene
----------------------------
+Experimente zur schiefen Ebene
+------------------------------
 
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Schiefe Ebene <Schiefe Ebene>`.
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Schiefe Ebene <Schiefe Ebene>`.
 
 ----
 
@@ -200,12 +200,12 @@ Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Schiefe Ebene <Schi
   liegen? Wie kannst Du das Ergebnis erklären?
 
 
-.. _Versuche zu Flaschenzügen und Rollen:
+.. _Experimente zu Flaschenzügen und Rollen:
 
-Versuche zu Flaschenzügen und Rollen
-------------------------------------
+Experimente zu Flaschenzügen und Rollen
+---------------------------------------
 
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Flaschenzüge und
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Flaschenzüge und
 Rollen <Flaschenzüge und Rollen>`.
 
 ----

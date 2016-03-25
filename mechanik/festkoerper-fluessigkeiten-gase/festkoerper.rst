@@ -457,20 +457,21 @@ Torsionswinkel. Der Proportionalitätsfaktor :math:`G` steht wiederum für der
 Kompression
 -----------
 
-Wird auf einen Körper ein allseitiger Druck ausgeübt, beispielsweise durch
-hydrostatischen Druck in einer Flüssigkeit, so verkleinert sich sein Volumen.
-Der Zusammenhang zwischen dem wirkenden Druck :math:`p` und der relativen
-Volumenänderung :math:`\frac{\Delta V}{V}` kann mittels des so genannten
-Kompressionsmoduls :math:`K` beschrieben werden:
+Wird auf einen Körper zunehmend ein allseitiger Druck ausgeübt, beispielsweise
+durch hydrostatischen Druck in einer Flüssigkeit, so verkleinert sich
+entsprechend sein Volumen. Der Zusammenhang zwischen der auftretenden
+Druckänderung :math:`\Delta p` und der resultierenden relativen Volumenänderung
+:math:`\frac{\Delta V}{V}` kann mittels des so genannten Kompressionsmoduls
+:math:`K` beschrieben werden:
 
 .. math::
 
-    p = - K \cdot \frac{\Delta V}{V}
+    \Delta p = - K \cdot \frac{\Delta V}{V}
 
 Die Einheit des Kompressionsmoduls :math:`K` ist Pascal, wie auch die Einheit
 des Drucks. Das negative Vorzeichen in der obigen Gleichung ergibt sich daraus,
 dass bei einem von außen einwirkenden, positiven Druck das Volumen kleiner wird,
-also in diesem Fall :math:`\Delta v` negativ ist. Je größer der Wert des
+also in diesem Fall :math:`\Delta V` negativ ist. Je größer der Wert des
 Kompressionsmoduls :math:`K` ist, desto größer ist der nötige Druck, um eine
 bestimmte relative Volumenänderung zu erreichen. Die Werte von :math:`K` von
 Festkörpern und Flüssigkeiten sind üblicherweise um mehrere Größenordnungen

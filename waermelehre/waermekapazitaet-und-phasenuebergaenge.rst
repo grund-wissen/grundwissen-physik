@@ -122,14 +122,13 @@ Kompression des Gases ein entsprechend großer  Gegendruck entsteht. Der durch
 das Gewicht bewirkte Kolbendruck ist dann mit dem Gasdruck im Gleichgewicht.
 
 .. figure:: ../pics/waermelehre/spezifische-waermekapazitaet-gase.png
-    :width: 50%
-    :align: center
     :name: fig-spezifische-waermekapazitaet-gase
     :alt:  fig-spezifische-waermekapazitaet-gase
+    :align: center
+    :width: 50%
 
     Erwärmung von Gasen bei konstantem Volumen (links) und konstantem Druck
     (rechts).
-
 
     .. only:: html
 
@@ -474,16 +473,21 @@ jeweiligen Stoffs.
     single: Phasenübergang; Verdunsten
 .. _Verdunsten:
 
-.. rubric:: Verdunsten
+Verdunsten
+^^^^^^^^^^
 
-Flüssigkeiten können bereits unterhalb ihrer Siedetemperatur in den
-gasförmigen Aggregatzustand übergehen.
+Flüssigkeiten können bereits unterhalb ihrer Siedetemperatur in den gasförmigen
+Aggregatzustand übergehen. Beim Verdunsten müssen die Flüssigkeitsteilchen an
+der Oberfläche die Kohäsionskräfte der anderen Teilchen überwinden. Das ist
+möglich, weil sich nicht alle Flüssigkeitsteilchen mit der gleichen
+Geschwindigkeit bewegen. Nur Teilchen mit großer Geschwindigkeit sind in der
+Lage, die Flüssigkeit zu verlassen, wenn sie an die Oberfläche gelangen.
 
-Beim Verdunsten müssen die Flüssigkeitsteilchen an der Oberfläche die
-Kohäsionskräfte der anderen Teilchen überwinden. Das ist möglich, weil sich
-nicht alle Flüssigkeitsteilchen mit der gleichen Geschwindigkeit bewegen. Nur
-Teilchen mit großer Geschwindigkeit sind in der Lage, die Flüssigkeit zu
-verlassen, wenn sie an die Oberfläche gelangen.
+Die in der Flüssigkeit verbleibenden Teilchen haben eine geringere
+durchschnittliche Geschwindigkeit als die verdunstenden; somit entschwindet beim
+Verdunsten mit den schnellen, aus der Flüssigkeit entweichenden Teilchen auch
+Wärme. Die verbleibende Flüssigkeit kühlt sich daher ab ("Verdunstungskälte").
+[#]_
 
 Das Verdunsten einer Flüssigkeit kann folgendermaßen beeinflusst werden:
 
@@ -492,11 +496,128 @@ Das Verdunsten einer Flüssigkeit kann folgendermaßen beeinflusst werden:
 * Wird der entstehende Dampf fortgeführt, so verdunstet die Flüssigkeit
   ebenfalls schneller.
 
-Zum Verdunsten wird Wärme benötigt; daher kühlt sich die verbleibende
-Flüssigkeit sowie ihre Umgebung ab ("Verdunstungskälte").
+Ebenfalls relevant für den Verdunstungsvorgang ist die Dampfmenge in der
+umgebenden Luft; im Fall von Wasserdampf spricht man von Luftfeuchtigkeit. 
 
-..  Phasendiagramme
-..  ---------------
+Die Menge an Wasserdampf, die ein bestimmtes Volumen an Luft maximal aufnehmen
+kann, ist stark abhängig von der Temperatur der Luft. Wie man an den Werten aus
+der obigen Tabelle beziehungsweise am folgenden Diagramm sehen kann, nimmt
+diese so genannte "Sättigungsmenge" mit der Temperatur überproportional zu.
+
+.. list-table::
+    :name: tab-luftfeuchtigkeit-saettigungsmenge
+    :widths: 50 50
+
+    * - Temperatur in :math:`\unit{\degree C}`
+      - Sättigungsmgenge (Wasser) in :math:`\unit{\frac{g}{m^3}}`
+    * - :math:`-15`
+      - :math:`1,4`
+    * - :math:`-10`
+      - :math:`2,3`
+    * - :math:`-5`
+      - :math:`3,3`
+    * - :math:`0`
+      - :math:`4,9`
+    * - :math:`5`
+      - :math:`6,8`
+    * - :math:`10`
+      - :math:`9,4`
+    * - :math:`15`
+      - :math:`12,8`
+    * - :math:`20`
+      - :math:`17,3`
+    * - :math:`25`
+      - :math:`23,1`
+    * - :math:`30`
+      - :math:`30,3`
+    * - :math:`40`
+      - :math:`51,1`
+    * - :math:`50`
+      - :math:`82,8`
+
+.. figure:: ../pics/waermelehre/diagramm-saettigungsmgenge-von-wasser-in-luft.png
+    :name: fig-saettigungsmenge-wasserdampf
+    :alt:  fig-saettigungsmenge-wasserdampf
+    :align: center
+    :width: 65%
+
+    Sättigungsmenge von Wasserdampf in Luft bei verschiedenen Temperaturen.
+
+    .. only:: html
+
+        :download:`SVG: Sättigungsmenge (Wasserdampf)
+        <../pics/waermelehre/diagramm-saettigungsmgenge-von-wasser-in-luft.svg>`
+
+Die "absolute" Feuchtigkeit von Luft gibt an, wie viel Gramm Wasserdampf aktuell
+je Kubikmeter enthalten sind; die "relative Luftfeuchtigkeit hingegen gibt
+diesen Wert im Verhältnis zur beschriebenen Sättigungsmenge an. Da die absolute
+Feuchtigkeit und der Sättigungsdruck jeweils in :math:`\unit{\frac{g}{cm^3}}`
+angegeben werden, ist die relative Luftfeuchtigkeit dimensionslos; sie wird
+üblicherweise in Prozent angegeben.
+
+*Beispiele:*
+
+* In einem Volumen von :math:`V=\unit[1]{m^3}` ist bei einer Temperatur von
+  :math:`T=\unit[20]{\degree C}` eine Wassermenge von :math:`\unit[10]{g}`
+  enthalten. Wie hoch ist die relative Luftfeuchtigkeit?
+
+  Die Sättigungsmenge an Wasserdampf bei :math:`T=\unit[20]{\degree C}` beträgt
+  gemäß der obigen Tabelle beziehungsweise des obigen Diagramms ca.
+  :math:`\unit[17]{\frac{g}{m^3}}`. Teilt man die angegebene absolute
+  Luftfeuchtigkeit von :math:`\unit[10]{\frac{g}{m^3}}` durch diesen
+  Sättigungswert, so erhält man eine relative Luftfeuchtigkeit von
+  :math:`\frac{10}{17} \approx 59\%`.
+
+* Wie viel Gramm Wasser sind in einem Raum :math:`l=\unit[5]{m}` langen,
+  :math:`b=\unit[4]{m}` breiten und :math:`h=\unit[2,5]{m}` hohen Raum
+  bei einer Temperatur von :math:`T_1=\unit[25]{\degree C}` und einer relativen
+  Luftfeuchtigkeit von :math:`75\%` enthalten? Was passiert, wenn sich die
+  Temperatur auf :math:`T_2=\unit[15]{\degree C}` abkühlt?
+
+  Das Volumen des Raums beträgt :math:`V=\unit[(5 \cdot 4 \cdot 2,5)]{m^3} =
+  \unit[50]{m^3}`; die Sättigungsmenge von Wasserdampf in Luft liegt bei einer
+  Temperatur von :math:`\unit[25]{\degree C}` bei rund
+  :math:`\unit[23]{\frac{g}{m^3}}`. Je Kubikmeter ist somit bei einer relativen
+  Luftfeuchtigkeit von :math:`75\%` eine Menge von :math:`0,75 \cdot
+  \unit[23]{g} = \unit[17,25]{g}` an Wasserdampf enthalten. Insgesamt enthält
+  die Luft in dem Raum damit :math:`\unit[50]{m^3} \cdot
+  \unit[17,25]{\frac{g}{m^3}} \approx \unit[862,5]{g}`.
+
+  Nimmt die Temperatur der Luft ab, so sinkt auch die darin maximal mögliche
+  Menge an Wasserdampf: Bei :math:`\unit[15]{\degree C}` beträgt die
+  Sättigungsmenge nur noch rund :math:`\unit[13]{\frac{g}{m^3}}`. Da in der Luft
+  jedoch :math:`\unit[17,25]{\frac{g}{m^3}}` enthalten sind, werden je
+  Kubikmeter :math:`\unit[17,25-13]{g} = \unit[4,25]{g}` an Wasserdampf in Form
+  von feinen Nebeltröpfchen kondensieren; insgesamt :math:`\unit[(50 \cdot
+  4,25)]{g} = \unit[212,5]{g}`. Es wird folglich neblig, und die neue relative
+  Luftfeuchtigkeit beträgt :math:`100\%`.
+
+* Welche absolute Luftfeuchtigkeit hat Luft bei einer Temperatur von
+  :math:`T_1=\unit[0]{\degree C}` und einer relativen Luftfeuchtigkeit von
+  :math:`100\%`? Welche relative Luftfeuchtigkeit stellt sich ein, wenn diese
+  Luft auf :math:`T_2=\unit[20]{\degree C}` erwärmt wird?
+
+  Bei einer Temperatur von :math:`\unit[0]{\degree C}` beträgt die
+  Sättigungsmenge an Wasserdampf knapp :math:`\unit[5]{\frac{g}{m^3}}`; da die
+  Luft eine relative Luftfeuchtigkeit von :math:`100\%` hat, enthält sie eben
+  diese Menge an Wasserdampf.
+  
+  Bei einer Temperatur von :math:`\unit[20]{\degree C}` beträgt die
+  Sättigungsmenge hingegegen rund :math:`\unit[17]{g}`. Die relative
+  Luftfeuchtigkeit der Luft beträgt nach dem Erwärmen somit etwa
+  :math:`\frac{5}{17} \approx 29,4\%`.
+
+Wie das letzte Beispiel zeigt, kann auch bei kalter und nebliger Außenluft ein
+kurzzeitiges Lüften ratsam, um die relative Luftfeuchtigkeit in einem Raum zu
+senken. In Wohnräumen sind Luftfeuchtigkeiten zwischen :math:`40\%` und
+:math:`70\%` üblich. Luftfeuchtigkeiten von unter :math:`25\%` und über
+:math:`95\%` werden generell als unangenehm empfunden; in Gebäuden muss bei
+einer konstanten Luftfeuchtigkeit von über :math:`80\%` mit Schimmelbildung
+gerechnet werden. In gefährdeten Räumen kann diesem durch häufiges, kurzzeitiges
+Lüften und/oder durch kontinuierliches Lüften mit Wärmerückgewinnung
+("Wärmetauscher") vorgebeugt werden.
+
+.. Phasendiagramme
 
 .. Tripelpunkt: Wertepaar an Druck und Temperatur, bei dem alle drei
 .. Aggregatzustände (fest, flüssig, gasförmig) gleichzeitig nebeneinander
@@ -538,6 +659,9 @@ Flüssigkeit sowie ihre Umgebung ab ("Verdunstungskälte").
     hingegen mit dem damaligen `Herstellungsprozess
     <http://pauli.uni-muenster.de/~munsteg/physik-irrtuemer.html>`_ zusammen.
 
+.. [#] Eine ausführlichere Erklärung hierfür liefert die in einem späteren
+    Abschnitt näher beschriebene :ref:`kinetische Gastheorie <Kinetische
+    Gastheorie>`.
 
 .. Ein weiterer Aggregatszustand, bei dem die Atome zumindest teilweise
 .. ionisiert sind, wird "Plasma" genannt.

@@ -379,7 +379,7 @@ Das Ohmsche Gesetz
 
 Der Zusammenhang zwischen elektrischer Spannung, Stromstärke und Widerstand
 wurde im Jahr 1826 durch `Georg Simon Ohm
-<http://de.wikipedia.org/wiki/Georg_Simon_Ohm>`_ entdeckt. Ihm zu Ehren wird
+<https://de.wikipedia.org/wiki/Georg_Simon_Ohm>`_ entdeckt. Ihm zu Ehren wird
 auch heute noch die Widerstandsgleichung :eq:`eqn-elektrischer-widerstand` als
 "Ohmsches Gesetz" bezeichnet und in folgender Form angegeben:
 

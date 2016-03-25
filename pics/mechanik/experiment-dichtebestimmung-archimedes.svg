@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="dichtebestimmung-archimedes.svg"
+   height="1052.3622"
+   width="744.09448"
+   inkscape:version="0.48.4 r9939"
+   version="1.1"
+   id="svg2">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     id="namedview4"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:zoom="0.50914472"
+     inkscape:cx="648.05895"
+     inkscape:cy="508.8708"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       id="guide2997"
+       position="309.88983,77.28125"
+       orientation="1,0" />
+    <sodipodi:guide
+       id="guide2999"
+       position="309.6875,60.811157"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide4810"
+       position="-992,83"
+       orientation="1,0" />
+  </sodipodi:namedview>
+  <title
+     id="title4893">Dichtebestimmung nach Archimedes</title>
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Dichtebestimmung nach Archimedes</dc:title>
+        <dc:date>2016-02-23</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Dichtebestimmung</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter42355-9"
+       x="-0.60000002"
+       width="2.2"
+       y="-0.60000002"
+       height="2.2">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.7142859"
+         id="feGaussianBlur42357-9" />
+    </filter>
+  </defs>
+  <rect
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dichtebestimmung-archimedes.png"
+     y="210.5723"
+     x="35.108486"
+     height="605.93982"
+     width="668.32227"
+     id="rect4842"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+  <g
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dichtebestimmung-archimedes.png"
+     transform="matrix(0.96975402,0,0,0.96975402,143.0506,462.80236)"
+     id="g4731">
+    <g
+       transform="translate(-22.214398,-66.166165)"
+       id="g4733">
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#333333;stroke-width:4.12475729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4735"
+         sodipodi:cx="234.75"
+         sodipodi:cy="-357.15552"
+         sodipodi:rx="12.125"
+         sodipodi:ry="12.125"
+         d="m 234.75,-345.03052 c -6.69645,0 -12.125,-5.42854 -12.125,-12.125 0,-6.69645 5.42855,-12.125 12.125,-12.125 6.69645,0 12.125,5.42855 12.125,12.125 0,0 0,0 0,0"
+         transform="matrix(1.0932987,0,0,1.0932987,-239.65187,450.11514)"
+         sodipodi:start="1.5707963"
+         sodipodi:end="6.2831853"
+         sodipodi:open="true" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:4.50959158;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 17.000005,72.893721 0,18.44941"
+         id="path4737"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       y="16.631306"
+       x="-47.353645"
+       height="136.36548"
+       width="84.278496"
+       id="rect4739"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#333333;stroke-width:1.63873577;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       transform="matrix(0.43073655,0,0,0.43073655,-146.58574,-113.96392)"
+       d="m 301.42857,350.93362 c 0,6.31183 -5.11674,11.42858 -11.42857,11.42858 -6.31183,0 -11.42857,-5.11675 -11.42857,-11.42858 0,-6.31182 5.11674,-11.42857 11.42857,-11.42857 6.31183,0 11.42857,5.11675 11.42857,11.42857 z"
+       sodipodi:ry="11.428572"
+       sodipodi:rx="11.428572"
+       sodipodi:cy="350.93362"
+       sodipodi:cx="290"
+       id="path4741"
+       style="opacity:0.8;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter42355-9)"
+       sodipodi:type="arc" />
+  </g>
+  <path
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dichtebestimmung-archimedes.png"
+     inkscape:connector-curvature="0"
+     id="path4743"
+     d="m 137.99392,447.61584 0,-99.78262 0,-98.52859"
+     style="fill:none;stroke:#000000;stroke-width:5.99999952;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+  <rect
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dichtebestimmung-archimedes.png"
+     rx="6.2408023"
+     ry="4.0355883"
+     y="781.16687"
+     x="70.491669"
+     height="23.890682"
+     width="603.11115"
+     id="rect8064"
+     style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+  <rect
+     ry="4.0355883"
+     rx="9.3187532"
+     y="755.02911"
+     x="171.31786"
+     height="26.137751"
+     width="234.62064"
+     id="rect12066"
+     style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dichtebestimmung-archimedes.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <rect
+     style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect12078"
+     width="234.62064"
+     height="26.137751"
+     x="171.31786"
+     y="642.03595"
+     rx="9.3187532"
+     ry="4.0355883"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dichtebestimmung-archimedes.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     transform="matrix(1.1464048,0,0,1,-103.30089,-186.36268)"
+     id="g12074"
+     style="fill:#808080"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dichtebestimmung-archimedes.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <rect
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.40094876;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect12070"
+       width="166.94664"
+       height="15.712625"
+       x="794.9826"
+       y="387.11298"
+       rx="6.2408023"
+       ry="4.0355883"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
+    <rect
+       transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"
+       ry="4.0355883"
+       rx="6.2408023"
+       y="-886.31226"
+       x="-478.44263"
+       height="15.712625"
+       width="166.94664"
+       id="rect12072"
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.40094876;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+  <g
+     id="g12439"
+     transform="translate(-59.265121,-186.36268)"
+     style="stroke:#808080;stroke-width:3"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dichtebestimmung-archimedes.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <g
+       transform="matrix(0.65558872,0,0,0.647552,324.87167,333.26864)"
+       id="g12080"
+       style="stroke:#808080;stroke-width:4.60434866">
+      <g
+         transform="translate(647.03091,-340.65015)"
+         id="g12084"
+         inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/volumenverdraengung-archimedes.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"
+         style="stroke:#808080;stroke-width:4.60434866">
+        <path
+           inkscape:connector-curvature="0"
+           id="path12086"
+           d="m -403.875,773.53127 c 7.99913,3.38548 15.11773,8.70878 22.75,16.78125 l 0,503.09368 c -0.98901,7.9452 -5.05305,11.7626 -11.875,11.875 l -21.4375,0 c -4.11324,0 -7.4375,3.3243 -7.4375,7.4376 0,4.1132 3.32426,7.4062 7.4375,7.4062 l 201.5,0 c 4.11324,0 7.4375,-3.2929 7.4375,-7.4062 0,-4.1133 -3.32426,-7.4376 -7.4375,-7.4376 l -21.4375,0 c -6.82195,-0.1124 -10.88599,-3.9298 -11.875,-11.875 l 0,-519.87493 -121.5,0 -1.78125,0 -11.59375,0 -22.75,0 z"
+           style="opacity:0.3;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:4.60434866" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#808080;stroke-width:4.60434866;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+           d="m -403.875,773.53125 c 7.99913,3.38548 15.11773,8.70878 22.75,16.78125 l 0,503.0937 c -0.98901,7.9452 -5.05305,11.7626 -11.875,11.875 l -21.4375,0 c -4.11324,0 -7.4375,3.3243 -7.4375,7.4376 0,4.1132 3.32426,7.4062 7.4375,7.4062 l 201.5,0 c 4.11324,0 7.4375,-3.2929 7.4375,-7.4062 0,-4.1133 -3.32426,-7.4376 -7.4375,-7.4376 l -21.4375,0 c -6.82195,-0.1124 -10.88599,-3.9298 -11.875,-11.875 l 0,-519.87495 -121.5,0 -1.78125,0 -11.59375,0 -22.75,0 z"
+           id="path12088" />
+      </g>
+    </g>
+    <path
+       style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 586.42627,949.05046 -11.80491,0"
+       id="path12090"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path12092"
+       d="m 586.42627,629.88777 -11.80491,0"
+       style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       id="g12312"
+       style="stroke:#808080;stroke-width:3">
+      <path
+         d="m 586.42627,938.75489 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12314"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,928.45932 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12316"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,918.16375 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12318"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,907.86818 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12320"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,897.57261 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12322"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,887.27704 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12324"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,876.98147 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12326"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,866.68589 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12328"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,856.39032 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12330"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,846.09475 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12332"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,835.79918 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12334"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,825.50361 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12336"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,815.20804 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12338"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,804.91247 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12340"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,794.6169 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12342"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,784.32133 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12344"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,774.02576 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12346"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,763.73019 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12348"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,753.43462 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12350"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,743.13905 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12352"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,732.84348 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12354"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,722.54791 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12356"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,712.25234 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12358"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,701.95676 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12360"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,691.66119 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12362"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,681.36562 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12364"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,671.07005 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12366"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,660.77448 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12368"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,650.47891 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12370"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 586.42627,640.18334 c 0,0 -11.80491,0 -11.80491,0"
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path12372"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <rect
+     inkscape:export-ydpi="150"
+     inkscape:export-xdpi="150"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dichtebestimmung-archimedes.png"
+     y="418.1897"
+     x="227.8343"
+     height="221.06891"
+     width="176.37035"
+     id="rect4709"
+     style="fill:#afc6e9;fill-opacity:1;fill-rule:nonzero;stroke:#87aade;stroke-opacity:1" />
+  <path
+     style="color:#000000;fill:none;stroke:#999999;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 404.21355,418.31245 0,220.94615 -176.37924,0 0,-265.76689 -13.19372,-10.9369 13.19372,3e-4 0,0 176.37924,0 0,25.74377"
+     id="rect12478"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccc"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dichtebestimmung-archimedes.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <path
+     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="m 404.20463,388.23748 41.19031,0 m 0,29.95219 -41.19031,0"
+     id="rect12480"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/dichtebestimmung-archimedes.png"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+</svg>

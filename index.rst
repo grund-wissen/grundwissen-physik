@@ -43,5 +43,5 @@ Physik
 
 .. find ./ -name "*aufgaben*.rst"  | xargs grep -c "^\* "         | awk -F ":" '{sum+=$2} END {print sum}'
 .. find ./ -name "*loesungen*.rst" | xargs grep -c "^\* "         | awk -F ":" '{sum+=$2} END {print sum}'
-.. find ./ -name "*versuche*.rst"  | xargs grep -c ".. rubric:: " | awk -F ":" '{sum+=$2} END {print sum}'
+.. find ./ -name "*experimente*.rst"  | xargs grep -c ".. rubric:: " | awk -F ":" '{sum+=$2} END {print sum}'
 

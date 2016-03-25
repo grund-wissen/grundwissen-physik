@@ -24,25 +24,27 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.18007109"
-     inkscape:cx="-302.30126"
-     inkscape:cy="-264.4279"
+     inkscape:zoom="0.48643844"
+     inkscape:cx="270.6661"
+     inkscape:cy="100.07423"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="false"
-     showguides="false"
+     inkscape:snap-smooth-nodes="true"
+     showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="false"
-     inkscape:object-paths="false"
+     inkscape:snap-global="true"
+     inkscape:object-paths="true"
      inkscape:snap-midpoints="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="748"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:snap-to-guides="true">
+     inkscape:snap-to-guides="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-object-midpoints="true">
     <sodipodi:guide
        id="guide12004"
        orientation="744.0945,0"
@@ -2486,17 +2488,17 @@
        y="506.7457"
        x="38.910137"
        height="347.13849"
-       width="424.45569"
+       width="974.54187"
        id="rect11235"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.03049827;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <g
        transform="matrix(-0.66530066,-1.1030217e-8,-1.1030217e-8,0.66530066,1370.94,-459.86884)"
        id="g10506"
        style="stroke:#1a1a1a;stroke-width:1.50307977"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2542,7 +2544,7 @@
        style="stroke:#1a1a1a;stroke-width:1.63439012"
        id="g10520"
        transform="matrix(-0.30597228,-0.52979412,0.52995954,-0.30587678,-78.032256,2016.6731)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2588,7 +2590,7 @@
        transform="matrix(0.66530066,0,0,0.66530066,-959.8855,-408.28569)"
        id="g10534"
        style="stroke:#1a1a1a;stroke-width:1.50307977"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2634,7 +2636,7 @@
        id="g10956"
        transform="matrix(-0.29272666,-0.50655388,0.50701741,-0.29245902,-184.39405,2004.865)"
        style="stroke:#1a1a1a;stroke-width:1.70885956"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2680,7 +2682,7 @@
        transform="matrix(-0.66530066,-1.1030217e-8,-1.1030217e-8,0.66530066,1412.3946,-401.49078)"
        id="g10548"
        style="stroke:#1a1a1a;stroke-width:1.50307977"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2726,7 +2728,7 @@
        style="stroke:#1a1a1a;stroke-width:1.70885956"
        transform="matrix(0.29272666,-0.50655388,-0.50701741,-0.29245902,660.99371,1990.5221)"
        id="g10562"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2772,7 +2774,7 @@
        style="stroke:#1a1a1a;stroke-width:1.75972974"
        transform="matrix(-0.28413455,0.49213549,-0.49213549,-0.28413455,1579.8975,313.05091)"
        id="g10576"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2818,7 +2820,7 @@
        id="g10590"
        transform="matrix(0.28752459,0.49812741,0.49800721,-0.28759397,-937.94463,337.72998)"
        style="stroke:#1a1a1a;stroke-width:1.73877192"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2864,7 +2866,7 @@
        style="stroke:#1a1a1a;stroke-width:1.50307977"
        id="g10604"
        transform="matrix(-0.33265034,0.5761672,-0.5761672,-0.33265034,1652.9123,266.16729)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2910,7 +2912,7 @@
        style="stroke:#1a1a1a;stroke-width:1.50307977"
        id="g10618"
        transform="matrix(-0.66530066,-1.1030217e-8,-1.1030217e-8,0.66530066,1328.4526,-345.24158)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2956,7 +2958,7 @@
        style="stroke:#1a1a1a;stroke-width:1.65828919"
        id="g10632"
        transform="matrix(0.30151556,0.52224016,0.52224016,-0.30151556,-1039.1582,355.16005)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -3002,7 +3004,7 @@
        style="stroke:#1a1a1a;stroke-width:1.50307977"
        id="g10646"
        transform="matrix(0.66530066,-1.1030217e-8,1.1030217e-8,0.66530066,-876.45331,-328.64562)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -3048,7 +3050,7 @@
        style="stroke:#1a1a1a;stroke-width:1.73877192"
        transform="matrix(0.28752459,0.49812741,0.49800721,-0.28759397,-1065.8603,374.57638)"
        id="g10660"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -3090,21 +3092,11 @@
          d="m 1761.0622,1704.3278 10e-5,-72.5857 44.9099,-25.9288 0,72.5857 z"
          style="fill:#37c837;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.73877192000000003px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect11237"
-       width="424.45569"
-       height="347.13849"
-       x="588.99634"
-       y="506.7457"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
     <g
        style="stroke:#1a1a1a;stroke-width:1.70446157"
        id="g10858"
        transform="matrix(0.58623659,0,0,0.58715485,-129.57437,-301.5743)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -3150,7 +3142,7 @@
        id="g10830"
        transform="matrix(0.28752459,0.49812741,0.49800721,-0.28759397,441.9518,1374.6867)"
        style="stroke:#1a1a1a;stroke-width:1.73877192"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -3196,7 +3188,7 @@
        style="stroke:#1a1a1a;stroke-width:1.50307977"
        id="g10319"
        transform="matrix(0.66530066,0,0,0.66530066,-420.95941,-447.17718)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -3242,7 +3234,7 @@
        transform="matrix(0.30151556,0.52224016,0.52224016,-0.30151556,-675.33854,262.69166)"
        id="g10434"
        style="stroke:#1a1a1a;stroke-width:1.65828919"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -3288,7 +3280,7 @@
        transform="matrix(0.66530066,-1.1030217e-8,1.1030217e-8,0.66530066,-299.11484,-433.51525)"
        id="g10405"
        style="stroke:#1a1a1a;stroke-width:1.50307977"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -3334,7 +3326,7 @@
        style="stroke:#1a1a1a;stroke-width:1.73877192"
        transform="matrix(0.28752459,0.49812741,0.49800721,-0.28759397,-383.59969,304.66163)"
        id="g10816"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -3380,7 +3372,7 @@
        style="stroke:#1a1a1a;stroke-width:1.50307977"
        id="g10674"
        transform="matrix(0.66530066,-1.1030217e-8,1.1030217e-8,0.66530066,-328.15163,-423.42632)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -3426,7 +3418,7 @@
        transform="matrix(0.66530066,-1.1030217e-8,1.1030217e-8,0.66530066,-244.2097,-367.17722)"
        id="g10688"
        style="stroke:#1a1a1a;stroke-width:1.50307977"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -3472,7 +3464,7 @@
        transform="matrix(0.66530066,-1.1030217e-8,1.1030217e-8,0.66530066,-357.44664,-390.76534)"
        id="g10716"
        style="stroke:#1a1a1a;stroke-width:1.50307977"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -3518,7 +3510,7 @@
        id="g10277"
        transform="matrix(0.28752459,0.49812741,0.49800721,-0.28759397,-549.66219,330.50884)"
        style="stroke:#1a1a1a;stroke-width:1.73877192"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -3564,7 +3556,7 @@
        style="stroke:#1a1a1a;stroke-width:1.50307977"
        id="g10702"
        transform="matrix(0.66530066,-1.1030217e-8,1.1030217e-8,0.66530066,-273.27502,-342.19765)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -3610,7 +3602,7 @@
        style="stroke:#1a1a1a;stroke-width:1.73877192"
        transform="matrix(0.28752459,0.49812741,0.49800721,-0.28759397,515.9146,1513.1838)"
        id="g10478"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -3658,7 +3650,7 @@
        id="path13151"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/grund-wissen/physik/pics/elektrizitaet-magnetismus/elementarmagnete.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/elementarmagnete.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
   </g>

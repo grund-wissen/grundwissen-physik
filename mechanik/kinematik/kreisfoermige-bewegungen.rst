@@ -356,6 +356,6 @@ Bewegung an.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zur
-    kreisförmigen Bewegung>`.
+    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu kreisförmigen
+    Bewegungen>`.
 

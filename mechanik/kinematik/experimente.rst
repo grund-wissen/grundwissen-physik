@@ -1,15 +1,15 @@
 
-.. _Versuche zur Kinematik:
+.. _Experimente zur Kinematik:
 
-Versuche zur Kinematik
-======================
+Experimente zur Kinematik
+=========================
 
-.. _Versuche zu geradlinigen Bewegungen:
+.. _Experimente zu geradlinigen Bewegungen:
 
-Versuche zu geradlinigen Bewegungen
------------------------------------
+Experimente zu geradlinigen Bewegungen
+--------------------------------------
 
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Geradlinige
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Geradlinige
 Bewegungen <Geradlinige Bewegungen>`.
 
 ----
@@ -53,9 +53,9 @@ Bewegungen <Geradlinige Bewegungen>`.
   unteren Ende der Murmelbahn.
 - Lasse eine Murmel die ganze Strecke der Murmelbahn hinunter rollen. Stoppe die
   dafür benötigte Zeit :math:`t` und notiere den Messwert in der Tabelle.
-- Wiederhole den Versuch mit unterschiedlich schweren Kugeln. Notiere die
+- Wiederhole das Experiment mit unterschiedlich schweren Kugeln. Notiere die
   jeweils benötigten Zeiten ebenfalls in der Messtabelle.
-- Wiederhole den Versuch, indem du die Kugeln aus halber Höhe bzw. aus einem
+- Wiederhole das Experiment, indem du die Kugeln aus halber Höhe bzw. aus einem
   Viertel der Höhe starten lässt.
 - Vergleiche die Zeiten miteinander, welche die Kugeln zum Durchlaufen der
   jeweiligen Streckenlängen benötigt haben. Was stellst Du dabei fest?
@@ -65,9 +65,9 @@ Bewegungen <Geradlinige Bewegungen>`.
   flache Teilstück vor dem steilen durchläuft?
 
 
-.. .. _Versuche zu kreisförmigen Bewegungen:
+.. .. _Experimente zu kreisförmigen Bewegungen:
 ..
-.. Versuche zu kreisförmigen Bewegungen
+.. Experimente zu kreisförmigen Bewegungen
 .. ------------------------------------
 
 

@@ -509,7 +509,7 @@ Mittelpunktstrahl zwischen dem Gegenstand und der Linse.
     bezeichnet.
 
 .. [#] Exakt beträgt die Brechzahl laut `Wikipedia (Brechungsindex)
-    <http://de.wikipedia.org/wiki/Brechungsindex>`_ von Luft bei
+    <https://de.wikipedia.org/wiki/Brechungsindex>`_ von Luft bei
     Normalbedingungen :math:`1,000292`. Starke Temperatur- und
     Feuchtigkeitsschwankungen können zu Abweichungen führen und optische Effekte
     verursachen (z.B. Fata Morgana).

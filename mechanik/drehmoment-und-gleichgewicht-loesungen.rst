@@ -1,10 +1,8 @@
 
-.. _Lösungen zu Drehmoment und Gleichgewicht:
+.. _Lösungen zu Drehmoment- und Gleichgewicht-Aufgaben:
 
-.. only:: html
-
-Lösungen zu Drehmoment und Gleichgewicht
-========================================
+Lösungen zu Drehmoment- und Gleichgewicht-Aufgaben
+==================================================
 
 Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
 Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
@@ -12,16 +10,41 @@ Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
 
 ----
 
-.. _Gleichgewicht-01-Lösung:
+.. _ggw01l:
 
 * Die Standfestigkeit eines Körpers ist umso größer, je größer seine Masse und
   Standfläche und je tiefer sein Schwerpunkt ist.
 
-  :ref:`Zurück zur Aufgabe <Gleichgewicht-01>`
+  :ref:`Zurück zur Aufgabe <ggw01>`
 
 ----
 
-.. _Gleichgewicht-02-Lösung:
+.. _ggw03l:
+
+* Bei Stehaufmännchen muss der Schwerpunkt in der unteren Hälfte des
+  Grundkörpers liegen; diese Verlagerung des Schwerpunkts wird durch einen
+  Einbau von Zusatz-Gewichten im unteren Teil des Stehaufmännchens erreicht.
+
+  .. figure:: 
+      ../pics/mechanik/drehmoment-und-gleichgewicht/stehaufmaennchen.png
+      :align: center
+      :width: 60%
+
+  .. only:: html
+
+      .. centered:: :download:`SVG: Stehaufmännchen <../pics/mechanik/drehmoment-und-gleichgewicht/stehaufmaennchen.svg>`
+
+  Wird ein Stehaufmännchen aus seiner aufrechten Position ausgelenkt, so wird
+  dadurch der Schwerpunkt angehoben. Ein stabiles Gleichgewicht ist allerdings
+  durch die niedrigst mögliche Lage des Schwerpunkts charakterisiert. Das
+  Stehaufmännchen wird sich daher, wenn man es loslässt, von selbst wieder
+  aufrichten, da hierdurch der Schwerpunkt zum niedrigsten Punkt zurückkehrt.
+
+  :ref:`Zurück zur Aufgabe <ggw03>`
+
+----
+
+.. _ggw02l:
 
 * Während die Last getragen wird, ist sie im statischen Gleichgewicht; das
   heißt, die an ihr angreifenden Kräfte und Drehmomente ergeben in Summe jeweils
@@ -48,7 +71,8 @@ Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
 
   .. only:: html
 
-      .. centered:: :download:`SVG: Gewichtsverteilung (Lösung) <../pics/mechanik/drehmoment-und-gleichgewicht/gewichtsverteilung-loesung.svg>`
+      .. centered:: :download:`SVG: Gewichtsverteilung (Lösung)
+          <../pics/mechanik/drehmoment-und-gleichgewicht/gewichtsverteilung-loesung.svg>`
 
 
   Aus der zweiten der obigen Gleichungen folgt:
@@ -84,7 +108,7 @@ Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
   der Mitte zwischen den beiden Personen befindet.
 
 
-  :ref:`Zurück zur Aufgabe <Gleichgewicht-02>`
+  :ref:`Zurück zur Aufgabe <ggw02>`
 
 
 .. raw:: latex

@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="experiment-gleichgewicht-an-wand.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45516649"
+     inkscape:cx="-253.36244"
+     inkscape:cy="508.11243"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-midpoints="true" />
+  <title
+     id="title78373">Experiment Gleichgewicht an Wand</title>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path8225"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8225-5"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <defs
+       id="defs5554">
+      <g
+         id="g5556">
+        <symbol
+           style="overflow:visible"
+           overflow="visible"
+           id="textext-9f790aa7-0">
+          <path
+             inkscape:connector-curvature="0"
+             style="stroke:none"
+             d="m 6.4375,-6.921875 c 0,-0.03125 -0.03125,-0.109375 -0.125,-0.109375 -0.046875,0 -0.046875,0.015625 -0.171875,0.15625 L 5.65625,-6.3125 c -0.25,-0.46875 -0.765625,-0.71875 -1.421875,-0.71875 -1.265625,0 -2.453125,1.15625 -2.453125,2.359375 0,0.796875 0.515625,1.265625 1.03125,1.40625 l 1.0625,0.28125 c 0.375,0.09375 0.921875,0.25 0.921875,1.0625 0,0.890625 -0.8125,1.828125 -1.796875,1.828125 -0.640625,0 -1.75,-0.21875 -1.75,-1.453125 0,-0.234375 0.0625,-0.484375 0.0625,-0.53125 0.015625,-0.046875 0.015625,-0.0625 0.015625,-0.078125 0,-0.09375 -0.0625,-0.109375 -0.109375,-0.109375 -0.046875,0 -0.078125,0.015625 -0.109375,0.046875 -0.03125,0.03125 -0.59375,2.3125 -0.59375,2.34375 0,0.046875 0.046875,0.09375 0.109375,0.09375 0.046875,0 0.0625,-0.015625 0.1875,-0.15625 L 1.296875,-0.5 c 0.421875,0.578125 1.109375,0.71875 1.6875,0.71875 1.359375,0 2.53125,-1.328125 2.53125,-2.5625 0,-0.6875 -0.34375,-1.03125 -0.484375,-1.171875 C 4.796875,-3.734375 4.640625,-3.78125 3.765625,-4 3.53125,-4.0625 3.1875,-4.171875 3.09375,-4.1875 2.828125,-4.28125 2.484375,-4.5625 2.484375,-5.09375 c 0,-0.8125 0.796875,-1.65625 1.75,-1.65625 0.8125,0 1.421875,0.4375 1.421875,1.546875 0,0.3125 -0.03125,0.5 -0.03125,0.5625 0,0 0,0.09375 0.109375,0.09375 0.109375,0 0.125,-0.03125 0.15625,-0.203125 z m 0,0"
+             id="path5559" />
+        </symbol>
+      </g>
+    </defs>
+    <linearGradient
+       id="linearGradient2830-0">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:0.74583334;"
+         offset="0"
+         id="stop2832-5" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop2834-2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2830">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop2832" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop2834" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75609">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75611" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75613" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75616">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75618" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75620" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75623">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75625" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75627" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75630">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75632" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75634" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75637">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75639" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75641" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75644">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75646" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75648" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75651">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75653" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75655" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75658">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75660" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75662" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75665">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75667" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75669" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75672">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75674" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75676" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75679">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75681" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75683" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75686">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75688" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75690" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75693">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75695" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75697" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75700">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75702" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75704" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75707">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75709" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75711" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75714">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75716" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75718" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75721">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75723" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75725" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75728">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75730" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75732" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75735">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75737" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75739" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient75742">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop75744" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop75746" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2830"
+       id="radialGradient78412"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.19056836,-0.00819993,0,201.06267,707.192)"
+       cx="1856.5908"
+       cy="1368.9778"
+       fx="1856.5908"
+       fy="1368.9778"
+       r="246.82037" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2830-7"
+       id="radialGradient78627-2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.19056836,-0.00819993,0,201.06267,707.192)"
+       cx="1856.5908"
+       cy="1368.9778"
+       fx="1856.5908"
+       fy="1368.9778"
+       r="246.82037" />
+    <linearGradient
+       id="linearGradient2830-7">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop2832-7" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop2834-3" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2830-9"
+       id="radialGradient78190-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.60616229,0.05823458,0,110.19209,1541.194)"
+       cx="1856.5908"
+       cy="1368.9778"
+       fx="1856.5908"
+       fy="1368.9778"
+       r="246.82037" />
+    <linearGradient
+       id="linearGradient2830-9">
+      <stop
+         style="stop-color:#0e0e0e;stop-opacity:1;"
+         offset="0"
+         id="stop2832-4" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1;"
+         offset="1"
+         id="stop2834-5" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Experiment Gleichgewicht an Wand</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>2016-02-23</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Dynamik</rdf:li>
+            <rdf:li>Experiment</rdf:li>
+            <rdf:li>Gleichgewicht</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect104039"
+       width="698.64545"
+       height="373.48972"
+       x="22.724518"
+       y="335.04224"
+       rx="1.8450693"
+       ry="3.6107895"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       transform="matrix(0.70710678,0.70710679,-0.70710679,0.70710678,813.2216,45.794858)"
+       id="g4582" />
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       rx="1.8450693"
+       ry="4.0355883"
+       y="646.6817"
+       x="104.14297"
+       height="23.890682"
+       width="178.3075"
+       id="rect8064"
+       style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:#000000;stroke-width:0.84936261;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path38505-6"
+       sodipodi:cx="219.20311"
+       sodipodi:cy="156.86195"
+       sodipodi:rx="6.0609155"
+       sodipodi:ry="6.0609155"
+       d="m 225.26403,156.86195 a 6.0609155,6.0609155 0 1 1 -12.12184,0 6.0609155,6.0609155 0 1 1 12.12184,0 z"
+       transform="matrix(-2.765369,-0.75191966,-0.75191966,2.765369,887.85066,138.90542)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       transform="matrix(-0.07105753,0.99747222,0.99443758,0.1053276,0,0)"
+       ry="9.4953318"
+       y="180.00742"
+       x="476.38556"
+       height="18.990664"
+       width="82.785133"
+       id="rect38507-6"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.00177526;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       rx="13.668662"
+       transform="matrix(-0.161557,0.98686338,-0.95834691,-0.28560672,0,0)"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.64706367;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect38511-7"
+       width="85.225853"
+       height="22.821297"
+       x="501.03143"
+       y="-253.41145"
+       ry="11.410648"
+       inkscape:transform-center-x="4.7562202"
+       inkscape:transform-center-y="31.137777"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.00000095;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect21891"
+       width="79.1334"
+       height="18.931952"
+       x="542.1076"
+       y="-38.510311"
+       ry="9.4659758"
+       transform="matrix(0.36990892,0.92906802,0.92930471,-0.36931391,0,0)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       ry="11.149404"
+       y="-176.94859"
+       x="573.65222"
+       height="22.298807"
+       width="86.516281"
+       id="rect21893"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.64443767;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0.05843357,0.9982913,-0.99833634,0.05765891,0,0)"
+       rx="13.875623"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.50261283;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect104004"
+       width="72.749298"
+       height="16.443815"
+       x="-500.98444"
+       y="247.64267"
+       rx="7.9118981"
+       ry="8.2219076"
+       transform="matrix(0.11353713,-0.99353375,0.96692226,0.25507125,0,0)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       transform="matrix(-0.12502394,-0.99215373,0.99718604,-0.07496663,0,0)"
+       ry="8.1509504"
+       rx="8.2475386"
+       y="126.80269"
+       x="-519.8913"
+       height="16.301901"
+       width="75.835487"
+       id="rect104002"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.00063336;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.50000232;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect38497-5"
+       width="46.105278"
+       height="92.657837"
+       x="-183.37393"
+       y="428.78104"
+       ry="15.442974"
+       transform="matrix(-0.99999389,0.00349434,0.00778672,0.99996968,0,0)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.50003159;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect23149"
+       width="65.45063"
+       height="16.341482"
+       x="-500.37875"
+       y="99.883789"
+       rx="7.1181278"
+       ry="8.1707411"
+       transform="matrix(-0.0637435,-0.99796632,0.9988539,-0.04786314,0,0)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect95141"
+       width="262.89194"
+       height="23.890682"
+       x="-644.6817"
+       y="103.70837"
+       ry="4.0355883"
+       rx="2.7203221"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <rect
+       transform="matrix(-0.79381933,-0.60815365,0.60815365,-0.79381933,0,0)"
+       ry="8.1738567"
+       rx="8.2140179"
+       y="-308.7872"
+       x="-475.35217"
+       height="16.347713"
+       width="75.52726"
+       id="rect23153"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:transform-center-x="-26.211359"
+       inkscape:transform-center-y="21.034117"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect104006"
+       width="178.3075"
+       height="23.890682"
+       x="462.07861"
+       y="646.6817"
+       ry="4.0355883"
+       rx="1.8450693"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       transform="matrix(-2.765369,-0.75191966,-0.75191966,2.765369,1245.7863,138.90542)"
+       d="m 225.26403,156.86195 a 6.0609155,6.0609155 0 1 1 -12.12184,0 6.0609155,6.0609155 0 1 1 12.12184,0 z"
+       sodipodi:ry="6.0609155"
+       sodipodi:rx="6.0609155"
+       sodipodi:cy="156.86195"
+       sodipodi:cx="219.20311"
+       id="path104008"
+       style="fill:#000000;stroke:#000000;stroke-width:0.84936261;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.00177526;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect104010"
+       width="82.785133"
+       height="18.990664"
+       x="438.66278"
+       y="537.24969"
+       ry="9.4953318"
+       transform="matrix(-0.07105753,0.99747222,0.99443758,0.1053276,0,0)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       inkscape:transform-center-y="31.137777"
+       inkscape:transform-center-x="4.7562202"
+       ry="11.410648"
+       y="-609.52985"
+       x="397.96771"
+       height="22.821297"
+       width="85.225853"
+       id="rect104012"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.64706367;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(-0.161557,0.98686338,-0.95834691,-0.28560672,0,0)"
+       rx="13.668662"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       transform="matrix(0.61540457,0.7882114,0.78860532,-0.61489971,0,0)"
+       ry="9.4659758"
+       y="92.279266"
+       x="732.05438"
+       height="18.931952"
+       width="79.1334"
+       id="rect104014"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6.00000095;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:transform-center-x="-23.743228"
+       inkscape:transform-center-y="28.673229"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       rx="13.875623"
+       transform="matrix(-0.72458252,0.68918805,-0.68862559,-0.72511709,0,0)"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.64443767;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect104016"
+       width="86.516281"
+       height="22.298807"
+       x="-33.893215"
+       y="-821.20972"
+       ry="11.149404"
+       inkscape:transform-center-y="21.278078"
+       inkscape:transform-center-x="25.164902"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       transform="matrix(0.11353713,-0.99353375,0.96692226,0.25507125,0,0)"
+       ry="8.2219076"
+       rx="7.9118981"
+       y="606.99036"
+       x="-408.72864"
+       height="16.443815"
+       width="72.749298"
+       id="rect104018"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.50261283;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.00063336;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect104020"
+       width="75.835487"
+       height="16.301901"
+       x="-546.75848"
+       y="482.37985"
+       rx="8.2475386"
+       ry="8.1509504"
+       transform="matrix(-0.12502394,-0.99215373,0.99718604,-0.07496663,0,0)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       transform="matrix(-0.99999389,0.00349434,0.00778672,0.99996968,0,0)"
+       ry="15.442974"
+       y="430.03177"
+       x="-541.30194"
+       height="92.657837"
+       width="46.105278"
+       id="rect104022"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.50000232;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       transform="matrix(-0.0637435,-0.99796632,0.9988539,-0.04786314,0,0)"
+       ry="8.1707411"
+       rx="7.1181278"
+       y="457.13666"
+       x="-517.51288"
+       height="16.341482"
+       width="65.45063"
+       id="rect104024"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.50003159;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <rect
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       rx="2.7203221"
+       ry="4.0355883"
+       y="461.64401"
+       x="-644.6817"
+       height="23.890682"
+       width="262.89194"
+       id="rect104026"
+       style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:transform-center-y="21.034117"
+       inkscape:transform-center-x="-26.211359"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect104028"
+       width="75.52726"
+       height="16.347713"
+       x="-759.4884"
+       y="-91.107323"
+       rx="8.2140179"
+       ry="8.1738567"
+       transform="matrix(-0.79381933,-0.60815365,0.60815365,-0.79381933,0,0)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g104035"
+       transform="translate(-7.6277504,-195.67082)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         ry="4.8924041"
+         rx="6.1095524"
+         y="651.33344"
+         x="339.04544"
+         height="19.087255"
+         width="67.034401"
+         id="rect104030"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#008080;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect104032"
+         d="m 389.92043,691.24469 0,-60.73527 30.38412,30.36763 z"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#008080;stroke-width:1.49999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>

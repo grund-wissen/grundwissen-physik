@@ -1,12 +1,12 @@
-.. _Versuche zur Dynamik:
+.. _Experimente zur Dynamik:
 
-Versuche zur Dynamik
-====================
+Experimente zur Dynamik
+=======================
 
-.. _Versuche zum Zusammenwirken mehrerer Kräfte:
+.. _Experimente zum Zusammenwirken mehrerer Kräfte:
 
-Versuche zum Zusammenwirken mehrerer Kräfte
--------------------------------------------
+Experimente zum Zusammenwirken mehrerer Kräfte
+----------------------------------------------
 
 Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Zusammenwirken
 mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
@@ -26,9 +26,23 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
       Aussparungen
     * 6 Seilstücke (ca. 1 m Länge, ca. 6 mm Durchmesser)
     * 1 Seilstücke (0,5 m Länge, ca. 6 mm Durchmesser)
-    * 1 Scheibe mit einer zentrierten Bohrung (8mm) und 6 weiteren regelmäßig
-      angebrachten Bohrungen im Außenbereich der Scheibe , ca. 1 cm vom Rand
-      entfernt.
+    * 1 Scheibe mit einer zentrierten Bohrung (8mm) und 6-12  weiteren
+      regelmäßig angebrachten Bohrungen im Außenbereich der Scheibe , ca. 1 cm
+      vom Rand entfernt.
+
+.. figure::
+    ../../pics/mechanik/dynamik/experiment-team-turmbau.png
+    :align: center
+    :width: 30%
+    :name: fig-experiment-team-turmbau
+    :alt:  fig-experiment-team-turmbau
+
+    Holzklotz und Halterung für den Team-Turmbau.
+
+    .. only:: html
+
+        :download:`SVG: Team-Turmbau
+        <../../pics/mechanik/dynamik/experiment-team-turmbau.svg>`
 
 *Durchführung:*
 
@@ -58,6 +72,20 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
       einer Bohrung an der gegenüber liegenden Spitze (z.B. aus einem
       Metallbau-Kasten)
 
+.. figure::
+    ../../pics/mechanik/dynamik/experiment-kraftmesser.png
+    :align: center
+    :width: 80%
+    :name: fig-experiment-kraftmesser
+    :alt:  fig-experiment-kraftmesser
+
+    Kraftmessung mit Federkraftmessern
+
+    .. only:: html
+
+        :download:`SVG: Federkraftmesser (Experiment)
+        <../../pics/mechanik/dynamik/experiment-kraftmesser.svg>`
+
 *Durchführung:*
 
 - Drehe die drei Hakenschrauben in einer Reihe in den Holzklotz. Befestige ihn
@@ -78,10 +106,10 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
 ----
 
 
-.. _Versuche zu mechanischen Kräften:
+.. _Experimente zu mechanischen Kräften:
 
-Versuche zu mechanischen Kräften
---------------------------------
+Experimente zu mechanischen Kräften
+-----------------------------------
 
 Die folgenden Versuche beziehen sich auf die Abschnitte :ref:`Kraft <Kraft>`.
 und :ref:`Arten mechanischer Kräfte <Arten mechanischer Kräfte>`.
@@ -102,18 +130,18 @@ und :ref:`Arten mechanischer Kräfte <Arten mechanischer Kräfte>`.
     * Verschiedene Gewichte
 
 .. figure::
-    ../../pics/mechanik/dynamik/kraft-und-verformung.png
+    ../../pics/mechanik/dynamik/experiment-kraft-und-verformung.png
     :align: center
     :width: 40%
-    :name: fig-kraft-und-verformung
-    :alt:  fig-kraft-und-verformung
+    :name: fig-experiment-kraft-und-verformung
+    :alt:  fig-experiment-kraft-und-verformung
 
     Verformung einer Holzplatte durch die einwirkende Gewichtskraft.
 
     .. only:: html
 
         :download:`SVG: Kraft und Verformung
-        <../../pics/mechanik/dynamik/kraft-und-verformung.svg>`
+        <../../pics/mechanik/dynamik/experiment-kraft-und-verformung.svg>`
 
 *Durchführung:*
 
@@ -179,6 +207,20 @@ lassen.
     * Stativmaterial (ein Stativfuß, je eine lange und eine kurze Stativstange,
       zwei Quermuffen)
     * Ein Lineal
+
+.. figure::
+    ../../pics/mechanik/dynamik/experiment-hookesches-gesetz.png
+    :align: center
+    :width: 35%
+    :name: fig-experiment-hookesches-gesetz
+    :alt:  fig-experiment-hookesches-gesetz
+
+    Experimentelle Anordnung zum Hookeschen Gesetz.
+
+    .. only:: html
+
+        :download:`SVG: Hookesches Gesetz (Experiment)
+        <../../pics/mechanik/dynamik/experiment-hookesches-gesetz.svg>`
 
 *Durchführung:*
 

@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="306.61566"
-     inkscape:cy="525.35538"
+     inkscape:zoom="0.33767111"
+     inkscape:cx="398.34821"
+     inkscape:cy="744.43313"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -41,57 +41,30 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        orientation="0,1"
-       position="537.15986,307.72242"
-       id="guide12015" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="120.68959,578.99187"
-       id="guide12041" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="166.38807,566.40276"
-       id="guide12043" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="239.51663,386.79081"
-       id="guide12045" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="269.21907,369.95304"
-       id="guide8323" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="418.75032,396.68691"
-       id="guide4223" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="389.06282,391.73716"
-       id="guide4225" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="290.5,278.03868"
-       id="guide4229" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="563.95569,208.18393"
-       id="guide5794" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="797.62254,147.7912"
-       id="guide5844" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="809.5,144.25"
-       id="guide5846" />
+       position="412.5317,638.16769"
+       id="guide13437" />
   </sodipodi:namedview>
   <title
      id="title11311">Hydraulische Anlage</title>
   <defs
      id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         id="path4830"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
     <marker
        style="overflow:visible"
        id="Arrow2Mend"
@@ -1358,19 +1331,20 @@
          offset="1"
          id="stop42049" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter42852"
-       x="-0.3600001"
-       width="1.7200001"
-       y="-0.3600001"
-       height="1.7200001">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.4285724"
-         id="feGaussianBlur42854" />
-    </filter>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6649"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
   </defs>
   <metadata
      id="metadata7">
@@ -1446,7 +1420,7 @@
        id="path3669"
        d="m 367.42404,675.59849 83.99179,0 -9.8e-4,69.93922 -83.91349,0 z"
        style="fill:#f2f2f2;stroke:none"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <rect
@@ -1456,7 +1430,7 @@
        height="629.01056"
        x="49.868195"
        y="365.80966"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1464,7 +1438,7 @@
        d="m 632.08025,675.59849 171.28125,0 -0.002,108.18705 -171.12158,0 z"
        id="path3667"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <rect
@@ -1475,14 +1449,14 @@
        height="199.76736"
        width="87.161789"
        id="rect5889"
-       style="fill:#afc6e9;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       style="fill:#afc6e9;fill-opacity:1;stroke:#87aade;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <rect
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        ry="1.5777148"
        transform="matrix(0,-1,1,0,0,0)"
        y="367.42407"
@@ -1497,13 +1471,13 @@
        id="rect11919"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssssccsss"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        style="fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        d="m 452.6787,870.66933 179.55937,0"
        id="path11309"
@@ -1512,7 +1486,7 @@
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        style="fill:#999999;stroke:none"
        d="m 386.28632,721.70008 0,-205.18221 47.68263,0 0,205.18221 z"
        id="path11970"
@@ -1521,7 +1495,7 @@
     <g
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        id="g11966"
        transform="matrix(0.5,0,0,0.5,310.08814,435.69495)">
       <path
@@ -1540,7 +1514,7 @@
        id="path11976"
        d="m 668.6929,782.5228 0,-205.18221 98.0244,0 0,205.18221 z"
        style="fill:#999999;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1549,13 +1523,13 @@
        id="path11978"
        d="m 633.61406,753.5079 0,30.52981 168.18207,0 0,-30.52981 z"
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:connector-curvature="0"
        id="path2993-2"
        d="m 668.7867,577.34058 0,205.18222"
@@ -1564,7 +1538,7 @@
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        d="m 766.8111,577.34058 0,205.18222"
        id="path12005"
@@ -1579,7 +1553,7 @@
        y="632.2381"
        transform="matrix(0,-1,1,0,0,0)"
        ry="3.1672797"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1588,13 +1562,13 @@
        id="path5796"
        d="m 632.23811,872.25064 0,-16.80886 c 17.54199,0 17.53055,16.80886 0,16.80886 z"
        style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#9b9c9f;stroke-width:1.99999988;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:connector-curvature="0"
        style="fill:#e6e6e6;stroke:#9b9c9f;stroke-width:3;stroke-opacity:1"
        d="m 337.7053,646.97349 0,28.625 0.0312,0 0,258.65625 144.8125,0 119.84375,0.25 230.65625,-0.25 0,-258.65625 0,-28.59375 -29.6875,0 -33.45711,0 0,28.59375 33.45711,0 0,228.96875 -171.15919,0.002 c 0.0358,0.002 -179.26485,0.002 -179.26485,0.002 l -85.51342,-0.004 0,-228.96875 15.67586,0 0,-28.625 z"
@@ -1608,7 +1582,7 @@
        x="268.06516"
        y="871.66113"
        ry="3.2403512"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1617,7 +1591,7 @@
        id="path5899"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -1626,13 +1600,13 @@
        id="path5891"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:connector-curvature="0"
        style="fill:#e6e6e6;fill-opacity:1;stroke:#9b9c9f;stroke-width:3;stroke-opacity:1"
        d="m 602.36155,662.97349 0,12.625 0.0312,0 0,166.375 -119.84375,0 0,-166.34375 0,-28.625 -29.40625,0 -16.16514,0 0,28.625 16.13389,0 c -0.0652,18.47552 -0.3443,148.17159 -0.28125,196.03125 l 179.25,0 0,-196.0625 33.5455,0 0,-28.625 -63.26425,0 z"
@@ -1641,39 +1615,7 @@
     <g
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
-       transform="matrix(0,0.95076688,0.95076688,0,348.0466,616.02236)"
-       id="g5777"
-       style="fill:#d40000;fill-opacity:1">
-      <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m -232.59462,396.19832 c 52.73463,0 105.46922,0 158.203846,0 0,0 11.070481,-7.33223 11.052119,-7.39062 l -11.052119,-7.39063 c -52.734626,0 -105.469216,0 -158.203846,0 z"
-         id="path5779"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc" />
-      <path
-         sodipodi:type="star"
-         style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="path5781"
-         sodipodi:sides="3"
-         sodipodi:cx="-707.10675"
-         sodipodi:cy="1607.946"
-         sodipodi:r1="12.121831"
-         sodipodi:r2="6.060915"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="2.6179939"
-         inkscape:flatsided="false"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         inkscape:transform-center-y="-0.00017641075"
-         transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-         inkscape:transform-center-x="-3.0302635" />
-    </g>
-    <g
-       inkscape:export-ydpi="150"
-       inkscape:export-xdpi="150"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        ns0:text="$\\vec{F}_{\\rm{2}}$"
        ns0:preamble="/home/waldgeist/sandbox/homepage/inkscape-preamble.tex"
        transform="matrix(4.5427131,0,0,4.5427131,-285.58074,-160.01229)"
@@ -1777,41 +1719,9 @@
       </g>
     </g>
     <g
-       style="fill:#d40000;fill-opacity:1"
-       id="g11355"
-       transform="matrix(0,0.95076688,0.95076688,0,40.399432,566.61386)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         sodipodi:nodetypes="cccccc"
-         inkscape:connector-curvature="0"
-         id="path11357"
-         d="m -160.2146,396.19097 c 26.36731,0 52.73461,0 79.10192,0 0,0 5.53524,-7.33223 5.52606,-7.39062 l -5.52606,-7.39063 c -26.36731,0 -52.73461,0 -79.10192,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <path
-         inkscape:transform-center-x="-3.0302635"
-         transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-         inkscape:transform-center-y="-0.00017641075"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.6179939"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="6.060915"
-         sodipodi:r1="12.121831"
-         sodipodi:cy="1607.946"
-         sodipodi:cx="-707.10675"
-         sodipodi:sides="3"
-         id="path11359"
-         style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         sodipodi:type="star" />
-    </g>
-    <g
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        id="g11709"
        style="fill:#008080;stroke:#d40000"
        transform="matrix(4.5427131,0,0,4.5427131,-319.08276,234.05831)"
@@ -1895,7 +1805,7 @@
     <g
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        ns0:text="$A_1$"
        ns0:preamble="/home/waldgeist/sandbox/homepage/inkscape-preamble.tex"
        transform="matrix(4.5427131,0,0,4.5427131,-626.938,234.05831)"
@@ -1977,60 +1887,12 @@
       </g>
     </g>
     <g
-       style="fill:#008080;fill-opacity:1"
-       id="g11436-2"
-       transform="matrix(0.7606135,0,0,-0.7606135,500.71483,1096.0488)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         sodipodi:nodetypes="cccccc"
-         inkscape:connector-curvature="0"
-         id="path11438-0"
-         d="m -154.08462,392.94453 c 22.61348,0 45.22695,0 67.84043,0 0,0 4.747206,-4.10415 4.739332,-4.13683 l -4.739332,-4.13684 c -22.61348,0 -45.22695,0 -67.84043,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <path
-         sodipodi:type="star"
-         style="fill:#008080;fill-opacity:1;stroke:#008080;stroke-width:557.12084961;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="path11453-9"
-         sodipodi:sides="3"
-         sodipodi:cx="-707.10675"
-         sodipodi:cy="1607.946"
-         sodipodi:r1="12.121831"
-         sodipodi:r2="6.060915"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="2.6179939"
-         inkscape:flatsided="false"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         transform="matrix(-1.0940086e-6,-0.03317571,-0.03393204,1.0696241e-6,-99.730175,365.33985)"
-         inkscape:transform-center-x="0.19698442" />
-      <path
-         inkscape:transform-center-x="-0.19698793"
-         transform="matrix(1.0940086e-6,-0.03317571,0.03393204,1.0696241e-6,-138.64822,364.99895)"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.6179939"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="6.060915"
-         sodipodi:r1="12.121831"
-         sodipodi:cy="1607.946"
-         sodipodi:cx="-707.10675"
-         sodipodi:sides="3"
-         id="path4065"
-         style="fill:#008080;fill-opacity:1;stroke:#008080;stroke-width:557.12084961;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         sodipodi:type="star" />
-    </g>
-    <g
        id="g3903"
        style="fill:#d40000;stroke:#d40000"
        transform="matrix(4.5427131,0,0,4.5427131,-593.00561,-151.00711)"
        ns0:preamble="/home/waldgeist/sandbox/homepage/inkscape-preamble.tex"
        ns0:text="$\\vec{F}_{\\rm{1}}$"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <defs
@@ -2130,61 +1992,13 @@
         </g>
       </g>
     </g>
-    <g
-       inkscape:export-ydpi="150"
-       inkscape:export-xdpi="150"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
-       transform="matrix(0.7606135,0,0,-0.7606135,764.71483,1096.0488)"
-       id="g4067"
-       style="fill:#008080;fill-opacity:1">
-      <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m -154.08462,392.94453 c 57.279641,0 114.559257,0 171.838899,0 0,0 12.024609,-4.10415 12.004664,-4.13683 l -12.004664,-4.13684 c -57.279642,0 -114.559258,0 -171.838899,0 z"
-         id="path4069"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc" />
-      <path
-         inkscape:transform-center-x="0.19698442"
-         transform="matrix(-1.0940086e-6,-0.03317571,-0.03393204,1.0696241e-6,-99.730175,365.33985)"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.6179939"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="6.060915"
-         sodipodi:r1="12.121831"
-         sodipodi:cy="1607.946"
-         sodipodi:cx="-707.10675"
-         sodipodi:sides="3"
-         id="path4071"
-         style="fill:#008080;fill-opacity:1;stroke:#008080;stroke-width:557.12084961;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         sodipodi:type="star" />
-      <path
-         sodipodi:type="star"
-         style="fill:#008080;fill-opacity:1;stroke:#008080;stroke-width:557.12084961;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="path4073"
-         sodipodi:sides="3"
-         sodipodi:cx="-707.10675"
-         sodipodi:cy="1607.946"
-         sodipodi:r1="12.121831"
-         sodipodi:r2="6.060915"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="2.6179939"
-         inkscape:flatsided="false"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         transform="matrix(1.0940086e-6,-0.03317571,0.03393204,1.0696241e-6,-24.59551,364.99895)"
-         inkscape:transform-center-x="-0.19698793" />
-    </g>
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 524.70399,559.76064 0,30.52981 386.00221,0 0,-30.52981 z"
        id="path3663"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2193,7 +2007,7 @@
        id="path3665"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2202,7 +2016,7 @@
        id="path4990"
        d="m 368.99442,511.38196 0,30.52981 82.42043,0 0,-30.52981 z"
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2211,7 +2025,7 @@
        id="rect4992"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <g
@@ -2219,7 +2033,7 @@
        transform="matrix(0.70710677,-0.70710679,0.70710679,0.70710677,-379.32439,655.22591)"
        inkscape:transform-center-y="11.633013"
        inkscape:transform-center-x="-9.9564357"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2249,7 +2063,7 @@
        sodipodi:ry="3.9524689"
        d="m 576.02992,559.29694 c 0,2.18288 -1.76958,3.95246 -3.95247,3.95246 -2.18288,0 -3.95247,-1.76958 -3.95247,-3.95246 0,-2.18289 1.76959,-3.95247 3.95247,-3.95247 2.18289,0 3.95247,1.76958 3.95247,3.95247 z"
        transform="translate(66.299255,304.04927)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2257,7 +2071,7 @@
        d="m 375.91105,904.57098 -38.40964,0"
        id="path5806"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2265,7 +2079,7 @@
        id="path5808"
        d="m 367.42404,870.96904 -29.92256,0"
        style="fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <rect
@@ -2276,7 +2090,7 @@
        width="38.774502"
        id="rect5810"
        style="color:#000000;fill:#afc6e9;fill-opacity:1;fill-rule:nonzero;stroke:#afc6e9;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <rect
@@ -2286,7 +2100,7 @@
        height="29.996012"
        x="85.81131"
        y="934.25476"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2295,7 +2109,7 @@
        id="path5868"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2304,7 +2118,7 @@
        d="m 871.51617,904.57098 -76.01138,0"
        style="fill:none;stroke:#9b9c9f;stroke-width:2.99999952;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2313,7 +2127,7 @@
        id="path5814"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <rect
@@ -2323,13 +2137,13 @@
        height="15.446314"
        x="154.60255"
        y="941.52679"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <g
        id="g5820"
        transform="matrix(1.946805,0,0,1,-696.54931,1.1470466)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2351,7 +2165,7 @@
        id="path5824"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2360,7 +2174,7 @@
        id="path5826"
        d="m 351.26044,895.09541 15.81896,0 0,8.06897 -23.81896,0 z"
        style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#9b9c9f;stroke-width:2;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2373,7 +2187,7 @@
        id="path5830"
        style="color:#000000;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2382,13 +2196,13 @@
        id="rect5840"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssscsssssscsssss"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <g
        id="g5883"
        transform="matrix(1.3117126,0,0,1,-169.90655,-0.58015227)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <rect
@@ -2415,7 +2229,7 @@
        id="rect5834"
        d="m 833.21719,885.86218 20.36358,0 c 2.16349,0 5.38092,1.32784 5.38092,2.97721 l 0,17.54558 c 0,1.64938 -1.74175,2.97721 -3.90525,2.97721 l -21.83925,0 0,-2.97721 0,-17.54558 c 0,-0.30643 -0.007,-2.97721 0,-2.97721 z"
        style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#9b9c9f;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2424,7 +2238,7 @@
        id="path5848"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2433,7 +2247,7 @@
        d="m 895.73301,909.43713 0,28.14258"
        style="fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2442,7 +2256,7 @@
        id="path5854"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2451,7 +2265,7 @@
        id="path5857"
        d="m 872.76613,889.14582 c 9.03844,0 22.92102,10.75084 22.92102,20.33271"
        style="color:#000000;fill:none;stroke:#9b9c9f;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2460,7 +2274,7 @@
        id="path5859"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2469,7 +2283,7 @@
        id="path5861"
        d="m 872.08173,941.48013 c 3.23323,0 8.19932,-3.8458 8.19932,-7.27343"
        style="color:#000000;fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2478,7 +2292,7 @@
        id="path5895"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2486,7 +2300,7 @@
        d="m 301.16926,842.54648 13.06278,0 0,26.79143 -13.06278,0 0,-26.79143 z"
        id="path3374"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2495,7 +2309,7 @@
        id="path5897"
        d="m 161.64169,870.76522 29.92256,0 0,-194.96155 83.67586,0 0,-28.625 -113.3946,0 z"
        style="fill:#e6e6e6;fill-opacity:1;stroke:#9b9c9f;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <rect
@@ -2506,7 +2320,7 @@
        id="rect5942"
        style="color:#000000;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        transform="matrix(0,-1,1,0,0,0)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2515,7 +2329,7 @@
        id="path5944"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2524,13 +2338,13 @@
        id="path3372"
        d="m 131.65011,673.51451 -0.69822,-33.7151 c 2.74946,-11.26553 8.88469,-19.27552 20.2913,-22.21689 l 49.98642,0 0,15.45196 -47.54784,0 c -4.29481,1.8057 -6.33325,4.96521 -7.30472,8.76489 l 1.3e-4,31.71514 z"
        style="fill:#f9f9f9;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <g
        id="g5930"
        transform="matrix(-1,0,0,-1,148.77752,1859.1285)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2561,7 +2375,7 @@
     <g
        transform="matrix(1.946805,0,0,1,-696.54931,1.1470466)"
        id="g5936"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2583,13 +2397,13 @@
        id="path5868-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <g
        transform="matrix(0,-1,1,0,-771.19336,635.40816)"
        id="g3316"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2620,7 +2434,7 @@
     <g
        id="g3326"
        transform="translate(227.8476,-284.56272)"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
@@ -2654,7 +2468,7 @@
        d="m 268.28879,648.66662 13.06278,0 0,25.63518 -13.06278,0 z"
        style="fill:#e6e6e6;fill-opacity:1;stroke:none"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2662,7 +2476,7 @@
        id="path3378"
        d="m 339.20621,845.50302 0,-13.06278 26.79143,0 0,13.06278 -26.79143,0 z"
        style="fill:#e6e6e6;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2671,7 +2485,7 @@
        id="path3380"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
@@ -2679,8 +2493,40 @@
        id="path3382"
        d="m 379.30456,906.00932 13.06278,0 0,26.79143 -13.06278,0 0,-26.79143 z"
        style="fill:#e6e6e6;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#d40000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 410.17581,415.04089 0,91.87523"
+       id="path11328"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:connector-curvature="0"
+       id="path13439"
+       d="m 717.67628,414.60719 0,139.21137"
+       style="color:#000000;fill:none;stroke:#d40000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       style="color:#000000;fill:none;stroke:#008080;stroke-width:2.99999976000000013;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 637.39803,800.48049 160.66023,0"
+       id="path13441"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/hydraulische-anlage.png"
+       inkscape:connector-curvature="0"
+       id="path14167"
+       d="m 369.61711,800.48049 79.49769,0"
+       style="color:#000000;fill:none;stroke:#008080;stroke-width:2.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>

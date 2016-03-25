@@ -160,6 +160,6 @@ die auf den Keil wirkende Kraft :math:`F`.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zur schiefen Ebene>`
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zur schiefen Ebene>`
     und :ref:`Übungsaufgaben <Aufgaben zur schiefen Ebene>`.
 

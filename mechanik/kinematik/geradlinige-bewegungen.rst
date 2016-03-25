@@ -467,6 +467,6 @@ _{\rm{0}}` lässt sich folgendermaßen beschreiben:
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu geradlinigen
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu geradlinigen
     Bewegungen>` und :ref:`Übungsaufgaben <Aufgaben zu geradlinigen Bewegungen>`.
 

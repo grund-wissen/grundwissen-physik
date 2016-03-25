@@ -397,6 +397,6 @@ bei einer kreisförmigen Bewegung.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu mechanischen Kräften>` und
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu mechanischen Kräften>` und
     :ref:`Übungsaufgaben <Aufgaben zu mechanischen Kräften>`.
 

@@ -226,7 +226,7 @@ Reibungseffekte auf, die mechanische Energie in Wärme umwandeln. [#]_
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu mechanischer Energie>` und
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu mechanischer Energie>` und
     :ref:`Übungsaufgaben <Aufgaben zu mechanischer Energie>`.
 
 

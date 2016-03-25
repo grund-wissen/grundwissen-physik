@@ -27,9 +27,10 @@ Kanten eines Hindernisses "gebeugt" wird.
 
 .. rubric:: Das Huygensche Prinzip
 
-Im Jahr 1678 veröffentlichte Christian Huygens ein Buch zur Wellentheorie des
-Lichts. Darin beschrieb er unter anderem das heute nach ihm benannte Prinzip der
-Elementarwellen:
+Im Jahr 1678 veröffentlichte `Christian Huygens
+<https://de.wikipedia.org/wiki/Christiaan_Huygens>`_ ein Buch zur Wellentheorie
+des Lichts. Darin beschrieb er unter anderem das heute nach ihm benannte Prinzip
+der Elementarwellen:
 
     Jeder Punkt einer Wellenfront stellt selbst wiederum einen Ausgangspunkt für
     eine neue, kreisförmig in alle Richtungen verlaufende Welle dar. Die
@@ -209,9 +210,9 @@ _{\rm{k}}` gelten zudem folgende geometrische Beziehungen:
         :download:`SVG: Interferenz am Doppelspalt (Winkelbeziehung 1)
         <../pics/optik/lichtbeugung-interferenz-doppelspalt-winkelbeziehung-1.svg>`
 
-* Betrachtet man in Abbildung ... das an den beiden Spaltöffnungen anliegende,
-  rechtwinklige Dreieck, so kann man folgenden Zusammenhang zwischen dem Winkel
-  :math:`\alpha`, dem Spaltabstand :math:`b` und dem Gangunterschied
+* Betrachtet man in der obigen Abbildung das an den beiden Spaltöffnungen
+  anliegende, rechtwinklige Dreieck, so kann man folgenden Zusammenhang zwischen
+  dem Winkel :math:`\alpha`, dem Spaltabstand :math:`b` und dem Gangunterschied
   :math:`\Delta s` erkennen:
 
   .. math::
@@ -233,11 +234,18 @@ _{\rm{k}}` gelten zudem folgende geometrische Beziehungen:
         :download:`SVG: Interferenz am Doppelspalt (Winkelbeziehung 2)
         <../pics/optik/lichtbeugung-interferenz-doppelspalt-winkelbeziehung-2.svg>`
 
-Da der Winkel :math:`\alpha` bei fast allen Doppelspalt-Versuchen sehr klein
-ist :math:`(\alpha < 5\degree)`, kann in sehr guter Näherung :math:`\sin{\alpha}
-\approx \tan{\alpha}` gesetzt werden. Damit lassen sich die obigen
-Zusammenhänge und die Bedingung :eq:`eqn-doppelspalt-maxima` für
-Intensitätsmaxima zu einer einzigen Formel zusammenfassen:
+Da der Winkel :math:`\alpha` bei fast allen Doppelspalt-Versuchen sehr klein ist
+:math:`(\alpha < 5\degree)`, kann in sehr guter Näherung folgende
+Kleinwinkelnäherung verwendet werden:
+
+.. math::
+
+    \sin{(\alpha)} = \frac{\sin{(\alpha)}}{1} \approx
+    \frac{\sin{(\alpha)}}{\cos{(\alpha)}} = \tan{(\alpha)}
+
+Mit dieser Näherung für kleine Winkel lassen sich die obigen Zusammenhänge und
+die Bedingung :eq:`eqn-doppelspalt-maxima` für Intensitätsmaxima zu einer
+einzigen Formel zusammenfassen:
 
 .. math::
 
@@ -327,14 +335,15 @@ Mittellinie bestimmt werden:
     \lambda = \frac{a \cdot g}{k \cdot s}
 
 Verwendet man für Interferenzversuche an einem optischen Gitter *kein*
-Laserlicht, so muss das auf das Gitter einfallende Lichtstrahl zuvor durch einen
-einzelnen dünnen Spalt (eine schmale Blende) begrenzt werden. Die Spaltöffnung
-wirkt in diesem Fall in guter Näherung wie eine einzige punktförmige
-Lichtquelle, so dass die Lichtwellen hinter dem Spalt eine (nahezu) konstante
-Phasenlage zueinander aufweisen. Diese Eigenschaft wird als "Kohärenz"
-bezeichnet. Bei der Verwendung von Lasern kann die spaltartige Blende vor dem
-Gitter weggelassen werden, da Laser aufgrund ihres besonderen Aufbaus bereits
-von sich aus kohärentes Licht erzeugen.
+Laserlicht, sondern ein anderes monochromatisches Licht, so muss das auf das
+Gitter einfallende Lichtstrahl zuvor durch einen einzelnen dünnen Spalt (eine
+schmale Blende) begrenzt werden. Die Spaltöffnung wirkt in diesem Fall in guter
+Näherung wie eine einzige punktförmige Lichtquelle, so dass die einzelnen
+Lichtwellen hinter dem Spalt eine (nahezu) konstante Phasenlage zueinander
+aufweisen, und somit einzelne Wellen gleicher Wellenlänge jeweils :ref:`kohärent
+<Kohärenz und Gangunterschied>` sind. Bei der Verwendung von Lasern kann die spaltartige Blende vor
+dem Gitter weggelassen werden, da Laser aufgrund ihres besonderen Aufbaus
+bereits von sich aus kohärentes Licht erzeugen.
 
 .. index::
     single: Spektrometer ; Gitterspektrometer

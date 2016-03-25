@@ -1,9 +1,9 @@
-.. _Versuche zu Drehmoment und Gleichgewicht:
+.. _Experimente zu Drehmoment und Gleichgewicht:
 
-Versuche zu Drehmoment und Gleichgewicht
-========================================
+Experimente zu Drehmoment und Gleichgewicht
+===========================================
 
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Drehmoment und
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Drehmoment und
 Gleichgewicht <Drehmoment und Gleichgewicht>`.
 
 ----
@@ -18,6 +18,20 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
     :columns: 2
 
     * Eine Wand
+
+.. figure::
+    ../pics/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png
+    :name: fig-experiment-gleichgewicht-an-wand
+    :alt:  fig-experiment-gleichgewicht-an-wand
+    :align: center
+    :width: 50%
+
+    Versuch, an einer Wand lehnend das Gleichgewicht zu halten.
+
+    .. only:: html
+
+        :download:`SVG: Gleichgewicht an Wand (Experiment)
+        <../pics/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png>`
 
 *Durchführung:*
 
@@ -40,11 +54,26 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
 
     * Mindestens 5, am besten gleich geformte Holzplättchen
 
+.. figure::
+    ../pics/mechanik/drehmoment-und-gleichgewicht/experiment-schraege-treppe.png
+    :name: fig-experiment-schraege-treppe
+    :alt:  fig-experiment-schraege-treppe
+    :align: center
+    :width: 65%
+
+    Aufbau einer schrägen Treppe aus Holzplättchen
+
+    .. only:: html
+
+        :download:`SVG: Schräge Treppe (Experiment)
+        <../pics/mechanik/drehmoment-und-gleichgewicht/experiment-schraege-treppe.svg>`
+
+
 *Durchführung:*
 
 - Versuche durch ein schiefes Aufeinanderstapeln der Holzplättchen eine Treppe
   zu bauen. Wann kippt diese um?
-- Wiederhole den Versuch, sofern genügend Holzplättchen vorhanden sind, indem
+- Wiederhole das Experiment, sofern genügend Holzplättchen vorhanden sind, indem
   Du eine Treppe aus je zwei oder drei nebeneinander liegenden Holzplättchen
   baust. Wird die Treppe so "stabiler"?
 
@@ -65,6 +94,20 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
     * Maurerschnur (ca. 30 cm lang)
     * Pendelgewicht
 
+.. figure::
+    ../pics/mechanik/drehmoment-und-gleichgewicht/experiment-schwerpunkt-eines-zweidimensionalen-koerpers.png
+    :name: fig-experiment-schwerpunkt-eines-zweidimensionalen-koerpers
+    :alt:  fig-experiment-schwerpunkt-eines-zweidimensionalen-koerpers
+    :align: center
+    :width: 65%
+
+    Bestimmung des Schwerpunkts eines beliebigen zweidimensionalen Körpers
+
+    .. only:: html
+
+        :download:`SVG: Schwerpunkt-Bestimmung (Experiment)
+        <../pics/mechanik/drehmoment-und-gleichgewicht/experiment-schwerpunkt-eines-zweidimensionalen-koerpers.svg>`
+
 *Durchführung:*
 
 - Zeichne eine beliebige, nicht zu kleine Form auf einem Karton auf.
@@ -84,7 +127,7 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
 
 .. Schwerpunkt zweidimensionaler Figuren
 
-.. todo:: Versuch zum Trägheitsmoment: Holzkugel und Holzzylinder mit gleichem
+.. todo:: Experiment zum Trägheitsmoment: Holzkugel und Holzzylinder mit gleichem
     Durchmesser und gleicher Masse (oder auch Holzzylinder mit gleichem
     Durchmesser, aber unterschiedlicher Länge/Masse) auf schiefer Ebene
     hinabrollen lassen. Unterschiedliches Trägheitsmoment -> nicht gleich

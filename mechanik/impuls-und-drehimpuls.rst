@@ -90,7 +90,7 @@ einen Zeitraum :math:`\Delta t` auf einen Körper einwirkt. Es gilt also:
 
 .. Kraft nicht konstant -> Integral von F(t) über dt
 
-.. index:: Impulserhaltungssatz, Stoßprozesse
+.. index:: Impulserhaltung, Stoßprozesse
 .. _Impulserhaltungssatz:
 
 .. rubric:: Der Impulserhaltungssatz
@@ -407,7 +407,7 @@ Erhaltung der Energie einen der wichtigsten Erhaltungssätze der Mechanik dar.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Impuls und
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu Impuls und
     Drehimpuls>` und :ref:`Übungsaufgaben <Aufgaben zu Impuls und Drehimpuls>`.
 
 

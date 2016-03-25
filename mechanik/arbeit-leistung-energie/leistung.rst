@@ -1,4 +1,4 @@
-.. index:: Leistung
+.. index:: Leistung, Watt
 .. _Leistung:
 
 Die Leistung
@@ -124,5 +124,5 @@ ziehen.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu mechanischer
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu mechanischer
     Leistung>` und :ref:`Übungsaufgaben <Aufgaben zu mechanischer Leistung>`.

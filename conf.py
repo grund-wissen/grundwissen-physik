@@ -15,8 +15,8 @@ master_doc     = 'index'
 project   = "Grundwissen Physik"
 copyright = "2011-2016, Bernhard Grotz"
 
-version = '0.4.1d'
-release = '0.4.1d'
+version = '0.4.1e'
+release = '0.4.1e'
 
 language = 'de'
 # spelling_lang = 'de_DE'
@@ -50,7 +50,7 @@ latex_preamble = r"""
 \usepackage{shadow}
 \usepackage{amsmath, units, cancel}
 \usepackage{amsfonts, amssymb,color}
-\usepackage{pifont,mdframed}
+\usepackage{pifont,mdframed,lscape}
 \usepackage{nicefrac,marvosym,wasysym, textcomp, gensymb} 
 \usepackage[left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry}
 % \usepackage{mathtools}

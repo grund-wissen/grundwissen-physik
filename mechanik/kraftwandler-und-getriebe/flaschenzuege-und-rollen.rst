@@ -160,6 +160,6 @@ für die Wirkungsweise eines Flaschenzugs ohne Bedeutung.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Flaschenzügen und
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu Flaschenzügen und
     Rollen>` und :ref:`Übungsaufgaben <Aufgaben zu Flaschenzügen und Rollen>`.
 

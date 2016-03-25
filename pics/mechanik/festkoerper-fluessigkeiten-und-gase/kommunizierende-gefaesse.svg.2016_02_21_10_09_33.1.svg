@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg5297"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="kommunizierende-gefaesse.svg">
+  <title
+     id="title11724">Verbundene Gefaesse</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.60983837"
+     inkscape:cx="689.79512"
+     inkscape:cy="498.30721"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-center="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       id="guide10390"
+       position="370.02104,350.70267"
+       orientation="0,1" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="424.74778,472.44589"
+       id="guide11631" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="307.12182,270.2231"
+       id="guide11666" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="641.41697,398.00686"
+       id="guide11668" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="673.24035,472.44589"
+       id="guide11695" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="707.69492,236.17847"
+       id="guide11697" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="272.10537,473.87157"
+       id="guide11722" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5299">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path4830" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;">
+      <path
+         id="path6637"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Send"
+       style="overflow:visible;">
+      <path
+         id="path6655"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path6631"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path6649"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Sstart"
+       style="overflow:visible">
+      <path
+         id="path6634"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.2) translate(6,0)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata5302">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Verbundene Gefaesse</dc:title>
+        <dc:date>2016-02-21</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Mechanik der Flüssigkeiten und Gase</rdf:li>
+            <rdf:li>Hydrostatisches Paradoxon</rdf:li>
+            <rdf:li>Verbundene Gefaesse</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/kommunizierende-gefaesse.png"
+       y="514.78253"
+       x="31.63916"
+       height="307.54086"
+       width="989.08386"
+       id="rect5337"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.39865708;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/kommunizierende-gefaesse.png"
+       inkscape:connector-curvature="0"
+       id="path10418"
+       d="m 743.97586,637.48683 0,161.87963 -435.58955,0 0.24993,-161.80969 80.05605,-0.0374 0.004,127.74041 81.11602,0.062 c 21.29917,-20.19065 26.30341,-53.7362 14.61021,-80.47957 -3.91478,-7.08673 -7.69157,-14.20797 -14.61021,-20.54374 -4.66772,-5.43737 -9.98133,-9.75713 -17.19705,-26.76045 l 29.43946,0 c 4.58239,11.79973 8.36201,16.37446 12.19555,21.4345 10.30935,10.27348 15.53936,18.28947 18.92767,25.48693 15.33957,33.85777 2.36074,64.5853 -14.23389,80.73822 l 98.50405,0.12416 0,-42.155 c -24.49338,-11.057 -24.02165,-43.60896 0,-54.55428 l 0,-25.45448 -8.62425,-5.62003 39.92862,0 -8.69194,5.51044 0,25.74139 c 25.9924,10.69361 22.38223,45.72053 0,54.31767 l -0.0543,42.21426 89.51506,-0.0621 0.1,-127.77293 z"
+       style="color:#000000;fill:#afc6e9;stroke:#87aade;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:1" />
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/kommunizierende-gefaesse.png"
+       transform="matrix(-1,0,0,1,1232.5904,62.631753)"
+       id="g7954">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/druckmessung-statisch-dynamisch.png"
+         style="fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 488.61457,736.7347 0,-238.10303"
+         id="path10481"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6071"
+         d="m 523.06914,702.69008 0,-202.22279"
+         style="fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/druckmessung-statisch-dynamisch.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+    </g>
+    <g
+       id="g11633"
+       style="fill:none;stroke:#9b9c9f;stroke-width:3.0208919;stroke-opacity:1"
+       transform="matrix(-0.9930842,0,0,0.9930842,986.58409,-12.806668)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/kommunizierende-gefaesse.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:open="true"
+         sodipodi:end="3.1415927"
+         sodipodi:start="1.569051"
+         transform="matrix(-0.25424969,-0.25424969,0.25424969,-0.25424969,462.30501,627.02336)"
+         d="M 36.424292,148.85449 C -74.061766,149.04732 -163.78474,59.637 -163.97757,-50.849058 c -2e-4,-0.116389 -3e-4,-0.232778 -3e-4,-0.349167"
+         sodipodi:ry="200.05301"
+         sodipodi:rx="200.05301"
+         sodipodi:cy="-51.198215"
+         sodipodi:cx="36.075134"
+         id="path11623"
+         style="color:#000000;fill:none;stroke:#9b9c9f;stroke-width:8.40155697;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#9b9c9f;stroke-width:8.40155697;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path11625"
+         sodipodi:cx="36.075134"
+         sodipodi:cy="-51.198215"
+         sodipodi:rx="200.05301"
+         sodipodi:ry="200.05301"
+         d="M 36.424292,148.85449 C -74.061766,149.04732 -163.78474,59.637 -163.97757,-50.849058 c -2e-4,-0.116389 -3e-4,-0.232778 -3e-4,-0.349167"
+         transform="matrix(0.25424969,-0.25424969,-0.25424969,-0.25424969,519.56455,728.8389)"
+         sodipodi:start="1.569051"
+         sodipodi:end="3.1415927"
+         sodipodi:open="true" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#9b9c9f;stroke-width:8.40155697;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path11627"
+         sodipodi:cx="36.075134"
+         sodipodi:cy="-51.198215"
+         sodipodi:rx="200.05301"
+         sodipodi:ry="200.05301"
+         d="M 36.424292,148.85449 C -74.061766,149.04732 -163.78474,59.637 -163.97757,-50.849058 c -2e-4,-0.116389 -3e-4,-0.232778 -3e-4,-0.349167"
+         transform="matrix(-0.25424969,-0.25424969,0.25424969,-0.25424969,491.78522,627.02336)"
+         sodipodi:start="1.569051"
+         sodipodi:end="3.1415927"
+         sodipodi:open="true" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="3.1415927"
+         sodipodi:start="1.569051"
+         transform="matrix(0.25424969,-0.25424969,-0.25424969,-0.25424969,549.04476,728.8389)"
+         d="M 36.424292,148.85449 C -74.061766,149.04732 -163.78474,59.637 -163.97757,-50.849058 c -2e-4,-0.116389 -3e-4,-0.232778 -3e-4,-0.349167"
+         sodipodi:ry="200.05301"
+         sodipodi:rx="200.05301"
+         sodipodi:cy="-51.198215"
+         sodipodi:cx="36.075134"
+         id="path11629"
+         style="color:#000000;fill:none;stroke:#9b9c9f;stroke-width:8.40155697;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g11650"
+       style="fill:none"
+       transform="matrix(-1,0,0,1,990.08124,-16.817253)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/kommunizierende-gefaesse.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:nodetypes="csccsc"
+         inkscape:connector-curvature="0"
+         id="path11641"
+         d="m 374.53646,379.75484 c -8.08599,-3.29648 -13.78514,-11.23637 -13.78514,-20.50737 0,-9.17918 5.58681,-17.05349 13.54558,-20.40806 m 17.02436,-0.0661 c 8.04299,3.31637 13.70409,11.23415 13.70409,20.47415 0,9.20987 -5.62425,17.10614 -13.62551,20.44156"
+         style="color:#000000;fill:none;stroke:#9b9c9f;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="matrix(1.3333333,0,0,1.3333333,-129.26944,153.67304)" />
+      <g
+         inkscape:export-ydpi="150"
+         inkscape:export-xdpi="150"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/u-rohr-manometer.png"
+         transform="translate(-144.59353,79.039061)"
+         id="g11643"
+         style="fill:none">
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/druckmessung-statisch-dynamisch.png"
+           style="fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 514.61457,592.62045 0,-11.79375 m 0,-54.31767 0,-25.6318"
+           id="path11645"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path11647"
+           d="m 537.06914,592.62045 0,-11.79375 m 0.15753,-54.31767 0,-25.6318"
+           style="fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/druckmessung-statisch-dynamisch.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+      </g>
+    </g>
+    <g
+       id="g11656"
+       transform="matrix(-1,0,0,1,990.08124,63.241806)"
+       style="fill:none"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/kommunizierende-gefaesse.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         transform="matrix(1.3333333,0,0,1.3333333,-129.26944,153.67304)"
+         style="color:#000000;fill:none;stroke:#9b9c9f;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 374.53646,379.75484 c -8.08599,-3.29648 -13.78514,-11.23637 -13.78514,-20.50737 0,-9.17918 5.58681,-17.05349 13.54558,-20.40806 m 17.02436,-0.0661 c 8.04299,3.31637 13.70409,11.23415 13.70409,20.47415 0,9.20987 -5.62425,17.10614 -13.62551,20.44156"
+         id="path11658"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccsc" />
+      <g
+         id="g11660"
+         transform="translate(-144.59353,79.039061)"
+         inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/u-rohr-manometer.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150"
+         style="fill:none">
+        <path
+           inkscape:connector-curvature="0"
+           id="path11662"
+           d="m 514.61457,622.62045 0,-41.79375 m 0,-54.31767 0,-25.6318"
+           style="fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/druckmessung-statisch-dynamisch.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150"
+           sodipodi:nodetypes="cccc" />
+        <path
+           inkscape:export-ydpi="150"
+           inkscape:export-xdpi="150"
+           inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/druckmessung-statisch-dynamisch.png"
+           style="fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 537.06914,622.62045 0,-41.79375 m 0,-54.31767 0,-25.6318"
+           id="path11664"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    <g
+       id="g10408"
+       transform="matrix(-1,0,0,1,1064.8823,-19.04509)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/kommunizierende-gefaesse.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         transform="translate(-1.192185,65.868352)"
+         id="g10410">
+        <path
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           d="m 677.23365,718.49857 -81.77646,0 m -29.31105,0 -97.36186,0 m -23.36685,0 -88.86419,0 m 320.68041,0 0,-203.64847"
+           style="fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           id="path10412"
+           inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/druckmessung-statisch-dynamisch.png"
+           inkscape:export-xdpi="150"
+           inkscape:export-ydpi="150" />
+      </g>
+      <path
+         d="m 756.49603,818.41155 -435.58955,0 m 435.58955,0 0,-237.6931"
+         style="fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         id="path10414"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+  </g>
+</svg>
