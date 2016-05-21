@@ -1,8 +1,8 @@
 
-.. _Leiter, Halbleiter und Isolator:
+.. _Leiter, Halbleiter und Isolatoren:
 
-Leiter, Halbleiter und Isolator
-===============================
+Leiter, Halbleiter und Isolatoren
+=================================
 
 Ob ein elektrischer Strom in einem Stoff fließen kann, hängt von der Anzahl der
 frei beweglichen Ladungsträger innerhalb des Stoffes ab.
@@ -359,3 +359,13 @@ Blitzableitern ausgestattet.
 .. [#]  Die fest verankerten Atomrümpfe und damit die Protonen der fünf- bzw.
         dreiwertigen Donator- bzw. Akzeptor-Atome bleiben in den jeweiligen
         Schichten zurück.
+
+.. hint::
+
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Leiter,
+    Halbleiter und Isolatoren>`.
+
+.. und :ref:`Übungsaufgaben <Aufgaben Leiter, Halbleiter und Isolatoren>`.
+
+
+

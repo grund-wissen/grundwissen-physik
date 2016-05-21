@@ -4,18 +4,19 @@
 Lösungen zur Wärmelehre
 =======================
 
-.. _Lösungen zu Temperatur und Wärme:
 
-Lösungen zu Temperatur und Wärme
---------------------------------
+.. _Lösungen Temperatur und Wärme:
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
+Temperatur und Wärme
+--------------------
+
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
 Temperatur und Wärme>` zum Abschnitt :ref:`Temperatur und Wärme <Temperatur und
 Wärme>`.
 
 ----
 
-.. _Temperatur-01-Lösung:
+.. _wte01l:
 
 * Um eine Temperatur von Grad Celsius in Grad Fahrenheit umzurechnen, muss man
   den Temperaturwert in die entsprechende Umrechnungsgleichung einsetzen:
@@ -25,21 +26,21 @@ Wärme>`.
       \text{Temperatur in \textdegree F} &= (\text{Temperatur in \textdegree
       C} \cdot 1,8) + 32 \\[4pt]
 
-  Mit :math:`T _{\rm{C}} = \unit[20]{\degree C }` gilt somit:
+  Mit :math:`T_{\mathrm{C}} = \unit[20]{\degree C }` gilt somit:
 
   .. math::
 
-      T _{\rm{F}} = (T _{\rm{C}} \cdot 1,8) + 32 = \unit[((20 \cdot 1,8) +
+      T_{\mathrm{F}} = (T_{\mathrm{C}} \cdot 1,8) + 32 = \unit[((20 \cdot 1,8) +
       32)]{\degree F} = \unit[68]{\degree F}
 
   Eine Temperatur von :math:`\unit[20]{\degree C }` entspricht somit einer
   Temperatur von :math:`\unit[68]{\degree F}`.
 
-  :ref:`Zurück zur Aufgabe <Temperatur-01>`
+  :ref:`Zurück zur Aufgabe <wte01>`
 
 ----
 
-.. _Temperatur-02-Lösung:
+.. _wte02l:
 
 * Um eine in Grad Celsius angegebene Temperatur in Kelvin umzurechnen,
   muss lediglich :math:`273` zum Temperaturwert hinzu addiert werden:
@@ -49,11 +50,11 @@ Wärme>`.
       \text{Temperatur in K} &= \text{Temperatur in \textdegree C} + 273
       \\[4pt]
 
-  Mit :math:`T _{\rm{C}} = \unit[40]{\degree C }` folgt somit:
+  Mit :math:`T_{\mathrm{C}} = \unit[40]{\degree C }` folgt somit:
 
   .. math::
 
-      T = T _{\rm{C}} + 273 = \unit[40 + 273]{K} = \unit[313]{K}
+      T = T_{\mathrm{C}} + 273 = \unit[40 + 273]{K} = \unit[313]{K}
 
   Zur Umrechnung von Grad Celsius in Grad Fahrenheit muss der gegebene
   Temperaturwert in die passende Umrechnungs-Gleichung eingesetzt werden:
@@ -67,38 +68,38 @@ Wärme>`.
 
   .. math::
 
-      T _{\rm{F}} = (T _{\rm{C}} \cdot 1,8) + 32 = \unit[((40 \cdot 1,8) +
+      T_{\mathrm{F}} = (T_{\mathrm{C}} \cdot 1,8) + 32 = \unit[((40 \cdot 1,8) +
       32)]{\degree F} = \unit[104]{\degree F}
 
   Eine Temperatur von :math:`\unit[40]{\degree C }` entspricht somit einer
   Temperatur von :math:`\unit[313]{K}` bzw. von :math:`\unit[68]{\degree F}`.
 
-  :ref:`Zurück zur Aufgabe <Temperatur-02>`
+  :ref:`Zurück zur Aufgabe <wte02>`
 
 ----
 
 
-.. _Lösungen zu Wärmekapazität und Phasenübergängen:
+.. _Lösungen Wärmekapazität und Phasenübergänge:
 
-Lösungen zu Wärmekapazität und Phasenübergängen
------------------------------------------------
+Wärmekapazität und Phasenübergänge
+----------------------------------
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
-Wärmekapazität und Phasenübergängen>` zum Abschnitt :ref:`Wärmekapazität und
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
+Wärmekapazität und Phasenübergänge>` zum Abschnitt :ref:`Wärmekapazität und
 Phasenübergänge <Wärmekapazität und Phasenübergänge>`.
 
 ----
 
-.. _Wärmekapazität-und-Schmelzwärme-01-Lösung:
+.. _wka01l:
 
-* Um :math:`m=\unit[5]{kg}` Eis mit einer Schmelzwärme von :math:`q _{\rm{s}} =
+* Um :math:`m=\unit[5]{kg}` Eis mit einer Schmelzwärme von :math:`q_{\mathrm{s}} =
   \unit[334]{kJ/kg}` und einer Temperatur von :math:`T = \unit[0]{\degree C}` zu
   schmelzen, muss eine Wärmemenge :math:`\Delta Q` zugeführt werden, die der
   Schmelzwärme dieser Eismenge entspricht:
 
   .. math::
 
-      Q = m \cdot q _{\rm{s}} = \unit[5]{kg} \cdot \unit[334]{\frac{kJ}{kg}} =
+      Q = m \cdot q_{\mathrm{s}} = \unit[5]{kg} \cdot \unit[334]{\frac{kJ}{kg}} =
       \unit[1670]{kJ}
 
   Mit dieser Wärmemenge würden sich :math:`m=\unit[5]{kg}` Wasser mit einer
@@ -115,25 +116,25 @@ Phasenübergänge <Wärmekapazität und Phasenübergänge>`.
   Mit der zum Schmelzen von Eis nötigen Wärmemenge könnte die gleiche Masse an
   Wasser somit auf knapp :math:`\unit[80]{\degree C}` erhitzt werden.
 
-:ref:`Zurück zur Aufgabe <Wärmekapazität-und-Schmelzwärme-01>`
+:ref:`Zurück zur Aufgabe <wka01>`
 
 ----
 
 
-.. _Lösungen zur Ausbreitung von Wärme:
+.. _Lösungen Ausbreitung von Wärme:
 
-Lösungen zur Ausbreitung von Wärme
-----------------------------------
+Ausbreitung von Wärme
+---------------------
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zur
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
 Ausbreitung von Wärme>` zum Abschnitt :ref:`Ausbreitung von Wärme <Ausbreitung
 von Wärme>`.
 
 ----
 
-.. _Wärmeleitung-02-Lösung:
+.. _wau01l:
 
-* Der Wärmestrom :math:`I _{\rm{Q}}` durch das einfach verglaste Fenster kann
+* Der Wärmestrom :math:`I_{\mathrm{Q}}` durch das einfach verglaste Fenster kann
   direkt mit Hilfe der Wärmeleitungs-Formel berechnet werden. Mit :math:`A =
   \unit[2]{m^2}`, :math:`\lambda = \unit[1]{\frac{W}{m \cdot K}}`, :math:`l =
   \unit[4]{mm}` und :math:`\Delta T = \unit[20]{\degree C} -
@@ -141,7 +142,7 @@ von Wärme>`.
 
   .. math::
 
-      I _{\rm{Q}} &= j _{\rm{Q}} \cdot A = \frac{\lambda \cdot A}{l} \cdot
+      I_{\mathrm{Q}} &= j_{\mathrm{Q}} \cdot A = \frac{\lambda \cdot A}{l} \cdot
       \Delta T \\ &= \frac{\unit[1]{\frac{W}{m \cdot K}} \cdot \unit[1,0]{m^2}}{\unit[0,004]{m}} \cdot
       \unit[15]{K} = \unit[3\,750]{W}
 
@@ -149,11 +150,11 @@ von Wärme>`.
   ebenso hohe Heizleistung benötigen, um den Wärmeverlust zu kompensieren,
   andernfalls würde die Temperatur im Zimmer absinken.
 
-  :ref:`Zurück zur Aufgabe <Wärmeleitung-02>`
+  :ref:`Zurück zur Aufgabe <wau01>`
 
 ----
 
-.. _Wärmeleitung-03-Lösung:
+.. _wau02l:
 
 * Bei einem Wärmestrom durch ein doppelt verglastes Fenster sind die einzelnen
   Wärmewiderstände in Reihe geschaltet; es addieren sich somit die einzelnen
@@ -167,17 +168,18 @@ von Wärme>`.
 
   .. math::
 
-      R _{\rm{ges}} &= R_1 + R_2 + R_3 = 2 \cdot R_1 + R_2 \\ &= 2 \cdot \left(
-      \frac{l_1}{\lambda_1 \cdot A_1}\right) + \frac{l_2}{\lambda_2 \cdot A_2}
-      \\ &= 2 \cdot \left( \frac{\unit[0,004]{m}}{\unit[1]{\frac{W}{m \cdot K}} \cdot \unit[2]{m^2}}\right)
-      +\frac{\unit[0,01]{m}}{\unit[0,025]{\frac{W}{m \cdot K}} \cdot \unit[2]{m^2}}
-      = \unit[0,204]{\frac{K}{W}}
+      R_{\mathrm{ges}} &= R_1 + R_2 + R_3 = 2 \cdot R_1 + R_2 \\ &= 2 \cdot
+      \left( \frac{l_1}{\lambda_1 \cdot A_1}\right) + \frac{l_2}{\lambda_2 \cdot
+      A_2} \\
+      &= 2 \cdot \left( \frac{\unit[0,004]{m}}{\unit[1]{\frac{W}{m \cdot K}}
+      \cdot \unit[2]{m^2}}\right) +\frac{\unit[0,01]{m}}{\unit[0,025]{\frac{W}{m
+      \cdot K}} \cdot \unit[2]{m^2}} = \unit[0,204]{\frac{K}{W}}
 
   Für den Wärmestrom gilt damit:
 
   .. math::
 
-      I _{\rm{Q,RS}} = \frac{\Delta T}{R _{\rm{ges}}} =
+      I_{\mathrm{Q,RS}} = \frac{\Delta T}{R_{\mathrm{ges}}} =
       \frac{\unit[15]{K}}{\unit[0,204]{\frac{K}{W}}} \approx \unit[73,5]{W}
 
   Obwohl das Fenster eine doppelt so große Fläche :math:`A` hat wie das einfach
@@ -186,18 +188,18 @@ von Wärme>`.
   (oder sogar dreifach) verglaste Fenster in Häuser eingebaut.
 
 
-  :ref:`Zurück zur Aufgabe <Wärmeleitung-03>`
+  :ref:`Zurück zur Aufgabe <wau02>`
 
 ----
 
-.. _Wärmestrahlung-01-Lösung:
+.. _wau03l:
 
 * Bei einer Verdopplung der Temperatur ergibt sich folgendes Verhältnis der
   Strahlungsleistungen:
 
   .. math::
 
-      \frac{I _{\rm{Q,2}}}{I _{\rm{Q,1}}} = \frac{\sigma \cdot A \cdot
+      \frac{I_{\mathrm{Q,2}}}{I_{\mathrm{Q,1}}} = \frac{\sigma \cdot A \cdot
       T_2^4}{\sigma \cdot A \cdot T_1^4} = \frac{T_2^4}{T_1^4} = \frac{(2 \cdot
       T_1)^4}{T_1^4} = 2^4 = 16
 
@@ -210,7 +212,7 @@ von Wärme>`.
 
   .. math::
 
-      \frac{I _{\rm{Q,2}}}{I _{\rm{Q,1}}} = \frac{\sigma \cdot A \cdot
+      \frac{I_{\mathrm{Q,2}}}{I_{\mathrm{Q,1}}} = \frac{\sigma \cdot A \cdot
       T_2^4}{\sigma \cdot A \cdot T_1^4} = \frac{T_2^4}{T_1^4} =
       \frac{(\unit[(273+40)]{K})^4}{(\unit[(273+10)]{K})^4} \approx 1,5
 
@@ -220,22 +222,22 @@ von Wärme>`.
   absoluten Temperaturwerten gerechnet wird und eine vierfache
   Celsius-Temperatur somit nicht einer vierfachen Kelvin-Temperatur entspricht.
 
-  :ref:`Zurück zur Aufgabe <Wärmestrahlung-01>`
+  :ref:`Zurück zur Aufgabe <wau03>`
 
 ----
 
-.. _Lösungen zur Ausdehnung bei Erwärmung:
+.. _Lösungen Ausdehnung bei Erwärmung:
 
-Lösungen zur Ausdehnung bei Erwärmung
--------------------------------------
+Ausdehnung bei Erwärmung
+------------------------
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zur
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
 Ausdehnung bei Erwärmung>` zum Abschnitt :ref:`Ausdehnung bei Erwärmung
 <Ausdehnung bei Erwärmung>`.
 
 ----
 
-.. _Wärmeausdehnung-Festkörper-01-Lösung:
+.. _wde01l:
 
 * Durch die Erwärmung dehnt sich das Metall-Lineal und damit auch seine
   Mess-Skala leicht aus. Mit dem erhitzten Lineal gemessene Werte sind somit
@@ -244,7 +246,7 @@ Ausdehnung bei Erwärmung>` zum Abschnitt :ref:`Ausdehnung bei Erwärmung
   *Beispiel:*
 
   Angenommen, das Lineal bestünde aus Eisen; damit würde es sich um
-  :math:`\alpha _{\rm{Fe}} = \unit[0,0121]{mm}` je Meter Ausgangslänge und je
+  :math:`\alpha_{\mathrm{Fe}} = \unit[0,0121]{mm}` je Meter Ausgangslänge und je
   Kelvin Temperaturerhöhung ausdehnen. Ist das Lineal beispielsweise :math:`l
   = \unit[50]{cm} = \unit[0,5]{m}` lang und heizt sich um :math:`\Delta T =
   \unit[50]{K}` auf, so dehnt es sich um folgende Länge aus:
@@ -260,11 +262,11 @@ Ausdehnung bei Erwärmung>` zum Abschnitt :ref:`Ausdehnung bei Erwärmung
   diesem Fall nicht von Bedeutung. Auch das erhitzte Lineal kann somit weiter
   zur Längenmessung verwendet werden.
 
-  :ref:`Zurück zur Aufgabe <Wärmeausdehnung-Festkörper-01>`
+  :ref:`Zurück zur Aufgabe <wde01>`
 
 ----
 
-.. _Wärmeausdehnung-Festkörper-02-Lösung:
+.. _wde02l:
 
 * Aluminium hat den größeren Längen-Ausdehnungskoeffizient als Stahl
   :math:`(\unit[0,024]{\frac{mm}{m \cdot K} } > \unit[0,010]{\frac{mm}{m
@@ -272,14 +274,14 @@ Ausdehnung bei Erwärmung>` zum Abschnitt :ref:`Ausdehnung bei Erwärmung
   sich der Bimetall-Streifen nach oben verbiegen, muss somit das Aluminium
   nach unten bzw. der Chrom-Stahl nach oben zeigen.
 
-  :ref:`Zurück zur Aufgabe <Wärmeausdehnung-Festkörper-02>`
+  :ref:`Zurück zur Aufgabe <wde02>`
 
 ----
 
-.. _Wärmeausdehnung-Festkörper-03-Lösung:
+.. _wde03l:
 
 * Der Längen-Ausdehnungskoeffizient von Kupfer beträgt :math:`(\alpha
-  _{\rm{Cu}} = \unit[0,0168]{\frac{mm}{m \cdot K} })`. Durch die Erwärmung um
+  _{\mathrm{Cu}} = \unit[0,0168]{\frac{mm}{m \cdot K} })`. Durch die Erwärmung um
   :math:`\Delta T = \unit[40]{K}` dehnt sich der :math:`\unit[120]{m}` lange
   Draht somit um folgenden Betrag aus:
 
@@ -292,53 +294,73 @@ Ausdehnung bei Erwärmung>` zum Abschnitt :ref:`Ausdehnung bei Erwärmung
   Der Kupfer-Draht dehnt sich somit um rund :math:`\unit[10]{cm}` aus. Seine
   neue Länge beträgt damit :math:`l + \Delta l \approx \unit[121,1]{m}`.
 
-  :ref:`Zurück zur Aufgabe <Wärmeausdehnung-Festkörper-03>`
+  :ref:`Zurück zur Aufgabe <wde03>`
 
 ----
 
-.. _Wärmeausdehnung-Festkörper-04-Lösung:
+.. _wde04l:
 
-* Die maximale Längenschwankung der :math:`l = \unit[300]{m}` langen Brücke
-  kann anhand des Temperaturunterschieds :math:`\Delta T = T _{\rm{warm}} - T
-  _{\rm{kalt}} = \unit[30]{\degree C} - (\unit[-15]{\degree C }) =
-  \unit[+45]{K}` sowie des angegebenen Längen-Ausdehnungskoeffizienten
-  :math:`(\alpha _{\rm{Beton}} = \unit[0,012]{\frac{mm}{ m \cdot K} })`
+* Die Längenschwankung Brücke kann anhand der Temperaturunterschiede :math:`(T_2
+  -T_1 = \unit[(-15 - 15)]{K} = \unit[-30]{K}` im Winter beziehungsweise
+  :math:`(T_3 - T_1 = \unit[(+40 - 15)]{K} = \unit[+25]{K}` im Sommer
   berechnet werden:
 
   .. math::
 
-      \Delta l = \alpha \cdot l \cdot \Delta t = \unit[0,012]{\frac{mm}{ m
-      \cdot K} } \cdot \unit[300]{m} \cdot \unit[45]{K} = \unit[162]{mm} =
-      \unit[16,2]{cm}
+      l_2 &= l_1 \cdot (1 + \alpha \cdot (T_2-T_1) = \unit[300]{m} \cdot (1 +
+      \unit[12 \cdot 10^{-6}]{\frac{1}{K}} \cdot \unit[(-30)]{K}) \approx
+      \unit[299,892]{m} \\[4pt]
+      l_3 &= l_1 \cdot (1 + \alpha \cdot (T_3-T_1) = \unit[300]{m} \cdot (1 +
+      \unit[12 \cdot 10^{-6}]{\frac{1}{K}} \cdot \unit[(+25)]{K}) \approx
+      \unit[300,09]{m} \\[4pt]
 
   Die Längenschwankung der Brücke zwischen sommererlichen und winterlichen
-  Temperaturen beträgt somit gut :math:`\unit[16]{cm}`.
+  Temperaturen beträgt somit :math:`l_3 - l_2 \approx \unit[19,8]{cm}`
 
-  :ref:`Zurück zur Aufgabe <Wärmeausdehnung-Festkörper-04>`
+  :ref:`Zurück zur Aufgabe <wde04>`
 
 ----
 
-.. _Wärmeausdehnung-Flüssigkeiten-01-Lösung:
+* (\*) An einem Sommertag scheint die Sonne auf einen Tank mit einem Volumen von
+  :math:`V_0=\unit[50]{l}`; der Tank erhitzt sich dabei von
+  :math:`T_0=\unit[15]{\degree C}` auf :math:`\unit[50]{\degree C}`. Auf welches
+  Volumen dehnt sich der Tank aus? Um welches Volumen würde sich ein gleiches
+  Volumen an Benzin bei gleicher Temperaturdifferenz ausdehnen?
 
-* Das Benzin (Volumen :math:`V = \unit[40]{l}`, Volumen-Ausdehnungskoeffizient
-  :math:`\gamma = \unit[1,06 \cdot 10 ^{-3}]{\frac{1}{K} }`) wird im Tank um
-  :math:`\Delta T = T _{\rm{warm}} = T _{\rm{kalt}} = \unit[70]{\degree C } -
-  \unit[20]{\degree C } = \unit[50]{K}` erhitzt. Die Volumenausdehnung beträgt dabei:
+
+.. _wde05l:
+
+* Für den Stahltank als Festkörper gilt :math:`\gamma \approx 3 \cdot \alpha =
+  \unit[35,4 \cdot 10^{-6}]{\frac{1}{K}}`. Damit dehnt sich der Tank bei der
+  Temperaturerhöhung um :math:`\Delta T = \unit[35]{K}` auf folgendes Volumen
+  aus:
 
   .. math::
 
-      \Delta V = \gamma \cdot \Delta T \cdot V = \unit[1,06 \cdot 10
-      ^{-3}]{\frac{1}{K} } \cdot \unit[50]{K} \cdot \unit[40]{l} =
-      \unit[2,12]{l}
+      V_{\mathrm{neu}} = V_0 \cdot (1 + \gamma_{\mathrm{Stahl}} \cdot \Delta T)
+      = \unit[50]{l} \cdot (1 + \unit[35,4 \cdot 10^{-6}]{\frac{1}{K}} \cdot
+      \unit[35]{K} \approx \unit[50,06]{l}
 
-  Das Volumen nimmt somit um :math:`\unit[2,12]{l}` zu. Das neue Volumen
-  beträgt folglich :math:`V + \Delta V = \unit[42,12]{l}`.
+  Ein ebenso großes Ausgangsvolumen an Benzin dehnt sich hingegen bei gleicher
+  Temperaturdifferenz auf folgendes Volumen aus:
 
-  :ref:`Zurück zur Aufgabe <Wärmeausdehnung-Flüssigkeiten-01>`
+  .. math::
+
+      V_{\mathrm{neu}} = V_0 \cdot (1 + \gamma_{\mathrm{Benzin}} \cdot \Delta T)
+      = \unit[50]{l} \cdot (1 + \unit[1,06 \cdot 10^{-3}]{\frac{1}{K}} \cdot
+      \unit[35]{K} \approx \unit[51,86]{l}
+
+  Das Benzin dehnt sich folglich wesentlich stärker aus als der Tank. Bei einem
+  randvoll gefüllten Tank besteht somit die Gefahr, dass er sich bei Erwärmung
+  verformt oder reißt; Tankbehälter sollten somit nie komplett gefüllt werden,
+  oder ersatzweise (beispielsweise bei Heizungsanlagen) mit einem Überlauf-Gefäß
+  ausgestattet sein.
+
+  :ref:`Zurück zur Aufgabe <wde05>`
 
 ----
 
-.. _Wärmeausdehnung-Flüssigkeiten-02-Lösung:
+.. _wde06l:
 
 * Eine Besonderheit ("Anomalie") des Wassers liegt darin, dass es sich beim
   Erwärmen von :math:`\unit[0]{\degree C }` bis zu einer Temperatur von
@@ -351,11 +373,11 @@ Ausdehnung bei Erwärmung>` zum Abschnitt :ref:`Ausdehnung bei Erwärmung
   ausdehnt. Eis hat somit eine geringere Dichte als Wasser und kann daher auf
   Wasser schwimmen.
 
-  :ref:`Zurück zur Aufgabe <Wärmeausdehnung-Flüssigkeiten-02>`
+  :ref:`Zurück zur Aufgabe <wde06>`
 
 ----
 
-.. _Wärmeausdehnung-Gase-01-Lösung:
+.. _wde07l:
 
 * Jedes Gas füllt stets den ganzen Raum aus, der ihm zur Verfügung gestellt
   wird. Möchte man ein Gasvolumen komprimieren, so muss gegen das Gas Arbeit
@@ -367,11 +389,11 @@ Ausdehnung bei Erwärmung>` zum Abschnitt :ref:`Ausdehnung bei Erwärmung
   der Reibung des Kolbens am Gehäuse der Luftpumpe, zum anderen wird stets
   ein Teil der zugeführten Kompressionsarbeit in Wärme-Energie umgewandelt. [#]_
 
-  :ref:`Zurück zur Aufgabe <Wärmeausdehnung-Gase-01>`
+  :ref:`Zurück zur Aufgabe <wde07>`
 
 ----
 
-.. _Wärmeausdehnung-Gase-02-Lösung:
+.. _wde08l:
 
 * Nach dem Modell eines idealen Gases kann das Eigenvolumen der Gasteilchen
   gegenüber dem Volumen, das diese anhand ihrer Bewegung einnehmen, völlig
@@ -390,43 +412,42 @@ Ausdehnung bei Erwärmung>` zum Abschnitt :ref:`Ausdehnung bei Erwärmung
   kondensieren deshalb, bevor sie den absoluten Temperatur-Nullpunkt
   erreichen. [#]_
 
-  :ref:`Zurück zur Aufgabe <Wärmeausdehnung-Gase-02>`
+  :ref:`Zurück zur Aufgabe <wde08>`
 
 ----
 
-.. _Wärmeausdehnung-Gase-03-Lösung:
+.. _wde09l:
 
 * Nach der Zustandsgleichung eines idealen Gases ist der Quotient
   :math:`\frac{p \cdot V}{T}` eines bestimmten Gasvolumens stets konstant.
-  Das gesuchte Volumen :math:`V _{\rm{2}}` nach der angegebenen
+  Das gesuchte Volumen :math:`V_2` nach der angegebenen
   Zustandsänderung kann durch Auflösung der Zustandsgleichung aus den
   übrigen fünf Größen berechnet werden:
 
   .. math::
 
-      \frac{p _{\rm{1}} \cdot V _{\rm{1}} }{T _{\rm{1}} } = \frac{p _{\rm{2}}
-      \cdot V _{\rm{2}}  }{T _{\rm{2}} } \quad \Longleftrightarrow \quad V
-      _{\rm{2}} = \frac{p _{\rm{1}} \cdot V _{\rm{1}} \cdot T _{\rm{2}} }{T
-      _{\rm{1}} \cdot p _{\rm{2}} }
+      \frac{p_1 \cdot V_1 }{T_1 } = \frac{p_2
+      \cdot V_2  }{T_2 } \quad \Longleftrightarrow \quad V
+      _2 = \frac{p_1 \cdot V_1 \cdot T_2 }{T
+      _1 \cdot p_2 }
 
-  Setzt man die gegebenen Werte ein :math:`(p _{\rm{1}} = \unit[1]{bar},\; T
-  _{\rm{1}} = \unit[300]{K},\; V _{\rm{1}} = \unit[30]{cm^3},\; p _{\rm{2}} =
-  \unit[4]{bar},\; T _{\rm{2}} = \unit[500]{K})`, so erhält man:
+  Setzt man die gegebenen Werte ein :math:`(p_1 = \unit[1]{bar},\; T_1 =
+  \unit[300]{K},\; V_1 = \unit[30]{cm^3},\; p_2 = \unit[4]{bar},\; T_2 =
+  \unit[500]{K})`, so erhält man:
 
   .. math::
 
-      V _{\rm{2}} = \frac{p _{\rm{1}} \cdot V _{\rm{1}} \cdot T _{\rm{2}} }{T
-      _{\rm{1}} \cdot p _{\rm{2}} } = \frac{\unit[1]{bar} \cdot
-      \unit[30]{cm^3} \cdot \unit[500]{K}}{\unit[300]{K} \cdot \unit[4]{bar}}
-      = \unit[12,5]{cm^3}
+      V_2 = \frac{p_1 \cdot V_1 \cdot T_2 }{T _1 \cdot p_2 } =
+      \frac{\unit[1]{bar} \cdot \unit[30]{cm^3} \cdot
+      \unit[500]{K}}{\unit[300]{K} \cdot \unit[4]{bar}} = \unit[12,5]{cm^3}
 
   Das neue Volumen beträgt somit :math:`\unit[12,5]{cm^3}`.
 
-  :ref:`Zurück zur Aufgabe <Wärmeausdehnung-Gase-03>`
+  :ref:`Zurück zur Aufgabe <wde09>`
 
 ----
 
-.. _Wärmeausdehnung-Gase-04-Lösung:
+.. _wde10l:
 
 * Bleibt der Druck :math:`p` während der Zustandsänderung eines Gases
   konstant, vereinfacht sich die Zustandsgleichung für ideale Gase
@@ -434,37 +455,34 @@ Ausdehnung bei Erwärmung>` zum Abschnitt :ref:`Ausdehnung bei Erwärmung
 
   .. math::
 
-    \frac{V _{\rm{1}} }{T _{\rm{1}} } = \frac{V _{\rm{2}} }{T _{\rm{2}} }
+    \frac{V_1}{T_1} = \frac{V_2}{T_2}
 
-  Somit kann durch Einsetzen der gegebenen Größen :math:`(V _{\rm{1}} =
-  \unit[20]{m^2} \times \unit[2,5]{m} = \unit[50]{m^3},\, T _{\rm{1}} =
-  \unit[12]{\degree C } = \unit[285]{K} ,\, T _{\rm{2}} = \unit[20]{\degree C} =
-  \unit[293]{K})` das Volumen der erwärmten Luft :math:`V _{\rm{2}}` berechnet
+  Somit kann durch Einsetzen der gegebenen Größen :math:`(V_1 =
+  \unit[20]{m^2} \times \unit[2,5]{m} = \unit[50]{m^3},\, T_1 =
+  \unit[12]{\degree C } = \unit[285]{K} ,\, T_2 = \unit[20]{\degree C} =
+  \unit[293]{K})` das Volumen der erwärmten Luft :math:`V_2` berechnet
   werden:
 
   .. math::
 
-      \frac{V _{\rm{1}} }{T _{\rm{1}} } = \frac{V _{\rm{2}} }{T _{\rm{2}} }
-      \quad \Longleftrightarrow \quad V _{\rm{2}} = \frac{V _{\rm{1}} \cdot T
-      _{\rm{2}} }{T _{\rm{1}} }
+      \frac{V_1}{T_1} = \frac{V_2}{T_2} \quad \Longleftrightarrow \quad V_2 =
+      \frac{V_1 \cdot T_2}{T_1}
 
   .. math::
 
-     V _{\rm{2}} = \frac{V _{\rm{1}} \cdot T _{\rm{2}} }{T _{\rm{1}} } =
-     \frac{\unit[50]{m^3} \cdot \unit[293]{K}}{\unit[285]{K }} \approx
-     \unit[51,4]{m^3}
+     V_2 = \frac{V_1 \cdot T_2}{T_1} = \frac{\unit[50]{m^3} \cdot
+     \unit[293]{K}}{\unit[285]{K}} \approx \unit[51,4]{m^3}
 
   Bei gleichem Druck würde sich die Luft somit auf ein Volumen von
   :math:`\unit[51,4]{m^3}` ausdehnen. Da das Volumen des Raum jedoch nur
   :math:`\unit[50]{m^3}` beträgt, müssen bei der höheren Temperatur
-  :math:`\Delta V = V _{\rm{2}} - V _{\rm{1}} = \unit[1,4]{m^3}` Luft aus dem
-  Raum entweichen.
+  :math:`\Delta V = V_2 - V_1 = \unit[1,4]{m^3}` Luft aus dem Raum entweichen.
 
-  :ref:`Zurück zur Aufgabe <Wärmeausdehnung-Gase-04>`
+  :ref:`Zurück zur Aufgabe <wde10>`
 
 ----
 
-.. _Wärmeausdehnung-Gase-05-Lösung:
+.. _wde11l:
 
 * Der Behälter enthält :math:`V_1=\unit[500]{l}` Luft bei einem Überdruck von
   :math:`\unit[3 \cdot 10^5]{Pa}`, der absolute Luftdruck im Behälter beträgt
@@ -496,38 +514,37 @@ Ausdehnung bei Erwärmung>` zum Abschnitt :ref:`Ausdehnung bei Erwärmung
   Es ist somit eine zusätzliche Luftmenge von :math:`\unit[2500]{l}` bei
   Normaldruck nötig.
 
-
-  :ref:`Zurück zur Aufgabe <Wärmeausdehnung-Gase-05>`
+  :ref:`Zurück zur Aufgabe <wde11>`
 
 ----
 
 
-.. _Lösungen zur allgemeinen Gasgleichung:
+.. _Lösungen Allgemeine Gasgleichung:
 
-Lösungen zur allgemeinen Gasgleichung
--------------------------------------
+Allgemeine Gasgleichung
+-----------------------
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zur
-allgemeinen Gasgleichung>` zum Abschnitt :ref:`Allgemeine Gasgleichung
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
+Allgemeine Gasgleichung>` zum Abschnitt :ref:`Allgemeine Gasgleichung
 <Allgemeine Gasgleichung>`.
 
 ----
 
-.. _Allgemeine-Gasgleichung-01-Lösung:
+.. _wag01l:
 
 * Nach der allgemeinen Gasgleichung gilt:
 
   .. math::
 
-      p \cdot V = n \cdot R \cdot T = \frac{m}{m _{\rm{M}}} \cdot R \cdot T
+      p \cdot V = n \cdot R \cdot T = \frac{m}{m_{\mathrm{M}}} \cdot R \cdot T
 
   Diese Gleichung kann nach :math:`\rho = \frac{m}{V}` aufgelöst werden:
 
   .. math::
 
-      \rho = \frac{m}{V} = \frac{p \cdot m _{\rm{M}}}{R \cdot T}
+      \rho = \frac{m}{V} = \frac{p \cdot m_{\mathrm{M}}}{R \cdot T}
 
-  Die molare Masse für Luft beträgt :math:`m _{\rm{M}} \approx
+  Die molare Masse für Luft beträgt :math:`m_{\mathrm{M}} \approx
   \unit[29]{\frac{g}{mol}}`. Mit :math:`T = \unit[(273+20)]{K}` und :math:`p =
   \unit[1 \cdot 10 ^{-10}]{Pa}` folgt:
 
@@ -535,42 +552,43 @@ allgemeinen Gasgleichung>` zum Abschnitt :ref:`Allgemeine Gasgleichung
 
       \rho = \frac{\unit[1 \cdot 10 ^{-10}]{Pa} \cdot
       \unit[29]{\frac{g}{mol}}}{\unit[8,31]{\frac{J}{mol \cdot K}} \cdot
-      \unit[(273+20)]{K}}  \approx  \unit[1,19 \cdot 10 ^{-11}]{\frac{g}{m^3}}
+      \unit[(273+20)]{K}}  \approx  \unit[1,19 \cdot 10 ^{-12}]{\frac{g}{m^3}}
 
   Die Einheit ergibt sich, wenn man :math:`\unit{Pa} = \unit{\frac{N}{m^2}}` und
-  :math:`\unit{J} = \unit{N \cdot m}` setzt. Die resultierende Dichte der Luft im
-  Laborvakuum ist also, verglichen mit der normalen Luftdichte von rund
-  :math:`\unit[1,29]{\frac{kg}{m^3}}`,  äußerst gering.
+  :math:`\unit{J} = \unit{N \cdot m}` setzt. Die resultierende Dichte der Luft
+  im Laborvakuum ist also, verglichen mit der normalen Luftdichte von rund
+  :math:`\unit[1,29]{\frac{kg}{m^3}}`, äußerst gering.
 
-  In einem Kubikzentimeter dieses Restgases befindet sich bei gleicher Dichte nur
-  ein Millionstel dieser Masse, also :math:`\unit[1,19 \cdot 10 ^{-17}]{g}`.
-  Anhand der molaren Masse :math:`m _{\rm{M}} = \unit[29]{\frac{g}{mol}}` von Luft
-  folgt damit für die enthaltene Stoffmenge:
+  In einem Kubikzentimeter dieses Restgases befindet sich bei gleicher Dichte
+  nur ein Millionstel dieser Masse, also :math:`\unit[1,19 \cdot 10 ^{-18}]{g}`.
+  Anhand der molaren Masse :math:`m_{\mathrm{M}} = \unit[29]{\frac{g}{mol}}` von
+  Luft folgt damit für die enthaltene Stoffmenge:
 
   .. math::
 
-      n = \frac{m}{m _{\rm{M}}} = \frac{\unit[1,19 \cdot 10
-      ^{-17}]{g}}{\unit[29]{\frac{g}{mol}}} \approx \unit[4,11 \cdot 10
-      ^{-19}]{mol}
+      n = \frac{m}{m_{\mathrm{M}}} = \frac{\unit[1,19 \cdot 10
+      ^{-18}]{g}}{\unit[29]{\frac{g}{mol}}} \approx \unit[4,11 \cdot 10
+      ^{-20}]{mol}
 
-  In einem Mol sind :math:`N _{\rm{A}} = 6,022 \cdot 10 ^{23}` Teilchen enthalten.
-  Somit gilt für die Anzahl :math:`N` der je Kubikzentimeter im Gefäß
+  In einem Mol sind :math:`N_{\mathrm{A}} = 6,022 \cdot 10 ^{23}` Teilchen
+  enthalten. Somit gilt für die Anzahl :math:`N` der je Kubikzentimeter im Gefäß
   verbleibenden Teilchen:
 
   .. math::
 
-      N = n \cdot N _{\rm{A}} = \unit[4,11 \cdot 10 ^{-19}]{mol} \cdot \unit[6,022
-      \cdot 10 ^{23}]{\frac{1}{mol}} \approx 247 \cdot 10^3
+      N = n \cdot N_{\mathrm{A}} = \unit[4,11 \cdot 10 ^{-20}]{mol} \cdot
+      \unit[6,022 \cdot 10 ^{23}]{\frac{1}{mol}} \approx 24,7 \cdot 10^3
 
-  Es sind in diesem "Laborvakuum" somit immer noch rund
-  :math:`\unit[250\,000]{Teilchen}` je Kubikzentimeter enthalten.
+  In diesem "Laborvakuum" sind also immer noch rund :math:`25\,000` Luftteilchen
+  je Kubikzentimeter enthalten.
 
-  :ref:`Zurück zur Aufgabe <Allgemeine-Gasgleichung-01>`
+  :ref:`Zurück zur Aufgabe <wag01>`
 
+----
 
-.. raw:: html
+.. foo
 
-    <hr />
+.. waermekraftmaschinen-loesungen.rst
 
 .. only:: html
 
@@ -591,17 +609,7 @@ allgemeinen Gasgleichung>` zum Abschnitt :ref:`Allgemeine Gasgleichung
     :math:`\unit[-183]{\degree C}`, Helium erst bei :math:`\unit[-269]{\degree C
     }`).
 
-.. raw:: latex
-
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
-
 .. only:: html
 
     :ref:`Zurück zum Skript <Wärmelehre>`
-
-.. waermekraftmaschinen-loesungen.rst
 

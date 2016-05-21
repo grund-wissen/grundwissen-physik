@@ -15,14 +15,14 @@ folgenden Abschnitt näher beschrieben.
 Brennweite und Brechkraft eines Linsensystems
 ---------------------------------------------
 
-Soll die Brennweite :math:`f _{\rm{ges}}` eines solchen Systems mehrerer Linsen
+Soll die Brennweite :math:`f_{\mathrm{ges}}` eines solchen Systems mehrerer Linsen
 bestimmt werden, so kann man die Kehrwerte der Brennweiten aller Linsen
 addieren, um den Kehrwert der Gesamtbrennweite zu erhalten:
 
 .. math::
     :label: eqn-brennweite-linsensystem
 
-    \frac{1}{f _{\rm{ges}}} = \frac{1}{f_1} + \frac{1}{f_2} + \ldots
+    \frac{1}{f_{\mathrm{ges}}} = \frac{1}{f_1} + \frac{1}{f_2} + \ldots
 
 Die Brennweiten von Sammellinsen werden dabei positiv, die von
 Zerstreuungslinsen negativ gezählt.
@@ -35,8 +35,8 @@ Zerstreuungslinsen negativ gezählt.
 
   .. math::
 
-      \frac{1}{f _{\rm{ges}}} = \frac{1}{\unit[0,1]{m}} +
-      \frac{1}{\unit[0,15]{m}} \quad \Leftrightarrow \quad f _{\rm{ges}} =
+      \frac{1}{f_{\mathrm{ges}}} = \frac{1}{\unit[0,1]{m}} +
+      \frac{1}{\unit[0,15]{m}} \quad \Leftrightarrow \quad f_{\mathrm{ges}} =
       \frac{1}{\frac{1}{\unit[0,1]{m}} + \frac{1}{\unit[0,15]{m}}} =
       \unit[0,06]{m}
 
@@ -49,8 +49,8 @@ Zerstreuungslinsen negativ gezählt.
 
   .. math::
 
-      \frac{1}{f _{\rm{ges}}} = \frac{1}{\unit[0,3]{m}} -
-      \frac{1}{\unit[0,1]{m}} \quad \Leftrightarrow \quad f _{\rm{ges}} =
+      \frac{1}{f_{\mathrm{ges}}} = \frac{1}{\unit[0,3]{m}} -
+      \frac{1}{\unit[0,1]{m}} \quad \Leftrightarrow \quad f_{\mathrm{ges}} =
       \frac{1}{\frac{1}{\unit[0,3]{m}} - \frac{1}{\unit[0,1]{m}}} =
       -\unit[0,15]{m}
 
@@ -91,15 +91,15 @@ und somit auch ihre Dioptrienzahl; beispielsweise entspricht eine Brennweite von
 eine Brennweite von :math:`\unit[\frac{1}{4}]{m}` einer Brechkraft von
 :math:`\unit[4]{dpt}`.
 
-Die Dioptrienzahl :math:`D _{\rm{ges}}` eines Linsensystems ist gleich der Summe
-der Dioptrienzahlen der einzelnen Linsen; die Brechkraft von Sammellinsen erhält
-dabei wiederum ein positives, die von Zerstreuungslinsen ein negatives
+Die Dioptrienzahl :math:`D_{\mathrm{ges}}` eines Linsensystems ist gleich der
+Summe der Dioptrienzahlen der einzelnen Linsen; die Brechkraft von Sammellinsen
+erhält dabei wiederum ein positives, die von Zerstreuungslinsen ein negatives
 Vorzeichen. Es gilt also:
 
 .. math::
     :label: eqn-brechkraft-linsensystem
 
-    D _{\rm{ges}} = D_1 + D_2 + \ldots
+    D_{\mathrm{ges}} = D_1 + D_2 + \ldots
 
 
 .. _Linsenfehler und Abhilfen:
@@ -117,7 +117,7 @@ werden. Es gilt:
 
 .. math::
 
-    f _{\rm{Rand}} < f _{\rm{Mitte}}
+    f_{\mathrm{Rand}} < f_{\mathrm{Mitte}}
 
 Die Verschiebung des Brennpunkts bei Randstrahlen wird als sphärische Abberation
 bezeichnet. Um diesen Linsenfehler zu verhindern, gibt es grundsätzlich zwei
@@ -141,7 +141,7 @@ wird als chromatische Abberation bezeichnet. Es gilt:
 
 .. math::
 
-    f _{\rm{rot}} < f _{\rm{violett}}
+    f_{\mathrm{rot}} < f_{\mathrm{violett}}
 
 ..  Die chromatische Abberation kann nie vollstaendig
 
@@ -151,8 +151,8 @@ wird als chromatische Abberation bezeichnet. Es gilt:
 Der Abbildungsmaßstab und die Linsengleichung
 ---------------------------------------------
 
-Das vergrößerte bzw. verkleinerte Bild, das sich bei einer Abbildung durch
-eine optische Linse ergibt, kann nicht nur durch geometrische Konstruktion
+Das vergrößerte beziehungsweise verkleinerte Bild, das sich bei einer Abbildung
+durch eine optische Linse ergibt, kann nicht nur durch geometrische Konstruktion
 sondern auch rechnerisch bestimmt werden.
 
 .. figure::
@@ -171,9 +171,8 @@ sondern auch rechnerisch bestimmt werden.
 
 Wendet man den :ref:`2. Strahlensatz <gwm:Strahlensatz-2>` auf die obige
 Abbildung an, so erkennt man, dass die Größe :math:`G` des Gegenstands im
-gleichen Verhältnis zur Entfernung :math:`g` des Gegenstands von der Linse
-steht wie die Größe des Bildes :math:`B` zu seiner Entfernung :math:`b` von
-der Linse:
+gleichen Verhältnis zur Entfernung :math:`g` des Gegenstands von der Linse steht
+wie die Größe des Bildes :math:`B` zu seiner Entfernung :math:`b` von der Linse:
 
 .. math::
 
@@ -188,9 +187,9 @@ Abbildung durch die Linse ergibt:
 
     \tilde{\beta} = \frac{B}{G} = \frac{b}{g} {\color{white}\;\;\; .}
 
-Der Abbildungsmaßstab :math:`\tilde{\beta}` hat keine Einheit, sondern ist ein reines
-Zahlenverhältnis. Sein Wert ist kleiner als Eins im Fall einer Verkleinerung und
-größer als Eins im Fall einer Vergrößerung.
+Der Abbildungsmaßstab :math:`\tilde{\beta}` hat keine Einheit, sondern ist ein
+reines Zahlenverhältnis. Sein Wert ist kleiner als Eins im Fall einer
+Verkleinerung und größer als Eins im Fall einer Vergrößerung.
 
 Häufig lassen sich im praktischen Anwendungsfall die Gegenstandsgröße :math:`G`
 sowie die Gegenstandsweite :math:`g` durch eine gewöhnliche Längenmessung
@@ -256,9 +255,8 @@ Bildgröße :math:`B` und damit den Abbildungsmaßstab.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu
-    Linsensystemen>`.
+    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben Linsensysteme>`.
 
-..  :ref:`Versuche <Versuche zu Lichtbrechung>` und
+..  :ref:`Experimente <Experimente Lichtbrechung>` und
 
 

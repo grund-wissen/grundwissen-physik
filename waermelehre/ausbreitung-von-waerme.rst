@@ -7,15 +7,14 @@ Ausbreitung von Wärme
 Ein von selbst ablaufender Austausch von Wärme erfolgt stets von einem Körper
 höherer Temperatur zu einem Körper niederer Temperatur, bis beide Körper die
 gleiche Temperatur erreicht haben ("Wärmegleichgewicht"). Die vom kalten Körper
-aufgenommene Wärmemenge :math:`Q _{\rm{1}}` ist hierbei gleich der vom warmen
-Körper abgegebenen Wärmemenge :math:`Q _{\rm{2}}`.
+aufgenommene Wärmemenge :math:`Q_1` ist hierbei gleich der vom warmen Körper
+abgegebenen Wärmemenge :math:`Q_2`.
 
-..
-    Soll die Temperatur eines Körpers geändert werden, so muss dem System
-    Wärme, d.h. Energie zugeführt werden. Die dabei benötigte oder
-    freigesetzte Wärmemenge :math:`Q` hängt von der Masse :math:`m`, der
-    stofflichen Zusammensetzung des Systems und der Temperaturänderung
-    :math:`\Delta T` ab.
+.. Soll die Temperatur eines Körpers geändert werden, so muss dem System
+.. Wärme, d.h. Energie zugeführt werden. Die dabei benötigte oder
+.. freigesetzte Wärmemenge :math:`Q` hängt von der Masse :math:`m`, der
+.. stofflichen Zusammensetzung des Systems und der Temperaturänderung
+.. :math:`\Delta T` ab.
 
 
 Die Ausbreitung von Wärme kann auf drei Arten geschehen, die im folgenden
@@ -35,9 +34,9 @@ tieferer Temperatur.
 
 ..  *Beispiel:*
 
-..  * Ein Metallstab im Inneren eines Lötkolbens wird an einem Ende elektrisch
-  ..  erwärmt. Die Wärme wird im Metall an die Spitze weitergeleitet. Der
-  ..  Griff hingegen (meist aus Kunststoff) erwärmt sich nur schwach.
+.. * Ein Metallstab im Inneren eines Lötkolbens wird an einem Ende elektrisch
+..   erwärmt. Die Wärme wird im Metall an die Spitze weitergeleitet. Der
+..   Griff hingegen (meist aus Kunststoff) erwärmt sich nur schwach.
 
 .. _Wiedemann-Franzsches Gesetz:
 
@@ -61,7 +60,7 @@ unterschiedlich gut leiten:
   oberen Seite die Zündtemperatur nicht erreicht.
 
 * Glas, Porzellan, Plastik, Schaumstoff und Holz sind schlechte Wärmeleiter.
-  Schaumstoff, Styropor u.ä. wird in Bauwerken als Isolationsmaterial
+  Schaumstoff, Styropor u.s.w. wird in Bauwerken als Isolationsmaterial
   eingesetzt. Holzgriffe dienen an Werkzeugen und Töpfen als Wärmedämmung.
 
 * Flüssigkeiten sind schlechte, Gase sogar sehr schlechte Wärmeleiter. Dünne
@@ -75,7 +74,7 @@ unterschiedlich gut leiten:
     :widths: 50 50
 
     * - Material
-      - :math:`\lambda` in :math:`\unit[]{\frac{W}{m \cdot K}}`
+      - :math:`\lambda` in :math:`\unit{\frac{W}{m \cdot K}}`
     * - Silber
       - :math:`407`
     * - Kupfer
@@ -109,33 +108,33 @@ Wärmeleitung stattfinden.
 
 Quantitativ lässt sich die Wärmeleitung durch die in einer bestimmten Zeit
 transportierte Wärme beschreiben. Für den so genannten Wärmestrom :math:`I
-_{\rm{Q}}` gilt also:
+_{\mathrm{Q}}` gilt also:
 
 .. math::
     :label: eqn-waermestrom
 
-    I _{\rm{Q}} = \frac{\Delta Q}{\Delta t}
+    I_{\mathrm{Q}} = \frac{\Delta Q}{\Delta t}
 
 Der Wärmestrom wird in Watt (Joule je Sekunde) gemessen. Der Wärmestrom durch
-eine bestimmte Fläche :math:`A` wird als Wärmestromdichte :math:`j _{\rm{Q}}`
+eine bestimmte Fläche :math:`A` wird als Wärmestromdichte :math:`j_{\mathrm{Q}}`
 bezeichnet und in Watt je Quadratmeter gemessen:
 
 .. math::
     :label: eqn-waermestromdichte-definition
 
-    j _{\rm{Q}} = \frac{I _{\rm{Q}}}{A}
+    j_{\mathrm{Q}} = \frac{I_{\mathrm{Q}}}{A}
 
-Die Wärmestromdichte :math:`j _{\rm{Q}}` ist einerseits proportional zum
+Die Wärmestromdichte :math:`j_{\mathrm{Q}}` ist einerseits proportional zum
 Temperaturunterschied :math:`\Delta T` zwischen der heißen und der kalten Seite
 des Wärmeleiters, andererseits auch proportional zur Wärmeleitfähigkeit
-:math:`\lambda` des Wärme leitenden Materials. Zusätzlich ist :math:`j
-_{\rm{Q}}` indirekt proportional zur Länge :math:`l` des Wärmeleiters. Insgesamt
-gilt also:
+:math:`\lambda` des Wärme leitenden Materials. Zusätzlich ist
+:math:`j_{\mathrm{Q}}` indirekt proportional zur Länge :math:`l` des
+Wärmeleiters. Insgesamt gilt also:
 
 .. math::
     :label: eqn-waermestromdichte
 
-    j _{\rm{Q}} = - \lambda \cdot \frac{\Delta T}{l}
+    j_{\mathrm{Q}} = - \lambda \cdot \frac{\Delta T}{l}
 
 Das Minuszeichen gibt an, dass der Wärmestrom stets in Richtung der kälteren
 Materialseite stattfindet. [#]_
@@ -148,8 +147,8 @@ Materialseite stattfindet. [#]_
 Oftmals besteht ein Wärme leitender Körper, beispielsweise eine Wand mit
 Dämmschicht, aus mehr als einem Material. Werden dabei einzelne Schichten mit
 gleichen Flächen, aber unterschiedlichen Schichtdicken :math:`l_1 ,\, l_2 ,\,
-\text{usw.}` und unterschiedlichen Wärmeleitfähigkeiten :math:`\lambda _1 ,\,
-\lambda _2 ,\, \text{usw.}` durchlaufen, so handelt es sich um eine
+\text{usw.}` und unterschiedlichen Wärmeleitfähigkeiten :math:`\lambda_1 ,\,
+\lambda_2 ,\, \text{usw.}` durchlaufen, so handelt es sich um eine
 "Reihenschaltung" mehrerer Wärmeleiter.
 
 Um die Wärmestromdichte in diesem Fall zu berechnen, muss man -- wie beim
@@ -161,7 +160,7 @@ lässt: [#]_
 
 .. math::
 
-    I _{\rm{Q}} = \frac{\lambda \cdot A}{l} \cdot \Delta T = \frac{1}{R} \cdot
+    I_{\mathrm{Q}} = \frac{\lambda \cdot A}{l} \cdot \Delta T = \frac{1}{R} \cdot
     \Delta T
 
 Besteht die Anordnung aus :math:`n` hintereinander liegenden Schichten, so gilt
@@ -170,23 +169,23 @@ für :math:`R`:
 .. math::
     :label: eqn-waermedurchlasswiderstand-reihenschaltung
 
-    R _{\rm{ges}} = \sum_{i=1}^{n} R_i =  \frac{l_1}{\lambda _1 \cdot
-    A_1 } + \frac{l_2}{\lambda _2 \cdot A_2} + \ldots + \frac{l_n}{\lambda_n
+    R_{\mathrm{ges}} = \sum_{i=1}^{n} R_i =  \frac{l_1}{\lambda_1 \cdot
+    A_1 } + \frac{l_2}{\lambda_2 \cdot A_2} + \ldots + \frac{l_n}{\lambda_n
     \cdot A_n}
 
 Die Einheit des Wärmewiderstands ist :math:`\unit{\frac{K}{W}}`. Bei einer
 Reihenschaltung von Wärmewiderständen, beispielsweise einem doppelt verglastem
 Fenster oder einer Mauer mit Dämmschicht, sind die Querschnittsflächen der
 einzelnen Wärmewiderstände oftmals identisch; :math:`A` kann in diesem Fall
-ausgeklammert werden. Allgemein gilt für den Wärmestrom :math:`I _{\rm{Q,RS}}`
+ausgeklammert werden. Allgemein gilt für den Wärmestrom :math:`I_{\mathrm{Q,RS}}`
 bei einer Reihenschaltung:
 
 .. math::
     :label: eqn-waermestromdichte-reihenschaltung
 
-    I _{\rm{Q, RS}} = \frac{1}{R _{\rm{ges}}} \cdot \Delta T = \frac{1}{\left(
-    \frac{l _1}{\lambda _1 \cdot A_1} + \frac{l_2}{\lambda _2 \cdot A_2} +
-    \ldots + \frac{l_n}{\lambda _n \cdot A_n}\right)} \cdot \Delta T
+    I_{\mathrm{Q, RS}} = \frac{1}{R_{\mathrm{ges}}} \cdot \Delta T =
+    \frac{1}{\left( \frac{l_1}{\lambda_1 \cdot A_1} + \frac{l_2}{\lambda_2 \cdot
+    A_2} + \ldots + \frac{l_n}{\lambda_n \cdot A_n}\right)} \cdot \Delta T
 
 
 Sind die einzelnen Wärmeleiter nicht hintereinander, sondern nebeneinander
@@ -196,22 +195,22 @@ des Gesamtwiderstands:
 
 .. math::
 
-    \frac{1}{R _{\rm{ges}}} = \sum_{i=1}^{n} \frac{1}{R_i}  = \frac{\lambda_1
+    \frac{1}{R_{\mathrm{ges}}} = \sum_{i=1}^{n} \frac{1}{R_i}  = \frac{\lambda_1
     \cdot A_1}{l_1} + \frac{\lambda_2 \cdot A_2}{l_2} + \ldots + \frac{\lambda_n
     \cdot A_n}{l_n}
 
 Haben alle parallel zueinander liegenden Wärmeleiter, wie beispielsweise bei
 einem Heizkörper oder einem Röhrenkollektor, die gleiche Querschnittsfläche
 :math:`A`, so kann diese bei der Berechnung des Gesamtwiderstands ausgeklammert
-werden. Allgemein gilt für den Wärmestrom :math:`I _{\rm{Q,PS}}` bei einer
+werden. Allgemein gilt für den Wärmestrom :math:`I_{\mathrm{Q,PS}}` bei einer
 Parallelschaltung:
 
 .. math::
     :label: eqn-waermestromdichte-parallelschaltung
 
-    I _{\rm{Q,PS}} = \frac{1}{R _{\rm{ges}}} \cdot \Delta T = \left( \frac{A_1
-    \cdot \lambda_1}{l _1} + \frac{A_2 \cdot \lambda_2}{l _2} + \ldots +
-    \frac{A_n \cdot \lambda _n}{l_n} \right) \cdot \Delta T
+    I_{\mathrm{Q,PS}} = \frac{1}{R_{\mathrm{ges}}} \cdot \Delta T = \left( \frac{A_1
+    \cdot \lambda_1}{l_1} + \frac{A_2 \cdot \lambda_2}{l_2} + \ldots +
+    \frac{A_n \cdot \lambda_n}{l_n} \right) \cdot \Delta T
 
 Diese Gleichung kann auch für eine Anordnung mehrerer paralleler Wärmeleiter
 mit unterschiedlich großen Flächen genutzt werden, beispielsweise einer
@@ -222,8 +221,8 @@ Bereiche separat berechnet und ihre Werte addiert werden:
 
 .. math::
 
-    I _{\rm{Q, PS}} = \sum_{i=1}^{n}  \frac{\lambda _{\rm{i}}}{l _{\rm{i}}}
-    \cdot A _{\rm{i}} \cdot \Delta T _{\rm{i}}
+    I_{\mathrm{Q, PS}} = \sum_{i=1}^{n}  \frac{\lambda_{\mathrm{i}}}{l_{\mathrm{i}}}
+    \cdot A_{\mathrm{i}} \cdot \Delta T_{\mathrm{i}}
 
 
 .. index:: Wärmeströmung
@@ -267,25 +266,25 @@ kann keine Wärmeströmung stattfinden.
 Quantitativ lässt sich die durch Wärmeströmung übertragene Wärmemenge nur
 schwer erfassen, da die mathematischen Zusammenhänge bei Strömungsvorgängen sehr
 kompliziert sind. In einem vereinfachten Modell kann jedoch angenommen werden,
-dass die Wärmestromdichte :math:`j _{\rm{Q,cv}}` bei auftretender Konvektion
+dass die Wärmestromdichte :math:`j_{\mathrm{Q,cv}}` bei auftretender Konvektion
 einerseits proportional zum Temperaturunterschied :math:`\Delta T` zwischen dem
 Fluid und der begrenzenden Kontaktfläche und andererseits proportional zu einem
-so genannten Wärmeübertragungskoeffizienten :math:`h _{\rm{cv}}` ist:
+so genannten Wärmeübertragungskoeffizienten :math:`h_{\mathrm{cv}}` ist:
 
 .. math::
     :label: eqn-waermestromdichte-konvektion
 
-    j _{\rm{Q,cv}} = h _{\rm{cv}} \cdot \Delta T
+    j_{\mathrm{Q,cv}} = h_{\mathrm{cv}} \cdot \Delta T
 
-Der Wärmeübertragungskoeffizient :math:`h _{\rm{cv}}` wird in
+Der Wärmeübertragungskoeffizient :math:`h_{\mathrm{cv}}` wird in
 :math:`\unit{\frac{W}{m^2 \cdot K}}` angegeben. Multipliziert man diesen mit der
 Temperaturdifferenz :math:`\Delta T` der Kontaktflächen und ihrer Fläche
 :math:`A`, so erhält man den Wärmestrom bzw. die abgegebene Heizleistung in
 Watt. Für technische Anwendungen -- beispielsweise in der Bauphysik --  sind vor
 allem laminare Wärmeströmungen in Luft von Interesse. Für eine horizontal
-verlaufende warme Fläche kann hierbei näherungsweise :math:`h _{\rm{cv}} \approx
+verlaufende warme Fläche kann hierbei näherungsweise :math:`h_{\mathrm{cv}} \approx
 \unit[9]{\frac{W}{m^2 \cdot K}}` angenommen werden, für eine vertikale ist
-:math:`h _{\rm{cv}} \approx \unit[5,5]{\frac{W}{m^2 \cdot K}}`.
+:math:`h_{\mathrm{cv}} \approx \unit[5,5]{\frac{W}{m^2 \cdot K}}`.
 
 .. index:: Thermische Strahlung, Wärmestrahlung
 .. _Wärmestrahlung:
@@ -317,11 +316,11 @@ Anteile ergibt stets :math:`100\%`.
 
 Quantitativ kann die von einem heißen Gegenstand ausgestrahlte Wärmestrahlung
 -- ähnlich wie bei den anderen Wärmetransportarten -- durch die
-Energiestromdichte :math:`j _{\rm{s}}` beschrieben werden:
+Energiestromdichte :math:`j_{\mathrm{s}}` beschrieben werden:
 
 .. math::
 
-    j _{\rm{Q,s}} = \frac{\Delta Q}{\Delta t \cdot A}
+    j_{\mathrm{Q,s}} = \frac{\Delta Q}{\Delta t \cdot A}
 
 Diese Größe wird bisweilen auch "Bestrahlungsstärke" genannt, ihre Einheit ist
 Watt je Quadratmeter. Beispielsweise kann in Mitteleuropa die Sonne an einem
@@ -346,7 +345,7 @@ absoluten Temperatur (gemessen in Kelvin) ist:
 .. math::
     :label: eqn-stefan-boltzmann-gesetz
 
-    j _{\rm{Q,s}} = \sigma \cdot T^4
+    j_{\mathrm{Q,s}} = \sigma \cdot T^4
 
 Die dabei auftretende Konstante :math:`\sigma = \unit[5,670 \cdot 10
 ^{-8}]{\frac{W}{m^2 \cdot K^4}}` wird dabei als "Stefan-Boltzmann-Konstante"
@@ -385,13 +384,13 @@ Verschiebungsgesetz" beschreiben:
 .. math::
     :label: eqn-wiensches-verschiebungsgesetz
 
-    \lambda _{\rm{max}} = \frac{\unit[2897,8]{\mu m \cdot K}}{T}
+    \lambda_{\mathrm{max}} = \frac{\unit[2897,8]{\mu m \cdot K}}{T}
 
-Hierbei beschreibt :math:`\lambda _{\rm{max}}` das Maximum der spektralen
-Energiedichte bei einer bestimmten (absoluten) Temperatur :math:`T`. Für eine
-Temperatur von etwa :math:`\unit[5800]{K}` stimmt die Wärmestrahlung eines
-schwarzen Körpers in sehr guter Näherung mit dem Strahlungsspektrum der Sonne
-überein.
+Hierbei beschreibt :math:`\lambda_{\mathrm{max}}` das Maximum der spektralen
+Energiedichte bei einer bestimmten (absoluten) Temperatur :math:`T`. 
+Für eine Temperatur von etwa :math:`\unit[5800]{K}` stimmt die Wärmestrahlung
+eines schwarzen Körpers in sehr guter Näherung mit dem Strahlungsspektrum der
+Sonne überein.
 
 
 .. raw:: html
@@ -410,7 +409,7 @@ schwarzen Körpers in sehr guter Näherung mit dem Strahlungsspektrum der Sonne
     Franz <https://de.wikipedia.org/wiki/Rudolph_Franz>`_ auch als
     "Wiedemann-Franzsches Gesetz" bezeichnet.
 
-.. [#] Der Wärmestrom :math:`I _{\rm{Q}}` wird von einem Temperaturgefälle
+.. [#] Der Wärmestrom :math:`I_{\mathrm{Q}}` wird von einem Temperaturgefälle
     :math:`\Delta T` ebenso angetrieben wie ein elektrischer Strom :math:`I` von
     einer elektrischen Spannungsdifferenz :math:`\Delta U`. Die gleiche
     Gesetzmäßigkeit gilt außerdem auch bei Diffusionsströmen, die wird
@@ -421,17 +420,17 @@ schwarzen Körpers in sehr guter Näherung mit dem Strahlungsspektrum der Sonne
 
     .. math::
 
-        I = \frac{\Delta Q _{\rm{el}}}{\Delta t} = \frac{U}{R _{\rm{el}}}
+        I = \frac{\Delta Q_{\mathrm{el}}}{\Delta t} = \frac{U}{R_{\mathrm{el}}}
 
     Für die Wärmeleitung gilt:
 
     .. math::
 
-        I _{\rm{Q}} = \frac{\Delta Q}{\Delta t} = \left( \frac{\lambda \cdot
+        I_{\mathrm{Q}} = \frac{\Delta Q}{\Delta t} = \left( \frac{\lambda \cdot
         A}{l}\right) \cdot \Delta T
 
     Die Wärmestrom entspricht somit der elektrischen Stromstärke, nur dass
-    keine elektrische Ladungsmenge :math:`Q _{\rm{el}}`, sondern eine
+    keine elektrische Ladungsmenge :math:`Q_{\mathrm{el}}`, sondern eine
     Wärmemenge (ebenfalls mit :math:`Q` bezeichnet) innerhalb einer bestimmten
     Zeit :math:`t` transportiert wird. Die Temperaturdifferenz :math:`\Delta T`
     hat für die Wärmeleitung die gleiche Bedeutung wie die elektrische
@@ -444,7 +443,7 @@ schwarzen Körpers in sehr guter Näherung mit dem Strahlungsspektrum der Sonne
 
     .. math::
 
-        R _{\rm{el}} = \frac{\rho \cdot l}{A}
+        R_{\mathrm{el}} = \frac{\rho \cdot l}{A}
 
     Verwendet man anstelle des spezifischen Widerstands :math:`\rho` die
     spezifische Leitfähigkeit :math:`\sigma = \frac{1}{\rho}` als
@@ -452,7 +451,7 @@ schwarzen Körpers in sehr guter Näherung mit dem Strahlungsspektrum der Sonne
 
     .. math::
 
-        R _{\rm{el}} = \frac{l}{\sigma \cdot A}
+        R_{\mathrm{el}} = \frac{l}{\sigma \cdot A}
 
     Die elektrische Wärmeleitfähigkeit :math:`\sigma` entspricht der
     Wärmeleitfähigkeit :math:`\lambda`; der Term :math:`\frac{\lambda \cdot
@@ -462,5 +461,15 @@ schwarzen Körpers in sehr guter Näherung mit dem Strahlungsspektrum der Sonne
 .. [#] Außerhalb der Lufthülle der Erde beträgt die Strahlungsintensität der Sonne
     im Jahresmitte :math:`\unit[1367]{\frac{W}{m^2}}`; diese Größe wird mitunter
     auch als "Solarkonstante" bezeichnet.
+
+.. raw:: html
+
+    <hr />
+
+.. hint::
+
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Ausbreitung von
+    Wärme>` und :ref:`Übungsaufgaben <Aufgaben Ausbreitung von Wärme>`.
+
 
 

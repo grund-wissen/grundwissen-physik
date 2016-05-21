@@ -32,13 +32,13 @@ Länge ab.
 
         \Delta l = \alpha \cdot \Delta T \cdot l \\[6pt]
 
-    Für die neue Länge :math:`l _{\rm{neu}} = l + \Delta l` nach der
+    Für die neue Länge :math:`l_{\mathrm{neu}} = l + \Delta l` nach der
     Temperaturänderung gilt damit:
 
     .. math::
         :label: eqn-längenausdehnung-festkörper-2
 
-        l _{\rm{neu}} = l \cdot (1 + \alpha \cdot \Delta T)
+        l_{\mathrm{neu}} = l \cdot (1 + \alpha \cdot \Delta T)
 
 .. list-table:: Längenausdehnungskoeffizienten fester Stoffe
     :name: tab-längenausdehnungskoeffizienten
@@ -84,12 +84,12 @@ Länge ab.
 
 * Eine :math:`l= \unit[10]{m}` lange Eisenstange wird um :math:`\Delta T=
   \unit[50]{K}` erwärmt. Mit dem thermischen Längenausdehnungskoeffizient
-  :math:`\alpha _{\rm{Fe}} = \unit[11,8 \cdot 10 ^{-6}]{\frac{1}{K}}` lässt sich
+  :math:`\alpha_{\mathrm{Fe}} = \unit[11,8 \cdot 10 ^{-6}]{\frac{1}{K}}` lässt sich
   die Längenänderung der Stange berechnen:
 
   .. math::
 
-      \Delta l = \alpha _{\rm{Stahl}} \cdot \Delta T \cdot l = \unit[11,8 \cdot
+      \Delta l = \alpha_{\mathrm{Stahl}} \cdot \Delta T \cdot l = \unit[11,8 \cdot
       10 ^{-6}]{\frac{1}{K}} \cdot \unit[50]{K} \cdot \unit[10]{m} \approx
       \unit[0,006]{m}
 
@@ -98,24 +98,24 @@ Länge ab.
 .. Beispiel Bimetall? Pic Haas S.91
 
 Auf ähnliche Weise wie in Gleichung :eq:`eqn-längenausdehnung-festkörper-2` kann
-die neue Fläche :math:`A _{\rm{neu}}` bzw. das neue Volumen :math:`V
-_{\rm{neu}}` eines festen Körpers der Fläche :math:`A` bzw. des Volumens
+die neue Fläche :math:`A_{\mathrm{neu}}` bzw. das neue Volumen :math:`V
+_{\mathrm{neu}}` eines festen Körpers der Fläche :math:`A` bzw. des Volumens
 :math:`V` bei einer Temperaturänderung um :math:`\Delta T` berechnet werden.
 Dabei geht man davon aus, dass sich der betrachtete Festkörper in alle
 Richtungen gleich ausdehnt: [#]_
 
 .. math::
 
-    l _{\rm{neu}} &= l \cdot (1 + \alpha \cdot \Delta T) \\[6pt]
-    A _{\rm{neu}} &= A \cdot (1 + \alpha \cdot \Delta T)^2 \\[6pt]
-    V _{\rm{neu}} &= V \cdot (1 + \alpha \cdot \Delta T)^3
+    l_{\mathrm{neu}} &= l \cdot (1 + \alpha \cdot \Delta T) \\[6pt]
+    A_{\mathrm{neu}} &= A \cdot (1 + \alpha \cdot \Delta T)^2 \\[6pt]
+    V_{\mathrm{neu}} &= V \cdot (1 + \alpha \cdot \Delta T)^3
 
 In sehr guter Näherung kann die Volumenausdehnung von Festkörpern auch
 folgendermaßen geschrieben werden: [#]_
 
 .. math::
 
-    V _{\rm{neu}} = V \cdot (1 + \gamma \cdot \Delta T)
+    V_{\mathrm{neu}} = V \cdot (1 + \gamma \cdot \Delta T)
 
 Hierbei ist :math:`\gamma \approx 3 \cdot \alpha` der so genannte
 Volumen-Ausdehnungskoeffiezient.
@@ -191,11 +191,11 @@ Flüssigkeiten mit wachsender Temperatur ab.
     Durch eine Temperaturänderung um :math:`\Delta T` ändert sich die Dichte
     :math:`\rho` einer Flüssigkeit umgekehrt proportional zum
     Volumenausdehnungskoeffizient :math:`\gamma`. Für die neue Dichte
-    :math:`\rho _{\rm{neu}}` der Flüssigkeit gilt:
+    :math:`\rho_{\mathrm{neu}}` der Flüssigkeit gilt:
 
     .. math::
 
-        \rho _{\rm{neu}} = \frac{\rho }{1 + \gamma \cdot \Delta T}
+        \rho_{\mathrm{neu}} = \frac{\rho }{1 + \gamma \cdot \Delta T}
 
 
 .. _Anomalie des Wassers:
@@ -276,16 +276,16 @@ proportional zur absoluten Temperatur aus.
     .. math::
         :label: eqn-volumenausdehnungskoeffizient-gase
 
-        \gamma _{\rm{Gas}} = \frac{1}{\unit[273,15]{K}} \approx 3,66 \cdot 10
+        \gamma_{\mathrm{Gas}} = \frac{1}{\unit[273,15]{K}} \approx 3,66 \cdot 10
         ^{-3} \frac{1}{K}
 
-    Der Volumenausdehnungskoeffizient :math:`\gamma _{\rm{gas}}` bei konstantem
+    Der Volumenausdehnungskoeffizient :math:`\gamma_{\mathrm{gas}}` bei konstantem
     Druck ist somit näherungsweise für alle Gase gleich.
 
 *Beispiel:*
 
-* Werden :math:`V = \unit[20]{l}` Luft von :math:`T _{\rm{0}} =
-  \unit[0]{\degree C }` auf :math:`T _{\rm{1}} = \unit[10]{\degree C}` erwärmt,
+* Werden :math:`V = \unit[20]{l}` Luft von :math:`T_{\mathrm{0}} =
+  \unit[0]{\degree C }` auf :math:`T_1 = \unit[10]{\degree C}` erwärmt,
   so ändert sich das Volumen der Luft um
 
   .. math::
@@ -356,36 +356,34 @@ auch in folgender Form geschrieben:
 
 .. math::
 
-    \frac{p _{\rm{1}} \cdot V _{\rm{1}} }{T _{\rm{1}} } = \frac{p _{\rm{2}}
-    \cdot V _{\rm{2}} }{T _{\rm{2}} }
+    \frac{p_1 \cdot V_1 }{T_1 } = \frac{p_2
+    \cdot V_2 }{T_2 }
 
-Dabei werden mit :math:`p _{\rm{1}} ,\, T _{\rm{1}} ,\, V _{\rm{1}}` die
-thermischen Größen eines Gases *vor* einer Zustandsänderung beschrieben,
-entsprechend stellen :math:`p _{\rm{2}} ,\, T _{\rm{2}} ,\, V _{\rm{2}}` die
-thermischen Größen *nach* der Zustandsänderung dar. Bei Kenntnis von fünf der
-sechs vorkommenden Größen kann somit jederzeit auch die sechste Größe berechnet
-werden.
+Dabei werden mit :math:`p_1 ,\, T_1 ,\, V_1` die thermischen Größen eines Gases
+*vor* einer Zustandsänderung beschrieben, entsprechend stellen :math:`p_2 ,\,
+T_2 ,\, V_2` die thermischen Größen *nach* der Zustandsänderung dar. Bei
+Kenntnis von fünf der sechs vorkommenden Größen kann somit jederzeit auch die
+sechste Größe berechnet werden.
 
 *Beispiel:*
 
-* Ein Gas mit einem Volumen von :math:`V _{\rm{1}} = \unit[50]{cm^3}`, einem
-  Druck von :math:`p _{\rm{1}} = \unit[2,5]{bar}` und einer Temperatur von
-  :math:`T _{\rm{1}} = \unit[0]{\degree C} \approx \unit[273]{K}` wird erwärmt.
-  Dabei beträgt die neue Temperatur :math:`T _{\rm{2}} = \unit[30]{\degree C}
-  \approx \unit[303]{K}`, gleichzeitig wird der Druck auf :math:`p _{\rm{2}} =
-  \unit[6]{bar}` erhöht. Mit Hilfe der Zustandsgleichung für ideale Gase kann
-  das neue Volumen :math:`V _{\rm{2}}` berechnet werden:
+* Ein Gas mit einem Volumen von :math:`V_1 = \unit[50]{cm^3}`, einem Druck von
+  :math:`p_1 = \unit[2,5]{bar}` und einer Temperatur von :math:`T_1 =
+  \unit[0]{\degree C} \approx \unit[273]{K}` wird erwärmt. Dabei beträgt die
+  neue Temperatur :math:`T_2 = \unit[30]{\degree C} \approx \unit[303]{K}`,
+  gleichzeitig wird der Druck auf :math:`p_2 = \unit[6]{bar}` erhöht. Mit Hilfe
+  der Zustandsgleichung für ideale Gase kann das neue Volumen :math:`V_2`
+  berechnet werden:
 
   .. math::
 
-    \frac{p _{\rm{1}} \cdot V _{\rm{1}} }{T _{\rm{1}} } = \frac{p _{\rm{2}}
-    \cdot V _{\rm{2}} }{T _{\rm{2}} } \quad \Leftrightarrow \quad V _{\rm{2}} =
-    \frac{p _{\rm{1}} \cdot T _{\rm{2}} \cdot V _{\rm{1}} }{p _{\rm{2}} \cdot T
-    _{\rm{1}} }  \\[4pt] V _{\rm{2}} = \frac{\unit[2,5]{bar} \cdot \unit[303]{K}
-    \cdot \unit[50]{cm^3} }{\unit[6]{bar} \cdot \unit[273]{K}} \approx
-    \unit[23,12]{cm^3}
+    \frac{p_1 \cdot V_1 }{T_1 } = \frac{p_2 \cdot V_2 }{T_2 } \quad
+    \Leftrightarrow \quad V_2 = \frac{p_1 \cdot T_2 \cdot V_1 }{p_2 \cdot T_1}
+    \\[4pt] 
+    V_2 = \frac{\unit[2,5]{bar} \cdot \unit[303]{K} \cdot \unit[50]{cm^3}
+    }{\unit[6]{bar} \cdot \unit[273]{K}} \approx \unit[23,12]{cm^3}
 
-  Das neue Luftvolumen :math:`V _{\rm{2}}` beträgt somit rund
+  Das neue Luftvolumen :math:`V_2` beträgt somit rund
   :math:`\unit[23,12]{cm^3}`.
 
 .. index:: Zustandsänderung
@@ -405,7 +403,7 @@ bleibt:
 
   .. math::
 
-      \frac{p _{\rm{1}} }{T _{\rm{1}} } = \frac{p _{\rm{2}} }{T _{\rm{2}} }
+      \frac{p_1}{T_1} = \frac{p_2}{T_2}
 
   Wird beispielsweise die (absolute) Temperatur eines Gases bei gleich
   bleibendem Volumen verdoppelt, so verdoppelt sich auch der Druck im Gas.
@@ -417,13 +415,13 @@ bleibt:
 
   .. math::
 
-      \frac{V _{\rm{1}} }{T _{\rm{1}} } = \frac{V _{\rm{2}} }{T _{\rm{2}} }
+      \frac{V_1}{T_1} = \frac{V_2}{T_2}
 
   Wird die Temperatur eines Gases bei gleich bleibendem Druck erhöht, erhöht
   sich auch das Volumen und umgekehrt. Wird beispielsweise die Temperatur eines
   Gases verdoppelt, so verdoppelt sich auch sein Volumen.
 
-  .. pic pocketteacher S.47
+  .. todo pic pocketteacher S.47
 
   Die Bestätigung dieses Zusammenhangs durch zahlreiche Experimente ist
   Grundlage der Festlegung der absoluten Temperatur auf
@@ -441,7 +439,7 @@ bleibt:
 
   .. math::
 
-      p _{\rm{1}} \cdot V _{\rm{1}} = p _{\rm{2}} \cdot V _{\rm{2}}
+      p_1 \cdot V_1 = p_2 \cdot V_2
 
   Wird das Volumen eines Gases bei gleich bleibender Temperatur verkleinert,
   erhöht sich der Druck und umgekehrt. Wird beispielsweise das Volumen eines
@@ -515,7 +513,6 @@ bleibt:
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zur Ausdehnung bei
-    Erwärmung>` und :ref:`Übungsaufgaben <Aufgaben zur Ausdehnung bei
-    Erwärmung>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Ausdehnung bei
+    Erwärmung>` und :ref:`Übungsaufgaben <Aufgaben Ausdehnung bei Erwärmung>`.
 

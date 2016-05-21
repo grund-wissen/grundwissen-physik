@@ -70,8 +70,7 @@ zurückgelegte Strecke :math:`s = 2 \cdot \pi \cdot r`.
         <../../pics/mechanik/kinematik/kreisbewegung-uhrenzeiger.svg>`
 
 
-.. index::
-    single: Geschwindigkeit; Winkelgeschwindigkeit
+.. index:: Winkelgeschwindigkeit, Geschwindigkeit; Winkelgeschwindigkeit
 .. _Winkelgeschwindigkeit:
 
 .. rubric:: Winkelgeschwindigkeit und Drehzahl
@@ -106,7 +105,7 @@ in gleichen Zeitabschnitten einen jeweils gleichen Winkel.
 *Einheit:*
 
     Die Winkelgeschwindigkeit :math:`\omega` wird in Radiant je Sekunde
-    :math:`(\unit[]{rad/s})` angegeben (:math:`\unit[1]{rad} \approx 57,3
+    :math:`(\unit{rad/s})` angegeben (:math:`\unit[1]{rad} \approx 57,3
     \degree`).
 
 Die Winkelgeschwindigkeit ist, wie auch die Bahngeschwindigkeit, eine
@@ -182,8 +181,8 @@ gleicher Winkelgeschwindigkeit zurück.
 
 *Einheit:*
 
-    Die Bahngeschwindigkeit :math:`v` in Meter je Sekunde :math:`(\unit[]{m/s})`
-    oder in Kilometer je Stunde :math:`(\unit[]{km/h})` angegeben.
+    Die Bahngeschwindigkeit :math:`v` in Meter je Sekunde :math:`(\unit{m/s})`
+    oder in Kilometer je Stunde :math:`(\unit{km/h})` angegeben.
 
 ..
     Beispiel: Sonne um Erde (Winkel- und Bahngeschwindigkeit), Fahrzeug im
@@ -196,30 +195,30 @@ gleicher Winkelgeschwindigkeit zurück.
 .. rubric:: Radialbeschleunigung
 
 Da sich die Richtung der Bahngeschwindigkeit eines mit konstanter
-Winkelgeschwindigkeit :math:`\omega` bzw. konstanter Bahngeschwindigkeit
-:math:`v` umlaufenden Punktes ständig ändert, erfährt jeder Körper auf einer
-Kreisbahn eine zeitlich konstante Radialbeschleunigung :math:`a _{\rm{\varphi
-}}` in Richtung des Kreismittelpunktes.
+Winkelgeschwindigkeit :math:`\omega` beziehungsweise  konstanter
+Bahngeschwindigkeit :math:`v` umlaufenden Punktes ständig ändert, erfährt jeder
+Körper auf einer Kreisbahn eine zeitlich konstante Radialbeschleunigung
+:math:`a_{\mathrm{\varphi }}` in Richtung des Kreismittelpunktes.
 
 *Definition:*
 
-    Die Radialbeschleunigung :math:`a _{\rm{rad}}` ist direkt proportional
+    Die Radialbeschleunigung :math:`a_{\mathrm{rad}}` ist direkt proportional
     zum Quadrat der Bahngeschwindigkeit :math:`v` und umgekehrt proportional zum
     Kreisradius :math:`r`:
 
     .. math::
         :label: eqn-radialbeschleunigung
 
-        a _{\rm{rad }} = \frac{v^2}{r}
+        a_{\mathrm{rad}} = \frac{v^2}{r}
 
 *Einheit:*
 
-    Die Zentripetalbeschleunigung :math:`a _{\rm{rad}}` wird in Meter je
-    Quadratsekunde :math:`(\unit[]{m/s^2})` angegeben.
+    Die Zentripetalbeschleunigung :math:`a_{\mathrm{rad}}` wird in Meter je
+    Quadratsekunde :math:`(\unit{m/s^2})` angegeben.
 
 Die obige Formel für die Radialbeschleunigung lässt sich herleiten, wenn man in
-einer schematischen Abbildung zu den zwei Ortspunkten :math:`\rm{P}_1` und
-:math:`\rm{P}_2` eines sich auf einer Kreisbahn bewegenden Körpers die
+einer schematischen Abbildung zu den zwei Ortspunkten :math:`\mathrm{P}_1` und
+:math:`\mathrm{P}_2` eines sich auf einer Kreisbahn bewegenden Körpers die
 zugehörigen Bahngeschwindigkeiten :math:`\vec{v}_1` und :math:`\vec{v}_2`
 einzeichnet. Diese ändern aufgrund der Radialbeschleunigung zwar ihre Richtung,
 jedoch nicht ihren Betrag, so dass :math:`v_1 = v_2` gilt. Beide
@@ -240,7 +239,7 @@ weiter, so dreht sich auch sein Geschwindigkeitsvektor um den gleichen Winkel.
         :download:`SVG: Radialbeschleunigung
         <../../pics/mechanik/kinematik/radialbeschleunigung.svg>`
 
-Da der Abstand :math:`r_1=r_2` der Punkte :math:`\rm{P}_1` und :math:`\rm{P}_2`
+Da der Abstand :math:`r_1=r_2` der Punkte :math:`\mathrm{P}_1` und :math:`\mathrm{P}_2`
 vom Kreismittelpunkt gleich ist, haben das grün dargestellte Orts-Dreieck und
 das blau dargestellte Geschwindigkeits-Dreieck neben dem gleichen Winkel
 :math:`\varphi` zudem ein gleiches Längenverhältnis zweier Seiten, denn es gilt
@@ -259,14 +258,15 @@ Gleichung :eq:`eqn-radialbeschleunigung` für die Radialbeschleunigung:
 
 .. math::
 
-    a _{\rm{rad}} = \frac{\Delta v}{\Delta t} = \frac{\Delta s}{\Delta
-    t} \cdot \frac{v}{r} = v \cdot \frac{v}{r} = \frac{v^2}{r}
+    a_{\mathrm{rad}} = \frac{\Delta v}{\Delta t} = \frac{\Delta s}{\Delta t}
+    \cdot \frac{v}{r} = v \cdot \frac{v}{r} = \frac{v^2}{r}
 
 Auch bei einer konstanten Bahngeschwindigkeit ist eine Kreisbewegung stets eine
 beschleunigte Bewegung: Es ändert sich zwar nicht der Betrag :math:`v = |
 \vec{v} |` der Geschwindigkeit, dafür aber kontinuierlich ihre Richtung.
 
 
+.. index:: Winkelbeschleunigung
 .. _Kreisförmige Bewegung mit konstanter Beschleunigung:
 
 Kreisförmige Bewegungen mit konstanter Beschleunigung
@@ -327,10 +327,14 @@ geradlinigen Bewegung:
 
     \Delta \varphi = \frac{1}{2} \cdot \alpha \cdot (\Delta t)^2 + \varphi_0
 
-Hierbei gibt :math:`\varphi _0` den anfänglichen Winkel der kreisförmigen
+Hierbei gibt :math:`\varphi_0` den anfänglichen Winkel der kreisförmigen
 Bewegung an.
 
-.. todo:: Beispiel
+An einem rotierfähigen Gegenstand treten Winkelbeschleunigungen immer dann auf,
+wenn ein resultierendes :ref:`Drehmoment <Drehmoment>` :math:`M_{\mathrm{res}}`
+auf den Gegenstand einwirkt; für die Winkelbeschleunigung gilt dabei
+:math:`\alpha = \frac{M_{\mathrm{res}}}{I}`, wobei :math:`I` für das
+:ref:`Trägheitsmoment <Trägheitsmoment>` des Gegenstands steht.
 
 
 .. raw:: html
@@ -356,6 +360,5 @@ Bewegung an.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu kreisförmigen
-    Bewegungen>`.
+    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben Kreisförmige Bewegungen>`.
 

@@ -5,7 +5,7 @@ Kinematik
 =========
 
 Die Kinematik ist das Teilgebiet der Physik, in dem unterschiedliche Bewegungen,
-d.h. Ortsveränderungen von Körpern gegenüber einem Bezugspunkt, untersucht
+also Ortsveränderungen von Körpern gegenüber einem Bezugspunkt, untersucht
 werden.
 
 .. toctree::
@@ -13,6 +13,6 @@ werden.
 
     raumkurve-und-massenpunkt.rst
     geradlinige-bewegungen.rst
-    kreisfoermige-bewegungen.rst
     zusammengesetzte-bewegungen.rst
+    kreisfoermige-bewegungen.rst
 

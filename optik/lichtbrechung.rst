@@ -40,8 +40,8 @@ Brechungswinkel :math:`\beta` genannt.
 
 .. rubric:: Brechzahl und Brechungsgesetz
 
-Die Sinus-Werte der Einfallswinkel und Brechungswinkel, :math:`\sin{\alpha }`
-und :math:`\sin{\beta }`, stehen im gleichen Verhältnis zueinander wie die
+Die Sinus-Werte der Einfallswinkel und Brechungswinkel, :math:`\sin{\alpha}`
+und :math:`\sin{\beta}`, stehen im gleichen Verhältnis zueinander wie die
 Geschwindigkeiten :math:`c_1` und :math:`c_2`, die das Licht in den jeweiligen
 Stoffen erreichen kann. Breitet sich das Licht zunächst in Luft bzw. Vakuum aus
 und trifft auf ein transparentes Material, so ergibt das Verhältnis der
@@ -51,11 +51,11 @@ Winkelgrößen einen konstanten, vom Material abhängigen Wert, der als
 .. math::
     :label: eqn-brechzahl-absolut
 
-    n = \frac{\sin{\alpha} }{\sin{\beta} }
+    n = \frac{\sin{\alpha}}{\sin{\beta}}
 
 Die (absolute) Brechzahl :math:`n` gegenüber dem Vakuum ist eine für jeden Stoff
 charakteristische Materialeigenschaft. [#]_ Sie gibt gleichzeitig das
-Verhältnis der Lichtgeschwindigkeit im Vakuum :math:`(c _{\rm{0}} = \unit[3,0
+Verhältnis der Lichtgeschwindigkeit im Vakuum :math:`(c_0 = \unit[3,0
 \cdot 10^8]{\frac{m}{s}})` zur die Lichtgeschwindigkeit :math:`c` im jeweiligen
 Stoff an:
 
@@ -64,7 +64,7 @@ Stoff an:
 
     n = \frac{c_0}{c}
 
-Für die Brechzahl von Vakuum gilt nach der obigen Formel :math:`n _{\rm{0}}=1`,
+Für die Brechzahl von Vakuum gilt nach der obigen Formel :math:`n_0=1`,
 für die Brechzahl von Luft in sehr guter Näherung ebenfalls. [#]_ In allen
 optischen Medien breitet sich das Licht mit geringerer Geschwindigkeit aus, so
 dass die (absoluten) Brechzahlen aller Materialien :math:`n \ge 1` gilt.
@@ -79,7 +79,7 @@ Versuchen zur Materialbestimmung genutzt werden.
     :name: tab-brechzahlen
 
     * - Stoff
-      - Brechzahl :math:`n _{\rm{0}}`
+      - Brechzahl :math:`n_{\mathrm{0}}`
     * - Eis
       - :math:`1,31`
     * - Wasser
@@ -107,13 +107,13 @@ des Einfalls- und Brechungswinkels stehen:
 *Beispiel:*
 
 * Licht breitet sich in Glas oder Wasser langsamer aus als in Luft. Das
-  Verhältnis der Lichtgeschwindigkeit in Luft :math:`c _{\rm{Luft}}` zu der in
-  Lichtgeschwindigkeit in Wasser :math:`c _{\rm{Wasser}}` ist daher größer als
+  Verhältnis der Lichtgeschwindigkeit in Luft :math:`c_{\mathrm{Luft}}` zu der in
+  Lichtgeschwindigkeit in Wasser :math:`c_{\mathrm{Wasser}}` ist daher größer als
   :math:`1`:
 
   .. math::
 
-    n _{\mathrm{Luft \rightarrow  Wasser}} = \frac{c _{\rm{Luft}}}{c _{\rm{Wasser}}} =
+    n_{\mathrm{Luft \rightarrow  Wasser}} = \frac{c_{\mathrm{Luft}}}{c_{\mathrm{Wasser}}} =
     \frac{\unit[300 000]{\frac{km}{s} } }{\unit[225 000]{\frac{km}{s} } } = 1,33
 
   Das bedeutet nichts anderes, als dass der Einfallswinkel :math:`\alpha` des
@@ -137,7 +137,7 @@ diesem Fall größer als der Einfallswinkel :math:`\alpha`. Konkret gilt:
 .. math::
     :label: eqn-totalreflexion-1
 
-    \sin{\alpha } = \frac{n _{\rm{2}}}{n _{\rm{1}}} \cdot \sin{\beta }
+    \sin{\alpha } = \frac{n_2}{n_1} \cdot \sin{\beta }
 
 .. figure::
     ../pics/optik/lichtbrechung-2.png
@@ -154,15 +154,15 @@ diesem Fall größer als der Einfallswinkel :math:`\alpha`. Konkret gilt:
         :download:`SVG: Lichtbrechung 2 <../pics/optik/lichtbrechung-2.svg>`
 
 Bei einem bestimmten, von den beiden Materialien abhängigen Einfallswinkel
-:math:`\alpha _{\rm{max}}` nimmt der Brechungswinkel :math:`\beta` den Wert
+:math:`\alpha_{\mathrm{max}}` nimmt der Brechungswinkel :math:`\beta` den Wert
 :math:`90\degree` an. In diesem Fall kann der einfallende Lichtstrahl nicht mehr aus
 dem optisch dichteren Medium in das optisch dünnere Medium übergehen, sondern
-wird reflektiert bzw. verläuft längs der Grenzfläche beider Medien. Da hierbei
-:math:`\sin{90\degree} = 1` gilt, vereinfacht sich die obige Gleichung
-:eq:`eqn-totalreflexion-1` zu folgender Formel:
+wird reflektiert beziehungsweise  verläuft längs der Grenzfläche beider Medien.
+Da hierbei :math:`\sin{90\degree} = 1` gilt, vereinfacht sich die obige
+Gleichung :eq:`eqn-totalreflexion-1` zu folgender Formel:
 
 .. math::
-    \sin{\alpha _{\rm{max}}} = \frac{n _{\rm{2}}}{n _{\rm{1}}}
+    \sin{\alpha_{\mathrm{max}}} = \frac{n_2}{n_1}
 
 .. figure::
     ../pics/optik/lichtbrechung-totalreflexion.png
@@ -181,13 +181,13 @@ wird reflektiert bzw. verläuft längs der Grenzfläche beider Medien. Da hierbe
 
 Mit Hilfe eines Taschenrechners kann die Umkehrfunktion :math:`\text{asin}` des
 Sinus ("Arcus-Sinus") und somit der Grenzwinkel :math:`\alpha` für das Auftreten
-von Totalreflexion anhand der beiden Brechzahlen :math:`n _{\rm{1}}` und
-:math:`n _{\rm{2}}` berechnet werden: [#]_
+von Totalreflexion anhand der beiden Brechzahlen :math:`n_1` und
+:math:`n_2` berechnet werden: [#]_
 
 .. math::
     :label: eqn-totalreflexion-2
 
-    \alpha _{\rm{max}} = \text{sin}^{-1} \left(\frac{n _{\rm{2}}}{n _{\rm{1}}}
+    \alpha_{\mathrm{max}} = \text{sin}^{-1} \left(\frac{n_2}{n_1}
     \right)
 
 Hierbei ist zu beachten, dass bei der Totalreflexion :math:`n_1` die Brechzahl
@@ -200,23 +200,23 @@ Andernfalls kann keine Totalreflexion stattfinden.
 
 *Beispiel:*
 
-* Für den Übergang eines Lichtstrahls von Wasser in Luft ist :math:`n _{\rm{1}}
-  = 1,33` und :math:`n _{\rm{2}} = 1`. Somit ergibt :math:`\frac{n _{\rm{2}} }{n
-  _{\rm{1}} } \approx 0,752` und :math:`\alpha = \text{sin} ^{-1}(0,752)  \cdot
-  \frac{360 \degree}{2 \cdot \pi} \approx 48,75\degree`.
+* Für den Übergang eines Lichtstrahls von Wasser in Luft ist :math:`n_1 = 1,33`
+  und :math:`n_2 = 1`. Somit ergibt :math:`\frac{n_2}{n_1} \approx 0,752` und
+  :math:`\alpha = \text{sin} ^{-1}(0,752)  \cdot \frac{360 \degree}{2 \cdot \pi}
+  \approx 48,75\degree`.
 
-* Für den Übergang eines Lichtstrahls von Quarzglas in Wasser ist :math:`n
-  _{\rm{1}} = 1,46` und :math:`n _{\rm{2}} = 1,33`. Somit ergibt :math:`\frac{n
-  _{\rm{2}} }{n _{\rm{1}} } \approx 0,911` und :math:`\alpha = \text{sin}
-  ^{-1}(0,911) \cdot \frac{360 \degree}{2 \cdot \pi} \approx 65,64\degree`.
+* Für den Übergang eines Lichtstrahls von Quarzglas in Wasser ist :math:`n_1 =
+  1,46` und :math:`n_2 = 1,33`. Somit ergibt :math:`\frac{n_2}{n_1} \approx
+  0,911` und :math:`\alpha = \text{sin} ^{-1}(0,911) \cdot \frac{360 \degree}{2
+  \cdot \pi} \approx 65,64\degree`.
 
-Je größer der Unterschied der Brechzahlen :math:`n _{\rm{1}}` und :math:`n
-_{\rm{2}}` ist, desto kleiner ist der Grenzwinkel :math:`\alpha _{\rm{max}}`, ab
-dem Totalreflexion auftritt. Ist der Einfallswinkel größer als der Grenzwinkel
-:math:`(\alpha > \alpha _{\rm{max}})`, so wird der Lichtstrahl an der
-Grenzfläche vollständig gemäß dem :ref:`Reflexionsgesetz <Reflexionsgesetz>`
-zurückgeworfen. Diese Eigenschaft wird zur Konstruktion von optischen Glasfaser-
-bzw. Kunstfaserkabeln als so genannte "Lichtleiter" genutzt.
+Je größer der Unterschied der Brechzahlen :math:`n_1` und :math:`n_2` ist, desto
+kleiner ist der Grenzwinkel :math:`\alpha_{\mathrm{max}}`, ab dem Totalreflexion
+auftritt. Ist der Einfallswinkel größer als der Grenzwinkel :math:`(\alpha >
+\alpha_{\mathrm{max}})`, so wird der Lichtstrahl an der Grenzfläche vollständig
+gemäß dem :ref:`Reflexionsgesetz <Reflexionsgesetz>` zurückgeworfen. Diese
+Eigenschaft wird zur Konstruktion von optischen Glasfaser- bzw. Kunstfaserkabeln
+als so genannte "Lichtleiter" genutzt.
 
 .. figure::
     ../pics/optik/lichtleiter.png
@@ -361,10 +361,10 @@ Spiegeln <Gekrümmte Spiegel>`:
 * Parallelstrahlen:
 
     Alle Strahlen, die parallel zur optischen Achse auf eine optische Linse
-    treffen, heißen Parallelstrahlen. Sie werden durch die Linse gesammelt bzw.
-    zerstreut und schneiden sich in einem gemeinsamen Punkt hinter bzw. vor der
-    Linse. Dieser Punkt auf der optischen Achse wird Brennpunkt :math:`F`
-    genannt.
+    treffen, heißen Parallelstrahlen. Sie werden durch die Linse gesammelt
+    beziehungsweise zerstreut und schneiden sich in einem gemeinsamen Punkt
+    hinter bzw. vor der Linse. Dieser Punkt auf der optischen Achse wird
+    Brennpunkt :math:`F` genannt.
 
     Der Abstand zwischen Linsenmittelpunkt und einem Brennpunkt wird Brennweite
     :math:`f` genannt. Die Brennweite einer optischen Linse ist umso größer,
@@ -520,6 +520,6 @@ Mittelpunktstrahl zwischen dem Gegenstand und der Linse.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zur Lichtbrechung>` und
-    :ref:`Übungsaufgaben <Aufgaben zur Lichtbrechung>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Lichtbrechung>` und
+    :ref:`Übungsaufgaben <Aufgaben Lichtbrechung>`.
 

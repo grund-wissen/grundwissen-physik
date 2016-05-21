@@ -101,6 +101,7 @@ Zusätzlich sind zwei weitere Begriffe für die Beschreibung von Wellen nützlic
         <../../pics/mechanik/schwingungen-und-wellen/wellenfront-und-ausbreitungsrichtung.svg>`
 
 .. index:: Wellenformel
+.. _Wellenformel:
 
 Die Geschwindigkeit, mit der sich die einzelnen Wellenfronten ausbreiten, wird
 als Ausbreitungs- oder Phasengeschwindigkeit :math:`v` der Welle bezeichnet.
@@ -126,9 +127,9 @@ Schrittfrequenz haben.
 In der Akustik breiten sich entsprechend alle Schallwellen mit unterschiedlicher
 Frequenz (Tonhöhe) in den meisten Materialien gleich schnell aus, in der Optik
 breiten gilt das gleiche für Lichtwellen unterschiedlicher Frequenz (Farbe).
-Für die Schallgeschwindigkeit in Luft gilt dabei :math:`c_0 = v _{\rm{Schall}}
+Für die Schallgeschwindigkeit in Luft gilt dabei :math:`c_0 = v_{\mathrm{Schall}}
 \approx \unit[330]{\frac{m}{s}}`, für die Lichtgeschwindigkeit gilt :math:`c_0
-= v _{\rm{Licht}} \approx \unit[3 \cdot 10^8]{\frac{m}{s}}`. Kennt man
+= v_{\mathrm{Licht}} \approx \unit[3 \cdot 10^8]{\frac{m}{s}}`. Kennt man
 die Frequenz oder die Wellenlänge einer Licht- oder Schallwelle, so kann man
 mittels Gleichung :eq:`eqn-frequenz-und-wellenlaenge` unmittelbar die
 zugehörige fehlende Größe berechnen:
@@ -140,8 +141,8 @@ zugehörige fehlende Größe berechnen:
 
   .. math::
 
-      v _{\rm{Schall}} = \lambda \cdot f \quad \Leftrightarrow \quad \lambda =
-      \frac{v _{\rm{Schall}}}{f} =
+      v_{\mathrm{Schall}} = \lambda \cdot f \quad \Leftrightarrow \quad \lambda =
+      \frac{v_{\mathrm{Schall}}}{f} =
       \frac{\unit[330]{\frac{m}{s}}}{\unit[100]{\frac{1}{s}}} = \unit[3,3]{m}
       {\color{white}\qquad \qquad \qquad \qquad \quad  1}
 
@@ -154,8 +155,8 @@ zugehörige fehlende Größe berechnen:
 
   .. math::
 
-      v _{\rm{Licht}} = \lambda \cdot f \quad \Leftrightarrow \quad f = \frac{v
-      _{\rm{Licht}}}{\lambda} = \frac{\unit[\;\;\;3 \cdot 10
+      v_{\mathrm{Licht}} = \lambda \cdot f \quad \Leftrightarrow \quad f = \frac{v
+      _{\mathrm{Licht}}}{\lambda} = \frac{\unit[\;\;\;3 \cdot 10
       ^{+8}]{\frac{m}{s}}}{\unit[500 \cdot 10 ^{-9}]{m}} = \unit[600 \cdot 10
       ^{12}]{\frac{1}{s}} = \unit[600]{THz}
 
@@ -166,15 +167,15 @@ zugehörige fehlende Größe berechnen:
 Die Ausbreitungsgeschwindigkeit :math:`v` von Wellen hängt Materialeigenschaften
 des Wellenträgers ab. Beispielsweise gelten folgende Zusammenhänge:
 
-* Bei Longitudinalvellen in Flüssigkeiten gilt :math:`v = \sqrt{\frac{K}{\rho}}`,
+* Bei Longitudinalwellen in Flüssigkeiten gilt :math:`v = \sqrt{\frac{K}{\rho}}`,
   wobei :math:`K` für den Kompressionsmodul der Flüssigkeit und :math:`\rho` für
   ihre Dichte steht.
 
-* Bei Longitudinalvellen in Gasen gilt :math:`v = \sqrt{\frac{\kappa \cdot
+* Bei Longitudinalwellen in Gasen gilt :math:`v = \sqrt{\frac{\kappa \cdot
   \pi}{\rho}}`, wobei :math:`\kappa` für den Adiabatenexponenten, :math:`p` für den
   Druck im Gas und :math:`\rho` für dessen Dichte steht.
 
-* Bei Longitudinalvellen in festen Stäben gilt :math:`v =
+* Bei Longitudinalwellen in festen Stäben gilt :math:`v =
   \sqrt{\frac{E}{\rho}}`, wobei :math:`E` für den Elastizitätsmodul des
   Festkörpers und :math:`\rho` für dessen Dichte steht.
 
@@ -281,7 +282,7 @@ Dauer der Schwebung. Für die Frequenz der Schwebung gilt:
 .. math::
     :label: eqn-frequenz-schwebung
 
-    f _{\mathrm{s}} = \Delta f = |f_2 - f_1|
+    f_{\mathrm{s}} = \Delta f = |f_2 - f_1|
 
 Schwebungen werden beispielsweise genutzt, um Klaviere oder Gitarren zu stimmen:
 Verklingt die Schwebung nicht schneller als die angeschlagenen Töne des
@@ -499,6 +500,8 @@ allerdings wegen :math:`v = \lambda \cdot f` beziehungsweise :math:`f =
 auf dem Wellenträger ab.
 
 
+.. _Mathematische Beschreibung von Wellen:
+
 Mathematische Beschreibung von Wellen
 =====================================
 
@@ -529,7 +532,8 @@ durch folgende Formel charakterisiert werden:
 .. math::
     :label: eqn-auslenkung-welle
 
-    y(x) = y_{\mathrm{max}} \cdot \sin{\left(2 \cdot \pi \cdot \frac{x}{\lambda}\right)}
+    y(x) = y_{\mathrm{max}} \cdot \sin{\left(2 \cdot \pi \cdot
+    \frac{x}{\lambda}\right)}
 
 Hierbei bezeichnet :math:`y_{\mathrm{max}}` die Amplitude der Welle. Ist
 :math:`x` ein ganzzahliges Vielfaches von :math:`\lambda`, so wird das Argument
@@ -561,7 +565,7 @@ Für die "Verschiebung" der Welle um :math:`\Delta x` gilt:
 
 .. math::
 
-    \Delta x = v _{\mathrm{welle}} \cdot \Delta t
+    \Delta x = v_{\mathrm{welle}} \cdot \Delta t
 
 Diese Beziehung ist nützlich, um den Auslenkungszustand einer sinus-förmigen
 Welle an jedem beliebigen Ort *und* zu jeder beliebigen Zeit zu bestimmen: Zum
@@ -580,7 +584,7 @@ gleiche Auslenkung, die sie zum Zeitpunkt :math:`t_0=0` an der Stelle :math:`x_0
 
 Hierbei wurde vereinfacht :math:`t` für die Differenz :math:`\Delta t` zwischen
 dem Zeitpunkt :math:`t` und dem Startpunkt :math:`t_0=0`  geschrieben. Die
-Gleichung kann weiter umgeformt werden, wenn man für :math:`v _{\mathrm{welle}}`
+Gleichung kann weiter umgeformt werden, wenn man für :math:`v_{\mathrm{welle}}`
 die Wellenbeziehung :math:`v_{\mathrm{welle}} = \lambda \cdot f` einsetzt:
 
 .. math::
@@ -600,7 +604,7 @@ der Welle deutlich:
     y(x,t) &= y_{\mathrm{max}} \cdot \sin{\left(2 \cdot \pi \cdot
     \left(\frac{x}{\lambda}- \frac{t}{T}\right)\right)}
 
-Die Welle fängt immer wieder dan von Neuem an, wenn :math:`x` ein Vielfaches der
+Die Welle fängt immer wieder dann von Neuem an, wenn :math:`x` ein Vielfaches der
 Wellenlänge :math:`\lambda` ist (räumliche Periode), oder wenn :math:`t` ein
 Vielfaches der Schwingungsdauer :math:`T` ist (zeitliche Periode).
 
@@ -646,7 +650,7 @@ Größenordnung von über :math:`10\,000` je :math:`\unit{cm}`.
 
 .. .. math::
 
-..     y _{\mathrm{max}} \cdot \sin{(\varphi_0)} = y _{\mathrm{max}} \cdot \sin{(\varphi_0 + 2 \cdot \pi \cdot \frac{t}{T})}
+..     y_{\mathrm{max}} \cdot \sin{(\varphi_0)} = y_{\mathrm{max}} \cdot \sin{(\varphi_0 + 2 \cdot \pi \cdot \frac{t}{T})}
 
 .. Nach einer ganzen Schwingungsdauer :math:`(t=T_0)` beginnt die Schwingung wieder
 .. von vorne. Nach dem gleichen Prinzip kann die räumliche Periodizität beschrieben
@@ -654,7 +658,7 @@ Größenordnung von über :math:`10\,000` je :math:`\unit{cm}`.
 
 .. .. math::
 
-..     y _{\mathrm{max}} \cdot \sin{(\varphi_0)} = y _{\mathrm{max}} \cdot \sin{(\varphi_0 + \frac{2 \cdot \pi \cdot s}{\lambda})}
+..     y_{\mathrm{max}} \cdot \sin{(\varphi_0)} = y_{\mathrm{max}} \cdot \sin{(\varphi_0 + \frac{2 \cdot \pi \cdot s}{\lambda})}
 
 .. Für :math:`s=\lambda`, also nach einer ganzen Wellenlänge, zeigt die Welle
 .. erneut den gleichen Auslenkungszustand.
@@ -681,7 +685,7 @@ Größenordnung von über :math:`10\,000` je :math:`\unit{cm}`.
 ..     \frac{s}{\lambda} \right)\right)}
 
 .. Die maximale Geschwindigkeit, die ein Teilchen aufgrund der sich ausbreitenden
-.. Schwingung erreichen kann, beträgt somit :math:`v _{\mathrm{max}} = \frac{2
+.. Schwingung erreichen kann, beträgt somit :math:`v_{\mathrm{max}} = \frac{2
 .. \cdot \pi}{T} \cdot y_{\mathrm{max}}`.
 
 .. ... to be continued ... :-)
@@ -711,7 +715,7 @@ Größenordnung von über :math:`10\,000` je :math:`\unit{cm}`.
 ..  Bereits aus drei harmonischen Schwingungen unterschiedlicher Frequenz erhält man
 ..  in guter Näherung eines Dreiecksschwingung.
 
-..  Der Mathematiker und Physiker Jean Baptiste Joseph de Fourier
+..  Jean Baptiste Joseph de Fourier
 ..  wies nach, dass sich jede periodische Schwingung bzw. Welle beliebiger Form als
 ..  eine Überlagerung von harmonischen (sinusförmigen) Teilschwingungen bzw.
 ..  Teilwellen darstellen lässt. Das Verfahren, mit dem man die Amplituden und die
@@ -724,18 +728,19 @@ Größenordnung von über :math:`10\,000` je :math:`\unit{cm}`.
 ..  Sie wird als Grundschwingung bezeichnet. Die Frequenzen der übrigen Teilwellen
 ..  sind ganzzahlige Vielfache der Frequenz der Grundschwingung. Analysiert man die
 ..  Klänge von Musikinstrumenten, dann ergibt sich:
-..  - Jeder Klang setzt sich aus sinusförmigen Schwin- gungen verschiedener Frequenz
-  ..  zusammen.
-..  - Die Grundschwingung ist diejenige, die die Tonhöhe bestimmt. Dabei ist zu
-  ..  beachten, dass häufig von einem bestimmten Ton eines Instruments gesprochen
-  ..  wird, damit aber manchmal die harmonische Grundschwingung und manchmal der
-  ..  Klang gemeint ist.
-..  - Die übrigen Teilschwingungen haben Frequenzen, die ganzzahlige Vielfache der
-  ..  Frequenz der Grundschwingung sind. Sie werden als Obertöne bezeichnet.
-..  - Bei gleicher Grundschwingung (Tonhöhe) können die Oberschwingungen und damit
-  ..  die Klangfarbe sehr unterschiedlich sein ( z S. 159). Das kann man hören, wenn
-  ..  der gleichen Ton auf verschiedenen Instrumenten gespielt wird. Dann nehmen wir
-  ..  ihn unterschiedlich wahr.
+
+.. - Jeder Klang setzt sich aus sinusförmigen Schwin- gungen verschiedener Frequenz
+..   zusammen.
+.. - Die Grundschwingung ist diejenige, die die Tonhöhe bestimmt. Dabei ist zu
+..   beachten, dass häufig von einem bestimmten Ton eines Instruments gesprochen
+..   wird, damit aber manchmal die harmonische Grundschwingung und manchmal der
+..   Klang gemeint ist.
+.. - Die übrigen Teilschwingungen haben Frequenzen, die ganzzahlige Vielfache der
+..   Frequenz der Grundschwingung sind. Sie werden als Obertöne bezeichnet.
+.. - Bei gleicher Grundschwingung (Tonhöhe) können die Oberschwingungen und damit
+..   die Klangfarbe sehr unterschiedlich sein ( z S. 159). Das kann man hören, wenn
+..   der gleichen Ton auf verschiedenen Instrumenten gespielt wird. Dann nehmen wir
+..   ihn unterschiedlich wahr.
 
 
 

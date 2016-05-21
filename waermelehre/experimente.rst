@@ -8,12 +8,13 @@ Experimente zur Wärmelehre
 elektrischen Heizquellen dürfen stets nur in Anwesenheit eines Erwachsenen
 durchgeführt werden.
 
-.. _Experimente zu Temperatur und Wärme:
+.. _Experimente Temperatur und Wärme:
 
-Experimente zu Temperatur und Wärme
------------------------------------
+Temperatur und Wärme
+--------------------
 
-Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Temperatur und Wärme <Temperatur und Wärme>`.
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Temperatur und
+Wärme <Temperatur und Wärme>`.
 
 ----
 
@@ -42,10 +43,10 @@ Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Temperatur und W
 
 ----
 
-.. _Experimente zu Ausbreitung von Wärme:
+.. _Experimente Ausbreitung von Wärme:
 
-Experimente zur Ausbreitung von Wärme
--------------------------------------
+Ausbreitung von Wärme
+---------------------
 
 Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Ausbreitung von
 Wärme <Ausbreitung von Wärme>`.
@@ -209,10 +210,10 @@ Wärme <Ausbreitung von Wärme>`.
 
 ----
 
-.. _Experimente zur Ausdehnung bei Erwärmung:
+.. _Experimente Ausdehnung bei Erwärmung:
 
-Experimente zur Ausdehnung bei Erwärmung
-----------------------------------------
+Ausdehnung bei Erwärmung
+------------------------
 
 Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Ausdehnung bei
 Erwärmung <Ausdehnung bei Erwärmung>`.
@@ -345,22 +346,21 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
     :columns: 2
 
     * Eine Schüssel
-    * Eiskaltes und :math:`\unit[10]{\degree C }` warmes Wasser
+    * Eiskaltes und :math:`\unit[10]{\degree C}` warmes Wasser
     * Zwei Thermometer
 
 *Durchführung:*
 
-- Fülle auf :math:`\unit[0]{\degree C }`  kaltes Wasser vorsichtig Wasser mit einer
-  Temperatur von etwa :math:`\unit[10]{\degree C }`  (Tip: Gieße das Wasser auf
+- Fülle auf :math:`\unit[0]{\degree C}`  kaltes Wasser vorsichtig Wasser mit einer
+  Temperatur von etwa :math:`\unit[10]{\degree C}`  (Tip: Gieße das Wasser auf
   ein kleines Hölzchen, das auf dem kalten Wasser schwimmt). Messe nach kurzer
   Zeit mit zwei Thermometern die Temperaturen an der Ober- und Unterseite der
   Wasser-Schichtung.
 - Welches Thermometer zeigt die höhere Temperatur an?
 - Bei welcher Temperatur besitzt Wasser somit die höhere Dichte?
 
-..
-    Das obere Thermometer zeigt etwa 8 C, das untere etwa 4  C an. Die Dichte
-    des Wassers muss folglich bei 4  C größer als bei höheren Temperaturen sein.
+.. Das obere Thermometer zeigt etwa 8 C, das untere etwa 4  C an. Die Dichte
+.. des Wassers muss folglich bei 4  C größer als bei höheren Temperaturen sein.
 
 
 ----
@@ -387,24 +387,14 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
   Standzylinders?
 - Bei welcher Temperatur besitzt Wasser somit die höhere Dichte?
 
-..
-    Das untere Thermometer zeigt 4  C, das obere 0  C an.
-    Wasser besitzt somit bei 4  C eine höhere Dichte als bei 0  C.
+----
+
+
+.. Das untere Thermometer zeigt 4  C, das obere 0  C an.
+.. Wasser besitzt somit bei 4  C eine höhere Dichte als bei 0  C.
 
 ..  waermekraftmaschinen.rst
-
-.. .. _Experimente zu Phasenübergängen:
-
-.. todo:: Experimente zu Phasenübergängen
-
-
-.. raw:: latex
-
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. todo Experimente zu Phasenübergängen
 
 .. only:: html
 

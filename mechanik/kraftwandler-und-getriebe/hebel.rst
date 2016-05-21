@@ -1,7 +1,4 @@
-
-.. index::
-    single: Hebel
-    single: Kraftwandler; Hebel
+.. index:: Hebel, Kraftwandler; Hebel
 .. _Hebel:
 
 Hebel
@@ -29,17 +26,15 @@ Die Stelle, an der eine Kraft :math:`\vec{F}` am Hebel wirkt, heißt Angriffspun
 Kraft, der Abstand ihrer Wirkungslinie zur Drehachse wird Kraftarm :math:`s`
 genannt.
 
-Wirken auf einen Hebel zwei Kräfte :math:`\vec{F} _{\rm{1}}` und :math:`\vec{F}
-_{\rm{2}}`, so ist der Hebel dann im Gleichgewicht, wenn das Produkt ersten
-Kraft :math:`\vec{F} _{\rm{1}}` mit ihrem Kraftarm :math:`\vec{s} _{\rm{1}}`
-gleich dem Produkt der zweiten Kraft :math:`\vec{F} _{\rm{2}}` mit ihrem
-Kraftarm :math:`\vec{s} _{\rm{2}}` ist:
+Wirken auf einen Hebel zwei Kräfte :math:`\vec{F}_1` und :math:`\vec{F}_2`, so
+ist der Hebel dann im Gleichgewicht, wenn das Produkt ersten Kraft
+:math:`\vec{F}_1` mit ihrem Kraftarm :math:`\vec{s}_1` gleich dem Produkt der
+zweiten Kraft :math:`\vec{F}_2` mit ihrem Kraftarm :math:`\vec{s}_2` ist:
 
 .. math::
     :label: eqn-hebel
 
-    \vec{s} _{\rm{1}} \times \vec{F} _{\rm{1}} = \vec{s} _{\rm{2}} \times
-    \vec{F} _{\rm{2}}
+    \vec{s}_1 \times \vec{F}_1 = \vec{s}_2 \times \vec{F}_2
 
 Die obige Formel, die formal eine Gleichheit zweier :ref:`Drehmomente
 <Drehmoment>` beschreibt, wird auch als Hebelgesetz bezeichnet. Es gilt für alle
@@ -69,12 +64,11 @@ Drehachse aus betrachtet, auf verschiedenen Seiten des Hebels.
         :download:`SVG: Balkenwaage als Hebel mit gleicher Kraftarm-Länge.
         <../../pics/mechanik/kraftwandler-und-getriebe/hebel-balkenwaage.svg>`
 
-Der Hebel ist im Gleichgewicht, wenn das Drehmoment :math:`\vec{s} _{\rm{1}}
-\times \vec{F} _{\rm{1}}` auf der linken Seite des Hebels dem Drehmoment
-:math:`\vec{s} _{\rm{2}} \times \vec{F} _{\rm{2}}` auf der rechten Seite des
-Hebels entspricht. [#HZ]_ Ist das wirkende Drehmoment auf der einen Seite größer als
-auf der anderen, so führt die Hebelstange eine entsprechende Rotation um die
-Drehachse aus.
+Der Hebel ist im Gleichgewicht, wenn das Drehmoment :math:`\vec{s}_1 \times
+\vec{F}_1` auf der linken Seite des Hebels dem Drehmoment :math:`\vec{s}_2
+\times \vec{F}_2` auf der rechten Seite des Hebels entspricht. [#HZ]_ Ist das
+wirkende Drehmoment auf der einen Seite größer als auf der anderen, so führt die
+Hebelstange eine entsprechende Rotation um die Drehachse aus.
 
 
 .. index::
@@ -138,11 +132,10 @@ einseitigen oder zweiseitigen Hebel.
         :download:`SVG: Winkelhebel (Nageleisen)
         <../../pics/mechanik/kraftwandler-und-getriebe/winkelhebel-nageleisen.svg>`
 
-Das Hebelgesetz :math:`\vec{s} _{\rm{1}} \times \vec{F} _{\rm{1}} = \vec{s}
-_{\rm{2}} \times \vec{F} _{\rm{2}}` gilt auch bei einem Winkelhebel unverändert.
-Ist das linksdrehende Drehmoment gleich dem rechtsdrehenden, so herrscht ein
-Hebel-Gleichgewicht; andernfalls tritt eine entsprechende Rotation um die
-Drehachse auf.
+Das Hebelgesetz :math:`\vec{s}_1 \times \vec{F}_1 = \vec{s}_2 \times \vec{F}_2`
+gilt auch bei einem Winkelhebel unverändert. Ist das linksdrehende Drehmoment
+gleich dem rechtsdrehenden, so herrscht ein Hebel-Gleichgewicht; andernfalls
+tritt eine entsprechende Rotation um die Drehachse auf.
 
 
 .. index::
@@ -177,17 +170,16 @@ dass im Gleichgewichtsfall wiederum das allgemeine Hebelgesetz gilt:
 
 .. math::
 
-    \vec{s} _{\rm{1}} \times \vec{F} _{\rm{1}} = \vec{s} _{\rm{2}} \times \vec{F}
-    _{\rm{2}}
+    \vec{s}_1 \times \vec{F}_1 = \vec{s}_2 \times \vec{F}_2
 
-Dabei entsprechen die Wegstrecken :math:`| \vec{s} _{\rm{1}} |` und :math:`|
-\vec{s} _{\rm{2}} |` den Radien der beiden Räder. Betraglich ist die
-Kraftverstärkung, die bei einer Drehung des äußeren Rades gegenüber dem inneren
-Rad auftritt, gleich dem Verhältnis der Radien beider Räder:
+Dabei entsprechen die Wegstrecken :math:`|\vec{s}_1|` und :math:`|\vec{s}_2|`
+den Radien der beiden Räder. Betraglich ist die Kraftverstärkung, die bei einer
+Drehung des äußeren Rades gegenüber dem inneren Rad auftritt, gleich dem
+Verhältnis der Radien beider Räder:
 
 .. math::
 
-    F _{\rm{1}} = \frac{s _{\rm{2}}}{s1} \cdot F _{\rm{2}}
+    F_1 = \frac{s_2}{s1} \cdot F_2
 
 Eine kleine Kraft am großen Rad hat somit eine große Kraft am kleinen Rad zur
 Folge. Nach dem gleichen Prinzip funktioniert auch eine Kurbel. Diese kann man
@@ -197,16 +189,16 @@ sich als einzelne, massive Speiche eines Wellrades vorstellen.
 
 *Beispiel:*
 
-* Eine Kurbel mit einem Radius von :math:`r _{\rm{2}} = \unit[25]{cm}` wird mit
-  einer Kraft von :math:`F _{\rm{2}} = \unit[100]{N}` angetrieben. Die Kraft,
-  die dadurch auf ein Antriebsrad mit Radius :math:`r _{\rm{1}} = \unit[5]{cm}`
+* Eine Kurbel mit einem Radius von :math:`r_2 = \unit[25]{cm}` wird mit
+  einer Kraft von :math:`F_2 = \unit[100]{N}` angetrieben. Die Kraft,
+  die dadurch auf ein Antriebsrad mit Radius :math:`r_1 = \unit[5]{cm}`
   wirkt, beträgt somit:
 
 .. math::
 
-    F _{\rm{1}} \cdot r _{\rm{1}} = F _{\rm{2}} \cdot r _{\rm{2}} \quad
-    \Leftrightarrow \quad F _{\rm{1}} = \frac{F _{\rm{2}} \cdot r _{\rm{2}}}{r _{\rm{1}}} \\[5pt]
-    F _{\rm{1}} = \frac{\unit[100]{N} \cdot \unit[0,25]{m}}{\unit[0,05]{m}} =
+    F_1 \cdot r_1 = F_2 \cdot r_2 \quad
+    \Leftrightarrow \quad F_1 = \frac{F_2 \cdot r_2}{r_1} \\[5pt]
+    F_1 = \frac{\unit[100]{N} \cdot \unit[0,25]{m}}{\unit[0,05]{m}} =
     \unit[500]{N}
 
 Auch in diesem Fall bewirkt eine kleine Kraft an der langen Pedalstange eine
@@ -241,6 +233,6 @@ große Kraft am kleinen Antriebsrad.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu Hebeln>` und
-    :ref:`Übungsaufgaben <Aufgaben zu Hebeln>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Hebel>` und
+    :ref:`Übungsaufgaben <Aufgaben Hebel>`.
 

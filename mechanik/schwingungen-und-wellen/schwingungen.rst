@@ -23,9 +23,10 @@ Vorgänge, bei denen sich ein Körper regelmäßig um eine Gleichgewichtslage
         <../../pics/mechanik/schwingungen-und-wellen/schaukel.svg>`
 
 Bei jedem Durchlauf ändern sich dabei der Abstand von der Gleichgewichtslage
-bzw. der Auslenkwinkel :math:`\varphi` , die Beschleunigung :math:`a`, die
-Geschwindigkeit :math:`v` und die damit verbundene Lage- und Bewegungsenergie
-:math:`E _{\rm{pot}}` und :math:`E _{\rm{kin}}` in regelmäßiger Weise.
+beziehungsweise der Auslenkwinkel :math:`\varphi` , die Beschleunigung
+:math:`a`, die Geschwindigkeit :math:`v` und die damit verbundene Lage- und
+Bewegungsenergie :math:`E_{\mathrm{pot}}` und :math:`E_{\mathrm{kin}}` in
+regelmäßiger Weise.
 
 .. figure:: ../../pics/mechanik/schwingungen-und-wellen/pendel.png
     :name: fig-pendel
@@ -99,7 +100,7 @@ Jede Schwingung kann durch folgende Größen beschrieben werden:
 
 * Die Auslenkung :math:`y` (auch "Elongation" genannt) gibt den momentanen
   Abstand des schwingenden Körpers von der Gleichgewichtslage an. Die maximale
-  Auslenkung :math:`y _{\rm{max}}` wird als Amplitude bezeichnet.
+  Auslenkung :math:`y_{\mathrm{max}}` wird als Amplitude bezeichnet.
 
 .. index:: Schwingungsdauer
 
@@ -165,7 +166,7 @@ exponentiell mit der Zeit ab. Für die Amplitude :math:`y` zum Zeitpunkt
         <../../pics/mechanik/schwingungen-und-wellen/gedaempfte-schwingung.svg>`
 
 .. nach Herr S.237:
-.. konstante Dämpfung: :math:`\Delta y = 4 \cdot \frac{F _{\mathrm{Reib}}}{D}`
+.. konstante Dämpfung: :math:`\Delta y = 4 \cdot \frac{F_{\mathrm{Reib}}}{D}`
 
 Ebenfalls möglich ist eine konstante dämpfende Kraft, beispielsweise infolge von
 (Gleit-)Reibung. In diesem Fall ist die Differenz zweier benachbarter Amplituden
@@ -191,16 +192,16 @@ Wird ein schwingendes System einmalig angeregt und dann sich selbst überlassen,
 so führt es Schwingungen mit seiner Eigenfrequenz :math:`f_0` aus.  Wird die
 Energie jedoch über einen längeren Zeitraum hinweg periodisch zugeführt, so
 führt das schwingende System -- nach einer nach einer kurzen Übergangszeit -- so
-genannte "erzwungene" Schwingungen mit der Frequenz :math:`f _{\rm{a}}` des
+genannte "erzwungene" Schwingungen mit der Frequenz :math:`f_{\mathrm{a}}` des
 anregenden Systems aus.
 
 .. index::
     single: Schwingung; resonant
     single: Resonanz
 
-Die Amplitude der angeregten Schwingungen ist von der Erregerfrequenz :math:`f
-_{\rm{E}}` abhängig. Stimmt diese mit der Eigenfrequenz :math:`f_0` des
-angeregten Systems überein, so spricht man von Resonanz. Die Amplitude
+Die Amplitude der angeregten Schwingungen ist von der Erregerfrequenz
+:math:`f_{\mathrm{E}}` abhängig. Stimmt diese mit der Eigenfrequenz :math:`f_0`
+des angeregten Systems überein, so spricht man von Resonanz. Die Amplitude
 :math:`A` des angeregten Systems wird in diesem Fall maximal.
 
 .. figure:: ../../pics/mechanik/schwingungen-und-wellen/resonanz.png

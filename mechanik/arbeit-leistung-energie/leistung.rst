@@ -1,8 +1,9 @@
 .. index:: Leistung, Watt
 .. _Leistung:
+.. _Mechanische Leistung:
 
-Die Leistung
-============
+Mechanische Leistung
+====================
 
 Mechanische Arbeit kann unterschiedlich schnell verrichtet werden. Die
 mechanische Leistung (umgangssprachlich auch "Arbeitstempo" genannt) gibt an,
@@ -21,7 +22,7 @@ wie schnell mechanische Arbeit verrichtet wird.
 *Einheit:*
 
     Die Leistung wird (zu Ehren des Ingenieurs `James Watt
-    <https://de.wikipedia.org/wiki/James_Watt>`_) in Watt :math:`(\unit[]{W})`
+    <https://de.wikipedia.org/wiki/James_Watt>`_) in Watt :math:`(\unit{W})`
     angegeben. Eine Leistung von einem Watt entspricht einer in einer Sekunde
     geleisteten Arbeit von einem Joule:
 
@@ -32,27 +33,27 @@ wie schnell mechanische Arbeit verrichtet wird.
 *Beispiele:*
 
 * Zwei Kräne ziehen jeweils eine Palette mit Steinen, die einer Gewichtskraft
-  :math:`F _{\rm{G}} = \unit[4\,000]{N}` entspricht, auf ein :math:`\unit[5]{m}` hohes
+  :math:`F_{\mathrm{G}} = \unit[4\,000]{N}` entspricht, auf ein :math:`\unit[5]{m}` hohes
   Gerüst. Der eine Kran braucht für diese Arbeit eine Zeit von :math:`t
-  _{\rm{1}} = \unit[10]{s}`, der andere Kran benötigt hingegen :math:`t
-  _{\rm{2}} = \unit[20]{s}`. Damit können die Leistungen :math:`P _{\rm{1}}` und
-  :math:`P _{\rm{2}}` der beiden Kräne berechnet werden:
+  _1 = \unit[10]{s}`, der andere Kran benötigt hingegen :math:`t
+  _2 = \unit[20]{s}`. Damit können die Leistungen :math:`P_1` und
+  :math:`P_2` der beiden Kräne berechnet werden:
 
   .. math::
 
-      P _{\rm{1}} = \frac{W _{\rm{Hub}}}{t _{\rm{1}} } = \frac{F _{\rm{G}} \cdot h}{t
-      _{\rm{1}} } = \frac{\unit[4\,000]{N} \cdot \unit[5]{m}}{\unit[10]{s}}
-      = \frac{\unit[20\,000]{J}}{\unit[10]{s}} = \unit[2\,000]{W} \\[5pt]
-      P _{\rm{2}} = \frac{W _{\rm{Hub}}}{t _{\rm{2}} } = \frac{F _{\rm{G}} \cdot h}{t
-      _{\rm{2}} } = \frac{\unit[4\,000]{N} \cdot \unit[5]{m}}{\unit[20]{s}}
-      = \frac{\unit[20\,000]{J}}{\unit[20]{s}} = \unit[1\,000]{W}
+      P_1 = \frac{W_{\mathrm{Hub} }}{t_1} = \frac{F_{\mathrm{G}} \cdot h}{t_1} =
+      \frac{\unit[4\,000]{N} \cdot \unit[5]{m}}{\unit[10]{s}} =
+      \frac{\unit[20\,000]{J}}{\unit[10]{s}} = \unit[2\,000]{W} \\[5pt]
+      P_2 = \frac{W_{\mathrm{Hub} }}{t_2} = \frac{F_{\mathrm{G}} \cdot h}{t_2} =
+      \frac{\unit[4\,000]{N} \cdot \unit[5]{m}}{\unit[20]{s}} =
+      \frac{\unit[20\,000]{J}}{\unit[20]{s}} = \unit[1\,000]{W}
 
   Da der erste Kran die Arbeit in der halben Zeit verrichtet, ist seine Leistung
   (sein "Arbeitstempo") doppelt so hoch wie die des zweiten Kranes.
 
 * Die mechanische Leistung, die ein Mensch über einen langen Zeitraum aufrecht
-  erhalten kann, liegt bei :math:`75 \text{ bis } \unit[100]{W}`. Kurzzeitig
-  kann ein gut trainierter Mensch auch eine Leistung in der Größenordnung von
+  erhalten kann, liegt bei etwa :math:`\unit[100]{W}`. Kurzzeitig kann ein gut
+  trainierter Mensch auch eine Leistung in der Größenordnung von
   :math:`\unit[1\,000]{W}` erreichen.
 
 .. list-table:: Beispiele für Leistungen in Natur und Technik
@@ -87,7 +88,7 @@ wie schnell mechanische Arbeit verrichtet wird.
 
 
 Große Leistungsmengen werden nach wie vor häufig in Pferdestärken
-:math:`(\unit[]{PS})` anstelle in Kilowatt :math:`(\unit[]{kW})` angegeben.
+:math:`(\unit{PS})` anstelle in Kilowatt :math:`(\unit{kW})` angegeben.
 
 .. math::
 
@@ -124,5 +125,5 @@ ziehen.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu mechanischer
-    Leistung>` und :ref:`Übungsaufgaben <Aufgaben zu mechanischer Leistung>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Mechanische
+    Leistung>` und :ref:`Übungsaufgaben <Aufgaben Mechanische Leistung>`.

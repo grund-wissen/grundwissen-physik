@@ -11,7 +11,7 @@ darstellt, sind folgende Regeln stets zu beachten:
   -- beispielsweise Batterien, Akkus, und/oder gesicherte Stromversorgungsgeräte.
 * Achte darauf, dass niemals Wasser unbeabsichtigt in die Nähe einer
   elektrischen Schaltung gelangen kann.
-* Schalte den Strom erst ein, wenn ein Versuch fertig aufgebaut ist. Schalte
+* Schalte den Strom erst ein, wenn ein Experiment fertig aufgebaut ist. Schalte
   den Strom erst ab, bevor Du einen Versuch wieder abbaust.
 * Berühre keine blanken Drähte oder Metallteile, solange der Strom
   angeschlossen ist. Schraube Elektrogeräte nicht auf, solange der Netzstecker
@@ -19,14 +19,17 @@ darstellt, sind folgende Regeln stets zu beachten:
   angeschlossen werden!
 
 
-.. _Experimente zu elektrischer Ladung:
+.. _Experimente Elektrische Ladung:
 
-Experimente zu elektrischer Ladung
-----------------------------------
+Elektrische Ladung
+------------------
 
-.. _Elektrizität durch Reibung:
+Das folgende Experiment bezieht sich auf den Abschnitt :ref:`Elektrische Ladung
+<Elektrische Ladung>`.
 
 ----
+
+.. _Elektrizität durch Reibung:
 
 .. rubric:: Elektrizität durch Reibung
 
@@ -49,14 +52,17 @@ Experimente zu elektrischer Ladung
 ----
 
 
-.. _Experimente zu Stromstärke, Spannung und Widerstand:
+.. _Experimente Stromstärke, Spannung und Widerstand:
 
-Experimente zu Stromstärke, Spannung und Widerstand
----------------------------------------------------
+Stromstärke, Spannung und Widerstand
+------------------------------------
 
-.. _Stromversorgung einer Glühbirne 1:
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Stromstärke,
+Spannung und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
 ----
+
+.. _Stromversorgung einer Glühbirne 1:
 
 .. rubric:: Stromversorgung einer Glühbirne 1
 
@@ -231,14 +237,17 @@ Experimente zu Stromstärke, Spannung und Widerstand
 ----
 
 
-.. _Experimente zu Leitern, Halbleitern und Isolatoren:
+.. _Experimente Leiter, Halbleiter und Isolatoren:
 
-Experimente zu Leitern, Halbleitern und Isolatoren
---------------------------------------------------
+Leiter, Halbleiter und Isolatoren
+---------------------------------
 
-.. _Prüfstrecke für elektrischen Widerstand:
+Das folgende Experiment bezieht sich auf den Abschnitt :ref:`Leiter, Halbleiter
+und Isolatoren <Leiter, Halbleiter und Isolatoren>`.
 
 ----
+
+.. _Prüfstrecke für elektrischen Widerstand:
 
 .. rubric:: Prüfstrecke für elektrischen Widerstand
 
@@ -264,22 +273,23 @@ Experimente zu Leitern, Halbleitern und Isolatoren
 
 ----
 
+.. Quelle (auch Bild): PK81
 
-..
-    Quelle (auch Bild): PK81
-
-    Eine Prüfstrecke ist eine gezielt eingebaute Unterbrechung in einem Stromkreis,
-    mit deren Hilfe man die Leitfähigkeit von Stoffen testen kann.
+.. Eine Prüfstrecke ist eine gezielt eingebaute Unterbrechung in einem Stromkreis,
+.. mit deren Hilfe man die Leitfähigkeit von Stoffen testen kann.
 
 
-.. _Experimente zu Magnetismus:
+.. _Experimente Magnetismus:
 
-Experimente zu Magnetismus
---------------------------
+Magnetismus
+-----------
 
-.. _Eine Leiterschaukel im Hufeisenmagneten:
+Das folgende Experiment bezieht sich auf den Abschnitt :ref:`Magnetismus
+<Magnetismus>`.
 
 ----
+
+.. _Eine Leiterschaukel im Hufeisenmagneten:
 
 .. rubric:: Eine Leiterschaukel im Hufeisenmagneten
 
@@ -422,9 +432,15 @@ Experimente zu Magnetismus
 - Ändert sich das Versuchsergebnis, wenn die Spule gegen den Magneten bewegt
   wird?
 
-.. raw:: html
+----
 
-    <hr />
+.. Tolle Idee (Nuecke 269): Eisendraht mit :math:`\unit[0,2]{mm}` Durchmesser
+.. und etwa :math:`\unit[0,5]{m}` Länge zu lockerer Spirale aufwickeln; an
+.. :math:`\unit[2,0]{V}` Spannung anschließen und Stromstärke messen.
+.. Dann unter Spirale eine Kerze stellen, weiterhin Stromstärke messen!
+
+.. foo
+
 
 .. only:: html
 
@@ -432,9 +448,6 @@ Experimente zu Magnetismus
 
 .. [#] Die Richtungspfeile des Magnetfelds zeigen vom Nord- zum Südpol!
 
-.. raw:: latex
-
-    \rule{\linewidth}{0.5pt}
 
 .. raw:: html
 

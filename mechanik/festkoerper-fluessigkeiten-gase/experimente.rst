@@ -1,12 +1,12 @@
-.. _Experimente zu Mechanik der Festkörper, Flüssigkeiten und Gase:
+.. _Experimente Mechanik der Festkörper, Flüssigkeiten und Gase:
 
-Experimente zur Mechanik der Festkörper, Flüssigkeiten und Gase
-===============================================================
+Mechanik der Festkörper, Flüssigkeiten und Gase
+===============================================
 
-.. _Experimente zur Mechanik der Flüssigkeiten:
+.. _Experimente Mechanik der Flüssigkeiten:
 
-Experimente zur Mechanik der Flüssigkeiten
-------------------------------------------
+Mechanik der Flüssigkeiten
+--------------------------
 
 Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Mechanik der
 Flüssigkeiten <Mechanik der Flüssigkeiten>`.
@@ -84,13 +84,9 @@ Flüssigkeiten <Mechanik der Flüssigkeiten>`.
   jeweils mit dem Daumen nach innen. Bei welcher Spritze brauchst Du mehr Kraft,
   um die Kolben im "Gleichgewicht" zu halten?
 
-.. raw:: latex
+----
 
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 

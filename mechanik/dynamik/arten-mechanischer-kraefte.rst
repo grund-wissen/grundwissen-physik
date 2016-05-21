@@ -41,14 +41,14 @@ im freien Fall gleich schnell zum Erdmittelpunkt hin beschleunigt.
 
 *Formel:*
 
-    Der Wert der Gewichtskraft :math:`F _{\rm{G}}`, die ein
+    Der Wert der Gewichtskraft :math:`F_{\mathrm{G}}`, die ein
     Körper der Masse :math:`m` durch die Anziehungskraft eines Planeten
     erfährt, ist proportional zum so genannten Ortsfaktor :math:`\vec{g}`: [#]_
 
 .. math::
     :label: eqn-gewichtskraft
 
-    \vec{F}_{\rm{G}} = m \cdot \vec{g}
+    \vec{F}_{\mathrm{G}} = m \cdot \vec{g}
 
 
 .. index:: Gravitation
@@ -64,7 +64,7 @@ Gravitationsgesetz ableiten lässt, näherungsweise :math:`g = |\vec{g}| =
 
   .. math::
 
-      F_{\rm{G, Erde}} = m \cdot g = \unit[1]{kg} \cdot
+      F_{\mathrm{G, Erde}} = m \cdot g = \unit[1]{kg} \cdot
       \unit[9,81]{\frac{N}{kg}} = \unit[9,81]{N}
 
 * Ein Körper der Masse :math:`\unit[50]{kg}` hat auf der Erde eine
@@ -72,7 +72,7 @@ Gravitationsgesetz ableiten lässt, näherungsweise :math:`g = |\vec{g}| =
 
   .. math::
 
-      F _{\rm{G, Erde}} = \unit[50]{kg} \cdot \unit[9,81]{\frac{N}{kg}} =
+      F_{\mathrm{G, Erde}} = \unit[50]{kg} \cdot \unit[9,81]{\frac{N}{kg}} =
       \unit[490,5]{N}
 
 Das Gewicht eines Körpers ist nicht an allen Stellen auf der Erde exakt
@@ -122,7 +122,7 @@ Gewichtskraft von
 
 .. math::
 
-   F_{\rm{G, Mond}} = \unit[1]{kg} \cdot
+   F_{\mathrm{G, Mond}} = \unit[1]{kg} \cdot
    \unit[1,62]{\frac{N}{kg}} = \unit[1,62]{N}
 
 Auf der Sonne erfährt ein Körper der Masse :math:`\unit[1]{kg}` eine
@@ -130,7 +130,7 @@ Gewichtskraft von
 
 .. math::
 
-   F_{\rm{G, Mond}} = \unit[1]{kg} \cdot \unit[274]{\frac{N}{kg}} =
+   F_{\mathrm{G, Mond}} = \unit[1]{kg} \cdot \unit[274]{\frac{N}{kg}} =
    \unit[274]{N}
 
 Körper haben überall im Universum somit zwar die gleiche Masse, aber nicht
@@ -147,7 +147,7 @@ Die Reibungskraft
 
 Erfahrungsgemäß kommt jeder bewegte Körper, der nicht angetrieben wird, nach
 einer gewissen Zeit zur Ruhe. Da seine Geschwindigkeit abnimmt, muss eine
-bremsende Kraft wirken. Diese Kraft heißt Reibungskraft :math:`F_{\rm{R}}`.
+bremsende Kraft wirken. Diese Kraft heißt Reibungskraft :math:`F_{\mathrm{R}}`.
 
 Reibungskräfte treten immer auf, wenn sich Körper berühren und gegeneinander
 bewegen. Ursache dafür sind die unebenen Oberflächen der Körper und
@@ -188,16 +188,16 @@ ineinander stecken und versuchen sie gegeneinander zu bewegen).
 *Formel:*
 
     Haften zwei Körper aneinander, so ist der Betrag der maximalen
-    Haftreibungskraft :math:`F _{\rm{R,Haft,max.}}` proportional zu der
-    Normalkraft :math:`F _{\perp}`, die beide Körper aneinander presst
+    Haftreibungskraft :math:`F_{\mathrm{R,Haft,max.}}` proportional zu der
+    Normalkraft :math:`F_{\perp}`, die beide Körper aneinander presst
 
 .. math::
 
-    F _{\rm{R,Haft,max.}} = \mu _{\rm{H}} \cdot F _{\perp}
+    F_{\mathrm{R,Haft,max.}} = \mu_{\mathrm{H}} \cdot F_{\perp}
 
 .. _Haftreibungszahl:
 
-Die Proportionalitätskonstante heißt Haftreibungszahl :math:`\mu _{\rm{H}}`
+Die Proportionalitätskonstante heißt Haftreibungszahl :math:`\mu_{\mathrm{H}}`
 und hängt vom Stoff und von der Oberflächenbeschaffenheit der Körper ab. Ist die
 angreifende Kraft größer als die maximale Haftreibungskraft, so beginnt der
 Körper zu gleiten.
@@ -207,8 +207,8 @@ Körper zu gleiten.
     :widths: 50 50 50
 
     * - Stoffpaar
-      - Haftreibungszahl :math:`\mu _{\rm{H}}`
-      - Gleitreibungszahl :math:`\mu _{\rm{H}}`
+      - Haftreibungszahl :math:`\mu_{\mathrm{H}}`
+      - Gleitreibungszahl :math:`\mu_{\mathrm{H}}`
     * - Holz auf Holz
       - :math:`0,5 \text{ bis } 0,6`
       - :math:`0,2 \text{ bis } 0,4`
@@ -256,16 +256,16 @@ völlig ineinander verhaken.
 
 *Formel:*
 
-    Die Gleitreibungskraft :math:`F _{\rm{R,Gleit}}` hängt -- wie auch die
+    Die Gleitreibungskraft :math:`F_{\mathrm{R,Gleit}}` hängt -- wie auch die
     Haftreibungskraft -- von der zusammenpressenden Gewichts- oder Normalkraft
-    :math:`F _{\perp}` und der Oberflächenbeschaffenheit der Körper ab:
+    :math:`F_{\perp}` und der Oberflächenbeschaffenheit der Körper ab:
 
 .. math::
 
-    F _{\rm{R,Gleit}} = \mu _{\rm{G}} \cdot F _{\perp}
+    F_{\mathrm{R,Gleit}} = \mu_{\mathrm{G}} \cdot F_{\perp}
 
-Die Gleitreibungszahl :math:`\mu _{\rm{G}}` ist dabei stets kleiner als die
-`Haftreibungszahl`_ :math:`\mu _{\rm{H}}`.
+Die Gleitreibungszahl :math:`\mu_{\mathrm{G}}` ist dabei stets kleiner als die
+`Haftreibungszahl`_ :math:`\mu_{\mathrm{H}}`.
 
 .. index::
     single: Reibung; Rollreibung
@@ -303,7 +303,7 @@ auswirken.
     :widths: 50 50
 
     * - Stoffpaar
-      - Rollreibungszahl :math:`\mu _{\rm{R}}`
+      - Rollreibungszahl :math:`\mu_{\mathrm{R}}`
     * - Eisen auf Eisen
       - :math:`\text{ ca. } 0,005`
     * - Kugeln im Kugellager
@@ -325,27 +325,54 @@ er stets einen Strömungswiderstand (z.B. Wasserwiderstand oder Luftwiderstand)
 überwinden. Hierbei hängt die Größe der Widerstandskraft von der Dichte
 :math:`\rho` des durchquerten Mediums, der Querschnittsfläche :math:`A` des
 Körpers, dem Quadrat seiner Geschwindigkeit :math:`v^2` sowie einem so genannten
-"Widerstandsbeiwert" :math:`c _{\rm{w}}` ab, der den Einfluss der Körperform
+"Widerstandsbeiwert" :math:`c_{\mathrm{w}}` ab, der den Einfluss der Körperform
 beziffert.
 
 .. todo tabelle pic
 
-Beispielsweise gilt für die Luftwiderstandskraft :math:`F _{\rm{L}}`
+Beispielsweise gilt für die Luftwiderstandskraft :math:`F_{\mathrm{L}}`
 näherungsweise folgende Formel: [#LW]_
 
 .. math::
 
-    F _{\rm{L}} = \frac{1}{2} \cdot c _{\rm{w}} \cdot A \cdot \rho \cdot v^2
+    F_{\mathrm{L}} = \frac{1}{2} \cdot c_{\mathrm{w}} \cdot \rho_{\mathrm{L}} \cdot A \cdot v^2
 
 Bei üblichen Straßenfahrzeugen kann der Widerstandsbeiwert im optimalen Falle
 :math:`0,09` betragen, bei Omnibusssen sind Werte bis zu :math:`0,6` üblich.
 
-..  Typische :math:`c _{\rm{w}}`-Werte für verschiedene Körperformen sind in Tabelle
-..  aufgelistet.
+.. list-table::
+    :name: tab-luftwiderstandsbeiwerte
+    :widths: 50 50
 
-Die Dichte der Luft beträgt unter Normalbedingungen :math:`\rho _{\rm{Luft}} =
+    * - Gegenstand
+      - :math:`c_{\mathrm{w}}`-Wert
+    * - Halbkugel (konkav), Fallschirm
+      - :math:`1,33`
+    * - Rechteckige Platte
+      - :math:`1,1` bis :math:`1,3`
+    * - Kreisförmige Platte
+      - :math:`1,11`
+    * - Mensch (stehend)
+      - :math:`0,78`
+    * - LKW
+      - :math:`0,6` bis :math:`0,9`
+    * - Fahrradfahrer (Mountainbike)
+      - :math:`0,5` bis :math:`0,7`
+    * - Kugel
+      - :math:`0,45`
+    * - Fahrradfahrer (Rennrad)
+      - :math:`0,4`
+    * - PKW
+      - :math:`0,25` bis :math:`0,45`
+    * - Halbkugel (konvex)
+      - :math:`0,34`
+    * - Tropfen (Stromlinienform)
+      - :math:`0,02`
+
+
+Die Dichte der Luft beträgt unter Normalbedingungen :math:`\rho_{\mathrm{Luft}} =
 \unit[1,29]{kg/m^3}`. Für die Berechnung der Wasserwiderstandkraft muss mit der
-entsprechend höheren Dichte von Wasser :math:`(\rho _{\rm{Wasser}} =
+entsprechend höheren Dichte von Wasser :math:`(\rho_{\mathrm{Wasser}} =
 \unit[1000]{kg/m^3})` gerechnet werden.
 
 
@@ -356,26 +383,27 @@ entsprechend höheren Dichte von Wasser :math:`(\rho _{\rm{Wasser}} =
 Die Spannkraft
 --------------
 
-Drückt man einen elastischen Körper, z.B. eine Schraubenfeder, zusammen oder
-zieht ihn auseinander, so wirkt in der Feder eine jeweils entgegengesetzte
-Kraft, die sie wieder auf ihre ursprüngliche Länge zurück zu formen versucht.
+Drückt man einen elastischen Gegenstand, beispielsweise eine Schraubenfeder,
+zusammen oder zieht ihn auseinander, so wirkt in ihm eine entgegengesetzt
+gerichtete Kraft, die ihn wieder auf ihre ursprüngliche Länge zurück zu formen
+versucht.
 
 *Formel:*
 
     Je weiter die Wegstrecke :math:`s` ist, um die eine Schraubenfeder gestaucht
-    oder gedehnt wird, desto stärker ist die rückstellende Spannkraft :math:`F
-    _{\rm{S}}` der Feder.
+    oder gedehnt wird, desto stärker ist die rückstellende Spannkraft
+    :math:`F_{\mathrm{S}}` der Feder.
 
 .. math::
   :label: eqn-spannkraft
 
-  \vec{F}_{\rm{S}} = - D \cdot \vec{s}
+  \vec{F}_{\mathrm{S}} = - D \cdot \vec{s}
 
 Die Federkonstante :math:`D` ist dabei von der Form und dem Material der Feder
-bzw. des elastischen Körpers abhängig. Die Federkonstante (und damit die
-Federhärte) einer Schraubenfeder ist beispielsweise umso größer, je dicker der
-Draht ist und je enger er gewickelt ist; sie wird im Allgemeinen in Newton je
-Meter :math:`(\unit[]{N/m})` angegeben.
+beziehungsweise des elastischen Körpers abhängig. Die Federkonstante (und damit
+die Federhärte) einer Schraubenfeder ist beispielsweise umso größer, je dicker
+der Draht ist und je enger er gewickelt ist; sie wird im Allgemeinen in Newton
+je Meter :math:`(\unit{N/m})` angegeben.
 
 Das Minuszeichen in Gleichung :eq:`eqn-spannkraft` bedeutet, dass die Richtung der
 Auslenkung der Feder :math:`s` von ihrer Ruhelage der Richtung der Federkraft
@@ -407,11 +435,11 @@ beschleunigt. Diese Kraft wird Radialkraft bzw. Zentripetalkraft genannt.
 Für den Betrag der Radialkraft gilt ebenfalls das :ref:`Kraftgesetz
 <Kraftgesetz>` :math:`F = m \cdot a`. Mit der :ref:`Radialbeschleunigung
 <Radialbeschleunigung>` :math:`a = \frac{v^2}{r}` folgt für die Radialkraft
-:math:`F _{\rm{rad}}`:
+:math:`F_{\mathrm{rad}}`:
 
 .. math::
 
-    F _{\rm{rad}} = m \cdot \frac{v^2}{r}
+    F_{\mathrm{rad}} = m \cdot \frac{v^2}{r}
 
 Befindet man sich als Beobachter selbst auf einer Kreisbahn, so nimmt man
 hingegen die entsprechende Gegenkraft ("Zentrifugalkraft") wahr. Sitzt man
@@ -466,33 +494,33 @@ bis :math:`250\,000`-faches der Erdbeschleunigung :math:`g` betragen.
 
 .. [#] Genau genommen ist die obige Formel eine Näherung für das allgemeine
     Gravitationsgesetz, wonach auf zwei Körper mit den Massen :math:`m_1` und
-    :math:`m_2` stets eine anziehende Kraft :math:`F _{\rm{G}}` wirkt. Ihr
+    :math:`m_2` stets eine anziehende Kraft :math:`F_{\mathrm{G}}` wirkt. Ihr
     Betrag ist von den beiden Massen sowie vom Abstand :math:`r` zwischen ihren
     Schwerpunkten abhängig:
 
      .. math::
 
-         F _{\rm{G}} = \gamma \cdot \frac{m_1 \cdot m_2}{r^2}
+         F_{\mathrm{G}} = \gamma \cdot \frac{m_1 \cdot m_2}{r^2}
 
     Dabei ist :math:`\gamma = \unit[6,67 \cdot 10^{-11}]{\frac{m^3}{kg \cdot s^2}}`
     die allgemeine Gravitationskonstante. Für die Schwerkraft, die ein Körper in
     Nähe der Erdoberfläche erfährt, kann näherungsweise und :math:`r \approx r
-    _{\rm{E}} = \unit[6371]{km}` gesetzt werden (der Abstand eines Gegenstands
+    _{\mathrm{E}} = \unit[6371]{km}` gesetzt werden (der Abstand eines Gegenstands
     bzw. Körpers von der Erdoberfläche ist meist vernachlässigbar klein
-    gegenüber dem Erdradius). Mit der Erdmasse :math:`m _{\rm{E}} = \unit[5,972
+    gegenüber dem Erdradius). Mit der Erdmasse :math:`m_{\mathrm{E}} = \unit[5,972
     \cdot 10^{24}]{kg}` kann der Ortsfaktor :math:`g` somit folgendermaßen
     definiert werden:
 
     .. math::
 
-        g = \gamma \cdot \frac{m_2}{r _{\rm{E}}^2} \approx \unit[9,81]{m/s^2}
+        g = \gamma \cdot \frac{m_2}{r_{\mathrm{E}}^2} \approx \unit[9,81]{m/s^2}
 
     Für die Gewichtskraft eines Körpers :math:`m` auf der Erde gilt damit in
     guter Näherung:
 
     .. math::
 
-        F _{\rm{G}} = \gamma \cdot \frac{m \cdot m _{\rm{E}}}{r _{\rm{E}}^2}
+        F_{\mathrm{G}} = \gamma \cdot \frac{m \cdot m_{\mathrm{E}}}{r_{\mathrm{E}}^2}
         \approx m \cdot g
 
 .. [#LW] Treten zusätzlich Luftverwirbelungen ("turbulente Strömungen") auf, so
@@ -507,6 +535,7 @@ bis :math:`250\,000`-faches der Erdbeschleunigung :math:`g` betragen.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu mechanischen
-    Kräften>` und :ref:`Übungsaufgaben <Aufgaben zu Arten mechanischer Kräfte>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Arten
+    mechanischer Kräfte>` und :ref:`Übungsaufgaben <Aufgaben Arten mechanischer
+    Kräfte>`.
 

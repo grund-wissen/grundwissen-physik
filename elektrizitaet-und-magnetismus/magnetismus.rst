@@ -189,7 +189,7 @@ abgeschätzt werden.
 Elektromagnete
 --------------
 
-Im Jahr 1820 entdeckte der Physiker `Hans-Christian Oersted
+Im Jahr 1820 entdeckte `Hans-Christian Oersted
 <https://de.wikipedia.org/wiki/Hans_Christian_Oersted>`_, dass auch von einem
 stromdurchflossenen elektrischen Leiter eine (schwache) Kraftwirkung auf eine
 nahe gelegene Kompassnadel ausgeht. Diese Feststellung widersprach der bis dahin
@@ -323,14 +323,14 @@ fließenden Stromstärke :math:`\vec{I}` und umgekehrt proportional zum Abstand
 
 .. math::
 
-    H _{\rm{Leiterbahn}} = \frac{I}{2 \cdot \pi \cdot r}
+    H_{\mathrm{Leiterbahn}} = \frac{I}{2 \cdot \pi \cdot r}
 
 Die Einheit der magnetischen Feldstärke ist gemäß der obigen Formel
 :math:`\frac{A}{m}`.
 
 Im Inneren einer Leiterschleife ist der Wert der magnetischen Feldstärke
 gegenüber einer geraden Leiterbahn um den Faktor :math:`\pi` erhöht, es gilt
-also :math:`H _{\rm{Leiterschleife}}= \frac{I}{2 \cdot r}`. Kombiniert man eine
+also :math:`H_{\mathrm{Leiterschleife}}= \frac{I}{2 \cdot r}`. Kombiniert man eine
 Zahl :math:`N` an Leiterschleifen zu einer langen Spule, so ist die magnetische
 Feldstärke im Inneren der Spule nahezu homogen. Für die magnetische Feldstärke
 einer Spule mit einer Windungszahl :math:`N` und einer Länge :math:`l` gilt:
@@ -338,7 +338,7 @@ einer Spule mit einer Windungszahl :math:`N` und einer Länge :math:`l` gilt:
 .. math::
     :label: eqn-magnetische-feldstaerke-spule
 
-    H _{\rm{Spule}} = \frac{N \cdot I}{l}
+    H_{\mathrm{Spule}} = \frac{N \cdot I}{l}
 
 
 .. index:: Magnetische Flussdichte
@@ -353,16 +353,18 @@ andere Magneten beschreibt, gibt es folgenden Zusammenhang:
 .. math::
     :label: eqn-magnetische-feldstaerke-und-flussdichte
 
-    \vec{B} = \mu _0 \cdot \vec{H}  \quad \Leftrightarrow \quad \vec{H} =
-    \frac{1}{\mu _0} \cdot \vec{B}
+    \vec{B} = \mu_0 \cdot \vec{H}  \quad \Leftrightarrow \quad \vec{H} =
+    \frac{1}{\mu_0} \cdot \vec{B}
 
-Hierbei bezeichnet :math:`\mu _0 = \unit[1,256 \cdot 10 ^{-6}]{\frac{V \cdot
+Hierbei bezeichnet :math:`\mu_0 = \unit[1,256 \cdot 10 ^{-6}]{\frac{V \cdot
 s}{A \cdot m}}` die magnetische Feldkonstante. Für die magnetische Flussdichte
 ergibt sich damit als Einheit:
 
 .. math::
 
     [B] = \unit[1]{\frac{V \cdot s}{m^2}} = \unit[1]{Tesla} = \unit[1]{T}
+
+.. ebenso ist :math:`\unit[1]{T} = \unit[1]{\frac{N}{A \cdot m}}` 
 
 Beispielsweise beträgt die magnetische Flussdichte der Erde rund
 :math:`\unit[0,04]{mT}`.
@@ -376,18 +378,18 @@ Material hinausgedrängt werden. Allgemein gilt also:
 
 .. math::
 
-    \vec{B} = \mu _{\rm{r}} \cdot \mu _0 \cdot \vec{H}
+    \vec{B} = \mu_{\mathrm{r}} \cdot \mu_0 \cdot \vec{H}
 
-Für die Größe der Permeabilitaetszahl :math:`\mu _{\rm{r}}` gibt es im
+Für die Größe der Permeabilitaetszahl :math:`\mu_{\mathrm{r}}` gibt es im
 wesentlichen drei verschiedene Fälle:
 
-* In diamagnetischen Materialien :math:`\mu _{\rm{r}} < 1`, die magnetische
+* In diamagnetischen Materialien :math:`\mu_{\mathrm{r}} < 1`, die magnetische
   Flussdichte wird also gegenüber dem äußeren Feld leicht verringert. Beispiele:
   Kupfer, Zink, Wasser, Stickstoff.
-* In paramagnetischen Materialien ist :math:`\mu _{\rm{r}} > 1`, die magnetische
+* In paramagnetischen Materialien ist :math:`\mu_{\mathrm{r}} > 1`, die magnetische
   Flussdichte wird also gegenüber dem äußeren Feld leicht erhöht. Beispiele:
   Aluminium, Platin, Sauerstoff.
-* In ferromagnetischen Materialien ist :math:`\mu _{\rm{r}} \gg 1`, ist die magnetische
+* In ferromagnetischen Materialien ist :math:`\mu_{\mathrm{r}} \gg 1`, ist die magnetische
   Flussdichte wird also gegenüber dem äußeren Feld stark erhöht. Beispiele:
   Eisen, Cobalt, Nickel.
 
@@ -457,13 +459,35 @@ der wirkenden Kraft gilt folgende Merkregel:
     :alt:  fig-lorentzkraft-drei-finger-regel
 
     Die Drei-Finger-Regel als Merkhilfe für die Richtungen der Lorentskraft
-    :math:`\vec{F} _{\rm{B}}`, des Magnetfeldes :math:`\vec{B}` und der
+    :math:`\vec{F} _{\mathrm{B}}`, des Magnetfeldes :math:`\vec{B}` und der
     technischen Stromrichtung :math:`\vec{I}`.
 
     .. only:: html
 
         :download:`SVG: Drei-Finger-Regel (Lorentzkraft)
         <../pics/elektrizitaet-magnetismus/lorentzkraft-drei-finger-regel.svg>`
+
+.. Beispiel Leiter zwischen Hufeisenmagnet mit Pic
+
+Bezeichnet man die Länge des vom Strom :math:`I` durchflossenen Leiterstücks,
+das sich im Magnetfeld :math:`\vec{B}` befindet, mit :math:`\vec{s}`, so kann
+die Lorentzkraft :math:`\vec{F}_{\mathrm{L}}` quantitativ mittels folgender
+Formel berechnet werden:
+
+.. math::
+
+    \vec{F}_{\mathrm{L}} = I \times (\vec{s} \times \vec{B})
+
+Verläuft der stromdurchflossene Leiter senkrecht zum Magnetfeld, so ist der
+Betrag der Lorentzkraft gleich :math:`F_{\mathrm{L}} = I \cdot s \cdot B`,
+andernfalls ergibt das Vektorprodukt :math:`F_{\mathrm{L}} = I \cdot s \cdot B
+\cdot \sin{(\alpha)}`, wobei :math:`\alpha` den Winkel zwischen dem Leiterstück
+und dem Magnetfeld angibt. Wird nicht nur ein einzelnes Leiterstück, sondern
+beispielsweise eine Spule mit :math:`n` Windungen in das Magnetfeld eingebracht,
+so ergibt sich auch eine :math:`n`-fache Weglänge :math:`s` und somit eine
+:math:`n`-Fache Kraftwirkung.
+
+
 
 Die Lorentz-Kraft findet beispielsweise in Elektromotoren sowie in den
 Bildröhren von älteren Fernsehgeräten Anwendung. Gleichermaßen liefert sie eine
@@ -490,6 +514,6 @@ bzw. herausgezogen, so tritt in der Spule kurzzeitig ein Stromfluss auf.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Magnetismus>` und
-    :ref:`Übungsaufgaben <Aufgaben zu Magnetismus>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Magnetismus>` und
+    :ref:`Übungsaufgaben <Aufgaben Magnetismus>`.
 

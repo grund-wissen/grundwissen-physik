@@ -326,7 +326,7 @@ Strahlung oder über den zeitlichen Verlauf der Einwirkung.
 
 .. rubric:: Nebelkammer
 
-Im Jahr 1911 bestrahlte der Physiker `Charles Wilson
+Im Jahr 1911 bestrahlte `Charles Wilson
 <https://de.wikipedia.org/wiki/Charles_Thomson_Rees_Wilson>`_ im Rahmen von
 metereologischen Untersuchungen einen mit unsichtbarem Wasserdampf übersättigten
 Raum mit Alpha- und Betastrahlen. Er stellte fest, dass diese die auf ihrem Weg
@@ -337,7 +337,7 @@ erkennbar wird.
 
 .. rubric:: Geigerzähler
 
-Im Jahr 1928 entwickelten die Physiker `Hans Geiger
+Im Jahr 1928 entwickelten `Hans Geiger
 <https://de.wikipedia.org/wiki/Hans_Geiger_(Physiker)>`_ und `Walther Müller
 <https://de.wikipedia.org/wiki/Walther_Müller>`_ eine Apparatur, welche die
 ionisierende Wirkung von Gammastrahlen als akustische Geräusche hörbar machte.
@@ -506,7 +506,7 @@ Nach vier Halbwertszeiten sind die Atome eines Radionuklid zu mehr als
 
 *Einheit:*
 
-    Die Einheit der Aktivität ist nach dem Physiker `Henry Becquerel
+    Die Einheit der Aktivität ist nach `Henry Becquerel
     <https://de.wikipedia.org/wiki/Antoine_Henri_Becquerel>`_ benannt. Nach der
     obigen Gleichung ergibt sich für :math:`\unit[1]{Becquerel}`
     :math:`(\unit[1]{Bq})` folgender Zusammenhang: [#]_

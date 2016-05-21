@@ -407,7 +407,7 @@ Erhaltung der Energie einen der wichtigsten Erhaltungssätze der Mechanik dar.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu Impuls und
-    Drehimpuls>` und :ref:`Übungsaufgaben <Aufgaben zu Impuls und Drehimpuls>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Impuls und
+    Drehimpuls>` und :ref:`Übungsaufgaben <Aufgaben Impuls und Drehimpuls>`.
 
 

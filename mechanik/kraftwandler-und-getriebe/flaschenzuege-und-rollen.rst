@@ -1,4 +1,3 @@
-
 .. _Flaschenzüge und Rollen:
 
 Flaschenzüge und Rollen
@@ -110,14 +109,14 @@ Seilstücken ergibt sich folgende Kraftreduzierung:
 .. math::
     :label: eqn-flaschenzug
 
-    {\color{white}\ldots\quad}F _{\rm{Zug}} = \frac{1}{n} \cdot F _{\rm{G}}
+    {\color{white}\ldots\quad}F_{\mathrm{Zug}} = \frac{1}{n} \cdot F_{\mathrm{G}}
 
 Entsprechend muss jedoch das Zugseil um eine :math:`n`-fache Länge gegenüber der
 Hubhöhe :math:`h` angezogen werden:
 
 .. math::
 
-    s _{\rm{Zug}} = n \cdot h
+    s_{\mathrm{Zug}} = n \cdot h
 
 
 .. figure:: ../../pics/mechanik/kraftwandler-und-getriebe/flaschenzug-vierfach.png
@@ -160,6 +159,6 @@ für die Wirkungsweise eines Flaschenzugs ohne Bedeutung.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu Flaschenzügen und
-    Rollen>` und :ref:`Übungsaufgaben <Aufgaben zu Flaschenzügen und Rollen>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Flaschenzüge und
+    Rollen>` und :ref:`Übungsaufgaben <Aufgaben Flaschenzüge und Rollen>`.
 

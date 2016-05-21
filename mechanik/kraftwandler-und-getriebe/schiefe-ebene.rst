@@ -6,17 +6,17 @@ Schiefe Ebenen
 ==============
 
 Wird ein Körper auf eine schiefe Ebene gestellt, so wird er aufgrund seiner
-Gewichtskraft :math:`F _{\rm{G}}` entlang der schiefen Ebene hangabwärts
+Gewichtskraft :math:`F_{\mathrm{G}}` entlang der schiefen Ebene hangabwärts
 beschleunigt. Dies lässt sich erklären, wenn man die Gewichtskraft in zwei
 Teilkräfte (entlang der schiefen Ebene und senkrecht zu ihr) zerlegt denkt:
 
-* Die Kraft senkrecht zur schiefen Ebene wird Normalkraft :math:`F _{\rm{N}}`
+* Die Kraft senkrecht zur schiefen Ebene wird Normalkraft :math:`F_{\mathrm{N}}`
   genannt. Dieser Kraftanteil würde ein Einsinken des Körpers in die schiefe
   Ebene bewirken, jedoch wirkt bei einem festen Untergrund der Boden aufgrund
   seiner Starrheit dagegen.
 
 * Die Kraft parallel zur schiefen Ebene wird Hangabtriebskraft :math:`F
-  _{\rm{HA}}` genannt. Dieser Kraftanteil bewirkt eine Beschleunigung des
+  _{\mathrm{HA}}` genannt. Dieser Kraftanteil bewirkt eine Beschleunigung des
   Körpers entlang der schiefen Ebene.
 
 Ist die Hangabtriebskraft groß genug, um die zwischen Körper und schiefer Ebene
@@ -35,8 +35,8 @@ wirkende Reibungskraft zu überwinden, so beginnt der Körper zu gleiten.
         :download:`SVG: Schlittenfahren (Schiefe Ebene)
         <../../pics/mechanik/kraftwandler-und-getriebe/schiefe-ebene-schlittenfahren.svg>`
 
-Auf einer waagrechten Ebene ist die Gewichtskraft :math:`\vec{F} _{\rm{G}}`
-gleich der Normalkraft :math:`\vec{F} _{\rm{N}}`, der Betrag der
+Auf einer waagrechten Ebene ist die Gewichtskraft :math:`\vec{F} _{\mathrm{G}}`
+gleich der Normalkraft :math:`\vec{F} _{\mathrm{N}}`, der Betrag der
 Hangabtriebskraft ist gleich Null. Umgekehrt ist entlang einer vertikalen Wand
 die Hangabtriebskraft gleich der Gewichtskraft, und die (anpressende)
 Normalkraft ist gleich Null. Bei einem beliebigen Winkel :math:`\alpha` der
@@ -46,11 +46,11 @@ Zusammenhänge:
 .. math::
     :label: eqn-schiefe-ebene-kraftanteile
 
-    F _{\rm{HA}} &= F _{\rm{G}} \cdot \sin{\alpha }\\[6pt]
-    F _{\rm{N\phantom{A}}}  &= F _{\rm{G}} \cdot \cos{\alpha }
+    F_{\mathrm{HA}} &= F_{\mathrm{G}} \cdot \sin{\alpha }\\[6pt]
+    F_{\mathrm{N\phantom{A}}}  &= F_{\mathrm{G}} \cdot \cos{\alpha }
 
 Hierbei wurde die genutzt, dass der Winkel zwischen der Gewichtskraft :math:`F
-_{\rm{G}}` und Normalkraft :math:`F _{\rm{N}}` gleich dem Winkel :math:`\alpha`
+_{\mathrm{G}}` und Normalkraft :math:`F_{\mathrm{N}}` gleich dem Winkel :math:`\alpha`
 der schiefen Ebene ist, da es sich um zwei :ref:`senkrecht zueinander stehende
 Winkel <gwm:Zueinander senkrechte Winkel>` handelt. Bezeichnet man zusätzlich
 mit :math:`l` die Länge der schiefen Ebene, so ergibt sich aufgrund der
@@ -61,7 +61,7 @@ Schlittens:
 .. math::
     :label: eqn-schiefe-ebene-kraftverhaeltnis
 
-    \frac{F _{\rm{H}}}{G} = \frac{h}{l}
+    \frac{F_{\mathrm{H}}}{G} = \frac{h}{l}
 
 Je länger also die schiefe Ebene ist, desto kleiner ist die entlang der Ebene
 wirkende Hangabtriebskraft. Aus diesem Grund werden in Gebirgen Straßen und Wege
@@ -116,7 +116,7 @@ zwei rechtwinklige Dreiecke zerlegt denkt.
         <../../pics/mechanik/kraftwandler-und-getriebe/schiefe-ebene-keilwirkung.svg>`
 
 Die Kraft :math:`F`, die auf den Keil ausgeübt wird, kann in zwei Normalkräfte
-:math:`F _{\rm{N,1}}` und :math:`F _{\rm{N,2}}` senkrecht zu den Keilflächen
+:math:`F_{\mathrm{N,1}}` und :math:`F_{\mathrm{N,2}}` senkrecht zu den Keilflächen
 zerlegt werden.
 Bezeichnet man die Breite des Keilrückens mit :math:`h`, die Länge einer
 schrägen Keilflächen mit :math:`l` und den halben Keilwinkel als :math:`\alpha`,
@@ -124,7 +124,7 @@ so gilt:
 
 .. math::
 
-    \frac{F _{\rm{N}}}{F} = \frac{s}{b} \quad \Leftrightarrow \quad F _{\rm{N}}
+    \frac{F_{\mathrm{N}}}{F} = \frac{s}{b} \quad \Leftrightarrow \quad F_{\mathrm{N}}
     = \frac{s}{b} \cdot F
 
 Da die Länge :math:`s` der schrägen Flächen üblicherweise länger ist als
@@ -133,7 +133,7 @@ die auf den Keil wirkende Kraft :math:`F`.
 
 ..  .. math::
 
-    ..  F _{\rm{N}} = F \cdot \frac{s}{r} = \frac{F}{2 \cdot \sin{\alpha}}
+    ..  F_{\mathrm{N}} = F \cdot \frac{s}{r} = \frac{F}{2 \cdot \sin{\alpha}}
 
 .. TODO Schraube als schiefe Ebene: Deutung als schiefe Ebene, die um eine Achse
 .. gewickelt wurde.
@@ -160,6 +160,6 @@ die auf den Keil wirkende Kraft :math:`F`.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zur schiefen Ebene>`
-    und :ref:`Übungsaufgaben <Aufgaben zur schiefen Ebene>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Schiefe Ebene>`
+    und :ref:`Übungsaufgaben <Aufgaben Schiefe Ebene>`.
 

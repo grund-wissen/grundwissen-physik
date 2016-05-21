@@ -1,7 +1,7 @@
-.. _Lösungen zu Impuls und Drehimpuls:
+.. _Lösungen Impuls und Drehimpuls:
 
-Lösungen zu Impuls und Drehimpuls
-=================================
+Impuls und Drehimpuls
+=====================
 
 Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
 Impuls und Drehimpuls>` zum Abschnitt :ref:`Impuls und Drehimpuls <Impuls und
@@ -9,7 +9,7 @@ Drehimpuls>`.
 
 ----
 
-.. _Impuls-01-Lösung:
+.. _imp01l:
 
 * Der Impuls :math:`\vec{p}` eines Körpers ist definiert als Produkt aus seiner Masse
   :math:`m` und seiner Geschwindigkeit :math:`\vec{v}`. Eine Taube mit einer
@@ -24,12 +24,12 @@ Drehimpuls>`.
 
   Der Impuls der Taube beträgt also rund :math:`\unit[0,42]{\frac{kg \cdot m}{s}}`
 
-  :ref:`Zurück zur Aufgabe <Impuls-01>`
+  :ref:`Zurück zur Aufgabe <imp01>`
 
 
 ----
 
-.. _Impuls-02-Lösung:
+.. _imp02l:
 
 * Wenn der Eisenbahnwagen an die stehenden Wagen ankoppelt, bewegen sie sich, --
   wie bei jedem unelastischen Stoß -- anschließend mit einer gemeinsamen
@@ -50,12 +50,12 @@ Drehimpuls>`.
   Die Wagen bewegen sich nach dem Ankoppeln also gemeinsam mit :math:`u =
   \unit[0,75]{m/s}` weiter.
 
-  :ref:`Zurück zur Aufgabe <Impuls-02>`
+  :ref:`Zurück zur Aufgabe <imp02>`
 
 
 ----
 
-.. _Impuls-03-Lösung:
+.. _imp03l:
 
 * Vor dem (unelastischen) Zusammenprall haben die beiden Fahrzeuge mit
   den Massen :math:`m_1 = \unit[1000]{kg}` und :math:`m_2 = \unit[2000]{kg}` und
@@ -65,8 +65,8 @@ Drehimpuls>`.
   .. math::
 
       p = (m_1 \cdot v_2 + m_2 \cdot v_2) = \unit[1000]{kg} \cdot
-      \unit[13,9]{\frac{m}{s}} + \unit[2000]{kg} \cdot (\unit[-13,9]{\frac{m}{s}})
-      = - \unit[13\,900]{\frac{kg \cdot m}{s}}
+      \unit[13,9]{\frac{m}{s}} + \unit[2000]{kg} \cdot
+      (\unit[-13,9]{\frac{m}{s}}) = \unit[-13\,900]{\frac{kg \cdot m}{s}}
 
   Dieser Impuls bleibt nach dem Zusammenprall erhalten. Die Geschwindigkeit
   :math:`u`, mit der sich beide Fahrzeuge nach dem Stoß gemeinsam
@@ -75,7 +75,8 @@ Drehimpuls>`.
 
   .. math::
 
-      p = (m_1 + m_2) \cdot u \quad \Leftrightarrow \quad u = \frac{p}{m_1 + m_2} \\[4pt]
+      p = (m_1 + m_2) \cdot u \quad \Leftrightarrow \quad u = \frac{p}{m_1 +
+      m_2} \\[4pt]
 
       \Rightarrow u = \frac{\unit[-13\,900]{\frac{kg \cdot
       m}{s}}}{\unit[1000]{kg} + \unit[2000]{kg}} \approx
@@ -89,12 +90,11 @@ Drehimpuls>`.
   von :math:`\Delta s = \unit[0,5]{m}` (der Knautschzone) eine
   Geschwindigkeitsänderung :math:`\unit[+50]{km/h}` auf
   :math:`\unit[-16,7]{km/h}`, das heißt :math:`\Delta v_1 = \unit[-67,7]{km/h}
-  \approx \unit[18,5]{m/s}`. Entsprechend beträgt die
-  Geschwindigkeitsänderung, die der Fahrer des schweren Fahrzeugs erfährt,
-  :math:`\Delta v_2 = \unit[+16,7]{km/h} - \unit[50]{km/h} = \unit[33,3]{km/h}
-  \approx \unit[9,3]{m/s}`. Für die beiden Beschleunigungen :math:`a_1` und
-  :math:`a_2` gilt damit (vergleiche Aufgabe :ref:`"Gegen die Wand"
-  <Beschleunigung-06>`):
+  \approx \unit[18,5]{m/s}`. Entsprechend beträgt die Geschwindigkeitsänderung,
+  die der Fahrer des schweren Fahrzeugs erfährt, :math:`\Delta v_2 =
+  \unit[+16,7]{km/h} - \unit[50]{km/h} = \unit[33,3]{km/h} \approx
+  \unit[9,3]{m/s}`. Für die beiden Beschleunigungen :math:`a_1` und :math:`a_2`
+  gilt damit (vergleiche Aufgabe :ref:`"Gegen die Wand" <kinb07>`):
 
   .. math::
 
@@ -121,17 +121,14 @@ Drehimpuls>`.
   sich "Fair-Play"-Regelungen, wonach für schwere Fahrzeuge striktere Regeln
   bezüglich Knautschzonen gelten müssen, bislang nicht durchsetzen..
 
-..  Jeder Zentner Mehrgewicht kostet im Schnitt 0,2 Liter Kraftstoff auf 100 Kilometer.
+.. Jeder Zentner Mehrgewicht kostet im Schnitt 0,2 Liter Kraftstoff auf 100
+.. Kilometer.
 
-  :ref:`Zurück zur Aufgabe <Impuls-03>`
+  :ref:`Zurück zur Aufgabe <imp03>`
 
-.. raw:: latex
+----
 
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 

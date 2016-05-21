@@ -1,7 +1,7 @@
-.. _Aufgaben zu Drehmoment und Gleichgewicht:
+.. _Aufgaben Drehmoment und Gleichgewicht:
 
-Aufgaben zu Drehmoment und Gleichgewicht
-========================================
+Drehmoment und Gleichgewicht
+============================
 
 Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Drehmoment und
 Gleichgewicht <Drehmoment und Gleichgewicht>`.
@@ -18,16 +18,16 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
 
 ----
 
-.. _ggw03:
+.. _ggw02:
 
 * Wie muss ein Stehaufmännchen aufgebaut sein, damit es sich von selbst wieder
   aufrichtet, wenn es "umgeschubst" wird?
 
-  :ref:`Lösung <ggw03l>`
+  :ref:`Lösung <ggw02l>`
 
 ----
 
-.. _ggw02:
+.. _ggw03:
 
 .. Idee nach Brenneke1972 S.44
 
@@ -37,10 +37,8 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
   :math:`F_2`, welche die beiden Träger aufwenden müssen, wenn sich die Last
   :math:`s_1 = \unit[1]{m}` weit vom hinteren Träger entfernt befindet?
 
-  .. figure::
+  .. image::
       ../pics/mechanik/drehmoment-und-gleichgewicht/gewichtsverteilung-aufgabe.png
-      :name: fig-gewichtsverteilung-aufgabe
-      :alt:  fig-gewichtsverteilung-aufgabe
       :align: center
       :width: 70%
 
@@ -48,17 +46,11 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
 
       .. centered:: :download:`SVG: Gewichtsverteilung (Aufgabe) <../pics/mechanik/drehmoment-und-gleichgewicht/gewichtsverteilung-aufgabe.svg>`
 
+  :ref:`Lösung <ggw03l>`
 
-  :ref:`Lösung <ggw02l>`
+----
 
 
-.. raw:: latex
-
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
 
 .. only:: html
 

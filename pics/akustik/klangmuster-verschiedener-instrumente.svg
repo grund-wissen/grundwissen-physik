@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.38889128"
-     inkscape:cx="351.41362"
-     inkscape:cy="1317.7785"
+     inkscape:zoom="0.37142155"
+     inkscape:cx="524.75658"
+     inkscape:cy="1246.6558"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -715,7 +715,7 @@
          inkscape:export-ydpi="150" />
     </g>
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 85.372548,65.298173 c 1.16434,-23.06922 1.28237,-46.13844 3.97745,-69.2076596 0.64782,-6.3136804 1.04858,-3.63543 1.49684,-0.0804 0.901139,10.18304 0.764209,3.70642001 1.161489,1.72589 0.19076,-4.0172 0.71637,-15.6648904 1.45915,-1.87282 l 0.65546,19.5463296 c 0.15774,0.97427 -0.16147,2.60696 0.81499,-0.30763 0.20605,-2.07154 0.3662,-6.6670301 0.77599,2.46682 -0.64499,16.14854 0.72325,32.07513 1.87596,47.40627 1.91257,16.68051 5.326303,30.5033 5.183603,44.529677 0.66371,21.6612 1.41564,30.88168 1.69654,4.42393 1.20748,-30.832657 1.64181,-4.9924 2.12591,5.73723 1.48027,17.02344 2.77749,32.30397 3.6641,3.02126 l 2.50011,-58.184437 c 0.0869,-1.59051 -0.0805,-1.64963 0.68524,-1.08925 -0.26055,27.74402 0.73022,17.90303 1.58759,1.08925 l 1.53416,-21.81916 c 0.89709,-12.92275 1.5828,-15.80554 1.87508,0 l 1.59098,33.86516 c 0.71387,32.185747 1.71706,16.34592 2.7274,-0.68185 l 1.81826,-47.72942 c 0.72408,-13.52409 1.56162,-7.46162 1.59098,-2.50011 0.44469,14.15484 0.99326,17.22026 1.59098,-0.22729 l 1.13642,-29.0922096 c 0.39774,-7.2352004 0.90913,-7.1593904 1.53416,0.22728 l 0.2841,6.81849 c 0.0932,1.74588 0.28642,2.64136 0.68185,1.81826 1.04824,-5.41884999 0.93498,-0.38414 1.13641,1.81827 l 1.47734,44.3201696 3.63653,47.04757 0.90913,6.136637 c 0.1224,0.91485 0.15211,2.57117 0.68185,0.22727 0.63616,-6.699457 0.66046,1.13295 0.90913,3.63653 l 1.02277,28.41037 c 0.0794,4.12694 0.42986,5.27203 1.3637,0 1.30974,5.85381 1.0178,1.54705 1.12263,-0.22728 l 1.71841,-46.138447 c 0.0868,-0.64283 -0.16933,-1.82459 0.90913,-0.90913 0.48064,7.55236 0.46988,-0.8658 0.68185,-2.04554 l 0.90913,-22.16008"
        id="path18480"
        inkscape:connector-curvature="0"
@@ -728,12 +728,12 @@
        inkscape:connector-curvature="0"
        id="path18496"
        d="m 147.87535,65.298173 c 1.16435,-23.06922 1.28237,-46.13844 3.97745,-69.2076596 0.64782,-6.3136804 1.04859,-3.63543 1.49684,-0.0804 0.90115,10.18304 0.76422,3.70642001 1.1615,1.72589 0.19076,-4.0172 0.71636,-15.6648904 1.45915,-1.87282 l 0.65545,19.5463296 c 0.15775,0.97427 -0.16146,2.60696 0.81499,-0.30763 0.20605,-2.07154 0.36621,-6.6670301 0.77599,2.46682 -0.64498,16.14854 0.72325,32.07513 1.87596,47.40627 1.91257,16.68051 5.3263,30.5033 5.1836,44.529677 0.66372,21.6612 1.41564,30.88168 1.69655,4.42393 1.20748,-30.832657 1.6418,-4.9924 2.1259,5.73723 1.48028,17.02344 2.7775,32.30397 3.6641,3.02126 l 2.50011,-58.184437 c 0.0869,-1.59051 -0.0805,-1.64963 0.68525,-1.08925 -0.26056,27.74402 0.73022,17.90303 1.58758,1.08925 l 1.53416,-21.81916 c 0.89709,-12.92275 1.58281,-15.80554 1.87509,0 l 1.59098,33.86516 c 0.71387,32.185747 1.71705,16.34592 2.72739,-0.68185 l 1.81827,-47.72942 c 0.72408,-13.52409 1.56161,-7.46162 1.59098,-2.50011 0.44468,14.15484 0.99325,17.22026 1.59098,-0.22729 l 1.13641,-29.0922096 c 0.39775,-7.2352004 0.90913,-7.1593904 1.53416,0.22728 l 0.2841,6.81849 c 0.0932,1.74588 0.28643,2.64136 0.68185,1.81826 1.04825,-5.41884999 0.93498,-0.38414 1.13642,1.81827 l 1.47734,44.3201696 3.63652,47.04757 0.90914,6.136637 c 0.12239,0.91485 0.1521,2.57117 0.68184,0.22727 0.63617,-6.699457 0.66047,1.13295 0.90914,3.63653 l 1.02277,28.41037 c 0.0794,4.12694 0.42986,5.27203 1.3637,0 1.30973,5.85381 1.0178,1.54705 1.12262,-0.22728 l 1.71841,-46.138447 c 0.0868,-0.64283 -0.16932,-1.82459 0.90913,-0.90913 0.48065,7.55236 0.46989,-0.8658 0.68185,-2.04554 l 0.90914,-22.16008"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 210.37816,65.298173 c 1.16434,-23.06922 1.28237,-46.13844 3.97745,-69.2076596 0.64782,-6.3136804 1.04858,-3.63543 1.49684,-0.0804 0.90114,10.18304 0.76421,3.70642001 1.16149,1.72589 0.19076,-4.0172 0.71637,-15.6648904 1.45915,-1.87282 l 0.65546,19.5463296 c 0.15774,0.97427 -0.16147,2.60696 0.81499,-0.30763 0.20605,-2.07154 0.3662,-6.6670301 0.77599,2.46682 -0.64499,16.14854 0.72325,32.07513 1.87596,47.40627 1.91257,16.68051 5.3263,30.5033 5.1836,44.529677 0.66371,21.6612 1.41564,30.88168 1.69654,4.42393 1.20748,-30.832657 1.64181,-4.9924 2.12591,5.73723 1.48027,17.02344 2.77749,32.30397 3.6641,3.02126 l 2.50011,-58.184437 c 0.0869,-1.59051 -0.0805,-1.64963 0.68524,-1.08925 -0.26055,27.74402 0.73022,17.90303 1.58759,1.08925 l 1.53416,-21.81916 c 0.89709,-12.92275 1.5828,-15.80554 1.87508,0 l 1.59098,33.86516 c 0.71387,32.185747 1.71706,16.34592 2.7274,-0.68185 l 1.81826,-47.72942 c 0.72408,-13.52409 1.56162,-7.46162 1.59098,-2.50011 0.44469,14.15484 0.99326,17.22026 1.59098,-0.22729 l 1.13642,-29.0922096 c 0.39774,-7.2352004 0.90913,-7.1593904 1.53416,0.22728 l 0.2841,6.81849 c 0.0932,1.74588 0.28642,2.64136 0.68185,1.81826 1.04824,-5.41884999 0.93498,-0.38414 1.13641,1.81827 l 1.47734,44.3201696 3.63653,47.04757 0.90913,6.136637 c 0.1224,0.91485 0.15211,2.57117 0.68185,0.22727 0.63616,-6.699457 0.66046,1.13295 0.90913,3.63653 l 1.02277,28.41037 c 0.0794,4.12694 0.42986,5.27203 1.3637,0 1.30974,5.85381 1.0178,1.54705 1.12263,-0.22728 l 1.71841,-46.138447 c 0.0868,-0.64283 -0.16933,-1.82459 0.90913,-0.90913 0.48064,7.55236 0.46988,-0.8658 0.68185,-2.04554 l 0.90913,-22.16008"
        id="path18498"
        inkscape:connector-curvature="0"
@@ -746,12 +746,12 @@
        inkscape:connector-curvature="0"
        id="path18500"
        d="m 272.88096,65.298173 c 1.16435,-23.06922 1.28237,-46.13844 3.97745,-69.2076596 0.64782,-6.3136804 1.04859,-3.63543 1.49684,-0.0804 0.90115,10.18304 0.76422,3.70642001 1.1615,1.72589 0.19076,-4.0172 0.71636,-15.6648904 1.45915,-1.87282 l 0.65545,19.5463296 c 0.15775,0.97427 -0.16146,2.60696 0.81499,-0.30763 0.20605,-2.07154 0.36621,-6.6670301 0.77599,2.46682 -0.64498,16.14854 0.72325,32.07513 1.87596,47.40627 1.91257,16.68051 5.3263,30.5033 5.1836,44.529677 0.66372,21.6612 1.41564,30.88168 1.69655,4.42393 1.20748,-30.832657 1.6418,-4.9924 2.1259,5.73723 1.48028,17.02344 2.7775,32.30397 3.6641,3.02126 l 2.50011,-58.184437 c 0.0869,-1.59051 -0.0805,-1.64963 0.68525,-1.08925 -0.26056,27.74402 0.73022,17.90303 1.58758,1.08925 l 1.53416,-21.81916 c 0.89709,-12.92275 1.58281,-15.80554 1.87509,0 l 1.59098,33.86516 c 0.71387,32.185747 1.71705,16.34592 2.72739,-0.68185 l 1.81827,-47.72942 c 0.72408,-13.52409 1.56161,-7.46162 1.59098,-2.50011 0.44468,14.15484 0.99325,17.22026 1.59098,-0.22729 l 1.13641,-29.0922096 c 0.39775,-7.2352004 0.90913,-7.1593904 1.53416,0.22728 l 0.2841,6.81849 c 0.0932,1.74588 0.28643,2.64136 0.68185,1.81826 1.04825,-5.41884999 0.93498,-0.38414 1.13642,1.81827 l 1.47734,44.3201696 3.63652,47.04757 0.90914,6.136637 c 0.12239,0.91485 0.1521,2.57117 0.68184,0.22727 0.63617,-6.699457 0.66047,1.13295 0.90914,3.63653 l 1.02277,28.41037 c 0.0794,4.12694 0.42986,5.27203 1.3637,0 1.30973,5.85381 1.0178,1.54705 1.12262,-0.22728 l 1.71841,-46.138447 c 0.0868,-0.64283 -0.16932,-1.82459 0.90913,-0.90913 0.48065,7.55236 0.46989,-0.8658 0.68185,-2.04554 l 0.90914,-22.16008"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 335.38377,65.298173 c 1.16434,-23.06922 1.28237,-46.13844 3.97745,-69.2076596 0.64782,-6.3136804 1.04858,-3.63543 1.49684,-0.0804 0.90114,10.18304 0.76421,3.70642001 1.16149,1.72589 0.19076,-4.0172 0.71637,-15.6648904 1.45915,-1.87282 l 0.65546,19.5463296 c 0.15774,0.97427 -0.16147,2.60696 0.81499,-0.30763 0.20605,-2.07154 0.3662,-6.6670301 0.77599,2.46682 -0.64499,16.14854 0.72325,32.07513 1.87596,47.40627 1.91257,16.68051 5.3263,30.5033 5.1836,44.529677 0.66371,21.6612 1.41564,30.88168 1.69654,4.42393 1.20748,-30.832657 1.64181,-4.9924 2.12591,5.73723 1.48027,17.02344 2.77749,32.30397 3.6641,3.02126 l 2.50011,-58.184437 c 0.0869,-1.59051 -0.0805,-1.64963 0.68524,-1.08925 -0.26055,27.74402 0.73022,17.90303 1.58759,1.08925 l 1.53416,-21.81916 c 0.89709,-12.92275 1.5828,-15.80554 1.87508,0 l 1.59098,33.86516 c 0.71387,32.185747 1.71706,16.34592 2.7274,-0.68185 l 1.81826,-47.72942 c 0.72408,-13.52409 1.56162,-7.46162 1.59098,-2.50011 0.44469,14.15484 0.99326,17.22026 1.59098,-0.22729 l 1.13642,-29.0922096 c 0.39774,-7.2352004 0.90913,-7.1593904 1.53416,0.22728 l 0.2841,6.81849 c 0.0932,1.74588 0.28642,2.64136 0.68185,1.81826 1.04824,-5.41884999 0.93498,-0.38414 1.13641,1.81827 l 1.47734,44.3201696 3.63653,47.04757 0.90913,6.136637 c 0.1224,0.91485 0.15211,2.57117 0.68185,0.22727 0.63616,-6.699457 0.66046,1.13295 0.90913,3.63653 l 1.02277,28.41037 c 0.0794,4.12694 0.42986,5.27203 1.3637,0 1.30974,5.85381 1.0178,1.54705 1.12263,-0.22728 l 1.71841,-46.138447 c 0.0868,-0.64283 -0.16933,-1.82459 0.90913,-0.90913 0.48064,7.55236 0.46988,-0.8658 0.68185,-2.04554 l 0.90913,-22.16008"
        id="path18502"
        inkscape:connector-curvature="0"
@@ -764,7 +764,7 @@
        inkscape:connector-curvature="0"
        id="path18504"
        d="m 397.88657,65.298173 c 1.16435,-23.06922 1.28237,-46.13844 3.97745,-69.2076596 0.64782,-6.3136804 1.04859,-3.63543 1.49684,-0.0804 0.90115,10.18304 0.76422,3.70642001 1.1615,1.72589 0.19076,-4.0172 0.71636,-15.6648904 1.45915,-1.87282 l 0.65545,19.5463296 c 0.15775,0.97427 -0.16146,2.60696 0.81499,-0.30763 0.20605,-2.07154 0.36621,-6.6670301 0.77599,2.46682 -0.64498,16.14854 0.72325,32.07513 1.87596,47.40627 1.91257,16.68051 5.3263,30.5033 5.1836,44.529677 0.66372,21.6612 1.41564,30.88168 1.69655,4.42393 1.20748,-30.832657 1.6418,-4.9924 2.1259,5.73723 1.48028,17.02344 2.7775,32.30397 3.6641,3.02126 l 2.50011,-58.184437 c 0.0869,-1.59051 -0.0805,-1.64963 0.68525,-1.08925 -0.26056,27.74402 0.73022,17.90303 1.58758,1.08925 l 1.53416,-21.81916 c 0.89709,-12.92275 1.58281,-15.80554 1.87509,0 l 1.59098,33.86516 c 0.71387,32.185747 1.71705,16.34592 2.72739,-0.68185 l 1.81827,-47.72942 c 0.72408,-13.52409 1.56161,-7.46162 1.59098,-2.50011 0.44468,14.15484 0.99325,17.22026 1.59098,-0.22729 l 1.13641,-29.0922096 c 0.39775,-7.2352004 0.90913,-7.1593904 1.53416,0.22728 l 0.2841,6.81849 c 0.0932,1.74588 0.28643,2.64136 0.68185,1.81826 1.04825,-5.41884999 0.93498,-0.38414 1.13642,1.81827 l 1.47734,44.3201696 3.63652,47.04757 0.90914,6.136637 c 0.12239,0.91485 0.1521,2.57117 0.68184,0.22727 0.63617,-6.699457 0.66047,1.13295 0.90914,3.63653 l 1.02277,28.41037 c 0.0794,4.12694 0.42986,5.27203 1.3637,0 1.30973,5.85381 1.0178,1.54705 1.12262,-0.22728 l 1.71841,-46.138447 c 0.0868,-0.64283 -0.16932,-1.82459 0.90913,-0.90913 0.48065,7.55236 0.46989,-0.8658 0.68185,-2.04554 l 0.90914,-22.16008"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
@@ -987,12 +987,12 @@
        inkscape:connector-curvature="0"
        id="path18631"
        d="m 610.85067,299.31969 c 0.99548,-25.00112 1.22077,-50.00224 3.2956,-75.00336 2.07895,-14.92002 2.96719,-8.4073 3.86381,-2.04555 l 4.43202,58.75264 c 1.13641,10.96461 2.50011,5.67617 3.40924,-5.90936 1.77089,-17.75684 2.87633,-6.00913 3.2956,0.11364 0.93923,28.65287 2.25727,57.17947 5.00023,85.2311 3.9174,33.98603 6.09203,-7.98167 7.27305,-23.18286 l 2.50011,-64.32107 c 2.63199,-32.00875 4.24827,-22.88147 5.68208,-6.36392 0.90605,19.85553 2.24053,38.85421 3.75016,57.50258 1.01332,15.84237 2.24548,18.33571 3.86381,-2.72739 l 1.59099,-24.31928 c 0.90913,-11.03888 1.81826,-11.23156 2.72739,-2.27283 1.43946,12.69974 2.87892,25.71875 4.31838,37.2744 4.65971,28.95163 4.94891,11.63713 6.13663,1.81827 l 1.3637,-34.77429"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 673.35347,299.09241 c 0.99548,-25.00112 1.22077,-50.00225 3.29561,-75.00337 2.07894,-14.92001 2.96718,-8.40729 3.86381,-2.04554 l 4.43201,58.75263 c 1.13642,10.96461 2.50012,5.67617 3.40925,-5.90935 1.77089,-17.75684 2.87633,-6.00914 3.2956,0.11364 0.93922,28.65287 2.25727,57.17946 5.00022,85.23109 3.91741,33.98603 6.09203,-7.98166 7.27306,-23.18285 l 2.50011,-64.32107 c 2.63198,-32.00876 4.24827,-22.88147 5.68207,-6.36392 0.90606,19.85552 2.24054,38.8542 3.75017,57.50258 1.01332,15.84237 2.24548,18.33571 3.86381,-2.7274 l 1.59098,-24.31927 c 0.90913,-11.03888 1.81827,-11.23156 2.7274,-2.27283 1.43946,12.69973 2.87891,25.71874 4.31837,37.2744 4.65972,28.95163 4.94891,11.63713 6.13664,1.81826 l 1.3637,-34.77429"
        id="path18633"
        inkscape:connector-curvature="0"
@@ -1005,12 +1005,12 @@
        inkscape:connector-curvature="0"
        id="path18635"
        d="m 735.85628,298.86512 c 0.99548,-25.00112 1.22077,-50.00224 3.2956,-75.00336 2.07895,-14.92002 2.96719,-8.4073 3.86381,-2.04555 l 4.43202,58.75264 c 1.13641,10.96461 2.50011,5.67617 3.40924,-5.90936 1.77089,-17.75684 2.87633,-6.00913 3.2956,0.11364 0.93923,28.65287 2.25727,57.17947 5.00023,85.2311 3.9174,33.98603 6.09203,-7.98167 7.27305,-23.18286 l 2.50011,-64.32107 c 2.63199,-32.00875 4.24827,-22.88147 5.68208,-6.36392 0.90605,19.85553 2.24053,38.85421 3.75016,57.50258 1.01332,15.84237 2.24548,18.33571 3.86381,-2.72739 l 1.59099,-24.31928 c 0.90913,-11.03888 1.81826,-11.23156 2.72739,-2.27283 1.43946,12.69974 2.87892,25.71875 4.31838,37.2744 4.65971,28.95163 4.94891,11.63713 6.13663,1.81827 l 1.3637,-34.77429"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 798.35908,298.63784 c 0.99548,-25.00112 1.22077,-50.00225 3.29561,-75.00337 2.07894,-14.92001 2.96718,-8.40729 3.86381,-2.04554 l 4.43201,58.75263 c 1.13642,10.96461 2.50012,5.67617 3.40925,-5.90935 1.77089,-17.75684 2.87633,-6.00914 3.2956,0.11364 0.93922,28.65287 2.25727,57.17946 5.00022,85.23109 3.91741,33.98603 6.09203,-7.98166 7.27306,-23.18285 l 2.50011,-64.32107 c 2.63198,-32.00876 4.24827,-22.88147 5.68207,-6.36392 0.90606,19.85552 2.24054,38.8542 3.75017,57.50258 1.01332,15.84237 2.24548,18.33571 3.86381,-2.7274 l 1.59098,-24.31927 c 0.90913,-11.03888 1.81827,-11.23156 2.7274,-2.27283 1.43946,12.69973 2.87891,25.71874 4.31837,37.2744 4.65972,28.95163 4.94891,11.63713 6.13664,1.81826 l 1.3637,-34.77429"
        id="path18637"
        inkscape:connector-curvature="0"
@@ -1023,12 +1023,12 @@
        inkscape:connector-curvature="0"
        id="path18639"
        d="m 860.86189,298.41055 c 0.99548,-25.00112 1.22077,-50.00224 3.2956,-75.00336 2.07895,-14.92002 2.96719,-8.4073 3.86381,-2.04555 l 4.43202,58.75264 c 1.13641,10.96461 2.50011,5.67617 3.40924,-5.90936 1.77089,-17.75684 2.87633,-6.00913 3.2956,0.11364 0.93923,28.65287 2.25727,57.17947 5.00023,85.2311 3.9174,33.98603 6.09203,-7.98167 7.27305,-23.18286 l 2.50011,-64.32107 c 2.63199,-32.00875 4.24827,-22.88147 5.68208,-6.36392 0.90605,19.85553 2.24053,38.85421 3.75016,57.50258 1.01332,15.84237 2.24548,18.33571 3.86381,-2.72739 l 1.59099,-24.31928 c 0.90913,-11.03888 1.81826,-11.23156 2.72739,-2.27283 1.43946,12.69974 2.87892,25.71875 4.31838,37.2744 4.65971,28.95163 4.94891,11.63713 6.13663,1.81827 l 1.3637,-34.77429"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 923.36469,298.18327 c 0.99548,-25.00112 1.22077,-50.00225 3.29561,-75.00337 2.07894,-14.92001 2.96718,-8.40729 3.86381,-2.04554 l 4.43201,58.75263 c 1.13642,10.96461 2.50012,5.67617 3.40925,-5.90935 1.77089,-17.75684 2.87633,-6.00914 3.2956,0.11364 0.93922,28.65287 2.25727,57.17946 5.00022,85.23109 3.91741,33.98603 6.09203,-7.98166 7.27306,-23.18285 l 2.50011,-64.32107 c 2.63198,-32.00876 4.24827,-22.88147 5.68207,-6.36392 0.90606,19.85552 2.24054,38.8542 3.75013,57.50258 1.0134,15.84237 2.2455,18.33571 3.8639,-2.7274 l 1.5909,-24.31927 c 0.9092,-11.03888 1.8183,-11.23156 2.7274,-2.27283 1.4395,12.69973 2.8789,25.71874 4.3184,37.2744 4.6597,28.95163 4.9489,11.63713 6.1366,1.81826 l 1.3637,-34.77429"
        id="path18641"
        inkscape:connector-curvature="0"
@@ -1051,7 +1051,7 @@
          id="tspan18679"
          sodipodi:role="line">Orgel</tspan></text>
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:0.98999381;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:0.98999380999999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 610.84567,65.298595 2.02865,-23.824122 c 1.01744,-9.48635 2.02098,-11.370007 3.44597,-0.64289 1.78272,10.060906 3.05867,2.788894 4.55804,-1.60724 l 1.40798,-10.682384 c 0.82975,-0.668932 1.68193,-1.269229 2.22416,-2.818365 l 3.68781,-40.180829 c 1.01922,-10.390036 1.77872,-10.536205 2.50095,0 l 2.00141,48.859889 c 0.76873,17.69457 1.70337,1.860725 2.20504,-2.519777 1.85154,-39.0775704 2.99471,-10.060456 3.98372,-4.324759 0.88149,8.492808 1.84317,16.924272 3.89145,24.524095 2.68879,12.53642 2.70089,25.868369 3.46507,37.609249 1.04157,9.057813 7.4641,15.958538 7.56016,23.787048 l 1.57503,15.42944 c 1.26004,13.24781 2.40869,12.77832 3.66872,-0.6429 l 1.16776,-17.67956 c 0.84296,-7.73732 1.78879,-5.85528 2.92733,-0.32145 1.44102,12.10123 2.63257,6.98469 3.78008,-0.96434 1.05838,-11.584029 1.8665,-8.35618 2.63142,-2.57157 1.1572,7.05116 2.40412,-0.28325 2.61232,-4.17881 0.66723,-11.966923 0.78097,-24.746537 1.18473,-37.251165"
        id="path18768"
        inkscape:connector-curvature="0"
@@ -1064,12 +1064,12 @@
        inkscape:connector-curvature="0"
        id="path18770"
        d="m 673.35347,65.298155 2.02865,-23.824122 c 1.01744,-9.48635 2.02098,-11.370007 3.44597,-0.64289 1.78272,10.060906 3.05867,2.788894 4.55804,-1.60724 l 1.40798,-10.682384 c 0.82975,-0.668932 1.68193,-1.269229 2.22416,-2.818365 l 3.68781,-40.180829 c 1.01922,-10.390036 1.77872,-10.536205 2.50095,0 l 2.00141,48.859889 c 0.76873,17.69457 1.70337,1.860725 2.20504,-2.519777 1.85154,-39.0775706 2.99471,-10.060456 3.98372,-4.324759 0.88149,8.492808 1.84317,16.924272 3.89145,24.524095 2.68879,12.53642 2.70089,25.868369 3.46507,37.609249 1.04157,9.057813 7.4641,15.958538 7.56016,23.787048 l 1.57503,15.42944 c 1.26004,13.24781 2.40869,12.77832 3.66872,-0.6429 l 1.16776,-17.67956 c 0.84296,-7.73732 1.78879,-5.85528 2.92733,-0.32145 1.44102,12.10123 2.63257,6.98469 3.78008,-0.96434 1.05838,-11.584029 1.8665,-8.35618 2.63142,-2.57157 1.1572,7.05116 2.40412,-0.28325 2.61232,-4.17881 0.66723,-11.966923 0.78097,-24.746537 1.18473,-37.251165"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:0.98999381;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:0.98999380999999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:0.98999381;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:0.98999380999999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 735.86127,65.297715 2.02865,-23.824122 c 1.01744,-9.48635 2.02098,-11.370007 3.44597,-0.64289 1.78272,10.060906 3.05867,2.788894 4.55804,-1.60724 l 1.40798,-10.682384 c 0.82975,-0.668932 1.68193,-1.269229 2.22416,-2.818365 l 3.68781,-40.180829 c 1.01922,-10.390036 1.77872,-10.536205 2.50095,0 l 2.00141,48.859889 c 0.76873,17.69457 1.70337,1.860725 2.20504,-2.519777 1.85154,-39.0775706 2.99471,-10.060456 3.98372,-4.324759 0.88149,8.492808 1.84317,16.924272 3.89145,24.524095 2.68879,12.53642 2.70089,25.868369 3.46507,37.609249 1.04157,9.057813 7.4641,15.958538 7.56016,23.787048 l 1.57503,15.42944 c 1.26004,13.24781 2.40869,12.77832 3.66872,-0.6429 l 1.16776,-17.67956 c 0.84296,-7.73732 1.78879,-5.85528 2.92733,-0.32145 1.44102,12.10123 2.63257,6.98469 3.78008,-0.96434 1.05838,-11.584029 1.8665,-8.35618 2.63142,-2.57157 1.1572,7.05116 2.40412,-0.28325 2.61232,-4.17881 0.66723,-11.966923 0.78097,-24.746537 1.18473,-37.251165"
        id="path18772"
        inkscape:connector-curvature="0"
@@ -1082,12 +1082,12 @@
        inkscape:connector-curvature="0"
        id="path18774"
        d="m 798.36907,65.297275 2.02865,-23.824122 c 1.01744,-9.48635 2.02098,-11.370007 3.44597,-0.64289 1.78272,10.060906 3.05867,2.788894 4.55804,-1.60724 l 1.40798,-10.682384 c 0.82975,-0.668932 1.68193,-1.269229 2.22416,-2.818365 l 3.68781,-40.180829 c 1.01922,-10.390036 1.77872,-10.536205 2.50095,0 l 2.00141,48.859889 c 0.76873,17.69457 1.70337,1.860725 2.20504,-2.519777 1.85154,-39.0775706 2.99471,-10.060456 3.98372,-4.324759 0.88149,8.492808 1.84317,16.924272 3.89145,24.524095 2.68879,12.53642 2.70089,25.868369 3.46507,37.609249 1.04157,9.057813 7.4641,15.958538 7.56016,23.787048 l 1.57503,15.42944 c 1.26004,13.24781 2.40869,12.77832 3.66872,-0.6429 l 1.16776,-17.67956 c 0.84296,-7.73732 1.78879,-5.85528 2.92733,-0.32145 1.44102,12.10123 2.63257,6.98469 3.78008,-0.96434 1.05838,-11.584029 1.8665,-8.35618 2.63142,-2.57157 1.1572,7.05116 2.40412,-0.28325 2.61232,-4.17881 0.66723,-11.966923 0.78097,-24.746537 1.18473,-37.251165"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:0.98999381;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:0.98999380999999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:0.98999381;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:0.98999380999999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 860.87687,65.296835 2.02865,-23.824122 c 1.01744,-9.48635 2.02098,-11.370007 3.44597,-0.64289 1.78272,10.060906 3.05867,2.788894 4.55804,-1.60724 l 1.40798,-10.682384 c 0.82975,-0.668932 1.68193,-1.269229 2.22416,-2.818365 l 3.68781,-40.180829 c 1.01922,-10.390036 1.77872,-10.536205 2.50095,0 l 2.00141,48.859889 c 0.76873,17.69457 1.70337,1.860725 2.20504,-2.519777 1.85154,-39.0775706 2.99471,-10.060456 3.98372,-4.324759 0.88149,8.492808 1.84317,16.924272 3.89145,24.524095 2.68879,12.53642 2.70089,25.868369 3.46507,37.609249 1.04157,9.057813 7.4641,15.958538 7.56016,23.787048 l 1.57503,15.42944 c 1.26004,13.24781 2.40869,12.77832 3.66872,-0.6429 l 1.16776,-17.67956 c 0.84296,-7.73732 1.78879,-5.85528 2.92733,-0.32145 1.44102,12.10123 2.63257,6.98469 3.78008,-0.96434 1.05838,-11.584029 1.8665,-8.35618 2.63142,-2.57157 1.1572,7.05116 2.40412,-0.28325 2.61232,-4.17881 0.66723,-11.966923 0.78097,-24.746537 1.18473,-37.251165"
        id="path18776"
        inkscape:connector-curvature="0"
@@ -1100,7 +1100,7 @@
        inkscape:connector-curvature="0"
        id="path18778"
        d="m 923.38467,65.296395 2.02865,-23.824122 c 1.01744,-9.48635 2.02098,-11.370007 3.44597,-0.64289 1.78272,10.060906 3.05867,2.788894 4.55804,-1.60724 l 1.40798,-10.682384 c 0.82975,-0.668932 1.68193,-1.269229 2.22416,-2.818365 l 3.68781,-40.180829 c 1.01922,-10.390036 1.77872,-10.536205 2.50095,0 l 2.00141,48.859889 c 0.76873,17.69457 1.70337,1.860725 2.20504,-2.519777 1.85154,-39.0775706 2.99471,-10.060456 3.98372,-4.324759 0.88149,8.492808 1.84317,16.924272 3.89145,24.524095 2.68879,12.53642 2.70089,25.868369 3.46507,37.609249 1.04157,9.057813 7.4641,15.958538 7.56016,23.787048 l 1.57503,15.42944 c 1.26004,13.24781 2.40869,12.77832 3.66872,-0.6429 l 1.16776,-17.67956 c 0.84296,-7.73732 1.78879,-5.85528 2.92733,-0.32145 1.44102,12.10123 2.63257,6.98469 3.78008,-0.96434 1.05838,-11.584029 1.8665,-8.35618 2.63142,-2.57157 1.1572,7.05116 2.40412,-0.28325 2.61232,-4.17881 0.66723,-11.966923 0.78097,-24.746537 1.18473,-37.251165"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:0.98999381;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:0.98999380999999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
@@ -1130,7 +1130,7 @@
          style="fill:none;stroke:#000000;stroke-width:3.00000095;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM);display:inline" />
     </g>
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1.17548728;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1.17548728000000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 85.461106,299.84832 c 0.858759,-5.89435 0.739347,-11.8834 2.717606,-17.77776 0.232533,-0.97845 0.912193,-1.3651 1.860986,-2.817 1.136039,-4.91196 1.376189,-9.94425 1.889219,-14.39004 1.58071,-13.69814 3.62493,-27.35144 6.09654,-41.02716 2.182963,-7.32109 4.557673,-13.50974 6.266103,0 l 4.33447,37.30777 c 0.98706,12.12868 3.21413,5.47817 3.95753,2.55662 2.32902,-10.55275 3.48439,0.4885 4.24023,5.49201 l 5.65363,80.95976 c 0.44397,3.00864 0.93872,5.96623 1.90739,8.44757 2.26824,5.40505 3.55188,9.51939 4.75416,14.38891 1.90328,10.14724 3.08066,-2.48219 4.24595,-6.17109 2.32802,-8.42941 3.8925,-7.74041 5.19964,-2.65131 1.68219,8.80892 3.02489,2.93685 4.12313,-3.78759 2.37305,-20.2636 3.77242,-40.52722 5.12158,-60.79083"
        id="path18904"
        inkscape:connector-curvature="0"
@@ -1143,12 +1143,12 @@
        inkscape:connector-curvature="0"
        id="path18908"
        d="m 147.82927,299.58818 c 0.85876,-5.89435 0.73935,-11.8834 2.71761,-17.77776 0.23253,-0.97845 0.91219,-1.3651 1.86098,-2.817 1.13604,-4.91196 1.37619,-9.94425 1.88922,-14.39004 1.58071,-13.69814 3.62493,-27.35144 6.09654,-41.02716 2.18296,-7.32109 4.55767,-13.50974 6.2661,0 l 4.33447,37.30777 c 0.98706,12.12868 3.21413,5.47817 3.95753,2.55662 2.32902,-10.55275 3.48439,0.4885 4.24023,5.49201 l 5.65363,80.95976 c 0.44397,3.00864 0.93872,5.96623 1.90739,8.44757 2.26824,5.40505 3.55188,9.51939 4.75416,14.38891 1.90328,10.14724 3.08066,-2.48219 4.24595,-6.17109 2.32802,-8.42941 3.8925,-7.74041 5.19964,-2.65131 1.68219,8.80892 3.02489,2.93685 4.12313,-3.78759 2.37305,-20.2636 3.77242,-40.52722 5.12158,-60.79083"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1.17548728;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1.17548728000000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1.17548728;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1.17548728000000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 210.19743,299.32804 c 0.85876,-5.89435 0.73935,-11.8834 2.71761,-17.77776 0.23253,-0.97845 0.91219,-1.3651 1.86098,-2.817 1.13604,-4.91196 1.37619,-9.94425 1.88922,-14.39004 1.58071,-13.69814 3.62493,-27.35144 6.09654,-41.02716 2.18296,-7.32109 4.55767,-13.50974 6.2661,0 l 4.33447,37.30777 c 0.98706,12.12868 3.21413,5.47817 3.95753,2.55662 2.32902,-10.55275 3.48439,0.4885 4.24023,5.49201 l 5.65363,80.95976 c 0.44397,3.00864 0.93872,5.96623 1.90739,8.44757 2.26824,5.40505 3.55188,9.51939 4.75416,14.38891 1.90328,10.14724 3.08066,-2.48219 4.24595,-6.17109 2.32802,-8.42941 3.8925,-7.74041 5.19964,-2.65131 1.68219,8.80892 3.02489,2.93685 4.12313,-3.78759 2.37305,-20.2636 3.77242,-40.52722 5.12158,-60.79083"
        id="path18910"
        inkscape:connector-curvature="0"
@@ -1161,12 +1161,12 @@
        inkscape:connector-curvature="0"
        id="path18912"
        d="m 272.56559,299.0679 c 0.85876,-5.89435 0.73935,-11.8834 2.71761,-17.77776 0.23253,-0.97845 0.91219,-1.3651 1.86098,-2.817 1.13604,-4.91196 1.37619,-9.94425 1.88922,-14.39004 1.58071,-13.69814 3.62493,-27.35144 6.09654,-41.02716 2.18296,-7.32109 4.55767,-13.50974 6.2661,0 l 4.33447,37.30777 c 0.98706,12.12868 3.21413,5.47817 3.95753,2.55662 2.32902,-10.55275 3.48439,0.4885 4.24023,5.49201 l 5.65363,80.95976 c 0.44397,3.00864 0.93872,5.96623 1.90739,8.44757 2.26824,5.40505 3.55188,9.51939 4.75416,14.38891 1.90328,10.14724 3.08066,-2.48219 4.24595,-6.17109 2.32802,-8.42941 3.8925,-7.74041 5.19964,-2.65131 1.68219,8.80892 3.02489,2.93685 4.12313,-3.78759 2.37305,-20.2636 3.77242,-40.52722 5.12158,-60.79083"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1.17548728;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1.17548728000000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1.17548728;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1.17548728000000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 334.93375,298.80776 c 0.85876,-5.89435 0.73935,-11.8834 2.71761,-17.77776 0.23253,-0.97845 0.91219,-1.3651 1.86098,-2.817 1.13604,-4.91196 1.37619,-9.94425 1.88922,-14.39004 1.58071,-13.69814 3.62493,-27.35144 6.09654,-41.02716 2.18296,-7.32109 4.55767,-13.50974 6.2661,0 l 4.33447,37.30777 c 0.98706,12.12868 3.21413,5.47817 3.95753,2.55662 2.32902,-10.55275 3.48439,0.4885 4.24023,5.49201 l 5.65363,80.95976 c 0.44397,3.00864 0.93872,5.96623 1.90739,8.44757 2.26824,5.40505 3.55188,9.51939 4.75416,14.38891 1.90328,10.14724 3.08066,-2.48219 4.24595,-6.17109 2.32802,-8.42941 3.8925,-7.74041 5.19964,-2.65131 1.68219,8.80892 3.02489,2.93685 4.12313,-3.78759 2.37305,-20.2636 3.77242,-40.52722 5.12158,-60.79083"
        id="path18914"
        inkscape:connector-curvature="0"
@@ -1179,12 +1179,12 @@
        inkscape:connector-curvature="0"
        id="path18916"
        d="m 397.30191,298.54762 c 0.85876,-5.89435 0.73935,-11.8834 2.71761,-17.77776 0.23253,-0.97845 0.91219,-1.3651 1.86098,-2.817 1.13604,-4.91196 1.37619,-9.94425 1.88922,-14.39004 1.58071,-13.69814 3.62493,-27.35144 6.09654,-41.02716 2.18296,-7.32109 4.55767,-13.50974 6.2661,0 l 4.33447,37.30777 c 0.98706,12.12868 3.21413,5.47817 3.95753,2.55662 2.32902,-10.55275 3.48439,0.4885 4.24023,5.49201 l 5.65363,80.95976 c 0.44397,3.00864 0.93872,5.96623 1.90739,8.44757 2.26824,5.40505 3.55188,9.51939 4.75416,14.38891 1.90328,10.14724 3.08066,-2.48219 4.24595,-6.17109 2.32802,-8.42941 3.8925,-7.74041 5.19964,-2.65131 1.68219,8.80892 3.02489,2.93685 4.12313,-3.78759 2.37305,-20.2636 3.77242,-40.52722 5.12158,-60.79083"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1.17548728;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1.17548728000000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 85.372548,551.68069 c 1.680756,-16.83829 2.924872,-33.45826 5.142826,-50.56515 7.790673,-47.50909 15.308736,-20.18851 16.543726,-1.92856 2.93524,16.13614 2.84381,22.36684 9.97398,52.23183 2.58678,17.58668 4.48444,34.48428 5.78567,50.78538 6.32035,77.8419 9.79927,17.0216 14.14277,-1.6071 2.62499,-7.3392 2.09373,-5.5179 6.5089,-13.9017 2.1504,-7.6861 3.01721,-23.13391 4.40493,-35.0147"
        id="path18983"
        inkscape:connector-curvature="0"
@@ -1197,12 +1197,12 @@
        inkscape:connector-curvature="0"
        id="path18985"
        d="m 147.87535,551.68069 c 1.68076,-16.83829 2.92487,-33.45826 5.14283,-50.56515 7.79067,-47.50909 15.30873,-20.18851 16.54372,-1.92856 2.93524,16.13614 2.84381,22.36684 9.97398,52.23183 2.58678,17.58668 4.48444,34.48428 5.78567,50.78538 6.32035,77.8419 9.79927,17.0216 14.14277,-1.6071 2.62499,-7.3392 2.09373,-5.5179 6.5089,-13.9017 2.1504,-7.6861 3.01721,-23.13391 4.40493,-35.0147"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 210.37815,551.68069 c 1.68076,-16.83829 2.92487,-33.45826 5.14283,-50.56515 7.79067,-47.50909 15.30873,-20.18851 16.54372,-1.92856 2.93524,16.13614 2.84381,22.36684 9.97398,52.23183 2.58678,17.58668 4.48444,34.48428 5.78567,50.78538 6.32035,77.8419 9.79927,17.0216 14.14277,-1.6071 2.62499,-7.3392 2.09373,-5.5179 6.5089,-13.9017 2.1504,-7.6861 3.01721,-23.13391 4.40493,-35.0147"
        id="path18987"
        inkscape:connector-curvature="0"
@@ -1215,12 +1215,12 @@
        inkscape:connector-curvature="0"
        id="path18989"
        d="m 272.88095,551.68069 c 1.68076,-16.83829 2.92487,-33.45826 5.14283,-50.56515 7.79067,-47.50909 15.30873,-20.18851 16.54372,-1.92856 2.93524,16.13614 2.84381,22.36684 9.97398,52.23183 2.58678,17.58668 4.48444,34.48428 5.78567,50.78538 6.32035,77.8419 9.79927,17.0216 14.14277,-1.6071 2.62499,-7.3392 2.09373,-5.5179 6.5089,-13.9017 2.1504,-7.6861 3.01721,-23.13391 4.40493,-35.0147"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 335.38375,551.68069 c 1.68076,-16.83829 2.92487,-33.45826 5.14283,-50.56515 7.79067,-47.50909 15.30873,-20.18851 16.54372,-1.92856 2.93524,16.13614 2.84381,22.36684 9.97398,52.23183 2.58678,17.58668 4.48444,34.48428 5.78567,50.78538 6.32035,77.8419 9.79927,17.0216 14.14277,-1.6071 2.62499,-7.3392 2.09373,-5.5179 6.5089,-13.9017 2.1504,-7.6861 3.01721,-23.13391 4.40493,-35.0147"
        id="path18991"
        inkscape:connector-curvature="0"
@@ -1233,7 +1233,7 @@
        inkscape:connector-curvature="0"
        id="path18993"
        d="m 397.88655,551.68069 c 1.68076,-16.83829 2.92487,-33.45826 5.14283,-50.56515 7.79067,-47.50909 15.30873,-20.18851 16.54372,-1.92856 2.93524,16.13614 2.84381,22.36684 9.97398,52.23183 2.58678,17.58668 4.48444,34.48428 5.78567,50.78538 6.32035,77.8419 9.79927,17.0216 14.14277,-1.6071 2.62499,-7.3392 2.09373,-5.5179 6.5089,-13.9017 2.1504,-7.6861 3.01721,-23.13391 4.40493,-35.0147"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
@@ -1252,7 +1252,7 @@
          id="tspan18997"
          sodipodi:role="line">Klavier</tspan></text>
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1.00457668;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1.00457668000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 610.84567,551.68069 c 0.10622,-14.73551 0.91651,-29.47102 1.60559,-44.20653 1.45998,-14.96081 2.8153,-4.32191 3.66988,0 1.40393,8.73666 3.5674,17.097 6.19294,25.22841 1.94001,4.45129 4.58817,4.69239 7.11041,5.68207 4.43156,1.94549 5.77223,4.91191 7.56915,7.72762 2.18475,7.07831 3.93476,3.82422 4.75938,0 l 1.89228,-7.50034 c 1.87216,-6.35685 3.83631,-2.02599 4.358,0 0.96967,3.03178 2.31878,14.3357 3.89926,30.6832 1.23626,5.29371 2.40668,12.65782 4.35799,0 l 3.21115,-25.68297 c 1.63474,-7.13673 2.87494,-5.86814 3.89926,0 1.93009,19.60604 2.44028,49.06114 3.55521,74.32153 1.40773,37.29148 2.65652,65.83227 4.81672,-0.11365 l 1.60558,-66.5939"
        id="path18579"
        inkscape:connector-curvature="0"
@@ -1265,12 +1265,12 @@
        inkscape:connector-curvature="0"
        id="path18599"
        d="m 673.34847,551.68069 c 0.10622,-14.73551 0.91651,-29.47102 1.60559,-44.20653 1.45998,-14.96081 2.8153,-4.32191 3.66988,0 1.40393,8.73666 3.5674,17.097 6.19294,25.22841 1.94001,4.45129 4.58817,4.69239 7.11041,5.68207 4.43156,1.94549 5.77223,4.91191 7.56915,7.72762 2.18475,7.07831 3.93476,3.82422 4.75938,0 l 1.89228,-7.50034 c 1.87216,-6.35685 3.83631,-2.02599 4.358,0 0.96967,3.03178 2.31878,14.3357 3.89926,30.6832 1.23626,5.29371 2.40668,12.65782 4.35799,0 l 3.21115,-25.68297 c 1.63474,-7.13673 2.87494,-5.86814 3.89926,0 1.93009,19.60604 2.44028,49.06114 3.55521,74.32153 1.40773,37.29148 2.65652,65.83227 4.81672,-0.11365 l 1.60558,-66.5939"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1.00457668;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1.00457668000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1.00457668;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1.00457668000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 735.85127,551.22613 c 0.10622,-14.73551 0.91651,-29.47102 1.60559,-44.20653 1.45998,-14.96081 2.8153,-4.32191 3.66988,0 1.40393,8.73666 3.5674,17.097 6.19294,25.22841 1.94001,4.45129 4.58817,4.69239 7.11041,5.68207 4.43156,1.94549 5.77223,4.91191 7.56915,7.72762 2.18475,7.07831 3.93476,3.82422 4.75938,0 l 1.89228,-7.50034 c 1.87216,-6.35685 3.83631,-2.02599 4.358,0 0.96967,3.03178 2.31878,14.3357 3.89926,30.6832 1.23626,5.29371 2.40668,12.65782 4.35799,0 l 3.21115,-25.68297 c 1.63474,-7.13673 2.87494,-5.86814 3.89926,0 1.93009,19.60604 2.44028,49.06114 3.55521,74.32153 1.40773,37.29148 2.65652,65.83227 4.81672,-0.11365 l 1.60558,-66.5939"
        id="path18601"
        inkscape:connector-curvature="0"
@@ -1283,12 +1283,12 @@
        inkscape:connector-curvature="0"
        id="path18603"
        d="m 798.35407,550.77157 c 0.10622,-14.73551 0.91651,-29.47102 1.60559,-44.20653 1.45998,-14.96081 2.8153,-4.32191 3.66988,0 1.40393,8.73666 3.5674,17.097 6.19294,25.22841 1.94001,4.45129 4.58817,4.69239 7.11041,5.68207 4.43156,1.94549 5.77223,4.91191 7.56915,7.72762 2.18475,7.07831 3.93476,3.82422 4.75938,0 l 1.89228,-7.50034 c 1.87216,-6.35685 3.83631,-2.02599 4.358,0 0.96967,3.03178 2.31878,14.3357 3.89926,30.6832 1.23626,5.29371 2.40668,12.65782 4.35799,0 l 3.21115,-25.68297 c 1.63474,-7.13673 2.87494,-5.86814 3.89926,0 1.93009,19.60604 2.44028,49.06114 3.55521,74.32153 1.40773,37.29148 2.65652,65.83227 4.81672,-0.11365 l 1.60558,-66.5939"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1.00457668;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1.00457668000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1.00457668;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1.00457668000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 860.85687,550.31701 c 0.10622,-14.73551 0.91651,-29.47102 1.60559,-44.20653 1.45998,-14.96081 2.8153,-4.32191 3.66988,0 1.40393,8.73666 3.5674,17.097 6.19294,25.22841 1.94001,4.45129 4.58817,4.69239 7.11041,5.68207 4.43156,1.94549 5.77223,4.91191 7.56915,7.72762 2.18475,7.07831 3.93476,3.82422 4.75938,0 l 1.89228,-7.50034 c 1.87216,-6.35685 3.83631,-2.02599 4.358,0 0.96967,3.03178 2.31878,14.3357 3.89926,30.6832 1.23626,5.29371 2.40668,12.65782 4.35799,0 l 3.21115,-25.68297 c 1.63474,-7.13673 2.87494,-5.86814 3.89926,0 1.93009,19.60604 2.44028,49.06114 3.55521,74.32153 1.40773,37.29148 2.65652,65.83227 4.81672,-0.11365 l 1.60558,-66.5939"
        id="path18605"
        inkscape:connector-curvature="0"
@@ -1301,7 +1301,7 @@
        inkscape:connector-curvature="0"
        id="path18607"
        d="m 923.35967,549.86245 c 0.10622,-14.73551 0.91651,-29.47102 1.60559,-44.20653 1.45998,-14.96081 2.8153,-4.32191 3.66988,0 1.40393,8.73666 3.5674,17.097 6.19294,25.22841 1.94001,4.45129 4.58817,4.69239 7.11041,5.68207 4.43156,1.94549 5.77223,4.91191 7.56915,7.72762 2.18475,7.07831 3.93476,3.82422 4.75938,0 l 1.89228,-7.50034 c 1.87216,-6.35685 3.83631,-2.02599 4.358,0 0.96967,3.03178 2.31878,14.3357 3.89926,30.6832 1.23626,5.29371 2.40668,12.65782 4.35799,0 l 3.21115,-25.68297 c 1.63474,-7.13673 2.87494,-5.86814 3.89926,0 1.93009,19.60604 2.44028,49.06114 3.55521,74.32153 1.40773,37.29148 2.65652,65.83227 4.81672,-0.11365 l 1.60561,-64.32108"
-       style="color:#000000;fill:none;stroke:#0000ff;stroke-width:1.00457668;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:1.00457668000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/akustik/klangmuster-verschiedener-instrumente.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />

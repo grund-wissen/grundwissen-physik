@@ -1,7 +1,6 @@
 
-.. _Lösungen zur Akustik:
+.. _Lösungen zu den Aufgaben zur Akustik:
 
-Lösungen zur Akustik
-====================
-
+Lösungen zu den Aufgaben zur Akustik
+====================================
 

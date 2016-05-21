@@ -4,14 +4,17 @@
 Experimente zur Optik
 =====================
 
-.. _Experimente zur Ausbreitung des Lichts:
+.. _Experimente Ausbreitung des Lichts:
 
-Experimente zur Ausbreitung des Lichts
---------------------------------------
+Ausbreitung des Lichts
+----------------------
 
-.. _Licht im Nebel:
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Ausbreitung des
+Lichts <Ausbreitung des Lichts>`.
 
 ----
+
+.. _Licht im Nebel:
 
 .. rubric:: Licht im Nebel
 
@@ -112,14 +115,17 @@ Experimente zur Ausbreitung des Lichts
 
 ----
 
-.. _Experimente zur Reflexion von Licht:
+.. _Experimente Reflexion von Licht:
 
-Experimente zur Reflexion von Licht
------------------------------------
+Reflexion von Licht
+-------------------
 
-.. _Spiegelbild einer Kerze 1:
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Reflexion von
+Licht <Reflexion von Licht>`.
 
 ----
+
+.. _Spiegelbild einer Kerze 1:
 
 .. rubric:: Spiegelbild einer Kerze 1
 
@@ -153,7 +159,6 @@ Experimente zur Reflexion von Licht
 - Blicke von vorne, d.h. von der brennenden Seite aus durch die Glasplatte. Was
   kannst Du beobachten?
 - Wie lässt sich die Beobachtung mit Hilfe des Reflexionsgesetzes erklären?
-
 
 ----
 
@@ -278,14 +283,17 @@ Experimente zur Reflexion von Licht
 ..  - Gilt das Reflexionsgesetz auch für farbiges Licht?
 
 
-.. _Experimente zur Lichtbrechung:
+.. _Experimente Lichtbrechung:
 
-Experimente zur Lichtbrechung
------------------------------
+Lichtbrechung
+-------------
 
-.. _Tief im Wald die hohe Eiche:
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Lichtbrechung
+<Lichtbrechung>`.
 
 ----
+
+.. _Tief im Wald die hohe Eiche:
 
 .. rubric:: Tief im Wald, die hohe Eiche..
 
@@ -352,14 +360,12 @@ Experimente zur Lichtbrechung
     - Lege eine kleine Münze, beispielsweise einen Cent, unter ein Trinkglas.
       Überprüfe, ob Du es von allen Seiten aus sehen kannst.
 
-
-.. todo:: Versuche zu optischen Geräten
-.. todo:: Farben-Versuche
+----
 
 
-.. raw:: html
+.. todo Versuche zu optischen Geräten
+.. todo Farben-Versuche
 
-    <hr />
 
 .. only:: html
 
@@ -368,10 +374,6 @@ Experimente zur Lichtbrechung
 .. [#]  Ist kein gewölbter Spiegel vorhanden, so kann ein provisorischer Spiegel
         mit Hilfe eines runden Gegenstandes, Karton, Alufolie und Klebeband
         selbst hergestellt werden.
-
-.. raw:: latex
-
-    \rule{\linewidth}{0.5pt}
 
 .. raw:: html
 

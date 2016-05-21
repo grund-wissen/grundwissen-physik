@@ -254,7 +254,7 @@ Schallwellen lassen sich in folgende drei Arten unterteilen:
     Lautstärke des Geräusches dabei sehr rasch abnimmt.
 
 
-.. index:: Dezibel, Schall; Schallpegel
+.. index:: Dezibel, Schall; Schallpegel, Schall;Schallintensität
 .. _Schallintensität und Schallpegel:
 
 Schallintensität und Schallpegel
@@ -352,7 +352,7 @@ benannt ist:
 
   .. math::
 
-      L _{\mathrm{W}} = 10 \cdot \log_{10}{\left(
+      L_{\mathrm{W}} = 10 \cdot \log_{10}{\left(
       \frac{P_{\mathrm{min}}}{P_{\mathrm{min}}} \right)} = 10 \cdot
       \log_{10}{(1)} = 10 \cdot 0 = \unit[0]{dB}
 
@@ -368,7 +368,7 @@ benannt ist:
 
   .. math::
 
-      L _{\mathrm{W}} = 10 \cdot \log_{10}{\left(
+      L_{\mathrm{W}} = 10 \cdot \log_{10}{\left(
       \frac{P_{\mathrm{max}}}{P_{\mathrm{min}}} \right)} = 10 \cdot
       \log_{10}{(10^{12})} = 10 \cdot 12 = \unit[120]{dB}
 
@@ -393,7 +393,8 @@ benannt ist:
 
       L_{\mathrm{W}} = 10 \cdot \log_{10}{\left( \frac{P}{P_{\mathrm{min}}}
       \right)} = 10 \cdot \log_{10}{\left(\frac{\unit[1,375 \cdot
-      10^{-5}]{W}}{\unit[1 \cdot 10^{-12}]{W}}\right)} = 10 \cdot \log_{10}{(1,375 \cdot 10^{7})} \approx \unit[71,4]{dB}
+      10^{-5}]{W}}{\unit[1 \cdot 10^{-12}]{W}}\right)} = 10 \cdot
+      \log_{10}{(1,375 \cdot 10^{7})} \approx \unit[71,4]{dB}
 
 Die Schallpegel-Skala bildet also den normalen Hörbereich des Menschen auf einen 
 Zahlenbereich zwischen :math:`0` und :math:`120` ab; Alltagsgeräusch haben
@@ -452,10 +453,10 @@ Schallpegel-Differenzen von nur :math:`\unit[1]{dB}` bis :math:`\unit[2]{db}`
 sind meist nur bei direktem Vergleich erkennbar.
 
 
-.. index:: Hörfläche
+.. index:: Lautstärke
+.. _Phon:
 .. _Lautstärke:
-.. _Hörfläche:
-.. _Hörflächen und Lautstärke:
+.. _Lautstärke bei unterschiedlichen Frequenzen:
 
 .. rubric:: Lautstärke bei unterschiedlichen Frequenzen
 
@@ -499,6 +500,14 @@ Gehör bei Frequenzen im Bereich von :math:`\unit[3000]{Hz}` bis
 :math:`\unit[4000]{Hz}`: In diesem Bereich genügen dem Ohr bereits empfangene
 Leistungen von weniger als :math:`P_{\mathrm{s}}=\unit[10^{-12}]{W}`, um Schall
 wahrnehmen zu können.
+
+.. index:: Phon
+
+Gibt man eine Lautstärke unter Berücksichtigung der in Abbildung :ref:`Isophone
+Lautstärkepegel <fig-isophone-lautstaerkepegel>` dargestellten Hörkurven an, so
+schreibt man dabei "Phon" anstelle von "Dezibel" als Einheit. Zu berücksichtigen
+ist dabei, dass es sich auch bei einer "Phon"-Angabe um einen reinen Zahlenwert
+handelt, der nur der Kenntlichkeit halber mit Phon benannt ist.
 
 .. raw:: html
 

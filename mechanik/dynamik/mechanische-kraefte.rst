@@ -1,4 +1,3 @@
-
 .. index:: Kraft
 .. _Kraft:
 .. _Mechanische Kräfte:
@@ -27,6 +26,7 @@ diesem Fall heben sich mehrere gleichzeitig wirkende Kräfte in ihrer Wirkung au
 
         :download:`SVG: Bogenschießen
         <../../pics/mechanik/dynamik/bogenschiessen.svg>`
+
 
 .. index:: Newtonsche Gesetze
 .. _Newtonsche Gesetze:
@@ -158,7 +158,7 @@ können sich somit nicht gegenseitig aufheben.
 
 .. math::
 
-    F _{\rm{A \rightarrow B}} = - F _{\rm{B \rightarrow A}}
+    F_{\mathrm{A \rightarrow B}} = - F_{\mathrm{B \rightarrow A}}
 
 *Beispiel:*
 
@@ -361,9 +361,9 @@ Beschleunigung :math:`-a`:
 
 .. math::
 
-    \vec{F} _{\rm{Schein}} = - m \cdot a
+    \vec{F}_{\mathrm{Schein}} = - m \cdot a
 
-Eine wichtige Scheinkraft ist die Trägheitskraft :math:`F _{\rm{T}}`, die
+Eine wichtige Scheinkraft ist die Trägheitskraft :math:`F_{\mathrm{T}}`, die
 beispielsweise beim Beschleunigen oder Abbremsen von Fahrzeugen auftritt. Ein
 Sonderfall dieser Trägheitswirkung ist die :ref:`Zentrifugalkraft <Radialkraft>`
 bei einer kreisförmigen Bewegung.
@@ -378,12 +378,12 @@ bei einer kreisförmigen Bewegung.
 
 .. [#N1] In mathematischer Schreibweise bedeutet dies, dass der
     Geschwindigkeitsvektor :math:`\vec{v}` eines Körpers dann konstant bleibt,
-    wenn die Summe aller :math:`n` wirkenden Kräfte :math:`\vec{F} _{\rm{i}}`
+    wenn die Summe aller :math:`n` wirkenden Kräfte :math:`\vec{F} _{\mathrm{i}}`
     gleich null ist:
 
     .. math::
 
-        \sum_{i=1}^{n} \vec{F} _{\rm{i}} = 0 \quad \Longleftrightarrow \quad
+        \sum_{i=1}^{n} \vec{F} _{\mathrm{i}} = 0 \quad \Longleftrightarrow \quad
         \vec{v} = \text{konst.}
 
 .. [#] Streng genommen gilt diese Definition nur dann, wenn die Masse
@@ -397,6 +397,6 @@ bei einer kreisförmigen Bewegung.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu mechanischen Kräften>` und
-    :ref:`Übungsaufgaben <Aufgaben zu mechanischen Kräften>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Mechanische Kräfte>` und
+    :ref:`Übungsaufgaben <Aufgaben Mechanische Kräfte>`.
 

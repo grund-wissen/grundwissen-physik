@@ -45,6 +45,7 @@ an.
     erwärmen, wird als spezifischen Wärmekapazität :math:`c` bezeichnet:
 
     .. math::
+        :label: eqn-spezifische-waermekapazitaet
 
         c = \frac{C}{m} = \frac{\Delta Q}{m \cdot \Delta T}
 
@@ -102,14 +103,14 @@ an.
 Bei Gasen hängt die spezifische Wärmekapazität von der Art der Erwärmung ab.
 Je nachdem, ob während der Erwärmung der Druck :math:`p` oder das Volumen
 :math:`V` konstant gehalten wird, unterscheidet man zwischen den
-Wärmekapazitäten :math:`c _{\rm{p}}` und :math:`c _{\rm{V}}`:
+Wärmekapazitäten :math:`c_{\mathrm{p}}` und :math:`c_{\mathrm{V}}`:
 
-* Die spezifische Wärmekapazität :math:`c _{\rm{V}}` eines Gases gibt an,
+* Die spezifische Wärmekapazität :math:`c_{\mathrm{V}}` eines Gases gibt an,
   wie viel Energie zur Erwärmung eines Kilogramms um ein Grad nötig ist, wenn
   das Volumen des Gases konstant bleibt. Die zugeführte Wärmemenge führt
   ausschließlich zu einer Erhöhung der mittleren Energie der Moleküle.
 
-* Die spezifische Wärmekapazität :math:`c _{\rm{p}}` eines Gases gibt an, wie
+* Die spezifische Wärmekapazität :math:`c_{\mathrm{p}}` eines Gases gibt an, wie
   viel Energie zur Erwärmung eines Kilogramms um :math:`\Delta T = \unit[1]{K}`
   nötig ist, wenn der Druck des Gases konstant bleibt. Die zugeführte Wärmemenge
   erhöht hierbei einerseits die mittlere Energie der Moleküle, andererseits muss
@@ -154,7 +155,7 @@ und :math:`V = s^3`. Insgesamt ergibt sich also :math:`p \cdot \Delta V = F
 \cdot \Delta s`, was mit der Definition der :ref:`Arbeit <Mechanische Arbeit>`
 übereinstimmt.
 
-Allgemein gilt für beliebige Gase stets :math:`c _{\rm{p}} > c _{\rm{V}}`, da
+Allgemein gilt für beliebige Gase stets :math:`c_{\mathrm{p}} > c_{\mathrm{V}}`, da
 bei konstantem keine Energie für die Ausdehnung des Gases zugeführt werden muss.
 Bei konstantem Druck steht der Anteil der zugeführten Energie, der zur
 Verrichtung der Ausdehnungsarbeit benötigt wird, nicht für die Erwärmung des
@@ -184,31 +185,74 @@ Mischungsregel bezeichnet:
 
 .. math::
 
-   Q _{\rm{abgegeben}} &= Q _{\rm{aufgenommen}} \\
-   c_1 \cdot m_1 \cdot (T_1 - T _{\rm{M}}) &= c_2 \cdot m_2 \cdot (T
-   _{\rm{M}} - T_2)
+   - Q_{\mathrm{abgegeben}} &= Q_{\mathrm{aufgenommen}} \\
+   - m_1 \cdot c_1 \cdot (T_{\mathrm{M}} - T_1) &= m_2 \cdot c_2 \cdot
+     (T_{\mathrm{M}} - T_2)
 
-Mit :math:`T _{\rm{M}}` bezeichnet sich die Mischungstemperatur, die sich
-nach dem Mischungsvorgang ergibt. Haben die Wärme austauschenden Körper
-die gleiche Wärmekapazität, so ergibt sich als Mischungstemperatur:
+Mit :math:`T_{\mathrm{M}}` wird die Mischungstemperatur bezeichnet, die sich
+nach dem Mischungsvorgang ergibt. Die Vorzeichen der Wärmebilanz ergeben sich
+daraus, dass aufgenommene Wärmemengen der Konvention nach positiv gezählt,
+abgegebene Wärmemengen hingegen negativ gewertet werden. Auf beiden Seiten
+wurden in der obigen Gleichung die Wärmemengen dann mittels der Formel
+:eq:`eqn-spezifische-waermekapazitaet` für die spezifische Wärmekapazität
+ausgedrückt. Die linke Seite der Gleichung kann etwas umgestellt werden, indem
+das Minus-Zeichen in die Klammer übernommen wird:
 
 .. math::
 
-    T _{\rm{M}} = \frac{m_1 \cdot T_1 + m_2 \cdot T_2}{m_1 + m_2}
+   m_1 \cdot c_1 \cdot (-T_1 + T_{\mathrm{M}}) &= m_2 \cdot c_2 \cdot
+   (T_{\mathrm{M}} - T_2) \\
+   m_1 \cdot c_1 \cdot (T_1 - T_{\mathrm{M}}) &=  m_2 \cdot c_2 \cdot
+   (T_{\mathrm{M}} - T_2)
 
-Sind mehr als zwei Körper am Mischungsvorgang beteiligt oder treten
-Änderungen des Aggregatszustands auf, so müssen die dabei umgesetzten
-Wärmemengen ebenfalls berücksichtigt werden. Allgemein gilt somit:
+Diese Gleichung kann nach der gesuchten Größe :math:`T_{\mathrm{M}}` aufgelöst
+werden. Dazu werden beide Seiten der Gleichung ausmultipliziert und anschließend
+sortiert:
+
+.. math::
+
+   m_1 \cdot c_1 \cdot T_1 - m_1 \cdot c_1 \cdot T_{\mathrm{M}} &= m_2 \cdot
+   c_2 \cdot T_{\mathrm{M}} - \cdot m_2 \cdot c_2 \cdot T_2 \\
+   m_1 \cdot c_1 \cdot T_1 + m_2 \cdot c_2 \cdot T_2 &= m_1 \cdot
+   c_1 \cdot T_{\mathrm{M}} + \cdot m_2 \cdot c_2 \cdot T_{\mathrm{M}} \\
+
+Auf der rechten Seite der Gleichung kann :math:`T_{\mathrm{M}}` ausgeklammert
+werden; für die Mischtemperatur ergibt sich damit folgende Formel:
+
+.. math::
+    :label: eqn-mischtemperatur
+
+    T_{\mathrm{M}} = \frac{m_1 \cdot c_1 \cdot T_1 + m_2 \cdot c_2 \cdot
+    T_2}{m_1 \cdot c_1 + m_2 \cdot c_2}
+
+Haben die Wärme austauschenden Körper eine gleiche Wärmekapazität, so kann diese
+im Zähler sowie im Nenner ausgeklammert und gekürzt werden. Damit vereinfacht
+sich die Formel folgendermaßen:
+
+.. math::
+
+    T_{\mathrm{M}} = \frac{m_1 \cdot T_1 + m_2 \cdot T_2}{m_1 + m_2}
+
+Man kann an dieser Formel erkennen, dass bei gleichen Wärmekapazitäten die
+Massenanteile :math:`\frac{m_1}{m_{\mathrm{ges}}}` und
+:math:`\frac{m_2}{m_{\mathrm{ges}}}` Gewichtungsfaktoren für die Mischtemperatur
+sind: Eine große Masse von :math:`m_1` (im Vergleich zu :math:`m_2`) führt zu
+einer Verschiebung der Mischtemperatur in Richtung von :math:`T_1`. Sind die
+Wärmekapazitäten der gemischten Substanzen verschieden, so treten diese
+zusätzlich als Gewichtungsfaktoren auf.
+
+Sind mehr als zwei Körper am Mischungsvorgang beteiligt, so müssen die dabei
+umgesetzten Wärmemengen ebenfalls berücksichtigt werden. Allgemein gilt somit:
 
 .. math::
     :label: eqn-mischungsformel
 
-    c_1 \cdot m_1 \cdot T_1 + c_2 \cdot m_2 \cdot T_2 + \ldots = T _{\rm{M}}
+    c_1 \cdot m_1 \cdot T_1 + c_2 \cdot m_2 \cdot T_2 + \ldots = T_{\mathrm{M}}
     \cdot (c_1 \cdot m_1 + c_2 \cdot m_2 + \ldots)
 
-Mittels der obigen Formel(n) kann experimentell ebenso die spezifische
+Mittels der obigen Formeln kann experimentell wahlweise die spezifische
 Wärmekapazität eines Gegenstands oder seine Anfangstemperatur bestimmt werden.
-Wärmeisolierte Anordnungen, die zu genau diesem Zweck konstruiert sind, heißen
+Isolierte Anordnungen, die zu genau diesem Zweck konstruiert sind, heißen
 Kalorimeter.
 
 
@@ -281,7 +325,7 @@ zusammen (Ausnahme: :ref:`Die Anomalie des Wassers <Anomalie des Wassers>`).
     :widths: 50 50
 
     * - Stoff
-      - Schmelztemperatur in :math:`\unit[]{\degree C}`
+      - Schmelztemperatur in :math:`\unit{\degree C}`
     * - Aluminium
       - :math:`660`
     * - Blei
@@ -304,11 +348,11 @@ zusammen (Ausnahme: :ref:`Die Anomalie des Wassers <Anomalie des Wassers>`).
 ..  Legierungen weisen einen tieferen Schmelzpunkt auf als die einzelnen
 ..  Bestandteile.
 
-Manche Stoffe, z.B. Glas, haben keine bestimmte Schmelztemperatur:
+Manche Stoffe, beispielsweise Glas, haben keine bestimmte Schmelztemperatur:
 
 * Glas erweicht bei :math:`\unit[700]{\degree C}` und wird bei
-  :math:`\unit[1\,300]{\degree C}` dünnflüssig. Man kann Glas als eine Flüssigkeit
-  ansehen, die bei Zimmertemperatur äußerst zäh ist. [#]_
+  :math:`\unit[1\,300]{\degree C}` dünnflüssig. Man kann Glas als eine
+  Flüssigkeit ansehen, die bei Zimmertemperatur äußerst zäh ist. [#]_
 * Andere Stoffe, beispielsweise Holz, verbrennen, wenn man sie an Luft stark
   erwärmt.
 
@@ -323,13 +367,13 @@ Art des Stoffs und seiner Masse abhängig.
 
 *Definition:*
 
-Die spezifische Schmelzwärme :math:`q _{\rm{s}}` eines Materials gibt an, welche
-Wärmemenge :math:`Q` nötig ist, um ein Kilogramm des Stoffes bei seiner
-Schmelztemperatur zu schmelzen:
+    Die spezifische Schmelzwärme :math:`q_{\mathrm{s}}` eines Materials gibt an, welche
+    Wärmemenge :math:`Q` nötig ist, um ein Kilogramm des Stoffes bei seiner
+    Schmelztemperatur zu schmelzen:
 
-.. math::
+    .. math::
 
-    q _{\rm{s}} = \frac{\Delta Q}{m}
+        q_{\mathrm{s}} = \frac{\Delta Q}{m}
 
 Die spezifische Schmelzwärme wird üblicherweise in :math:`\unit[kJ]{kg}`
 angegeben. Beim Erstarren wird die gleiche Menge an Wärme wieder an die Umgebung
@@ -340,7 +384,7 @@ abgegeben.
     :widths: 50 50
 
     * - Stoff
-      - Schmelzwärme :math:`q _{\rm{s}}` in :math:`\unit[]{\frac{kJ}{kg}}`
+      - Schmelzwärme :math:`q_{\mathrm{s}}` in :math:`\unit{\frac{kJ}{kg}}`
     * - Aluminium
       - :math:`397`
     * - Blei
@@ -386,7 +430,7 @@ den flüssigen Aggregatzustand über. Dieser Vorgang heißt Kondensieren.
     :widths: 50 50
 
     * - Stoff
-      - Siedetemperatur in :math:`\unit[]{\degree C}`
+      - Siedetemperatur in :math:`\unit{\degree C}`
     * - Aluminium
       - :math:`2450`
     * - Blei
@@ -423,13 +467,13 @@ ist wiederum von der Art der Flüssigkeit und ihrer Masse abhängig.
 
 *Definition:*
 
-Die spezifische Verdampfungswärme :math:`q _{\rm{v}}` einer Flüssigkeit gibt
-an, welche Wärmemenge :math:`Q` nötig ist, um ein Kilogramm der Flüssigkeit
-bei ihrer Siedetemperatur zu verdampfen:
+    Die spezifische Verdampfungswärme :math:`q_{\mathrm{v}}` einer Flüssigkeit gibt
+    an, welche Wärmemenge :math:`Q` nötig ist, um ein Kilogramm der Flüssigkeit
+    bei ihrer Siedetemperatur zu verdampfen:
 
-.. math::
+    .. math::
 
-    q _{\rm{v}} = \frac{\Delta Q}{m}
+        q_{\mathrm{v}} = \frac{\Delta Q}{m}
 
 Beim Kondensieren wird die gleiche Menge an Wärme wieder an die Umgebung
 abgegeben.
@@ -439,7 +483,8 @@ abgegeben.
     :widths: 50 50
 
     * - Stoff
-      - Verdampfungswärme :math:`q _{\rm{v}}` in :math:`\unit[]{\frac{kJ}{kg}}`
+      - Verdampfungswärme :math:`q_{\mathrm{v}}` in
+        :math:`\unit{\frac{kJ}{kg}}`
     * - Aluminium
       - :math:`10\,900`
     * - Benzol
@@ -467,6 +512,26 @@ Geht bei Sublimations- bzw. Resublimationsvorgängen ein Stoff unmittelbar von
 der festen in die gasförmige Phase über (oder umgekehrt), so ist die
 spezifische Wärme gleich der Summe der Schmelz- und Verdampfungswärme des
 jeweiligen Stoffs.
+
+.. figure:: ../pics/waermelehre/diagramm-waermezufuhr-phasenuebergaenge.png
+    :name: fig-diagramm-waermezufuhr-phasenuebergaenge
+    :alt:  fig-diagramm-waermezufuhr-phasenuebergaenge
+    :align: center
+    :width: 75%
+
+    Benötigte Energiemenge zur Erwärmung von :math:`m=\unit[1]{kg}` Wasser von
+    :math:`\unit[-30]{\degree C}` (Eis) bis :math:`\unit[+130]{\degree C}`
+    (Dampf).
+
+    .. only:: html
+
+        :download:`SVG: Diagramm Wärmezufuhr und Phasenübergänge
+        <../pics/waermelehre/diagramm-waermezufuhr-phasenuebergaenge.svg>`
+
+Anhand der Werte aus den Tabellen zur Schmelz- und Verdampfungswärme erkennt
+man, dass für die Phasenübergänge große Mengen an Wärme zugeführt werden müssen.
+Da sich die Temperatur während des Schmelzens und Siedens nicht ändert, nennt
+man die bei Phasenübergängen umgesetzte Wärmemenge auch "latente Wärme".
 
 
 .. index::
@@ -497,7 +562,7 @@ Das Verdunsten einer Flüssigkeit kann folgendermaßen beeinflusst werden:
   ebenfalls schneller.
 
 Ebenfalls relevant für den Verdunstungsvorgang ist die Dampfmenge in der
-umgebenden Luft; im Fall von Wasserdampf spricht man von Luftfeuchtigkeit. 
+umgebenden Luft; im Fall von Wasserdampf spricht man von Luftfeuchtigkeit.
 
 Die Menge an Wasserdampf, die ein bestimmtes Volumen an Luft maximal aufnehmen
 kann, ist stark abhängig von der Temperatur der Luft. Wie man an den Werten aus
@@ -601,7 +666,7 @@ angegeben werden, ist die relative Luftfeuchtigkeit dimensionslos; sie wird
   Sättigungsmenge an Wasserdampf knapp :math:`\unit[5]{\frac{g}{m^3}}`; da die
   Luft eine relative Luftfeuchtigkeit von :math:`100\%` hat, enthält sie eben
   diese Menge an Wasserdampf.
-  
+
   Bei einer Temperatur von :math:`\unit[20]{\degree C}` beträgt die
   Sättigungsmenge hingegegen rund :math:`\unit[17]{g}`. Die relative
   Luftfeuchtigkeit der Luft beträgt nach dem Erwärmen somit etwa
@@ -623,20 +688,19 @@ Lüften und/oder durch kontinuierliches Lüften mit Wärmerückgewinnung
 .. Aggregatzustände (fest, flüssig, gasförmig) gleichzeitig nebeneinander
 .. existieren. Bei Wasser liegt er bei :math:`\unit[0,01]{\degree C}`. Druck?
 
-..
-    .. figure:: ../pics/waermelehre/maxwellverteilung-stickstoffmolekuele.png
-        :width: 80%
-        :align: center
-        :name: fig-phasenuebergaenge
-        :alt:  fig-phasenuebergaenge
+.. .. figure:: ../pics/waermelehre/maxwellverteilung-stickstoffmolekuele.png
+..     :width: 80%
+..     :align: center
+..     :name: fig-phasenuebergaenge
+..     :alt:  fig-phasenuebergaenge
 
-        Teilchenmodell von Festkörpern, Flüssigkeiten, und Gasen sowie
-        Phasenübergänge zwischen den drei Aggregatzuständen.
+..     Teilchenmodell von Festkörpern, Flüssigkeiten, und Gasen sowie
+..     Phasenübergänge zwischen den drei Aggregatzuständen.
 
-        .. only:: html
+..     .. only:: html
 
-            :download:`SVG: Phasenübergänge
-            <../pics/waermelehre/phasenuebergaenge.svg>`
+..         :download:`SVG: Phasenübergänge
+..         <../pics/waermelehre/phasenuebergaenge.svg>`
 
 
 
@@ -672,6 +736,6 @@ Lüften und/oder durch kontinuierliches Lüften mit Wärmerückgewinnung
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu Wärmekapazität
-    und Phasenübergängen>`.
+    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben Wärmekapazität
+    und Phasenübergänge>`.
 

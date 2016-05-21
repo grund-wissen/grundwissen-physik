@@ -106,17 +106,17 @@ Verringerung der inneren Energie :math:`U` des Systems einher.
 Die Energiemenge, die beim Verbrennen von Heizstoffen wie Holz, Benzin, Diesel,
 Kohle oder Erdgas freigesetzt wird, heißt Verbrennungswärme :math:`Q
 _{\mathrm{H}}`. Sie lässt sich anhand der Masse :math:`m` des Brennstoffs sowie
-dessen Heizwert :math:`H _{\mathrm{i}}` berechnen:
+dessen Heizwert :math:`H_{\mathrm{i}}` berechnen:
 
 .. math::
 
-    Q _{\mathrm{H}} = m \cdot H _{\mathrm{i}}
+    Q_{\mathrm{H}} = m \cdot H_{\mathrm{i}}
 
-Der Heizwert :math:`H _{\mathrm{i}}` ist eine materialspezifische Größe und wird
+Der Heizwert :math:`H_{\mathrm{i}}` ist eine materialspezifische Größe und wird
 bei Festkörpern und Flüssigkeiten üblicherweise in :math:`\unit{\frac{MJ}{kg}}`,
 bei Gasen in :math:`\unit{\frac{MJ}{m^3}}` angegeben. Für verschiedene
-Materialien ist in Tabellenwerken neben dem Heizwert :math:`H _{\mathrm{i}}`
-oftmals zusätzlich der Brennwert :math:`H _{\mathrm{s}}` des Materials
+Materialien ist in Tabellenwerken neben dem Heizwert :math:`H_{\mathrm{i}}`
+oftmals zusätzlich der Brennwert :math:`H_{\mathrm{s}}` des Materials
 angegeben. Letzterer gibt an, wie viel Wärme genutzt werden kann, wenn auch die
 :ref:`Verdampfungswärme <Verdampfungswärme>` des im Brennstoff enthaltenen oder
 bei der Verbrennung entstehenden Wasseranteils mit genutzt werden kann. [#]_
@@ -228,38 +228,37 @@ stattfindet. Diese Tatsache wurde ursprünglich von `Rudolf Clausius
 Möchte man mittels einer Maschine Wärme in mechanische Arbeit umwandeln
 ("Wärmekraftmaschine"), so benötigt man zunächst zwei unterschiedlich warme
 Systeme, so dass überhaupt ein Wärmestrom auftritt. Bringt man diese beiden
-Systeme in Kontakt, so fließt eine Wärmemenge :math:`Q _{\mathrm{H}}` vom heißen
+Systeme in Kontakt, so fließt eine Wärmemenge :math:`Q_{\mathrm{H}}` vom heißen
 System in Richtung des kälteren. Von diesem Wärmestrom kann ein (zunächst nicht
 näher bestimmter) Anteil :math:`W` an Arbeit "abgezapft" werden, die restliche
-Wärme :math:`Q _{\mathrm{K}}` fließt zum kälteren System.
+Wärme :math:`Q_{\mathrm{K}}` fließt zum kälteren System.
 
 Quantitativ gilt hierbei:
 
 .. math::
 
-   Q  _{\mathrm{H}} = W + Q _{\mathrm{K}}
+   Q  _{\mathrm{H}} = W + Q_{\mathrm{K}}
 
 Bei einer Wärmekraftmaschine ist man in erster Linie am Anteil der mechanischen
 Arbeit :math:`W` interessiert. Man definiert den :ref:`Wirkungsgrad
 <Wirkungsgrad>` :math:`\eta` somit als Quotient der verrichteten mechanischen
-Arbeit :math:`W = Q _{\mathrm{H}} - Q _{\mathrm{k}}` und der dafür investierten
-Wärmemenge :math:`Q _{\mathrm{H}}`:
+Arbeit :math:`W = Q_{\mathrm{H}} - Q_{\mathrm{k}}` und der dafür investierten
+Wärmemenge :math:`Q_{\mathrm{H}}`:
 
 .. math::
     :label: eqn-wirkungsgrad-waermekraftmaschine
 
-    \eta = \frac{W}{Q _{\mathrm{H}}} = \frac{Q _{\mathrm{H}} - Q
-    _{\mathrm{K}}}{Q _{\mathrm{H}}} = 1 - \frac{Q _{\mathrm{K}}}{Q
+    \eta = \frac{W}{Q_{\mathrm{H}}} = \frac{Q_{\mathrm{H}} - Q
+    _{\mathrm{K}}}{Q_{\mathrm{H}}} = 1 - \frac{Q_{\mathrm{K}}}{Q
     _{\mathrm{H}}}
 
 Der so definierte Wirkungsgrad kann nicht größer als :math:`1` beziehungsweise
 :math:`100\%` sein; der maximale Wirkungsgrad von :math:`100\%` wird genau dann
-erreicht, wenn :math:`Q _{\mathrm{K}} = 0` ist, also keine Wärme an das kältere
+erreicht, wenn :math:`Q_{\mathrm{K}} = 0` ist, also keine Wärme an das kältere
 System fließt.
 
 .. index:: Carnot-Wirkungsgrad
 .. _Formulierung nach Carnot:
-.. _Carnot-Prozess:
 
 .. rubric:: Formulierung nach Carnot
 
@@ -271,14 +270,14 @@ beschreibt. Er kam zu folgendem Ergebnis:
 .. math::
     :label: eqn-carnotprozess
 
-    \eta _{\mathrm{max}} = 1 - \frac{T _{\mathrm{K}}}{T _{\mathrm{H}}}
+    \eta_{\mathrm{max}} = 1 - \frac{T_{\mathrm{K}}}{T_{\mathrm{H}}}
 
 Auch bei dieser Formulierung des zweiten Hauptsatzes kann der Wirkungsgrad einer
 Wärmemaschine nicht größer als :math:`100\%` sein; dieser wird genau dann
-erreicht, wenn :math:`T _{\mathrm{K}} = \unit[0]{K}` ist. Bei jeder anderen
-Temperatur ist :math:`\eta _{\mathrm{max}} < 1`. Der Wirkungsgrad ist umso größer,
-desto höher die Temperatur :math:`T _{\mathrm{H}}` des heißen Systems und desto
-niedriger die Temperatur :math:`T _{\mathrm{K}}` des kalten Systems ist.
+erreicht, wenn :math:`T_{\mathrm{K}} = \unit[0]{K}` ist. Bei jeder anderen
+Temperatur ist :math:`\eta_{\mathrm{max}} < 1`. Der Wirkungsgrad ist umso größer,
+desto höher die Temperatur :math:`T_{\mathrm{H}}` des heißen Systems und desto
+niedriger die Temperatur :math:`T_{\mathrm{K}}` des kalten Systems ist.
 
 Carnot hat bei seiner Formulierung zwischen zwei Arten von Prozessen
 unterschieden:
@@ -297,12 +296,12 @@ unterschieden:
   durch Reibungsarbeit erzeugte Wärme nicht wieder zurück in mechanische
   Arbeit umgewandelt werden kann.
 
-Der maximale Wirkungsgrad :math:`\eta _{\mathrm{max}}` nach Gleichung
+Der maximale Wirkungsgrad :math:`\eta_{\mathrm{max}}` nach Gleichung
 :eq:`eqn-carnotprozess` gilt exakt für reversible Prozesse, die zwischen zwei
-Systemen mit den Temperaturen :math:`T _{\mathrm{H}}` und :math:`T _{\mathrm{K}}`
+Systemen mit den Temperaturen :math:`T_{\mathrm{H}}` und :math:`T_{\mathrm{K}}`
 stattfinden ("Carnot-Prozess"). Bei irreversiblen Prozessen, also Prozessen mit
 Reibung, ist der tatsächliche Wirkungsgrad bei den gegebenen Temperaturen
-kleiner als :math:`\eta _{\mathrm{max}}`.
+kleiner als :math:`\eta_{\mathrm{max}}`.
 
 
 .. _Kältemaschinen und Wärmepumpen:
@@ -333,12 +332,12 @@ einem Wirkungsgrad, der stets kleiner als :math:`100\%` ist, spricht man daher
 von so genannten "Leistungszahlen":
 
 * Bei einer Kältemaschine ist die interessierende Größe die Wärmemenge
-  :math:`Q _{\mathrm{K}}`, die dem kalten System entzogen wird. Für die
+  :math:`Q_{\mathrm{K}}`, die dem kalten System entzogen wird. Für die
   Leistungszahl :math:`LZ` einer Kältemaschine gilt damit:
 
   .. math::
 
-      LZ = \frac{Q _{\mathrm{K}}}{W}
+      LZ = \frac{Q_{\mathrm{K}}}{W}
 
 * Bei einer Wärmepumpe ist die interessierende Größe die Wärmemenge :math:`Q
   _{\mathrm{H}}`, die dem wärmeren System zugeführt wird. Für die Leistungszahl
@@ -346,11 +345,11 @@ von so genannten "Leistungszahlen":
 
   .. math::
 
-      LZ = \frac{Q _{\mathrm{H}}}{W}
+      LZ = \frac{Q_{\mathrm{H}}}{W}
 
 In beiden Fällen sind die Leistungszahlen größer als Eins. Gute Wärmepumpen
 können Leistungszahlen von :math:`\approx 3` erreichen, bei Kältemaschinen sind
-die Leistungszahlen wegen  :math:`Q _{\mathrm{K}} < Q _{\mathrm{H}}` geringer.
+die Leistungszahlen wegen  :math:`Q_{\mathrm{K}} < Q_{\mathrm{H}}` geringer.
 
 
 .. _Dritter Hauptsatz:
@@ -373,6 +372,9 @@ Durch den dritten Hauptsatz der Wärmelehre wird somit ein Wirkungsgrad einer
 Wärmekraftmaschine von :math:`100\%`, wie er für einen :ref:`Carnot-Prozess
 <Carnot-Prozess>` theoretisch denkbar wäre, explizit ausgeschlossen.
 
+.. Brennwert-Tabellen:
+.. http://www.heizung-direkt.de/UEBERSHO/brennwert.htm
+.. https://de.wikipedia.org/wiki/Heizwert
 
 
 .. raw:: html
@@ -401,11 +403,11 @@ Wärmekraftmaschine von :math:`100\%`, wie er für einen :ref:`Carnot-Prozess
     thermodynamischen Prozesse ist dies bereits ausreichend.
 
 .. [#] Der Brennwert eines Materials ist stets größer als sein Heizwert. Früher
-    wurde der Brennwert :math:`H _{\mathrm{s}}` daher als oberer Heizwert :math:`H
-    _{\mathrm{o}}` und der Heizwert :math:`H _{\mathrm{i}}` als unterer Heizwert
-    :math:`H _{\mathrm{u}}` bezeichnet. Inzwischen haben sich allerdings die
-    entsprechenden lateinischen Bezeichnungen :math:`H _{\mathrm{s}}` ("superior")
-    und :math:`H _{\mathrm{i}}` ("inferior") international durchgesetzt.
+    wurde der Brennwert :math:`H_{\mathrm{s}}` daher als oberer Heizwert :math:`H
+    _{\mathrm{o}}` und der Heizwert :math:`H_{\mathrm{i}}` als unterer Heizwert
+    :math:`H_{\mathrm{u}}` bezeichnet. Inzwischen haben sich allerdings die
+    entsprechenden lateinischen Bezeichnungen :math:`H_{\mathrm{s}}` ("superior")
+    und :math:`H_{\mathrm{i}}` ("inferior") international durchgesetzt.
 
     Auch wenn ein Brennstoff keine Restfeuchte besitzt, kann es bei der
     Verbrennung zur Bildung von Wasserdampf kommen, wenn einzelne
@@ -413,6 +415,3 @@ Wärmekraftmaschine von :math:`100\%`, wie er für einen :ref:`Carnot-Prozess
     Beim Brennwert wird dann die Wärmemenge mit einbezogen, die diese Menge
     Wasserdampf beim Kondensieren freisetzt.
 
-.. Brennwert-Tabellen:
-.. http://www.heizung-direkt.de/UEBERSHO/brennwert.htm
-.. https://de.wikipedia.org/wiki/Heizwert

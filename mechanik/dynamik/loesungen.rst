@@ -1,20 +1,22 @@
 
-.. _Lösungen zu den Dynamik-Aufgaben:
+.. _Lösungen Dynamik:
 
-Lösungen zu den Dynamik-Aufgaben
-================================
+Dynamik
+=======
 
-.. _Lösungen zu den Kräfte-Aufgaben:
 
-Lösungen zu den Kräfte-Aufgaben
--------------------------------
+.. _Lösungen Mechanische Kräfte:
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
-mechanischen Kräften>` zum Abschnitt :ref:`Kraft <Kraft>`.
+Mechanische Kräfte
+------------------
+
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
+Mechanische Kräfte>` zum Abschnitt :ref:`Mechanische Kräfte <Mechanische
+Kräfte>`.
 
 ----
 
-.. _Trägheit-01-Lösung:
+.. _dynk01l:
 
 * Bremst man beim Fahrradfahren abrupt mit der Vorderbremse, so ähnelt dies
   einer Fahrt gegen eine hohe Bordsteinkante: Der Fahrer, der Fahrrad-Rahmen
@@ -28,22 +30,22 @@ mechanischen Kräften>` zum Abschnitt :ref:`Kraft <Kraft>`.
   Lenkstange katapultiert. Die Vorderbremse sollte daher stets mit Bedacht und
   möglichst nur als "Unterstützung" der Hinterrad-Bremse eingesetzt werden..
 
-  :ref:`Zurück zur Aufgabe <Trägheit-01>`
+  :ref:`Zurück zur Aufgabe <dynk01>`
 
 ----
 
-.. _Trägheit-02-Lösung:
+.. _dynk02l:
 
 * Während des Bremsens spürt ein Fahrgast seine Trägheitskraft und
   drückt unbewusst nach hinten. Der plötzliche Wegfall der Trägheitskraft
   beim Anhalten wird jedoch nicht schnell genug bemerkt, und der Körper gibt
   rückwärts nach.
 
-  :ref:`Zurück zur Aufgabe <Trägheit-02>`
+  :ref:`Zurück zur Aufgabe <dynk02>`
 
 ----
 
-.. _Angriffspunkt-und-Wirkungslinie-01-Lösung:
+.. _dynk03l:
 
 * Da der Einkaufswagen starr ist, können Zug- und Druckkräfte an ihm keine
   Verformung, sondern lediglich eine Veränderung seiner Geschwindigkeit
@@ -52,11 +54,11 @@ mechanischen Kräften>` zum Abschnitt :ref:`Kraft <Kraft>`.
   auf einer Linie. In diesem Fall wird der Wagen durch gleich große Zug- oder
   Druckkräfte in gleichem Maße beschleunigt.
 
-  :ref:`Zurück zur Aufgabe <Angriffspunkt-und-Wirkungslinie-01>`
+  :ref:`Zurück zur Aufgabe <dynk03>`
 
 ----
 
-.. _Kraft-und-Gegenkraft-01-Lösung:
+.. _dynk04l:
 
 * Kraft und Gegenkraft haben immer die gleiche Wirkungslinie, aber
   unterschiedliche Richtungen. Sie treten an allen Stellen auf, an denen
@@ -90,42 +92,42 @@ mechanischen Kräften>` zum Abschnitt :ref:`Kraft <Kraft>`.
   Gewicht der Feder gegenüber dem Gewicht der Kugel vernachlässigt werden
   kann.
 
-  :ref:`Zurück zur Aufgabe <Kraft-und-Gegenkraft-01>`
+  :ref:`Zurück zur Aufgabe <dynk04>`
 
 ----
 
 
-.. _Lösungen zu den Aufgaben zum Zusammenwirken mehrerer Kräfte:
+.. _Lösungen Zusammenwirken mehrerer Kräfte:
 
-Lösungen zu den Aufgaben zum Zusammenwirken mehrerer Kräfte
------------------------------------------------------------
+Zusammenwirken mehrerer Kräfte
+------------------------------
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zum
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
 Zusammenwirken mehrerer Kräfte>` zum Abschnitt :ref:`Zusammenwirken mehrerer
 Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
 ----
 
-.. _Zusammenwirken-mehrerer-Kräfte-01-Lösung:
+.. _dynz01l:
 
-* Die Gewichtskraft :math:`F _{\rm{G}} = m \cdot g` des Kindes :math:`(m =
+* Die Gewichtskraft :math:`F_{\mathrm{G}} = m \cdot g` des Kindes :math:`(m =
   \unit[30]{kg})` verteilt sich gleichmäßig auf beide Seilstücke. Somit gilt
   für die Kraft :math:`F` in jedem der beiden Seile:
 
   .. math::
 
-      F = \frac{1}{2} \cdot F _{\rm{G}} = \frac{1}{2} \cdot \unit[30]{kg}
+      F = \frac{1}{2} \cdot F_{\mathrm{G}} = \frac{1}{2} \cdot \unit[30]{kg}
       \cdot \unit[9,81]{\frac{N}{kg}} = \unit[147,15]{N}
 
   In beiden Seilen wirkt somit eine Zugkraft von rund :math:`\unit[147]{N}`.
 
-  :ref:`Zurück zur Aufgabe <Zusammenwirken-mehrerer-Kräfte-01>`
+  :ref:`Zurück zur Aufgabe <dynz01>`
 
 ----
 
-.. _Zusammenwirken-mehrerer-Kräfte-02-Lösung:
+.. _dynz02l:
 
-* Zeichnerisch findet man die Gesamtkraft :math:`\vec{F} _{\rm{Ges}}`, indem
+* Zeichnerisch findet man die Gesamtkraft :math:`\vec{F} _{\mathrm{Ges}}`, indem
   man ein Kräfteparallelogramm durch durch paralleles Verschiebung der beiden
   Kraftpfeile konstruiert. Die gesuchte Gesamtkraft entspricht der Diagonalen
   des Kräfteparallelogramms.
@@ -144,44 +146,44 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
                     <../../pics/mechanik/dynamik/kraftaddition-kinder-schlitten-loesung.svg>`
 
   Rechnerisch lässt sich die Aufgabe lösen, indem man den Kräfte
-  :math:`\vec{F} _{\rm{1}}` und :math:`\vec{F} _{\rm{2}}` mit Hilfe der
+  :math:`\vec{F} _{\mathrm{1}}` und :math:`\vec{F} _{\mathrm{2}}` mit Hilfe der
   trigonometrischen Funktionen :math:`\sin{}` und :math:`\cos{}` in jeweils
   eine :math:`x`- und eine :math:`y`-Komponente aufteilt.
 
-  Für die Kraft :math:`\vec{F} _{\rm{1}}` gilt:
+  Für die Kraft :math:`\vec{F} _{\mathrm{1}}` gilt:
 
   .. math::
 
-      F _{\rm{1,x}} = \unit[40]{N} \cdot \cos{(30\degree)} \approx \unit[35]{N}\\
-      F _{\rm{1,y}} = \unit[40]{N} \cdot \sin{(30\degree)} \approx \unit[20]{N}\\
+      F_{\mathrm{1,x}} = \unit[40]{N} \cdot \cos{(30\degree)} \approx \unit[35]{N}\\
+      F_{\mathrm{1,y}} = \unit[40]{N} \cdot \sin{(30\degree)} \approx \unit[20]{N}\\
 
-  Für die Kraft :math:`\vec{F} _{\rm{2}}` gilt:
+  Für die Kraft :math:`\vec{F} _{\mathrm{2}}` gilt:
 
   .. math::
 
-      F _{\rm{2,x}} &= \unit[40]{N} \cdot \cos{(30\degree)} \approx \unit[35]{N}\\
-      F _{\rm{2,y}} &= \unit[40]{N} \cdot \,\sin{(30\degree)} \approx \unit[-20]{N}\\
+      F_{\mathrm{2,x}} &= \unit[40]{N} \cdot \cos{(30\degree)} \approx \unit[35]{N}\\
+       _{\mathrm{2,y}} &= \unit[40]{N} \cdot \,\sin{(30\degree)} \approx \unit[-20]{N}\\
 
-  Das Minuszeichen der Kraftkomponente :math:`F _{\rm{2,y}}` gibt an, dass die
+  Das Minuszeichen der Kraftkomponente :math:`F_{\mathrm{2,y}}` gibt an, dass die
   Kraft entgegen der als positiv festgelegten :math:`y`-Richtung verläuft. Um
   beide Kräfte zu addieren, werden die :math:`x`- und die
   :math:`y`-Komponenten beider Kräfte addiert. Es ergibt sich:
 
   .. math::
 
-      F _{\rm{1,x}} + F _{\rm{2,x}} = \unit[35]{N} &+ \unit[35]{N} =
+      F_{\mathrm{1,x}} + F_{\mathrm{2,x}} = \unit[35]{N} &+ \unit[35]{N} =
       \unit[70]{N} \\
-      F _{\rm{1,y}} + F _{\rm{2,y}} = \unit[20]{N} &- \unit[20]{N} =
+      F_{\mathrm{1,y}} + F_{\mathrm{2,y}} = \unit[20]{N} &- \unit[20]{N} =
       \unit[0]{N} \\
 
-  Die Gesamtkraft :math:`\vec{F} _{\rm{Ges}}` hat somit einen Betrag von
+  Die Gesamtkraft :math:`\vec{F} _{\mathrm{Ges}}` hat somit einen Betrag von
   rund :math:`\unit[70]{N}` und verläuft in die positive :math:`x`-Richtung.
 
-  :ref:`Zurück zur Aufgabe <Zusammenwirken-mehrerer-Kräfte-02>`
+  :ref:`Zurück zur Aufgabe <dynz02>`
 
 ----
 
-.. _Zusammenwirken-mehrerer-Kräfte-03-Lösung:
+.. _dynz03l:
 
 * Wenn ein Kräfte-Gleichgewicht herrscht, so bilden die beteiligten Kräfte
   eine geschlossene Vektorkette; im Fall dreier Kräfte lassen sich die Vektoren
@@ -233,19 +235,19 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
   \gamma ^{*} = 360 \degree`.
 
 
-  :ref:`Zurück zur Aufgabe <Zusammenwirken-mehrerer-Kräfte-03>`
+  :ref:`Zurück zur Aufgabe <dynz03>`
 
 ----
 
-.. _Kraftzerlegung-01-Lösung:
+.. _dynz04l:
 
 * Bei einer Gleitreibungszahl von  :math:`\mu = 0,15` ergibt sich aus der
-  Gewichtskraft :math:`F _{\rm{G}} = \unit[500]{N}` folgende Reibungskraft
-  :math:`F _{\rm{R}}`:
+  Gewichtskraft :math:`F_{\mathrm{G}} = \unit[500]{N}` folgende Reibungskraft
+  :math:`F_{\mathrm{R}}`:
 
   .. math::
 
-      F _{\rm{R}} = \mu \cdot F _{\rm{G}} = 0,15 \cdot \unit[500]{N} = \unit[75]{N}
+      F_{\mathrm{R}} = \mu \cdot F_{\mathrm{G}} = 0,15 \cdot \unit[500]{N} = \unit[75]{N}
 
   .. image:: ../../pics/mechanik/dynamik/kraftzerlegung-schlitten-loesung.png
       :width: 60%
@@ -262,32 +264,34 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
   .. math::
 
-      \frac{F _{\rm{Z,y}}}{F _{\rm{Z}}} = \sin{(\alpha)} \quad \Leftrightarrow
-      \quad F _{\rm{Z,y}} = F _{\rm{Z}} \cdot \sin{(\alpha)} \\
-      \frac{F _{\rm{Z,x}}}{F _{\rm{Z}}} = \cos{(\alpha)} \quad \Leftrightarrow
-      \quad F _{\rm{Z,x}} = F _{\rm{Z}} \cdot \cos{(\alpha)}
+      \frac{F_{\mathrm{Z,y}}}{F_{\mathrm{Z}}} = \sin{(\alpha)} \quad
+      \Leftrightarrow \quad F_{\mathrm{Z,y}} = F_{\mathrm{Z}} \cdot
+      \sin{(\alpha)} \\
+      \frac{F_{\mathrm{Z,x}}}{F_{\mathrm{Z}}} = \cos{(\alpha)} \quad
+      \Leftrightarrow \quad F_{\mathrm{Z,x}} = F_{\mathrm{Z}} \cdot
+      \cos{(\alpha)}
 
-  Für den Betrag der Zugkraft gilt somit :math:`F _{\rm{Z}} = \frac{F
-  _{\rm{Z,x}}}{\cos{(\alpha)}} = \frac{\unit[75]{N}}{\cos{(10 \degree)}}
+  Für den Betrag der Zugkraft gilt somit :math:`F_{\mathrm{Z}} = \frac{F
+  _{\mathrm{Z,x}}}{\cos{(\alpha)}} = \frac{\unit[75]{N}}{\cos{(10 \degree)}}
   \approx \unit[76,2]{N}`.
 
-  :ref:`Zurück zur Aufgabe <Kraftzerlegung-01>`
+  :ref:`Zurück zur Aufgabe <dynz04>`
 
 ----
 
-.. _Kraftzerlegung-02-Lösung:
+.. _dynz05l:
 
 * Da die Laterne symmetrisch aufgehängt ist, müssen die Kräfte
   :math:`\vec{F}_1` und :math:`\vec{F}_2` im linken und im rechten Seilstück
   betragsmäßig gleich sein. Jedes der beiden Seilstücke muss somit in
-  vertikaler Richtung die Hälfte des Gewichtskraft :math:`F _{\rm{G}} =
+  vertikaler Richtung die Hälfte des Gewichtskraft :math:`F_{\mathrm{G}} =
   \unit[50]{N}` der Lampe ausgleichen:
 
   .. math::
 
-      F _{\rm{1,y}} &= F _{\rm{2,y}} \\
-      F _{\rm{1,y}} + F _{\rm{2,y}} &= \unit[50]{N}\\[8pt]
-      \Rightarrow F _{\rm{1,y}} = F _{\rm{2,y}} &= \unit[25]{N}
+      F_{\mathrm{1,y}} &= F_{\mathrm{2,y}} \\
+      F_{\mathrm{1,y}} + F_{\mathrm{2,y}} &= \unit[50]{N}\\[8pt]
+      \Rightarrow F_{\mathrm{1,y}} = F_{\mathrm{2,y}} &= \unit[25]{N}
 
   Die Größe der horizontalen Kraftkomponente kann graphisch mit Hilfe eines
   Kräfte-Parallelogramms oder rechnerisch mit Hilfe der :ref:`trigonometrischen
@@ -308,25 +312,26 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
   Horizontalen ist ebenfalls gleich :math:`\alpha`, da es sich um
   :ref:`Z-Winkel <gwm:Stufenwinkel und Wechselwinkel>` handelt.
   Betrachtet man in der obigen Abbildung das orange hervorgehobene Dreieck, so
-  lässt sich die horizontale Komponente :math:`F _{\rm{1,x}}` anhand der
+  lässt sich die horizontale Komponente :math:`F_{\mathrm{1,x}}` anhand der
   folgenden Beziehung ausdrücken:
 
   .. math::
 
-      \frac{F _{\rm{1,y}}}{F _{\rm{1,x}}} = \tan{(\alpha)} \qquad &\text{oder} \qquad
-      \frac{F _{\rm{1,x}}}{F _{\rm{1,y}}} = \cot{(\alpha)} \\[8pt]
-      \Rightarrow F _{\rm{1,x}} = &F _{\rm{1,y}} \cdot \text{cot}(\alpha)
+      \frac{F_{\mathrm{1,y}}}{F_{\mathrm{1,x}}} = \tan{(\alpha)} \qquad
+      &\text{oder} \qquad \frac{F_{\mathrm{1,x}}}{F_{\mathrm{1,y}}} =
+      \cot{(\alpha)} \\[8pt]
+      \Rightarrow F_{\mathrm{1,x}} &= F_{\mathrm{1,y}} \cdot \text{cot}(\alpha)
 
   Mit dem Cotangens-Wert :math:`\text{cot}(\alpha) = \text{cot}(25 \degree)
-  \approx 2,145` folgt somit :math:`F _{\rm{1,x}} \approx \unit[53,61]{N}`.
-  Der Kraftanteil :math:`F _{\rm{2,x}}` ist ebenso groß, zeigt aber in die
+  \approx 2,145` folgt somit :math:`F_{\mathrm{1,x}} \approx \unit[53,61]{N}`.
+  Der Kraftanteil :math:`F_{\mathrm{2,x}}` ist ebenso groß, zeigt aber in die
   entgegengesetzte Richtung.
 
-  :ref:`Zurück zur Aufgabe <Kraftzerlegung-02>`
+  :ref:`Zurück zur Aufgabe <dynz05>`
 
 ----
 
-.. _Kraftzerlegung-03-Lösung:
+.. _dynz06l:
 
 * Mit :math:`h= \unit[1]{m}`, :math:`l_1 = \unit[5]{m}` und :math:`l_2 =
   \unit[10]{m}` lassen sich die Größen der Winkel :math:`\alpha` und
@@ -334,22 +339,24 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
   .. math::
 
-      \tan{(\alpha)} = \frac{\unit[1]{m}}{\unit[10]{m}} \quad &\Leftrightarrow \quad
-      \alpha = \text{atan}\left(\frac{1}{10}\right) \approx \phantom{1}5,7 \degree \\[8pt]
-      \tan{(\beta)} = \frac{\unit[1]{m}}{\unit[5]{m}} \quad &\Leftrightarrow \quad
-      \beta = \text{atan}\left(\frac{1}{5}\right) \approx 11,3 \degree
+      \tan{(\alpha)} = \frac{\unit[1]{m}}{\unit[10]{m}} \quad &\Leftrightarrow
+      \quad \alpha = \text{atan}\left(\frac{1}{10}\right) \approx \phantom{1}5,7
+      \degree \\[8pt]
+      \tan{(\beta)} = \frac{\unit[1]{m}}{\unit[5]{m}} \quad &\Leftrightarrow
+      \quad \beta = \text{atan}\left(\frac{1}{5}\right) \approx 11,3 \degree
 
   Um die Beträge :math:`F_1` und :math:`F_2` der zwei unbekannten Kräfte zu
   berechnen, kann man ein Gleichungssystem der wirkenden Kräfte aufstellen.
   Dabei lassen sich als Bedingungen nutzen, dass die vertikalen Anteile der
-  Kräfte in Summe die Gewichtskraft :math:`F _{\rm{G}} = \unit[50]{N}` der Lampe
+  Kräfte in Summe die Gewichtskraft :math:`F_{\mathrm{G}} = \unit[50]{N}` der Lampe
   ausgleichen, und sich die horizontalen Anteile der Kräfte zu Null addieren. Es
   muss also gelten:
 
   .. math::
 
       F_1  \cdot \sin{(\alpha)} + F_2 \cdot \sin{(\beta)} &= \unit[50]{N} \\
-      -F_1  \cdot \cos{(\alpha)} + F_2 \cdot \cos{(\beta)} &= \unit[\phantom{5}0]{N} \\
+      -F_1  \cdot \cos{(\alpha)} + F_2 \cdot \cos{(\beta)} &=
+      \unit[\phantom{5}0]{N} \\
 
   .. image:: ../../pics/mechanik/dynamik/kraftzerlegung-strassenlampe-asymmetrisch-loesung.png
       :align: center
@@ -389,7 +396,7 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
         \sin{(\beta)}\right)} \cdot \frac{\cos{(\beta)}}{\cos{(\alpha)}}
 
   Setzt man hier :math:`\alpha \approx 5,7 \degree` und :math:`\beta \approx
-  11,3 \degree` ein, so erhält man :math:`F _2 \approx \unit[169,0]{N}` und
+  11,3 \degree` ein, so erhält man :math:`F_2 \approx \unit[169,0]{N}` und
   :math:`F_1 \approx \unit[167,5]{N}`.
 
   Diese Lösung kann ebenfalls (wesentlich schneller!) gefunden werden, wenn man
@@ -419,68 +426,68 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
   Auch hier liefert ein Einsetzen der Werte  :math:`\alpha \approx 5,7 \degree`
   und :math:`\beta \approx 11,3 \degree` die Werte :math:`F_1 \approx
-  \unit[167,5]{N}` und :math:`F _2 \approx \unit[169,0]{N}`.
+  \unit[167,5]{N}` und :math:`F_2 \approx \unit[169,0]{N}`.
 
   Die an den beiden Seilstücken ziehenden Kräfte sind also jeweils deutlich
   größer als die Gewichtskraft der Lampe. Da :math:`\beta > \alpha` ist, hat die
   Kraft :math:`F_2` einen größeren Kraftteil in vertikaler Richtung als
   :math:`F_1`.
 
-  :ref:`Zurück zur Aufgabe <Kraftzerlegung-03>`
+  :ref:`Zurück zur Aufgabe <dynz06>`
 
 ----
 
 
-.. _Lösungen zu den Aufgaben zu Arten mechanischer Kräfte:
+.. _Lösungen Arten mechanischer Kräfte:
 
-Lösungen zu den Aufgaben zu Arten mechanischer Kräfte
------------------------------------------------------
+Arten mechanischer Kräfte
+-------------------------
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
 Arten mechanischer Kräfte>` zum Abschnitt :ref:`Arten mechanischer Kräfte <Arten
 mechanischer Kräfte>`.
 
 ----
 
-.. _Gewichtskraft-01-Lösung:
+.. _dyna01l:
 
-* Um die Gewichtskraft :math:`F _{\rm{G}}` zu berechnen, die einer Masse
+* Um die Gewichtskraft :math:`F_{\mathrm{G}}` zu berechnen, die einer Masse
   :math:`m` entspricht, muss diese mit dem jeweiligen Ortsfaktor :math:`g`
   multipliziert werden. Für die Erde gilt mit :math:`m = \unit[1]{kg}` und
-  :math:`g _{\rm{Erde}} = \unit[9,81]{N/kg}`:
+  :math:`g_{\mathrm{Erde}} = \unit[9,81]{N/kg}`:
 
   .. math::
 
-      F _{\rm{G, Erde}} = \unit[1]{kg} \cdot \unit[9,81]{\frac{N}{kg} } =
+      F_{\mathrm{G, Erde}} = \unit[1]{kg} \cdot \unit[9,81]{\frac{N}{kg} } =
       \unit[9,81]{N}
 
-  Auf dem Mond gilt für den Ortsfaktor :math:`g _{\rm{Mond}} =
+  Auf dem Mond gilt für den Ortsfaktor :math:`g_{\mathrm{Mond}} =
   \unit[1,60]{\frac{N}{kg} }` und somit:
 
   .. math::
 
-      F _{\rm{G, Mond}} = \unit[1]{kg} \cdot \unit[1,60]{\frac{N}{kg} } =
+      F_{\mathrm{G, Mond}} = \unit[1]{kg} \cdot \unit[1,60]{\frac{N}{kg} } =
       \unit[1,60]{N}
 
   Die Gewichtskraft der :math:`\unit[1]{kg}`-Masse ist auf der Erde mit
-  :math:`F _{\rm{G, Erde}} = \unit[9,81]{N}` somit etwa :math:`6` mal größer
-  als die Gewichtskraft :math:`F _{\rm{G, Mond}} = \unit[1,60]{N}` der
+  :math:`F_{\mathrm{G, Erde}} = \unit[9,81]{N}` somit etwa :math:`6` mal größer
+  als die Gewichtskraft :math:`F_{\mathrm{G, Mond}} = \unit[1,60]{N}` der
   gleichen Masse auf dem Mond.
 
-  :ref:`Zurück zur Aufgabe <Gewichtskraft-01>`
+  :ref:`Zurück zur Aufgabe <dyna01>`
 
 ----
 
-.. _Gewichtskraft-02-Lösung:
+.. _dyna02l:
 
-* Der Ortsfaktor auf dem Mond ist :math:`g _{\rm{Mond}} = \unit[1,60]{N/kg}`,
-  der Ortsfaktor auf der Erde ist :math:`g _{\rm{Erde}} = \unit[9,81]{N/kg}`.
+* Der Ortsfaktor auf dem Mond ist :math:`g_{\mathrm{Mond}} = \unit[1,60]{N/kg}`,
+  der Ortsfaktor auf der Erde ist :math:`g_{\mathrm{Erde}} = \unit[9,81]{N/kg}`.
   Der Astronaut spürt auf der Erde somit eine :math:`9,81 / 1,60 \approx
   6,13`-fache Gewichtskraft:
 
   .. math::
 
-      F _{\rm{G, Erde}} = \unit[130]{N} \cdot \frac{\unit[9,81]{\frac{N}{kg}
+      F_{\mathrm{G, Erde}} = \unit[130]{N} \cdot \frac{\unit[9,81]{\frac{N}{kg}
       }}{\unit[1,60]{\frac{N}{kg} }} \approx  \unit[130]{N} \cdot 6,13 \approx
       \unit[797]{N}
 
@@ -494,11 +501,11 @@ mechanischer Kräfte>`.
 
   Die Masse des Astronauten beträgt somit :math:`m = \unit[81,25]{kg}`.
 
-  :ref:`Zurück zur Aufgabe <Gewichtskraft-02>`
+  :ref:`Zurück zur Aufgabe <dyna02>`
 
 ----
 
-.. _Reibung-01-Lösung:
+.. _dyna03l:
 
 * Ohne Reibung würden die Füße --  extremer als auf Eis -- unkontrollierbar
   über den Boden gleiten.
@@ -509,47 +516,47 @@ mechanischer Kräfte>`.
   die Gegenkraft der Erde auf den Körper gleich Null. Der Körper erfährt somit
   keine Beschleunigung.
 
-  :ref:`Zurück zur Aufgabe <Reibung-01>`
+  :ref:`Zurück zur Aufgabe <dyna03>`
 
 ----
 
-.. _Reibung-02-Lösung:
+.. _dyna04l:
 
 * Um die Holzkiste in Bewegung zu versetzen, muss ihre Haftreibungskraft
-  :math:`F _{\rm{R,H}}` überwunden werden. Setzt man die Masse :math:`m =
-  \unit[50]{kg}` und die Haftreibungszahl :math:`\mu _{\rm{H}} =
+  :math:`F_{\mathrm{R,H}}` überwunden werden. Setzt man die Masse :math:`m =
+  \unit[50]{kg}` und die Haftreibungszahl :math:`\mu_{\mathrm{H}} =
   \unit[0,54]{}` in die Haftreibungs-Gleichung ein, so ergibt sich:
 
   .. math::
 
-      F _{\rm{R,H}} = \mu _{\rm{H}} \cdot F _{\rm{G}} = 0,54 \cdot \unit[50]{kg}
-      \cdot \unit[9,81]{\frac{N}{kg}} \approx \unit[265]{N}
+      F_{\mathrm{R,H}} = \mu_{\mathrm{H}} \cdot F_{\mathrm{G}} = 0,54 \cdot
+      \unit[50]{kg} \cdot \unit[9,81]{\frac{N}{kg}} \approx \unit[265]{N}
 
   Es muss somit eine Kraft :math:`F \ge \unit[265]{N}` aufgebracht werden, um
   die Kiste in Bewegung zu versetzen. Um das Gleiten aufrecht zu erhalten,
-  muss nur die Gleitreibungskraft :math:`F _{\rm{R,G}}` ausgeglichen werden:
+  muss nur die Gleitreibungskraft :math:`F_{\mathrm{R,G}}` ausgeglichen werden:
 
   .. math::
 
-      F _{\rm{R,G}} = \mu _{\rm{G}} \cdot F _{\rm{G}} = 0,34 \cdot \unit[50]{kg}
-      \cdot \unit[9,81]{\frac{N}{kg}} \approx \unit[167]{N}
+      F_{\mathrm{R,G}} = \mu_{\mathrm{G}} \cdot F_{\mathrm{G}} = 0,34 \cdot
+      \unit[50]{kg} \cdot \unit[9,81]{\frac{N}{kg}} \approx \unit[167]{N}
 
   Somit gilt für die zum (Weiter-)Gleiten der Kiste nötige Kraft :math:`F \ge
   \unit[167]{N}`.
 
-  :ref:`Zurück zur Aufgabe <Reibung-02>`
+  :ref:`Zurück zur Aufgabe <dyna04>`
 
 ----
 
-.. _Hookesches-Gesetz-01-Lösung:
+.. _dyna05l:
 
-* Die Federkonstante :math:`k` einer Schraubenfeder ist gleich dem Verhältnis
+* Die Federkonstante :math:`D` einer Schraubenfeder ist gleich dem Verhältnis
   aus der auf sie wirkenden Kraft :math:`F` und der resultierenden
   Längenänderung :math:`\Delta s`:
 
   .. math::
 
-      k = \frac{F}{\Delta s}
+      D = \frac{F}{\Delta s}
 
   Setzt man die Werte :math:`F = \unit[1]{N}` und :math:`\Delta s =
   \unit[33]{cm} = \unit[0,33]{m}` ein, erhält man:
@@ -558,88 +565,85 @@ mechanischer Kräfte>`.
 
       k = \frac{\unit[1]{N}}{\unit[0,33]{m}} = \unit[0,33]{\frac{N}{m} }
 
-  Die Federkonstante :math:`k` beträgt somit  :math:`\unit[0,33]{\frac{N}{m} }`.
+  Die Federkonstante :math:`k` beträgt somit :math:`\unit[0,33]{\frac{N}{m}}`.
 
-  :ref:`Zurück zur Aufgabe <Hookesches-Gesetz-01>`
+  :ref:`Zurück zur Aufgabe <dyna05>`
 
 ----
 
-.. _Hookesches-Gesetz-02-Lösung:
+.. _dyna06l:
 
 * Für den Betrag der zum Dehnen einer Feder nötigen Spannkraft :math:`F
-  _{\rm{S}}` gilt mit :math:`k = \unit[40]{N/m}` und :math:`s = \unit[12]{cm}
+  _{\mathrm{S}}` gilt mit :math:`k = \unit[40]{N/m}` und :math:`s = \unit[12]{cm}
   = \unit[0,12]{m}`:
 
   .. math::
 
-      F _{\rm{S}} = k \cdot s = \unit[40]{\frac{N}{m} } \cdot \unit[0,12]{m} =
-      \unit[4,8]{N}
+      F_{\mathrm{S}} = D \cdot s = \unit[40]{\frac{N}{m} } \cdot \unit[0,12]{m}
+      = \unit[4,8]{N}
 
   Es ist somit eine Kraft von :math:`\unit[4,8]{N}` nötig, um die
   Schraubenfeder :math:`\unit[12]{cm}` weit zu dehnen.
 
-  :ref:`Zurück zur Aufgabe <Hookesches-Gesetz-02>`
+  :ref:`Zurück zur Aufgabe <dyna06>`
 
 ----
 
-.. _Hookesches-Gesetz-03-Lösung:
+.. _dyna07l:
 
 * Die Dehnung :math:`s` einer Feder lässt sich anhand der bekannten
-  Federhärte :math:`k = \unit[650]{N/m}` und der wirkenden Kraft :math:`F =
+  Federhärte :math:`D = \unit[650]{N/m}` und der wirkenden Kraft :math:`F =
   \unit[20]{N}` wie folgt berechnen:
 
   .. math::
 
-      F _{\rm{s}} = k \cdot s \quad \Longleftrightarrow \quad s = \frac{F
-      _{\rm{s}}}{k}
+      F_{\mathrm{s}} = D \cdot s \quad \Longleftrightarrow \quad s = \frac{F
+      _{\mathrm{s}}}{D}
 
   .. math::
 
-      s = \frac{F _{\rm{S}}}{k} = \frac{\unit[20]{N}}{\unit[650]{\frac{N}{m}
+      s = \frac{F_{\mathrm{S}}}{D} = \frac{\unit[20]{N}}{\unit[650]{\frac{N}{m}
       }} \approx \unit[0,031]{m}
 
   Die Schraubenfeder wird somit um :math:`\unit[0,031]{m} = \unit[3,1]{cm}`
   gedehnt.
 
-  :ref:`Zurück zur Aufgabe <Hookesches-Gesetz-03>`
+  :ref:`Zurück zur Aufgabe <dyna07>`
 
 ----
 
-.. _Radialkraft-01-Lösung:
+.. _dyna08l:
 
 * Damit das Fahrzeug nicht aus der Kurve gleitet, muss die Haftreibungskraft
-  :math:`F _{\rm{H}}` zwischen der Straße und den Reifen mindestens genauso
+  :math:`F_{\mathrm{H}}` zwischen der Straße und den Reifen mindestens genauso
   groß sein wie die zum Durchfahren der Kurve nötige Radialkraft :math:`F
-  _{\rm{rad}}`, es muss also gelten:
+  _{\mathrm{rad}}`, es muss also gelten:
 
   .. math::
 
-      F _{\rm{H}} &= F _{\rm{rad}} \\[4pt]
-      \mu _{\rm{H}} \cdot m \cdot g &= m \cdot \frac{v^2}{r} \\
-      \Rightarrow r &= \frac{v^2}{\mu _{\rm{H}}\cdot g} \\
+      F_{\mathrm{H}} &= F_{\mathrm{rad}} \\[4pt]
+      \mu_{\mathrm{H}} \cdot m \cdot g &= m \cdot \frac{v^2}{r} \\
+      \Rightarrow r &= \frac{v^2}{\mu_{\mathrm{H}}\cdot g} \\
 
   Der Mindestradius :math:`r` der Kurvenbahn beim Durchfahren mit einer
   bestimmten Geschwindigkeit :math:`v` ist also unabhängig von der
-  Fahrzeugmasse. Mit :math:`v = \unit[36]{km/h} = \unit[10]{m/s}`, :math:`\mu
-  _{\rm{H}} = 0,8` und :math:`g = \unit[9,81]{\frac{m}{s^2}}` folgt:
+  Fahrzeugmasse. Mit :math:`v = \unit[36]{km/h} = \unit[10]{m/s}`,
+  :math:`\mu_{\mathrm{H}} = 0,8` und :math:`g = \unit[9,81]{\frac{m}{s^2}}`
+  folgt:
 
   .. math::
 
-      r = \frac{v^2}{ \mu _{\rm{H}} \cdot g} =
+      r = \frac{v^2}{ \mu_{\mathrm{H}} \cdot g} =
       \frac{\left(\unit[10]{\frac{m}{s}}\right)^2 }{0,8 \cdot
       \unit[9,81]{\frac{m}{s^2}}} \approx \unit[12,75]{m}
 
   Der Mindestradius beträgt somit knapp :math:`\unit[13]{m}`.
 
-  :ref:`Zurück zur Aufgabe <Radialkraft-01>`
+  :ref:`Zurück zur Aufgabe <dyna08>`
 
-.. raw:: latex
+----
 
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 

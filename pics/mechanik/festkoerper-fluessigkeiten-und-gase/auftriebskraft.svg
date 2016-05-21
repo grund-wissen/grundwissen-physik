@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -16,10 +17,62 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="auftriebskraft.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.61099065"
+     inkscape:cx="333.65276"
+     inkscape:cy="637.01655"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="494.27925,681.2388"
+       id="guide6657" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="371.47107,589.39499"
+       id="guide6659" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="382.57541,439.33249"
+       id="guide6661" />
+  </sodipodi:namedview>
   <title
      id="title5438">Schweredruck und Auftriebskraft</title>
   <defs
      id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         id="path5091"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
     <marker
        style="overflow:visible"
        id="Arrow2Mend"
@@ -1300,30 +1353,6 @@
          transform="scale(-0.6,-0.6)" />
     </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.2219813"
-     inkscape:cx="305.93783"
-     inkscape:cy="357.81658"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:object-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:window-width="1600"
-     inkscape:window-height="1150"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:snap-global="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -1395,10 +1424,18 @@
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.39865661;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect5337"
-       width="562.04822"
+       width="622.22845"
        height="523.55701"
-       x="91.023132"
+       x="60.933025"
        y="264.40259"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#cccccc;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 543.16882,371.12338 139.99266,0"
+       id="path7747"
+       inkscape:connector-curvature="0"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
@@ -1409,6 +1446,14 @@
        height="377.07028"
        x="200.92564"
        y="371.12338"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7749"
+       d="m 543.16882,462.96719 139.99266,0"
+       style="color:#000000;fill:none;stroke:#cccccc;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
@@ -1425,6 +1470,14 @@
        id="path5244"
        d="m 543.22822,749.19572 0,-445.14204"
        style="fill:none;stroke:#9b9c9f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;fill:none;stroke:#cccccc;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 543.16882,613.02966 139.99266,0"
+       id="path7751"
+       inkscape:connector-curvature="0"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
@@ -1526,6 +1579,358 @@
            id="path14214"
            d="m 270.51928,493.95819 38.76869,0"
            style="color:#000000;fill:none;stroke:#aa0000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+    </g>
+    <g
+       style="fill:#aa0000;fill-opacity:1"
+       transform="matrix(3,0,0,3,29.511455,193.58947)"
+       ns0:text="$p_1$"
+       ns0:preamble="/home/waldgeist/data/homepage/inkscape-preamble.tex"
+       id="g3589"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs3591">
+        <g
+           id="g3593">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-f0ee78a9-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path3596" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-f0ee78a9-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 0.453125,1.21875 C 0.375,1.5625 0.34375,1.625 -0.09375,1.625 c -0.109375,0 -0.21875,0 -0.21875,0.1875 0,0.078125 0.046875,0.125 0.125,0.125 0.265625,0 0.5625,-0.03125 0.828125,-0.03125 0.34375,0 0.671875,0.03125 1,0.03125 0.046875,0 0.171875,0 0.171875,-0.203125 C 1.8125,1.625 1.71875,1.625 1.578125,1.625 c -0.5,0 -0.5,-0.0625 -0.5,-0.15625 0,-0.125 0.421875,-1.75 0.484375,-2 0.125,0.296875 0.40625,0.640625 0.921875,0.640625 1.15625,0 2.40625,-1.453125 2.40625,-2.921875 0,-0.9375 -0.578125,-1.59375 -1.328125,-1.59375 -0.5,0 -0.984375,0.359375 -1.3125,0.75 -0.09375,-0.546875 -0.53125,-0.75 -0.890625,-0.75 -0.46875,0 -0.65625,0.390625 -0.734375,0.5625 C 0.4375,-3.5 0.3125,-2.90625 0.3125,-2.875 c 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.015625 0.171875,-0.234375 0.171875,-0.703125 0.375,-1.1875 0.734375,-1.1875 0.171875,0 0.3125,0.078125 0.3125,0.453125 0,0.234375 -0.03125,0.34375 -0.078125,0.515625 z m 1.75,-4.328125 C 2.265625,-3.375 2.546875,-3.65625 2.71875,-3.8125 c 0.359375,-0.296875 0.640625,-0.375 0.8125,-0.375 0.390625,0 0.640625,0.34375 0.640625,0.9375 0,0.59375 -0.328125,1.734375 -0.515625,2.109375 -0.34375,0.703125 -0.8125,1.03125 -1.1875,1.03125 C 1.8125,-0.109375 1.6875,-0.9375 1.6875,-1 c 0,-0.015625 0,-0.03125 0.03125,-0.15625 z m 0,0"
+               id="path3599" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-f0ee78a9-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path3602" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-f0ee78a9-3">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.328125,-4.4375 c 0,-0.1875 0,-0.1875 -0.203125,-0.1875 -0.453125,0.4375 -1.078125,0.4375 -1.359375,0.4375 l 0,0.25 c 0.15625,0 0.625,0 1,-0.1875 l 0,3.546875 c 0,0.234375 0,0.328125 -0.6875,0.328125 l -0.265625,0 0,0.25 c 0.125,0 0.984375,-0.03125 1.234375,-0.03125 0.21875,0 1.09375,0.03125 1.25,0.03125 l 0,-0.25 -0.265625,0 c -0.703125,0 -0.703125,-0.09375 -0.703125,-0.328125 z m 0,0"
+               id="path3605" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#aa0000;fill-opacity:1"
+         id="textext-f0ee78a9-4">
+        <g
+           style="fill:#aa0000;fill-opacity:1"
+           id="g3608">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             style="fill:#aa0000;fill-opacity:1"
+             xlink:href="#textext-f0ee78a9-1"
+             x="118.801"
+             y="83.403"
+             id="use3610" />
+        </g>
+        <g
+           style="fill:#aa0000;fill-opacity:1"
+           id="g3612">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             style="fill:#aa0000;fill-opacity:1"
+             xlink:href="#textext-f0ee78a9-3"
+             x="123.814"
+             y="84.898003"
+             id="use3614" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4034"
+       style="fill:#aa0000;fill-opacity:1"
+       transform="matrix(3,0,0,3,29.511455,412.78863)"
+       ns0:preamble="/home/waldgeist/data/homepage/inkscape-preamble.tex"
+       ns0:text="$p_2$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs4036">
+        <g
+           id="g4038">
+          <symbol
+             id="textext-e6962f96-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4041"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-e6962f96-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4044"
+               d="M 0.453125,1.21875 C 0.375,1.5625 0.34375,1.625 -0.09375,1.625 c -0.109375,0 -0.21875,0 -0.21875,0.1875 0,0.078125 0.046875,0.125 0.125,0.125 0.265625,0 0.5625,-0.03125 0.828125,-0.03125 0.34375,0 0.671875,0.03125 1,0.03125 0.046875,0 0.171875,0 0.171875,-0.203125 C 1.8125,1.625 1.71875,1.625 1.578125,1.625 c -0.5,0 -0.5,-0.0625 -0.5,-0.15625 0,-0.125 0.421875,-1.75 0.484375,-2 0.125,0.296875 0.40625,0.640625 0.921875,0.640625 1.15625,0 2.40625,-1.453125 2.40625,-2.921875 0,-0.9375 -0.578125,-1.59375 -1.328125,-1.59375 -0.5,0 -0.984375,0.359375 -1.3125,0.75 -0.09375,-0.546875 -0.53125,-0.75 -0.890625,-0.75 -0.46875,0 -0.65625,0.390625 -0.734375,0.5625 C 0.4375,-3.5 0.3125,-2.90625 0.3125,-2.875 c 0,0.109375 0.09375,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.015625 0.171875,-0.234375 0.171875,-0.703125 0.375,-1.1875 0.734375,-1.1875 0.171875,0 0.3125,0.078125 0.3125,0.453125 0,0.234375 -0.03125,0.34375 -0.078125,0.515625 z m 1.75,-4.328125 C 2.265625,-3.375 2.546875,-3.65625 2.71875,-3.8125 c 0.359375,-0.296875 0.640625,-0.375 0.8125,-0.375 0.390625,0 0.640625,0.34375 0.640625,0.9375 0,0.59375 -0.328125,1.734375 -0.515625,2.109375 -0.34375,0.703125 -0.8125,1.03125 -1.1875,1.03125 C 1.8125,-0.109375 1.6875,-0.9375 1.6875,-1 c 0,-0.015625 0,-0.03125 0.03125,-0.15625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-e6962f96-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4047"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-e6962f96-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4050"
+               d="m 3.515625,-1.265625 -0.234375,0 c -0.015625,0.15625 -0.09375,0.5625 -0.1875,0.625 -0.046875,0.046875 -0.578125,0.046875 -0.6875,0.046875 l -1.28125,0 c 0.734375,-0.640625 0.984375,-0.84375 1.390625,-1.171875 0.515625,-0.40625 1,-0.84375 1,-1.5 0,-0.84375 -0.734375,-1.359375 -1.625,-1.359375 -0.859375,0 -1.453125,0.609375 -1.453125,1.25 0,0.34375 0.296875,0.390625 0.375,0.390625 0.15625,0 0.359375,-0.125 0.359375,-0.375 0,-0.125 -0.046875,-0.375 -0.40625,-0.375 C 0.984375,-4.21875 1.453125,-4.375 1.78125,-4.375 c 0.703125,0 1.0625,0.546875 1.0625,1.109375 0,0.609375 -0.4375,1.078125 -0.65625,1.328125 L 0.515625,-0.265625 C 0.4375,-0.203125 0.4375,-0.1875 0.4375,0 l 2.875,0 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-e6962f96-4"
+         style="fill:#aa0000;fill-opacity:1">
+        <g
+           id="g4053"
+           style="fill:#aa0000;fill-opacity:1">
+          <use
+             id="use4055"
+             y="83.403"
+             x="118.801"
+             xlink:href="#textext-e6962f96-1"
+             style="fill:#aa0000;fill-opacity:1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g4057"
+           style="fill:#aa0000;fill-opacity:1">
+          <use
+             id="use4059"
+             y="84.898003"
+             x="123.814"
+             xlink:href="#textext-e6962f96-3"
+             style="fill:#aa0000;fill-opacity:1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <path
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.00000002, 6.00000004;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 579.36439,459.46442 0,-84.49925"
+       id="path4269"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g7435"
+       style="fill:#008000;fill-opacity:1"
+       transform="matrix(2.8752546,0,0,2.8752546,248.6052,185.21176)"
+       ns0:preamble="/home/waldgeist/data/homepage/inkscape-preamble.tex"
+       ns0:text="$h_1$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs7437">
+        <g
+           id="g7439">
+          <symbol
+             id="textext-3e0ce699-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path7442"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-3e0ce699-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path7445"
+               d="m 2.859375,-6.8125 c 0,0 0,-0.109375 -0.125,-0.109375 -0.234375,0 -0.953125,0.078125 -1.21875,0.109375 -0.078125,0 -0.1875,0.015625 -0.1875,0.1875 0,0.125 0.09375,0.125 0.234375,0.125 0.484375,0 0.5,0.0625 0.5,0.171875 L 2.03125,-6.125 0.59375,-0.390625 c -0.046875,0.140625 -0.046875,0.15625 -0.046875,0.21875 0,0.234375 0.203125,0.28125 0.296875,0.28125 0.15625,0 0.3125,-0.125 0.359375,-0.265625 l 0.1875,-0.75 0.21875,-0.890625 C 1.671875,-2.03125 1.734375,-2.25 1.78125,-2.46875 1.796875,-2.53125 1.890625,-2.859375 1.890625,-2.921875 1.921875,-3.015625 2.234375,-3.5625 2.578125,-3.84375 2.796875,-4 3.09375,-4.1875 3.53125,-4.1875 c 0.421875,0 0.53125,0.34375 0.53125,0.703125 0,0.53125 -0.375,1.625 -0.609375,2.234375 C 3.375,-1.03125 3.3125,-0.90625 3.3125,-0.703125 c 0,0.46875 0.359375,0.8125 0.828125,0.8125 0.9375,0 1.296875,-1.453125 1.296875,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.109375,0 -0.109375,0.03125 -0.15625,0.1875 -0.140625,0.53125 -0.46875,1.234375 -1.015625,1.234375 -0.171875,0 -0.234375,-0.09375 -0.234375,-0.328125 0,-0.25 0.078125,-0.484375 0.171875,-0.703125 0.15625,-0.4375 0.609375,-1.625 0.609375,-2.203125 0,-0.640625 -0.390625,-1.0625 -1.140625,-1.0625 -0.625,0 -1.109375,0.3125 -1.484375,0.765625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-3e0ce699-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path7448"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-3e0ce699-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path7451"
+               d="m 2.328125,-4.4375 c 0,-0.1875 0,-0.1875 -0.203125,-0.1875 -0.453125,0.4375 -1.078125,0.4375 -1.359375,0.4375 l 0,0.25 c 0.15625,0 0.625,0 1,-0.1875 l 0,3.546875 c 0,0.234375 0,0.328125 -0.6875,0.328125 l -0.265625,0 0,0.25 c 0.125,0 0.984375,-0.03125 1.234375,-0.03125 0.21875,0 1.09375,0.03125 1.25,0.03125 l 0,-0.25 -0.265625,0 c -0.703125,0 -0.703125,-0.09375 -0.703125,-0.328125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-3e0ce699-4"
+         style="fill:#008000">
+        <g
+           id="g7454"
+           style="fill:#008000;fill-opacity:1">
+          <use
+             id="use7456"
+             y="83.403"
+             x="118.801"
+             xlink:href="#textext-3e0ce699-1"
+             style="fill:#008000"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g7458"
+           style="fill:#008000;fill-opacity:1">
+          <use
+             id="use7460"
+             y="84.898003"
+             x="124.541"
+             xlink:href="#textext-3e0ce699-3"
+             style="fill:#008000"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:connector-curvature="0"
+       id="path6655"
+       d="m 644.8296,609.15841 0,-234.16375"
+       style="color:#000000;fill:none;stroke:#008000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.00000003, 6.00000006;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       ns0:text="$h_2$"
+       ns0:preamble="/home/waldgeist/data/homepage/inkscape-preamble.tex"
+       transform="matrix(3,0,0,3,298.55227,250.00784)"
+       style="fill:#008000;fill-opacity:1"
+       id="g6912"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/festkoerper-fluessigkeiten-und-gase/auftriebskraft.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs6914">
+        <g
+           id="g6916">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-827ee0f1-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path6919" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-827ee0f1-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 2.859375,-6.8125 c 0,0 0,-0.109375 -0.125,-0.109375 -0.234375,0 -0.953125,0.078125 -1.21875,0.109375 -0.078125,0 -0.1875,0.015625 -0.1875,0.1875 0,0.125 0.09375,0.125 0.234375,0.125 0.484375,0 0.5,0.0625 0.5,0.171875 L 2.03125,-6.125 0.59375,-0.390625 c -0.046875,0.140625 -0.046875,0.15625 -0.046875,0.21875 0,0.234375 0.203125,0.28125 0.296875,0.28125 0.15625,0 0.3125,-0.125 0.359375,-0.265625 l 0.1875,-0.75 0.21875,-0.890625 C 1.671875,-2.03125 1.734375,-2.25 1.78125,-2.46875 1.796875,-2.53125 1.890625,-2.859375 1.890625,-2.921875 1.921875,-3.015625 2.234375,-3.5625 2.578125,-3.84375 2.796875,-4 3.09375,-4.1875 3.53125,-4.1875 c 0.421875,0 0.53125,0.34375 0.53125,0.703125 0,0.53125 -0.375,1.625 -0.609375,2.234375 C 3.375,-1.03125 3.3125,-0.90625 3.3125,-0.703125 c 0,0.46875 0.359375,0.8125 0.828125,0.8125 0.9375,0 1.296875,-1.453125 1.296875,-1.53125 0,-0.109375 -0.078125,-0.109375 -0.109375,-0.109375 -0.109375,0 -0.109375,0.03125 -0.15625,0.1875 -0.140625,0.53125 -0.46875,1.234375 -1.015625,1.234375 -0.171875,0 -0.234375,-0.09375 -0.234375,-0.328125 0,-0.25 0.078125,-0.484375 0.171875,-0.703125 0.15625,-0.4375 0.609375,-1.625 0.609375,-2.203125 0,-0.640625 -0.390625,-1.0625 -1.140625,-1.0625 -0.625,0 -1.109375,0.3125 -1.484375,0.765625 z m 0,0"
+               id="path6922" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-827ee0f1-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path6925" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-827ee0f1-3">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.515625,-1.265625 -0.234375,0 c -0.015625,0.15625 -0.09375,0.5625 -0.1875,0.625 -0.046875,0.046875 -0.578125,0.046875 -0.6875,0.046875 l -1.28125,0 c 0.734375,-0.640625 0.984375,-0.84375 1.390625,-1.171875 0.515625,-0.40625 1,-0.84375 1,-1.5 0,-0.84375 -0.734375,-1.359375 -1.625,-1.359375 -0.859375,0 -1.453125,0.609375 -1.453125,1.25 0,0.34375 0.296875,0.390625 0.375,0.390625 0.15625,0 0.359375,-0.125 0.359375,-0.375 0,-0.125 -0.046875,-0.375 -0.40625,-0.375 C 0.984375,-4.21875 1.453125,-4.375 1.78125,-4.375 c 0.703125,0 1.0625,0.546875 1.0625,1.109375 0,0.609375 -0.4375,1.078125 -0.65625,1.328125 L 0.515625,-0.265625 C 0.4375,-0.203125 0.4375,-0.1875 0.4375,0 l 2.875,0 z m 0,0"
+               id="path6928" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#008000"
+         id="textext-827ee0f1-4">
+        <g
+           style="fill:#008000;fill-opacity:1"
+           id="g6931">
+          <use
+             style="fill:#008000"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-827ee0f1-1"
+             x="118.801"
+             y="83.403"
+             id="use6933" />
+        </g>
+        <g
+           style="fill:#008000;fill-opacity:1"
+           id="g6935">
+          <use
+             style="fill:#008000"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-827ee0f1-3"
+             x="124.541"
+             y="84.898003"
+             id="use6937" />
+        </g>
       </g>
     </g>
   </g>

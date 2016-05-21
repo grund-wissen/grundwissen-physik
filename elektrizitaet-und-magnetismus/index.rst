@@ -4,7 +4,9 @@ Elektrizität und Magnetismus
 ============================
 
 Die Elektrizitätslehre ist die Wissenschaft der elektrischen Ladungen und der
-mit ihnen verknüpften elektrischen und magnetischen Felder.
+mit ihnen verknüpften elektrischen und magnetischen Felder; gleichzeitig ist sie
+die Basis der :ref:`Elektronik <gwe:Elektronik>` als anwendungsorientierter
+Fachrichtung.
 
 .. toctree::
     :maxdepth: 2

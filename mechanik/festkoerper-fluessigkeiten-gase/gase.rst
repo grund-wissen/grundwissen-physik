@@ -6,11 +6,65 @@ Mechanik der Gase
 In der Ärodynamik werden die mechanischen Eigenschaften von Gasen,
 insbesondere von Luft, untersucht.
 
+.. _Druck und Volumen:
 
-.. _Der Luftdruck:
+Druck und Volumen
+-----------------
 
-Der Luftdruck
--------------
+Ein wesentlicher Unterschied zwischen Gasen und Flüssigkeiten besteht darin,
+dass Gase verhältnismäßig leicht komprimierbar sind; ihr Volumen :math:`V` nimmt
+also ab, wenn von außen ein erhöhter Druck :math:`p` auf einen verformbaren
+Gasbehälter (beispielsweise einen Luftballon) ausgeübt wird. Lässt der Druck
+wieder nach, so nimmt entsprechend auch das Volumen des Gases wieder zu. 
+
+Bleibt die Temperatur des Gases während eines Kompressions- beziehungsweise
+Expansionsvorgangs konstant, so gilt: [#]_
+
+.. math::
+    :label: eqn-boyle-mariotte
+
+      p_1 \cdot V_1 = p_2 \cdot V_2
+
+*Wichtig:* Für :math:`p_1` und :math:`p_2` müssen bei Verwendung dieser Formel
+stets **absolute** Druckwerte eingesetzt werden; zu einem mittels eines
+Manometers gemessenen Druckwert muss also stets der Luftdruck (rund
+:math:`\unit[1]{bar}`) hinzu addiert werden.
+
+Die Volumina eines Gases verhalten sich sich also indirekt proportional zu den
+jeweils vorherrschenden Druckwerten. Grafisch kann dieser Zusammenhang
+mittels eines :math:`p(V)`-Diagramms dargestellt werden:
+
+.. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/diagramm-boyle-mariotte.png
+    :name: fig-boyle-mariotte
+    :alt:  fig-boyle-mariotte
+    :align: center
+    :width: 50%
+
+    Das Boyle-Mariottesche Gesetz: Indirekte Proportionalität zwischen Druck und
+    Volumen.
+
+    .. only:: html
+
+        :download:`SVG: Diagramm Boyle-Mariotte
+        <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/diagramm-boyle-mariotte.svg>`
+
+
+Die Kurve im :math:`p(V)`-Diagramm entspricht wegen :math:`p \propto
+\frac{1}{V}` einer :ref:`Hyperbel <gwm:Hyperbeln>`; man kann erkennen, dass das
+Volumen des Gases auch bei sehr hohem Druck nicht gleich Null werden kann, und
+umgekehrt durch eine zunehmende "Verdünnung" der Luft ebenso immer ein Restdruck
+verbleibt. Mittels so genannten Vakuumpumpen, die im Gegensatz zu Kompressoren
+die Luft lediglich immer weiter verdünnen, kann somit kein echtes Vakuum erzeugt
+werden, sondern nur ein sich asymptotisch an :math:`p=\unit[0]{Pa}` annähernder
+Druckwert.
+
+
+.. _Luftdruck:
+.. _Barometrische Höhenformel:
+.. _Luftdruck und Barometrische Höhenformel:
+
+Luftdruck und Barometrische Höhenformel
+---------------------------------------
 
 Gase haben -- im Verhältnis zu Flüssigkeiten -- eine nur sehr geringe Masse.
 Während ein Liter Wasser ein Kilogramm schwer ist, wiegt ein Liter Luft unter
@@ -19,22 +73,9 @@ unserem Planeten das Gewicht der Luft, ähnlich wie beim :ref:`Schweredruck in
 Flüssigkeiten <Schweredruck>`, einen so genannten Luftdruck, der umso größer
 ist, je weiter unten man sich in dem die Erde umgebenden "Luftmeer" befindet.
 
-Im Unterschied zu Flüssigkeiten sind Gase jedoch stark komprimierbar, d.h. ihr
-Volumen :math:`V` nimmt stark ab, wenn von außen ein erhöhter Druck :math:`p`
-auf den Gasbehälter ausgeübt wird. Lässt der Druck nach, so nimmt entsprechend
-auch das Volumen des Gases wieder zu. Hierbei gilt: [#]_
-
-.. math::
-    :label: eqn-boyle-mariotte
-
-      p _{\rm{1}} \cdot V _{\rm{1}} = p _{\rm{2}} \cdot V _{\rm{2}}
-
-Bei Standardbedingungen, das heißt einem Luftdruck von :math:`p _{\rm{0}} =
-\unit[1,01325]{bar}` und einer Temperatur von :math:`T _{\rm{0}} =
-\unit[0]{\degree C}` nehmen fast alle Gase ein Volumen von :math:`V _{\rm{0}} =
-\unit[22,4]{l}` ein. Der "normale" Luftdruck :math:`p _0` in Bodennähe
-resultiert aus dem Gewicht der darüber liegenden Luftschichten. Da
-:math:`\unit[1]{bar} = \unit[10^5]{Pa} = \unit[10^5]{\frac{N}{m}}` gilt,
+Der "normale" Luftdruck :math:`p_0 \approx \unit[1,0]{bar}` in Bodennähe
+resultiert aus dem Gewicht der darüber liegenden Luftschichten. Da für
+:math:`\unit[1]{bar} = \unit[10^5]{Pa} = \unit[10^5]{\frac{N}{m^2}}` gilt,
 entspricht der durch die Luft ausgeübte Druck in Bodennähe rund einem Gewicht
 von :math:`\unit[10]{t}` je Quadratmeter beziehungsweise :math:`\unit[1]{kg}` je
 Quadrat-Zentimeter. [#]_
@@ -52,9 +93,13 @@ Quadrat-Zentimeter. [#]_
         :download:`SVG: Die Größe des Luftdrucks
         <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/luftdruck.svg>`
 
-Da die Masse eines Gases in einem geschlossenen System unabhängig vom Druck
-gleich bleibt, bewirkt eine Veränderung des Gasvolumens :math:`V` auch eine
-Veränderung der Gasdichte :math:`\rho`. Es gilt: [#]_
+Bei Standardbedingungen, das heißt einem Luftdruck von :math:`p_0 =
+\unit[1,01325]{bar}` und einer Temperatur von :math:`T_0 = \unit[0]{\degree C}`
+nimmt ein Mol eines beliebigen Gases ein Volumen von :math:`V_0 =
+\unit[22,4]{l}` ein (:ref:`"Normalvolumen" <Normalvolumen eines Gases>`). Da die
+Masse eines Gases in einem geschlossenen System gleich bleibt, bewirkt eine
+Veränderung des Gasvolumens :math:`V` neben einer Veränderung des Drucks auch
+eine Veränderung der Gasdichte :math:`\rho`. Es gilt: [#]_
 
 .. math::
     :label: eqn-gas-dichte
@@ -214,8 +259,8 @@ Luft mit zunehmender Höhe abnimmt.
 
     .. math::
 
-        \int_{p_0}^{p} \frac{\mathrm{d} p}{p} = \int_{0}^{h} -\frac{\rho_0}{p_0} \cdot g
-        \cdot \mathrm{d}  h
+        \int_{p_0}^{p} \frac{\mathrm{d} p}{p} = \int_{0}^{h} -\frac{\rho_0}{p_0}
+        \cdot g \cdot \mathrm{d}  h
 
     Auf der linken Seite wurden die Integralgrenzen gemäß einer
     :ref:`Integration durch Substitution <gwm:Integration durch Substitution>`
@@ -259,4 +304,16 @@ Luft mit zunehmender Höhe abnimmt.
     :math:`\unit[10]{hPa}` erreichen. Für viele prinzipielle Versuche,
     beispielsweise Magdeburger Halbkugeln oder Fallröhren reicht dieser Druck
     bereits aus.
+
+.. raw:: html
+
+    <hr />
+
+.. hint::
+
+    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben Mechanik der
+    Gase>`.
+
+.. :ref:`Experimente <Experimente Mechanik der Gase>` und 
+
 

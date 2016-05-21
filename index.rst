@@ -34,14 +34,7 @@ Physik
     waermelehre/index.rst
     elektrizitaet-und-magnetismus/index.rst
     atomphysik/index.rst
-    experimente.rst
-    aufgaben-und-loesungen.rst
+    experimente-aufgaben-loesungen.rst
     tabellen.rst
     links-und-quellen.rst
-
-.. Anzahl der Aufgaben bzw. Versuche ausgeben:
-
-.. find ./ -name "*aufgaben*.rst"  | xargs grep -c "^\* "         | awk -F ":" '{sum+=$2} END {print sum}'
-.. find ./ -name "*loesungen*.rst" | xargs grep -c "^\* "         | awk -F ":" '{sum+=$2} END {print sum}'
-.. find ./ -name "*experimente*.rst"  | xargs grep -c ".. rubric:: " | awk -F ":" '{sum+=$2} END {print sum}'
 

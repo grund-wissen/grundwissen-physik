@@ -21,28 +21,25 @@ der Kraft und die Länge des Weges, entlang dessen die Kraft wirkt, bekannt sein
 .. math::
     :label: eqn-arbeit
 
-    W = F \cdot s _{\rm{\parallel}}
+    W = F \cdot s_{\mathrm{\parallel}}
 
-.. Wenn \alpha Winkel zwischen Kraftrichtung und Wegrichtung :math:`(0 < \alpha < 90 \degree)`, so W = F \cdot s \cdot \cos{\alpha}
-
-..
-    Wenn Kraft nicht konstant, sondern Funktion des Weges s, und stehen
-    gegebenenfalls Kraft und Weg im Winkel \alpha zueinander, so ist die Arbeit
-    gleich dem Integral ueber :math:`F(s)`.
+.. Wenn \alpha Winkel zwischen Kraftrichtung und Wegrichtung :math:`(0 < \alpha
+.. < 90 \degree)`, so W = F \cdot s \cdot \cos{\alpha}
 
     .. math::
 
         W = \int_{s_1}^{s^2} F  \cdot  \cos{\alpha} \cdot \mathrm{d} s
 
-    In einem F-S-Diagramm entspricht die verrichtete Arbeit der Flaeche
-    unterhalb der Kurve von :math:`F(s)`.
+    In einem :math:`F(s)`-Diagramm entspricht die zwischen zwei Punkten
+    :math:`s_1` und :math:`s_2` verrichtete Arbeit der Fläche zwischen dem
+    entsprechenden Abschnitt des Graphen und der horizontalen :math:`s`-Achse.
 
 
 *Einheit:*
 
     Die Einheit der Arbeit ist nach Gleichung :eq:`eqn-arbeit` das Produkt der
-    Einheiten von Kraft und Weg. Sie wird zu Ehren des Physikers `James Prescott
-    Joule <https://de.wikipedia.org/wiki/James_Prescott_Joule>`_ kurzerhand Joule
+    Einheiten von Kraft und Weg. Sie wird nach `James Prescott Joule
+    <https://de.wikipedia.org/wiki/James_Prescott_Joule>`_ kurzerhand Joule
     :math:`\unit[]{(J)}` genannt.
 
 .. math::
@@ -51,10 +48,10 @@ der Kraft und die Länge des Weges, entlang dessen die Kraft wirkt, bekannt sein
 
 *Beispiele:*
 
-* Die Gewichtskraft :math:`F _{\rm{G}}` einer Tafel Schokolade :math:`( m =
+* Die Gewichtskraft :math:`F_{\mathrm{G}}` einer Tafel Schokolade :math:`( m =
   \unit[100]{g})` entspricht in guter Näherung :math:`\unit[1]{N}`. Hebt man
   eine Tafel Schokolade einen Meter weit an (egal von welcher Position aus), so
-  verrichtet man dabei eine Arbeit von :math:`W = F _{\rm{G}} \cdot s =
+  verrichtet man dabei eine Arbeit von :math:`W = F_{\mathrm{G}} \cdot s =
   \unit[1]{N} \cdot \unit[1]{m} = \unit[1]{J}`.
 
 * Hebt man :math:`2, 3, 4, \ldots`  Tafeln Schokolade einen Meter weit an, so
@@ -95,17 +92,18 @@ dafür nötig.
 
 *Definition:*
 
-    Die Hubarbeit :math:`W _{\rm{Hub}}` ist proportional zur :ref:`Gewichtskraft
-    <Gewichtskraft>` :math:`F _{\rm{ G}}` eines angehobenen Körpers und zur
-    Hubhöhe :math:`h`:
+    Die Hubarbeit :math:`W_{\mathrm{Hub}}` ist proportional zur
+    :ref:`Gewichtskraft <Gewichtskraft>` :math:`F_{\mathrm{ G}}` eines
+    angehobenen Körpers und zur Hubhöhe :math:`h`:
 
 .. math::
     :label: eqn-hubarbeit
 
-    W _{\rm{Hub}} = F _{\rm{G}} \cdot h
+    W_{\mathrm{Hub}} = F_{\mathrm{G}} \cdot h
 
-Die Hubarbeit kann mit Hilfe der Formel für die Gewichtskraft (:math:`F _{\rm{G}} = m
-\cdot g`) auch als :math:`W _{\rm{Hub}} = m \cdot g \cdot h` geschrieben werden.
+Die Hubarbeit kann mit Hilfe der Formel für die Gewichtskraft
+(:math:`F_{\mathrm{G}} = m \cdot g`) auch als :math:`W_{\mathrm{Hub}} = m \cdot
+g \cdot h` geschrieben werden.
 
 
 .. index::
@@ -119,17 +117,17 @@ Reibungskraft eine gleich große Gegenkraft entgegenwirken.
 
 *Definition:*
 
-    Die Reibungsarbeit :math:`W _{\rm{Reib}}` ist proportional zur
-    :ref:`Reibungskraft <Reibungskraft>` :math:`F _{\rm{R}}` und zur
+    Die Reibungsarbeit :math:`W_{\mathrm{Reib}}` ist proportional zur
+    :ref:`Reibungskraft <Reibungskraft>` :math:`F_{\mathrm{R}}` und zur
     zurückgelegten Wegstrecke :math:`s`:
 
 .. math::
     :label: eqn-reibungsarbeit
 
-    W _{\rm{Reib}} = F _{\rm{R}} \cdot s
+    W_{\mathrm{Reib}} = F_{\mathrm{R}} \cdot s
 
 Beim gleichzeitigen Auftreten mehrerer Reibungskräfte (z.B. Rollreibung und
-Luftwiderstand) entspricht :math:`F _{\rm{R}}` der Summe aller auftretenden
+Luftwiderstand) entspricht :math:`F_{\mathrm{R}}` der Summe aller auftretenden
 Reibungskräfte.
 
 
@@ -145,36 +143,37 @@ gleichmäßig mit der Auslenkung zu:
 
 * Die anfängliche Spannkraft der Feder in der Ruhelage ist Null.
 * Wird die Feder um eine Wegstrecke :math:`s` ausgelenkt, so beträgt die
-  :ref:`Spannkraft <Spannkraft>` der Feder :math:`F _{\rm{S}} = -k \cdot s`.
+  :ref:`Spannkraft <Spannkraft>` der Feder :math:`F_{\mathrm{S}} = -k \cdot s`.
 
 
 Entlang der Strecke :math:`s` muss im Durchschnitt nur die Hälfte der
-(maximalen) Spannkraft :math:`F _{\rm{S}}` am Auslenkungspunkt aufgewendet
-werden. Für die durchschnittlich nötige Kraft :math:`\bar{F}_{\rm{S}}` gilt
+(maximalen) Spannkraft :math:`F_{\mathrm{S}}` am Auslenkungspunkt aufgewendet
+werden. Für die durchschnittlich nötige Kraft :math:`\bar{F}_{\mathrm{S}}` gilt
 also:
 
 .. math::
 
-    \bar{F} _{\rm{S}} = \frac{1}{2} \cdot F _{\rm{s}}
+    \bar{F} _{\mathrm{S}} = \frac{1}{2} \cdot F_{\mathrm{s}}
 
 Dies gilt allgemein für elastische Verformungen.
 
 *Definition:*
 
     Die zur Verformung eines elastischen Körpers (z.B. einer Schraubenfeder)
-    nötige Spannarbeit :math:`W _{\rm{Spann}}` ist proportional zur
-    durchschnittlichen Spannkraft :math:`\bar{F} _{\rm{S}} = \frac{1}{2} \cdot F
-    _{\rm{S}}` und der dazugehörigen Auslenkung :math:`s`:
+    nötige Spannarbeit :math:`W_{\mathrm{Spann}}` ist proportional zur
+    durchschnittlichen Spannkraft :math:`\bar{F} _{\mathrm{S}} = \frac{1}{2}
+    \cdot F_{\mathrm{S}}` und der dazugehörigen Auslenkung :math:`s`:
 
 .. math::
     :label: eqn-spannarbeit
 
-    W _{\rm{Spann}} = \bar{F} _{\rm{S}} \cdot s = \frac{1}{2} \cdot F _{\rm{S}} \cdot s
+    W_{\mathrm{Spann}} = \bar{F} _{\mathrm{S}} \cdot s = \frac{1}{2} \cdot
+    F_{\mathrm{S}} \cdot s
 
-Die Spannarbeit kann mit Hilfe der Formel für die Spannkraft (:math:`F _{\rm{S}}
-= - D \cdot s`) auch als :math:`W _{\rm{Spannn}} = \frac{1}{2} \cdot D \cdot
-s^2` geschrieben werden, wobei :math:`D` die (oftmals experimentell zu
-bestimmende) Federkonstante des Körpers angibt.
+Die Spannarbeit kann mit Hilfe der Formel für die Spannkraft
+(:math:`F_{\mathrm{S}} = - D \cdot s`) auch als :math:`W_{\mathrm{Spannn}} =
+\frac{1}{2} \cdot D \cdot s^2` geschrieben werden, wobei :math:`D` die (oftmals
+experimentell zu bestimmende) Federkonstante des Körpers angibt.
 
 
 .. index::
@@ -189,19 +188,19 @@ Beschleunigungsarbeit.
 
 *Definition:*
 
-    Die Beschleunigungsarbeit :math:`W _{\rm{B}}` eines zunächst ruhenden
+    Die Beschleunigungsarbeit :math:`W_{\mathrm{B}}` eines zunächst ruhenden
     Körpers der Masse :math:`m` ist proportional zum Quadrat der
     Endgeschwindigkeit :math:`v`, die dieser erreicht: [#]_
 
 .. math::
     :label: eqn-beschleunigungsarbeit
 
-    W _{\rm{B}} = \frac{1}{2} \cdot m \cdot v^2
+    W_{\mathrm{B}} = \frac{1}{2} \cdot m \cdot v^2
 
-Besitzt der Körper bereits eine Anfangsgeschwindigkeit :math:`v _{\rm{1}}` und
-wird auf eine Endgeschwindigkeit :math:`v _{\rm{2}}` beschleunigt, so beträgt
-die Beschleunigungsarbeit :math:`W _{\rm{B}} = \frac{1}{2} \cdot m \cdot (v_2^2
-- v_1^2)`.
+Besitzt der Körper bereits eine Anfangsgeschwindigkeit :math:`v_1` und wird auf
+eine Endgeschwindigkeit :math:`v_2` beschleunigt, so beträgt die
+Beschleunigungsarbeit :math:`W_{\mathrm{B}} = \frac{1}{2} \cdot m \cdot (v_2^2 -
+v_1^2)`.
 
 
 .. index::
@@ -215,7 +214,7 @@ Die zugehörige Arbeit heißt Rotationsarbeit.
 
 *Definition:*
 
-    Die Rotationsarbeit :math:`W _{\rm{rot}}` eines zunächst ruhenden Körpers
+    Die Rotationsarbeit :math:`W_{\mathrm{rot}}` eines zunächst ruhenden Körpers
     mit :ref:`Trägheitsmoment <Trägheitsmoment>` :math:`J` ist proportional zum
     Quadrat der :ref:`Winkelgeschwindigkeit <Winkelgeschwindigkeit>`
     :math:`\omega`, die dieser erreicht:
@@ -223,15 +222,15 @@ Die zugehörige Arbeit heißt Rotationsarbeit.
 .. math::
     :label: eqn-rotationsarbeit
 
-    W _{\rm{rot}} = \frac{1}{2} \cdot J \cdot \omega^2
+    W_{\mathrm{rot}} = \frac{1}{2} \cdot J \cdot \omega^2
 
-Besitzt der Körper bereits eine Anfangsgeschwindigkeit :math:`\omega _{\rm{1}}`
-und wird auf eine Endgeschwindigkeit :math:`\omega _{\rm{2}}` beschleunigt, so
+Besitzt der Körper bereits eine Anfangsgeschwindigkeit :math:`\omega_1`
+und wird auf eine Endgeschwindigkeit :math:`\omega_2` beschleunigt, so
 muss in Gleichung :eq:`eqn-rotationsarbeit` anstelle :math:`\omega` die
-Differenz :math:`\Delta \omega = \omega _{\rm{2}} - \omega _{\rm{1}}` beider
+Differenz :math:`\Delta \omega = \omega_2 - \omega_1` beider
 Winkelgeschwindigkeiten eingesetzt werden.
 
-.. Rotationsarbeit \Delta W _{\rm{rot}} = M \cdot \Delta \varphi = J \cdot \alpha \cdot \Delta \varphi
+.. Rotationsarbeit \Delta W_{\mathrm{rot}} = M \cdot \Delta \varphi = J \cdot \alpha \cdot \Delta \varphi
 .. = J \cdot (\frac{\Delta \omega}{\Delta t}) \cdot \Delta \varphi
 .. = J \cdot (\frac{1}{2} \cdot \frac{\Delta \varphi}{\Delta t^2}) \cdot \Delta \varphi
 .. = J \cdot (\frac{1}{2} \cdot \frac{\Delta \varphi^2}{\Delta t^2})
@@ -280,17 +279,18 @@ der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher:
 
       F_1 &= \frac{1}{2} \cdot F_2{\color{white}\ldots} \\
       s_1 &= 2 \cdot s_2 \\
-      \Rightarrow F_1 \cdot s_1 = \frac{1}{2} \cdot F_2 &\, \cdot \, 2 \cdot s_2 = F_2 \cdot s_2
+      \Rightarrow F_1 \cdot s_1 = \frac{1}{2} \cdot F_2 &\, \cdot \, 2 \cdot s_2
+      = F_2 \cdot s_2
 
-* Um einen Körper mit einer Gewichtskraft :math:`F _{\rm{G}}` auf eine Höhe
-  :math:`h` zu heben, ist die Hubarbeit :math:`W _{\rm{Hub}} = F _{\rm{G}} \cdot
+* Um einen Körper mit einer Gewichtskraft :math:`F_{\mathrm{G}}` auf eine Höhe
+  :math:`h` zu heben, ist die Hubarbeit :math:`W_{\mathrm{Hub}} = F_{\mathrm{G}} \cdot
   h` nötig. Verschiebt man ihn hingegen entlang des längeren Weges :math:`l`
   einer :ref:`schiefen Ebene <Schiefe Ebene>` nach oben, so ist die nötige
   Kraft :math:`F` um das Verhältnis :math:`\frac{h}{l}` geringer. Es gilt:
 
   .. math::
 
-      F \cdot l = F _{\rm{G}} \cdot h
+      F \cdot l = F_{\mathrm{G}} \cdot h
 
 
 .. raw:: html
@@ -308,12 +308,12 @@ der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher:
 
     .. math::
 
-        W = \sum_{i}^{} F  _{\rm{i}} \cdot s _{\rm{i}}
+        W = \sum_{i}^{} F_{\mathrm{i}} \cdot s_{\mathrm{i}}
 
     Im Fall einer sich kontinuierlich ändernden Kraft wird aus der Summe
     :math:`(\sum_{}^{})` ein Integral :math:`(\int_{}^{})`.
 
-.. [#]  Um die Formel für die Beschleunigungsarbeit :math:`W _{\rm{B}}`
+.. [#]  Um die Formel für die Beschleunigungsarbeit :math:`W_{\mathrm{B}}`
     herzuleiten, geht man von der allgemeinen Definition der Arbeit :math:`W = F
     \cdot s` aus. Für die Kraft :math:`F` kann man das allgemeine Kraftgesetz
     :math:`F = m \cdot a` einsetzen. Für die Wegstrecke kann man die
@@ -325,7 +325,7 @@ der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher:
 
     .. math::
 
-        W _{\rm{B}} = F \cdot s =  (m \cdot a)  \cdot \frac{v^2}{2 \cdot a} =
+        W_{\mathrm{B}} = F \cdot s =  (m \cdot a)  \cdot \frac{v^2}{2 \cdot a} =
         \frac{1}{2} \cdot m \cdot v^2
 
 .. raw:: html
@@ -334,7 +334,7 @@ der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher:
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu mechanischer Arbeit>` und
-    :ref:`Übungsaufgaben <Aufgaben zu mechanischer Arbeit>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Mechanische Arbeit>` und
+    :ref:`Übungsaufgaben <Aufgaben Mechanische Arbeit>`.
 
 

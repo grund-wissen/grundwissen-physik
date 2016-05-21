@@ -1,65 +1,65 @@
-
 .. _Lösungen zur Optik:
 
 Lösungen zur Optik
 ==================
 
-.. _Lösungen zu Ausbreitung des Lichts:
 
-Lösungen zur Ausbreitung des Lichts
------------------------------------
+.. _Lösungen Ausbreitung des Lichts:
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zur
+Ausbreitung des Lichts
+----------------------
+
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
 Ausbreitung des Lichts>` zum Abschnitt :ref:`Ausbreitung des Lichts <Ausbreitung
 des Lichts>`.
 
 ----
 
-.. _Lichtausbreitung-01-Lösung:
+.. _oau01l:
 
-*   Licht breitet sich von der Sonne geradlinig in alle Richtungen unseres
-    Sonnensystems aus. Nur der schmale Lichtkegel, der dabei auf die Erde
-    trifft, wird von uns direkt wahrgenommen. Zusätzlich können wir das
-    Sonnenlicht wahrnehmen, wenn es auf andere Himmelskörper (v.a. Planeten und
-    Kometen) trifft.
+* Licht breitet sich von der Sonne geradlinig in alle Richtungen unseres
+  Sonnensystems aus. Nur der schmale Lichtkegel, der dabei auf die Erde
+  trifft, wird von uns direkt wahrgenommen. Zusätzlich können wir das
+  Sonnenlicht wahrnehmen, wenn es auf andere Himmelskörper (v.a. Planeten und
+  Kometen) trifft.
 
-    Da das übrige Sonnenlicht unser Auge nicht erreicht, erscheint uns das
-    restliche Weltall als dunkel.
+  Da das übrige Sonnenlicht unser Auge nicht erreicht, erscheint uns das
+  restliche Weltall als dunkel.
 
-    :ref:`Zurück zur Aufgabe <Lichtausbreitung-01>`
-
-----
-
-.. _Lichtausbreitung-02-Lösung:
-
-*   Die Zeit, die Licht zum Durchqueren eines Zimmers benötigt, beträgt weniger
-    als :math:`\unit[\frac{1}{10\,000\,000}]{s}`. Zwar wird Licht beim Durchqueren von
-    verschiedenen "optisch dichten" Stoffen (z.B. Wasser) etwas abgebremst, doch
-    ist es stets so schnell, dass es für eine konstante Beleuchtung ständig
-    von einer Lichtquelle neu erzeugt werden muss.
-
-    Das "Einfangen" von winzigen Lichtmengen in einem lichtundurchlässigen
-    Behältnis ist zwar möglich, doch können wir es dann nicht sehen -- dafür
-    müsste das Licht ja aus dem Behältnis entweichen und in unsere Augen
-    gelangen..
-
-    :ref:`Zurück zur Aufgabe <Lichtausbreitung-02>`
+  :ref:`Zurück zur Aufgabe <oau01>`
 
 ----
 
+.. _oau02l:
 
-.. _Lösungen zur Reflexion von Licht:
+* Die Zeit, die Licht zum Durchqueren eines Zimmers benötigt, beträgt weniger
+  als :math:`\unit[\frac{1}{10\,000\,000}]{s}`. Zwar wird Licht beim Durchqueren von
+  verschiedenen "optisch dichten" Stoffen (z.B. Wasser) etwas abgebremst, doch
+  ist es stets so schnell, dass es für eine konstante Beleuchtung ständig
+  von einer Lichtquelle neu erzeugt werden muss.
 
-Lösungen zur Reflexion von Licht
---------------------------------
+  Das "Einfangen" von winzigen Lichtmengen in einem lichtundurchlässigen
+  Behältnis ist zwar möglich, doch können wir es dann nicht sehen -- dafür
+  müsste das Licht ja aus dem Behältnis entweichen und in unsere Augen
+  gelangen..
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zur
+  :ref:`Zurück zur Aufgabe <oau02>`
+
+----
+
+
+.. _Lösungen Reflexion von Licht:
+
+Reflexion von Licht
+-------------------
+
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
 Reflexion von Licht>` zum Abschnitt :ref:`Reflexion von Licht <Reflexion von
 Licht>`.
 
 ----
 
-.. _Lichtreflexion-01-Lösung:
+.. _ore01l:
 
 * Nur diejenigen Stoffe, die eine *glatte* Oberfläche besitzen, können Licht
   direkt reflektieren -- beispielsweise Diamant, Fensterglas, Flüssigkeiten,
@@ -70,11 +70,11 @@ Licht>`.
   streuend, reflektieren. Das reflektierte Licht erscheint dann als "matt", d.h.
   es treten keine Glanzstellen auf.
 
-  :ref:`Zurück zur Aufgabe <Lichtreflexion-01>`
+  :ref:`Zurück zur Aufgabe <ore01>`
 
 ----
 
-.. _Lichtstreuung-01-Lösung:
+.. _ore02l:
 
 * Das Licht, das von Sternen zur Erde gelangt, trifft auf seinem Weg durch das
   Weltall auf kein Hindernis; es breitet sich daher geradlinig und "verlustfrei"
@@ -91,22 +91,22 @@ Licht>`.
   weit sehen; bei nebligem Wetter wird die Sichtweite nochmals erheblich
   verkürzt.
 
-  :ref:`Zurück zur Aufgabe <Lichtstreuung-01>`
+  :ref:`Zurück zur Aufgabe <ore02>`
 
 ----
 
 
-.. _Lösungen zur Lichtbrechung:
+.. _Lösungen Lichtbrechung:
 
-Lösungen zur Lichtbrechung
---------------------------
+Lichtbrechung
+-------------
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zur
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
 Lichtbrechung>` zum Abschnitt :ref:`Lichtbrechung <Lichtbrechung>`.
 
 ----
 
-.. _Lichtbrechung-01-Lösung:
+.. _obr01l:
 
 * Die Lichtgeschwindigkeit :math:`c` in dem optischen Medium lässt sich
   berechnen, indem man die Lichtgeschwindigkeit :math:`c_0 = \unit[3,0 \cdot
@@ -121,11 +121,11 @@ Lichtbrechung>` zum Abschnitt :ref:`Lichtbrechung <Lichtbrechung>`.
   Die Lichtgeschwindigkeit in dem optischen Medium beträgt somit rund
   :math:`\unit[2,03 \cdot 10^8]{m/s}`.
 
-  :ref:`Zurück zur Aufgabe <Lichtbrechung-01>`
+  :ref:`Zurück zur Aufgabe <obr01>`
 
 ----
 
-.. _Lichtbrechung-02-Lösung:
+.. _obr02l:
 
 * Die (absolute) Brechzahl :math:`n` des optischen Mediums lässt sich mittels
   der angegebenen Lichtgeschwindigkeit :math:`c=\unit[2,29 \cdot 10^8]{m/s}`
@@ -141,11 +141,11 @@ Lichtbrechung>` zum Abschnitt :ref:`Lichtbrechung <Lichtbrechung>`.
   Vergleich mit tabellarischen Werten lässt vermuten, dass es sich bei dem
   Medium um Eis handelt.)
 
-  :ref:`Zurück zur Aufgabe <Lichtbrechung-02>`
+  :ref:`Zurück zur Aufgabe <obr02>`
 
 ----
 
-.. _Lichtbrechung-03-Lösung:
+.. _obr03l:
 
 * Trifft ein Lichtstrahl von einem optisch dünnen Medium (Luft, :math:`n_1=1`)
   auf ein optisch dichteres Medium (z.B. Glycerin, :math:`n_2 = 1,45`), so wird
@@ -167,14 +167,11 @@ Lichtbrechung>` zum Abschnitt :ref:`Lichtbrechung <Lichtbrechung>`.
 
   Der Winkel des gebrochenen Strahls beträgt etwa :math:`20,2\degree`.
 
-.. Gradmaß und Bogenmaß?
-
-  :ref:`Zurück zur Aufgabe <Lichtbrechung-03>`
-
+  :ref:`Zurück zur Aufgabe <obr03>`
 
 ----
 
-.. _Lichtbrechung-04-Lösung:
+.. _obr04l:
 
 * Die relative Brechzahl :math:`\frac{n_2}{n_1}` für den Übergang eines
   Lichtsrahls von Medium 1 (Quarzglas, :math:`n_1 = 1,46`) in Medium 2
@@ -203,13 +200,13 @@ Lichtbrechung>` zum Abschnitt :ref:`Lichtbrechung <Lichtbrechung>`.
   Der Winkel :math:`\beta` des gebrochenen Lichtstrahls beträgt somit rund
   :math:`17\degree`.
 
-  :ref:`Zurück zur Aufgabe <Lichtbrechung-04>`
+  :ref:`Zurück zur Aufgabe <obr04>`
 
 ----
 
-.. _Lichtbrechung-05-Lösung:
+.. _obr05l:
 
-* Da der im Winkel :math:`\alpha _1= 50,0\degree` einfallende Lichtstrahl an der
+* Da der im Winkel :math:`\alpha_1= 50,0\degree` einfallende Lichtstrahl an der
   Grenzfläche zur Senkrechten hin gebrochen wird (:math:`\beta = 30,9`), muss
   für die Brechzahlen beider Medien :math:`n_2 > n_1` gelten. Mit :math:`n_1 =
   1` folgt aus dem Brechungsgesetz:
@@ -219,7 +216,7 @@ Lichtbrechung>` zum Abschnitt :ref:`Lichtbrechung <Lichtbrechung>`.
       n_2 = \frac{\sin{\alpha}}{\sin{\beta}} \cdot n_1 =
       \frac{\sin{50,0}}{\sin{30,9\degree}} \cdot 1 \approx 1,49
 
-  Beim zweiten Übergang :math:`(\alpha _2 = 30,9\degree,\, \beta _2 = 33,6\degree)` wird
+  Beim zweiten Übergang :math:`(\alpha_2 = 30,9\degree,\, \beta_2 = 33,6\degree)` wird
   der Lichtstrahl von der Senkrechten weg gebrochen, folglich muss :math:`n_3 <
   n_2` gelten. Mit :math:`n_2 \approx 1,49` folgt:
 
@@ -232,34 +229,34 @@ Lichtbrechung>` zum Abschnitt :ref:`Lichtbrechung <Lichtbrechung>`.
   :math:`n_2 = 1,49` (beispielsweise Plexiglas oder Leinöl) und :math:`n_3 =
   1,38` (beispielsweise Wasser mit 1 mol/l Saccharose).
 
-  :ref:`Zurück zur Aufgabe <Lichtbrechung-05>`
+  :ref:`Zurück zur Aufgabe <obr05>`
 
 ----
 
-.. _Lichtbrechung-06-Lösung:
+.. _obr06l:
 
-* Geht ein Lichtstrahl von Diamant :math:`(n _1 = 2,4)` in Luft :math:`(n_2 =
-  1)` über, so gilt für den Grenzwinkel :math:`\alpha _{\rm{max}}`:
+* Geht ein Lichtstrahl von Diamant :math:`(n_1 = 2,4)` in Luft :math:`(n_2 =
+  1)` über, so gilt für den Grenzwinkel :math:`\alpha_{\mathrm{max}}`:
 
   .. math::
 
-      \sin{\alpha _{\rm{max}}} &= \frac{n_2}{n_1} \quad \Leftrightarrow \quad
-      \alpha _{\rm{max}} = \text{asin}\left( \frac{n_2}{n_1}\right) \\[4pt]
-      \alpha _{\rm{max}} &= \text{asin}\left( \frac{1}{2,4}\right) \approx 24,6\degree
+      \sin{\alpha_{\mathrm{max}}} &= \frac{n_2}{n_1} \quad \Leftrightarrow \quad
+      \alpha_{\mathrm{max}} = \text{asin}\left( \frac{n_2}{n_1}\right) \\[4pt]
+      \alpha_{\mathrm{max}} &= \text{asin}\left( \frac{1}{2,4}\right) \approx 24,6\degree
 
-  Der Grenzwinkel :math:`\alpha _{\rm{max}}` beim Übergang eines Lichtstrahls
+  Der Grenzwinkel :math:`\alpha_{\mathrm{max}}` beim Übergang eines Lichtstrahls
   von Diamant in Luft beträgt somit rund :math:`24,6\degree`. Trifft ein Lichstrahl
   mit einem größeren Winkel auf die Grenzfläche, so tritt Totalreflexion ein.
   Der Lichtstrahl kann den Diamanten (an dieser Stelle) also nicht mehr
   verlassen, sondern wird anstelle dessen gemäß des Reflexionsgesetzes in den
   Diamanten zurück reflektiert.
 
-  :ref:`Zurück zur Aufgabe <Lichtbrechung-06>`
+  :ref:`Zurück zur Aufgabe <obr06>`
 
 
 ----
 
-.. _Lichtbrechung-07-Lösung:
+.. _obr07l:
 
 * Die zwei möglichen Fälle, in denen Licht beim Übergang von einem
   transparenten Medium in ein anderes nicht gebrochen wird, lassen sich gut
@@ -279,21 +276,22 @@ Lichtbrechung>` zum Abschnitt :ref:`Lichtbrechung <Lichtbrechung>`.
   Oberfläche der Grenzschicht verläuft. In allen anderen Fällen tritt
   Lichtbrechung auf.
 
-  :ref:`Zurück zur Aufgabe <Lichtbrechung-07>`
+  :ref:`Zurück zur Aufgabe <obr07>`
 
 ----
 
-.. _Lösungen zu Linsensystemen:
 
-Lösungen zu Linsensystemen
---------------------------
+.. _Lösungen Linsensystemen:
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
-Linsensystemen>` zum Abschnitt :ref:`Linsensysteme <Linsensysteme>`.
+Linsensysteme
+-------------
+
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
+Linsensysteme>` zum Abschnitt :ref:`Linsensysteme <Linsensysteme>`.
 
 ----
 
-.. _Linsensysteme-01-Lösung:
+.. _oli01l:
 
 * Die Brechkraft :math:`D` einer Sammellinse mit einer Brennweite von :math:`f =
   \unit[150]{mm} = \unit[0,150]{m}` beträgt:
@@ -304,11 +302,11 @@ Linsensystemen>` zum Abschnitt :ref:`Linsensysteme <Linsensysteme>`.
 
  Die Linse hat also eine Brechkraft von rund :math:`\unit[6,67]{dpt}`.
 
- :ref:`Zurück zur Aufgabe <Linsensysteme-01>`
+ :ref:`Zurück zur Aufgabe <oli01>`
 
 ----
 
-.. _Linsensysteme-02-Lösung:
+.. _oli02l:
 
 * Die Brennweite :math:`f` einer Zerstreuungslinse mit einer Brechkraft von
   :math:`D = \unit[-4,0]{dpt}` lässt sich folgendermaßen berechnen:
@@ -325,26 +323,26 @@ Linsensystemen>` zum Abschnitt :ref:`Linsensysteme <Linsensysteme>`.
   Die Brennweite der Zerstreuungslinse beträgt also rund
   :math:`\unit[-25]{cm}`.
 
-  :ref:`Zurück zur Aufgabe <Linsensysteme-02>`
+  :ref:`Zurück zur Aufgabe <oli02>`
 
 ----
 
-.. _Linsensysteme-03-Lösung:
+.. _oli03l:
 
-* Die Brennweite :math:`f _{\rm{ges}}` des Linsensystems erhält man, indem man
-  die Kehrwerte der Brennweiten beider Linsen addiert und anschließend den
+* Die Brennweite :math:`f_{\mathrm{ges}}` des Linsensystems erhält man, indem
+  man die Kehrwerte der Brennweiten beider Linsen addiert und anschließend den
   Kehrwert von diesem Ergebnis bildet. Mit  :math:`f_1 = \unit[50]{mm} =
   \unit[0,050]{m}` und :math:`f_2 = \unit[75]{mm}= \unit[0,075]{m}` folgt:
 
   .. math::
 
-      \frac{1}{f _{\rm{ges}}} = \frac{1}{f_1} + \frac{1}{f_2} \quad
-      \Leftrightarrow \quad f _{\rm{ges}} = \frac{1}{\left( \frac{1}{f_1} +
+      \frac{1}{f_{\mathrm{ges}}} = \frac{1}{f_1} + \frac{1}{f_2} \quad
+      \Leftrightarrow \quad f_{\mathrm{ges}} = \frac{1}{\left( \frac{1}{f_1} +
       \frac{1}{f_2}\right)}
 
   .. math::
 
-      f _{\rm{ges}} = \frac{1}{\frac{1}{\unit[0,050]{m}} +
+      f_{\mathrm{ges}} = \frac{1}{\frac{1}{\unit[0,050]{m}} +
       \frac{1}{\unit[0,075]{m}}} = \unit[0,03]{m}
 
   Die Brennweite des Linsensystems beträgt somit insgesamt
@@ -357,19 +355,20 @@ Linsensystemen>` zum Abschnitt :ref:`Linsensysteme <Linsensysteme>`.
 
       D_1 &= \frac{1}{f_1} = \frac{1}{\unit[0,050]{m}} = \unit[20,0]{dpt} \\
       D_2 &= \frac{1}{f_2} = \frac{1}{\unit[0,075]{m}} = \unit[13,3]{dpt} \\
-      D _{\rm{ges}} &= D_1 + D_2 = \unit[20,0]{dpt} + \unit[13,3]{dpt} =
+      D_{\mathrm{ges}} &= D_1 + D_2 = \unit[20,0]{dpt} + \unit[13,3]{dpt} =
       \unit[33,3]{dpt} \\
-      f _{\rm{ges}} &= \frac{1}{D _{\rm{ges}}} = \frac{1}{\unit[33,3]{dpt}} =
-      \frac{1}{\unit[33,3]{\frac{1}{m}}} = \unit[0,03]{m}
+      f_{\mathrm{ges}} &= \frac{1}{D_{\mathrm{ges}}} =
+      \frac{1}{\unit[33,3]{dpt}} = \frac{1}{\unit[33,3]{\frac{1}{m}}} =
+      \unit[0,03]{m}
 
   Auch mit diesem Rechenweg erhält man eine Gesamt-Brennweite von
   :math:`\unit[30]{mm}`.
 
-  :ref:`Zurück zur Aufgabe <Linsensysteme-03>`
+  :ref:`Zurück zur Aufgabe <oli03>`
 
 ----
 
-.. _Linsensysteme-04-Lösung:
+.. _oli04l:
 
 * Um die Entfernung :math:`b` des Bildes von der Linse zu berechnen, muss man
   die gegebenen Größen :math:`D = \frac{1}{f} = \unit[5,0]{dpt} =
@@ -383,24 +382,26 @@ Linsensystemen>` zum Abschnitt :ref:`Linsensysteme <Linsensysteme>`.
 
   .. math::
 
-      b = \frac{1}{D - \frac{1}{g}} = \frac{1}{\unit[5]{\frac{1}{m}} - \frac{1}{\unit[0,6]{m}}}
-      = \frac{1}{\unit[3,33]{\frac{1}{m}}} = \unit[0,3]{m}
+      b = \frac{1}{D - \frac{1}{g}} = \frac{1}{\unit[5]{\frac{1}{m}} -
+      \frac{1}{\unit[0,6]{m}}} = \frac{1}{\unit[3,33]{\frac{1}{m}}} =
+      \unit[0,3]{m}
 
   Das Bild befindet sich also im Abstand von :math:`\unit[30]{cm}` hinter der
   Linse. Für den Abbildungsmaßstab :math:`\tilde{\beta}` folgt somit:
 
   .. math::
 
-      \tilde{\beta} = \frac{b}{g} = \frac{\unit[0,3]{m}}{\unit[0,6]{m}} = \frac{1}{2}
+      \tilde{\beta} = \frac{b}{g} = \frac{\unit[0,3]{m}}{\unit[0,6]{m}} =
+      \frac{1}{2}
 
   Der Gegenstand wird bei der Abbildung durch die Linse somit um die Hälfte
   verkleinert.
 
-  :ref:`Zurück zur Aufgabe <Linsensysteme-04>`
+  :ref:`Zurück zur Aufgabe <oli04>`
 
 ----
 
-.. _Linsensysteme-05-Lösung:
+.. _oli05l:
 
 * Wenn die Brechkraft einer Zerstreuungslinse :math:`D = \unit[-8,0]{dpt}`
   beträgt, so entspricht dies einer Brennweite von :math:`f = \frac{1}{D} =
@@ -416,48 +417,46 @@ Linsensystemen>` zum Abschnitt :ref:`Linsensysteme <Linsensysteme>`.
   .. math::
 
       b = \frac{1}{\left(\frac{1}{f} - \frac{1}{g}\right)} = \frac{1}{\left(
-      \frac{1}{\unit[-0,125]{m}} - \frac{1}{\unit[0,090]{m}}\right)} = \unit[-0,052]{m}
+      \frac{1}{\unit[-0,125]{m}} - \frac{1}{\unit[0,090]{m}}\right)} =
+      \unit[-0,052]{m}
 
   Das Bild des Gegenstands befindet sich somit in einem Abstand von
   :math:`\unit[5,2]{cm}` vor (!) der Zerstreuungslinse.
 
-  :ref:`Zurück zur Aufgabe <Linsensysteme-05>`
+  :ref:`Zurück zur Aufgabe <oli05>`
 
 ----
 
 
-.. _Lösungen zu optischen Geräte:
+.. _Lösungen Optische Geräte:
 
-Lösungen zu optischen Geräten
------------------------------
+Optische Geräte
+---------------
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
-optischen Geräten>` zum Abschnitt :ref:`Optische Geräte <Optische Geräte>`.
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
+Optische Geräte>` zum Abschnitt :ref:`Optische Geräte <Optische Geräte>`.
 
 ----
 
-.. _Kepler-Fernrohr-01-Lösung:
+.. _oge01l:
 
 * Die Vergrößerung :math:`V` des Kepler-Fernrohrs entspricht dem Verhältnis der
-  Brennweiten :math:`f _{\rm{Obj}} = \unit[0,32]{m}` des Objektivs und :math:`f
-  _{\rm{Ok}} = \unit[0,04]{m}` des Okulars:
+  Brennweiten :math:`f_{\mathrm{Obj}} = \unit[0,32]{m}` des Objektivs und
+  :math:`f_{\mathrm{Ok}} = \unit[0,04]{m}` des Okulars:
 
   .. math::
 
-      V = \frac{f _{\rm{Obj}}}{f _{\rm{Ok}}} = \frac{\unit[0,32]{m}}{\unit[0,04]{m}} = 8
+      V = \frac{f_{\mathrm{Obj}}}{f_{\mathrm{Ok}}} =
+      \frac{\unit[0,32]{m}}{\unit[0,04]{m}} = 8
 
   Das Kepler-Fernrohr hat somit eine :math:`8`-fache Vergrößerung.
 
-  :ref:`Zurück zur Aufgabe <Kepler-Fernrohr-01>`
+  :ref:`Zurück zur Aufgabe <oge01>`
 
 
-.. raw:: latex
+----
 
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 

@@ -136,7 +136,7 @@ negativ.
 .. rubric:: Bandgeneratoren
 
 Mit einem Bandgenerator lässt sich eine Ladungstrennung durch Reibung in
-größerem Stil und beliebig oft wiederholen. Dazu wird ein elastisches
+erheblichem Umfang und beliebig oft wiederholen. Dazu wird ein elastisches
 Gummiband mit einer Kurbel oder einem Elektromotor angetrieben:
 
 * Das Band streift an zwei Metallbürsten, wobei es aufgrund Reibung Elektronen
@@ -217,10 +217,12 @@ zwischen geladenen Körpern wirken:
         :download:`SVG: Ladung - Kraftwirkung
         <../pics/elektrizitaet-magnetismus/ladung-kraftwirkung.svg>`
 
-Je stärker zwei Körper elektrisch geladen sind, desto stärker sind die
-Kräfte, die zwischen ihnen wirken.
+Je stärker zwei Körper elektrisch geladen sind, desto stärker sind die Kräfte,
+die zwischen ihnen wirken. Quantitativ kann die zwischen zwei geladenen Körpern
+wirkende elektrostatische Kraft durch das :ref:`Coulombsche Gesetz
+<Coulomb-Gesetz>` bestimmt werden, das im Abschnitt :ref:`Elektrische Felder
+<Elektrische Felder>` näher beschrieben ist.
 
-.. todo: Größe der Coulomb-Kraft
 
 .. index::
     single: Ladungsnachweis; Elektroskop
@@ -348,6 +350,6 @@ geeigneten Steckern in einen Stromkreis eingebaut werden und als
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu elektrischer Ladung>`
-    und :ref:`Übungsaufgaben <Aufgaben zu elektrischer Ladung>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Elektrische Ladung>`
+    und :ref:`Übungsaufgaben <Aufgaben Elektrische Ladung>`.
 

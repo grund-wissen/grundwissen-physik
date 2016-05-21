@@ -157,11 +157,11 @@ grundlegend:
 .. index:: Strahlungsfluss
 
 * Der Strahlungsfluss :math:`\varPhi` gibt an, welche Lichtleistung :math:`P
-  _{\rm{out}}` insgesamt von einer Lichtquelle ausgeht:
+  _{\mathrm{out}}` insgesamt von einer Lichtquelle ausgeht:
 
   .. math::
 
-      \varPhi = P _{\rm{out}}
+      \varPhi = P_{\mathrm{out}}
 
   Die Einheit des Strahlungsflusses ist Watt :math:`(\unit{W})`.
 
@@ -199,11 +199,11 @@ weitere Einheiten:
 .. index:: Bestrahlungsstärke
 
 * Die Bestrahlungsstärke :math:`E` gibt an, wie viel Watt an Lichtleistung auf
-  eine beleuchteter Fläche :math:`A _{\rm{b}}` auftreffen:
+  eine beleuchteter Fläche :math:`A_{\mathrm{b}}` auftreffen:
 
   .. math::
 
-      E = \frac{\varPhi}{A _{\rm{b}}}
+      E = \frac{\varPhi}{A_{\mathrm{b}}}
 
   Die Einheit der Bestrahlungsstärke ist Watt je Quadratmeter
   :math:`(\unit{\frac{W}{m^2}})`.
@@ -211,11 +211,11 @@ weitere Einheiten:
 .. index:: Strahldichte
 
 * Die Strahldichte :math:`L` gibt an, wie viel Watt an Lichtleistung von einer
-  leuchtenden Fläche :math:`A _{\rm{l}}` im Raumwinkel :math:`\Omega` ausgehen:
+  leuchtenden Fläche :math:`A_{\mathrm{l}}` im Raumwinkel :math:`\Omega` ausgehen:
 
   .. math::
 
-      L = \frac{I}{A _{\rm{l}}}
+      L = \frac{I}{A_{\mathrm{l}}}
 
   Die Einheit der Strahldichte ist Watt je Quadratmeter und Steradiant
   :math:`(\unit{\frac{W}{m^2 \cdot sr}})`.
@@ -248,12 +248,12 @@ angibt:
 .. math::
     :label: eqn-spektrale-gewichtungsfunktion
 
-    K (\lambda) = V (\lambda) \cdot K (\lambda _{\rm{max}})
+    K (\lambda) = V (\lambda) \cdot K (\lambda_{\mathrm{max}})
 
 Der Gewichtungsfaktor :math:`V (\lambda)` hat keine Einheit, sein Wert liegt
 zwischen :math:`0` und :math:`1`. Der zweite Faktor :math:`K (\lambda
-_{\rm{max}})`, auch photometrischen Äquivalent genannt, ist für das Tagsehen auf
-:math:`K (\lambda _{\rm{max}}) = \unit[683]{\frac{lm}{W}}` festgelegt. Dieser
+_{\mathrm{max}})`, auch photometrischen Äquivalent genannt, ist für das Tagsehen auf
+:math:`K (\lambda_{\mathrm{max}}) = \unit[683]{\frac{lm}{W}}` festgelegt. Dieser
 Wert wurde so gewählt, weil bei dieser Strahlungsleistung eine monochromatische
 Lichtquelle mit :math:`\lambda = \unit[555]{nm}` Wellenlänge als ebenso hell
 empfunden wird wie eine Lichtquelle mit einer Lichtstärke von
@@ -262,11 +262,11 @@ empfunden wird wie eine Lichtquelle mit einer Lichtstärke von
 
 .. index:: Lichtstrom, Lumen
 
-* Für den Lichtstrom :math:`\varPhi _{\rm{\nu}}` gilt:
+* Für den Lichtstrom :math:`\varPhi_{\mathrm{\nu}}` gilt:
 
   .. math::
 
-      \varPhi _{\rm{\nu}} = K (\lambda) \cdot \varPhi
+      \varPhi_{\mathrm{\nu}} = K (\lambda) \cdot \varPhi
 
   Die Einheit des Lichtstroms ist Lumen :math:`(\unit{lm})`. Es gilt:
 
@@ -276,11 +276,11 @@ empfunden wird wie eine Lichtquelle mit einer Lichtstärke von
 
 .. index:: Lichtstärke
 
-* Für die Lichtstärke :math:`I _{\rm{\nu}}` gilt:
+* Für die Lichtstärke :math:`I_{\mathrm{\nu}}` gilt:
 
   .. math::
 
-      I _{\rm{\nu}} = K (\lambda) \cdot I
+      I_{\mathrm{\nu}} = K (\lambda) \cdot I
 
   Die Einheit der Lichtstärke ist die SI-Basiseinheit Candela
   :math:`(\unit{cd})`.
@@ -288,11 +288,11 @@ empfunden wird wie eine Lichtquelle mit einer Lichtstärke von
 
 .. index:: Beleuchtungsstärke, Lux
 
-* Für die Beleuchtungsstärke :math:`E _{\rm{\nu}}` gilt:
+* Für die Beleuchtungsstärke :math:`E_{\mathrm{\nu}}` gilt:
 
   .. math::
 
-      E _{\rm{\nu}} = K (\lambda) \cdot E
+      E_{\mathrm{\nu}} = K (\lambda) \cdot E
 
   Die Einheit der Beleuchtungsstärke ist Lux :math:`(\unit{lx})`. Es gilt:
 
@@ -302,11 +302,11 @@ empfunden wird wie eine Lichtquelle mit einer Lichtstärke von
 
 .. index:: Leuchtdichte, Nit
 
-* Für die Leuchtdichte :math:`L _{\rm{\nu}}` gilt:
+* Für die Leuchtdichte :math:`L_{\mathrm{\nu}}` gilt:
 
   .. math::
 
-      L _{\rm{\nu}} = K (\lambda) \cdot E
+      L_{\mathrm{\nu}} = K (\lambda) \cdot E
 
   Die Einheit der Beleuchtungsstärke ist Nit :math:`(\unit{nt})`. Es gilt:
 
@@ -329,8 +329,8 @@ empfunden wird wie eine Lichtquelle mit einer Lichtstärke von
     einer Wellenlänge von :math:`\unit[555]{nm}` und einer Strahlstärke von
     :math:`\unit[\frac{1}{683}]{\frac{W}{sr}}` abgegeben wird.
 
-    Für das Nachtsehen ist :math:`\lambda _{\rm{max}} = \unit[507]{nm}` und
-    :math:`K (\lambda _{\rm{max}}) = \unit[1699]{\frac{lm}{W}}`.
+    Für das Nachtsehen ist :math:`\lambda_{\mathrm{max}} = \unit[507]{nm}` und
+    :math:`K (\lambda_{\mathrm{max}}) = \unit[1699]{\frac{lm}{W}}`.
 
 
 

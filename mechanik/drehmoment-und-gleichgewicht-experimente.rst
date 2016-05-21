@@ -1,7 +1,7 @@
-.. _Experimente zu Drehmoment und Gleichgewicht:
+.. _Experimente Drehmoment und Gleichgewicht:
 
-Experimente zu Drehmoment und Gleichgewicht
-===========================================
+Drehmoment und Gleichgewicht
+============================
 
 Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Drehmoment und
 Gleichgewicht <Drehmoment und Gleichgewicht>`.
@@ -125,22 +125,18 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
 - Teste den so ermittelten Schwerpunkt, indem Du die Form an dieser Stelle auf
   einem Finger balancierst. Was stellst Du fest?
 
+----
+
+
 .. Schwerpunkt zweidimensionaler Figuren
 
-.. todo:: Experiment zum Trägheitsmoment: Holzkugel und Holzzylinder mit gleichem
+.. todo Experiment zum Trägheitsmoment: Holzkugel und Holzzylinder mit gleichem
     Durchmesser und gleicher Masse (oder auch Holzzylinder mit gleichem
     Durchmesser, aber unterschiedlicher Länge/Masse) auf schiefer Ebene
     hinabrollen lassen. Unterschiedliches Trägheitsmoment -> nicht gleich
     schnell!
 
-
-.. raw:: latex
-
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 

@@ -1,6 +1,7 @@
 .. index::
     single: Bewegung; Geradlinige Bewegung
     single: Geradlinige Bewegung
+.. _Geradlinige Bewegung:
 .. _Geradlinige Bewegungen:
 
 Geradlinige Bewegungen
@@ -9,8 +10,9 @@ Geradlinige Bewegungen
 Eine geradlinige Bewegung verläuft stets entlang einer einzigen Raumrichtung,
 sie ist eindimensional. Als Koordinatensystem genügt eine einzelne Achse, sofern
 diese mit der Bewegungsrichtung übereinstimmt. In welcher Entfernung sich der
-beobachtete Körper befindet, kann -- in Abhängigkeit von der Zeit :math:`t` --
-durch Angabe eines Punktes :math:`s (t)` auf dieser Achse bestimmt werden.
+beobachtete Körper vom Nullpunkt der Koordinatenachse befindet, kann -- in
+Abhängigkeit von der Zeit :math:`t` -- durch Angabe eines Punktes :math:`s (t)`
+auf dieser Achse bestimmt werden.
 
 .. figure:: ../../pics/mechanik/kinematik/geradlinige-bewegung.png
     :name: fig-geradlinige-bewegung
@@ -48,7 +50,7 @@ in gleichen Zeitabschnitten die jeweils gleiche Wegstrecke zurück.
 
         v = \frac{\Delta s}{\Delta t}
 
-..  = \frac{s _{\rm{2}} - s _{\rm{1}}}{t _{\rm{2}} - t _{\rm{1}}}
+..  = \frac{s_2 - s_1}{t_2 - t_1}
 
 *Einheit:*
 
@@ -58,7 +60,7 @@ in gleichen Zeitabschnitten die jeweils gleiche Wegstrecke zurück.
 
 *Beispiele:*
 
-* Licht legt in einer Sekunde 300 000 Kilometer zurück. Die
+* Licht legt in einer Sekunde :math:`\unit[300\,000]{km}` zurück. Die
   Lichtgeschwindigkeit beträgt somit :math:`\unit[300\,000\,000]{m/s}`.
 * Eine Schnecke legt in einer Sekunde etwa :math:`\unit[0,8]{mm}` zurück.
   "Schneckentempo" entspricht somit ungefähr :math:`\unit[0,0008]{m/s}`.
@@ -126,23 +128,23 @@ Die :ref:`Steigung <gwm:Differenzen- und Differentialquotient>` der Geraden im
 
 * Umso größer die Geschwindigkeit ist, desto steiler ist der Verlauf der Geraden
   im :math:`s(t)`-Diagramm.
-* Ist die Geschwindigkeit eines Körpers konstant gleich null, so bleibt seine
+* Ist die Geschwindigkeit eines Körpers konstant gleich Null, so bleibt seine
   Entfernung vom Beobachter unverändert -- egal, ob sich der beobachtete Körper
-  an der Position des Beobachters oder in einer Entfernung :math:`s _{\rm{0}}`
+  an der Position des Beobachters oder in einer Entfernung :math:`s_0`
   vom Beobachter entfernt liegt. In beiden Fällen entspricht zeitliche Verlauf
   des zurückgelegten Weges einer waagrechten Geraden.
 * Das Vorzeichen der Geschwindigkeit gibt an, ob die Gerade im
   :math:`s(t)`-Diagramm steigt oder fällt. Eine negative Steigung bedeutet
   hierbei, dass sich der beobachtete Körper entgegen der ursprünglich als
   "positiv" festgelegten Raumrichtung bewegt -- egal, ob die Bewegung vom
-  Beobachter oder von einer um die Strecke  :math:`s _{\rm{0}}` entfernten
+  Beobachter oder von einer um die Strecke  :math:`s_0` entfernten
   Stelle aus beginnt.
 
 Der Wert, den die Ortsfunktion :math:`s(t) = v \cdot t` zu einer bestimmten Zeit
 :math:`t` annimmt, entspricht jeweils der Fläche zwischen der entsprechen
-Geschwindigkeits-Zeit-Linie und der :math:`t`-Achse im :math:`v(t)`-Diagramm.
-Gegebenenfalls muss das Vorzeichen berücksichtigt werden und die anfängliche
-Entfernung :math:`s _{\rm{0}}` zum Ergebnis hinzu addiert werden.
+Geschwindigkeits-Zeit-Linie und der :math:`t`-Achse im :math:`v(t)`-Diagramm;
+gegebenenfalls muss das Vorzeichen berücksichtigt werden und die anfängliche
+Entfernung :math:`s_0` zum Ergebnis hinzu addiert werden.
 
 
 .. index::
@@ -152,9 +154,9 @@ Entfernung :math:`s _{\rm{0}}` zum Ergebnis hinzu addiert werden.
 
 .. rubric:: Umrechnung von km/h in m/s
 
-Sowohl :math:`\unit[]{km/h}` als auch :math:`\unit[]{m/s}` sind als
-Geschwindigkeits-Einheiten üblich. Um sie ineinander umzurechnen, muss man
-bedenken, dass gilt:
+Sowohl :math:`\unit{km/h}` als auch :math:`\unit{m/s}` sind als
+Geschwindigkeits-Einheiten üblich. Um sie ineinander umzurechnen, kann man
+folgende Zusammenhänge nutzen:
 
 .. math::
 
@@ -194,24 +196,23 @@ kann man trotzdem eine durchschnittliche Geschwindigkeit angeben.
 *Definition:*
 
     Die Durchschnittsgeschwindigkeit :math:`\bar{v}` eines Körpers ist gleich
-    dem Verhältnis aus der Wegstrecke :math:`s _{\rm{ges.}}`, die er insgesamt
-    zurücklegt, und der dazu benötigten Zeit :math:`t _{\rm{ges.}}`:
+    dem Verhältnis aus der Wegstrecke :math:`s_{\mathrm{ges}}`, die er insgesamt
+    zurücklegt, und der dazu benötigten Zeit :math:`t_{\mathrm{ges}}`:
 
 .. math::
 
-    \bar{v} = \frac{s _{\rm{ges.}}}{t _{\rm{ges.}}}
-
+    \bar{v} = \frac{s_{\mathrm{ges}}}{t_{\mathrm{ges}}}
 
 *Beispiel:*
 
-* Ein Radrennfahrer legt eine Etappe von :math:`\unit[200]{km}` in einer Zeit
+* Ein Radrennfahrer legt eine Etappe von :math:`\unit[175]{km}` in einer Zeit
   von :math:`\unit[5]{h}` zurück. Seine Durchschnittsgeschwindigkeit beträgt
   somit:
 
 .. math::
 
-  \bar{v} = \frac{s _{\rm{ges.}}}{t _{\rm{ges.}}} = \frac{\unit[200]{km}
-  }{\unit[5]{h} } = \unit[40]{\frac{km}{h} }
+  \bar{v} = \frac{s_{\mathrm{ges}}}{t_{\mathrm{ges}}} =
+  \frac{\unit[175]{km}}{\unit[5]{h}} = \unit[35]{\frac{km}{h} }
 
 
 .. index:: Relativgeschwindigkeit
@@ -224,12 +225,12 @@ Geschwindigkeiten :math:`v_1` und :math:`v_2` in die gleiche Richtung, so
 entspricht ihre gegenseitige Entfernung der Differenz der zurückgelegten
 Wegstrecken; die Körper entfernen sich also mit zunehmender Zeit voneinander.
 Die wachsende Entfernung kann durch die so genannte Relativgeschwindigkeit
-:math:`v _{\rm{rel}}` ausgedrückt werden:
+:math:`v_{\mathrm{rel}}` ausgedrückt werden:
 
 .. math::
     :label: eqn-relativgeschwindigkeit
 
-    v _{\rm{rel}} = v_2 - v_1
+    v_{\mathrm{rel}} = v_2 - v_1
 
 Diese Gleichung gibt die Relativgeschwindigkeit des zweiten Körpers relativ zum
 ersten Körper an; umgekehrt gibt :math:`v_1 - v_2` die Geschwindigkeit des
@@ -246,7 +247,8 @@ Geradlinige Bewegungen mit konstanter Beschleunigung
 ----------------------------------------------------
 
 Bei einer Bewegung mit konstanter Beschleunigung nimmt die Geschwindigkeit eines
-Körpers in gleichen Zeitabschnitten um den jeweils gleichen Betrag zu bzw. ab.
+Körpers in gleichen Zeitabschnitten um den jeweils gleichen Betrag zu
+beziehungsweise  ab.
 
 *Definition:*
 
@@ -267,15 +269,13 @@ Körpers in gleichen Zeitabschnitten um den jeweils gleichen Betrag zu bzw. ab.
 
 *Einheit:*
 
-    Die Beschleunigung wird in Meter je Quadratsekunde :math:`(\unit[]{m/s^2})`
+    Die Beschleunigung wird in Meter je Quadratsekunde :math:`(\unit{m/s^2})`
     angegeben.
 
 *Beispiele:*
 
-* :math:`\unit[1]{m/s^2}` ist die Beschleunigung eines Körpers, dessen Geschwindigkeit
-  sich in :math:`\unit[1]{s}` um :math:`\unit[1]{m/s}` ändert.
-
-.. .
+* :math:`\unit[1]{m/s^2}` ist die Beschleunigung eines Körpers, dessen
+  Geschwindigkeit sich in :math:`\unit[1]{s}` um :math:`\unit[1]{m/s}` ändert.
 
 * Ein Fahrzeug, das in einer Zeit von :math:`t=\unit[10]{s}` von
   :math:`\unit[0]{km/h}` auf :math:`\unit[100]{km/h} = \unit[27,8]{m/s}`
@@ -288,14 +288,17 @@ Körpers in gleichen Zeitabschnitten um den jeweils gleichen Betrag zu bzw. ab.
 * Die Beschleunigung die ein Körper im freier Fall auf der Erde erfährt
   ("Erdbeschleunigung"), beträgt rund :math:`\unit[9,81]{m/s^2}`. Häufig wird
   diese Beschleunigung, die bei vielerlei physikalischen Vorgängen eine Rolle
-  spielt, mit dem Buchstaben :math:`g` bezeichnet und :ref:`Ortsfaktor
-  <Ortsfaktor>` genannt.
+  spielt, mit dem Buchstaben :math:`g=\unit[9,81]{\frac{m}{s^2}}` bezeichnet und
+  :ref:`Ortsfaktor <Ortsfaktor>` genannt.
 
 Bei längeren Bewegungsvorgängen können aufeinander folgende Zeitabschnitte
 unterschiedliche Beschleunigungen aufweisen. Beispielsweise beschleunigt ein
 Sprinter zunächst gleichmäßig, bis er seine Höchstgeschwindigkeit erreicht
 hat, hält diese Geschwindigkeit (möglichst) konstant bis zum Ziel, und
-bremst nach der Ziellinie wieder gleichmäßig ab.
+bremst nach der Ziellinie wieder gleichmäßig ab. Derartige Bewegungsvorgänge
+lassen sich oftmals abschnittsweise durch jeweils konstante
+(Durchschnitts-)Beschleunigungen beschreiben.
+
 
 .. figure:: ../../pics/mechanik/kinematik/a-t-diagramm-konstante-beschleunigung.png
     :name: fig-a-t-diagramm-konstante-beschleunigung
@@ -335,26 +338,26 @@ Die Steigung der Geschwindigkeit-Zeit-Linie hat folgende Bedeutung:
 
 * Umso steiler die Geschwindigkeit-Zeit-Gerade ist, desto größer ist die
   Beschleunigung.
-* Ist die Beschleunigung des beobachteten Körpers gleich null, so entspricht die
+* Ist die Beschleunigung des beobachteten Körpers gleich Null, so entspricht die
   Geschwindigkeit-Zeit-Linie einer waagrechten Geraden. Dies gilt gleichermaßen
-  für ruhende und sich mit konstanter Geschwindigkeit :math:`v _{\rm{0}}`
+  für ruhende und sich mit konstanter Geschwindigkeit :math:`v_0`
   bewegende Körper.
 * Eine Beschleunigung entgegen der ursprünglich als "positiv" festgelegten
   Raumrichtung erhält ein negatives Vorzeichen -- egal, ob der beobachtete
-  Körper ruht oder sich mit einer konstanten Geschwindigkeit :math:`v _{\rm{0}}`
-  fortbewegt. Dies hat -- je nach Wert der Anfangsgeschwindigkeit :math:`v
-  _{\rm{0}}` -- eine Beschleunigung "in Gegenrichtung" oder ein kontinuierliches
-  Abbremsen zur Folge.
+  Körper ruht oder sich mit einer konstanten Geschwindigkeit :math:`v_0`
+  fortbewegt. Dies hat -- je nach Wert der Anfangsgeschwindigkeit :math:`v_0` --
+  eine Beschleunigung "in Gegenrichtung" oder ein kontinuierliches Abbremsen zur
+  Folge.
 
 .. _Wegstrecke bei konstanter Beschleunigung:
 
 Der zeitliche Verlauf der zurückgelegten Wegstrecke hat bei einer beschleunigten
 Bewegung :math:`(a \ne 0)` einen parabelförmigen Verlauf, der von der
-Anfangsgeschwindigkeit :math:`v _{\rm{0}}` und der anfänglichen Entfernung
-:math:`s _{\rm{0}}` des Körpers vom Beobachter (Koordinatenursprung) abhängt.
-Der Übersicht halber wird an dieser Stelle davon ausgegangen, dass zum Zeitpunkt
-:math:`t=0` der Ort des beobachteten Körpers mit dem Koordinatenursprung
-übereinstimmt, d.h. :math:`s _{\rm{0}} = 0` gilt. [#]_
+Anfangsgeschwindigkeit :math:`v_0` und der anfänglichen Entfernung :math:`s_0`
+des Körpers vom Beobachter (Koordinatenursprung) abhängt. Der Übersicht halber
+wird an dieser Stelle davon ausgegangen, dass zum Zeitpunkt :math:`t=0` der Ort
+des beobachteten Körpers mit dem Koordinatenursprung übereinstimmt, also
+:math:`s_0 = 0` gilt. [#]_
 
 .. figure:: ../../pics/mechanik/kinematik/s-t-diagramm-konstante-beschleunigung.png
     :name: fig-s-t-diagramm-konstante-beschleunigung
@@ -373,8 +376,8 @@ Der Übersicht halber wird an dieser Stelle davon ausgegangen, dass zum Zeitpunk
         :download:`SVG: s(t)-Diagramm: Konstante Beschleunigung
         <../../pics/mechanik/kinematik/s-t-diagramm-konstante-beschleunigung.svg>`
 
-Die Abhängigkeit der (Halb-)Parabel von der Anfangsgeschwindigkeit :math:`v
-_{\rm{0}}` lässt sich folgendermaßen beschreiben:
+Die Abhängigkeit der (Halb-)Parabel von der Anfangsgeschwindigkeit :math:`v_0`
+lässt sich folgendermaßen beschreiben:
 
 * Gilt für die konstante Beschleunigung :math:`a > 0`, so nimmt die
   Geschwindigkeit :math:`v` linear und die zurückgelegte Wegstrecke :math:`s`
@@ -383,47 +386,128 @@ _{\rm{0}}` lässt sich folgendermaßen beschreiben:
   .. math::
       :label: eqn-konstante-beschleunigung-wegstrecke
 
-      s = \frac{1}{2} \cdot a \cdot t^2
+      s(t) = \frac{1}{2} \cdot a \cdot t^2
 
-  Gegebenenfalls muss noch eine Anfangsgeschwindigkeit :math:`v _{\rm{0}}`
-  berücksichtigt bzw. deren Beitrag :math:`s=v _{\rm{0}} \cdot t`  zur
+  Gegebenenfalls muss noch eine Anfangsgeschwindigkeit :math:`v_0`
+  berücksichtigt bzw. deren Beitrag :math:`s = v_0 \cdot t`  zur
   Gesamtwegstrecke hinzu addiert werden.
 
+.. index:: Freier Fall
+
+.. _Freier Fall:
+
 * Gilt für die konstante Beschleunigung :math:`a < 0`, so ist die (Halb-)Parabel
-  nach unten hin geöffnet. Ohne Anfangsgeschwindigkeit :math:`(v _{\rm{0}}=0)`
-  findet eine beschleunigte Bewegung in negative :math:`s`-Richtung statt. Mit
-  einer Anfangsgeschwindigkeit :math:`v _{\rm{0}} > 0` ergibt sich ein
-  kontinuierliches Abbremsen, wobei der Scheitel der Halbparabel den Bremsweg
-  angibt. [#]_
+  nach unten hin geöffnet. Ohne Anfangsgeschwindigkeit :math:`(v_0=0)` findet
+  eine beschleunigte Bewegung in negative :math:`s`-Richtung statt. Mit einer
+  Anfangsgeschwindigkeit :math:`v_0 > 0` ergibt sich ein kontinuierliches
+  Abbremsen, wobei der Scheitel der Halbparabel den Bremsweg angibt:
+
+  .. math::
+
+      s(t) = v_{\mathrm{0}} \cdot t - \frac{1}{2} \cdot a \cdot t^2
+
+
+  Bleibt nach einem vollständigen Abbremsen -- wie bei einem senkrechten Wurf
+  nach oben -- die Beschleunigung :math:`a<0` weiterhin bestehen, so findet
+  anschließend eine beschleunigte Bewegung in negativer :math:`s`-Richtung
+  statt. Kann der Luftwiderstand vernachlässigt werden, so spricht man bei
+  diesem Vorgang von einem "freien Fall" mit
+  :math:`|g|=\unit[9,81]{\frac{m}{s^2}}` und :math:`v_0 = 0`.
+
+*Beispiel:*
+
+* Der Schacht eines Brunnens hat eine Tiefe von :math:`h=\unit[-40]{m}`. Wie
+  lange dauert es, bis aus der Höhe :math:`h_0 = \unit[0]{m}` fallender ein
+  Stein im freien Fall (ohne Luftwiderstand) am Grund des Schachtes ankommt? Wie
+  groß ist seine Geschwindigkeit :math:`v` beim Aufprall?
+
+  Die Bewegung des Steins entspricht einem freien Fall mit der Beschleunigung
+  :math:`|g|=\unit[9,81]{\frac{m}{s^2}}` und der Anfangsgeschwindigkeit
+  :math:`v_0=0`. Für die vom Stein zurückgelegte Wegstrecke :math:`s` gilt
+  dabei:
+
+  .. math::
+
+      s = - \frac{1}{2} \cdot g \cdot t^2
+
+  Der Vorgang endet, wenn eine Strecke von :math:`s=\unit[-40]{m}` durchlaufen
+  wurde (das negative Vorzeichen ergibt sich, wenn eine Bewegung nach oben als
+  "positiv" deklariert wird). Für die Fallzeit :math:`t` gilt also:
+
+  .. math::
+
+      t = \sqrt{\frac{2 \cdot s}{-g}} = \sqrt{\frac{2 \cdot
+      (\unit[-40]{m})}{\unit[-9,81]{\frac{m}{s^2}}}} \approx \unit[2,86]{s}
+
+  In dieser Zeit erreicht der Stein folgende Geschwindigkeit:
+
+  .. math::
+
+      v = -g \cdot t = -\unit[9,81]{\frac{m}{s^2}} \cdot \unit[2,86]{s} \approx
+      \unit[28,0]{\frac{m}{s}}
+
+  Der Stein erreicht beim Aufprall unter Vernachlässigung des Luftwiderstands
+  somit eine Geschwindigkeit von rund :math:`\unit[28]{\frac{m}{s}}`; das
+  entspricht rund :math:`\unit[100]{\frac{km}{h}}`.
+
+Beschleunigungen treten bei geradlinigen Bewegungen allgemein dann auf, wenn
+eine resultierende Kraft :math:`F_{\mathrm{res}}` auf einen Gegenstand einwirkt;
+für die Beschleunigung gilt dabei :math:`a = \frac{F}{m}`, wobei :math:`m` für
+die Masse des Gegenstands steht. Kennt man also die auf einen Gegenstand
+einwirkenden Kräfte, so kann mittels der obigen Formeln auch dessen Bewegung
+vorhergesagt werden.
+
 
 .. index:: Bremsformel, Bremsweg
 .. _Bremsformel:
+.. _Anhalteweg:
+.. _Die Bremsformel und der Anhalteweg:
 
-* Für Bremsvorgänge gibt es eine weitere nützliche Formel, die sich aus
-  der obigen Gleichung :eq:`eqn-konstante-beschleunigung-wegstrecke` herleiten
-  lässt. [#]_ Mit einer Anfangsgeschwindigkeit :math:`v_0` gilt für den
-  Zusammenhang zwischen :math:`v`, :math:`a` und :math:`s`:
+.. rubric:: Die "Bremsformel" und der Anhalteweg:
 
-  .. math::
-     :label: eqn-bremsformel
+Insbesondere für Bremsvorgänge gibt es eine weitere nützliche Formel, die sich
+aus der obigen Gleichung :eq:`eqn-konstante-beschleunigung-wegstrecke`
+herleiten lässt. [#]_ Mit einer Anfangsgeschwindigkeit :math:`v_0` gilt für
+den Zusammenhang zwischen :math:`v`, :math:`a` und :math:`s`:
 
-      v^2 - v_0^2 = 2 \cdot a \cdot s
+.. math::
+   :label: eqn-bremsformel
 
-  Diese Gleichung wird auch "Bremsformel" genannt; im Fall :math:`v=0` lässt
-  sich damit der Bremsweg :math:`s = \frac{v_0^2}{2 \cdot |a|}` bei bekannter
-  Anfangsgeschwindigkeit und Beschleunigung unmittelbar berechnen. Der Bremsweg
-  nimmt bei gleicher Bremskraft quadratisch mit der Geschwindigkeit zu, was
-  beispielsweise ein maßgebliches Kriterium für die Geschwindigkeitsbegrenzungen
-  in Ortschaften ist.
+    v^2 - v_0^2 = 2 \cdot a \cdot s
 
-.. todo:: Anhalteweg
+Diese Gleichung wird häufig "Bremsformel" genannt; im Fall :math:`v=0` lässt
+sich damit der Bremsweg :math:`s = \frac{v_0^2}{2 \cdot |a|}` bei bekannter
+Anfangsgeschwindigkeit und Beschleunigung unmittelbar berechnen.
 
-.. todo:: Beispiel Freier Fall
+Die Gleichung :eq:`eqn-bremsformel` kann selbstverständlich auch zur
+Beschreibung anderer Beschleunigungsvorgänge genutzt werden, wenn ein
+zeitunabhängiger Zusammenhang zwischen den Geschwindigkeiten, der wirkenden
+Beschleunigung und der zurückgelegten Wegstrecke gesucht ist.
 
-..
-    Brunnenschacht 80 m Tief, Fallzeit :math:`t = \sqrt{\frac{2 \cdot s}{g}}
-    \approx \unit[4]{s}`, :math:`v = a \cdot t = g \cdot t \approx
-    unit[40]{\frac{m}{s}}`.
+Um die gesamte Strecke zu berechnen, die ein Fahrzeug zum Anhalten benötigt,
+muss neben dem Bremsweg auch die Wegstrecke berücksichtigt werden, die der
+Fahrer während der Reaktionszeit zurücklegt. es gilt also:
+
+.. math::
+
+    s_{\mathrm{Anhalte}} = s_{\mathrm{Brems}} + s_{\mathrm{Reaktion}}
+
+Während der Reaktionszeit, die oftmals vereinfacht als "Schrecksekunde"
+angenommen wird, bewegt sich das Fahrzeug mit der konstanten Geschwindigkeit
+:math:`v_0` weiter. Es ergibt sich somit mit :math:`t_{\mathrm{Reaktion}}
+\stackrel{\wedge}= \unit[1]{s}`:
+
+.. math::
+
+    s_{\mathrm{Anhalte}} = \frac{v_0^2}{2 \cdot |a|} + v_0 \cdot \unit[1]{s}
+
+.. todo:: Pic / Diagramm!
+
+Der Bremsweg (und somit auch der Anhalteweg) nimmt bei der gleichen
+Bremsbeschleunigung quadratisch mit der Geschwindigkeit zu; aus diesem Grund
+sind in Ortschaften sowie an unübersichtlichen Stellen
+Geschwindigkeitsbegrenzungen sinnvoll.
+
 
 .. raw:: html
 
@@ -439,14 +523,16 @@ _{\rm{0}}` lässt sich folgendermaßen beschreiben:
     :math:`\vec{s}` und die Geschwindigkeiten :math:`\vec{v}` als Vektoren
     behandelt.
 
-.. [#] Eine anfängliche Entfernung :math:`s _{\rm{0}}` des sich bewegenden
+.. [#] Eine anfängliche Entfernung :math:`s_0` des sich bewegenden
     Körpers vom Beobachter hat lediglich eine senkrechte Verschiebung der
-    (Halb-)Parabel zur Folge: Für :math:`s _{\rm{0}} >  0` ist die Parabel
-    nach oben, für :math:`s _{\rm{0}} <0` nach unten verschoben.
+    (Halb-)Parabel zur Folge: Für :math:`s_0 >  0` ist die Parabel
+    nach oben, für :math:`s_0 <0` nach unten verschoben.
 
-.. [#] Bleibt -- wie bei einem senkrechten Wurf -- die Beschleunigung
-    :math:`a<0` bestehen, so findet anschließend eine beschleunigte Bewegung
-    in negative :math:`s`-Richtung statt.
+    Die Funktion :math:`s(t)` gibt also die tatsächliche Entfernung des sich
+    bewegenden Objekts zum Ort des Beobachters beziehungsweise dem Ursprung des
+    Koordinatensystems an; die zurückgelegte Wegstrecke :math:`\Delta s =
+    s_{\mathrm{end}} - s_{\mathrm{anfang}}` hingegen ist unabhängig vom Ort des
+    Beobachters.
 
 .. [#] Die Bremsformel :eq:`eqn-bremsformel` lässt sich durch folgende
     Umformungen auf die ursprünglichen Gleichungen
@@ -467,6 +553,6 @@ _{\rm{0}}` lässt sich folgendermaßen beschreiben:
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu geradlinigen
-    Bewegungen>` und :ref:`Übungsaufgaben <Aufgaben zu geradlinigen Bewegungen>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Geradlinige
+    Bewegungen>` und :ref:`Übungsaufgaben <Aufgaben Geradlinige Bewegungen>`.
 

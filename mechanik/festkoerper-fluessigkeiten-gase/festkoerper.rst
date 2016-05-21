@@ -170,7 +170,7 @@ weichen Stahl unter tiefen Temperaturen denen eines härteren Stahls.
 :math:`20 \degree` ermittelt.
 
 
-.. index:: Querkontraktion
+.. index:: Querkontraktion, Poisson-Zahl
 .. _Querkontraktion:
 
 .. rubric:: Querkontraktion
@@ -270,7 +270,7 @@ Auch bei einer Stauchung wird die Formänderung des Materials durch eine
 (Druck-)Spannung beschrieben. Die Druckspannung ist ebenso wie die Zugspannung
 definiert als Verhältnis der einwirkenden Kraft :math:`F` zur Querschnittsfläche
 :math:`A` des Materials. Das Symbol für die stauchende Spannung ist wiederum
-:math:`\sigma`, die Einheit ist ebenfalls Pascal. Fuer eine elastische Stauchung
+:math:`\sigma`, die Einheit ist ebenfalls Pascal. Für eine elastische Stauchung
 gilt:
 
 .. math:: :label: eqn-druckspannung
@@ -298,13 +298,28 @@ auf das eine Ende des Gegenstands, während das andere Ende fest eingespannt ist
 Das Produkt aus der Länge :math:`l` des Gegenstands und der Kraft :math:`F`
 entspricht dem wirkenden Drehmoment :math:`M`.
 
+.. figure:: ../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/biegung.png
+    :name: fig-biegung
+    :alt:  fig-biegung
+    :align: center
+    :width: 50%
+
+    Richtungen der im Material entstehenden Spannungen bei einer Biegung.
+
+    .. only:: html
+
+        :download:`SVG: Biegung
+        <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/biegung.svg>`
+
 Kennzeichnend für eine Biegung ist eine "neutrale Faser" in der Mitte des
 Gegenstands. Oberhalb dieser neutralen Faser steht der Gegenstand unter
 Zugspannung und wird gedehnt, unterhalb der neutralen Faser steht der
 Gegenstand unter Druckspannung und wird gestaucht.
 
 Auf Höhe der neutralen Faser wechselt die Spannung und Dehnung das Vorzeichen
-von positiv (Zugspannung) zu negativ (Druckspannung).
+von positiv (Zugspannung) zu negativ (Druckspannung). Wird die
+Elastizitätsgrenze des Materials auf der Zug- oder Druckseite überschritten, so
+geht die Biegung in eine Knickung über.
 
 .. _Scherung und Torsion:
 
@@ -416,11 +431,11 @@ Torsionswinkel. Der Proportionalitätsfaktor :math:`G` steht wiederum für der
 ..  :math:`\frac{\tau}{r}` ein zweiter Zusammenhang gilt: Übt man auf das zu
 ..  verdrillende Stabende ein Drehmoment :math:`M` aus, so gilt:
 
-..  .. math::
+.. .. math::
 
-    ..  \frac{\tau}{r} = \frac{M}{J _{\rm{T}}}
+..     \frac{\tau}{r} = \frac{M}{J_{\mathrm{T}}}
 
-..  Hierbei wird :math:`J _{\rm{T}}` als Torsionssteifigkeit bezeichnet.
+..  Hierbei wird :math:`J_{\mathrm{T}}` als Torsionssteifigkeit bezeichnet.
 
 ..  Bei Torsionen gilt im linear-elastischen Bereich als Zusammenhang zwischen dem
 ..  wirkenden Drehmoment :math:`M` und dem Drehwinkel :math:`\varphi`: :math:`M = k
@@ -544,3 +559,14 @@ Kehrwert des Kompressionsmoduls , die so genannte Kompressibilität :math:`\kapp
     zurück. Beispiele für solche viskoelastischen Stoffe sind hochpolymere
     Kunststoffe und die menschliche Haut.
 
+
+.. raw:: html
+
+    <hr />
+
+.. hint::
+
+    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben Mechanik der
+    Festkörper>`.
+
+.. :ref:`Experimente <Experimente Geradlinige Bewegungen>` und

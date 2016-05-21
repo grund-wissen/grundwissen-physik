@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3506844"
-     inkscape:cx="388.0901"
-     inkscape:cy="353.26431"
+     inkscape:zoom="0.9121742"
+     inkscape:cx="118.77714"
+     inkscape:cy="679.02251"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-page="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:window-width="1600"
      inkscape:window-height="1150"
      inkscape:window-x="0"
@@ -167,9 +167,9 @@
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.31226254;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect29149"
        width="703.78223"
-       height="404.20407"
+       height="301.15359"
        x="20.156128"
-       y="324.07904" />
+       y="375.60428" />
     <path
        transform="matrix(1.0494432,-0.60589629,-0.60589629,-1.0494432,244.16507,1203.1155)"
        d="m 465.64708,393.44237 a 60.491261,60.491261 0 0 1 -4.69335,-10.39706"

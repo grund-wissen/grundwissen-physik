@@ -79,13 +79,9 @@ Experimente zur Akustik
   "Trommel" ausgehende Windstoß zustande?
 
 
-.. raw:: latex
+----
 
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 

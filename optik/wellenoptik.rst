@@ -63,8 +63,8 @@ einem bestimmten Zeitpunkt einen Wellenberg darstellen. Das Huygensche Prinzip
 kann also als eine Art geometrische Konstruktionshilfe aufgefasst werden, die
 beispielsweise zum Zeichnen der Ausbreitung einer Welle genutzt werden kann. Ist
 eine gleichmäßig verlaufende Welle weit vom ursprünglichen Erregerzentrum
-entfernt, so verlaufen die Wellenfronten bzw. die Ausbreitungsrichtungen nahezu
-geradlinig und parallel.
+entfernt, so verlaufen die Wellenfronten beziehungsweise die
+Ausbreitungsrichtungen nahezu geradlinig und parallel.
 
 .. figure::
     ../pics/optik/lichtwellen-beugungsmuster.png
@@ -97,7 +97,7 @@ Spaltöffnung der Blende als gemeinsames Zentrum haben. [#]_
 
 .. rubric:: Beugung und Interferenz an einem Doppelspalt
 
-Hat eine Blende zwei schmale, im Abstand :math:`s _{\rm{D}}` voneinander
+Hat eine Blende zwei schmale, im Abstand :math:`s_{\mathrm{D}}` voneinander
 entfernte Öffnungen, so teilt sich eine einfallende Lichtwelle hinter der Blende
 in zwei kreisförmige, von den beiden Öffnungen aus verlaufende Wellen auf. Diese
 Wellen überlagern sich, so dass es an bestimmten Stellen zu konstruktiver, an
@@ -171,14 +171,14 @@ verlaufen die Lichtwellen anschließend in Gegenphase, es tritt also destruktive
 Interferenz auf.
 
 Wie weit die hellen und dunklen Streifen auf dem Schirm auseinander liegen bzw.
-unter welchen Winkeln :math:`\alpha _{k}` sie erscheinen, ist somit von der
+unter welchen Winkeln :math:`\alpha_{k}` sie erscheinen, ist somit von der
 Wellenlänge :math:`\lambda` abhängig. Bezüglich des Winkels :math:`\alpha
-_{\rm{k}}` gelten zudem folgende geometrische Beziehungen:
+_{\mathrm{k}}` gelten zudem folgende geometrische Beziehungen:
 
 
 ..  Beispielsweise werden so die Maxima von
-..  rotem Licht mit :math:`\lambda _{\rm{rot}} = \unit[700]{nm}` weiter
-..  "aufgefächert" als die Maxima von blauem Licht mit :math:`\lambda _{\rm{blau}} =
+..  rotem Licht mit :math:`\lambda_{\mathrm{rot}} = \unit[700]{nm}` weiter
+..  "aufgefächert" als die Maxima von blauem Licht mit :math:`\lambda_{\mathrm{blau}} =
 ..  \unit[450]{nm}`.
 
 * Der Abstand :math:`s \approx \unit[5]{m}` zwischen dem Doppelspalt und dem
@@ -341,9 +341,9 @@ schmale Blende) begrenzt werden. Die Spaltöffnung wirkt in diesem Fall in guter
 Näherung wie eine einzige punktförmige Lichtquelle, so dass die einzelnen
 Lichtwellen hinter dem Spalt eine (nahezu) konstante Phasenlage zueinander
 aufweisen, und somit einzelne Wellen gleicher Wellenlänge jeweils :ref:`kohärent
-<Kohärenz und Gangunterschied>` sind. Bei der Verwendung von Lasern kann die spaltartige Blende vor
-dem Gitter weggelassen werden, da Laser aufgrund ihres besonderen Aufbaus
-bereits von sich aus kohärentes Licht erzeugen.
+<Kohärenz und Gangunterschied>` sind. Bei der Verwendung von Lasern kann die
+spaltartige Blende vor dem Gitter weggelassen werden, da Laser aufgrund ihres
+besonderen Aufbaus bereits von sich aus kohärentes Licht erzeugen.
 
 .. index::
     single: Spektrometer ; Gitterspektrometer

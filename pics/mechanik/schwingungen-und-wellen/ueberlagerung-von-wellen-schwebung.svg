@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64500458"
-     inkscape:cx="553.60256"
-     inkscape:cy="453.69086"
+     inkscape:zoom="0.43559882"
+     inkscape:cx="272.55308"
+     inkscape:cy="881.29587"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,7 +36,7 @@
      inkscape:object-nodes="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:object-paths="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-center="true"
      inkscape:snap-nodes="true"
      inkscape:snap-intersection-paths="true"
@@ -59,7 +59,7 @@
        orientation="0,1" />
     <sodipodi:guide
        id="guide35419"
-       position="25.932725,526.18108"
+       position="93.897655,526.15153"
        orientation="0,1" />
   </sodipodi:namedview>
   <title
@@ -1018,12 +1018,12 @@
       </g>
     </g>
     <rect
-       y="140.60481"
-       x="3.8654175"
-       height="771.15247"
-       width="736.36365"
+       y="153.56583"
+       x="3.8400419"
+       height="745.23047"
+       width="736.41443"
        id="rect125988"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.94924855;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
@@ -2252,6 +2252,17 @@
          width="1000"
          style="fill:none;stroke:#cccccc;stroke-width:2.50912833" />
     </g>
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="matrix(0,-1,1,0,-154.13382,898.2283)"
+       id="use125072"
+       xlink:href="#path7147"
+       y="0"
+       x="0"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <g
        transform="matrix(4.0890254,0,0,4.0890254,-580.0604,-353.02861)"
        id="g7181"
@@ -2279,50 +2290,50 @@
          inkscape:connector-curvature="0"
          id="use73476"
          d="m 180.78409,515.27126 -14.78833,0"
-         style="fill:none;stroke:#000000;stroke-width:0.94764137;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#000000;stroke-width:0.94764137000000004;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="use73478"
          d="m 180.78409,478.91829 -14.78833,0"
-         style="fill:none;stroke:#000000;stroke-width:0.94764137;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#000000;stroke-width:0.94764137000000004;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="use73480"
          d="m 180.78409,442.56532 -14.78833,0"
-         style="fill:none;stroke:#000000;stroke-width:0.94764137;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#000000;stroke-width:0.94764137000000004;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="use73482"
          d="m 180.78409,406.21235 -14.78833,0"
-         style="fill:none;stroke:#000000;stroke-width:0.94764137;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#000000;stroke-width:0.94764137000000004;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="use73484"
          d="m 180.78409,624.33016 -14.78833,0"
-         style="fill:none;stroke:#000000;stroke-width:0.94764137;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#000000;stroke-width:0.94764137000000004;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="use73486"
          d="m 180.78409,660.68314 -14.78833,0"
-         style="fill:none;stroke:#000000;stroke-width:0.94764137;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#000000;stroke-width:0.94764137000000004;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="use73488"
          d="m 180.78409,697.03611 -14.78833,0"
-         style="fill:none;stroke:#000000;stroke-width:0.94764137;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#000000;stroke-width:0.94764137000000004;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="use73490"
          d="m 180.78409,733.38907 -14.78833,0"
-         style="fill:none;stroke:#000000;stroke-width:0.94764137;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#000000;stroke-width:0.94764137000000004;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="use73492"
          d="m 180.78409,769.74204 -14.78833,0"
-         style="fill:none;stroke:#000000;stroke-width:0.94764137;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;stroke:#000000;stroke-width:0.94764137000000004;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        d="m 381.92702,466.4557 -23.91271,0"
        id="path7353-7"
        inkscape:connector-curvature="0"
@@ -2350,7 +2361,7 @@
       </g>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.00000048;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       style="fill:none;stroke:#000000;stroke-width:3.00000048000000019;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
        d="m 25.932725,526.18106 686.055025,0"
        id="path7147"
        inkscape:connector-curvature="0"
@@ -2362,7 +2373,7 @@
        inkscape:connector-curvature="0"
        id="path7353"
        d="m 431.82897,513.91166 0,23.91271"
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
@@ -2376,7 +2387,8 @@
        height="1052.3622"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
        inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+       inkscape:export-ydpi="150"
+       style="stroke-linecap:round" />
     <use
        x="0"
        y="0"
@@ -2387,7 +2399,8 @@
        height="1052.3622"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
        inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+       inkscape:export-ydpi="150"
+       style="stroke-linecap:round" />
     <use
        x="0"
        y="0"
@@ -2398,7 +2411,8 @@
        height="1052.3622"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
        inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+       inkscape:export-ydpi="150"
+       style="stroke-linecap:round" />
     <use
        x="0"
        y="0"
@@ -2409,7 +2423,8 @@
        height="1052.3622"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
        inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+       inkscape:export-ydpi="150"
+       style="stroke-linecap:round" />
     <use
        x="0"
        y="0"
@@ -2420,7 +2435,8 @@
        height="1052.3622"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
        inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+       inkscape:export-ydpi="150"
+       style="stroke-linecap:round" />
     <use
        x="0"
        y="0"
@@ -2431,7 +2447,8 @@
        height="1052.3622"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
        inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+       inkscape:export-ydpi="150"
+       style="stroke-linecap:round" />
     <use
        height="1052.3622"
        width="744.09448"
@@ -2442,7 +2459,8 @@
        x="0"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
        inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+       inkscape:export-ydpi="150"
+       style="stroke-linecap:round" />
     <use
        height="744.09448"
        width="1052.3622"
@@ -2453,7 +2471,8 @@
        x="0"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
        inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+       inkscape:export-ydpi="150"
+       style="stroke-linecap:round" />
     <use
        height="744.09448"
        width="1052.3622"
@@ -2464,7 +2483,8 @@
        x="0"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
        inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+       inkscape:export-ydpi="150"
+       style="stroke-linecap:round" />
     <g
        style="fill:#4d4d4d"
        id="g127367"
@@ -3487,37 +3507,6 @@
         </g>
       </g>
     </g>
-    <use
-       height="1052.3622"
-       width="744.09448"
-       transform="matrix(0,-1,1,0,-154.13382,898.2283)"
-       id="use125072"
-       xlink:href="#path7147"
-       y="0"
-       x="0"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       sodipodi:nodetypes="csssssccccscccscscscsscscscccccscc"
-       id="path3147"
-       title="t sin(5*t)"
-       d="m 371.9308,526.14283 c 3.01903,-42.83721 4.96592,-89.26077 5.56877,-101.38325 0.736,-14.80002 4.65758,-32.07333 7.11912,2.1081 2.29611,31.88429 10.44984,155.77592 11.55431,190.9187 0.79278,25.22505 4.4385,35.56143 7.58515,-0.0226 4.07414,-46.07262 10.35368,-150.4303 10.92117,-162.82061 1.26843,-27.69421 4.31678,-61.23319 8.95339,-18.50807 4.24901,33.42286 10.39758,156.17947 10.74393,159.02465 3.26875,30.60406 6.5375,43.75067 9.80625,6.51804 l 11.62783,-153.48728 c 0,0 3.10075,-27.51918 6.2015,0 3.10076,27.51919 11.62783,129.45645 11.62783,129.45645 1.83164,25.08477 4.23725,16.58598 6.97669,-3.28885 6.2015,-37.20904 15.50376,-87.60198 15.50376,-87.60198 3.25645,-24.13756 5.01519,-20.08689 8.13948,0.7054 0.45665,3.03904 8.33328,64.21657 8.33328,64.21657 0,0 2.71316,32.36411 11.24023,-1.74417 8.52707,-34.10828 9.49605,-39.14701 9.49605,-39.14701 0,0 2.71316,-13.372 8.91467,0.58139 6.20151,13.95339 7.36429,15.21307 7.36429,15.21307 -0.12461,0.0831 3.28927,4.26705 6.9767,0 3.24545,-3.75561 7.38743,-9.06266 11.82161,-1.45348 0.73983,1.26957 4.73237,10.55811 7.25077,14.92238 0.67829,1.16286 4.86155,10.6533 8.8344,0 3.94382,-10.57548 9.73687,-45.73611 9.73687,-45.73611 0.93758,-4.57253 5.60651,-15.40233 8.86764,-0.77519 3.64145,16.333 10.07745,72.09251 10.07745,72.09251 -0.29163,0.29554 3.94193,36.79597 10.46505,-0.58139 3.63439,-28.3112 9.49605,-96.70474 9.49605,-96.70474 0,0 4.39596,-35.80677 9.17496,-1.16278 4.779,33.95881 11.17373,131.00682 11.17373,131.00682 0,0 5.42632,32.55791 8.52707,0 3.10076,-32.55791 6.9767,-106.2008 6.9767,-106.2008 l 1.48387,-19.592"
-       style="fill:none;stroke:#008000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
-    <path
-       inkscape:export-ydpi="150"
-       inkscape:export-xdpi="150"
-       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
-       inkscape:connector-curvature="0"
-       style="fill:none;stroke:#008000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 372.04724,526.18105 c -3.01903,42.83721 -7.48555,88.43928 -8.45946,98.96426 -1.36535,14.75527 -4.79462,31.93629 -7.25616,-2.24514 -2.29611,-31.88429 -10.44984,-155.77592 -11.55431,-190.9187 -0.79278,-25.22505 -4.4385,-35.56143 -7.58515,0.0226 -4.07414,46.07262 -10.35368,150.4303 -10.92117,162.82061 -1.26843,27.69421 -4.31678,61.23319 -8.95339,18.50807 -4.24901,-33.42286 -10.39758,-156.17947 -10.74393,-159.02465 -3.26875,-30.60406 -6.5375,-43.75067 -9.80625,-6.51804 L 284.752,601.27734 c 0,0 -3.10075,27.51918 -6.2015,0 -3.10076,-27.51919 -11.24024,-129.45645 -11.24024,-129.45645 -1.83164,-25.08477 -4.23725,-16.58598 -6.97669,3.28885 -6.2015,37.20904 -15.50376,87.60198 -15.50376,87.60198 -3.25645,24.13756 -5.01519,20.08689 -8.13948,-0.7054 -0.45665,-3.03904 -8.33328,-64.21657 -8.33328,-64.21657 0,0 -2.71316,-32.36411 -11.24023,1.74417 -8.52707,34.10828 -9.49605,39.14701 -9.49605,39.14701 0,0 -2.71316,13.372 -8.91467,-0.58139 -6.20151,-13.95339 -7.36429,-15.21307 -7.36429,-15.21307 0.12461,-0.0831 -3.28927,-4.26705 -6.9767,0 -3.24545,3.75561 -7.38743,9.06266 -11.82161,1.45348 -0.73983,-1.26957 -4.73237,-10.55811 -7.25077,-14.92238 -0.67829,-1.16286 -4.86155,-10.6533 -8.8344,0 -3.94382,10.57548 -9.73687,45.73611 -9.73687,45.73611 -0.93758,4.57253 -5.60651,15.40233 -8.86764,0.77519 -3.64145,-16.333 -10.07745,-72.09251 -10.07745,-72.09251 0.29163,-0.29554 -3.94193,-36.79597 -10.46505,0.58139 -3.63439,28.3112 -9.49605,96.70474 -9.49605,96.70474 0,0 -4.39596,35.80677 -9.174961,1.16278 -4.778996,-33.95881 -11.173726,-131.00682 -11.173726,-131.00682 0,0 -5.42632,-32.55791 -8.52707,0 -3.10076,32.55791 -6.9767,106.2008 -6.9767,106.2008 l -1.48387,19.592"
-       title="t sin(5*t)"
-       id="path35417"
-       sodipodi:nodetypes="csssssccccscccscscscsscscscccccscc" />
     <g
        id="g36026"
        style="fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1.18003047;stroke-opacity:1"
@@ -3902,5 +3891,15 @@
         </g>
       </g>
     </g>
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/mechanik/schwingungen-und-wellen/ueberlagerung-von-wellen-schwebung.png"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#008000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 669.92854,500.20475 c -0.0136,0.1938 -1.79025,25.81271 -1.80379,26.00586 -7.99933,114.17228 -11.29485,114.93688 -19.97764,0 -6.36998,-97.44006 -11.75556,-97.21997 -19.61692,0 -7.06384,74.74757 -11.58836,74.86653 -20.0749,0 -4.90515,-51.49107 -11.24734,-51.4622 -19.84592,0 -5.26282,26.79096 -9.43464,26.20143 -19.29489,0 -2.73813,-4.92523 -7.14332,-4.79895 -10.16866,0 -3.85125,4.33289 -7.92624,4.22074 -10.28714,0 -8.12787,-26.4678 -15.82074,-26.15708 -19.37995,0 -9.67111,50.98734 -13.73132,50.96502 -20.04947,0 -8.19249,-75.17819 -13.47514,-75.04525 -19.76958,0 -8.65308,96.10452 -13.42919,96.32315 -19.81961,0 -8.35197,-116.00217 -12.2897,-116.1115 -20.1485,0 -6.44245,131.15257 -14.0383,131.30257 -19.45394,-0.0296 -6.43954,-144.08699 -14.8064,-143.42156 -20.15911,0.0296 -7.20781,151.4812 -12.50295,152.02025 -19.50587,0 -6.51133,-157.49117 -13.62774,-157.41293 -19.61501,0 -8.53457,155.92344 -12.73445,156.1613 -20.13936,0 -8.3484,-152.4134 -12.17894,-152.90446 -19.83852,-0.0296 -8.27203,143.41418 -11.29579,143.70843 -20.084,0 -6.31506,-132.37236 -12.82462,-132.10509 -19.88984,0 -6.67466,115.36957 -13.17647,115.5645 -19.63892,10e-6 -6.58644,-96.69897 -12.55596,-96.72623 -20.1032,0.0295 -6.93419,74.39485 -11.19942,74.27804 -19.57672,0 -5.68046,-51.2109 -11.68881,-51.14324 -19.90741,-0.0296 -5.24444,26.2438 -8.63706,26.39775 -19.5307,10e-6 -1.98093,-4.64932 -7.00019,-4.81625 -10.0121,-10e-6 -3.35738,4.4658 -7.18893,5.20379 -9.95773,0.0296 -10.26924,-26.87412 -14.4203,-26.92236 -19.87478,0 -8.98333,51.64649 -13.42376,51.65659 -20.01642,-0.0296 -7.57605,-74.91657 -13.47213,-74.48894 -19.6424,0.0296 -7.7062,96.00881 -12.21098,96.02805 -19.924367,0 -7.851168,-115.54587 -12.910274,-115.13534 -19.682566,-0.0296"
+       title="t sin(5*t)"
+       id="path35417"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
   </g>
 </svg>

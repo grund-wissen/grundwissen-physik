@@ -3,12 +3,60 @@
 Experimente zur Dynamik
 =======================
 
-.. _Experimente zum Zusammenwirken mehrerer Kräfte:
+.. _Experimente Mechanische Kräfte:
 
-Experimente zum Zusammenwirken mehrerer Kräfte
-----------------------------------------------
+Mechanische Kräfte
+------------------
 
-Die folgenden Versuche beziehen sich auf den Abschnitt :ref:`Zusammenwirken
+Das folgende Experiment bezieht sich auf den Abschnitt :ref:`Mechanische Kräfte <Mechanische Kräfte>`.
+
+----
+
+.. _Kraft und Verformung:
+
+.. rubric:: Kraft und Verformung
+
+*Material:*
+
+.. hlist::
+    :columns: 2
+
+    * Eine Sperrholz-Platte (:math:`4 \text{ bis } \unit[6]{mm}` dick)
+    * Zwei Holzklötze :math:`(6 \times 6 \text{ oder } \unit[8 \times 8]{cm})`
+    * Verschiedene Gewichte
+
+.. figure::
+    ../../pics/mechanik/dynamik/experiment-kraft-und-verformung.png
+    :align: center
+    :width: 40%
+    :name: fig-experiment-kraft-und-verformung
+    :alt:  fig-experiment-kraft-und-verformung
+
+    Verformung einer Holzplatte durch die einwirkende Gewichtskraft.
+
+    .. only:: html
+
+        :download:`SVG: Kraft und Verformung
+        <../../pics/mechanik/dynamik/experiment-kraft-und-verformung.svg>`
+
+*Durchführung:*
+
+- Lege eine dünne Holzplatte auf zwei auseinander liegende Holzklötze. Stelle
+  dann mitten auf die Holzplatte ein Gewicht. Kannst Du erkennen, wie sich die
+  Platte durch die Gewichtskraft des Probekörpers verformt?
+- Nimm das Gewicht herunter und versuche die Platte ebenso zu verformen,
+  indem Du mit der Hand darauf drückst. Übt die Holzplatte dabei ebenfalls
+  einen Druck auf Dich aus?
+
+----
+
+
+.. _Experimente Zusammenwirken mehrerer Kräfte:
+
+Zusammenwirken mehrerer Kräfte
+------------------------------
+
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Zusammenwirken
 mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
 ----
@@ -105,54 +153,14 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
 ----
 
+.. _Experimente Arten mechanischer Kräfte:
 
-.. _Experimente zu mechanischen Kräften:
+Arten mechanischer Kräfte
+-------------------------
 
-Experimente zu mechanischen Kräften
------------------------------------
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Arten
+mechanischer Kräfte <Arten mechanischer Kräfte>`.
 
-Die folgenden Versuche beziehen sich auf die Abschnitte :ref:`Kraft <Kraft>`.
-und :ref:`Arten mechanischer Kräfte <Arten mechanischer Kräfte>`.
-
-----
-
-.. _Kraft und Verformung:
-
-.. rubric:: Kraft und Verformung
-
-*Material:*
-
-.. hlist::
-    :columns: 2
-
-    * Eine Sperrholz-Platte (:math:`4 \text{ bis } \unit[6]{mm}` dick)
-    * Zwei Holzklötze :math:`(6 \times 6 \text{ oder } \unit[8 \times 8]{cm})`
-    * Verschiedene Gewichte
-
-.. figure::
-    ../../pics/mechanik/dynamik/experiment-kraft-und-verformung.png
-    :align: center
-    :width: 40%
-    :name: fig-experiment-kraft-und-verformung
-    :alt:  fig-experiment-kraft-und-verformung
-
-    Verformung einer Holzplatte durch die einwirkende Gewichtskraft.
-
-    .. only:: html
-
-        :download:`SVG: Kraft und Verformung
-        <../../pics/mechanik/dynamik/experiment-kraft-und-verformung.svg>`
-
-*Durchführung:*
-
-- Lege eine dünne Holzplatte auf zwei auseinander liegende Holzklötze. Stelle
-  dann mitten auf die Holzplatte ein Gewicht. Kannst Du erkennen, wie sich die
-  Platte durch die Gewichtskraft des Probekörpers verformt?
-- Nimm das Gewicht herunter und versuche die Platte ebenso zu verformen,
-  indem Du mit der Hand darauf drückst. Übt die Holzplatte dabei ebenfalls
-  einen Druck auf Dich aus?
-
-.. _Versuche zu Arten mechanischer Kräfte:
 
 ----
 
@@ -235,7 +243,7 @@ lassen.
   Du weitere Gewichte an der Schraubenfeder befestigst? Notiere dazu jeweils die
   Gewichtskraft der angebrachten Probekörper sowie die Längenänderung der
   Schraubenfeder in einer Tabelle.
-- Optional: Wiederhole den Versuch mit einer weicheren oder härteren Feder.
+- Optional: Wiederhole das Experiment mit einer weicheren oder härteren Feder.
   Fertige ein Diagramm aus den tabellarischen Messwerten an. Welchen
   Zusammenhang kannst Du erkennen?
 
@@ -246,7 +254,7 @@ lassen.
 
 .. rubric:: Kugel in einer Modell-Zentrifuge
 
-Mit diesem Versuch wird das Kräftegleichgewicht aus Hangabtriebskraft und
+Mit diesem Experiment wird das Kräftegleichgewicht aus Hangabtriebskraft und
 Zentripetalkraft bei einer Modell-Zentrifuge schön veranschaulicht.
 
 *Vorbereitung:*
@@ -285,14 +293,9 @@ Zentripetalkraft bei einer Modell-Zentrifuge schön veranschaulicht.
   Ruhelage auslenkt. Was stellst Du fest? Wie kannst Du Deine Beobachtung
   erklären?
 
+----
 
-.. raw:: latex
-
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 

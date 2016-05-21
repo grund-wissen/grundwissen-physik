@@ -1,20 +1,19 @@
-.. index::
-    single: Kraftaddition
+.. index:: Kraftaddition
 .. _Zusammenwirken mehrerer Kräfte:
 
 Zusammenwirken mehrerer Kräfte
 ==============================
 
 Wirken mehrere Kräfte auf einen Körper ein, so kann man sich diese als zu einer
-Gesamtkraft zusammengesetzt denken. Die Gesamtkraft :math:`F _{\rm{ges}}` hat
+Gesamtkraft zusammengesetzt denken. Die Gesamtkraft :math:`F_{\mathrm{ges}}` hat
 auf den Körper die gleiche Wirkung wie die gemeinsame Wirkung der :math:`n`
 einzelnen (Teil-)Kräfte.
 
 .. math::
     :label: eqn-kraftaddition
 
-    \vec{F} _{\rm{ges}} =  \vec{F} _{\rm{1}} +
-    \vec{F} _{\rm{2}} + \ldots + \vec{F} _{\rm{n}}
+    \vec{F}_{\mathrm{ges}} =  \vec{F}_1 + \vec{F}_2 + \ldots +
+    \vec{F}_{\mathrm{n}}
 
 Will man die Wirkung mehrerer Kräfte auf einen Körper angeben, müssen Betrag
 und Richtung jeder Kraft bekannt sein.
@@ -111,24 +110,24 @@ Vektors an die Spitze des anderen Vektors verschoben wird. Die Verbindungslinie
 vom gemeinsamen Angriffspunkt zum sich so ergebenden Endpunkt entspricht dann
 der resultierenden Gesamtkraft. [#]_
 
-Rechnerisch erhält man die sich aus zwei Teilkräften :math:`\vec{F} _{\rm{1}}`
-und :math:`\vec{F} _{\rm{2}}` ergebende Gesamtkraft :math:`\vec{F} _{\rm{ges}}`,
+Rechnerisch erhält man die sich aus zwei Teilkräften :math:`\vec{F}_1`
+und :math:`\vec{F}_2` ergebende Gesamtkraft :math:`\vec{F}_{\mathrm{ges}}`,
 indem man die einzelnen Komponenten beider Kraftvektoren miteinander addiert:
 
 .. math::
 
-    \vec{F} _{\rm{1}} + \vec{F} _{\rm{2}} = \begin{pmatrix}
-    F _{\rm{x,1}} \\
-    F _{\rm{y,1}} \\
-    F _{\rm{z,1}} \\
+    \vec{F}_1 + \vec{F}_2 = \begin{pmatrix}
+    F_{\mathrm{x,1}} \\
+    F_{\mathrm{y,1}} \\
+    F_{\mathrm{z,1}} \\
     \end{pmatrix} + \begin{pmatrix}
-    F _{\rm{x,2}} \\
-    F _{\rm{y,2}} \\
-    F _{\rm{z,2}} \\
+    F_{\mathrm{x,2}} \\
+    F_{\mathrm{y,2}} \\
+    F_{\mathrm{z,2}} \\
     \end{pmatrix} = \begin{pmatrix}
-    F _{\rm{x,1}} + F _{\rm{x,2}} \\
-    F _{\rm{y,1}} + F _{\rm{y,2}} \\
-    F _{\rm{z,1}} + F _{\rm{z,2}} \\
+    F_{\mathrm{x,1}} + F_{\mathrm{x,2}} \\
+    F_{\mathrm{y,1}} + F_{\mathrm{y,2}} \\
+    F_{\mathrm{z,1}} + F_{\mathrm{z,2}} \\
     \end{pmatrix}
 
 Der Betrag der wirkenden Gesamtkraft ist auch hierbei gleich dem Betrag des
@@ -136,10 +135,10 @@ Ergebnisvektors, der sich gemäß folgender Formel berechnen lässt:
 
 .. math::
 
-    F _{\rm{ges}} = |\vec{F} _{\rm{ges}}| = \sqrt{F _{\rm{ges,x}}^2 + F
-    _{\rm{ges,y}}^2 + F _{\rm{ges,3}}^2}
+    F_{\mathrm{ges}} = |\vec{F} _{\mathrm{ges}}| = \sqrt{F_{\mathrm{ges,x}}^2 + F
+    _{\mathrm{ges,y}}^2 + F_{\mathrm{ges,3}}^2}
 
-.. Verallgemeinerung: Mehrere Kräfte.
+.. todo Verallgemeinerung: Mehrere Kräfte.
 
 .. index::
     single: Kraftzerlegung
@@ -156,10 +155,10 @@ eine gleiche Wirkung hervorrufen.
 *Beispiel:*
 
 * Eine Straßenlampe wird von zwei Halteseilen getragen. Diese können nur
-  Zugkräfte vermitteln, d.h. die Teilkräfte :math:`\vec{F} _{\rm{1}}` und
-  :math:`\vec{F} _{\rm{2}}` in den Seilen müssen entlang der Seilrichtungen
+  Zugkräfte vermitteln, d.h. die Teilkräfte :math:`\vec{F}_1` und
+  :math:`\vec{F}_2` in den Seilen müssen entlang der Seilrichtungen
   verlaufen; die Summe beider Teilkräfte wiederum muss der Gewichtskraft
-  :math:`\vec{F} _{\rm{G}}` der Lampe entsprechen.
+  :math:`\vec{F}_{\mathrm{G}}` der Lampe entsprechen.
 
 .. figure:: ../../pics/mechanik/dynamik/kraftzerlegung-strassenlampe.png
     :name: fig-kraftzerlegung
@@ -176,8 +175,8 @@ eine gleiche Wirkung hervorrufen.
 
 Um eine Kraft in zwei gegebene Richtungen zu zerlegen, zeichnet man vom Anfangs-
 und Endpunkt der Kraft Parallelen zu diesen Richtungen. Das entstehende
-Parallelogramm ergibt die gesuchten Teilkräfte :math:`\vec{F} _{\rm{1}}` und
-:math:`\vec{F} _{\rm{2}}`.
+Parallelogramm ergibt die gesuchten Teilkräfte :math:`\vec{F} _1` und
+:math:`\vec{F} _2`.
 
 .. figure:: ../../pics/mechanik/dynamik/kraftzerlegung-bei-bekannten-winkeln.png
     :name: fig-kraftzerlegung-bei-bekannten-winkeln
@@ -229,7 +228,7 @@ als der Betrag :math:`F` der zu zerlegenden Kraft.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zum Zusammenwirken
-    mehrerer Kräfte>` und :ref:`Übungsaufgaben <Aufgaben zum Zusammenwirken
-    mehrerer Kräfte>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Zusammenwirken
+    mehrerer Kräfte>` und :ref:`Übungsaufgaben <Aufgaben Zusammenwirken mehrerer
+    Kräfte>`.
 

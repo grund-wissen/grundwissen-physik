@@ -1,12 +1,12 @@
-.. _Experimente zu Kraftwandlern und Getrieben:
+.. _Experimente Kraftwandlern und Getrieben:
 
-Experimente zu Kraftwandlern und Getrieben
-==========================================
+Kraftwandler und Getriebe
+=========================
 
-.. _Experimente zu Hebeln:
+.. _Experimente Hebel:
 
-Experimente zu Hebeln
----------------------
+Hebel
+-----
 
 Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Hebel <Hebel>`.
 
@@ -131,10 +131,10 @@ getestet und geübt werden.
 ----
 
 
-.. _Experimente zur schiefen Ebene:
+.. _Experimente Schiefe Ebene:
 
-Experimente zur schiefen Ebene
-------------------------------
+Schiefe Ebene
+-------------
 
 Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Schiefe Ebene <Schiefe Ebene>`.
 
@@ -200,10 +200,10 @@ Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Schiefe Ebene <S
   liegen? Wie kannst Du das Ergebnis erklären?
 
 
-.. _Experimente zu Flaschenzügen und Rollen:
+.. _Experimente Flaschenzüge und Rollen:
 
-Experimente zu Flaschenzügen und Rollen
----------------------------------------
+Flaschenzüge und Rollen
+-----------------------
 
 Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Flaschenzüge und
 Rollen <Flaschenzüge und Rollen>`.
@@ -222,18 +222,19 @@ Rollen <Flaschenzüge und Rollen>`.
     * Zwei runde, stabile Holzstangen (z.B. Besenstile)
     * Ein ca. :math:`\unit[4]{m}` langes, zugfestes Seil
 
-.. figure:: ../../pics/mechanik/kraftwandler-und-getriebe/stangen-flaschenzug.png
-    :width: 60%
+.. image:: ../../pics/mechanik/kraftwandler-und-getriebe/stangen-flaschenzug.png
     :align: center
-    :name: fig-stangen-flaschenzug
-    :alt:  fig-stangen-flaschenzug
+    :width: 60%
 
-    Das Prinzip eines Flaschenzugs mittels zweier Besen.
+.. only:: html
 
-    .. only:: html
+    .. centered:: :download:`SVG: Stangen-Flaschenzug
+                    <../../pics/mechanik/kraftwandler-und-getriebe/stangen-flaschenzug.svg>`
 
-        :download:`SVG: Stangen-Flaschenzug
-        <../../pics/mechanik/kraftwandler-und-getriebe/stangen-flaschenzug.svg>`
+.. :name: fig-stangen-flaschenzug
+.. :alt:  fig-stangen-flaschenzug
+
+.. Das Prinzip eines Flaschenzugs mittels zweier Besen.
 
 *Durchführung:*
 
@@ -245,17 +246,13 @@ Rollen <Flaschenzüge und Rollen>`.
 - Was passiert, wenn das Seil noch öfters um die beiden Holzstangen gewickelt
   wird? Wie könnten Reibungseffekte verringert werden?
 
-.. raw:: latex
+----
 
-    \rule{\linewidth}{0.5pt}
+..  zahnrad-wellrad-kurbel.rst
 
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 
     :ref:`Zurück zum Skript <Kraftwandler und Getriebe>`
-
-..  zahnrad-wellrad-kurbel.rst
 

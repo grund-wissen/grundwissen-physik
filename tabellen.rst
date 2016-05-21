@@ -26,6 +26,9 @@ aufgelistet.
     * - adhaerere
       - aneinander haften
       - Adhäsionskraft
+    * - aggregare
+      - sich ansammeln
+      - Aggregatszustand
     * - area
       - Fläche
       - Areal; area = Fläche (en.)
@@ -1134,7 +1137,7 @@ Periodensystem der Elemente
     \newpage
     \newgeometry{left=1cm, right=1cm, top=1cm, bottom=1cm}
     \begin{landscape}
-    \centering\includegraphics[height=1.0\textheight]{../../pics/atomphysik/periodensystem-mit-elektronenkonfiguration.png}
+    \centering\includegraphics[height=0.95\textheight]{../../pics/atomphysik/periodensystem-mit-elektronenkonfiguration.png}
     \end{landscape}
 
 

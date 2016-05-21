@@ -1,19 +1,30 @@
-.. _Wärmekraftmaschinen:
 
-Wärmekraftmaschinen
-===================
+.. _Kreisprozesse:
 
-Wärmekrafmaschinen wandeln chemische Energie durch Verbrennung in thermische
-Energie um. 
+Kreisprozesse
+=============
 
-.. Über einen Kurbel-Antrieb wird die Hubkraft in eine Drehbewegung überführt und
-.. ist damit für die Antriebsräder nutzbar. 
+Der Zustand eines Gases kann durch die Angabe seines Druck :math:`p`, seines
+Volumens :math:`V` und seiner Temperatur :math:`T` beschrieben werden. Ändert
+sich der Zustand eines Gases, so ändern sich entweder alle drei Größen, oder nur
+zwei von ihnen, während die dritte Größe konstant gehalten wird: Bei isothermen
+Zustandsänderungen wird die Temperatur, bei isochoren das Volumen und bei
+isobaren der Druck konstant gehalten.
+
+In Wärmekraftmaschinen wie Benzin- oder Dieselmotoren werden derartige
+Zustandsänderungen nacheinander wiederholt durchlaufen. Man nennt einen solchen
+Vorgang "Kreisprozess", da das Gas nach jedem Durchgang wieder den
+ursprünglichen Zustand erreicht.
 
 
 .. _Carnot-Prozess:
 
 Der Carnot-Prozess
 ------------------
+
+... to be continued...
+
+.. :math:`p(V)`-Diagramm
 
 .. Der Carnot-Prozess beschreibt den Idealfall einer Wärmekraftmaschine, liefert
 .. also bei gegebenen Temperaturniveaus den bestmöglichen Wirkungsgrad
@@ -106,6 +117,25 @@ Der Carnot-Prozess
 
 .. Dokument fahrzeugtechnik12_1.pdf
 
+.. .. _Stirling-Prozess:
+
+.. Der Stirling-Prozess
+.. --------------------
+
+.. In Stirlingmotoren wird ein Gas durch eine externe Wärmequelle in einem
+.. geschlossenenen Kreislauf bewegt.
+
+.. Phase 1: Isotherme Expansion des Arbeitsgases durch Wärmezufuhr; Arbeitsabgabe
+.. Phase 2: Isochore Wärmeabgabe, Abkühlung (keine Arbeit)
+.. Phase 3: Isotherme Kompression, Wärmeabgabe, Arbeitsaufnahme
+.. Phase 4: Aufheizung des Arbeitsgases im Regenerator bei konstantem Volumen durch
+.. Bewegung des Verdrängerkolbens (isochore Erwärmung, keine Arbeit).
+
+.. Wirkungsgrad wie bei Carnot:
+
+.. .. math::
+
+..     \eta = 1 - \frac{T_2}{T_1}
 
 
 

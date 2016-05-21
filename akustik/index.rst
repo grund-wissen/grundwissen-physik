@@ -11,6 +11,7 @@ damit verbundenen Erscheinungen.
     :maxdepth: 2
 
     eigenschaften-von-schall.rst
+    doppler-effekt.rst
 
 .. Um den Ton einer Stimmgaben verstärken zu können, werden Stimmgabeln
 .. oftmals auf einen so genannten Resonanzkasten angebacht. Dessen Luftsäule

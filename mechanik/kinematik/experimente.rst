@@ -1,13 +1,13 @@
 
-.. _Experimente zur Kinematik:
+.. _Experimente Kinematik:
 
-Experimente zur Kinematik
-=========================
+Kinematik
+=========
 
-.. _Experimente zu geradlinigen Bewegungen:
+.. _Experimente Geradlinige Bewegungen:
 
-Experimente zu geradlinigen Bewegungen
---------------------------------------
+Geradlinige Bewegungen
+----------------------
 
 Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Geradlinige
 Bewegungen <Geradlinige Bewegungen>`.
@@ -31,19 +31,18 @@ Bewegungen <Geradlinige Bewegungen>`.
     * Stoppuhr
     * Messtabelle
 
-.. figure::
-    ../../pics/mechanik/kinematik/murmelbahn-gerade.png
+.. image:: ../../pics/mechanik/kinematik/murmelbahn-gerade.png
     :align: center
     :width: 50%
-    :name: fig-murmelbahn-gerade
-    :alt:  fig-murmelbahn-gerade
 
-    Laufzeiten einer Kugel auf einer geraden Murmelbahn.
+.. only:: html
 
-    .. only:: html
+    .. centered:: :download:`SVG: Murmelbahn (gerade)
+                    <../../pics/mechanik/kinematik/murmelbahn-gerade.svg>`
 
-        :download:`SVG: Murmelbahn (gerade)
-        <../../pics/mechanik/kinematik/murmelbahn-gerade.svg>`
+.. :name: fig-murmelbahn-gerade
+.. :alt:  fig-murmelbahn-gerade
+.. Laufzeiten einer Kugel auf einer geraden Murmelbahn.
 
 *Durchführung:*
 
@@ -64,6 +63,7 @@ Bewegungen <Geradlinige Bewegungen>`.
   schneller: Wenn sie das steile Teilstück vor dem flachen, oder wenn sie das
   flache Teilstück vor dem steilen durchläuft?
 
+----
 
 .. .. _Experimente zu kreisförmigen Bewegungen:
 ..
@@ -71,13 +71,7 @@ Bewegungen <Geradlinige Bewegungen>`.
 .. ------------------------------------
 
 
-.. raw:: latex
-
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 

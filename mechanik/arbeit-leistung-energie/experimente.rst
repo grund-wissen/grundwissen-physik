@@ -1,12 +1,12 @@
-.. _Experimente zu Arbeit, Leistung und Energie:
+.. _Experimente Arbeit, Leistung und Energie:
 
-Experimente zu Arbeit, Leistung und Energie
-===========================================
+Arbeit, Leistung und Energie
+============================
 
-.. _Experimente zu mechanischer Arbeit:
+.. _Experimente Mechanische Arbeit:
 
-Experimente zu mechanischer Arbeit
-----------------------------------
+Mechanische Arbeit
+------------------
 
 Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Mechanische
 Arbeit <Mechanische Arbeit>`.
@@ -43,10 +43,10 @@ Arbeit <Mechanische Arbeit>`.
 
 ----
 
-.. _Experimente zu mechanischer Leistung:
+.. _Experimente Mechanische Leistung:
 
-Experimente zu mechanischer Leistung
-------------------------------------
+Mechanische Leistung
+--------------------
 
 Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Mechanische
 Leistung <Leistung>`.
@@ -66,18 +66,19 @@ Leistung <Leistung>`.
     * Ein langes Maßband oder ein Meterstab
     * Klemmbrett, Stift und Schreibblock
 
-.. figure:: ../../pics/mechanik/arbeit-energie-leistung/leistung-im-treppenhaus.png
-    :name: fig-leistung-im-treppenhaus
-    :alt:  fig-leistung-im-treppenhaus
+.. image:: ../../pics/mechanik/arbeit-energie-leistung/leistung-im-treppenhaus.png
     :align: center
     :width: 70%
 
-    Tabelle zur Leistungsmessung im Treppenhaus.
+.. only:: html
 
-    .. only:: html
+    .. centered:: :download:`SVG: Leistungsmessung im Treppenhaus
+                <../../pics/mechanik/arbeit-energie-leistung/leistung-im-treppenhaus.svg>`
 
-        :download:`SVG: Leistungsmessung im Treppenhaus
-        <../../pics/mechanik/arbeit-energie-leistung/leistung-im-treppenhaus.svg>`
+.. :name: fig-leistung-im-treppenhaus
+.. :alt:  fig-leistung-im-treppenhaus
+.. Tabelle zur Leistungsmessung im Treppenhaus.
+
 
 *Durchführung:*
 
@@ -87,21 +88,21 @@ Leistung <Leistung>`.
   Treppe aus, die für ein gefahrloses Hochrennen gut geeignet ist.
 - Messe mit Hilfe eines langen Maßbandes oder eines Meterstabes die Höhe
   :math:`h` der Treppe.
-- Notiere dir die Gewichtskraft :math:`F _{\rm{G}} = m \cdot g` aller Läufer.
-  (Gerundet: :math:`F _{\rm{G}} \approx \text{Masse in kg } \cdot \unit[10]{N}`)
+- Notiere dir die Gewichtskraft :math:`F_{\mathrm{G}} = m \cdot g` aller Läufer.
+  (Gerundet: :math:`F_{\mathrm{G}} \approx \text{Masse in kg } \cdot \unit[10]{N}`)
 - Stoppe jeweils die Zeit :math:`t`, die deine Mitschüler für das Hochrennen der
   Treppe benötigen und trage die Werte in die Messtabelle ein.
-- Berechne zunächst die verrichtete Arbeit :math:`W = F _{\rm{G}} \cdot h` und
+- Berechne zunächst die verrichtete Arbeit :math:`W = F_{\mathrm{G}} \cdot h` und
   anschließend die erbrachte Leistung :math:`P = \frac{W}{t}`. Wer hat beim
   Hochrennen welche Leistung erbracht?
 
 ----
 
 
-.. _Experimente zu mechanischer Energie:
+.. _Experimente Mechanische Energie:
 
-Experimente zu mechanischer Energie
------------------------------------
+Mechanische Energie
+-------------------
 
 Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Mechanische
 Energie <Mechanische Energie>`.
@@ -159,14 +160,9 @@ Energie <Mechanische Energie>`.
   Nägel fallen. Wie wirkt sich die unterschiedliche Masse der Gewichte oder eine
   andere Fallhöhe auf die Eindringtiefe der Nägel aus?
 
+----
 
-.. raw:: latex
-
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 

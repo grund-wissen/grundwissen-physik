@@ -46,11 +46,13 @@ Weltall erscheint uns deshalb schwarz).
 
 * *Selbstleuchtende* Körper:
 
-      Sonne, Sterne, Feuer, Glüh- und Leuchtstofflampen, Kerzen, Glühwürmchen, LEDs usw.
+      Sonne, Sterne, Feuer, Glüh- und Leuchtstofflampen, Kerzen, Glühwürmchen,
+      LEDs usw.
 
 * *Beleuchtete* Körper:
 
-      Erde und Mond, Planeten, Gegenstände (Satelliten, Reflektoren, Staubkörnchen usw.)
+      Erde und Mond, Planeten, Gegenstände (Satelliten, Reflektoren,
+      Staubkörnchen usw.)
 
 Das Licht breitet sich von der Lichtquelle -- solange es auf kein Hindernis
 trifft -- geradlinig und in alle Richtungen aus:
@@ -128,21 +130,21 @@ Lichtstärke.
 
 *Definition und Einheit:*
 
-Die Lichtstärke :math:`I _{\rm{\nu}}` ist eine Basisgröße des internationalen
-Einheitensystems. Ihre Einheit ist das Candela :math:`(\unit[]{cd})`.
+Die Lichtstärke :math:`I_{\mathrm{\nu}}` ist eine Basisgröße des internationalen
+Einheitensystems. Ihre Einheit ist das Candela :math:`(\unit{cd})`.
 
 *Beispiele:*
 
 * Eine Kerzenflamme hat eine Lichtstärke von etwa :math:`\unit[1]{cd}`.
 * Glühlampen haben eine Lichtstärke (je nach Bauart) von :math:`\unit[15]{cd}`
   bis :math:`\unit[150 ]{cd}`.
-* Autoscheinwerfer haben eine Lichtstärke von rund :math:`\unit[50 000 ]{cd}`.
+* Autoscheinwerfer haben eine Lichtstärke von rund :math:`\unit[50 000]{cd}`.
 
 
 .. index:: Beleuchtungsstärke
 
-Während die Lichtstärke :math:`I _{\rm{\nu}}` eine Eigenschaft der Lichtquelle
-ist, gibt die Beleuchtungsstärke :math:`E _{\rm{\nu}}` an, welcher Anteil des
+Während die Lichtstärke :math:`I_{\mathrm{\nu}}` eine Eigenschaft der Lichtquelle
+ist, gibt die Beleuchtungsstärke :math:`E_{\mathrm{\nu}}` an, welcher Anteil des
 Lichts auf eine bestimmte Fläche trifft.
 
 .. figure::
@@ -170,15 +172,15 @@ in gleichem Maß ab, wie die Oberfläche der mit Licht durchfluteten
 
 *Formel und Einheit:*
 
-    Die Beleuchtungsstärke :math:`E _{\nu}` ist umso größer, je größer die Lichtstärke
-    :math:`I _{\nu}` der Lichtquelle ist. Gleichzeitig nimmt die Beleuchtungsstärke
+    Die Beleuchtungsstärke :math:`E_{\nu}` ist umso größer, je größer die Lichtstärke
+    :math:`I_{\nu}` der Lichtquelle ist. Gleichzeitig nimmt die Beleuchtungsstärke
     quadratisch mit dem Abstand :math:`r` von der Lichtquelle ab. Insgesamt gilt:
 
     .. math::
 
-        E _{\nu} = \frac{I _{\nu}}{r^2}
+        E_{\nu} = \frac{I_{\nu}}{r^2}
 
-    Die Beleuchtungsstärke wird in Lux :math:`(\unit[]{lx})` angegeben.
+    Die Beleuchtungsstärke wird in Lux :math:`(\unit{lx})` angegeben.
 
 ..  Ein Lux entspricht derjenigen Beleuchtungsstärke, die eine Lichtquelle der
 ..  Lichtstärke :math:`\unit[1]{cd}` bei senkrechtem Lichteinfall im Abstand von
@@ -359,6 +361,6 @@ Lampe angestrahlt wird.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zur Ausbreitung des Lichts>` und
-    :ref:`Übungsaufgaben <Aufgaben zur Ausbreitung des Lichts>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Ausbreitung des
+    Lichts>` und :ref:`Übungsaufgaben <Aufgaben Ausbreitung des Lichts>`.
 

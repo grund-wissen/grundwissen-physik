@@ -264,13 +264,13 @@ vergrößert betrachtet. [#]_
         <../pics/optik/fernrohr-kepler.svg>`
 
 Insgesamt ergibt sich bei einem Kepler-Fernrohr eine Vergrößerung, die dem
-Verhältnis der Brennweite :math:`f _{\rm{Obj}}` des Objektivs zur Brennweite
-:math:`f _{\rm{Ok}}` des Okulars entspricht:
+Verhältnis der Brennweite :math:`f_{\mathrm{Obj}}` des Objektivs zur Brennweite
+:math:`f_{\mathrm{Ok}}` des Okulars entspricht:
 
 .. math::
     :label: eqn-fernrohr-kepler
 
-    V _{\rm{K}} = \frac{f _{\rm{Obj}}}{f _{\rm{Ok}}}
+    V_{\mathrm{K}} = \frac{f_{\mathrm{Obj}}}{f_{\mathrm{Ok}}}
 
 Neben der (verhältnismäßig geringen) Vergrößerung des Sehwinkels bewirkt das
 Linsensystem eines Kepler-Fernrohrs, dass die gesamte auf das Objektiv
@@ -278,11 +278,11 @@ einfallende Lichtmenge auf die deutlich kleinere Okularlinse gebündelt und und
 damit vom Auge wahrgenommen wird; das vom Fernrohr erzeugte Bild erscheint somit
 heller.
 
-Die Mindestlänge :math:`l _{\rm{K}}` eines Kepler-Fernrohrs ist gleich der
-Summe der Brennweiten des Objektivs und Okulars, also :math:`l _{\rm{K}} = f
-_{\rm{Obj}} + f _{\rm{Ok}}`. Der Grund hierfür ist, dass sich das erzeugte
-Zwischenbild (knapp) außerhalb der Brennweite :math:`f _{\rm{Obj}}` des
-Objektivs und nahezu an der Brennweite :math:`f _{\rm{Ok}}` des Okulars
+Die Mindestlänge :math:`l_{\mathrm{K}}` eines Kepler-Fernrohrs ist gleich der
+Summe der Brennweiten des Objektivs und Okulars, also :math:`l_{\mathrm{K}} = f
+_{\mathrm{Obj}} + f_{\mathrm{Ok}}`. Der Grund hierfür ist, dass sich das erzeugte
+Zwischenbild (knapp) außerhalb der Brennweite :math:`f_{\mathrm{Obj}}` des
+Objektivs und nahezu an der Brennweite :math:`f_{\mathrm{Ok}}` des Okulars
 befindet.
 
 ..  .. rubric:: Variante: Das Spiegelteleskop
@@ -378,20 +378,20 @@ parallel zu den ursprünglichen Strahlen verlaufen.
 Ein Galilei-Fernrohr erzeugt also kein Zwischenbild, sondern vergrößert
 lediglich den Sehwinkel, unter dem der betrachtete Gegenstand erscheint. Die
 Vergrößerung :math:`V` eines Galilei-Fernrohrs kann -- ebenso wie bei einem
-Kepler-Fernrohr -- anhand der (positiven) Brennweiten :math:`f _{\rm{Obj}}` und
-:math:`f _{\rm{Ok}}` der beiden Linsen berechnet werden:
+Kepler-Fernrohr -- anhand der (positiven) Brennweiten :math:`f_{\mathrm{Obj}}` und
+:math:`f_{\mathrm{Ok}}` der beiden Linsen berechnet werden:
 
 .. math::
     :label: eqn-fernrohr-galilei
 
-    V _{\rm{G}} = \frac{f _{\rm{Obj}}}{f _{\rm{Ok}}}
+    V_{\mathrm{G}} = \frac{f_{\mathrm{Obj}}}{f_{\mathrm{Ok}}}
 
-Die Mindestlänge :math:`l _{\rm{G}}` eines Kepler-Fernrohrs ist gleich der
-Differenz der Brennweiten des Objektivs und Okulars, also :math:`l _{\rm{G}} = f
-_{\rm{Obj}} - f _{\rm{Ok}}`. Der Grund hierfür ist, dass die Brennweite der
-Okularlinse so gewählt wird, dass die Brennpunkte beider Linsen zusammenfallen.
-Auf diese Weise werden parallel einfallende Lichtstrahlen beim Durchlaufen des
-Fernrohrs wiederum auf parallele Strahlen abgebildet.
+Die Mindestlänge :math:`l_{\mathrm{G}}` eines Kepler-Fernrohrs ist gleich der
+Differenz der Brennweiten des Objektivs und Okulars, also :math:`l_{\mathrm{G}}
+= f_{\mathrm{Obj}} - f_{\mathrm{Ok}}`. Der Grund hierfür ist, dass die
+Brennweite der Okularlinse so gewählt wird, dass die Brennpunkte beider Linsen
+zusammenfallen. Auf diese Weise werden parallel einfallende Lichtstrahlen beim
+Durchlaufen des Fernrohrs wiederum auf parallele Strahlen abgebildet.
 
 
 .. raw:: html

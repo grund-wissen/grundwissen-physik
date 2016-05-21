@@ -255,6 +255,6 @@ Gebrauch.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Temperatur und
-    Wärme>` und :ref:`Übungsaufgaben <Aufgaben zu Temperatur und Wärme>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Temperatur und
+    Wärme>` und :ref:`Übungsaufgaben <Aufgaben Temperatur und Wärme>`.
 

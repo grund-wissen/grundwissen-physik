@@ -307,14 +307,14 @@ wechselt und daher als Wechselspannung bezeichnet wird.
 Die bekannteste Wechselspannung ist die sinusförmige Spannung des Stromnetzes,
 die periodisch zwischen :math:`\unit[+325]{V}` und :math:`\unit[-325]{V}` hin
 und her wechselt. Aufgrund der Schwankungen kann jedoch nur soviel elektrische
-Leistung umgesetzt werden wie bei einer Gleichspannung von :math:`U _{\rm{eff}}
+Leistung umgesetzt werden wie bei einer Gleichspannung von :math:`U_{\mathrm{eff}}
 = \unit[230]{V}`. [#]_ Diese so genannte "effektive Spannung" einer
 sinusförmigen Wechselspannung lässt sich allgemein nach folgender Formel
 berechnen: [#]_
 
 .. math::
 
-    U _{\rm{eff}} = \frac{U _{\rm{max}}}{\sqrt{2}}
+    U_{\mathrm{eff}} = \frac{U_{\mathrm{max}}}{\sqrt{2}}
 
 Die Frequenz der Wechselspannung im Stromnetz beträgt :math:`f=\unit[50]{Hz}`,
 d.h. in einer Sekunde durchläuft die Wechselspannung 50 Perioden. Hieraus ergibt
@@ -466,13 +466,13 @@ den elektrischen Strom.
 
 *Beispiele:*
 
-*   Ein :math:`l = \unit[1]{m}` langer Kupferdraht :math:`(\rho _{\rm{Cu}} =
+*   Ein :math:`l = \unit[1]{m}` langer Kupferdraht :math:`(\rho_{\mathrm{Cu}} =
     \unit[0,0156]{\Omega \cdot \frac{mm^2}{m} } )` mit einer Querschnittsfläche
     von :math:`\unit[1]{mm^2}` hat einen elektrischen Widerstand von
 
     .. math::
 
-        R = \rho _{\rm{Cu}} \cdot \frac{l}{A} = \unit[0,0156]{\Omega \cdot
+        R = \rho_{\mathrm{Cu}} \cdot \frac{l}{A} = \unit[0,0156]{\Omega \cdot
         \frac{mm^2}{m} } \cdot \frac{\unit[1]{m}}{\unit[1]{mm^2}} =
         \unit[0,0156]{\Omega }
 
@@ -482,12 +482,12 @@ den elektrischen Strom.
     damit ein um eine Million geringerer elektrischer Widerstand.
 
 *   Ein :math:`\unit[4]{mm^2}` dicker und :math:`\unit[30]{mm} = \unit[0,03]{m}`
-    langer Stab aus Edelstahl :math:`(\rho _{\rm{V2A}} = \unit[0,720]{\Omega
+    langer Stab aus Edelstahl :math:`(\rho_{\mathrm{V2A}} = \unit[0,720]{\Omega
     \cdot \frac{mm^2}{m} })` hat einen elektrischen Widerstand von
 
     .. math::
 
-        R = \rho _{\rm{V2A}} \cdot \frac{l}{A} = \unit[0,720]{\Omega \cdot
+        R = \rho_{\mathrm{V2A}} \cdot \frac{l}{A} = \unit[0,720]{\Omega \cdot
         \frac{mm^2}{m} } \cdot \frac{\unit[0,03]{m}}{\unit[4]{mm^2}} =
         \unit[0,0054]{\Omega }
 
@@ -506,6 +506,8 @@ den elektrischen Strom.
       - :math:`\unit[0,0265]{\Omega }`
     * - Messing
       - :math:`\unit[0,070]{\Omega }`
+    * - Konstantan
+      - :math:`\unit[0,5]{\Omega }`
     * - Edelstahl (V2A)
       - :math:`\unit[0,720]{\Omega }`
     * - Eisen
@@ -552,7 +554,7 @@ Halbleiter und Isolatoren einteilen.
 
         Das Ohmsche Gesetz kann in solchen Fällen (näherungsweise) genutzt
         werden, wenn die Widerstandswerte in Abhängigkeit von der Stromstärke
-        oder Spannung bekannt sind, d.h. als Diagramm oder in tabellarischer
+        oder Spannung bekannt sind, also als Diagramm oder in tabellarischer
         Form für bestimmte Werte vorliegen.
 
 .. raw:: html
@@ -561,7 +563,7 @@ Halbleiter und Isolatoren einteilen.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Stromstärke,
-    Spannung und Widerstand>` und :ref:`Übungsaufgaben <Aufgaben zu Stromstärke,
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Stromstärke,
+    Spannung und Widerstand>` und :ref:`Übungsaufgaben <Aufgaben Stromstärke,
     Spannung und Widerstand>`.
 

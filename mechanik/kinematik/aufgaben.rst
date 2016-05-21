@@ -1,22 +1,23 @@
 
-.. _Aufgaben zur Kinematik:
+.. _Aufgaben Kinematik:
 
-Aufgaben zur Kinematik
-======================
+Kinematik
+=========
 
-.. _Aufgaben zu geradlinigen Bewegungen:
 
-Aufgaben zu geradlinigen Bewegungen
------------------------------------
+.. _Aufgaben Geradlinige Bewegungen:
+
+Geradlinige Bewegungen
+----------------------
 
 Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Geradlinige
 Bewegungen <Geradlinige Bewegungen>`.
 
-.. rubric:: Aufgaben zu geradlinigen Bewegungen mit konstanter Geschwindigkeit
+.. rubric:: Geradlinige Bewegungen mit konstanter Geschwindigkeit
 
 ----
 
-.. _kin-01:
+.. _king01:
 
 * (\*) Bei den folgenden Aufgaben geht es jeweils um durchschnittliche
   Geschwindigkeiten oder Bewegungsvorgänge mit konstanter Geschwindigkeit:
@@ -41,37 +42,39 @@ Bewegungen <Geradlinige Bewegungen>`.
     Welche Zeit benötigt das Licht von der Sonne zur Erde?
 
 
-  :ref:`Lösung <kin-01l>`
+  :ref:`Lösung <king01l>`
 
 ----
 
-.. _kin-02:
+.. _king02:
 
 * (*) Die Schallgeschwindigkeit in Luft beträgt ca. :math:`v = \unit[330]{m/s}`.
   Ein Wanderer steht gegenüber einer großen Felswand und ruft laut
   "Haallooo!!". Erst nach einer Zeit von :math:`t = \unit[5]{s}` hört er ein
   Echo. Wie weit ist die Felswand vom Wanderer entfernt?
 
-  :ref:`Lösung <kin-02l>`
+  :ref:`Lösung <king02l>`
 
 ----
 
-.. _kin-03:
+.. _king03:
 
 * (\*) Bewegung ist relativ. Konkret bedeutet das:
 
-  *"Eine Bewegung ist die Änderung der Lage eines Körpers gegenüber einem
-  anderen Körper. Wenn ein Körper seine Lage gegenüber einem anderen Körper
-  nicht ändert, dann ist er in Ruhe gegenüber diesem Körper."*
+  .. epigraph::
+
+      "Eine Bewegung ist die Änderung der Lage eines Körpers gegenüber einem
+      anderen Körper. Wenn ein Körper seine Lage gegenüber einem anderen Körper
+      nicht ändert, dann ist er in Ruhe gegenüber diesem Körper."
 
   Wie verhält sich dies bezüglich der Lage eines sitzenden Fahrgasts in einem
   sich bewegenden Schnellzug? Ist der Fahrgast in Ruhe, oder bewegt er sich?
 
-  :ref:`Lösung <kin-03l>`
+  :ref:`Lösung <king03l>`
 
 ----
 
-.. _kin-04:
+.. _king04:
 
 * (**) Bei einem "Verfolgungsrennen" startet zunächst eine Gruppe an Läufern;
   nach einer Zeit von :math:`\Delta t = \unit[30]{min}` startet ein Fahrzeug am
@@ -83,11 +86,11 @@ Bewegungen <Geradlinige Bewegungen>`.
   :math:`\Delta t` holt das Fahrzeug einen Läufer ein, dessen durchschnittliche
   Geschwindigkeit :math:`v _{\mathrm{L}} = \unit[15]{\frac{km}{h}}` beträgt?
 
-  :ref:`Lösung <kin-04l>`
+  :ref:`Lösung <king04l>`
 
 ----
 
-.. _kin-05:
+.. _king05:
 
 .. Idee nach Brenneke S.271
 
@@ -98,27 +101,27 @@ Bewegungen <Geradlinige Bewegungen>`.
   angenommen werden, ihre Länge beträgt :math:`s = \unit[100]{km}`. An welcher
   Stelle treffen sich die beiden Fahrzeuge?
 
-  :ref:`Lösung <kin-05l>`
+  :ref:`Lösung <king05l>`
 
 ----
 
 
-.. rubric:: Aufgaben zur geradlinigen Bewegung mit konstanter Beschleunigung
+.. rubric:: Geradlinige Bewegungen mit konstanter Beschleunigung
 
 ----
 
-.. _Beschleunigung-01:
+.. _kinb01:
 
 * (*) Welche durchschnittliche Beschleunigung erreicht ein Radfahrer, der aus
   dem Stand (:math:`v _{\rm{0}} = \unit[0]{m/s}`) in einer Zeit von :math:`t =
   \unit[8,0]{s}` eine Geschwindigkeit von :math:`v = \unit[30]{\frac{km}{h}}`
   erreicht?
 
-  :ref:`Lösung <Beschleunigung-01-Lösung>`
+  :ref:`Lösung <kinb01l>`
 
 ----
 
-.. _Beschleunigung-02:
+.. _kinb02:
 
 * (*) Wie groß ist die Beschleunigung eines Fahrzeugs, das in :math:`\unit[10]{s}`
   von :math:`\unit[0]{km/h}` auf :math:`\unit[100]{km/h}` beschleunigt? Welche
@@ -126,14 +129,14 @@ Bewegungen <Geradlinige Bewegungen>`.
   :math:`\unit[10]{s}` von :math:`\unit[100]{km/h}` auf :math:`\unit[0]{km/h}`
   abbremst?
 
-  :ref:`Lösung <Beschleunigung-02-Lösung>`
+  :ref:`Lösung <kinb02l>`
 
 ..
     Aufgabe: v-t-diagramm konstante Beschleunigung. Zurückgelegte Wegstrecke?
 
 ----
 
-.. _Beschleunigung-03:
+.. _kinb03:
 
 * (*) Wie groß ist die Beschleunigung :math:`a` eines Fahrzeugs, das in
   :math:`t = \unit[5,0]{s}` von :math:`v _{\rm{1}} = \unit[20,0]{m/s}` auf
@@ -142,11 +145,11 @@ Bewegungen <Geradlinige Bewegungen>`.
   \unit[9,81]{m/s^2})`, und welche Wegstrecke legt das Fahrzeug während des
   Beschleunigungsvorgangs zurück?
 
-  :ref:`Lösung <Beschleunigung-03-Lösung>`
+  :ref:`Lösung <kinb03l>`
 
 ----
 
-.. _Beschleunigung-04:
+.. _kinb04:
 
 * (\**) Ein PKW fährt innerorts mit :math:`v_0 = \unit[40]{\frac{km}{h}}`.
   Plötzlich bemerkt der Fahrer in :math:`\Delta s = \unit[25]{m}` Entfernung ein
@@ -155,11 +158,11 @@ Bewegungen <Geradlinige Bewegungen>`.
   :math:`a=\unit[-4,5]{\frac{m}{s^2}}` ab. Kommt der Wagen noch rechtzeitig vor
   dem Hindernis zum Stillstand?
 
-  :ref:`Lösung <Beschleunigung-04-Lösung>`
+  :ref:`Lösung <kinb04l>`
 
 ----
 
-.. _Beschleunigung-05:
+.. _kinb05:
 
 * (\**) Ein Badegast eines Schwimmbades springt aus einer Höhe von
   :math:`h=\unit[5,0]{m}` ins Wasser. Der Luftwiderstand kann hierbei
@@ -167,11 +170,11 @@ Bewegungen <Geradlinige Bewegungen>`.
   \unit[9,81]{m/s^2}`. Wie lange dauert seine Flugzeit, und welche
   Geschwindigkeit hat er in dem Moment, in dem er ins Wasser eintaucht?
 
-  :ref:`Lösung <Beschleunigung-05-Lösung>`
+  :ref:`Lösung <kinb05l>`
 
 ----
 
-.. _Beschleunigung-06:
+.. _kinb06:
 
 * (\**) Ein Stein, der in einen Brunnen fallen gelassen wird, erfährt durch die
   Erdanziehung eine Beschleunigung von :math:`(g = \unit[9,81]{m/s^2})`.
@@ -181,11 +184,11 @@ Bewegungen <Geradlinige Bewegungen>`.
   wenn der Luftwiderstand vernachlässigt werden kann? Welche Strecke legt er
   bis zum Aufprall zurück?
 
-  :ref:`Lösung <Beschleunigung-06-Lösung>`
+  :ref:`Lösung <kinb06l>`
 
 ----
 
-.. _Beschleunigung-07:
+.. _kinb07:
 
 * (\**) Wie groß ist die Beschleunigung, die ein Fahrer bei frontalem Aufprall
   eines Fahrzeugs gegen eine Mauer erfährt, wenn die Knautschzone :math:`\Delta
@@ -198,64 +201,87 @@ Bewegungen <Geradlinige Bewegungen>`.
   Wie groß ist die Beschleunigung, wenn die Aufprallgeschwindigkeit bei
   :math:`\unit[50]{km/h}` oder :math:`\unit[100]{km/h}` liegt?
 
-  :ref:`Lösung <Beschleunigung-07-Lösung>`
+  :ref:`Lösung <kinb07l>`
 
 ----
 
-.. _Aufgaben zu kreisförmigen Bewegungen:
 
-Aufgaben zu kreisförmigen Bewegungen
-------------------------------------
+.. _Aufgaben Zusammengesetzte Bewegungen:
+
+Zusammengesetzte Bewegungen
+---------------------------
+
+Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Zusammengesetzte
+Bewegungen <Zusammengesetzte Bewegungen>`.
+
+----
+
+.. _kinz01:
+
+* (\*) Ein Schwimmer bewegt sich mit :math:`v_y=\unit[0,5]{\frac{m}{s}}` quer zur
+  Strömung eines Flusses. Er wird um :math:`s_x=\unit[35]{m}` abgetrieben, bis
+  er das :math:`s_y = \unit[100]{m}` entfernte Ufer erreicht. Wie groß ist die
+  mittlere Strömungsgeschwindigkeit des Flusses?
+
+  :ref:`Lösung <kinz01l>`
+
+----
+
+
+.. _Aufgaben Kreisförmige Bewegungen:
+
+Kreisförmige Bewegungen
+-----------------------
 
 Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Kreisförmige
 Bewegungen <Kreisförmige Bewegungen>`.
 
 ----
 
-.. _Kreisbewegung-01:
+.. _kink01:
 
 * (\*) Ein Stein wird an eine Schnur gebunden und im Kreis geschleudert;
   plötzlich reißt die Schnur. In welcher Richtung fliegt der Stein weiter? Um
   was für einen Bewegungstyp handelt es sich folglich bei einer kreisförmigen
   Bewegung?
 
-  :ref:`Lösung <Kreisbewegung-01-Lösung>`
+  :ref:`Lösung <kink01l>`
 
 ----
 
-.. _Kreisbewegung-02:
+.. _kink02:
 
 * (\*) Ein Fahrradreifen mit einem Durchmesser von :math:`d=\unit[72]{cm}` dreht
   sich in einer Sekunde :math:`1,8` mal. Wie groß ist dabei die Umlaufzeit
   :math:`T`? Welche Winkelgeschwindigkeit und welche Bahngeschwindigkeit hat ein
   Kieselstein, der sich im Profil des Mantels festgesetzt hat?
 
-  :ref:`Lösung <Kreisbewegung-02-Lösung>`
+  :ref:`Lösung <kink02l>`
 
 ----
 
-.. _Kreisbewegung-03:
+.. _kink03:
 
 * (\*) Ein PKW fährt mit einer Geschwindigkeit von :math:`\unit[90 ]{\frac{km}{h}}`.
   Wie groß sind die Winkelgeschwindigkeit :math:`\omega` und die Drehzahl
   :math:`n` der Räder, wenn deren Durchmesser :math:`d=\unit[45]{cm}` beträgt?
 
 
-  :ref:`Lösung <Kreisbewegung-03-Lösung>`
+  :ref:`Lösung <kink03l>`
 
 ----
 
-.. _Radialbeschleunigung-01:
+.. _kink04:
 
 * (\*) Wie groß ist die Radialbeschleunigung :math:`a _{\rm{\varphi}}` einer
   Zentrifuge mit Radius :math:`r = \unit[1,00]{cm}`, wenn sie eine Drehzahl von
   :math:`n = \unit[3\,000]{\frac{U}{min}}` aufweist?
 
-  :ref:`Lösung <Radialbeschleunigung-01-Lösung>`
+  :ref:`Lösung <kink04l>`
 
 ----
 
-.. _Radialbeschleunigung-02:
+.. _kink05:
 
 * (\**) Welche Radialbeschleunigung :math:`a _{\rm{\varphi}}` erfährt ein Körper,
   der auf Höhe des Äquators mit der Erde (Radius :math:`r _{\rm{E}} =
@@ -263,37 +289,11 @@ Bewegungen <Kreisförmige Bewegungen>`.
   Körper, der sich auf Höhe des 45. nördlichen Breitengrades bzw. am Nordpol
   befindet?
 
-  :ref:`Lösung <Radialbeschleunigung-02-Lösung>`
+  :ref:`Lösung <kink05l>`
 
 ----
 
-.. _Aufgaben zu zusammengesetzten Bewegungen:
-
-Aufgaben zu zusammengesetzten Bewegungen
-----------------------------------------
-
-Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Zusammengesetzte
-Bewegungen <Zusammengesetzte Bewegungen>`.
-
-----
-
-.. _Zusammengesetzte-Bewegung-01:
-
-* (\*) Ein Schwimmer bewegt sich mit :math:`v_y=\unit[0,5]{\frac{m}{s}}` quer zur
-  Strömung eines Flusses. Er wird um :math:`s_x=\unit[35]{m}` abgetrieben, bis
-  er das :math:`s_y = \unit[100]{m}` entfernte Ufer erreicht. Wie groß ist die
-  mittlere Strömungsgeschwindigkeit des Flusses?
-
-  :ref:`Lösung <Zusammengesetzte-Bewegung-01-Lösung>`
-
-
-.. raw:: latex
-
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 

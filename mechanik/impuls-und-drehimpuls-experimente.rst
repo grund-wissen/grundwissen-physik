@@ -1,8 +1,8 @@
 
-.. _Experimente zu Impuls und Drehimpuls:
+.. _Experimente Impuls und Drehimpuls:
 
-Experimente zu Impuls und Drehimpuls
-====================================
+Impuls und Drehimpuls
+=====================
 
 Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Impuls und
 Drehimpuls <Impuls und Drehimpuls>`.
@@ -30,13 +30,9 @@ Drehimpuls <Impuls und Drehimpuls>`.
   fallen. Was stellst Du fest? Wie lässt sich Deine Beobachtung mittels des
   Impulserhaltungsatzes erklären?
 
-.. raw:: latex
+----
 
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 

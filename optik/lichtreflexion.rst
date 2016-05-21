@@ -89,11 +89,11 @@ Reflexionsgesetzes (am besten mit Lineal und Winkelmesser) konstruieren.
 
         :download:`SVG: Ebener Spiegel <../pics/optik/ebener-spiegel.svg>`
 
-Lichtstrahlen, die von einem Punkt des Gegenstandes :math:`\rm{G}`, ausgehen,
+Lichtstrahlen, die von einem Punkt des Gegenstandes :math:`\mathrm{G}`, ausgehen,
 treffen unter verschiedenen Einfallswinkeln auf den Spiegel und werden nach dem
 Reflexionsgesetz zurückgeworfen. Ein Teil der Strahlen gelangt in das Auge des
 Beobachters. Verlängert man diese Strahlen geradlinig nach hinten, so schneiden
-sie sich in einem Bildpunkt :math:`\rm{B}` hinter dem Spiegel. Für den Betrachter
+sie sich in einem Bildpunkt :math:`\mathrm{B}` hinter dem Spiegel. Für den Betrachter
 scheint das ins Auge fallende Licht von diesem Punkt auszugehen.
 
 .. figure::
@@ -115,8 +115,8 @@ Insgesamt gilt somit für ebene Spiegel:
 * Der Gegenstand und sein Bild liegen symmetrisch zur Spiegelfläche.
 * Das Bild ist ebenso groß wie der Gegenstand.
 
-Jeder Bildpunkt :math:`\rm{B}` liegt daher ebenso weit hinter dem Spiegel, wie der
-passende Gegenstandspunkt :math:`\rm{G}` vor ihm liegt.
+Jeder Bildpunkt :math:`\mathrm{B}` liegt daher ebenso weit hinter dem Spiegel,
+wie der passende Gegenstandspunkt :math:`\mathrm{G}` vor ihm liegt.
 
 
 .. index::
@@ -187,7 +187,8 @@ verwendet man folgende Begriffe:
 
 * Scheitelpunkt:
 
-    Der Mittelpunkt der spiegelnden Fläche wird Scheitelpunkt :math:`\rm{S}` genannt.
+    Der Mittelpunkt der spiegelnden Fläche wird Scheitelpunkt :math:`\mathrm{S}`
+    genannt.
 
 .. index:: Optische Achse
 
@@ -203,23 +204,23 @@ verwendet man folgende Begriffe:
 
     Alle auf den Spiegel treffenden Parallelstrahlen werden so reflektiert, dass
     sie sich in einem Punkt schneiden. Dieser Punkt liegt auf der optischen
-    Achse und heißt Brennpunkt (Fokus) :math:`\rm{F}`.
+    Achse und heißt Brennpunkt (Fokus) :math:`\mathrm{F}`.
 
     Der Abstand des Brennpunkts zum Scheitelpunkt wird Brennweite :math:`f`
     genannt. Bei einem kugelförmigen Hohlspiegel ist die Brennweite :math:`f`
-    gleich der Hälfte der Strecke zwischen dem Mittelpunkt :math:`\rm{M}` und
-    dem Scheitelpunkt :math:`\rm{S}`:
+    gleich der Hälfte der Strecke zwischen dem Mittelpunkt :math:`\mathrm{M}`
+    und dem Scheitelpunkt :math:`\mathrm{S}`:
 
     .. math::
 
-        f = \frac{\overline{\rm{MS}}}{2}
+        f = \frac{\overline{\mathrm{MS}}}{2}
 
 ..  Diese Laenge entspricht dem halben Radius :math:`r` der zum Spiegel passenden Kugel.
 
 
 * Mittelpunkt:
 
-    Der Mittelpunkt :math:`\rm{M}` des Kreises, aus dem man sich den Wölbspiegel
+    Der Mittelpunkt :math:`\mathrm{M}` des Kreises, aus dem man sich den Wölbspiegel
     herausgeschnitten denken kann, liegt ebenfalls auf der optischen Achse.
     Strahlen, die auf der Innenseite des Kreises durch den Mittelpunkt gehen,
     werden stets auf sich selbst abgebildet.
@@ -270,10 +271,10 @@ Gegenstände werden von Wölbspiegeln so abgebildet, als würden sie in kleinere
 Maßstab im Inneren des Spiegels befinden. Um den Ort eines Bildpunktes zu
 bestimmen, zeichnet man die vom entsprechenden Gegenstandspunkt ausgehenden
 Bildstrahlen auf der Rückseite des Spiegels weiter. Dabei muss man beachten,
-dass parallel einfallende Strahlen stets zum Brennpunkt :math:`\rm{F}` hin
-abgelenkt werden und Strahlen durch den Mittelpunkt :math:`\rm{M}` den Spiegel
-geradlinig durchlaufen. Die Lage des Bildes, das sich bei Betrachtung des
-Wölbspiegels ergibt, entspricht dem Schnittpunkt des Brennpunkt- und
+dass parallel einfallende Strahlen stets zum Brennpunkt :math:`\mathrm{F}` hin
+abgelenkt werden und Strahlen durch den Mittelpunkt :math:`\mathrm{M}` den
+Spiegel geradlinig durchlaufen. Die Lage des Bildes, das sich bei Betrachtung
+des Wölbspiegels ergibt, entspricht dem Schnittpunkt des Brennpunkt- und
 Mittelpunktstrahls.
 
 Da die Abbildungen eines Wölbspiegels nicht nur aufrecht und verkleinert,
@@ -317,10 +318,9 @@ Spiegels ab:
   Zur Konstruktion des Bildes zeichnet man die von einem Gegenstandspunkt
   ausgehenden Bildstrahlen in der umgekehrten Richtung weiter. Dabei muss man
   beachten, dass Brennpunktstrahlen zu Parallelstrahlen werden und
-  Mittelpunktstrahlen stets senkrecht auf den Spiegel treffen und somit auf
-  sich selbst abgebildet werden. Die Lage des Bildes entspricht dem
-  Schnittpunkt des verlängerten Parallel- bzw. Mittelpunktstrahls auf der
-  Rückseite des Spiegels.
+  Mittelpunktstrahlen stets senkrecht auf den Spiegel treffen und somit auf sich
+  selbst abgebildet werden. Die Lage des Bildes entspricht dem Schnittpunkt des
+  verlängerten Parallel- bzw. Mittelpunktstrahls auf der Rückseite des Spiegels.
 
   Aufgrund ihrer vergrößernden Wirkung werden flache Hohlspiegel (mit einer
   großen Brennweite) unter anderem als Kosmetikspiegel verwendet.
@@ -355,6 +355,6 @@ Spiegels ab:
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zur Reflexion von Licht>` und
-    :ref:`Übungsaufgaben <Aufgaben zur Reflexion von Licht>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Reflexion von Licht>` und
+    :ref:`Übungsaufgaben <Aufgaben Reflexion von Licht>`.
 

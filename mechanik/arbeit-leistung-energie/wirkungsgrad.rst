@@ -22,14 +22,14 @@ somit folgendermaßen formuliert werden:
 
 *Definition:*
 
-    Das Verhältnis aus der abgegebenen Arbeit :math:`W _{\rm{out}}` und der
-    aufgenommenen Arbeit :math:`W _{\rm{in}}` wird Wirkungsgrad :math:`\eta`
+    Das Verhältnis aus der abgegebenen Arbeit :math:`W_{\mathrm{out}}` und der
+    aufgenommenen Arbeit :math:`W_{\mathrm{in}}` wird Wirkungsgrad :math:`\eta`
     einer mechanischen Einrichtung genannt:
 
 .. math::
     :label: eqn-wirkungsgrad
 
-    \eta = \frac{W _{\rm{out}}}{W _{\rm{in}}}
+    \eta = \frac{W_{\mathrm{out}}}{W_{\mathrm{in}}}
 
 *Einheit:*
 
@@ -46,12 +46,13 @@ der nur geringfügig kleiner als :math:`1` ist, bedeutet, dass der größte Teil
 der aufgenommenen Arbeit als abgegebene mechanische Arbeit wirksam ist.
 
 Besteht eine mechanische Einrichtung aus mehreren Komponenten, die jeweils die
-Wirkungsgrade :math:`\eta_1,\, \eta_2,\, \ldots` haben, so ergibt sich fuer den
-Gesamt-Wirkungsgrad :math:`\eta _{\rm{Ges}}` der Anlage:
+Wirkungsgrade :math:`\eta_1,\, \eta_2,\, \ldots` haben, so ergibt sich für den
+Gesamt-Wirkungsgrad :math:`\eta_{\mathrm{Ges}}` der Anlage:
 
 .. math::
 
-    \eta _{\rm{Ges}} = \frac{W _{\rm{out}}}{W _{\rm{in}}}= \eta_1 \cdot \eta_2 \cdot \ldots
+    \eta_{\mathrm{Ges}} = \frac{W_{\mathrm{out}}}{W_{\mathrm{in}}}= \eta_1 \cdot
+    \eta_2 \cdot \ldots
 
 Der Gesamt-Wirkungsgrad einer mechanischen Einrichtung ist wegen :math:`\eta \le
 1` somit kleiner als der Wirkungsgrad der am wenigsten effizienten Komponente.
@@ -63,6 +64,5 @@ Der Gesamt-Wirkungsgrad einer mechanischen Einrichtung ist wegen :math:`\eta \le
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zum
-    Wirkungsgrad>`.
+    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben Wirkungsgrad>`.
 

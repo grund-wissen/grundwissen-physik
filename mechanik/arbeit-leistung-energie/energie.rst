@@ -7,8 +7,8 @@
 .. index:: Energie, Joule
 .. _Mechanische Energie:
 
-Die mechanische Energie
-=======================
+Mechanische Energie
+===================
 
 Zum Heben oder Beschleunigen eines beliebigen Körpers oder zum Verformen eines
 elastischen Körpers -- beispielsweise zum Spannen einer Feder -- muss stets
@@ -70,14 +70,14 @@ werden kann.
 
 *Definition:*
 
-    Die potentielle Energie :math:`E _{\rm{pot}}` ist gleich dem Produkt aus der
-    Gewichtskraft :math:`F _{\rm{G}} = m \cdot g` eines Körpers mit Masse
+    Die potentielle Energie :math:`E_{\mathrm{pot}}` ist gleich dem Produkt aus
+    der Gewichtskraft :math:`F_{\mathrm{G}} = m \cdot g` eines Körpers mit Masse
     :math:`m` sowie der Höhe :math:`h`, die dieser angehoben wird:
 
 .. math::
     :label: eqn-potentielle-energie
 
-    E _{\rm{pot}} = F _{\rm{G}} \cdot h = m \cdot g \cdot h
+    E_{\mathrm{pot}} = F_{\mathrm{G}} \cdot h = m \cdot g \cdot h
 
 Hierbei steht :math:`g` für den :ref:`Ortsfaktor <Ortsfaktor>`. Auf der
 Erdoberfläche gilt :math:`g \approx \unit[9,81]{\frac{N}{kg}}`.
@@ -104,16 +104,16 @@ eines Flummis, usw.
 
 *Definition:*
 
-    Die Spannenergie :math:`E _{\rm{Spann}}` eines verformten Körpers mit der
+    Die Spannenergie :math:`E_{\mathrm{Spann}}` eines verformten Körpers mit der
     Federkonstanten :math:`D` ist gleich dem Produkt aus der während der
-    Verformung durchschnittlich wirkenden Spannkraft :math:`\bar{F} _{\rm{S}} =
-    \frac{1}{2} \cdot F _{\rm{S}} = \frac{1}{2} \cdot D \cdot s` und der
+    Verformung durchschnittlich wirkenden Spannkraft :math:`\bar{F} _{\mathrm{S}} =
+    \frac{1}{2} \cdot F_{\mathrm{S}} = \frac{1}{2} \cdot D \cdot s` und der
     Ausdehnung :math:`s` aus der Ruhelage:
 
 .. math::
     :label: eqn-spannenergie
 
-    E _{\rm{Spann}} = \bar{F} _{\rm{S}} \cdot s = \frac{1}{2} \cdot D
+    E_{\mathrm{Spann}} = \bar{F} _{\mathrm{S}} \cdot s = \frac{1}{2} \cdot D
     \cdot s^2
 
 Die gespeicherte Spannenergie nimmt somit, solange es sich sich um einen
@@ -128,20 +128,20 @@ elastischen Prozess handelt, quadratisch mit der Verformung des Körpers zu.
 
 Um einen Körper zu beschleunigen, d.h. ihn auf eine bestimmte Geschwindigkeit
 :math:`v` zu bringen, muss die :ref:`Beschleunigungsarbeit
-<Beschleunigungsarbeit>` :math:`W _{\rm{B}}` verrichtet werden. Diese ist dann
+<Beschleunigungsarbeit>` :math:`W_{\mathrm{B}}` verrichtet werden. Diese ist dann
 in Form von Bewegungsenergie (häufig auch "kinetische Energie" genannt) im
 Körper gespeichert.
 
 *Definition:*
 
-    Die kinetische Energie :math:`E _{\rm{Kin}}` ist gleich dem Produkt aus der
+    Die kinetische Energie :math:`E_{\mathrm{Kin}}` ist gleich dem Produkt aus der
     Masse :math:`m` eines Körpers und dem Quadrat seiner Geschwindigkeit
     :math:`v`:
 
 .. math::
     :label: eqn-bewegungsenergie
 
-    E _{\rm{B}} = \frac{1}{2} \cdot m \cdot v^2
+    E_{\mathrm{B}} = \frac{1}{2} \cdot m \cdot v^2
 
 Die Bewegungsenergie eines Körpers nimmt somit quadratisch mit seiner
 Geschwindigkeit zu.
@@ -154,20 +154,20 @@ Geschwindigkeit zu.
 .. rubric:: Die Rotationsenergie
 
 Um einen Körper auf eine bestimmte Winkelgeschwindigkeit :math:`\omega` zu
-bringen, muss die :ref:`Rotationsarbeit <Rotationsarbeit>` :math:`W
-_{\rm{rot}}` verrichtet werden. Diese ist dann in Form von Rotationsenergie im
-Körper gespeichert.
+bringen, muss die :ref:`Rotationsarbeit <Rotationsarbeit>`
+:math:`W_{\mathrm{rot}}` verrichtet werden. Diese ist dann in Form von
+Rotationsenergie im Körper gespeichert.
 
 *Definition:*
 
-    Die Rotationsenergie :math:`E _{\rm{rot}}` ist gleich dem Produkt aus dem
+    Die Rotationsenergie :math:`E_{\mathrm{rot}}` ist gleich dem Produkt aus dem
     :ref:`Trägheitsmoment <Trägheitsmoment>` :math:`J` eines Körpers und dem
     Quadrat seiner Winkelgeschwindigkeit :math:`\omega`:
 
 .. math::
     :label: eqn-rotationsarbeit
 
-    E _{\rm{rot}} = \frac{1}{2} \cdot J \cdot \omega^2
+    E_{\mathrm{rot}} = \frac{1}{2} \cdot J \cdot \omega^2
 
 
 Die kinetische Gesamtenergie eines rollenden Körpers ist gleich der Summe seiner
@@ -175,16 +175,17 @@ Bewegungsenergie und seiner Rotationsenergie:
 
 .. math::
 
-    E _{\rm{kin,ges}} = E _{\rm{B}} + E _{\rm{Rot}} = \frac{1}{2} \cdot m \cdot
-    v^2 + \frac{1}{2} \cdot J \cdot \omega^2
+    E_{\mathrm{kin,ges}} = E_{\mathrm{B}} + E_{\mathrm{Rot}} = \frac{1}{2} \cdot
+    m \cdot v^2 + \frac{1}{2} \cdot J \cdot \omega^2
 
 
 .. index::
     single: Energie; Energie-Erhaltung
 .. _Energieerhaltungssatz:
+.. _Energie-Erhaltungssatz:
 
-Der Energieerhaltungssatz
--------------------------
+Der Energie-Erhaltungssatz
+--------------------------
 
 Bei rein mechanischen Vorgängen bleibt die Summe der mechanischen Energien
 (Höhenenergie, Bewegungsenergie und Spannenergie) konstant.
@@ -217,8 +218,8 @@ Reibungseffekte auf, die mechanische Energie in Wärme umwandeln. [#]_
     Anheben eines Gegenstands auf ein anderes Energie-Niveau nötig ist.
 
 .. [#] Diese für den weiteren mechanischen Prozess "verloren gegangene" Energie
-    ist dann gleich der verrichteten Reibungsarbeit :math:`W _{\rm{R}} = F
-    _{\rm{R}} \cdot s`.
+    ist dann gleich der verrichteten Reibungsarbeit :math:`W_{\mathrm{R}} =
+    F_{\mathrm{R}} \cdot s`.
 
 .. raw:: html
 
@@ -226,7 +227,7 @@ Reibungseffekte auf, die mechanische Energie in Wärme umwandeln. [#]_
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu mechanischer Energie>` und
-    :ref:`Übungsaufgaben <Aufgaben zu mechanischer Energie>`.
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Mechanische Energie>` und
+    :ref:`Übungsaufgaben <Aufgaben Mechanische Energie>`.
 
 

@@ -11,8 +11,8 @@ Drehmoment und Gleichgewicht
 .. index:: Drehmoment
 .. _Drehmoment:
 
-Das Drehmoment
---------------
+Drehmoment
+----------
 
 Wirkt eine Kraft auf einen starren Körper, so kann sie sowohl eine Verschiebung
 als auch eine Drehung (Rotation) bewirken. Für die Drehbewegung des Körpers
@@ -74,8 +74,8 @@ Windeisen, Kreuzschlüssel usw. von Bedeutung.
 .. _Gleichgewicht:
 .. _Schwerpunkt:
 
-Das Gleichgewicht
------------------
+Gleichgewicht
+-------------
 
 Ein um eine Achse drehbarer Körper ist im Gleichgewicht, wenn sich alle an ihm
 wirkenden Drehmomente gegenseitig ausgleichen.
@@ -85,8 +85,8 @@ wirkenden Drehmomente gegenseitig ausgleichen.
 *Definition:*
 
     Der Schwerpunkt ist der Punkt eines starren Körpers, bei dem sich alle durch
-    sein Gewicht wirkenden Drehmomente :math:`M _{\rm{i}} = s _{\rm{i}} \times F
-    _{\rm{i}}` zu Null addieren:
+    sein Gewicht wirkenden Drehmomente :math:`M_{\mathrm{i}} = s_{\mathrm{i}} \times F
+    _{\mathrm{i}}` zu Null addieren:
 
     .. math::
 
@@ -98,20 +98,20 @@ wirkenden Drehmomente gegenseitig ausgleichen.
     Koordinatenursprung angesehen wird.
 
 ..
-    = \vec{s} _{\rm{1}} \times  \vec{F} _{\rm{1}} + \vec{s} _{\rm{2}} \times
-    \vec{F} _{\rm{2}} + \ldots
+    = \vec{s} _{\mathrm{1}} \times  \vec{F} _{\mathrm{1}} + \vec{s} _{\mathrm{2}} \times
+    \vec{F} _{\mathrm{2}} + \ldots
 
 
 Ist ein anderes Koordinatensystem vorgegeben, so gilt für den Schwerpunkt
-:math:`\vec{s} _{\rm{S}}` eines Körpers:
+:math:`\vec{s} _{\mathrm{S}}` eines Körpers:
 
 .. math::
 
-    \vec{s} _{\rm{S}} = \frac{\sum_{i}^{} m_i \cdot \vec{s}_i }{m
-    _{\rm{ges}}}
+    \vec{s} _{\mathrm{S}} = \frac{\sum_{i}^{} m_i \cdot \vec{s}_i }{m
+    _{\mathrm{ges}}}
 
-Hierbei werden mit :math:`m _{\rm{i}}` die Massen der einzelnen Punktmassen und
-mit :math:`m _{\rm{ges}}` die Gesamtmasse bezeichnet.
+Hierbei werden mit :math:`m_{\mathrm{i}}` die Massen der einzelnen Punktmassen und
+mit :math:`m_{\mathrm{ges}}` die Gesamtmasse bezeichnet.
 
 Ist die Summe aller wirkenden Drehmomente bezüglich einem bestimmten Punkt als
 feste Drehachse nicht gleich Null, so führt der Körper eine Rotation um diese
@@ -146,10 +146,10 @@ unterschieden werden:
         :download:`SVG: Labiles, stabiles und indifferentes Gleichgewicht
         <../pics/mechanik/drehmoment-und-gleichgewicht/hebelgleichgewicht-stabil-labil-indifferent.svg>`
 
-Kann sich ein Körper frei um eine Drehachse bzw. einen Aufhängepunkt drehen,
-so nimmt sein Schwerpunkt die tiefst mögliche Stelle ein. In dieser Lage
-befindet sich der Schwerpunkt stets senkrecht unterhalb der Achse bzw. des
-Aufhängepunktes. Sind der Schwerpunkt und der Aufhänge- bzw. Drehpunkt
+Kann sich ein Körper frei um eine Drehachse beziehungsweise einen Aufhängepunkt
+drehen, so nimmt sein Schwerpunkt die tiefst mögliche Stelle ein. In dieser Lage
+befindet sich der Schwerpunkt stets senkrecht unterhalb der Achse
+beziehungsweise des Aufhängepunktes. Sind Schwerpunkt, Aufhänge- und Drehpunkt
 identisch, so befindet sich der Körper in jeder Lage im indifferenten
 Gleichgewicht.
 
@@ -192,7 +192,7 @@ Fläche, die von den Beinen des Schemels begrenzt wird.
     :name: fig-standfestigkeit
     :alt:  fig-standfestigkeit
     :align: center
-    :width: 60%
+    :width: 40%
 
     Standfestigkeit eines Gegenstands.
 
@@ -204,22 +204,22 @@ Fläche, die von den Beinen des Schemels begrenzt wird.
 Wirkt eine Kraft :math:`\vec{F}` in einer Höhe :math:`h` über der Standfläche
 waagrecht auf den Körper ein, so übt diese bezüglich der Kippkante ein so
 genanntes Kippmoment :math:`F \cdot h` aus. Im entgegengesetzten Drehsinn
-bewirkt die im Schwerpunkt :math:`\rm{S}` wirkende Gewichtskraft des Gegenstands
+bewirkt die im Schwerpunkt :math:`\mathrm{S}` wirkende Gewichtskraft des Gegenstands
 ein "Standmoment" :math:`F \cdot l`, wobei :math:`l` den Abstand der Kippkante
 von der Wirkungslinie der Gewichtskraft angibt. Im Gleichgewichtsfall gilt:
 
 .. math::
 
-    F \cdot h = F _{\rm{G}} \cdot l
+    F \cdot h = F_{\mathrm{G}} \cdot l
 
 Die zum Kippen des Gegenstands nötige Kraft beträgt also mindestens:
 
 .. math::
 
-    F = \frac{F _{\rm{G}} \cdot l}{h}
+    F = \frac{F_{\mathrm{G}} \cdot l}{h}
 
 Die Standfestigkeit eines Gegenstands ist umso größer, je geringer seine Höhe
-:math:`h` ist, je größer seine Gewichtskraft :math:`F _{\rm{G}}` ist und je
+:math:`h` ist, je größer seine Gewichtskraft :math:`F_{\mathrm{G}}` ist und je
 größer der senkrechte Abstand :math:`l` des Schwerpunkts zur Kippkante ist. [#]_
 
 .. _Trägheitsmoment:
@@ -282,13 +282,13 @@ m \cdot r^2`.
 
 Das Trägheitsmoment eines beliebig geformten Körpers kann rechnerisch bestimmt
 werden, wenn man ihn aus einer Vielzahl von einzelnen kleinen Massestücken
-:math:`m _{\rm{i}}` zusammengesetzt denkt, die jeweils im Abstand :math:`r
-_{\rm{i}}` von der Drehachse entfernt liegen. Das Trägheitsmoment des Körpers
+:math:`m_{\mathrm{i}}` zusammengesetzt denkt, die jeweils im Abstand :math:`r
+_{\mathrm{i}}` von der Drehachse entfernt liegen. Das Trägheitsmoment des Körpers
 ist dann gleich der Summe der Trägheitsmomente aller einzelnen Teilstücke:
 
 .. math::
 
-    J = \sum_{i=1}^{n} m _{\rm{i}} \cdot r _{\rm{i}}^2
+    J = \sum_{i=1}^{n} m_{\mathrm{i}} \cdot r_{\mathrm{i}}^2
 
 Die Trägheitsmomente einiger regelmäßig geformter Körper, die in technischen
 Anwendungen häufig auftreten, sind in Formelsammlungen aufgelistet. Eine kleine
@@ -323,7 +323,7 @@ des Körpers auf einer Kreisbahn um die neue Drehachse rotiert. Es gilt somit:
 .. math::
     :label: eqn-satz-von-steiner
 
-    J _{\rm{a}} = J + m \cdot a^2
+    J_{\mathrm{a}} = J + m \cdot a^2
 
 Formal ist das neue Trägheitsmoment also gleich dem ursprünglichen
 Trägheitsmoment (bei Rotation um den Schwerpunkt) plus dem Trägheitsmoment des
@@ -401,7 +401,7 @@ sind, kann das Trägheitsmoment unmittelbar bestimmt werden.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu Drehmoment und
-    Gleichgewicht>` und :ref:`Übungsaufgaben <Aufgaben zu Drehmoment und
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Drehmoment und
+    Gleichgewicht>` und :ref:`Übungsaufgaben <Aufgaben Drehmoment und
     Gleichgewicht>`.
 

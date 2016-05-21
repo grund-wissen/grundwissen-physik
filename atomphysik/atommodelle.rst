@@ -91,7 +91,7 @@ Proportionen zu erklären.
 Das Thomson-Modell
 ------------------
 
-Im Jahr 1897 entdeckte der Physiker `Joseph John Thomson
+Im Jahr 1897 entdeckte `Joseph John Thomson
 <https://de.wikipedia.org/wiki/Joseph_John_Thomson>`_ bei Untersuchungen einer
 Glühkathode, dass es sich bei der austretenden Strahlung um einen Strom von
 Teilchen handeln müsse. Diese auf diese Weise entdeckten "Elektronen" ließen
@@ -140,7 +140,7 @@ erklären.
 Das Rutherford-Modell
 ---------------------
 
-Im Jahr 1911 führte der Physiker `Ernest Rutherford
+Im Jahr 1911 führte `Ernest Rutherford
 <https://de.wikipedia.org/wiki/Ernest_Rutherford>`_ ein Experiment durch, bei dem
 er einen Strahl radioaktiver Alpha-Teilchen :math:`(\ce{^4_2He^2+})` auf eine
 dünne Goldfolie lenkte. Die meisten Alpha-Teilchen konnten die Goldfolie
@@ -192,7 +192,7 @@ Bahnform der Elektronen und über ihre Energieverteilung treffen.
 Das Bohr-Modell
 ---------------
 
-Im Jahr 1913 formulierte der Physiker `Niels Bohr
+Im Jahr 1913 formulierte `Niels Bohr
 <https://de.wikipedia.org/wiki/Niels_Bohr>`_ ein Atommodell, das von einem
 planetenartigen Umlauf der Elektronen um den Atomkern ausgeht. Damit konnte er
 -- beeinflusst durch die Quantentheorie `Max Plancks
@@ -264,7 +264,7 @@ einen energiereicheren (weiter außen gelegenen) Zustand anheben.
 Die Sommerfeld-Erweiterung
 --------------------------
 
-Im Jahr 1916 formulierte der Physiker `Arnold Sommerfeld
+Im Jahr 1916 formulierte `Arnold Sommerfeld
 <https://de.wikipedia.org/wiki/Arnold_Sommerfeld>`_ eine Erweiterung des
 Bohrschein Atommodells. Es ging anstelle von Kreisbahnen allgemeiner von
 elliptischen Bahnen der Elektronen um den Atomkern aus. Eine Ellipse besitzt

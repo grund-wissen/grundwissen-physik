@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="millikan-versuch.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.90300641"
+     inkscape:cx="446.11711"
+     inkscape:cy="669.45818"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-object-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       id="guide6001"
+       position="-65.813614,-1579.5267"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide9594"
+       position="525.61499,377.47754"
+       orientation="1,0" />
+    <sodipodi:guide
+       id="guide9596"
+       position="228.63068,377.47754"
+       orientation="1,0" />
+  </sodipodi:namedview>
+  <title
+     id="title3568">Millikan-Versuch</title>
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path5525" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path5528" />
+    </marker>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5488"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4901-4"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3912-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4901-6"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2"
+       style="overflow:visible">
+      <path
+         id="path3912-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3041"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3047"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3057"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3061"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3892"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible">
+      <path
+         id="path3912"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4901"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect5171"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6420"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6422"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6424"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6426"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6428"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6430"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6432"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6434"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6436"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6438"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6440"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6442"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6444"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6446"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6448"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6450"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6452"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6454"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect6456"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3962-1"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-60"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3962"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Millikan-Versuch</dc:title>
+        <dc:date>2016-04-04</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Bernhard Grotz</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>de-DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Physik</rdf:li>
+            <rdf:li>Elektrizität</rdf:li>
+            <rdf:li>Elektrisches Feld</rdf:li>
+            <rdf:li>Plattenkondesator</rdf:li>
+            <rdf:li>Millikan-Versuch</rdf:li>
+            <rdf:li>Elementarladung</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <rect
+       style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6377-8"
+       width="581.17792"
+       height="345.11337"
+       x="81.458282"
+       y="353.62442"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="164.36091"
+       inkscape:transform-center-x="-1.2212233e-05"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 529.34341,405.19391 2e-5,238.53154"
+       id="path6303"
+       inkscape:connector-curvature="0" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       y="-541.73077"
+       x="365.798"
+       height="322.86819"
+       width="11.890944"
+       id="rect8557"
+       style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       transform="matrix(0,0.59359146,-0.59359146,0,942.81877,287.12975)"
+       id="g6053">
+      <path
+         transform="matrix(0.96011234,0,0,0.96011234,-68.172485,-50.609202)"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         sodipodi:ry="24.326292"
+         sodipodi:rx="24.326292"
+         sodipodi:cy="780.80676"
+         sodipodi:cx="253.83955"
+         id="path6055"
+         style="color:#000000;fill:none;stroke:#800000;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         transform="scale(-1.0001023,0.99989772)"
+         xml:space="preserve"
+         style="font-size:38.12050247px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1;font-family:Sans"
+         x="-191.49446"
+         y="711.0744"
+         id="text6057"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan6059"
+           x="-191.49446"
+           y="711.0744"
+           style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1">+</tspan></text>
+    </g>
+    <g
+       id="g8559"
+       transform="matrix(0,0.59359146,-0.59359146,0,910.02536,287.12976)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#800000;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path8561"
+         sodipodi:cx="253.83955"
+         sodipodi:cy="780.80676"
+         sodipodi:rx="24.326292"
+         sodipodi:ry="24.326292"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         transform="matrix(0.96011234,0,0,0.96011234,-68.172485,-50.609202)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8563"
+         y="711.0744"
+         x="-191.49446"
+         style="font-size:38.12050247px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1;font-family:Sans"
+         xml:space="preserve"
+         transform="scale(-1.0001023,0.99989772)"><tspan
+           style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1"
+           y="711.0744"
+           x="-191.49446"
+           id="tspan8565"
+           sodipodi:role="line">+</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       transform="matrix(0,0.59359146,-0.59359146,0,877.23199,287.12975)"
+       id="g8567">
+      <path
+         transform="matrix(0.96011234,0,0,0.96011234,-68.172485,-50.609202)"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         sodipodi:ry="24.326292"
+         sodipodi:rx="24.326292"
+         sodipodi:cy="780.80676"
+         sodipodi:cx="253.83955"
+         id="path8569"
+         style="color:#000000;fill:none;stroke:#800000;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         transform="scale(-1.0001023,0.99989772)"
+         xml:space="preserve"
+         style="font-size:38.12050247px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1;font-family:Sans"
+         x="-191.49446"
+         y="711.0744"
+         id="text8571"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8573"
+           x="-191.49446"
+           y="711.0744"
+           style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1">+</tspan></text>
+    </g>
+    <g
+       id="g8575"
+       transform="matrix(0,0.59359146,-0.59359146,0,844.43867,287.12975)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#800000;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path8577"
+         sodipodi:cx="253.83955"
+         sodipodi:cy="780.80676"
+         sodipodi:rx="24.326292"
+         sodipodi:ry="24.326292"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         transform="matrix(0.96011234,0,0,0.96011234,-68.172485,-50.609202)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8579"
+         y="711.0744"
+         x="-191.49446"
+         style="font-size:38.12050247px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1;font-family:Sans"
+         xml:space="preserve"
+         transform="scale(-1.0001023,0.99989772)"><tspan
+           style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1"
+           y="711.0744"
+           x="-191.49446"
+           id="tspan8581"
+           sodipodi:role="line">+</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       transform="matrix(0,0.59359146,-0.59359146,0,811.64531,287.12975)"
+       id="g8583">
+      <path
+         transform="matrix(0.96011234,0,0,0.96011234,-68.172485,-50.609202)"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         sodipodi:ry="24.326292"
+         sodipodi:rx="24.326292"
+         sodipodi:cy="780.80676"
+         sodipodi:cx="253.83955"
+         id="path8585"
+         style="color:#000000;fill:none;stroke:#800000;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         transform="scale(-1.0001023,0.99989772)"
+         xml:space="preserve"
+         style="font-size:38.12050247px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1;font-family:Sans"
+         x="-191.49446"
+         y="711.0744"
+         id="text8587"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8589"
+           x="-191.49446"
+           y="711.0744"
+           style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1">+</tspan></text>
+    </g>
+    <g
+       id="g8591"
+       transform="matrix(0,0.59359146,-0.59359146,0,778.85188,287.12974)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#800000;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path8593"
+         sodipodi:cx="253.83955"
+         sodipodi:cy="780.80676"
+         sodipodi:rx="24.326292"
+         sodipodi:ry="24.326292"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         transform="matrix(0.96011234,0,0,0.96011234,-68.172485,-50.609202)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8595"
+         y="711.0744"
+         x="-191.49446"
+         style="font-size:38.12050247px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1;font-family:Sans"
+         xml:space="preserve"
+         transform="scale(-1.0001023,0.99989772)"><tspan
+           style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1"
+           y="711.0744"
+           x="-191.49446"
+           id="tspan8597"
+           sodipodi:role="line">+</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       transform="matrix(0,0.59359146,-0.59359146,0,746.05855,287.12974)"
+       id="g8599">
+      <path
+         transform="matrix(0.96011234,0,0,0.96011234,-68.172485,-50.609202)"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         sodipodi:ry="24.326292"
+         sodipodi:rx="24.326292"
+         sodipodi:cy="780.80676"
+         sodipodi:cx="253.83955"
+         id="path8601"
+         style="color:#000000;fill:none;stroke:#800000;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         transform="scale(-1.0001023,0.99989772)"
+         xml:space="preserve"
+         style="font-size:38.12050247px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1;font-family:Sans"
+         x="-191.49446"
+         y="711.0744"
+         id="text8603"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8605"
+           x="-191.49446"
+           y="711.0744"
+           style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1">+</tspan></text>
+    </g>
+    <g
+       id="g8607"
+       transform="matrix(0,0.59359146,-0.59359146,0,713.26516,287.12975)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#800000;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path8609"
+         sodipodi:cx="253.83955"
+         sodipodi:cy="780.80676"
+         sodipodi:rx="24.326292"
+         sodipodi:ry="24.326292"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         transform="matrix(0.96011234,0,0,0.96011234,-68.172485,-50.609202)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8611"
+         y="711.0744"
+         x="-191.49446"
+         style="font-size:38.12050247px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1;font-family:Sans"
+         xml:space="preserve"
+         transform="scale(-1.0001023,0.99989772)"><tspan
+           style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1"
+           y="711.0744"
+           x="-191.49446"
+           id="tspan8613"
+           sodipodi:role="line">+</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       transform="matrix(0,0.59359146,-0.59359146,0,680.4718,287.12975)"
+       id="g8615">
+      <path
+         transform="matrix(0.96011234,0,0,0.96011234,-68.172485,-50.609202)"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         sodipodi:ry="24.326292"
+         sodipodi:rx="24.326292"
+         sodipodi:cy="780.80676"
+         sodipodi:cx="253.83955"
+         id="path8617"
+         style="color:#000000;fill:none;stroke:#800000;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         transform="scale(-1.0001023,0.99989772)"
+         xml:space="preserve"
+         style="font-size:38.12050247px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1;font-family:Sans"
+         x="-191.49446"
+         y="711.0744"
+         id="text8619"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8621"
+           x="-191.49446"
+           y="711.0744"
+           style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1">+</tspan></text>
+    </g>
+    <g
+       id="g8623"
+       transform="matrix(0,0.59359146,-0.59359146,0,647.67842,287.12975)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#800000;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path8625"
+         sodipodi:cx="253.83955"
+         sodipodi:cy="780.80676"
+         sodipodi:rx="24.326292"
+         sodipodi:ry="24.326292"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         transform="matrix(0.96011234,0,0,0.96011234,-68.172485,-50.609202)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8627"
+         y="711.0744"
+         x="-191.49446"
+         style="font-size:38.12050247px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1;font-family:Sans"
+         xml:space="preserve"
+         transform="scale(-1.0001023,0.99989772)"><tspan
+           style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.68466043;stroke-opacity:1"
+           y="711.0744"
+           x="-191.49446"
+           id="tspan8629"
+           sodipodi:role="line">+</tspan></text>
+    </g>
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       style="color:#000000;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8631"
+       width="11.890944"
+       height="322.86819"
+       x="674.67322"
+       y="-541.73077" />
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       transform="matrix(0.59359146,0,0,0.59359146,322.73568,245.85744)"
+       id="g6005">
+      <path
+         transform="matrix(0.96011234,0,0,0.96011234,104.38177,-50.609202)"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         sodipodi:ry="24.326292"
+         sodipodi:rx="24.326292"
+         sodipodi:cy="780.80676"
+         sodipodi:cx="253.83955"
+         id="path3173"
+         style="color:#000000;fill:none;stroke:#000080;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text17774"
+         y="720.19989"
+         x="-361.81461"
+         style="font-size:76.23279572px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.19181681;font-family:Sans"
+         xml:space="preserve"
+         transform="scale(-1.0001022,0.99989781)"><tspan
+           y="720.19989"
+           x="-361.81461"
+           id="tspan17776"
+           sodipodi:role="line"
+           style="stroke-width:1.19181681">-</tspan></text>
+    </g>
+    <g
+       id="g8633"
+       transform="matrix(0.59359146,0,0,0.59359146,26.099564,245.85744)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#000080;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path8635"
+         sodipodi:cx="253.83955"
+         sodipodi:cy="780.80676"
+         sodipodi:rx="24.326292"
+         sodipodi:ry="24.326292"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         transform="matrix(0.96011234,0,0,0.96011234,104.38177,-50.609202)" />
+      <text
+         transform="scale(-1.0001022,0.99989781)"
+         xml:space="preserve"
+         style="font-size:76.23279572px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.19181681;font-family:Sans"
+         x="-361.81461"
+         y="720.19989"
+         id="text8637"
+         sodipodi:linespacing="125%"><tspan
+           style="stroke-width:1.19181681"
+           sodipodi:role="line"
+           id="tspan8639"
+           x="-361.81461"
+           y="720.19989">-</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       transform="matrix(0.59359146,0,0,0.59359146,59.059125,245.85744)"
+       id="g8641">
+      <path
+         transform="matrix(0.96011234,0,0,0.96011234,104.38177,-50.609202)"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         sodipodi:ry="24.326292"
+         sodipodi:rx="24.326292"
+         sodipodi:cy="780.80676"
+         sodipodi:cx="253.83955"
+         id="path8643"
+         style="color:#000000;fill:none;stroke:#000080;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8645"
+         y="720.19989"
+         x="-361.81461"
+         style="font-size:76.23279572px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.19181681;font-family:Sans"
+         xml:space="preserve"
+         transform="scale(-1.0001022,0.99989781)"><tspan
+           y="720.19989"
+           x="-361.81461"
+           id="tspan8647"
+           sodipodi:role="line"
+           style="stroke-width:1.19181681">-</tspan></text>
+    </g>
+    <g
+       id="g8649"
+       transform="matrix(0.59359146,0,0,0.59359146,92.018695,245.85743)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#000080;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path8651"
+         sodipodi:cx="253.83955"
+         sodipodi:cy="780.80676"
+         sodipodi:rx="24.326292"
+         sodipodi:ry="24.326292"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         transform="matrix(0.96011234,0,0,0.96011234,104.38177,-50.609202)" />
+      <text
+         transform="scale(-1.0001022,0.99989781)"
+         xml:space="preserve"
+         style="font-size:76.23279572px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.19181681;font-family:Sans"
+         x="-361.81461"
+         y="720.19989"
+         id="text8653"
+         sodipodi:linespacing="125%"><tspan
+           style="stroke-width:1.19181681"
+           sodipodi:role="line"
+           id="tspan8655"
+           x="-361.81461"
+           y="720.19989">-</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       transform="matrix(0.59359146,0,0,0.59359146,124.97828,245.85744)"
+       id="g8657">
+      <path
+         transform="matrix(0.96011234,0,0,0.96011234,104.38177,-50.609202)"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         sodipodi:ry="24.326292"
+         sodipodi:rx="24.326292"
+         sodipodi:cy="780.80676"
+         sodipodi:cx="253.83955"
+         id="path8659"
+         style="color:#000000;fill:none;stroke:#000080;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8661"
+         y="720.19989"
+         x="-361.81461"
+         style="font-size:76.23279572px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.19181681;font-family:Sans"
+         xml:space="preserve"
+         transform="scale(-1.0001022,0.99989781)"><tspan
+           y="720.19989"
+           x="-361.81461"
+           id="tspan8663"
+           sodipodi:role="line"
+           style="stroke-width:1.19181681">-</tspan></text>
+    </g>
+    <g
+       id="g8665"
+       transform="matrix(0.59359146,0,0,0.59359146,157.93781,245.85744)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#000080;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path8667"
+         sodipodi:cx="253.83955"
+         sodipodi:cy="780.80676"
+         sodipodi:rx="24.326292"
+         sodipodi:ry="24.326292"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         transform="matrix(0.96011234,0,0,0.96011234,104.38177,-50.609202)" />
+      <text
+         transform="scale(-1.0001022,0.99989781)"
+         xml:space="preserve"
+         style="font-size:76.23279572px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.19181681;font-family:Sans"
+         x="-361.81461"
+         y="720.19989"
+         id="text8669"
+         sodipodi:linespacing="125%"><tspan
+           style="stroke-width:1.19181681"
+           sodipodi:role="line"
+           id="tspan8671"
+           x="-361.81461"
+           y="720.19989">-</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       transform="matrix(0.59359146,0,0,0.59359146,190.89742,245.85744)"
+       id="g8673">
+      <path
+         transform="matrix(0.96011234,0,0,0.96011234,104.38177,-50.609202)"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         sodipodi:ry="24.326292"
+         sodipodi:rx="24.326292"
+         sodipodi:cy="780.80676"
+         sodipodi:cx="253.83955"
+         id="path8675"
+         style="color:#000000;fill:none;stroke:#000080;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8677"
+         y="720.19989"
+         x="-361.81461"
+         style="font-size:76.23279572px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.19181681;font-family:Sans"
+         xml:space="preserve"
+         transform="scale(-1.0001022,0.99989781)"><tspan
+           y="720.19989"
+           x="-361.81461"
+           id="tspan8679"
+           sodipodi:role="line"
+           style="stroke-width:1.19181681">-</tspan></text>
+    </g>
+    <g
+       id="g8681"
+       transform="matrix(0.59359146,0,0,0.59359146,223.857,245.85743)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#000080;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path8683"
+         sodipodi:cx="253.83955"
+         sodipodi:cy="780.80676"
+         sodipodi:rx="24.326292"
+         sodipodi:ry="24.326292"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         transform="matrix(0.96011234,0,0,0.96011234,104.38177,-50.609202)" />
+      <text
+         transform="scale(-1.0001022,0.99989781)"
+         xml:space="preserve"
+         style="font-size:76.23279572px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.19181681;font-family:Sans"
+         x="-361.81461"
+         y="720.19989"
+         id="text8685"
+         sodipodi:linespacing="125%"><tspan
+           style="stroke-width:1.19181681"
+           sodipodi:role="line"
+           id="tspan8687"
+           x="-361.81461"
+           y="720.19989">-</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       transform="matrix(0.59359146,0,0,0.59359146,256.81656,245.85744)"
+       id="g8689">
+      <path
+         transform="matrix(0.96011234,0,0,0.96011234,104.38177,-50.609202)"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         sodipodi:ry="24.326292"
+         sodipodi:rx="24.326292"
+         sodipodi:cy="780.80676"
+         sodipodi:cx="253.83955"
+         id="path8691"
+         style="color:#000000;fill:none;stroke:#000080;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8693"
+         y="720.19989"
+         x="-361.81461"
+         style="font-size:76.23279572px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.19181681;font-family:Sans"
+         xml:space="preserve"
+         transform="scale(-1.0001022,0.99989781)"><tspan
+           y="720.19989"
+           x="-361.81461"
+           id="tspan8695"
+           sodipodi:role="line"
+           style="stroke-width:1.19181681">-</tspan></text>
+    </g>
+    <g
+       id="g8697"
+       transform="matrix(0.59359146,0,0,0.59359146,289.77605,245.85743)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:none;stroke:#000080;stroke-width:3.50929856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path8699"
+         sodipodi:cx="253.83955"
+         sodipodi:cy="780.80676"
+         sodipodi:rx="24.326292"
+         sodipodi:ry="24.326292"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         transform="matrix(0.96011234,0,0,0.96011234,104.38177,-50.609202)" />
+      <text
+         transform="scale(-1.0001022,0.99989781)"
+         xml:space="preserve"
+         style="font-size:76.23279572px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:1.19181681;font-family:Sans"
+         x="-361.81461"
+         y="720.19989"
+         id="text8701"
+         sodipodi:linespacing="125%"><tspan
+           style="stroke-width:1.19181681"
+           sodipodi:role="line"
+           id="tspan8703"
+           x="-361.81461"
+           y="720.19989">-</tspan></text>
+    </g>
+    <path
+       inkscape:transform-center-y="164.36089"
+       inkscape:connector-curvature="0"
+       id="path8705"
+       d="m 496.38381,405.19387 -10e-6,238.53157"
+       style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="164.36091"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 463.42433,405.1939 -2e-5,238.53153"
+       id="path8707"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:transform-center-y="164.3609"
+       inkscape:connector-curvature="0"
+       id="path8709"
+       d="m 429.48676,405.19388 0,238.53156"
+       style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="164.36091"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 396.69339,405.19389 0,238.53156"
+       id="path8711"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:transform-center-y="164.36089"
+       inkscape:connector-curvature="0"
+       id="path8713"
+       d="m 363.89999,405.19388 0,238.53156"
+       style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="164.3609"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 331.10664,405.19389 10e-6,238.53155"
+       id="path8715"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:transform-center-y="164.3609"
+       inkscape:transform-center-x="1.477052e-05"
+       inkscape:connector-curvature="0"
+       id="path8717"
+       d="m 298.31327,405.19389 -3e-5,238.53155"
+       style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       inkscape:transform-center-y="164.3609"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 265.66689,405.19389 -2e-5,238.53155"
+       id="path8719"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:transform-center-y="164.36091"
+       inkscape:connector-curvature="0"
+       id="path8721"
+       d="m 232.70732,405.1939 -1e-5,238.53154"
+       style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       id="g8915"
+       style="fill:#800080;fill-opacity:1"
+       transform="matrix(3,0,0,3,-471.5531,135.45505)"
+       ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
+       ns0:text="$\\vec{E}$">
+      <defs
+         id="defs8917">
+        <g
+           id="g8919">
+          <symbol
+             id="textext-76154dca-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path8922"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-76154dca-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path8925"
+               d="m 5.359375,-5.9375 c -0.140625,0.140625 -0.46875,0.421875 -0.46875,0.59375 0,0.09375 0.09375,0.203125 0.1875,0.203125 0.09375,0 0.140625,-0.078125 0.203125,-0.140625 C 5.390625,-5.421875 5.625,-5.703125 6.0625,-5.921875 6.125,-5.96875 6.234375,-6.015625 6.234375,-6.125 6.234375,-6.234375 6.15625,-6.28125 6.09375,-6.328125 5.875,-6.484375 5.765625,-6.65625 5.6875,-6.890625 5.65625,-6.984375 5.625,-7.125 5.484375,-7.125 c -0.140625,0 -0.203125,0.140625 -0.203125,0.21875 0,0.046875 0.078125,0.359375 0.234375,0.578125 l -3.359375,0 c -0.15625,0 -0.34375,0 -0.34375,0.203125 0,0.1875 0.1875,0.1875 0.34375,0.1875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-76154dca-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path8928"
+               d="M 7.0625,-2.328125 C 7.078125,-2.375 7.109375,-2.4375 7.109375,-2.46875 c 0,0 0,-0.109375 -0.125,-0.109375 -0.09375,0 -0.109375,0.0625 -0.125,0.125 -0.65625,1.46875 -1.015625,2.140625 -2.71875,2.140625 l -1.453125,0 c -0.140625,0 -0.171875,0 -0.21875,0 -0.109375,-0.015625 -0.140625,-0.03125 -0.140625,-0.109375 0,-0.03125 0,-0.046875 0.046875,-0.21875 L 3.0625,-3.375 l 0.984375,0 c 0.84375,0 0.84375,0.21875 0.84375,0.46875 0,0.0625 0,0.1875 -0.0625,0.484375 C 4.8125,-2.375 4.796875,-2.34375 4.796875,-2.3125 c 0,0.046875 0.03125,0.109375 0.125,0.109375 C 5,-2.203125 5.03125,-2.25 5.078125,-2.40625 l 0.5625,-2.328125 c 0,-0.0625 -0.046875,-0.109375 -0.125,-0.109375 -0.078125,0 -0.109375,0.0625 -0.125,0.171875 -0.21875,0.765625 -0.390625,1 -1.3125,1 l -0.9375,0 0.59375,-2.40625 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.40625,0 c 1.203125,0 1.515625,0.28125 1.515625,1.109375 0,0.234375 0,0.25 -0.046875,0.53125 0,0.046875 -0.015625,0.125 -0.015625,0.171875 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.125,-0.0625 0.140625,-0.25 L 7.609375,-6.515625 C 7.640625,-6.78125 7.59375,-6.78125 7.34375,-6.78125 l -5.046875,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.46875,0 0.65625,0 l 5.171875,0 c 0.234375,0 0.25,-0.015625 0.3125,-0.171875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-76154dca-3"
+         style="fill:#800080;fill-opacity:1">
+        <g
+           id="g8931"
+           style="fill:#800080;fill-opacity:1">
+          <use
+             id="use8933"
+             y="132.246"
+             x="224.97"
+             xlink:href="#textext-76154dca-1"
+             width="744.09448"
+             height="1052.3622"
+             style="fill:#800080;fill-opacity:1" />
+        </g>
+        <g
+           id="g8935"
+           style="fill:#800080;fill-opacity:1">
+          <use
+             id="use8937"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-76154dca-2"
+             width="744.09448"
+             height="1052.3622"
+             style="fill:#800080;fill-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       transform="matrix(0.71376585,0,0,0.71376585,131.83745,26.32389)"
+       id="g9643">
+      <path
+         transform="matrix(0.96011234,0,0,0.96011234,104.38177,-50.609202)"
+         d="m 278.16585,780.80676 c 0,13.43504 -10.89126,24.32629 -24.3263,24.32629 -13.43504,0 -24.32629,-10.89125 -24.32629,-24.32629 0,-13.43504 10.89125,-24.32629 24.32629,-24.32629 13.43504,0 24.3263,10.89125 24.3263,24.32629 z"
+         sodipodi:ry="24.326292"
+         sodipodi:rx="24.326292"
+         sodipodi:cy="780.80676"
+         sodipodi:cx="253.83955"
+         id="path9645"
+         style="color:#000000;fill:#ffffff;stroke:#000080;stroke-width:2.91844964;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9647"
+         y="720.19989"
+         x="-361.81461"
+         style="font-size:76.23279572px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;stroke-width:0.99115461;font-family:Sans"
+         xml:space="preserve"
+         transform="scale(-1.0001022,0.99989781)"><tspan
+           y="720.19989"
+           x="-361.81461"
+           id="tspan9649"
+           sodipodi:role="line"
+           style="stroke-width:0.99115461">-</tspan></text>
+    </g>
+    <path
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       style="color:#000000;fill:#800080;fill-opacity:1;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 380.29667,542.90108 0,62.21734"
+       id="path5615"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-y="43.366869" />
+    <g
+       id="g6027"
+       transform="translate(-39.240415,34.165063)"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <rect
+         y="539.06738"
+         x="427.5499"
+         height="37.586803"
+         width="35.237629"
+         id="rect6025"
+         style="opacity:0.7;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <g
+         ns0:text="$\\vec{F}_{\\mathrm{G}}$"
+         ns0:preamble=""
+         transform="matrix(3,0,0,3,-243.90187,165.57835)"
+         style="fill:#d40000;fill-opacity:1"
+         id="g5809">
+        <defs
+           id="defs5811">
+          <g
+             id="g5813">
+            <symbol
+               style="overflow:visible"
+               overflow="visible"
+               id="textext-fcb869cc-0">
+              <path
+                 inkscape:connector-curvature="0"
+                 style="stroke:none"
+                 d=""
+                 id="path5816" />
+            </symbol>
+            <symbol
+               style="overflow:visible"
+               overflow="visible"
+               id="textext-fcb869cc-1">
+              <path
+                 inkscape:connector-curvature="0"
+                 style="stroke:none"
+                 d="m 5.359375,-5.9375 c -0.140625,0.140625 -0.46875,0.421875 -0.46875,0.59375 0,0.09375 0.09375,0.203125 0.1875,0.203125 0.09375,0 0.140625,-0.078125 0.203125,-0.140625 C 5.390625,-5.421875 5.625,-5.703125 6.0625,-5.921875 6.125,-5.96875 6.234375,-6.015625 6.234375,-6.125 6.234375,-6.234375 6.15625,-6.28125 6.09375,-6.328125 5.875,-6.484375 5.765625,-6.65625 5.6875,-6.890625 5.65625,-6.984375 5.625,-7.125 5.484375,-7.125 c -0.140625,0 -0.203125,0.140625 -0.203125,0.21875 0,0.046875 0.078125,0.359375 0.234375,0.578125 l -3.359375,0 c -0.15625,0 -0.34375,0 -0.34375,0.203125 0,0.1875 0.1875,0.1875 0.34375,0.1875 z m 0,0"
+                 id="path5819" />
+            </symbol>
+            <symbol
+               style="overflow:visible"
+               overflow="visible"
+               id="textext-fcb869cc-2">
+              <path
+                 inkscape:connector-curvature="0"
+                 style="stroke:none"
+                 d="m 3.015625,-3.234375 0.96875,0 c 0.75,0 0.828125,0.15625 0.828125,0.4375 0,0.078125 0,0.1875 -0.0625,0.5 C 4.71875,-2.25 4.71875,-2.21875 4.71875,-2.1875 c 0,0.078125 0.0625,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.203125 L 5.53125,-4.453125 C 5.5625,-4.5625 5.5625,-4.578125 5.5625,-4.609375 5.5625,-4.625 5.546875,-4.71875 5.4375,-4.71875 5.34375,-4.71875 5.328125,-4.671875 5.296875,-4.5 5.078125,-3.734375 4.859375,-3.546875 4,-3.546875 l -0.90625,0 0.640625,-2.53125 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.3125,0 c 1.21875,0 1.453125,0.328125 1.453125,1.09375 0,0.234375 0,0.265625 -0.03125,0.546875 C 7,-4.703125 7,-4.6875 7,-4.65625 c 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.109375,-0.0625 0.125,-0.25 L 7.453125,-6.515625 C 7.484375,-6.78125 7.4375,-6.78125 7.1875,-6.78125 l -4.890625,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.5625,-0.03125 1.84375,-0.03125 2.171875,-0.03125 3,0 3.328125,0 3.421875,0 3.53125,0 3.53125,-0.1875 3.53125,-0.265625 3.484375,-0.296875 3.484375,-0.296875 3.453125,-0.3125 3.421875,-0.3125 3.203125,-0.3125 c -0.21875,0 -0.265625,0 -0.515625,-0.015625 -0.296875,-0.03125 -0.328125,-0.078125 -0.328125,-0.203125 0,-0.015625 0,-0.078125 0.046875,-0.21875 z m 0,0"
+                 id="path5822" />
+            </symbol>
+            <symbol
+               style="overflow:visible"
+               overflow="visible"
+               id="textext-fcb869cc-3">
+              <path
+                 inkscape:connector-curvature="0"
+                 style="stroke:none"
+                 d=""
+                 id="path5825" />
+            </symbol>
+            <symbol
+               style="overflow:visible"
+               overflow="visible"
+               id="textext-fcb869cc-4">
+              <path
+                 inkscape:connector-curvature="0"
+                 style="stroke:none"
+                 d="m 5.1875,-1.359375 c 0,-0.3125 0.078125,-0.3125 0.546875,-0.3125 l 0,-0.25 c -0.0625,0 -0.5625,0.03125 -0.90625,0.03125 -0.375,0 -0.890625,0 -1.265625,-0.03125 l 0,0.25 0.265625,0 c 0.703125,0 0.703125,0.09375 0.703125,0.3125 l 0,0.453125 c 0,0.15625 0,0.421875 -0.40625,0.625 -0.328125,0.171875 -0.71875,0.171875 -0.8125,0.171875 -0.796875,0 -2.078125,-0.453125 -2.078125,-2.28125 0,-1.84375 1.328125,-2.25 2.015625,-2.25 0.671875,0 1.515625,0.453125 1.6875,1.65625 0.015625,0.078125 0.078125,0.078125 0.125,0.078125 0.125,0 0.125,-0.046875 0.125,-0.1875 l 0,-1.625 c 0,-0.125 0,-0.1875 -0.09375,-0.1875 -0.03125,0 -0.0625,0 -0.125,0.09375 l -0.359375,0.53125 c -0.34375,-0.359375 -0.84375,-0.625 -1.453125,-0.625 -1.453125,0 -2.671875,1.125 -2.671875,2.515625 0,1.390625 1.1875,2.53125 2.6875,2.53125 0.390625,0 1.15625,-0.078125 1.484375,-0.5625 C 4.78125,-0.234375 5.03125,0 5.109375,0 5.1875,0 5.1875,-0.078125 5.1875,-0.1875 z m 0,0"
+                 id="path5828" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           style="fill:#d40000"
+           id="textext-fcb869cc-5">
+          <g
+             style="fill:#d40000;fill-opacity:1"
+             id="g5831">
+            <use
+               style="fill:#d40000"
+               height="1052.3622"
+               width="744.09448"
+               xlink:href="#textext-fcb869cc-1"
+               x="224.901"
+               y="132.24699"
+               id="use5833" />
+          </g>
+          <g
+             style="fill:#d40000;fill-opacity:1"
+             id="g5835">
+            <use
+               style="fill:#d40000"
+               height="1052.3622"
+               width="744.09448"
+               xlink:href="#textext-fcb869cc-2"
+               x="223.43201"
+               y="134.765"
+               id="use5837" />
+          </g>
+          <g
+             style="fill:#d40000;fill-opacity:1"
+             id="g5839">
+            <use
+               style="fill:#d40000"
+               height="1052.3622"
+               width="744.09448"
+               xlink:href="#textext-fcb869cc-4"
+               x="229.839"
+               y="136.259"
+               id="use5841" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <path
+       inkscape:transform-center-y="-43.36687"
+       inkscape:connector-curvature="0"
+       id="path6050"
+       d="m 380.29667,507.66707 0,-62.21734"
+       style="color:#000000;fill:#800080;fill-opacity:1;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       inkscape:transform-center-x="0.05764932" />
+    <path
+       inkscape:transform-center-x="0.05764932"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       style="color:#000000;fill:#800080;fill-opacity:1;stroke:#d40000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 380.29667,507.66707 0,-25.00314"
+       id="path6052"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-y="-18.167371" />
+    <rect
+       y="467.19775"
+       x="388.30948"
+       height="35.371979"
+       width="35.237629"
+       id="rect6056"
+       style="opacity:0.7;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       ns0:text="$\\vec{F}_{\\mathrm{A}}$"
+       ns0:preamble="/home/waldgeist/data/homepage/inkscape-preamble.tex"
+       transform="matrix(3,0,0,3,31.031979,248.89673)"
+       style="fill:#d40000;fill-opacity:1"
+       id="g6308"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs6310">
+        <g
+           id="g6312">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-eada7064-0">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path6315" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-eada7064-1">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 5.359375,-5.9375 c -0.140625,0.140625 -0.46875,0.421875 -0.46875,0.59375 0,0.09375 0.09375,0.203125 0.1875,0.203125 0.09375,0 0.140625,-0.078125 0.203125,-0.140625 C 5.390625,-5.421875 5.625,-5.703125 6.0625,-5.921875 6.125,-5.96875 6.234375,-6.015625 6.234375,-6.125 6.234375,-6.234375 6.15625,-6.28125 6.09375,-6.328125 5.875,-6.484375 5.765625,-6.65625 5.6875,-6.890625 5.65625,-6.984375 5.625,-7.125 5.484375,-7.125 c -0.140625,0 -0.203125,0.140625 -0.203125,0.21875 0,0.046875 0.078125,0.359375 0.234375,0.578125 l -3.359375,0 c -0.15625,0 -0.34375,0 -0.34375,0.203125 0,0.1875 0.1875,0.1875 0.34375,0.1875 z m 0,0"
+               id="path6318" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-eada7064-2">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 3.015625,-3.234375 0.96875,0 c 0.75,0 0.828125,0.15625 0.828125,0.4375 0,0.078125 0,0.1875 -0.0625,0.5 C 4.71875,-2.25 4.71875,-2.21875 4.71875,-2.1875 c 0,0.078125 0.0625,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.203125 L 5.53125,-4.453125 C 5.5625,-4.5625 5.5625,-4.578125 5.5625,-4.609375 5.5625,-4.625 5.546875,-4.71875 5.4375,-4.71875 5.34375,-4.71875 5.328125,-4.671875 5.296875,-4.5 5.078125,-3.734375 4.859375,-3.546875 4,-3.546875 l -0.90625,0 0.640625,-2.53125 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.3125,0 c 1.21875,0 1.453125,0.328125 1.453125,1.09375 0,0.234375 0,0.265625 -0.03125,0.546875 C 7,-4.703125 7,-4.6875 7,-4.65625 c 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.109375,-0.0625 0.125,-0.25 L 7.453125,-6.515625 C 7.484375,-6.78125 7.4375,-6.78125 7.1875,-6.78125 l -4.890625,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.5625,-0.03125 1.84375,-0.03125 2.171875,-0.03125 3,0 3.328125,0 3.421875,0 3.53125,0 3.53125,-0.1875 3.53125,-0.265625 3.484375,-0.296875 3.484375,-0.296875 3.453125,-0.3125 3.421875,-0.3125 3.203125,-0.3125 c -0.21875,0 -0.265625,0 -0.515625,-0.015625 -0.296875,-0.03125 -0.328125,-0.078125 -0.328125,-0.203125 0,-0.015625 0,-0.078125 0.046875,-0.21875 z m 0,0"
+               id="path6321" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-eada7064-3">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path6324" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-eada7064-4">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="M 3.125,-4.8125 C 3.09375,-4.921875 3.0625,-4.96875 2.9375,-4.96875 c -0.140625,0 -0.15625,0.046875 -0.203125,0.15625 L 1.125,-0.734375 C 1.0625,-0.5625 0.9375,-0.25 0.3125,-0.25 l 0,0.25 C 0.546875,-0.015625 0.796875,-0.03125 1.03125,-0.03125 1.3125,-0.03125 1.828125,0 1.875,0 l 0,-0.25 c -0.3125,0 -0.515625,-0.140625 -0.515625,-0.328125 0,-0.0625 0.015625,-0.078125 0.046875,-0.140625 l 0.328125,-0.859375 1.984375,0 L 4.125,-0.5625 c 0,0.03125 0.03125,0.078125 0.03125,0.109375 0,0.203125 -0.375,0.203125 -0.5625,0.203125 l 0,0.25 C 3.9375,-0.015625 4.390625,-0.03125 4.625,-0.03125 4.953125,-0.03125 5.484375,0 5.546875,0 l 0,-0.25 -0.125,0 c -0.46875,0 -0.515625,-0.078125 -0.59375,-0.265625 z m -0.40625,0.71875 0.890625,2.265625 -1.78125,0 z m 0,0"
+               id="path6327" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         style="fill:#d40000"
+         id="textext-eada7064-5">
+        <g
+           style="fill:#d40000;fill-opacity:1"
+           id="g6330">
+          <use
+             style="fill:#d40000"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-eada7064-1"
+             x="120.27"
+             y="80.885002"
+             id="use6332" />
+        </g>
+        <g
+           style="fill:#d40000;fill-opacity:1"
+           id="g6334">
+          <use
+             style="fill:#d40000"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-eada7064-2"
+             x="118.801"
+             y="83.403"
+             id="use6336" />
+        </g>
+        <g
+           style="fill:#d40000;fill-opacity:1"
+           id="g6338">
+          <use
+             style="fill:#d40000"
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-eada7064-4"
+             x="125.208"
+             y="84.898003"
+             id="use6340" />
+        </g>
+      </g>
+    </g>
+    <rect
+       style="opacity:0.7;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6549"
+       width="35.237629"
+       height="35.371979"
+       x="388.30948"
+       y="430.28293"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <g
+       id="g6801"
+       style="fill:#d40000;fill-opacity:1"
+       transform="matrix(3,0,0,3,31.031979,211.98195)"
+       ns0:preamble="/home/waldgeist/data/homepage/inkscape-preamble.tex"
+       ns0:text="$\\vec{F}_{\\mathrm{el}}$"
+       inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/millikan-versuch.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <defs
+         id="defs6803">
+        <g
+           id="g6805">
+          <symbol
+             id="textext-cedb9fb0-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6808"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-cedb9fb0-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6811"
+               d="m 5.359375,-5.9375 c -0.140625,0.140625 -0.46875,0.421875 -0.46875,0.59375 0,0.09375 0.09375,0.203125 0.1875,0.203125 0.09375,0 0.140625,-0.078125 0.203125,-0.140625 C 5.390625,-5.421875 5.625,-5.703125 6.0625,-5.921875 6.125,-5.96875 6.234375,-6.015625 6.234375,-6.125 6.234375,-6.234375 6.15625,-6.28125 6.09375,-6.328125 5.875,-6.484375 5.765625,-6.65625 5.6875,-6.890625 5.65625,-6.984375 5.625,-7.125 5.484375,-7.125 c -0.140625,0 -0.203125,0.140625 -0.203125,0.21875 0,0.046875 0.078125,0.359375 0.234375,0.578125 l -3.359375,0 c -0.15625,0 -0.34375,0 -0.34375,0.203125 0,0.1875 0.1875,0.1875 0.34375,0.1875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-cedb9fb0-2"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6814"
+               d="m 3.015625,-3.234375 0.96875,0 c 0.75,0 0.828125,0.15625 0.828125,0.4375 0,0.078125 0,0.1875 -0.0625,0.5 C 4.71875,-2.25 4.71875,-2.21875 4.71875,-2.1875 c 0,0.078125 0.0625,0.109375 0.109375,0.109375 0.109375,0 0.109375,-0.03125 0.15625,-0.203125 L 5.53125,-4.453125 C 5.5625,-4.5625 5.5625,-4.578125 5.5625,-4.609375 5.5625,-4.625 5.546875,-4.71875 5.4375,-4.71875 5.34375,-4.71875 5.328125,-4.671875 5.296875,-4.5 5.078125,-3.734375 4.859375,-3.546875 4,-3.546875 l -0.90625,0 0.640625,-2.53125 C 3.828125,-6.4375 3.84375,-6.46875 4.28125,-6.46875 l 1.3125,0 c 1.21875,0 1.453125,0.328125 1.453125,1.09375 0,0.234375 0,0.265625 -0.03125,0.546875 C 7,-4.703125 7,-4.6875 7,-4.65625 c 0,0.046875 0.03125,0.125 0.125,0.125 0.109375,0 0.109375,-0.0625 0.125,-0.25 L 7.453125,-6.515625 C 7.484375,-6.78125 7.4375,-6.78125 7.1875,-6.78125 l -4.890625,0 c -0.1875,0 -0.296875,0 -0.296875,0.203125 0,0.109375 0.09375,0.109375 0.28125,0.109375 0.375,0 0.65625,0 0.65625,0.171875 0,0.046875 0,0.0625 -0.0625,0.25 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.5625,-0.03125 1.84375,-0.03125 2.171875,-0.03125 3,0 3.328125,0 3.421875,0 3.53125,0 3.53125,-0.1875 3.53125,-0.265625 3.484375,-0.296875 3.484375,-0.296875 3.453125,-0.3125 3.421875,-0.3125 3.203125,-0.3125 c -0.21875,0 -0.265625,0 -0.515625,-0.015625 -0.296875,-0.03125 -0.328125,-0.078125 -0.328125,-0.203125 0,-0.015625 0,-0.078125 0.046875,-0.21875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-cedb9fb0-3"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6817"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-cedb9fb0-4"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6820"
+               d="m 3.0625,-1.59375 c 0.15625,0 0.203125,0 0.203125,-0.140625 0,-0.625 -0.34375,-1.375 -1.390625,-1.375 -0.90625,0 -1.609375,0.71875 -1.609375,1.578125 0,0.890625 0.78125,1.59375 1.703125,1.59375 0.9375,0 1.296875,-0.75 1.296875,-0.90625 0,-0.015625 -0.015625,-0.09375 -0.125,-0.09375 -0.09375,0 -0.109375,0.046875 -0.125,0.109375 -0.21875,0.5625 -0.75,0.671875 -1,0.671875 C 1.6875,-0.15625 1.375,-0.296875 1.171875,-0.5625 0.90625,-0.890625 0.90625,-1.3125 0.90625,-1.59375 z M 0.90625,-1.765625 C 0.984375,-2.75 1.609375,-2.90625 1.875,-2.90625 c 0.859375,0 0.890625,0.96875 0.90625,1.140625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-cedb9fb0-5"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path6823"
+               d="m 1.4375,-4.84375 -1.046875,0.078125 0,0.25 c 0.46875,0 0.515625,0.0625 0.515625,0.390625 l 0,3.578125 C 0.90625,-0.25 0.84375,-0.25 0.390625,-0.25 l 0,0.25 c 0.015625,0 0.5,-0.03125 0.78125,-0.03125 0.265625,0 0.515625,0.015625 0.78125,0.03125 l 0,-0.25 C 1.5,-0.25 1.4375,-0.25 1.4375,-0.546875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-cedb9fb0-6"
+         style="fill:#d40000">
+        <g
+           id="g6826"
+           style="fill:#d40000;fill-opacity:1">
+          <use
+             id="use6828"
+             y="80.885002"
+             x="120.27"
+             xlink:href="#textext-cedb9fb0-1"
+             style="fill:#d40000"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g6830"
+           style="fill:#d40000;fill-opacity:1">
+          <use
+             id="use6832"
+             y="83.403"
+             x="118.801"
+             xlink:href="#textext-cedb9fb0-2"
+             style="fill:#d40000"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+        <g
+           id="g6834"
+           style="fill:#d40000;fill-opacity:1">
+          <use
+             id="use6836"
+             y="84.898003"
+             x="125.208"
+             xlink:href="#textext-cedb9fb0-4"
+             style="fill:#d40000"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             id="use6838"
+             y="84.898003"
+             x="128.75"
+             xlink:href="#textext-cedb9fb0-5"
+             style="fill:#d40000"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

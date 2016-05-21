@@ -25,9 +25,9 @@ Das Federpendel
 
 In guter Näherung werden diese Bedingungen von einem Pendelkörper, der an einer
 hängenden Schraubenfeder befestigt ist, erfüllt. Bei einer Auslenkung :math:`s`
-aus der Ruhelage ist die rücktreibende Kraft gleich der Spannkraft :math:`F
-_{\rm{S}}` der Schraubenfeder. Diese hängt von der Federhärte :math:`D` ab und
-ist der Auslenkung entgegengesetzt:
+aus der Ruhelage ist die rücktreibende Kraft gleich der Spannkraft
+:math:`F_{\mathrm{S}}` der Schraubenfeder. Diese hängt von der Federhärte
+:math:`D` ab und ist der Auslenkung entgegengesetzt:
 
 .. math::
 
@@ -181,10 +181,10 @@ Fadenlänge, so spricht man von einem mathematischen Pendel.
         <../../pics/mechanik/schwingungen-und-wellen/fadenpendel.svg>`
 
 Die rücktreibend wirkende Kraft einer Pendelschwingung lässt sich bestimmen,
-indem man die Gewichtskraft :math:`F _{\rm{G}}` des Pendelkörpers in zwei
+indem man die Gewichtskraft :math:`F_{\mathrm{G}}` des Pendelkörpers in zwei
 :ref:`Teilkräfte <Zerlegung einer Kraft in Teilkräfte>` (längs und quer zur
-Schwingungsrichtung) zerlegt: Die Teilkraft :math:`F _{\rm{S}}` in Seilrichtung
-hält den Faden gespannt, die Teilkraft :math:`F _{\rm{R}}` in
+Schwingungsrichtung) zerlegt: Die Teilkraft :math:`F_{\mathrm{S}}` in
+Seilrichtung hält den Faden gespannt, die Teilkraft :math:`F_{\mathrm{R}}` in
 Schwingungsrichtung entspricht der rücktreibenden Kraft. Ist der
 Auslenkungswinkel :math:`\varphi` klein, so ist die Länge :math:`s ^{*}` des
 Kreisbogens näherungsweise gleich dem waagrechten Abstand :math:`s` des
@@ -192,13 +192,13 @@ Pendelkörpers von der Ruhelage. [#]_
 
 .. index:: Richtgröße
 
-Für die rücktreibende Kraft :math:`F _{\rm{R}}` gilt mit :math:`\sin{(\varphi)}
-= \frac{s}{l}`:
+Für die rücktreibende Kraft :math:`F_{\mathrm{R}}` gilt mit
+:math:`\sin{(\varphi)} = \frac{s}{l}`:
 
 .. math::
 
-    F _{\rm{R}} &= F _{\rm{G}} \cdot \sin{(\varphi)} = m \cdot g \cdot \frac{s}{l}
-    = \frac{m \cdot g}{l} \cdot s
+    F_{\mathrm{R}} &= F_{\mathrm{G}} \cdot \sin{(\varphi)} = m \cdot g \cdot
+    \frac{s}{l} = \frac{m \cdot g}{l} \cdot s
 
 Der Term :math:`\frac{m \cdot g}{l}` hat somit die gleiche Bedeutung für das
 Fadenpendel wie die Federhärte :math:`D` für das Federpendel. Man bezeichnet
@@ -254,14 +254,14 @@ Luftwiderstands ebenfalls als harmonische Schwingungen beschrieben werden.
         <../../pics/mechanik/schwingungen-und-wellen/physikalisches-pendel.svg>`
 
 Die rücktreibende Größe ist in diesem Fall das Drehmoment :math:`\vec{M} =
-\vec{s} \times \vec{F} _{\rm{G}}` des Körperschwerpunkts bezüglich der Drehachse;
+\vec{s} \times \vec{F} _{\mathrm{G}}` des Körperschwerpunkts bezüglich der Drehachse;
 dabei bezeichnet :math:`s` den horizontalen Abstand des Schwerpunkts von der
 Ruhelage. Bei einem kleinen Auslenkungswinkel :math:`\varphi` kann für den
 Betrag des Drehmoments folgendes geschrieben werden:
 
 .. math::
 
-    M = - s \cdot F _{\rm{G}} = - s \cdot m \cdot g \approx  - (l \cdot \varphi) \cdot
+    M = - s \cdot F_{\mathrm{G}} = - s \cdot m \cdot g \approx  - (l \cdot \varphi) \cdot
     m \cdot g = - l \cdot m \cdot g \cdot \varphi
 
 Hierbei wurde die Näherung :math:`s = l \cdot \sin{(\varphi)} \approx l \cdot
@@ -308,11 +308,11 @@ stärksten ausgeprägt.
 
 In den obigen Gleichungen wurde mit :math:`J` jeweils das Trägheitsmoment des
 physikalischen Pendels um seinen Aufhängepunkt bezeichnet. Nach dem :ref:`Satz
-von Steiner <Satz von Steiner>` gilt für dieses :math:`J = J _{\mathrm{S}} + m
-\cdot a^2`, wobei :math:`J _{\mathrm{S}}` für das Trägheitsmoment des
+von Steiner <Satz von Steiner>` gilt für dieses :math:`J = J_{\mathrm{S}} + m
+\cdot a^2`, wobei :math:`J_{\mathrm{S}}` für das Trägheitsmoment des
 Gegenstands bei einer Rotation um seinen Schwerpunkt und :math:`a` für den
 Abstand des Schwerpunkts von der Drehachse steht. Mit :math:`a=l` ergibt sich
-damit folgende Gleichung für das Trägheitsmoment :math:`J _{\mathrm{S}}` des
+damit folgende Gleichung für das Trägheitsmoment :math:`J_{\mathrm{S}}` des
 schwingenden Gegenstands:
 
 .. math::
@@ -326,7 +326,7 @@ Gleichung:
 
 .. math::
 
-    J _{\mathrm{S}} &= \frac{m \cdot g \cdot l}{\omega^2} - m \cdot l^2 \\ 
+    J_{\mathrm{S}} &= \frac{m \cdot g \cdot l}{\omega^2} - m \cdot l^2 \\ 
     &= m \cdot \left(\frac{g \cdot l}{\frac{4 \cdot \pi^2}{T^2}} - l^2\right)\\
     &= m \cdot l^2 \cdot \left(\frac{g \cdot T^2}{4 \cdot \pi^2 \cdot l} -
     1\right)
@@ -380,12 +380,12 @@ Differentialrechnung hergeleitet werden, wenn man die Energiebilanz der
 Schwingung betrachtet. Nach dem Energie-Erhaltungssatz ist die maximale
 kinetische Energie (beim Durchgang durch die Ruhelage) gleich der maximalen
 potentiellen Energie (am Umkehrpunkt). Bei einem Federpendel ist :math:`E
-_{\mathrm{pot}} = E _{\mathrm{spann}} = \frac{1}{2} \cdot D \cdot s^2`, wobei
+_{\mathrm{pot}} = E_{\mathrm{spann}} = \frac{1}{2} \cdot D \cdot s^2`, wobei
 :math:`D` die Federhärte und :math:`s` die Auslenkung bezeichnet. Es gilt also:
 
 .. math::
 
-    E _{\mathrm{kin,max}} &= E _{\mathrm{pot,max}} \\
+    E_{\mathrm{kin,max}} &= E_{\mathrm{pot,max}} \\
     \frac{1}{2} \cdot  m \cdot v^2 &= \frac{1}{2} \cdot D \cdot s^2 \\
     \Rightarrow v &= \sqrt{\frac{D}{m}} \cdot s
 
@@ -436,7 +436,7 @@ Setzt man diesen Ausdruck für :math:`h` in die Energiegleichung ein, erhält ma
 
 .. math::
 
-    E _{\mathrm{kin,max}} &= E _{\mathrm{pot,max}} \\
+    E_{\mathrm{kin,max}} &= E_{\mathrm{pot,max}} \\
     \frac{1}{2} \cdot  m \cdot v^2 &= m \cdot g \cdot h \\
     \frac{1}{2} \cdot  m \cdot v^2 &= m \cdot g \cdot \frac{s^2}{2\cdot l} \\
     \Rightarrow v &= \sqrt{\frac{g}{l}} \cdot s
@@ -460,7 +460,7 @@ mittels der Sinus-Funktion beschrieben werden:
 
 .. math::
 
-    s(t) = s _{\mathrm{max }} \cdot \sin{(\varphi)} = s _{\mathrm{max }} \cdot
+    s(t) = s_{\mathrm{max }} \cdot \sin{(\varphi)} = s_{\mathrm{max }} \cdot
     \sin{(\omega \cdot t)}
 
 Hierbei ist wiederum die Vorstellung entscheidend, dass jede harmonische
@@ -471,7 +471,7 @@ Winkel von :math:`\varphi_0` berücksichtigt werden. Es gilt also allgemein:
 
 .. math::
 
-    s(t) = s _{\mathrm{max}} \cdot \sin{(\omega \cdot t + \varphi_0)}
+    s(t) = s_{\mathrm{max}} \cdot \sin{(\omega \cdot t + \varphi_0)}
 
 Ist im Speziellen :math:`\varphi_0 = 90 \degree = \frac{\pi}{2}`, so ist die
 verschobene Sinus-Funktion mit der entsprechenden Cosinus-Funktion identisch:
@@ -530,12 +530,12 @@ am Winkel des jeweiligen Zeigers zu erkennen.
 .. Kenngrößen: (Herr 238)
 
 .. Dämpfungsproportionale :math:`b` in :math:`\unit{\frac{kg}{s}}`:
-.. Entspricht Reibungskraft je Geschwindigkeit: :math:`b = \frac{F _{\mathrm{R}}}{v}`
+.. Entspricht Reibungskraft je Geschwindigkeit: :math:`b = \frac{F_{\mathrm{R}}}{v}`
 
 .. Abklingkoeffizient :math:`\delta` in :math:`\unit{\frac{1}{s}}`:
 .. :math:`\delta = \frac{b}{2 \cdot m}`
 .. Beschreibt Verringerung der Amplitude und Abnahme der Kreisfrequenz
-.. :math:`\omega _{\mathrm{D}} = \sqrt{\omega_^2 - \delta^2}`
+.. :math:`\omega_{\mathrm{D}} = \sqrt{\omega_^2 - \delta^2}`
 
 .. Dämpfungsgrad :math:`\vartheta` (ohne Einheit): 
 .. Verhältnis aus Abklingkoeffizient und ungedämpfter Kreisfrequenz:

@@ -137,11 +137,11 @@ man den Wert der Masse durch den Wert des Volumen, so erhält man die Dichte des
 Körpers.
 
 .. list-table::
-    :name: tab-dichte-beispiele-festkörper
+    :name: tab-dichte-beispiele-festkoerper
     :widths: 50 50
 
     * - Stoff
-      - Dichte in :math:`\unit[]{kg/m^3}`
+      - Dichte in :math:`\unit{kg/m^3}`
     * - Aluminium
       - :math:`2700`
     * - Blei
@@ -232,7 +232,18 @@ Aggregatzustand auftreten können, unterscheidet man auch feste Körper
 (Festkörper), Flüssigkeiten und Gase.
 
 Je nach Aggregatzustand zeigen Körper ein unterschiedliches Volumen- und
-Formverhalten.
+Formverhalten:
+
+- Im festen Zustand sind die Atome einer Substanz in Kristallgittern oder
+  Makro-Molekülen fest an ihre Plätze gebunden und können nur Schwingungen um
+  ihre jeweilige Position ausführen.
+
+- Im flüssigen Zustand können sich die einzelnen Atome beziehungsweise Moleküle
+  innerhalb der Flüssigkeit frei bewegen. Der Austritt aus der Flüssigkeit wird
+  jedoch durch zwischenmolekulare Kräfte stark erschwert.
+
+- Im gasförmigen Zustand spielen zwischenmolekulare Kräfte so gut wie keine
+  Rolle; die Atome beziehungsweise Moleküle können sich frei bewegen.
 
 .. list-table:: Aggregatzustände und ihre Eigenschaften
     :name: tab-aggregatzustände-eigenschaften
@@ -267,13 +278,17 @@ Formverhalten.
       - Sehr gering
       - Sehr groß
 
+In welchem Aggregatzustand ein Material vorliegt, hängt vom Druck und von der
+Temperatur ab; im Abschnitt :ref:`Phasenübergänge <Phasenübergänge>` wird
+hierauf näher eingegangen.
+
 .. raw:: html
 
     <hr />
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente zu
-    Körpereigenschaften>` und :ref:`Übungsaufgaben <Aufgaben zu
+    Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente
+    Körpereigenschaften>` und :ref:`Übungsaufgaben <Aufgaben
     Körpereigenschaften>`.
 

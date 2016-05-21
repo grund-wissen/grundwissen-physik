@@ -1,8 +1,7 @@
+.. _Lösungen Drehmoment und Gleichgewicht:
 
-.. _Lösungen zu Drehmoment- und Gleichgewicht-Aufgaben:
-
-Lösungen zu Drehmoment- und Gleichgewicht-Aufgaben
-==================================================
+Drehmoment und Gleichgewicht
+============================
 
 Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
 Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
@@ -19,7 +18,7 @@ Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
 
 ----
 
-.. _ggw03l:
+.. _ggw02l:
 
 * Bei Stehaufmännchen muss der Schwerpunkt in der unteren Hälfte des
   Grundkörpers liegen; diese Verlagerung des Schwerpunkts wird durch einen
@@ -32,7 +31,8 @@ Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
 
   .. only:: html
 
-      .. centered:: :download:`SVG: Stehaufmännchen <../pics/mechanik/drehmoment-und-gleichgewicht/stehaufmaennchen.svg>`
+      .. centered:: :download:`SVG: Stehaufmännchen
+                      <../pics/mechanik/drehmoment-und-gleichgewicht/stehaufmaennchen.svg>`
 
   Wird ein Stehaufmännchen aus seiner aufrechten Position ausgelenkt, so wird
   dadurch der Schwerpunkt angehoben. Ein stabiles Gleichgewicht ist allerdings
@@ -40,11 +40,11 @@ Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
   Stehaufmännchen wird sich daher, wenn man es loslässt, von selbst wieder
   aufrichten, da hierdurch der Schwerpunkt zum niedrigsten Punkt zurückkehrt.
 
-  :ref:`Zurück zur Aufgabe <ggw03>`
+  :ref:`Zurück zur Aufgabe <ggw02>`
 
 ----
 
-.. _ggw02l:
+.. _ggw03l:
 
 * Während die Last getragen wird, ist sie im statischen Gleichgewicht; das
   heißt, die an ihr angreifenden Kräfte und Drehmomente ergeben in Summe jeweils
@@ -54,7 +54,7 @@ Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
   .. math::
 
       F_1 + F_2 - F_{\mathrm{G}} &= 0 \\
-      - F_1 \cdot s_1 + F_2 \cdot s_2 &= 0 \\
+      F_1 \cdot s_1 + F_2 \cdot s_2 &= 0 \\
 
   Die erste Gleichung ergibt sich daraus, dass die beiden von den Trägern
   ausgeübten Kräfte das Gewicht der Last ausgleichen, die Last also nicht nach
@@ -108,16 +108,11 @@ Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
   der Mitte zwischen den beiden Personen befindet.
 
 
-  :ref:`Zurück zur Aufgabe <ggw02>`
+  :ref:`Zurück zur Aufgabe <ggw03>`
 
+----
 
-.. raw:: latex
-
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 

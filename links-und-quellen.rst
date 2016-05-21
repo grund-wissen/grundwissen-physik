@@ -127,9 +127,8 @@ finden, beispielsweise in [GrossBerhag1979]_ (Seite 66) oder [Boes1995]_ (Seite
 Der strukturelle Aufbau des Abschnitts :ref:`Mechanische Schwingungen` folgt
 strukturell [Schmidt2003]_.
 
-Die Werte der im Abschnitt Mechanik der Festkoerper angegebenen
-Elastizitaetsmodule stammen aus
-
+Das Dehungsverhalten von Festkörpern ist auch in [Harms1994]_ (Seite 54f.)
+beschrieben.
 
 .. rubric:: Quellenangaben zur Akustik
 
@@ -255,6 +254,9 @@ fehlende Werte durch die beiden Nachschlagewerke [Kuchling2001]_ und
 .. [Hammer2002] Anton Hammer: Physikalische Formeln und Tabellen. Lindauer
     Verlag, 2002.
 
+.. [Harms1994] Volker Harms: Physik für Mediziner und Pharmazeuten. Harms
+    Verlag, 1994.
+
 .. [Harten2007] Ulrich Harten: Physik - Einführung für Ingenieure und
     Naturwissenschaftler. Springer, 2007.
 
@@ -293,5 +295,7 @@ fehlende Werte durch die beiden Nachschlagewerke [Kuchling2001]_ und
 .. [Voelcker1988] Diethelm Völcker: Physik in der Mittelstufe 3. Mentor Verlag,
     München, 1988.
 
+.. [Zeitler2007] Jürgen Zeitler, Günter Simon: Physik für Techniker. Hanser Verlag,
+    München, 2007.
 
 

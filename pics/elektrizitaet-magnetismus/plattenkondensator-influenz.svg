@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66855469"
-     inkscape:cx="276.34271"
-     inkscape:cy="391.76111"
+     inkscape:zoom="0.86244166"
+     inkscape:cx="437.21087"
+     inkscape:cy="651.18032"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,7 +43,7 @@
      inkscape:snap-object-midpoints="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="false">
     <sodipodi:guide
        orientation="0,1"
        position="-65.813614,-1579.5267"
@@ -287,17 +287,17 @@
         <dc:date>2015-02-10</dc:date>
         <dc:creator>
           <cc:Agent>
-            <dc:title>Berhnard Grotz</dc:title>
+            <dc:title>Bernhard Grotz</dc:title>
           </cc:Agent>
         </dc:creator>
         <dc:rights>
           <cc:Agent>
-            <dc:title>Berhnard Grotz</dc:title>
+            <dc:title>Bernhard Grotz</dc:title>
           </cc:Agent>
         </dc:rights>
         <dc:publisher>
           <cc:Agent>
-            <dc:title>Berhnard Grotz</dc:title>
+            <dc:title>Bernhard Grotz</dc:title>
           </cc:Agent>
         </dc:publisher>
         <dc:language>de-DE</dc:language>
@@ -357,10 +357,10 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <path
-       inkscape:transform-center-x="-166.62319"
+       inkscape:transform-center-x="-164.33529"
        inkscape:connector-curvature="0"
        id="path6303"
-       d="m 256.13563,365.88037 241.83129,10e-6"
+       d="m 256.13563,364.40382 238.4942,1e-5"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        inkscape:export-xdpi="150"
@@ -1158,15 +1158,15 @@
        inkscape:export-xdpi="150"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 256.13562,398.67379 241.83129,1e-5"
+       d="m 256.13562,397.36123 238.4942,1e-5"
        id="path8705"
        inkscape:connector-curvature="0"
-       inkscape:transform-center-x="-166.62319" />
+       inkscape:transform-center-x="-164.33529" />
     <path
-       inkscape:transform-center-x="-166.62319"
+       inkscape:transform-center-x="-164.33529"
        inkscape:connector-curvature="0"
        id="path8707"
-       d="m 256.13562,431.46715 241.83129,10e-6"
+       d="m 256.13562,430.31871 238.4942,10e-6"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        inkscape:export-xdpi="150"
@@ -1176,15 +1176,15 @@
        inkscape:export-xdpi="150"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 256.13562,464.26048 241.83129,1e-5"
+       d="m 256.13562,463.27617 238.4942,1e-5"
        id="path8709"
        inkscape:connector-curvature="0"
-       inkscape:transform-center-x="-166.62319" />
+       inkscape:transform-center-x="-164.33529" />
     <path
-       inkscape:transform-center-x="-166.62319"
+       inkscape:transform-center-x="-164.33529"
        inkscape:connector-curvature="0"
        id="path8711"
-       d="m 256.13562,497.05385 241.83129,10e-6"
+       d="m 256.13562,496.23354 238.4942,10e-6"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        inkscape:export-xdpi="150"
@@ -1194,15 +1194,15 @@
        inkscape:export-xdpi="150"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 256.13562,529.84726 241.83129,10e-6"
+       d="m 256.13562,529.19095 238.4942,10e-6"
        id="path8713"
        inkscape:connector-curvature="0"
-       inkscape:transform-center-x="-166.62319" />
+       inkscape:transform-center-x="-164.33529" />
     <path
-       inkscape:transform-center-x="-166.62319"
+       inkscape:transform-center-x="-164.33529"
        inkscape:connector-curvature="0"
        id="path8715"
-       d="m 256.13562,562.6406 241.83129,1e-5"
+       d="m 256.13562,562.14841 238.4942,10e-6"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        inkscape:export-xdpi="150"
@@ -1212,15 +1212,15 @@
        inkscape:export-xdpi="150"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 256.13562,595.43399 241.83129,10e-6"
+       d="m 256.13562,595.10583 238.4942,10e-6"
        id="path8717"
        inkscape:connector-curvature="0"
-       inkscape:transform-center-x="-166.62319" />
+       inkscape:transform-center-x="-164.33529" />
     <path
-       inkscape:transform-center-x="-166.62319"
+       inkscape:transform-center-x="-164.33529"
        inkscape:connector-curvature="0"
        id="path8719"
-       d="m 256.13562,628.22735 241.83129,10e-6"
+       d="m 256.13562,628.06329 238.4942,10e-6"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        inkscape:export-xdpi="150"
@@ -1230,10 +1230,10 @@
        inkscape:export-xdpi="150"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 256.13562,661.02071 241.83129,10e-6"
+       d="m 256.13562,661.02071 238.4942,10e-6"
        id="path8721"
        inkscape:connector-curvature="0"
-       inkscape:transform-center-x="-166.62319" />
+       inkscape:transform-center-x="-164.33529" />
     <g
        ns0:text="$\\vec{E}$"
        ns0:preamble="/home/waldgeist/data/sphinx/inkscape-preamble.tex"
@@ -1742,18 +1742,18 @@
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
-       style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2,6;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 438.39046,415.07041 -122.53527,1e-5"
+       style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 438.39046,415.07041 -119.29925,1e-5"
        id="path9731"
        inkscape:connector-curvature="0"
-       inkscape:transform-center-x="84.834191"
-       inkscape:transform-center-y="0.038432457" />
+       inkscape:transform-center-x="82.615586"
+       inkscape:transform-center-y="0.038432434" />
     <path
-       inkscape:transform-center-y="0.038432457"
-       inkscape:transform-center-x="84.834191"
+       inkscape:transform-center-y="0.038432434"
+       inkscape:transform-center-x="82.615586"
        inkscape:connector-curvature="0"
        id="path9733"
-       d="m 438.39046,447.86379 -122.53527,1e-5"
+       d="m 438.39046,447.86379 -119.29925,1e-5"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        inkscape:export-xdpi="150"
@@ -1763,17 +1763,17 @@
        inkscape:export-xdpi="150"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 438.39046,480.65715 -122.53527,10e-6"
+       d="m 438.39046,480.65715 -119.29925,10e-6"
        id="path9735"
        inkscape:connector-curvature="0"
-       inkscape:transform-center-x="84.834191"
-       inkscape:transform-center-y="0.038432457" />
+       inkscape:transform-center-x="82.615586"
+       inkscape:transform-center-y="0.038432434" />
     <path
-       inkscape:transform-center-y="0.038432457"
-       inkscape:transform-center-x="84.834191"
+       inkscape:transform-center-y="0.038432434"
+       inkscape:transform-center-x="82.615586"
        inkscape:connector-curvature="0"
        id="path9737"
-       d="m 438.39045,513.45056 -122.53527,10e-6"
+       d="m 438.39045,513.45056 -119.29925,10e-6"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        inkscape:export-xdpi="150"
@@ -1783,17 +1783,17 @@
        inkscape:export-xdpi="150"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 438.39044,546.24392 -122.53527,10e-6"
+       d="m 438.39044,546.24392 -119.29925,10e-6"
        id="path9739"
        inkscape:connector-curvature="0"
-       inkscape:transform-center-x="84.834191"
-       inkscape:transform-center-y="0.038432457" />
+       inkscape:transform-center-x="82.615587"
+       inkscape:transform-center-y="0.038432434" />
     <path
-       inkscape:transform-center-y="0.038432457"
-       inkscape:transform-center-x="84.834191"
+       inkscape:transform-center-y="0.038432434"
+       inkscape:transform-center-x="82.615587"
        inkscape:connector-curvature="0"
        id="path9741"
-       d="m 438.39044,579.03731 -122.53527,10e-6"
+       d="m 438.39044,579.03731 -119.29925,10e-6"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        inkscape:export-xdpi="150"
@@ -1803,10 +1803,10 @@
        inkscape:export-xdpi="150"
        inkscape:export-filename="/home/waldgeist/data/homepage/pics/physik/elektrizitaet-magnetismus/plattenkondensator-influenz.png"
        style="color:#000000;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 6;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 438.39046,611.83069 -122.53527,10e-6"
+       d="m 438.39046,611.83069 -119.29925,10e-6"
        id="path9743"
        inkscape:connector-curvature="0"
-       inkscape:transform-center-x="84.834191"
-       inkscape:transform-center-y="0.038432457" />
+       inkscape:transform-center-x="82.615586"
+       inkscape:transform-center-y="0.038432434" />
   </g>
 </svg>

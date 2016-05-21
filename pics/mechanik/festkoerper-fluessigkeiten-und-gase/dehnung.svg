@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.399609"
-     inkscape:cx="192.72546"
-     inkscape:cy="247.82285"
+     inkscape:zoom="0.81027863"
+     inkscape:cx="449.3691"
+     inkscape:cy="381.06314"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,28 +45,7 @@
      inkscape:snap-page="true"
      inkscape:snap-global="true"
      showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       orientation="1,0"
-       position="619.36836,278.24397"
-       id="guide3110" />
-    <sodipodi:guide
-       id="guide4853"
-       position="466.85056,627.49295"
-       orientation="1,0" />
-    <sodipodi:guide
-       id="guide4859"
-       position="466.85056,493.08015"
-       orientation="0.49999997,-0.86602542" />
-    <sodipodi:guide
-       id="guide4867"
-       position="402.17048,613.37602"
-       orientation="0,1" />
-    <sodipodi:guide
-       id="guide4871"
-       position="281.38262,613.9839"
-       orientation="1,0" />
-  </sodipodi:namedview>
+     inkscape:guide-bbox="true" />
   <defs
      id="defs4">
     <marker
@@ -165,6 +144,7 @@
           <rdf:Bag>
             <rdf:li>Physik</rdf:li>
             <rdf:li>Mechanik</rdf:li>
+            <rdf:li>Mechanik der Festkoerper</rdf:li>
             <rdf:li>Dehnung</rdf:li>
           </rdf:Bag>
         </dc:subject>

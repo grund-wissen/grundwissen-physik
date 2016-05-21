@@ -1,46 +1,46 @@
 
-.. _Lösungen zu Elektrizität und Magnetismus:
+.. _Lösungen Elektrizität und Magnetismus:
 
-Lösungen zu Elektrizität und Magnetismus
-========================================
+Elektrizität und Magnetismus
+============================
 
-.. _Lösungen zu elektrischer Ladung:
+.. _Lösungen Elektrische Ladung:
 
-Lösungen zu elektrischer Ladung
--------------------------------
+Elektrische Ladung
+------------------
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
-elektrischer Ladung>` zum Abschnitt :ref:`Elektrische Ladung <Elektrische
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
+Elektrische Ladung>` zum Abschnitt :ref:`Elektrische Ladung <Elektrische
 Ladung>`.
 
 ----
 
-.. _Elektrische-Ladung-01-Lösung:
+.. _ela01l:
 
 * Ladungen können nicht erzeugt oder vernichtet, sondern nur voneinander
   getrennt werden. Wenn zwei Körper aus unterschiedlichem Material aneinander
   gerieben werden, gibt der eine Körper negative Ladung (Elektronen) an den
   anderen ab.
 
-  :ref:`Zurück zur Aufgabe <Elektrische-Ladung-01>`
-
+  :ref:`Zurück zur Aufgabe <ela01>`
 
 ----
 
-.. _Lösungen zu Stromstärke, Spannung und Widerstand:
 
-Lösungen zu Stromstärke, Spannung und Widerstand
-------------------------------------------------
+.. _Lösungen Stromstärke, Spannung und Widerstand:
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
+Stromstärke, Spannung und Widerstand
+------------------------------------
+
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
 Stromstärke, Spannung und Widerstand>` zum Abschnitt :ref:`Stromstärke, Spannung
 und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
-.. rubric:: Lösungen zum Ohmschen Gesetz
+.. rubric:: Ohmsches Gesetz
 
 ----
 
-.. _Ohmsches-Gesetz-01-Lösung:
+.. _eohm01l:
 
 * Die Spannung der Stromquelle beträgt :math:`U = \unit[5]{V}`, die
   resultierende Stromstärke :math:`I = \unit[0,2]{A}`. Aus dem Ohmschen Gesetz
@@ -56,11 +56,11 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
   Der Widerstand des Stromkreises beträgt somit :math:`R = \unit[25]{\Omega }`.
 
-  :ref:`Zurück zur Aufgabe <Ohmsches-Gesetz-01>`
+  :ref:`Zurück zur Aufgabe <eohm01>`
 
 ----
 
-.. _Ohmsches-Gesetz-02-Lösung:
+.. _eohm02l:
 
 * Die Spannung der Stromquelle beträgt :math:`U = \unit[12]{V}`, der
   Widerstand des Stromkreises :math:`R = \unit[800]{\Omega }`. Aus dem
@@ -77,15 +77,15 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
   Die Stromstärke im Stromkreis beträgt somit :math:`I = \unit[15]{mA}`.
 
-  :ref:`Zurück zur Aufgabe <Ohmsches-Gesetz-02>`
+  :ref:`Zurück zur Aufgabe <eohm02>`
 
 ----
 
-.. _Ohmsches-Gesetz-03-Lösung:
+.. _eohm03l:
 
-* Die Spannung der Stromquelle beträgt :math:`U = \unit[230]{V}`, der
-  Widerstand des Stromkreises :math:`R = \unit[75]{\Omega }`. Aus dem Ohmschen
-  Gesetz ergibt sich für die Stromstärke :math:`I` im Stromkreis:
+* Die Spannung der Stromquelle beträgt :math:`U = \unit[230]{V}`, der Widerstand
+  des Stromkreises :math:`R = \unit[75]{\Omega }`. Aus dem Ohmschen Gesetz
+  ergibt sich für die Stromstärke :math:`I` im Stromkreis:
 
   .. math::
 
@@ -98,11 +98,11 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
   Die Stromstärke im Stromkreis beträgt somit rund :math:`\unit[3,1]{A}`.
 
-  :ref:`Zurück zur Aufgabe <Ohmsches-Gesetz-03>`
+  :ref:`Zurück zur Aufgabe <eohm03>`
 
 ----
 
-.. _Ohmsches-Gesetz-04-Lösung:
+.. _eohm04l:
 
 * Der Widerstand im Stromkreis beträgt :math:`U = \unit[50]{\Omega}`, die
   fließende Stromstärke :math:`I = \unit[0,3]{A}`. Mit dem Ohmschen Gesetz
@@ -114,11 +114,11 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
   Die Spannung der Stromquelle beträgt somit :math:`U = \unit[15]{V}`.
 
-  :ref:`Zurück zur Aufgabe <Ohmsches-Gesetz-04>`
+  :ref:`Zurück zur Aufgabe <eohm04>`
 
 ----
 
-.. _Ohmsches-Gesetz-05-Lösung:
+.. _eohm05l:
 
 * Die Spannung der Stromquelle beträgt :math:`U = \unit[5]{V}`, die
   resultierende Stromstärke :math:`I = \unit[0,2]{A}`. Aus dem Ohmschen Gesetz
@@ -134,21 +134,21 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
   Der Widerstand des Stromkreises beträgt somit :math:`R = \unit[5,75]{\Omega }`.
 
-  :ref:`Zurück zur Aufgabe <Ohmsches-Gesetz-05>`
+  :ref:`Zurück zur Aufgabe <eohm05>`
 
 ----
 
-.. rubric:: Lösungen zu spezifischen Widerstand
+.. rubric:: Spezifischer Widerstand
 
 ----
 
-.. _Spezifischer-Widerstand-01-Lösung:
+.. _espw01l:
 
 * Der elektrische Widerstand :math:`R` des Kupferdrahtes lässt sich anhand der
   Formel :math:`R = \rho \cdot \frac{l}{A}` berechnen, indem man als Werte für
   die Länge :math:`l=\unit[10]{m}`, für den Querschnitt :math:`A = \pi \cdot
   r^2 = \pi \cdot (\unit[2]{mm})^2 \approx \unit[12,6]{mm^2}` und :math:`\rho
-  _{\rm{Cu}} = \unit[0,0156]{\Omega \cdot \frac{mm^2}{m} }` einsetzt:
+  _{\mathrm{Cu}} = \unit[0,0156]{\Omega \cdot \frac{mm^2}{m} }` einsetzt:
 
   .. math::
 
@@ -158,17 +158,17 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
   Der Draht hat einen elektrischen Widerstand von rund :math:`\unit[0,12]{\Omega }`.
 
-  :ref:`Zurück zur Aufgabe <Spezifischer-Widerstand-01>`
+  :ref:`Zurück zur Aufgabe <espw01>`
 
 ----
 
-.. _Spezifischer-Widerstand-02-Lösung:
+.. _espw02l:
 
 * Der elektrische Widerstand :math:`R` des Kupferdrahtes lässt sich mit Hilfe
   der Formel :math:`R = \rho \cdot \frac{l}{A}` berechnen, indem man als Werte
   für die Länge :math:`l=\unit[11,4]{km} = \unit[11400]{m}`, für den
   Querschnitt :math:`A = \pi \cdot r^2 = \pi \cdot (\unit[8]{mm})^2 \approx
-  \unit[201]{mm^2}` und :math:`\rho _{\rm{Cu}} = \unit[0,0156]{\Omega \cdot
+  \unit[201]{mm^2}` und :math:`\rho_{\mathrm{Cu}} = \unit[0,0156]{\Omega \cdot
   \frac{mm^2}{m} }` einsetzt:
 
   .. math::
@@ -198,11 +198,11 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
   hätten elektrische Widerstände von :math:`\unit[1,50]{\Omega }` bzw.
   :math:`\unit[40,8]{\Omega }`.
 
-  :ref:`Zurück zur Aufgabe <Spezifischer-Widerstand-02>`
+  :ref:`Zurück zur Aufgabe <espw02>`
 
 ----
 
-.. _Spezifischer-Widerstand-03-Lösung:
+.. _espw03l:
 
 * Den nötigen Radius des Eisendrahts erhält man, indem man die Formel
   :math:`R = \rho \cdot \frac{l}{A} = \rho \cdot \frac{l}{\pi \cdot r^2}` nach
@@ -213,9 +213,9 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
       R = \rho \cdot \frac{l}{\pi \cdot r^2} \quad \Leftrightarrow \quad r =
       \sqrt{\rho \cdot \frac{l}{\pi \cdot R} }
 
-  Setzt man hierbei den spezifischen Widerstand von Eisen :math:`\rho
-  _{\rm{Fe}} = \unit[0,125]{\Omega \cdot \frac{mm^2}{m} }`, für die Länge
-  :math:`l = \unit[50]{m}` und für den maximalen Widerstand :math:`R =
+  Setzt man hierbei den spezifischen Widerstand von Eisen
+  :math:`\rho_{\mathrm{Fe}} = \unit[0,125]{\Omega \cdot \frac{mm^2}{m} }`, für
+  die Länge :math:`l = \unit[50]{m}` und für den maximalen Widerstand :math:`R =
   \unit[1]{\Omega }` ein, so erhält man:
 
   .. math::
@@ -227,7 +227,7 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
   Der Draht muss somit einen Durchmesser von mindestens :math:`2 \cdot r
   \approx \unit[2,82]{mm}` haben.
 
-  :ref:`Zurück zur Aufgabe <Spezifischer-Widerstand-02>`
+  :ref:`Zurück zur Aufgabe <espw03>`
 
 ----
 
@@ -241,36 +241,30 @@ Magnetismus>` zum Abschnitt :ref:`Magnetismus <Magnetismus>`.
 
 ----
 
-.. _Magnetfeld-Erde-01-Lösung:
+.. _emag01l:
 
 *   Wenn der Nordpol der Magnetnadel -- geographisch gesehen -- nach Norden
     zeigt, so muss sich dort der magnetische Südpol der Erde befinden; der
     magnetische Nordpol der Erde befindet sich entsprechend (näherungsweise) am
     geographischen Südpol.
 
-    :ref:`Zurück zur Aufgabe <Magnetfeld-Erde-01>`
+    :ref:`Zurück zur Aufgabe <emag01>`
 
 ----
 
 
-.. _Lösungen zu elektrischer Arbeit, Energie und Leistung:
+.. _Lösungen Elektrische Arbeit, Energie und Leistung:
 
-Lösungen zu elektrischer Arbeit, Energie und Leistung
------------------------------------------------------
+Elektrische Arbeit, Energie und Leistung
+----------------------------------------
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
-elektrischer Arbeit, Energie und Leistung>` zum Abschnitt :ref:`Elektrische
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
+Elektrische Arbeit, Energie und Leistung>` zum Abschnitt :ref:`Elektrische
 Arbeit, Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
 
-..  .. rubric:: Lösungen zu elektrischer Arbeit und Energie
-
-..  .. _Elektrische-Energie-01-Lösung:
-
-..  .. rubric:: Lösungen zu elektrischer Leistung
-
 ----
 
-.. _Elektrische-Leistung-01-Lösung:
+.. _eael01l:
 
 *   Mit Hilfe der Definition der elektrischen Leistung :math:`P` kann die
     fließende Stromstärke :math:`I` folgendermaßen ausgedrückt werden:
@@ -299,11 +293,11 @@ Arbeit, Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
 
     Es werden somit :math:`\unit[0,24]{kWh}` an elektrischer Energie benötigt.
 
-    :ref:`Zurück zur Aufgabe <Elektrische-Leistung-01>`
+    :ref:`Zurück zur Aufgabe <eael01>`
 
 ----
 
-.. _Elektrische-Leistung-02-Lösung:
+.. _eael02l:
 
 *   Mit Hilfe der Definition der elektrischen Leistung :math:`P` lässt sich die
     fließende Stromstärke :math:`I` folgendermaßen ausgedrücken:
@@ -323,16 +317,11 @@ Arbeit, Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
 
     Die Stromstärke im Wasserkocher beträgt somit rund :math:`\unit[7,83]{A}`.
 
-    :ref:`Zurück zur Aufgabe <Elektrische-Leistung-02>`
+    :ref:`Zurück zur Aufgabe <eael02>`
 
+----
 
-.. raw:: latex
-
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 

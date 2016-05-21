@@ -1,16 +1,18 @@
-.. _Experimente zu Körpereigenschaften:
+.. _Experimente Körpereigenschaften:
 
-Experimente zu Körpereigenschaften
-==================================
+Körpereigenschaften
+===================
 
 Die folgenden Experimente beziehen sich auf den Abschnitt
 :ref:`Körpereigenschaften <Körpereigenschaften>`.
 
-.. todo:: Höhenbestimmung mit Geodreieck und Entfernungsmesser
+.. todo:: Höhenbestimmung mit Geodreieck und Entfernungsmesser!
 
 ----
 
 .. _Volumenbestimmung im Standzylinder:
+
+..  Quelle: Dorn-Bader S.9
 
 .. rubric:: Volumenbestimmung im Standzylinder
 
@@ -25,23 +27,23 @@ Die folgenden Experimente beziehen sich auf den Abschnitt
     * Wasser
     * Öl und/oder Glycerin (optional)
 
-.. figure::
+.. image::
     ../pics/mechanik/experiment-volumenbestimmung.png
-    :name: fig-experiment-volumenbestimmung
-    :alt:  fig-experiment-volumenbestimmung
     :align: center
     :width: 40%
 
-    Volumenbestimmung eines (beliebig geformten) Körpers.
+.. only:: html
 
-    .. only:: html
+    .. centered:: :download:`SVG: Volumenbestimmung
+                    <../pics/mechanik/experiment-volumenbestimmung.svg>`
 
-        :download:`SVG: Volumenbestimmung
-        <../pics/mechanik/experiment-volumenbestimmung.svg>`
+.. :name: fig-volumenbestimmung-standzylinder
+.. :alt:  fig-volumenbestimmung-standzylinder
+.. Volumenbestimmung eines (beliebig geformten) Körpers.
 
 *Durchführung:*
 
-- Fülle einen Standzylinder etwa zur Hälfte mit Wasser und  markiere den
+- Fülle einen Standzylinder etwa zur Hälfte mit Wasser und markiere den
   Füllstand mit einem Filzstift.
 - Tauche einen Quader, Würfel, oder einen anderen regelmäßig geformten Körper
   in das Wasser ein. Beobachte dabei, wie sich der Füllstand im Standzylinder
@@ -50,8 +52,6 @@ Die folgenden Experimente beziehen sich auf den Abschnitt
   geometrischen Formel. Vergleiche den berechneten Wert mit der Volumenmenge, um
   die der Standzylinder nun weiter gefüllt ist.
 - Wiederhole das Experiment mit verschiedenen Flüssigkeiten. Was stellst Du fest?
-
-..  Quelle: Dorn-Bader S.9
 
 ----
 
@@ -74,25 +74,24 @@ Die folgenden Experimente beziehen sich auf den Abschnitt
     * Mehrere kleine Probekörper aus verschiedenen Materialien
     * Taschenrechner und Dichtetabelle
 
-.. figure::
-    ../pics/mechanik/experiment-dichtebestimmung-archimedes.png
-    :name: fig-experiment-dichtebestimmung-archimedes
-    :alt:  fig-experiment-dichtebestimmung-archimedes
+.. image:: ../pics/mechanik/experiment-dichtebestimmung-archimedes.png
     :align: center
     :width: 40%
 
-    Dichtebestimmung eines (beliebig geformten) Körpers nach dem Archimedischen
-    Prinzip.
+.. only:: html
 
-    .. only:: html
+    .. centered:: :download:`SVG: Dichtebestimmung
+                <../pics/mechanik/experiment-dichtebestimmung-archimedes.png>`
 
-        :download:`SVG: Dichtebestimmung
-        <../pics/mechanik/experiment-dichtebestimmung-archimedes.png>`
+.. :name: fig-experiment-dichtebestimmung-archimedes
+.. :alt:  fig-experiment-dichtebestimmung-archimedes
+.. Dichtebestimmung eines (beliebig geformten) Körpers nach dem Archimedischen
+.. Prinzip.
 
 *Durchführung:*
 
 - Stelle ein Überlaufgefäß auf einen Labortisch oder eine ähnliche
-  Unterlage, so dass die Überlauf-öffnung knapp über den Messzylinder hinaus
+  Unterlage, so dass die Überlauf-Öffnung knapp über den Messzylinder hinaus
   ragt. Fülle das Überlaufgefäß dann randvoll mit Wasser.
 - Entleere gegebenenfalls den Messzylinder. Versenke dann einen Probekörper im
   Überlaufgefäß und notiere, wie viel Wasser dabei in den Messzylinder
@@ -106,13 +105,9 @@ Die folgenden Experimente beziehen sich auf den Abschnitt
   handelt es sich?
 - Wiederhole das Experiment mit unterschiedlichen Materialproben.
 
-.. raw:: latex
+----
 
-    \rule{\linewidth}{0.5pt}
-
-.. raw:: html
-
-    <hr/>
+.. foo
 
 .. only:: html
 
