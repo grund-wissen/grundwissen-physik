@@ -4,13 +4,14 @@
 Kinematik
 =========
 
-.. _Experimente Geradlinige Bewegungen:
+.. _Experimente Bewegungen mit konstanter Beschleunigung:
 
-Geradlinige Bewegungen
-----------------------
+Bewegungen mit konstanter Beschleunigung
+----------------------------------------
 
-Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Geradlinige
-Bewegungen <Geradlinige Bewegungen>`.
+Die folgenden Experimente beziehen sich auf den Abschnitt :ref:`Bewegungen mit
+konstanter Beschleunigung Bewegungen <Bewegungen mit konstanter
+Beschleunigung>`.
 
 ----
 
@@ -64,6 +65,42 @@ Bewegungen <Geradlinige Bewegungen>`.
   flache Teilstück vor dem steilen durchläuft?
 
 ----
+
+.. _Kugeln im freien Fall:
+
+.. rubric:: Kugeln im freien Fall
+
+*Material:*
+
+.. hlist::
+    :columns: 2
+
+    * Eine Holzkugel
+    * Eine Stahlkugel mit gleichem Radius
+    * Ein Bleistift
+
+*Durchführung:*
+
+- Lege die beiden gleich großen, aber unterschiedlich schweren Kugeln an den
+  Rand einer Tischplatte und halte sie leicht fest, indem Du mit einem Finger auf
+  sie drückst.
+- Bewege mit der anderen Hand den Bleistift an die Kugeln heran, so dass der
+  Bleistift parallel zur Tischkante ausgerichtet ist.
+- Schiebe mit Hilfe des Bleistifts beide Kugeln möglichst gleichzeitig von der
+  Kante. Achte dabei darauf, ob eine der beiden Kugeln zuerst unten ankommt.
+  Hörst Du einen gemeinsamen oder zwei nacheinander folgende Aufprall-Geräusche?
+- Wiederhole den Versuch mehrfach und achte dabei darauf, dass jeweils beide
+  Kugeln möglichst gleichzeitig von der Tischkante starten. Was stellst Du fest?
+
+----
+
+.. .. _Schwere und Trägheit:
+
+.. .. rubric:: Schwere und Trägheit
+
+.. ----
+
+
 
 .. .. _Experimente zu kreisförmigen Bewegungen:
 ..

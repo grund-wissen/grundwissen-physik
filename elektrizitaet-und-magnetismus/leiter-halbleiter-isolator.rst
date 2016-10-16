@@ -7,8 +7,7 @@ Leiter, Halbleiter und Isolatoren
 Ob ein elektrischer Strom in einem Stoff fließen kann, hängt von der Anzahl der
 frei beweglichen Ladungsträger innerhalb des Stoffes ab.
 
-.. index::
-    single: Widerstand; Leiter
+.. index:: Leiter, Widerstand; Leiter
 .. _Leiter:
 
 Leiter
@@ -22,8 +21,8 @@ In Metallen sind die einzelnen Atome in einer Gitterstruktur angeordnet, wobei
 sich die äußersten Elektronen ("Valenzelektronen") frei entlang des gesamten
 Gitters bewegen können ("Metallbindung", "Elektronengas"). Bei nur einem
 ungebundenem Elektron je Atom steht dabei eine enorme Zahl an Ladungsträgern --
-etwa :math:`1,6 \cdot 10^{19}` Elektronen je Kubikzentimeter! -- für den
-Ladungstransport frei zur Verfügung. [#]_
+etwa :math:`10^{19}` Elektronen je Kubik-Millimeter! -- für den Ladungstransport
+frei zur Verfügung. [#]_
 
 .. figure::
     ../pics/elektrizitaet-magnetismus/leiter-metall.png
@@ -39,21 +38,58 @@ Ladungstransport frei zur Verfügung. [#]_
         :download:`SVG: Metallischer Leiter
         <../pics/elektrizitaet-magnetismus/leiter-metall.svg>`
 
+.. index:: Temperaturbeiwert
+
 Bei höheren Temperaturen führen die Atomrümpfe eines Metallgitters immer
 stärkere Wärme-Schwingungen um ihre Ruhelagen aus. Die freien Elektronen werden
 dadurch in ihrer Beweglichkeit eingeschränkt, was zu einem höheren elektrischen
-Widerstand führt. Dementsprechend nehmen bei niedrigen Temperaturen die
-Wärme-Schwingungen der Atomrümpfe und der elektrische Widerstand ab, in vielen
-Metallen verschwindet der elektrische Widerstand ab einer materialspezifischen
-Temperatur sogar vollständig ("Supraleitung").
+Widerstand führt. Da die Zunahme des Widerstands in guter Näherung linear zur
+Erwärmung ist, kann der Widerstandswert eines Leiters mit folgender Formel
+berechnet werden:
+
+.. math::
+
+    R_{\mathrm{T}} = R_{\mathrm{20}} \cdot (1 + \alpha \cdot \Delta T)
+
+Hierbei gibt :math:`R_{\mathrm{20}}` den Widerstandswert bei Raumtemperatur
+:math:`(\unit[20]{\degree C})` an, :math:`\Delta T` entspricht der
+Temperaturdifferenz zu diesem Referenzwert (ebenfalls in :math:`\unit{\degree
+C}`). Der so genannte "Temperaturbeiwert" :math:`\alpha` ist materialabhängig
+und wird in :math:`\unitfrac{1}{K}` angegeben.
+
+.. list-table:: Temperaturbeiwerte verschiedener Materialien
+    :widths: 50 50
+    :name: tab-temperaturbeiwerte
+    :header-rows: 0
+
+    * - Material
+      - Temperaturbeiwert :math:`\alpha` in :math:`\unit{\frac{1}{K}}`
+    * - Aluminium
+      - :math:`0,004`
+    * - Blei
+      - :math:`0,0042`
+    * - Eisen
+      - :math:`0,00657`
+    * - Konstantan
+      - :math:`0,00004`
+    * - Kupfer
+      - :math:`0,0039`
+    * - Silber
+      - :math:`0,0041`
+    * - Zink
+      - :math:`0,0042`
+
+Bei niedrigen Temperaturen nehmen die Wärme-Schwingungen der Atomrümpfe und der
+elektrische Widerstand entsprechend ab; in vielen Metallen verschwindet der
+elektrische Widerstand ab einer materialspezifischen Temperatur sogar
+vollständig ("Supraleitung").
 
 In Flüssigkeiten können durch Lösungsvorgänge elektrisch geladene Atome und
 Moleküle ("Ionen") auftreten. Diese sind zwar bedeutend schwerer als Elektronen,
 können aber dennoch als freie Ladungsträger den elektrischen Strom leiten.
 
 
-.. index:: Halbleiter
-    single: Widerstand; Halbleiter
+.. index:: Halbleiter, Widerstand; Halbleiter
 .. _Halbleiter:
 
 Halbleiter
@@ -93,9 +129,7 @@ bei denen die *durchschnittliche* chemische Wertigkeit vier beträgt:
   Cadmium-Atom zwei und jedes Schwefelatom sechs Valenzelektronen zu den
   kovalenten Bindungen bei. [#]_
 
-.. todo::
-
-    Fussnote: Ionischer Anteil
+.. todo Fussnote: Ionischer Anteil
 
 Bei höheren Temperaturen lösen sich Elektronen häufiger aus den kovalenten
 Bindungen heraus; der elektrische Widerstand eines Halbleiters wird daher --
@@ -103,18 +137,13 @@ anders als bei Metallen -- durch eine Erwärmung zunächst geringer. Bei noch
 stärkerer Erwärmung überwiegt jedoch wieder der stromhemmende Effekt der
 Atomschwingungen, wodurch der elektrische Widerstand wiederum stark ansteigt.
 
-.. todo::
-
-    pic/diagramm
-
-    Eigenleitung durch Elektron-Loch-Paare
+.. todo pic/diagramm Eigenleitung durch Elektron-Loch-Paare
 
 Durch ein gezieltes Einbringen von Fremdatomen kann die Leitfähigkeit eines
 Halbleiters beeinflusst werden.
 
 
-.. index::
-    single: Halbleiter; n-Dotierung
+.. index:: Halbleiter; n-Dotierung
 .. _n-Dotierung:
 
 Die :math:`n`-Dotierung
@@ -123,8 +152,8 @@ Die :math:`n`-Dotierung
 Bei einer :math:`n`-Dotierung werden gezielt zusätzliche *negativ* geladene
 Ladungsträger in einen Halbleiter eingefügt.
 
-Bringt man ein chemisch fünfwertiges Atom (z.B. Phosphor) in einen
-Halbleiter-Kristall (z.B. Silicium) ein, so können nur vier der fünf
+Bringt man ein chemisch fünfwertiges Atom (beispielsweise Phosphor) in einen
+Halbleiter-Kristall (beispielsweise Silicium) ein, so können nur vier der fünf
 Valenzelektronen des Phosphors kovalente Bindungen mit den benachbarten Atomen
 aufbauen. Das fünfte Valenzelektron bleibt ungebunden am Phosphoratom zurück
 und lässt sich verhältnismäßig leicht ablösen. Somit steht es im weiteren Sinn
@@ -146,14 +175,13 @@ als ein "freier" Ladungsträger für den elektrischen Strom zur Verfügung.
         <../pics/elektrizitaet-magnetismus/halbleiter-silicium-n-dotierung.svg>`
 
 Typische chemisch fünfwertige Fremdatome ("Donatoren") sind beispielsweise
-Phosphor :math:`(\ce{P} )`, Arsen  :math:`(\ce{As} )` und Antimon
-:math:`(\ce{Sb} )`. In üblichen :math:`n`-Dotierungen wird ein Fremdatom auf
+Phosphor :math:`(\ce{P})`, Arsen  :math:`(\ce{As})` und Antimon
+:math:`(\ce{Sb})`. In üblichen :math:`n`-Dotierungen wird ein Fremdatom auf
 etwa :math:`1` bis :math:`10` Millionen Halbleiter-Atome eingebracht. Der
 Halbleiter bleibt durch die :math:`n`-Dotierung weiterhin elektrisch neutral.
 
 
-.. index::
-    single: Halbleiter; p-Dotierung
+.. index:: Halbleiter; p-Dotierung
 .. _p-Dotierung:
 
 Die :math:`p`-Dotierung
@@ -162,15 +190,15 @@ Die :math:`p`-Dotierung
 Bei einer :math:`p`-Dotierung werden gezielt zusätzliche *positiv* geladene
 Ladungsträger in einen Halbleiter eingefügt.
 
-Bringt man ein chemisch dreiwertiges Atom (z.B. Bor) in einen
-Halbleiter-Kristall (z.B. Silicium) ein, so bleiben an den Bor-Atomen "Löcher"
-oder "Defektstellen" in den kovalenten Bindungen zurück. Jedes Bor-Atom ist zwar
-fest im Halbleiterkristall eingebunden, doch stellt jedes Loch einen freien
-Platz für benachbarte Valenzelektronen dar, der verhältnismäßig leicht besetzt
-werden kann. Springt ein Valenzelektron aus einer anderen kovalenten Bindung in
-die Defektstelle, so ist das Loch an eine neue Stelle weiter gewandert. Somit
-können die eingebrachten Löcher im weiteren Sinn als freie, einfach positiv
-geladene Ladungsträger angesehen werden.
+Bringt man ein chemisch dreiwertiges Atom (beispielsweise Bor) in einen
+Halbleiter-Kristall (beispielsweise Silicium) ein, so bleiben an den Bor-Atomen
+"Löcher" oder "Defektstellen" in den kovalenten Bindungen zurück. Jedes Bor-Atom
+ist zwar fest im Halbleiterkristall eingebunden, doch stellt jedes Loch einen
+freien Platz für benachbarte Valenzelektronen dar, der verhältnismäßig leicht
+besetzt werden kann. Springt ein Valenzelektron aus einer anderen kovalenten
+Bindung in die Defektstelle, so ist das Loch an eine neue Stelle weiter
+gewandert. Somit können die eingebrachten Löcher im weiteren Sinn als freie,
+einfach positiv geladene Ladungsträger angesehen werden.
 
 .. figure::
     ../pics/elektrizitaet-magnetismus/halbleiter-silicium-p-dotierung.png
@@ -195,8 +223,7 @@ eingebracht. Auch durch die :math:`p`-Dotierung bleibt der Halbleiter
 elektrisch neutral.
 
 
-.. index::
-    single: Halbleiter; n-p-Übergang
+.. index:: Halbleiter; n-p-Übergang
 .. _n-p-Übergang:
 
 Der :math:`n`-:math:`p`-Übergang
@@ -230,18 +257,21 @@ dotierten Bereichen deutlich erhöht.
 
 Die Dicke der neutralen Grenzschicht wird dadurch begrenzt, dass durch das
 Abdriften der Elektronen in der (ursprünglich neutralen) :math:`n`-dotierten
-Schicht eine positive elektrische Spannung entsteht; in der (ursprünglich
-ebenfalls neutralen) :math:`p`-dotierten Schicht baut sich entsprechend durch
-die zusätzlichen Elektronen entlang der Grenzschicht eine negative Spannung
-auf. [#]_ Es kommt somit zu einem Gleichgewicht zwischen dem (thermisch
-bedingten) Driften der Elektronen und der entgegengesetzt wirkenden
-"Drift-Spannung".
+Schicht eine positive elektrische Ladungs-Anhäufung entsteht; in der
+(ursprünglich ebenfalls neutralen) :math:`p`-dotierten Schicht baut sich
+entsprechend durch die zusätzlichen Elektronen entlang der Grenzschicht eine
+negative Ladungs-Anhäufung auf. [#]_ Da sich durch die Ladungstrennung eine
+elektrische Spannung zwischen beiden Schichten aufbaut, kommt es schließlich zu
+einem Gleichgewicht zwischen dem (thermisch bedingten) Driften der Elektronen
+und der entgegengesetzt wirkenden "Drift-Spannung".
 
-In Silizium-Kristallen beträgt die Driftspannung rund :math:`U _{\rm{D, Si}}
-\approx \unit[0,7]{V}`, in Germanium-Kristallen rund :math:`U _{\rm{D, Ge}}
+In Silizium-Kristallen beträgt die Drift-Spannung rund :math:`U_{\mathrm{D, Si}}
+\approx \unit[0,7]{V}`, in Germanium-Kristallen rund :math:`U_{\mathrm{D, Ge}}
 \approx \unit[0,3]{V}`. Die Dicke der Raumladungszone hat bei typischen
 Dotierungen eine Größenordnung von :math:`\unit[0,001]{mm}`.
 
+
+.. _Durchlass-Richtung und Sperr-Richtung:
 
 .. rubric:: Durchlass-Richtung und Sperr-Richtung
 
@@ -302,8 +332,7 @@ erfüllt die Funktion einer Diode. Zwei- bzw. dreifache
 und Triacs Anwendung.
 
 
-.. index::
-    single: Widerstand; Isolator
+.. index:: Widerstand; Isolator
 .. _Isolatoren:
 
 Isolatoren
@@ -338,6 +367,96 @@ beispielsweise hochgelegene Leitungen und Gebäude mit Überspannungs- bzw.
 Blitzableitern ausgestattet.
 
 
+.. index:: Driftgeschwindigkeit (von Elektronen)
+.. _Exkurs Driftgeschwindigkeit von Elektronen:
+
+Exkurs: Driftgeschwindigkeit von Elektronen
+-------------------------------------------
+
+Drückt man auf einen Lichtschalter, so leuchtet quasi "sofort" die Lampe auf.
+Die zunächst nur an den Leiter-Enden des noch offenen Schalters anliegende
+Spannung muss also unmittelbar nach dem Schließen des Schalters auch an der
+Lampe anliegen.
+
+Tatsächlich breiten sich elektrische Felder mit Lichtgeschwindigkeit aus. Man
+kann sich das in einem einfachen Vergleich wie einen bereits komplett mit Wasser
+gefüllten Schlauch vorstellen: Füllt man an einem Ende zusätzlich Wasser hinein,
+so fließt es sofort am anderen Ende über. Dazu muss allerdings das neu
+hineinfließende Wasser nicht erst den ganzen Weg durch den Schlauch zurücklegen.
+
+Wie schnell bewegen sich also Elektronen in einem Leiter? Man kann für eine
+Abschätzung von der so genannten Elektronendichte :math:`n` des jeweiligen
+Leitermaterials ausgehen; diese gibt an, wie viele freie Elektronen sich in
+einem Material je Raumeinheit befinden. Für Kupfer beträgt dieser Wert
+beispielsweise :math:`n_{\mathrm{Cu}} = \unit[8,47 \cdot 10^{19}]{\frac{1}{mm^3}}`.
+
+Jedes Elektron trägt genau eine Elementarladung :math:`q_{\mathrm{e}} =
+\unit[1,6022 \cdot 10^{-19}]{C}`. Für die bewegliche Ladungsmenge in einem
+Leiterstück gilt also:
+
+.. math::
+
+    Q = n \cdot V \cdot q_{\mathrm{e}}
+
+Das Volumen :math:`V` des Leiterstücks kann wiederum als Produkt aus seiner
+Querschnittsfläche :math:`A` und seiner Länge :math:`l` geschrieben werden. Es
+gilt somit:
+
+.. math::
+
+    Q = n \cdot A \cdot l \cdot q_{\mathrm{e}}
+
+Ein elektrischer Strom :math:`I` entspricht einer sich zeitlich bewegenden
+Ladungsmenge, es ist also :math:`I = \frac{\Delta Q}{\Delta t}`. Wenn das
+Leiterstück an allen Stellen aus dem gleichen Material besteht und
+eine konstante Querschnittsfläche hat, so ist die Länge :math:`l` die einzige
+zeitlich veränderliche Größe. Eine zeitliche Änderung einer Strecke
+ist allerdings nichts anderes als eine Geschwindigkeit; man kann also schreiben:
+
+.. math::
+
+    I = \frac{\Delta Q}{\Delta t} = \frac{\Delta (n \cdot A \cdot l \cdot
+    q_{\mathrm{e})} }{\Delta t} = n \cdot A \cdot q_{\mathrm{e}} \cdot
+    \frac{\Delta l}{\Delta t} = n \cdot A \cdot q_{\mathrm{e}} \cdot v_{\mathrm{D}}
+
+Die Drift-Geschwindigkeit :math:`v_{\mathrm{D}}` gibt an, wie schnell sich ein
+bestimmtes Elektronen-Volumen, das man sich beispielsweise gefärbt vorstellen
+könnte, durch den Leiter "hindurch schiebt". Löst man die obige Gleichung nach
+:math:`v_{\mathrm{D}}` auf, so erhält man:
+
+.. math::
+    :label: eqn-driftgeschwindigkeit
+
+    v_{\mathrm{D}} = \frac{I}{n \cdot A \cdot q_{\mathrm{e}}}
+
+Diese Gleichung enthält neben der Naturkonstanten :math:`q_{\mathrm{e}}` und der
+Materialkonstanten :math:`n` nur die Querschnittsfläche :math:`A` des Leiters
+sowie die fließende Stromstärke :math:`I` als leicht messbare Größen.
+
+*Beispiel:*
+
+* Wie groß ist die Driftgeschwindigkeit der Elektronen in einer gewöhnlichen
+  Kupfer-Leitung mit einer Querschnittsfläche von :math:`A=\unit[1,5]{mm^2}`,
+  wenn eine Stromstärke von :math:`I=\unit[5,0]{A}` im Stromkreis auftritt?
+
+  Für Kupfer beträgt die Elektronendichte :math:`n_{\mathrm{Cu}} =
+  \unit[8,47 \cdot 10^{19}]{\frac{1}{mm^3}}`; somit erhält man nach der Formel
+  :eq:`eqn-driftgeschwindigkeit` für die Driftgeschwindigkeit:
+
+  .. math::
+
+      v_{\mathrm{D}} = \frac{I}{n \cdot A \cdot q_{\mathrm{e}}} =
+      \frac{\unit[5,0]{A}}{\unit[8,47 \cdot 10^{19}]{\frac{1}{mm^3}} \cdot
+      \unit[1,5]{mm^2} \cdot \unit[1,6022 \cdot 10^{-19}]{C}} \approx
+      \unit[0,246]{\frac{mm}{s}}
+
+  Die Einheit ergibt sich wegen :math:`\unit{A} = \unit{\frac{Q}{s}}`.
+
+Die Driftgeschwindigkeit der Elektronen in einem metallischen Leiter ist somit
+im Vergleich zur Ausbreitungs-Geschwindigkeit des elektrischen Feldes
+(Lichtgeschwindigkeit) nur sehr gering.
+
+
 .. raw:: html
 
     <hr />
@@ -346,19 +465,22 @@ Blitzableitern ausgestattet.
 
     .. rubric:: Anmerkungen:
 
-.. [#]  Die Leitfähigkeit eines Metalls ist rund  10 Milliarden (:math:`10
-        ^{8}`) mal höher als die eines Halbleiters und rund 100 Billionen
-        (:math:`10 ^{14}`) mal höher als die eines Isolators!
+.. [#]  Die Leitfähigkeit eines Metalls ist rund  10 Milliarden (:math:`10^{8}`)
+    mal höher als die eines Halbleiters und rund 100 Billionen (:math:`10^{14}`)
+    mal höher als die eines Isolators!
 
 .. [#]  Je deutlicher Halbleiter-Verbindungen von der elementaren IV-IV-Bindung
-        abweichen, desto größer wird auch der ionische Anteil an den kovalenten
-        Bindungen. I-VII-Verbindungen (Salze) haben rein ionischen Charakter und
-        zählen aufgrund der Festigkeit der Bindungen zu den elektrischen
-        Isolatoren.
+    abweichen, desto größer wird auch der ionische Anteil an den kovalenten
+    Bindungen. I-VII-Verbindungen (Salze) haben rein ionischen Charakter und
+    zählen aufgrund der Festigkeit der Bindungen zu den elektrischen Isolatoren.
 
 .. [#]  Die fest verankerten Atomrümpfe und damit die Protonen der fünf- bzw.
-        dreiwertigen Donator- bzw. Akzeptor-Atome bleiben in den jeweiligen
-        Schichten zurück.
+    dreiwertigen Donator- bzw. Akzeptor-Atome bleiben in den jeweiligen
+    Schichten zurück.
+
+.. raw:: html
+
+    <hr />
 
 .. hint::
 

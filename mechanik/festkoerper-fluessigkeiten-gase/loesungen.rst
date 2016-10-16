@@ -256,8 +256,8 @@ Mechanik der Gase>` zum Abschnitt :ref:`Mechanik der Gase <Mechanik der Gase>`.
       \unit[5,0]{\frac{m}{s}} \\
 
   Nachdem die Strömungsgeschwindigkeiten bekannt sind, können nun die
-  zugehörigen dynamischen Drücke :math:`p_{\mathrm{dyn,1}}` und :math:`p
-  _{\mathrm{dyn,2}}` im weiten und engen Rohrstück berechnet werden:
+  zugehörigen dynamischen Drücke :math:`p_{\mathrm{dyn,1}}` und
+  :math:`p_{\mathrm{dyn,2}}` im weiten und engen Rohrstück berechnet werden:
 
   .. math::
 

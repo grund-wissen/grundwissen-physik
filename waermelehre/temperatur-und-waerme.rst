@@ -156,7 +156,7 @@ zwei fest vorgegebene Temperaturwerte als "Fixpunkte" festgelegt, und der
 Temperaturbereich zwischen beiden Fixpunkten in gleiche Abschnitte unterteilt.
 Die wichtigsten drei Temperatur-Skalen sind:
 
-.. index:: Celsius
+.. index:: Celsius (Einheit)
 
 * *Celsius*-Skala:
 
@@ -168,7 +168,7 @@ Die wichtigsten drei Temperatur-Skalen sind:
     :math:`\unit[0]{\degree C}` werden durch ein vorgesetztes Minuszeichen
     :math:`(-)` gekennzeichnet.
 
-.. index:: Kelvin
+.. index:: Kelvin (Einheit)
 
 * *Kelvin*-Skala:
 
@@ -192,7 +192,7 @@ Die wichtigsten drei Temperatur-Skalen sind:
     Bei der Angabe von Temperaturunterschieden :math:`\Delta T = T_2 - T_1` sind
     Grad Celsius und Kelvin gleichwertig.
 
-.. index:: Fahrenheit
+.. index:: Fahrenheit (Einheit)
 
 * *Fahrenheit*-Skala:
 

@@ -24,7 +24,7 @@ und rauhen Spiegeln.
 Der ebene Spiegel
 -----------------
 
-Jede glatte, ebene Fläche (z.B. eine glatte Metallplatte, eine ruhige
+Jede glatte, ebene Fläche (beispielsweise eine glatte Metallplatte, eine ruhige
 Wasseroberfläche, eine Fensterscheibe usw.) wirkt wie ein ebener Spiegel.
 Während eine blank polierte Metalloberfläche das gesamte einfallende Licht
 zurückwirft, wird von Glas oder Wasser nur einen Teil des einfallenden Lichts
@@ -278,7 +278,7 @@ des Wölbspiegels ergibt, entspricht dem Schnittpunkt des Brennpunkt- und
 Mittelpunktstrahls.
 
 Da die Abbildungen eines Wölbspiegels nicht nur aufrecht und verkleinert,
-sondern auch seitenrichtig sind, werden sie häufig (z.B. im Straßenverkehr) zum
+sondern auch seitenrichtig sind, werden sie häufig (beispielsweise im Straßenverkehr) zum
 Überblicken eines größeren Raumbereichs eingesetzt. Sie erlauben dabei sogar
 einen "Blick um die Ecke": Egal ob man in Abbildung :ref:`Bildentstehung an
 einem Wölbspiegel <fig-bildentstehung-wölbspiegel>` von schräg oben oder unten

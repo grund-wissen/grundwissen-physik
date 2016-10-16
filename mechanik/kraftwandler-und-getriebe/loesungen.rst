@@ -212,9 +212,9 @@ Flaschenzüge und Rollen>` zum Abschnitt :ref:`Flaschenzüge und Rollen
       \unit[269,8]{N}
 
   Anstelle :math:`F_{\mathrm{G}} = \unit[200]{kg} \cdot \unit[9,81]{N/kg } =
-  \unit[1962]{N}` muss somit nur etwas mehr als ein Achtel des Kraftwertes, d.h.
+  \unit[1962]{N}` muss somit nur etwas mehr als ein Achtel des Kraftwertes, also
   :math:`\unit[269,8]{N}`, aufgewendet werden. Gleichzeitig muss das Seil um die
-  :math:`8`-fache Weglänge, d.h. um :math:`8 \cdot \unit[3]{m} = \unit[24]{m}`,
+  :math:`8`-fache Weglänge, also um :math:`8 \cdot \unit[3]{m} = \unit[24]{m}`,
   angehoben werden.
 
   :ref:`Zurück zur Aufgabe <kgf01>`

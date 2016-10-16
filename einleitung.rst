@@ -11,6 +11,9 @@ Einleitung
     Wissenschaftsbereichen entwickelt.
 
 
+.. _Teilbereiche der Physik:
+.. _Die Teilbereiche der Physik:
+
 Die Teilbereiche der Physik
 ---------------------------
 
@@ -46,6 +49,8 @@ Rahmen dieses Lehrbuchs nur knapp behandelt werden kann.
         unmöglich. Teilweise sind sehr aufwendige Experimente nötig.
 
 ..  Zeitstrang?
+
+.. _Physikalisches Experimentieren:
 
 Physikalisches Experimentieren
 ------------------------------
@@ -118,7 +123,7 @@ Maßeinheiten spielen in der Physik eine wichtige Rolle:
 
 .. math::
 
-    \boxed{\text{Physikalische Größe = Zahlenwert} \cdot \rm{Einheit}}
+    \boxed{\text{Physikalische Größe = Zahlenwert} \cdot \mathrm{Einheit}}
 
 Durch Verwendung von klar festgelegten Maßeinheiten lassen sich Messergebnisse
 auch zu einer anderen Zeit, an einem anderen Ort und/oder in einer anderen
@@ -126,6 +131,7 @@ Sprache nachvollziehen und vergleichen.
 
 
 .. _Messfehler:
+.. index:: Messfehler
 
 .. rubric:: Messfehler
 
@@ -173,7 +179,7 @@ die physikalische Wirkung dieser so genannten "vektoriellen" Größen in die
 jeweiligen Raumrichtungen hinreichend zu beschreiben.
 
 .. Skalare:
-.. Volumen, Ladung, Fläche, Länge
+.. Volumen, Elektrische Ladung, Fläche, Länge
 
 .. Vektoren:
 .. Ort, Geschwindigkeit, Beschleunigung, Kraft, Magnetfeld, Elektrisches Feld

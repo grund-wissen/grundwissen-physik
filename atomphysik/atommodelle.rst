@@ -318,7 +318,7 @@ nach der "Unschärferelation", die Werner Heisenberg formulierte, der Ort und
 die Geschwindigkeit eines Teilchens niemals gleichzeitig mit beliebiger
 Genauigkeit bestimmt werden. Es können damit nur bestimmte Raumbereiche
 angegeben werden, innerhalb derer sich ein jeweiliges Elektron mit einer sehr
-grossen Wahrscheinlichkeit :math:`(>90\%)` aufhält. Diese dreidimensionalen
+großen Wahrscheinlichkeit :math:`(>90\%)` aufhält. Diese dreidimensionalen
 Aufenthaltsräume werden Orbitale genannt.
 
 .. index::
@@ -589,6 +589,9 @@ die Schalennummer :math:`n` die Auffüllreihenfolge nicht mehr alleinig bestimmt
   vierten Periode (Kalium und Calcium) erst das :math:`4s`-Niveau mit zwei
   Elektronen (Spin :math:`s = \pm \frac{1}{2}`) aufgefüllt, bevor bei den
   Elementen Scandium bis Zink die :math:`3d`-Unterschale besetzt wird.
+
+.. _Valenzelektron:
+.. index:: Valenzelektron
 
 Die äußerste Schale, deren Besetzung für chemische und elektrische Vorgänge von
 besonderer Bedeutung ist,  wird als "Valenzschale" bezeichnet. Die sich auf ihr

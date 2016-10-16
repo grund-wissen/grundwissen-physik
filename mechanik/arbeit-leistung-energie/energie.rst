@@ -4,7 +4,7 @@
 
 .. :description: Mechanische Energie
 
-.. index:: Energie, Joule
+.. index:: Energie, Joule (Einheit)
 .. _Mechanische Energie:
 
 Mechanische Energie
@@ -24,12 +24,12 @@ physikalische Größe "Energie" beschrieben.
 
 *Einheit:*
 
-    Die Energie wird in der gleichen Einheit wie die Arbeit, d.h. in Joule
-    :math:`(\unit[]{J})` angegeben.
+    Die Energie wird in der gleichen Einheit wie die Arbeit, also in Joule
+    :math:`(\unit{J})` angegeben.
 
 .. math::
 
-    \unit[1]{J} = \unit[1]{N } \cdot \unit[1]{m} = \unit[1]{W \cdot s}
+    \unit[1]{J} = \unit[1]{N} \cdot \unit[1]{m} = \unit[1]{W \cdot s}
 
 Zur Beschreibung großer Energiemengen werden häufig die Einheiten Kilojoule
 :math:`(\unit[1]{kJ} = \unit[1\,000]{J})` und Megajoule :math:`(\unit[1]{MJ} =
@@ -54,9 +54,7 @@ Arten mechanischer Energie
 
 Bei mechanischen Prozessen treten folgende Arten mechanischer Energie auf: [#]_
 
-.. index::
-    single: Energieformen; Potentielle Energie ("Höhenenergie")
-    single: Potentielle Energie
+.. index:: Potentielle Energie, Energieformen; Potentielle Energie ("Höhenenergie")
 .. _Potentielle Energie:
 .. _Höhenenergie:
 
@@ -89,9 +87,7 @@ Höhenenergie als gegenüber der Meereshöhe. Bei Rechnungen legt man daher ein
 Null-Niveau fest, auf das man dann die einzelnen potentiellen Energien bezieht.
 [#]_
 
-.. index::
-    single: Energieformen; Spannenergie
-    single: Spannenergie
+.. index:: Energieformen; Spannenergie, Spannenergie
 .. _Spannenergie:
 
 .. rubric:: Die Spannenergie
@@ -126,10 +122,10 @@ elastischen Prozess handelt, quadratisch mit der Verformung des Körpers zu.
 
 .. rubric:: Die kinetische Energie ("Bewegungsenergie")
 
-Um einen Körper zu beschleunigen, d.h. ihn auf eine bestimmte Geschwindigkeit
+Um einen Körper zu beschleunigen, also ihn auf eine bestimmte Geschwindigkeit
 :math:`v` zu bringen, muss die :ref:`Beschleunigungsarbeit
-<Beschleunigungsarbeit>` :math:`W_{\mathrm{B}}` verrichtet werden. Diese ist dann
-in Form von Bewegungsenergie (häufig auch "kinetische Energie" genannt) im
+<Beschleunigungsarbeit>` :math:`W_{\mathrm{B}}` verrichtet werden. Diese ist
+dann in Form von Bewegungsenergie (häufig auch "kinetische Energie" genannt) im
 Körper gespeichert.
 
 *Definition:*
@@ -161,7 +157,7 @@ Rotationsenergie im Körper gespeichert.
 *Definition:*
 
     Die Rotationsenergie :math:`E_{\mathrm{rot}}` ist gleich dem Produkt aus dem
-    :ref:`Trägheitsmoment <Trägheitsmoment>` :math:`J` eines Körpers und dem
+    :ref:`Trägheitsmoment <Traegheitsmoment>` :math:`J` eines Körpers und dem
     Quadrat seiner Winkelgeschwindigkeit :math:`\omega`:
 
 .. math::
@@ -179,8 +175,7 @@ Bewegungsenergie und seiner Rotationsenergie:
     m \cdot v^2 + \frac{1}{2} \cdot J \cdot \omega^2
 
 
-.. index::
-    single: Energie; Energie-Erhaltung
+.. index:: Energie; Energie-Erhaltung
 .. _Energieerhaltungssatz:
 .. _Energie-Erhaltungssatz:
 
@@ -212,7 +207,7 @@ Reibungseffekte auf, die mechanische Energie in Wärme umwandeln. [#]_
 
 .. [#] Weitere Energieformen sind :ref:`elektrische Energie <Elektrische Arbeit
     und Energie>`, magnetische Energie, thermische Energie (Wärme),
-    Strahlungsenergie (z.B. Licht), Kernenergie und chemische Energie.
+    Strahlungsenergie (beispielsweise Licht), Kernenergie und chemische Energie.
 
 .. [#] Arbeit kann in diesem Sinn als Energiemenge aufgefasst werden, die zum
     Anheben eines Gegenstands auf ein anderes Energie-Niveau nötig ist.

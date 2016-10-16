@@ -14,8 +14,8 @@ aufgelistet.
 
 .. list-table:: Fachbegriffe mit lateinischer Herkunft:
     :widths: 20 20 60
-    :header-rows: 1
     :name: tab-fachbegriffe-lateinisch
+    :header-rows: 1
 
     * - Lateinisch
       - Deutsch
@@ -161,8 +161,8 @@ aufgelistet.
 
 .. list-table:: Fachbegriffe mit griechischer Herkunft
     :widths: 20 20 60
-    :header-rows: 1
     :name: tab-fachbegriffe-griechisch
+    :header-rows: 1
 
     * - Griechisch
       - Deutsch
@@ -257,6 +257,9 @@ aufgelistet.
     * - phone
       - Stimme, Ton
       - Phon, Telephon, Mikrophon
+    * - phos
+      - Licht
+      - Photometrie
     * - polos
       - Achse
       - (Magnet-)Pol
@@ -294,11 +297,12 @@ aufgelistet.
       - drei
       - Triode
 
+.. _Griechische Symbole:
 
 .. list-table:: Griechisches Alphabet
     :widths: 50 50 50 50 50 50
-    :header-rows: 0
     :name: tab-alphabet-griechisch
+    :header-rows: 0
 
     * - Buchstabe
       - Aussprache
@@ -428,25 +432,25 @@ die "Basis" für alle physikalischen Größen dar.
       - Einheit
       - Einheitsbezeichnung
     * - Länge
-      - :math:`\unit[]{m}`
+      - :math:`\unit{m}`
       - Meter
     * - Zeit
-      - :math:`\unit[]{s}`
+      - :math:`\unit{s}`
       - Sekunde
     * - Masse
-      - :math:`\unit[]{kg}`
+      - :math:`\unit{kg}`
       - Kilogramm
     * - Temperatur
-      - :math:`\unit[]{K}`
+      - :math:`\unit{K}`
       - Kelvin
     * - Elektr. Stromstärke
-      - :math:`\unit[]{A}`
+      - :math:`\unit{A}`
       - Ampere
     * - Lichtstärke
-      - :math:`\unit[]{cd}`
+      - :math:`\unit{cd}`
       - Candela
     * - Stoffmenge
-      - :math:`\unit[]{mol}`
+      - :math:`\unit{mol}`
       - Mol
 
 Alle weiteren physikalischen Größen lassen sich auf Zusammenhänge zwischen den
@@ -466,59 +470,59 @@ aufgelistet.
       - Einheitsbezeichnung
       - Definition
     * - Zeit
-      - :math:`\unit[]{min}`
+      - :math:`\unit{min}`
       - Minute
       - :math:`\unit[1]{min} = \unit[60]{s}`
     * -
-      - :math:`\unit[]{h}`
+      - :math:`\unit{h}`
       - Stunde
       - :math:`\unit[1]{h} = \unit[60]{min} = \unit[3600]{s}`
     * -
-      - :math:`\unit[]{d}`
+      - :math:`\unit{d}`
       - Tag
       - :math:`\unit[1]{d} = \unit[24]{h} = \unit[1440]{min} = \unit[86400]{s}`
     * -
-      - :math:`\unit[]{a}`
+      - :math:`\unit{a}`
       - Jahr
       - :math:`\unit[1]{a} = \unit[365,2422]{d} = \unit[31\,556\,926]{s}`
     * - Frequenz
-      - :math:`\unit[]{Hz}`
+      - :math:`\unit{Hz}`
       - Hertz
       - :math:`\unit[1]{Hz} = \unit[1]{/s}`
     * - Kraft
-      - :math:`\unit[]{N}`
+      - :math:`\unit{N}`
       - Newton
       - :math:`\unit[1]{N} = \unit[1]{kg \cdot m/s^{2}}`
     * - Druck
-      - :math:`\unit[]{Pa}`
+      - :math:`\unit{Pa}`
       - Pascal
       - :math:`\unit[1]{Pa} = \unit[1]{N/m^{2}}`
     * -
-      - :math:`\unit[]{bar}`
+      - :math:`\unit{bar}`
       - Bar
       - :math:`\unit[1]{bar} = \unit[100\,000]{Pa}`
     * - Energie, Arbeit, Wärme
-      - :math:`\unit[]{J}`
+      - :math:`\unit{J}`
       - Joule
       - :math:`\unit[1]{J} = \unit[1]{W \cdot s} = \unit[1]{kg \cdot m^2/s^2}`
     * -
-      - :math:`\unit[]{kWh}`
+      - :math:`\unit{kWh}`
       - Kilowattstunde
       - :math:`\unit[1]{kWh} = \unit[3\,600\,000]{J}`
     * - Drehmoment
-      - :math:`\unit[]{Nm}`
+      - :math:`\unit{Nm}`
       - Newtonmeter
       - :math:`\unit[1]{N \cdot m} = \unit[1]{kg \cdot m^2 / s^2}`
     * - Leistung
-      - :math:`\unit[]{W}`
+      - :math:`\unit{W}`
       - Watt
       - :math:`\unit[1]{W} = \unit[1]{J/s}`
     * - Elektrische Ladung
-      - :math:`\unit[]{C}`
+      - :math:`\unit{C}`
       - Coulomb
       - :math:`\unit[1]{C} = \unit[1]{A \cdot s}`
     * - Elektrische Spannung
-      - :math:`\unit[]{V}`
+      - :math:`\unit{V}`
       - Volt
       - :math:`\unit[1]{V} = \unit[1]{W / A} = \unit[1]{(kg \cdot m^2) / (A \cdot s^3)}`
     * - Elektrischer Widerstand
@@ -526,23 +530,23 @@ aufgelistet.
       - Ohm
       - :math:`\unit[1]{\Omega } = \unit[1]{\,V\, / A} = \unit[1]{(kg \cdot m^2) / (A^2 \cdot s^3)}`
     * - Elektrische Kapazität
-      - :math:`\unit[]{F}`
+      - :math:`\unit{F}`
       - Farad
       - :math:`\unit[1]{F} = \unit[1]{\,C\, / V} = \unit[1]{(A^2 \cdot s^4) / (kg \cdot m^2)}`
     * - Magnetischer Fluss
-      - :math:`\unit[]{Wb}`
+      - :math:`\unit{Wb}`
       - Weber
       - :math:`\unit[1]{Wb} = \unit[1]{V \cdot s}`
     * - Magnetische Flussdichte
-      - :math:`\unit[]{T}`
+      - :math:`\unit{T}`
       - Tesla
       - :math:`\unit[1]{T} = \unit[1]{Wb / m^2} = \unit[1]{(V \cdot s)/m^2}`
     * - Induktivität
-      - :math:`\unit[]{H}`
+      - :math:`\unit{H}`
       - Henry
       - :math:`\unit[1]{H} = \unit[1]{Wb / A} = \unit[1]{(V \cdot s)/ A}`
     * - Temperatur
-      - :math:`\unit[]{\degree C}`
+      - :math:`\unit{\degree C}`
       - Grad Celsius
       - :math:`\unit[1]{\degree C} = \unit[1]{K}` (nur bei Angabe von Celsius-Temperaturen)
 
@@ -1136,10 +1140,11 @@ Periodensystem der Elemente
 
     \newpage
     \newgeometry{left=1cm, right=1cm, top=1cm, bottom=1cm}
+    \thispagestyle{empty}
     \begin{landscape}
     \centering\includegraphics[height=0.95\textheight]{../../pics/atomphysik/periodensystem-mit-elektronenkonfiguration.png}
     \end{landscape}
-
+    \newgeometry{left=2cm, right=2cm, top=2.5cm, bottom=2.5cm}
 
 ..  http://www.formel-sammlung.de/physik/wertetabellen/schmelz-_siedetemperatur.htm
 ..  http://www.chemie.de/lexikon/Ausdehnungskoeffizient.html

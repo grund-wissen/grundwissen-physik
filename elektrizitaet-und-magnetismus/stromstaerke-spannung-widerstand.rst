@@ -7,7 +7,7 @@ Stromstärke, Spannung und Widerstand
 Damit ein elektrischer Strom durch einen Körper fließen kann, müssen zwei
 Bedingungen erfüllt sein:
 
-* In ihm müssen frei bewegliche Ladungsträger (z.B. Elektronen) vorhanden sein.
+* In ihm müssen frei bewegliche Ladungsträger (beispielsweise Elektronen) vorhanden sein.
 * An ihm muss eine elektrische Spannung (Ladungsdifferenz) anliegen.
 
 .. figure::
@@ -76,12 +76,13 @@ Stromleiter ein stärkerer Strom fließen als in einem dünnen.
 *Definition:*
 
     Die elektrische Stromstärke :math:`I` ist gleich der Menge an elektrischer
-    Ladung :math:`Q`, die in einer Zeit :math:`t` transportiert wird:
+    Ladung :math:`\Delta Q`, die in einer Zeitspanne :math:`\Delta t`
+    transportiert wird:
 
 .. math::
     :label: eqn-stromstärke
 
-    I = \frac{Q}{t}
+    I = \frac{\Delta Q}{\Delta t}
 
 *Einheit:*
 
@@ -132,9 +133,9 @@ in einem Leiter bewegen: Sie gehen stets vom Plus-Pol einer Stromquelle aus und
 bewegen sich in Richtung Minus-Pol.
 
 Diese Konvention wurde beibehalten, obwohl man später feststellte, dass in
-leitenden Festkörpern v.a. die Bewegung der negativ geladenen Elektronen von
-entscheidender Bedeutung für den Stromfluss ist. Da diese vom Minus-Pol ausgehen
-und sich sich in Richtung Plus-Pol bewegen, muss man stets zwischen der
+leitenden Festkörpern vor allem die Bewegung der negativ geladenen Elektronen
+von entscheidender Bedeutung für den Stromfluss ist. Da diese vom Minus-Pol
+ausgehen und sich sich in Richtung Plus-Pol bewegen, muss man stets zwischen der
 ursprünglich festgelegten ("technischen") und der tatsächlichen
 ("physikalischen") Bewegungsrichtung der geladenen Teilchen unterscheiden:
 
@@ -147,9 +148,10 @@ ursprünglich festgelegten ("technischen") und der tatsächlichen
 In der heutigen Elektronik wird stets die technische Stromrichtung als Norm für
 Schaltpläne und Beschriftungen verwendet. Auch wenn der Ladungstransport durch
 Elektronen erfolgt, so sagt man, dass der Strom "von Plus nach Minus" fließe.
-Dies mag physikalisch unkorrekt sein; entscheidend ist allerdings vielmehr,
-dass von der Polung abhängige Bauteile (z.B. Dioden und Transistoren) immer
-nach dem gleichen Schema hergestellt werden. [#]_
+Dies mag physikalisch unkorrekt sein; entscheidend ist allerdings vielmehr, dass
+von der Polung abhängige Bauteile (beispielsweise :ref:`Dioden <gwe:Diode>` und
+:ref:`Transistoren <gwe:Transistor>`) immer nach dem gleichen Schema hergestellt
+werden. [#]_
 
 
 .. index:: Spannung (elektrisch)
@@ -185,7 +187,7 @@ Elektronen an einer Stelle gegenüber einer anderen Stelle.
 
 Entsprechend ist für das Fließen eines elektrischen Stromes eine gezielte
 Anhäufung von elektrischer Ladung notwendig. Umso stärker die Elektronen an
-einer Stelle verdichtet werden, d.h. je mehr Arbeit bei der Ladungstrennung
+einer Stelle verdichtet werden, also je mehr Arbeit bei der Ladungstrennung
 investiert wird, desto steiler ist das Konzentrationsgefälle an elektrischer
 Ladung und damit die elektrische Spannung.
 
@@ -221,6 +223,8 @@ Ladung und damit die elektrische Spannung.
       - :math:`12 \text{ bis } 24`
     * - Netzspannung
       - :math:`230`
+    * - Drehstrom
+      - :math:`400`
     * - Generator in Kraftwerk
       - :math:`\text{ca. } 10\,000`
     * - Hochspannung
@@ -228,9 +232,50 @@ Ladung und damit die elektrische Spannung.
     * - Blitz
       - :math:`\text{bis } 100\,000\,000`
 
+.. index:: Elektrisches Potential
+.. _Elektrisches Potential:
 
-.. index::
-    single: Spannung (elektrisch); Gleichspannung
+.. rubric:: Das elektrische Potential
+
+Die Spannung ist keine absolute Größe, man kann also streng genommen nicht
+angeben, wie groß die Spannung an einer bestimmten Stelle ist. Spannung bezieht
+sich vielmehr stets auf zwei Punkte: Man kann mit einem Spannungswert also nur
+angeben, wie groß die Spannung *zwischen* zwei Punkten ist. Gemäß der
+technischen Konvention, dass Strom stets "von Plus nach Minus" fließt, kann
+die Spannungsdifferenz zwischen zwei Punkten als Maß dafür angesehen werden, wie
+stark und in welche Richtung der Strom vom einen Punkt zum anderen fließen
+möchte.
+
+Um dennoch einen Absolutwert für die Menge einer Ladungsanhäufung angeben zu
+können, hat man daher den Begriff "elektrisches Potential" :math:`\varPhi`
+eingeführt. Das elektrische Potential ist vergleichbar mit der Höhe eines
+Punktes über dem Meeresspiegel. Ein solcher Wert kann tatsächlich für jeden
+einzelnen Punkt angegeben werden. Vergleicht man dann zwei verschiedene Punkte
+hinsichtlich ihrer elektrischen Potentiale, so kann die Differenz :math:`\Delta
+\varPhi` dieser Potentiale als elektrische Spannung :math:`U` zwischen den
+beiden Punkten aufgefasst werden:
+
+.. math::
+    :label: eqn-elektrisches-potential-und-spannung
+
+    U = \Delta \varPhi
+
+.. index:: Masse (Elektrizität), Nullpotential
+
+Im alltäglichen Sprachgebrauch werden trotz dieses Unterschieds die Begriffe
+Spannung und elektrisches Potential häufig als gleichwertig verwendet. Der Grund
+dafür liegt darin, dass als Bezugspunkt (":ref:`Masse <gwe:Masse>`", "Ground",
+"Nullpotential") für das elektrische Potential häufig der Minus-Anschluss der
+Stromquelle verwendet wird und dieser willkürlich den Wert Null erhält.
+Gegenüber diesem Bezugspunkt ist das elektrische Potential eines Punktes mit dem
+Spannungswert identisch. Haben hingegen zwei Punkte (beispielsweise in einer
+elektronischen Schaltung) jeweils von Null verschiedene elektrische Potentiale,
+so ist nur die Differenz der jeweiligen elektrischen Potentiale
+(umgangssprachlich: "Spannungsdifferenz") als Ursache für einen Stromfluss von
+Bedeutung.
+
+
+.. index:: Spannung (elektrisch); Gleichspannung
 .. _Gleichspannung:
 
 Die Gleichspannung
@@ -278,8 +323,7 @@ Resultat ist in diesem Fall ein so genannter "pulsierender Gleichstrom".
         <../pics/elektrizitaet-magnetismus/diagramm-gleichspannung.svg>`
 
 
-.. index::
-    single: Spannung (elektrisch); Wechselspannung
+.. index:: Spannung (elektrisch); Wechselspannung
 .. _Wechselspannung:
 
 Die Wechselspannung
@@ -287,8 +331,9 @@ Die Wechselspannung
 
 Manche elektrische Generatoren, beispielsweise Fahrrad-Dynamos, bewirken einen
 Strom, der einmal "von rechts nach links", dann wieder "von links nach rechts"
-fließt. [#]_ Die Ursache dafür ist eine Spannung, die ihre Richtung regelmäßig
-wechselt und daher als Wechselspannung bezeichnet wird.
+fließt. [#]_ Die Ursache dafür ist eine Spannung, die ihre Richtung
+(beziehungsweise ihr Vorzeichen) regelmäßig wechselt und daher als
+Wechselspannung bezeichnet wird.
 
 .. figure::
     ../pics/elektrizitaet-magnetismus/diagramm-wechselspannung.png
@@ -316,14 +361,14 @@ berechnen: [#]_
 
     U_{\mathrm{eff}} = \frac{U_{\mathrm{max}}}{\sqrt{2}}
 
-Die Frequenz der Wechselspannung im Stromnetz beträgt :math:`f=\unit[50]{Hz}`,
-d.h. in einer Sekunde durchläuft die Wechselspannung 50 Perioden. Hieraus ergibt
-sich eine Schwingungsdauer von :math:`T = \unit[\frac{1}{50} ]{s} =
-\unit[0,02]{s}`.
+Die Frequenz der Wechselspannung im Stromnetz beträgt :math:`f=\unit[50]{Hz}`;
+in einer Sekunde durchläuft die Wechselspannung also :math:`50` Perioden.
+Hieraus ergibt sich eine Schwingungsdauer von :math:`T = \unit[\frac{1}{50}]{s}
+= \unit[0,02]{s}`.
 
 Der Vorteil einer Wechselspannung gegenüber einer (zeitlich konstanten)
 Gleichspannung liegt darin, dass sich der Wert der Wechselspannung mittels eines
-geeigneten :ref:`Transformators <gwe:Transformator>` leicht auf einen anderen
+passenden :ref:`Transformators <gwe:Transformator>` leicht auf einen anderen
 beliebigen Spannungswert einstellen lässt.
 
 
@@ -339,17 +384,17 @@ zwischen den sich bewegenden Elektronen und den zurückbleibenden Atomrümpfen
 auf. Ähnlich wie bei der mechanischen Reibung wird dabei elektrische Energie in
 Wärmeenergie umgewandelt.
 
-Bei schlechten Leitern (z.B. Eisen) ist die Wechselwirkung zwischen Elektronen
-und Atomen stärker als bei guten Leitern (z.B. Kupfer). Zum einen erwärmen sich
-schlechte Leiter dadurch schneller als gute Leiter, zum anderen muss an ihnen
-eine höhere elektrische Spannung angelegt werden, um den gleichen Stromfluss zu
-erreichen.
+Bei schlechten Leitern (beispielsweise Eisen) ist die Wechselwirkung zwischen
+Elektronen und Atomen stärker als bei guten Leitern (beispielsweise  Kupfer).
+Zum einen erwärmen sich schlechte Leiter dadurch schneller als gute Leiter, zum
+anderen muss an ihnen eine höhere elektrische Spannung angelegt werden, um den
+gleichen Stromfluss zu erreichen.
 
 *Definition:*
 
     Unter dem elektrischen Widerstand :math:`R` eines Stromkreises versteht man
-    das Verhältnis der Spannung :math:`U` zwischen den Enden eines Leiters zur
-    Stärke des Stromes :math:`I` im Leiter:
+    das Verhältnis aus der Spannung :math:`U` zwischen den Enden eines Leiters
+    und der Stärke des Stromes :math:`I` im Leiter:
 
 .. math::
     :label: eqn-elektrischer-widerstand
@@ -389,14 +434,14 @@ auch heute noch die Widerstandsgleichung :eq:`eqn-elektrischer-widerstand` als
     U = R \cdot I
 
 Das Ohmsche Gesetz :eq:`eqn-ohmsches-gesetz` ist in seiner Gültigkeit auf
-homogene Materialien (z.B. Widerstände) begrenzt. [#]_ In zahlreichen Fällen
-kann es dennoch, beispielsweise bei :ref:`Reihen- und Parallelschaltungen
+homogene Materialien (beispielsweise Widerstände) begrenzt. [#]_ In zahlreichen
+Fällen kann es dennoch, beispielsweise bei :ref:`Reihen- und Parallelschaltungen
 <gwe:Reihen- und Parallelschaltungen>`, beim Ermitteln von Spannungen oder
 Stromstärken helfen, wenn die jeweiligen elektrischen Widerstände bekannt sind.
 
 Neben den beiden bisher genannten Formen :eq:`eqn-elektrischer-widerstand` und
 :eq:`eqn-ohmsches-gesetz` kann der Zusammenhang zwischen Stromstärke und
-Spannung auch folgendermaßen angegeben werden:
+Spannung auch folgendermaßen angegeben werden: [#]_
 
 .. math::
 
@@ -425,17 +470,16 @@ verläuft, desto niedriger der Widerstandswert :math:`R` ist.
 
 
 
-.. index::
-    single: Widerstand; Spezifischer Widerstand
+.. index:: Widerstand; Spezifischer Widerstand
 .. _Spezifischer Widerstand:
 
 Der spezifische Widerstand
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Unterschiedliche Stoffe leiten den Strom unterschiedlich gut, d.h. sie
-besitzen einen unterschiedlichen spezifischen Widerstand :math:`\rho`. Je
-kleiner der spezifische Widerstand eines Materials ist, desto besser leitet es
-den elektrischen Strom.
+Unterschiedliche Stoffe leiten den Strom unterschiedlich gut, sie besitzen also
+einen unterschiedlichen spezifischen Widerstand :math:`\rho`. Je kleiner der
+spezifische Widerstand eines Materials ist, desto besser leitet es den
+elektrischen Strom. [#]_
 
 *Definition:*
 
@@ -452,7 +496,7 @@ den elektrischen Strom.
 *Einheit:*
 
     Aus der Definition :eq:`eqn-spezifischer-widerstand` ergibt sich für den
-    spezifischen Widerstand :math:`\rho` die Einheit :math:`\unit[]{\Omega \cdot
+    spezifischen Widerstand :math:`\rho` die Einheit :math:`\unit{\Omega \cdot
     \frac{m^2}{m}}`.
 
     Da die meisten Bauteile und Leitungen eine wesentlich
@@ -494,7 +538,7 @@ den elektrischen Strom.
 .. list-table:: Widerstände von Metalldrähten :math:`(l\!=\!\unit[1]{m}`,
                 :math:`A\!=\!\unit[1]{mm^2})`
     :name: tab-spezifischer-widerstand-metalldrähte
-    :widths: 100 50
+    :widths: 100 75
 
     * - Kupfer
       - :math:`\unit[0,0156]{\Omega }`
@@ -527,35 +571,65 @@ Halbleiter und Isolatoren einteilen.
     .. rubric:: Anmerkung:
 
 .. [#]  Auch beim Autoverkehr ist weniger entscheidend, ob ein Links- oder ein
-        Rechtsverkehr vorherrscht, sondern vielmehr, dass sich alle
-        Verkehrsteilnehmer an die gleichen Grundregeln halten.. ;-)
+    Rechtsverkehr vorherrscht, sondern vielmehr, dass sich alle
+    Verkehrsteilnehmer an die gleichen Grundregeln halten.. ;-)
 
 .. [#]  Im englischen Sprachbereich wird Gleichstrom als "direct current" (DC)
-        bezeichnet.
+    bezeichnet.
 
 .. [#]  Im englischen Sprachbereich wird Wechselstrom als "alternating
-        current" (AC) bezeichnet.
+    current" (AC) bezeichnet.
 
 .. [#]  Diese Werte gelten für das europäische Stromnetz. In Nordamerika
-        beispielsweise beträgt die Effektivspannung im Stromnetz
-        :math:`\unit[120]{V}` bei einer Netzfrequenz von :math:`\unit[60]{Hz}`.
+    beispielsweise beträgt die Effektivspannung im Stromnetz
+    :math:`\unit[120]{V}` bei einer Netzfrequenz von :math:`\unit[60]{Hz}`.
 
 .. [#]  Da :math:`\sqrt{2} \approx 1,41` ist, kann man sich als praktische
-        Faustregel merken, dass der Spitzenwert einer Wechselspannung stets um
-        das :math:`1,41`-fache höher liegt als ihr Effektivwert.
+    Faustregel merken, dass der Spitzenwert einer Wechselspannung stets um
+    das :math:`1,41`-fache höher liegt als ihr Effektivwert.
 
 .. [#]  In Halbleiter-Bauteilen (z.B. :ref:`Dioden <gwe:Diode>`,
-        :ref:`Transistoren <gwe:Transistor>`, usw.) ist der Zusammenhang
-        zwischen Stromstärke und Spannung nicht linear; vielmehr ist in
-        diesen Bauteile erst ab einer bestimmten Spannung ein Stromfluss
-        möglich, der bei einer weiteren Erhöhung der Spannung
-        überproportional ansteigt (Abbildung :ref:`Kennlinie einer Diode
-        in Durchlass-Richtung <gwe:fig-kennlinie-diode-durchlassrichtung>`).
+    :ref:`Transistoren <gwe:Transistor>`, usw.) ist der Zusammenhang zwischen
+    Stromstärke und Spannung nicht linear; vielmehr ist in diesen Bauteile erst
+    ab einer bestimmten Spannung ein Stromfluss möglich, der bei einer weiteren
+    Erhöhung der Spannung überproportional ansteigt (Abbildung :ref:`Kennlinie
+    einer Diode in Durchlass-Richtung
+    <gwe:fig-kennlinie-diode-durchlassrichtung>`).
 
-        Das Ohmsche Gesetz kann in solchen Fällen (näherungsweise) genutzt
-        werden, wenn die Widerstandswerte in Abhängigkeit von der Stromstärke
-        oder Spannung bekannt sind, also als Diagramm oder in tabellarischer
-        Form für bestimmte Werte vorliegen.
+    Das Ohmsche Gesetz kann in solchen Fällen (näherungsweise) genutzt werden,
+    wenn die Widerstandswerte in Abhängigkeit von der Stromstärke oder Spannung
+    bekannt sind, also als Diagramm oder in tabellarischer Form für bestimmte
+    Werte vorliegen.
+
+.. index:: Elektrischer Leitwert, Siemens (Einheit)
+
+.. [#] Der Kehrwert :math:`\frac{1}{R}` wird bisweilen auch als "elektrischer
+    Leitwert" :math:`G` bezeichnet:
+
+    .. math::
+
+        G = \frac{1}{R}
+
+    Der elektrische Leitwert wird in der Einheit "Siemens" (Kurzzeichen
+    :math:`\unit{S}`) angegeben, wobei :math:`\unit[1]{S} =
+    \unit[1]{\frac{1}{\Omega}} = \unit[1]{\frac{A}{V}}` gilt. Je größer der
+    elektrische Leitwert eines Stromkreises ist, desto größer ist die
+    Stromstärke bei gleicher anliegender Spannung.
+
+.. index:: Elektrische Leitfähigkeit
+
+.. [#] Der Kehrwert :math:`\frac{1}{\rho}` wird auch als "elektrische
+    Leitfähigkeit" :math:`\sigma` bezeichnet:
+
+    .. math::
+
+        \sigma = \frac{1}{\rho}
+
+    Die elektrische Leitfähigkeit wird meist in der Einheit :math:`\frac{S \cdot
+    m}{mm^2}` angegeben. Je größer die elektrische Leitfähigkeit eines Materials
+    ist, desto geringer ist sein elektrischer Widerstand bei gleicher
+    Querschnittsfläche und Länge.
+
 
 .. raw:: html
 

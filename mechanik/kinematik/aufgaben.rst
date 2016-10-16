@@ -5,15 +5,17 @@ Kinematik
 =========
 
 
-.. _Aufgaben Geradlinige Bewegungen:
+.. _Aufgaben Bewegungen mit konstanter Geschwindigkeit:
 
-Geradlinige Bewegungen
-----------------------
+Bewegungen mit konstanter Geschwindigkeit
+-----------------------------------------
 
-Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Geradlinige
-Bewegungen <Geradlinige Bewegungen>`.
+Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Bewegungen mit
+konstanter Geschwindigkeit <Bewegungen mit konstanter Geschwindigkeit>`.
 
-.. rubric:: Geradlinige Bewegungen mit konstanter Geschwindigkeit
+.. _Aufgaben Eindimensionale Bewegungen mit konstanter Geschwindigkeit:
+
+.. rubric:: Eindimensionale Bewegungen mit konstanter Geschwindigkeit
 
 ----
 
@@ -25,18 +27,18 @@ Bewegungen <Geradlinige Bewegungen>`.
   - Ein Läufer legt eine Strecke :math:`s = \unit[8,0]{km}` in einer Zeit von
     :math:`t = \unit[30]{min}` zurück. Wie groß ist seine
     Durchschnittsgeschwindigkeit :math:`\bar{v}`?
-  - Ein Radfahrer legt alle :math:`\Delta t=\unit[5,0]{s}` eine Wegstrecke von
+  - Ein Radfahrer legt alle :math:`\Delta t=\unit[6,0]{s}` eine Wegstrecke von
     :math:`\Delta s=\unit[36]{m}` zurück. Wie groß ist seine Geschwindigkeit?
   - Der Weltrekord im :math:`\unit[100]{m}`-Lauf aus dem Jahr 2009 liegt bei
     :math:`t=\unit[9,58]{s}`. Welche mittlere Geschwindigkeit :math:`\bar{v}` in
-    :math:`\unit{\frac{km}{h}}` hatte der Läufer?
+    :math:`\unitfrac{km}{h}` hatte der Läufer?
   - Welche Durchschnittsgeschwindigkeit erreicht ein Zug, der um 9:05 Uhr in
     Augsburg abfährt und um 12:35 Uhr im :math:`\Delta s = \unit[245]{km}` weit
     entfernten Würzburg ankommt?
-  - Ein Auto fährt mit :math:`v= \unit[108]{\frac{km}{h}}` auf einer Autobahn. Welche
+  - Ein Auto fährt mit :math:`v= \unitfrac[108]{km}{h}` auf einer Autobahn. Welche
     Wegstrecke legt es in einer Sekunde, welche in einer Minute zurück?
   - Wie viel Sekunden braucht man, um mit einer Geschwindigkeit von :math:`v =
-    \unit[5,0]{\frac{km}{h}}` eine Strecke von :math:`\unit[800]{m}` zurückzulegen?
+    \unitfrac[5,0]{km}{h}` eine Strecke von :math:`\unit[800]{m}` zurückzulegen?
   - Das Licht legt in einer Sekunde rund :math:`\unit[300\,000]{km}` zurück. Die
     Entfernung Erde-Sonne beträgt ungefähr :math:`s = \unit[150\,000\,000]{km}`.
     Welche Zeit benötigt das Licht von der Sonne zur Erde?
@@ -48,10 +50,10 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 .. _king02:
 
-* (*) Die Schallgeschwindigkeit in Luft beträgt ca. :math:`v = \unit[330]{m/s}`.
-  Ein Wanderer steht gegenüber einer großen Felswand und ruft laut
-  "Haallooo!!". Erst nach einer Zeit von :math:`t = \unit[5]{s}` hört er ein
-  Echo. Wie weit ist die Felswand vom Wanderer entfernt?
+* (*) Die Schallgeschwindigkeit in Luft beträgt ca. :math:`v =
+  \unitfrac[330]{m}{s}`. Ein Wanderer steht gegenüber einer großen Felswand und
+  ruft laut "Haallooo!!". Erst nach einer Zeit von :math:`t = \unit[5,0]{s}` hört
+  er ein Echo. Wie weit ist die Felswand vom Wanderer entfernt?
 
   :ref:`Lösung <king02l>`
 
@@ -79,12 +81,12 @@ Bewegungen <Geradlinige Bewegungen>`.
 * (**) Bei einem "Verfolgungsrennen" startet zunächst eine Gruppe an Läufern;
   nach einer Zeit von :math:`\Delta t = \unit[30]{min}` startet ein Fahrzeug am
   Ausgangspunkt und fährt den Läufern mit einer konstanten Geschwindigkeit von
-  :math:`v_{\mathrm{F}}=\unit[35]{\frac{km}{h}}` hinterher. Das Rennen ist für
+  :math:`v_{\mathrm{F}}=\unitfrac[35]{km}{h}` hinterher. Das Rennen ist für
   jeden einzelnen Läufer beendet, sobald das Fahrzeug ihn eingeholt hat.
 
   Nach welcher Wegstrecke :math:`\Delta s` beziehungsweise welcher Zeit
   :math:`\Delta t` holt das Fahrzeug einen Läufer ein, dessen durchschnittliche
-  Geschwindigkeit :math:`v _{\mathrm{L}} = \unit[15]{\frac{km}{h}}` beträgt?
+  Geschwindigkeit :math:`v_{\mathrm{L}} = \unitfrac[15]{km}{h}` beträgt?
 
   :ref:`Lösung <king04l>`
 
@@ -94,27 +96,61 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 .. Idee nach Brenneke S.271
 
-* (**) Ein Fahrzeug startet mit einer Geschwindigkeit :math:`v_1 = \unit[30,0]{\frac{km}{h}}`
-  von Ort :math:`\rm{A}` nach Ort :math:`\rm{B}`. Gleichzeitig startet von Ort
-  :math:`\rm{B}` ein Fahrzeug mit :math:`v_2 = \unit[50,0]{\frac{km}{h}}` nach Ort
-  :math:`\rm{A}`. Die Strecke zwischen beiden Orten kann als geradlinig
-  angenommen werden, ihre Länge beträgt :math:`s = \unit[100]{km}`. An welcher
-  Stelle treffen sich die beiden Fahrzeuge?
+* (**) Ein Fahrzeug startet mit einer Geschwindigkeit :math:`v_1 =
+  \unitfrac[30,0]{km}{h}` von Ort :math:`\mathrm{A}` nach Ort
+  :math:`\mathrm{B}`. Gleichzeitig startet von Ort :math:`\mathrm{B}` ein
+  Fahrzeug mit :math:`v_2 = \unitfrac[50,0]{km}{h}` nach Ort :math:`\mathrm{A}`.
+  Die Strecke zwischen beiden Orten kann als geradlinig angenommen werden, ihre
+  Länge beträgt :math:`s = \unit[100]{km}`. An welcher Stelle treffen sich die
+  beiden Fahrzeuge?
 
   :ref:`Lösung <king05l>`
 
 ----
 
 
-.. rubric:: Geradlinige Bewegungen mit konstanter Beschleunigung
+.. _Aufgaben Mehrdimensionale Bewegungen mit konstanter Geschwindigkeit:
+
+Mehrdimensionale Bewegungen mit konstanter Geschwindigkeit
+----------------------------------------------------------
+
+Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Mehrdimensionale
+Bewegungen mit konstanter Geschwindigkeit <Mehrdimensionale Bewegungen mit
+konstanter Geschwindigkeit>`.
+
+----
+
+.. _kinz01:
+
+* (\*) Ein Schwimmer bewegt sich mit :math:`v_y=\unitfrac[0,5]{m}{s}` quer zur
+  Strömung eines Flusses. Er wird um :math:`s_x=\unit[35]{m}` abgetrieben, bis
+  er das :math:`s_y = \unit[100]{m}` entfernte Ufer erreicht. Wie groß ist die
+  (durchschnittliche) Strömungsgeschwindigkeit :math:`v_{\mathrm{x}}` des Flusses?
+
+  :ref:`Lösung <kinz01l>`
+
+----
+
+
+.. _Aufgaben Bewegungen mit konstanter Beschleunigung:
+
+Bewegungen mit konstanter Beschleunigung
+----------------------------------------
+
+Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Bewegungen mit
+konstanter Beschleunigung <Bewegungen mit konstanter Beschleunigung>`.
+
+.. _Aufgaben Eindimensionale Bewegungen mit konstanter Beschleunigung:
+
+.. rubric:: Eindimensionale Bewegungen mit konstanter Beschleunigung
 
 ----
 
 .. _kinb01:
 
 * (*) Welche durchschnittliche Beschleunigung erreicht ein Radfahrer, der aus
-  dem Stand (:math:`v _{\rm{0}} = \unit[0]{m/s}`) in einer Zeit von :math:`t =
-  \unit[8,0]{s}` eine Geschwindigkeit von :math:`v = \unit[30]{\frac{km}{h}}`
+  dem Stand (:math:`v_0 = \unitfrac[0]{m}{s}`) in einer Zeit von :math:`t =
+  \unit[8,0]{s}` eine Geschwindigkeit von :math:`v = \unitfrac[30]{km}{h}`
   erreicht?
 
   :ref:`Lösung <kinb01l>`
@@ -124,10 +160,10 @@ Bewegungen <Geradlinige Bewegungen>`.
 .. _kinb02:
 
 * (*) Wie groß ist die Beschleunigung eines Fahrzeugs, das in :math:`\unit[10]{s}`
-  von :math:`\unit[0]{km/h}` auf :math:`\unit[100]{km/h}` beschleunigt? Welche
-  Beschleunigung ergibt sich im umgekehrten Fall, wenn das Fahrzeug in
-  :math:`\unit[10]{s}` von :math:`\unit[100]{km/h}` auf :math:`\unit[0]{km/h}`
-  abbremst?
+  von :math:`\unitfrac[0]{km}{h}` auf :math:`\unitfrac[100]{km}{h}`
+  beschleunigt? Welche Beschleunigung ergibt sich im umgekehrten Fall, wenn das
+  Fahrzeug in :math:`\unit[10]{s}` von :math:`\unitfrac[100]{km}{h}` auf
+  :math:`\unitfrac[0]{km}{h}` abbremst?
 
   :ref:`Lösung <kinb02l>`
 
@@ -139,10 +175,10 @@ Bewegungen <Geradlinige Bewegungen>`.
 .. _kinb03:
 
 * (*) Wie groß ist die Beschleunigung :math:`a` eines Fahrzeugs, das in
-  :math:`t = \unit[5,0]{s}` von :math:`v _{\rm{1}} = \unit[20,0]{m/s}` auf
-  :math:`v _{\rm{2}} = \unit[36,5]{m/s}` beschleunigt? Wie groß ist der
+  :math:`\Delta t = \unit[5,0]{s}` von :math:`v_1 = \unitfrac[20,0]{m}{s}` auf
+  :math:`v_2 = \unitfrac[36,5]{m}{s}` beschleunigt? Wie groß ist der
   Beschleunigungswert im Vergleich zum Wert der Erdbeschleunigung :math:`(g =
-  \unit[9,81]{m/s^2})`, und welche Wegstrecke legt das Fahrzeug während des
+  \unitfrac[9,81]{m}{s^2})`, und welche Wegstrecke legt das Fahrzeug während des
   Beschleunigungsvorgangs zurück?
 
   :ref:`Lösung <kinb03l>`
@@ -151,12 +187,12 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 .. _kinb04:
 
-* (\**) Ein PKW fährt innerorts mit :math:`v_0 = \unit[40]{\frac{km}{h}}`.
+* (\**) Ein PKW fährt innerorts mit :math:`v_0 = \unitfrac[40]{km}{h}`.
   Plötzlich bemerkt der Fahrer in :math:`\Delta s = \unit[25]{m}` Entfernung ein
   Hindernis. Nach einer Reaktionszeit von :math:`\Delta t = \unit[1,0]{s}`
   bremst er den Wagen mit einer Beschleunigung von
-  :math:`a=\unit[-4,5]{\frac{m}{s^2}}` ab. Kommt der Wagen noch rechtzeitig vor
-  dem Hindernis zum Stillstand?
+  :math:`a=\unitfrac[-4,5]{m}{s^2}` ab. Kommt der Wagen noch rechtzeitig vor dem
+  Hindernis zum Stillstand?
 
   :ref:`Lösung <kinb04l>`
 
@@ -167,7 +203,7 @@ Bewegungen <Geradlinige Bewegungen>`.
 * (\**) Ein Badegast eines Schwimmbades springt aus einer Höhe von
   :math:`h=\unit[5,0]{m}` ins Wasser. Der Luftwiderstand kann hierbei
   vernachlässigt werden, die Erdbeschleunigung beträgt :math:`g =
-  \unit[9,81]{m/s^2}`. Wie lange dauert seine Flugzeit, und welche
+  \unitfrac[9,81]{m}{s^2}`. Wie lange dauert seine Flugzeit, und welche
   Geschwindigkeit hat er in dem Moment, in dem er ins Wasser eintaucht?
 
   :ref:`Lösung <kinb05l>`
@@ -177,12 +213,12 @@ Bewegungen <Geradlinige Bewegungen>`.
 .. _kinb06:
 
 * (\**) Ein Stein, der in einen Brunnen fallen gelassen wird, erfährt durch die
-  Erdanziehung eine Beschleunigung von :math:`(g = \unit[9,81]{m/s^2})`.
-  Anfangs hat der Stein eine Geschwindigkeit von :math:`v _{\rm{0}} =
-  \unit[0]{m/s}`; nach einer Zeit von :math:`t = \unit[1,7]{s}` kommt er auf
-  dem Grund des Brunnens auf. Welche Geschwindigkeit erreicht der Stein dabei,
-  wenn der Luftwiderstand vernachlässigt werden kann? Welche Strecke legt er
-  bis zum Aufprall zurück?
+  Erdanziehung eine Beschleunigung von :math:`(g = \unitfrac[9,81]{m}{s^2})`.
+  Anfangs hat der Stein eine Geschwindigkeit von :math:`v_0 =
+  \unitfrac[0]{m}{s}`; nach einer Zeit von :math:`t = \unit[1,7]{s}` kommt er
+  auf dem Grund des Brunnens auf. Welche Geschwindigkeit erreicht der Stein
+  dabei, wenn der Luftwiderstand vernachlässigt werden kann? Welche Strecke legt
+  er bis zum Aufprall zurück?
 
   :ref:`Lösung <kinb06l>`
 
@@ -192,38 +228,16 @@ Bewegungen <Geradlinige Bewegungen>`.
 
 * (\**) Wie groß ist die Beschleunigung, die ein Fahrer bei frontalem Aufprall
   eines Fahrzeugs gegen eine Mauer erfährt, wenn die Knautschzone :math:`\Delta
-  s = \unit[0,5]{m}` und die Aufprallgeschwindigkeit :math:`v = \unit[30]{km/h}`
+  s = \unit[0,5]{m}` und die Aufprallgeschwindigkeit :math:`v = \unitfrac[30]{km}{h}`
   beträgt?
   Wie groß ist die Beschleunigung, wenn das Fahrzeug nicht gegen eine Wand
   fährt, sondern frontal auf ein baugleiches und gleich schnell in die
   Gegenrichtung fahrendes Fahrzeug trifft?
 
   Wie groß ist die Beschleunigung, wenn die Aufprallgeschwindigkeit bei
-  :math:`\unit[50]{km/h}` oder :math:`\unit[100]{km/h}` liegt?
+  :math:`\unitfrac[50]{km}{h}` oder :math:`\unitfrac[100]{km}{h}` liegt?
 
   :ref:`Lösung <kinb07l>`
-
-----
-
-
-.. _Aufgaben Zusammengesetzte Bewegungen:
-
-Zusammengesetzte Bewegungen
----------------------------
-
-Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Zusammengesetzte
-Bewegungen <Zusammengesetzte Bewegungen>`.
-
-----
-
-.. _kinz01:
-
-* (\*) Ein Schwimmer bewegt sich mit :math:`v_y=\unit[0,5]{\frac{m}{s}}` quer zur
-  Strömung eines Flusses. Er wird um :math:`s_x=\unit[35]{m}` abgetrieben, bis
-  er das :math:`s_y = \unit[100]{m}` entfernte Ufer erreicht. Wie groß ist die
-  mittlere Strömungsgeschwindigkeit des Flusses?
-
-  :ref:`Lösung <kinz01l>`
 
 ----
 
@@ -262,7 +276,7 @@ Bewegungen <Kreisförmige Bewegungen>`.
 
 .. _kink03:
 
-* (\*) Ein PKW fährt mit einer Geschwindigkeit von :math:`\unit[90 ]{\frac{km}{h}}`.
+* (\*) Ein PKW fährt mit einer Geschwindigkeit von :math:`\unitfrac[90]{km}{h}`.
   Wie groß sind die Winkelgeschwindigkeit :math:`\omega` und die Drehzahl
   :math:`n` der Räder, wenn deren Durchmesser :math:`d=\unit[45]{cm}` beträgt?
 
@@ -273,9 +287,9 @@ Bewegungen <Kreisförmige Bewegungen>`.
 
 .. _kink04:
 
-* (\*) Wie groß ist die Radialbeschleunigung :math:`a _{\rm{\varphi}}` einer
+* (\*) Wie groß ist die Radialbeschleunigung :math:`a_{\mathrm{\varphi}}` einer
   Zentrifuge mit Radius :math:`r = \unit[1,00]{cm}`, wenn sie eine Drehzahl von
-  :math:`n = \unit[3\,000]{\frac{U}{min}}` aufweist?
+  :math:`n = \unitfrac[3\,000]{U}{min}` aufweist?
 
   :ref:`Lösung <kink04l>`
 
@@ -283,11 +297,11 @@ Bewegungen <Kreisförmige Bewegungen>`.
 
 .. _kink05:
 
-* (\**) Welche Radialbeschleunigung :math:`a _{\rm{\varphi}}` erfährt ein Körper,
-  der auf Höhe des Äquators mit der Erde (Radius :math:`r _{\rm{E}} =
-  \unit[6378]{km}`) mitrotiert? Wie groß ist :math:`a _{\rm{\varphi}}` bei einem
-  Körper, der sich auf Höhe des 45. nördlichen Breitengrades bzw. am Nordpol
-  befindet?
+* (\**) Welche Radialbeschleunigung :math:`a _{\mathrm{\varphi}}` erfährt ein
+  Körper, der auf Höhe des Äquators mit der Erde (Radius :math:`r_{\mathrm{E}} =
+  \unit[6378]{km}`) mitrotiert? Wie groß ist :math:`a_{\mathrm{\varphi}}` bei
+  einem Körper, der sich auf Höhe des 45. nördlichen Breitengrades bzw. am
+  Nordpol befindet?
 
   :ref:`Lösung <kink05l>`
 

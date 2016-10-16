@@ -1,4 +1,4 @@
-.. index:: Leistung, Watt
+.. index:: Leistung, Watt (Einheit)
 .. _Leistung:
 .. _Mechanische Leistung:
 

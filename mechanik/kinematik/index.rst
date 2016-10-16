@@ -12,7 +12,8 @@ werden.
     :maxdepth: 2
 
     raumkurve-und-massenpunkt.rst
-    geradlinige-bewegungen.rst
-    zusammengesetzte-bewegungen.rst
+    bewegungen-mit-konstanter-geschwindigkeit.rst
+    bewegungen-mit-konstanter-beschleunigung.rst
+    wurfbewegungen.rst
     kreisfoermige-bewegungen.rst
 

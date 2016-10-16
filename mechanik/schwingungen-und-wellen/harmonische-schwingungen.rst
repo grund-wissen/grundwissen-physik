@@ -98,7 +98,7 @@ Sinus-Funktion :eq:`eqn-harmonischer-oszillator-ansatz`, welche die Auslenkung
 
 .. math::
 
-    \ddot{s} = - \omega ^2 \cdot s
+    \ddot{s} = - \omega^2 \cdot s
 
 Dieses Ergebnis kann direkt in Gleichung :eq:`eqn-harmonischer-oszillator`
 eingesetzt werden. Es folgt:
@@ -106,29 +106,29 @@ eingesetzt werden. Es folgt:
 .. math::
     :label: eqn-harmonischer-oszillator-resultierende-gleichung
 
-    - \omega ^2 \cdot s + \frac{D}{m} \cdot s = 0
+    - \omega^2 \cdot s + \frac{D}{m} \cdot s = 0
 
 Auf der linken Seite kann :math:`s` ausgeklammert werden. Es ergibt sich:
 
 .. math::
 
-    \left( - \omega ^2 + \frac{D}{m} \right) \cdot s = 0
+    \left(-\omega^2 + \frac{D}{m} \right) \cdot s = 0
 
-Diese Gleichung ist einerseits erfüllt, wenn :math:`s = 0` gilt, d.h. der
-Körper sich in der Ruhelage befindet. Andererseits gilt das Gleichheitszeichen
-für jede beliebige Auslenkung, wenn der eingeklammerte Ausdruck als ganzes
-gleich Null ist. Somit gilt:
+Diese Gleichung ist einerseits erfüllt, wenn :math:`s = 0` gilt, der Körper sich
+also in der Ruhelage befindet. Andererseits gilt das Gleichheitszeichen für jede
+beliebige Auslenkung, wenn der eingeklammerte Ausdruck als ganzes gleich Null
+ist. Somit gilt:
 
 .. math::
 
-   -  \omega ^2 +  \frac{D}{m} = 0
+   -\omega^2 + \frac{D}{m} = 0
 
 und damit:
 
 .. math::
     :label: eqn-oszillator-frequenz
 
-    \omega ^2 = \frac{D}{m} \quad \Leftrightarrow \quad \omega = \sqrt{\frac{D}{m} }
+    \omega^2 = \frac{D}{m} \quad \Leftrightarrow \quad \omega = \sqrt{\frac{D}{m}}
 
 Die Oszillator-Frequenz des schwingenden Pendelkörpers ist somit umso größer,
 desto größer die Federkonstante ("Härte") :math:`D` der Schraubenfeder ist.
@@ -186,7 +186,7 @@ indem man die Gewichtskraft :math:`F_{\mathrm{G}}` des Pendelkörpers in zwei
 Schwingungsrichtung) zerlegt: Die Teilkraft :math:`F_{\mathrm{S}}` in
 Seilrichtung hält den Faden gespannt, die Teilkraft :math:`F_{\mathrm{R}}` in
 Schwingungsrichtung entspricht der rücktreibenden Kraft. Ist der
-Auslenkungswinkel :math:`\varphi` klein, so ist die Länge :math:`s ^{*}` des
+Auslenkungswinkel :math:`\varphi` klein, so ist die Länge :math:`s^{*}` des
 Kreisbogens näherungsweise gleich dem waagrechten Abstand :math:`s` des
 Pendelkörpers von der Ruhelage. [#]_
 
@@ -254,7 +254,7 @@ Luftwiderstands ebenfalls als harmonische Schwingungen beschrieben werden.
         <../../pics/mechanik/schwingungen-und-wellen/physikalisches-pendel.svg>`
 
 Die rücktreibende Größe ist in diesem Fall das Drehmoment :math:`\vec{M} =
-\vec{s} \times \vec{F} _{\mathrm{G}}` des Körperschwerpunkts bezüglich der Drehachse;
+\vec{s} \times \vec{F}_{\mathrm{G}}` des Körperschwerpunkts bezüglich der Drehachse;
 dabei bezeichnet :math:`s` den horizontalen Abstand des Schwerpunkts von der
 Ruhelage. Bei einem kleinen Auslenkungswinkel :math:`\varphi` kann für den
 Betrag des Drehmoments folgendes geschrieben werden:
@@ -273,7 +273,7 @@ ebenso folgender Zusammenhang:
 
     M = J \cdot \alpha = J \cdot \ddot{\varphi}
 
-Hierbei steht :math:`J` für das :ref:`Trägheitsmoment <Trägheitsmoment>` des
+Hierbei steht :math:`J` für das :ref:`Trägheitsmoment <Traegheitsmoment>` des
 schwingenden Gegenstands bezüglich dem Aufhängengepunkt und :math:`\alpha =
 \ddot{\varphi}` für die :ref:`Winkelbeschleunigung <Kreisförmige Bewegung mit
 konstanter Beschleunigung>`. Setzt man beide Terme gleich, erhält man folgende
@@ -332,7 +332,7 @@ Gleichung:
     1\right)
 
 Diese Gleichung kann beispielsweise zur :ref:`experimentellen Bestimmung des
-Trägheitsmoments <Experimentelle Bestimmung des Trägheitsmoments>` eines
+Trägheitsmoments <Experimentelle Bestimmung des Traegheitsmoments>` eines
 Gegenstands genutzt werden kann, da alle darin vorkommenden Größen konstant oder
 leicht messbar sind.
 

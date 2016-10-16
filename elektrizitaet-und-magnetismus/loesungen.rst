@@ -1,8 +1,8 @@
 
 .. _Lösungen Elektrizität und Magnetismus:
 
-Elektrizität und Magnetismus
-============================
+Lösungen zu Elektrizität und Magnetismus
+========================================
 
 .. _Lösungen Elektrische Ladung:
 
@@ -42,7 +42,7 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
 .. _eohm01l:
 
-* Die Spannung der Stromquelle beträgt :math:`U = \unit[5]{V}`, die
+* Die Stromquelle stellt eine Spannung von :math:`U = \unit[5]{V}` bereit, die
   resultierende Stromstärke :math:`I = \unit[0,2]{A}`. Aus dem Ohmschen Gesetz
   ergibt sich für den Widerstand :math:`R` des Stromkreises:
 
@@ -62,9 +62,9 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
 .. _eohm02l:
 
-* Die Spannung der Stromquelle beträgt :math:`U = \unit[12]{V}`, der
-  Widerstand des Stromkreises :math:`R = \unit[800]{\Omega }`. Aus dem
-  Ohmschen Gesetz ergibt sich für die Stromstärke :math:`I` im Stromkreis:
+* Die Stromquelle stellt eine Spannung von :math:`U = \unit[12]{V}` bereit, der
+  Widerstand des Stromkreises :math:`R = \unit[800]{\Omega }`. Aus dem Ohmschen
+  Gesetz ergibt sich für die Stromstärke :math:`I` im Stromkreis:
 
   .. math::
 
@@ -83,9 +83,9 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
 .. _eohm03l:
 
-* Die Spannung der Stromquelle beträgt :math:`U = \unit[230]{V}`, der Widerstand
-  des Stromkreises :math:`R = \unit[75]{\Omega }`. Aus dem Ohmschen Gesetz
-  ergibt sich für die Stromstärke :math:`I` im Stromkreis:
+* Die Stromquelle stellt eine Spannung von :math:`U = \unit[230]{V}` bereit, der
+  Widerstand des Stromkreises :math:`R = \unit[75]{\Omega }`. Aus dem Ohmschen
+  Gesetz ergibt sich für die Stromstärke :math:`I` im Stromkreis:
 
   .. math::
 
@@ -112,7 +112,8 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
       U = R \cdot I = \unit[50]{\Omega } \cdot \unit[0,3]{A} = \unit[15]{V}
 
-  Die Spannung der Stromquelle beträgt somit :math:`U = \unit[15]{V}`.
+  Die von der der Stromquelle bereitgestellte Spannung beträgt somit :math:`U =
+  \unit[15]{V}`.
 
   :ref:`Zurück zur Aufgabe <eohm04>`
 
@@ -120,7 +121,7 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
 .. _eohm05l:
 
-* Die Spannung der Stromquelle beträgt :math:`U = \unit[5]{V}`, die
+* Die Stromquelle stellt eine Spannung von :math:`U = \unit[5]{V}` bereit, die
   resultierende Stromstärke :math:`I = \unit[0,2]{A}`. Aus dem Ohmschen Gesetz
   ergibt sich für den Widerstand :math:`R` des Stromkreises:
 
@@ -137,6 +138,7 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
   :ref:`Zurück zur Aufgabe <eohm05>`
 
 ----
+
 
 .. rubric:: Spezifischer Widerstand
 
@@ -167,7 +169,7 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 * Der elektrische Widerstand :math:`R` des Kupferdrahtes lässt sich mit Hilfe
   der Formel :math:`R = \rho \cdot \frac{l}{A}` berechnen, indem man als Werte
   für die Länge :math:`l=\unit[11,4]{km} = \unit[11400]{m}`, für den
-  Querschnitt :math:`A = \pi \cdot r^2 = \pi \cdot (\unit[8]{mm})^2 \approx
+  Querschnitt :math:`A = \pi \cdot r^2 = \pi \cdot (\unit[8,0]{mm})^2 \approx
   \unit[201]{mm^2}` und :math:`\rho_{\mathrm{Cu}} = \unit[0,0156]{\Omega \cdot
   \frac{mm^2}{m} }` einsetzt:
 
@@ -236,19 +238,19 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 Lösungen zu Magnetismus
 -----------------------
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
 Magnetismus>` zum Abschnitt :ref:`Magnetismus <Magnetismus>`.
 
 ----
 
 .. _emag01l:
 
-*   Wenn der Nordpol der Magnetnadel -- geographisch gesehen -- nach Norden
-    zeigt, so muss sich dort der magnetische Südpol der Erde befinden; der
-    magnetische Nordpol der Erde befindet sich entsprechend (näherungsweise) am
-    geographischen Südpol.
+* Wenn der Nordpol der Magnetnadel -- geographisch gesehen -- nach Norden
+  zeigt, so muss sich dort der magnetische Südpol der Erde befinden; der
+  magnetische Nordpol der Erde befindet sich entsprechend (näherungsweise) am
+  geographischen Südpol.
 
-    :ref:`Zurück zur Aufgabe <emag01>`
+  :ref:`Zurück zur Aufgabe <emag01>`
 
 ----
 
@@ -266,58 +268,96 @@ Arbeit, Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
 
 .. _eael01l:
 
-*   Mit Hilfe der Definition der elektrischen Leistung :math:`P` kann die
-    fließende Stromstärke :math:`I` folgendermaßen ausgedrückt werden:
+* Mit Hilfe der Definition der elektrischen Leistung :math:`P` kann die
+  fließende Stromstärke :math:`I` folgendermaßen ausgedrückt werden:
 
-    .. math::
+  .. math::
 
-        P = U \cdot I \quad \Leftrightarrow \quad I = \frac{P}{U}
+      P = U \cdot I \quad \Leftrightarrow \quad I = \frac{P}{U}
 
-    Durch Einsetzen der Werte erhält man für eine
-    :math:`P = \unit[40]{W}`-Glühbirne, die mit :math:`U = \unit[230]{V}`
-    betrieben wird:
+  Durch Einsetzen der Werte erhält man für eine
+  :math:`P = \unit[40]{W}`-Glühbirne, die mit :math:`U = \unit[230]{V}`
+  betrieben wird:
 
-    .. math::
+  .. math::
 
-        I = \frac{P}{U} = \frac{\unit[40]{W}}{\unit[230]{V}} \approx
-        \unit[0,17]{A}
+      I = \frac{P}{U} = \frac{\unit[40]{W}}{\unit[230]{V}} \approx
+      \unit[0,17]{A}
 
-    Die Stromstärke in der Glühbirne beträgt somit rund :math:`\unit[0,17]{A}`.
-    Wird die Glühbirne :math:`t=\unit[6]{h}` lang betrieben, so wird folgende
-    Menge an elektrischer Energie in Licht bzw. Wärme umgewandelt:
+  Die Stromstärke in der Glühbirne beträgt somit rund :math:`\unit[0,17]{A}`.
+  Wird die Glühbirne :math:`t=\unit[6]{h}` lang betrieben, so wird folgende
+  Menge an elektrischer Energie in Licht und Wärme umgewandelt:
 
-    .. math::
+  .. math::
 
-        E = P \cdot t = \unit[40]{W} \cdot \unit[6]{h} = \unit[240]{W \cdot h} =
-        \unit[0,24]{kWh}
+      E = P \cdot t = \unit[40]{W} \cdot \unit[6]{h} = \unit[240]{W \cdot h} =
+      \unit[0,24]{kWh}
 
-    Es werden somit :math:`\unit[0,24]{kWh}` an elektrischer Energie benötigt.
+  Es werden somit :math:`\unit[0,24]{kWh}` an elektrischer Energie benötigt.
 
-    :ref:`Zurück zur Aufgabe <eael01>`
+  Die Ladungsmenge :math:`Q`, die innerhalb der angegebenen Zeit durch die
+  Glühbirne fließt, kann folgendermaßen berechnet werden:
+
+  .. math::
+
+      I = \frac{\Delta Q}{\Delta t} \quad \Longleftrightarrow \quad \Delta Q = I
+      \cdot \Delta t = \unit[0,17]{A} \cdot \unit[6 \cdot 3600]{s} =
+      \unit[3672]{C}
+
+  Es fließen somit innerhalb von sechs Stunden knapp \unit[3,7 \cdot 10^{3}]{C}
+  an elektrischer Ladung durch die Glühbirne.
+
+
+  :ref:`Zurück zur Aufgabe <eael01>`
 
 ----
 
 .. _eael02l:
 
-*   Mit Hilfe der Definition der elektrischen Leistung :math:`P` lässt sich die
-    fließende Stromstärke :math:`I` folgendermaßen ausgedrücken:
+* Mit Hilfe der Definition der elektrischen Leistung :math:`P` lässt sich die
+  fließende Stromstärke :math:`I` folgendermaßen ausgedrücken:
 
-    .. math::
+  .. math::
 
-        P = U \cdot I \quad \Leftrightarrow \quad I = \frac{P}{U}
+      P = U \cdot I \quad \Leftrightarrow \quad I = \frac{P}{U}
 
-    Durch Einsetzen der Werte erhält man für einen :math:`P =
-    \unit[1\,800]{W}`-Wasserkocher, der mit :math:`U = \unit[230]{V}` betrieben
-    wird:
+  Durch Einsetzen der Werte erhält man für einen :math:`P =
+  \unit[1\,800]{W}`-Wasserkocher, der mit :math:`U = \unit[230]{V}` betrieben
+  wird:
 
-    .. math::
+  .. math::
 
-        I = \frac{P}{U} = \frac{\unit[1\,800]{W}}{\unit[230]{V}} \approx
-        \unit[7,83]{A}
+      I = \frac{P}{U} = \frac{\unit[1\,800]{W}}{\unit[230]{V}} \approx
+      \unit[7,83]{A}
 
-    Die Stromstärke im Wasserkocher beträgt somit rund :math:`\unit[7,83]{A}`.
+  Die Stromstärke im Wasserkocher beträgt somit rund :math:`\unit[7,83]{A}`.
 
-    :ref:`Zurück zur Aufgabe <eael02>`
+  :ref:`Zurück zur Aufgabe <eael02>`
+
+----
+
+.. _eael03l:
+
+* Für die elektrische Leistung gilt :math:`P_{\mathrm{el}} = U \cdot I`. Für die
+  Stromstärke :math:`I` kann wiederum aufgrund des Ohmschen Gesetzes :math:`U =
+  R \cdot I` auch :math:`I = \frac{U}{R}` geschrieben werden. Damit ergibt sich:
+
+  .. math::
+
+      P_{\mathrm{el}} = U \cdot I = U \cdot \frac{U}{R} = \frac{U^2}{R}
+
+  Ist :math:`U_{\mathrm{neu}} = 1,25 \cdot U`, so folgt für das Verhältnis aus
+  :math:`P_{\mathrm{el,neu}}` zu :math:`P_{\mathrm{el}}`:
+
+  .. math::
+
+      \frac{P_{\mathrm{el,neu}}}{P_{\mathrm{el}}} =
+      \frac{\frac{U_{\mathrm{neu}}^2}{R}}{\frac{U^2}{R}} =
+      \frac{U_{\mathrm{neu}}^2}{U^2} = \frac{(1,25 \cdot U)^2}{U^2} \approx 1,56
+
+  Die elektrische Leistung nimmt somit um rund :math:`56\%` zu.
+
+    :ref:`Zurück zur Aufgabe <eael03>`
 
 ----
 

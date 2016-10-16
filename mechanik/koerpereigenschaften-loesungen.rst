@@ -202,7 +202,7 @@ Dichte>` zum Abschnitt :ref:`Dichte <Dichte>`.
         \frac{\unit[27,5]{g}}{\unit[39,6]{cm^3}} \approx \unit[0,69]{\frac{g}{cm^3} }
 
     Bei der Holzprobe könnte es sich nach Tabelle :ref:`Dichte einiger
-    Festkörper <tab-dichte-beispiele-festkörper>` somit um Buche handeln.
+    Festkörper <tab-dichte-beispiele-festkoerper>` somit um Buche handeln.
 
     :ref:`Zurück zur Aufgabe <kdi05>`
 

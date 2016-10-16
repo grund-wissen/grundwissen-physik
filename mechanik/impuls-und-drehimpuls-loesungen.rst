@@ -3,7 +3,7 @@
 Impuls und Drehimpuls
 =====================
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
 Impuls und Drehimpuls>` zum Abschnitt :ref:`Impuls und Drehimpuls <Impuls und
 Drehimpuls>`.
 

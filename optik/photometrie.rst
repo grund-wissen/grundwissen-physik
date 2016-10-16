@@ -103,6 +103,8 @@ sogar schwarze Bereiche). Auf diese Weise kann beobachtet werden, welche
 Lichtanteile "herausgefiltert" werden, was Rückschlüsse auf
 Materialeigenschaften oder chemische Substanzen zulässt.
 
+.. _Tag- und Nachtsehen:
+
 .. rubric:: Tag- und Nachtsehen
 
 Die Zäpfchen für die rote, grüne und blaue Farbwahrnehmung sind nicht
@@ -143,7 +145,7 @@ des Auges bei. Die höchste Empfindlichkeit verschiebt sich bei dem so genannten
 Lichttechnische Einheiten
 -------------------------
 
-.. index:: Candela
+.. index:: Candela (Einheit)
 
 In der Optik sind insgesamt acht lichttechnische Einheiten üblich. Aus
 historischen Gründen wird nach wie vor das Candela als Lichtstärke einer
@@ -260,7 +262,7 @@ empfunden wird wie eine Lichtquelle mit einer Lichtstärke von
 :math:`\unit[1]{Candela}`. [#]_
 
 
-.. index:: Lichtstrom, Lumen
+.. index:: Lichtstrom, Lumen (Einheit)
 
 * Für den Lichtstrom :math:`\varPhi_{\mathrm{\nu}}` gilt:
 
@@ -286,7 +288,7 @@ empfunden wird wie eine Lichtquelle mit einer Lichtstärke von
   :math:`(\unit{cd})`.
 
 
-.. index:: Beleuchtungsstärke, Lux
+.. index:: Beleuchtungsstärke, Lux (Einheit)
 
 * Für die Beleuchtungsstärke :math:`E_{\mathrm{\nu}}` gilt:
 
@@ -300,7 +302,7 @@ empfunden wird wie eine Lichtquelle mit einer Lichtstärke von
 
       \unit[1]{lx} = \unit[1]{\frac{cd \cdot sr}{m^2}}
 
-.. index:: Leuchtdichte, Nit
+.. index:: Leuchtdichte, Nit (Einheit)
 
 * Für die Leuchtdichte :math:`L_{\mathrm{\nu}}` gilt:
 

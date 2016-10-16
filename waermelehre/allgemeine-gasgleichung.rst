@@ -83,7 +83,7 @@ Masse :math:`m_{\mathrm{Mol}}` kennt:
 
 Die molare Masse :math:`m_{\mathrm{M}}` eines Gases kann anhand der relativen
 Atommasse :math:`u` eines Elements aus einem :ref:`Periodensystem der Elemente
-<gwc:Periodensystem der Elemente>` abgelesen werden. Bei Edelgasen, deren
+<Periodensystem der Elemente>` abgelesen werden. Bei Edelgasen, deren
 Teilchen aus einzelnen Atomen bestehen, ist die molare Masse mit der relativen
 Atommasse identisch. Bei Gasen wie Sauerstoff :math:`(\ce{O2})` oder Stickstoff
 :math:`(\ce{N2})`, deren Teilchen aus zwei-atomigen Molekülen bestehen,

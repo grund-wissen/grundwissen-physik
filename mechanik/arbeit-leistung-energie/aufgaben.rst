@@ -144,9 +144,9 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Wirkungsgrad
 
 .. _alew01:
 
-* (\*) Wie groß ist der Wirkungsgrad eines "idealen", d.h. reibungsfreien und
-  gewichtslosen, Flaschenzugs? Inwiefern gilt in diesem Fall die "Goldene
-  Regel der Mechanik"?
+* (\*) Wie groß ist der Wirkungsgrad eines "idealen" (also reibungsfreien und
+  gewichtslosen) Flaschenzugs? Inwiefern gilt in diesem Fall die "Goldene Regel
+  der Mechanik"?
 
   :ref:`Lösung <alew01l>`
 

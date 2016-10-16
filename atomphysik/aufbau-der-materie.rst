@@ -6,8 +6,8 @@ Aufbau der Materie
 Atome sind die kleinsten Bausteine eines jeden chemischen Stoffes. Sie können
 nicht weiter zerteilt werden, ohne ihre charakteristischen Eigenschaften des
 jeweiligen Stoffes zu verlieren. Ein Atom hat einen Durchmesser in der
-Größenordnung von :math:`\unit[1 \cdot 10 ^{-10}]{m} = \unit[1]{\r{A}}` (ein
-"Angström", benannt nach `Anders Angström
+Größenordnung von :math:`\unit[1 \cdot 10 ^{-10}]{m} = \unit[1]{\mathring{A}}`
+(ein "Angström", benannt nach `Anders Angström
 <http://de.wikipedia.org/wiki/Anders_Jonas_Ångström>`_).
 
 .. index:: Nukleon
@@ -26,17 +26,17 @@ wird der Atomkern von einer nahezu masselosen Hülle aus Elektronen.
       - Ladung
       - Masse
     * - Elektron
-      - :math:`e^-`
-      - :math:`q _{\rm{e}} = \unit[-1]{e}`
-      - :math:`m _{\rm{e}} = \unit[0,000 55]{u} = \unit[9,109 38 \cdot  10^{-31}]{kg}`
+      - :math:`e^{-}`
+      - :math:`q_{\mathrm{e}} = \unit[-1]{e}`
+      - :math:`m_{\mathrm{e}} = \unit[0,000\,55]{u} = \unit[9,109\,38 \cdot 10^{-31}]{kg}`
     * - Proton
       - :math:`p^+`
-      - :math:`q _{\rm{p}} = \unit[+1]{e}`
-      - :math:`m _{\rm{p}} = \unit[1,007 28]{u} = \unit[1,672 62 \cdot  10^{-27}]{kg}`
+      - :math:`q_{\mathrm{p}} = \unit[+1]{e}`
+      - :math:`m_{\mathrm{p}} = \unit[1,007\,28]{u} = \unit[1,672\,62 \cdot 10^{-27}]{kg}`
     * - Neutron
       - :math:`n^0`
-      - :math:`q _{\rm{n}} = 0`
-      - :math:`m _{\rm{n}} = \unit[1,008 66]{u} = \unit[1,674 93 \cdot  10^{-27}]{kg}`
+      - :math:`q_{\mathrm{n}} = 0`
+      - :math:`m_{\mathrm{n}} = \unit[1,008\,66]{u} = \unit[1,674\,93 \cdot 10^{-27}]{kg}`
 
 Mit :math:`\unit[1]{e} = \unit[1,6022 \cdot 10^{-19}]{C}` wird dabei die
 Elementarladung bezeichnet. Ein Proton bzw. Neutron ist jeweils um rund 1836 mal

@@ -101,9 +101,9 @@ Gesamtimpuls, der der Summe aller Einzelimpulse entspricht:
 .. math::
     :label: eqn-gesamtimpuls
 
-    \vec{p} _{\rm{ges}} = \sum_{i=1}^{n} m_{\rm{i}} \cdot \vec{v} _{\rm{i}} = m_1
-    \cdot \vec{v}_1 + m_2 \cdot \vec{v}_2 + \ldots + m _{\rm{n}} \cdot
-    \vec{v}_{\rm{n}}
+    \vec{p} _{\mathrm{ges}} = \sum_{i=1}^{n} m_{\mathrm{i}} \cdot \vec{v} _{\mathrm{i}} = m_1
+    \cdot \vec{v}_1 + m_2 \cdot \vec{v}_2 + \ldots + m_{\mathrm{n}} \cdot
+    \vec{v}_{\mathrm{n}}
 
 Wenn keine äußeren Kräfte auf das System wirken, dann ist der Gesamtimpuls
 konstant. Dieser empirisch gefundene Sachverhalt wird Impulserhaltung genannt
@@ -256,12 +256,12 @@ zurück in kinetische Energie gewandelt. Die Geschwindigkeiten der beteiligten
 Gegenstände sind nach einem teilelastischen Stoß folglich kleiner als bei einem
 elastischen Stoß.
 
-Für die Bewegungsenergien :math:`E _{\rm{v}}` und :math:`E _{\rm{n}}` vor und
+Für die Bewegungsenergien :math:`E_{\mathrm{v}}` und :math:`E_{\mathrm{n}}` vor und
 nach dem Stoß gilt:
 
 .. math::
 
-    \Delta E = (E _{\rm{v}} - E _{\rm{n}}) \cdot (1-k^2)
+    \Delta E = (E_{\mathrm{v}} - E_{\mathrm{n}}) \cdot (1-k^2)
 
 Die Zahl :math:`k` wird hierbei als Stoßzahl bezeichnet; sie kann mittels
 folgender Formel experimentell bestimmt werden:
@@ -288,7 +288,7 @@ bei der Beschreibung von Rotationsbewegungen die Einführung eines so genannten
 Drehimpulses als nützlich erwiesen.
 
 Der Drehimpuls eines Körpers ist von seinem :ref:`Trägheitsmoment
-<Trägheitsmoment>` und von seiner :ref:`Winkelgeschwindigkeit
+<Traegheitsmoment>` und von seiner :ref:`Winkelgeschwindigkeit
 <Winkelgeschwindigkeit>` abhängig und kennzeichnet die Wucht, die dieser Körper
 bei einer Rotationsbewegung aufweist.
 
@@ -362,9 +362,9 @@ Gesamt-Drehimpuls, welcher der Summe aller einzelnen Drehimpulse entspricht:
 .. math::
     :label: eqn-gesamt-drehimpuls
 
-    \vec{L} _{\rm{ges}} = \sum_{i=1}^{n} J _{\rm{i}} \cdot \vec{\omega} _{\rm{i}} = J
-    _{\rm{1}} \cdot \vec{\omega}_{\rm{1}} + J _{\rm{2}} \cdot \vec{\omega}_{\rm{2}} +
-    \ldots + J _{\rm{n}} \cdot \vec{\omega}_{\rm{n}}
+    \vec{L}_{\mathrm{ges}} = \sum_{i=1}^{n} J_{\mathrm{i}} \cdot
+    \vec{\omega}_{\mathrm{i}} = J_1 \cdot \vec{\omega}_1 + J_2 \cdot
+    \vec{\omega}_2 + \ldots +J_{\mathrm{n}} \cdot \vec{\omega}_{\mathrm{n}}
 
 Wenn keine äußeren Drehmomente auf das System wirken, dann ist der
 Gesamt-Drehimpuls konstant. Dieser empirisch gefundene Sachverhalt wird

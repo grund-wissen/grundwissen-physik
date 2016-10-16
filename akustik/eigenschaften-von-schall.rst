@@ -254,7 +254,7 @@ Schallwellen lassen sich in folgende drei Arten unterteilen:
     Lautstärke des Geräusches dabei sehr rasch abnimmt.
 
 
-.. index:: Dezibel, Schall; Schallpegel, Schall;Schallintensität
+.. index:: Dezibel (Einheit), Schall; Schallpegel, Schall; Schallintensität
 .. _Schallintensität und Schallpegel:
 
 Schallintensität und Schallpegel
@@ -501,7 +501,7 @@ Gehör bei Frequenzen im Bereich von :math:`\unit[3000]{Hz}` bis
 Leistungen von weniger als :math:`P_{\mathrm{s}}=\unit[10^{-12}]{W}`, um Schall
 wahrnehmen zu können.
 
-.. index:: Phon
+.. index:: Phon (Einheit)
 
 Gibt man eine Lautstärke unter Berücksichtigung der in Abbildung :ref:`Isophone
 Lautstärkepegel <fig-isophone-lautstaerkepegel>` dargestellten Hörkurven an, so

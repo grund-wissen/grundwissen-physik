@@ -35,11 +35,12 @@ wirkenden Drehmomente :math:`M_1 = r_1 \cdot F` und :math:`M_2 = r_2 \cdot F`
 verschieden.
 
 .. index:: Übersetzungsverhältnis
+.. _Übersetzungs- und Größenverhältnisse:
 
 .. rubric:: Übersetzungs- und Größenverhältnisse
 
 Für das so genannte "Übersetzungsverhältnis" eines Getriebes, d.h. das
-Verhältnis der wirkenden Drehmomente, gilt die folgende Formel: [#USV]_
+Verhältnis der wirkenden Drehmomente, gilt die folgende Formel: [#]_
 
 .. math::
     :label: eqn-übersetzungsverhältnis
@@ -50,29 +51,28 @@ Die wirkenden Drehmomente stehen somit im gleichen Größenverhältnis zeinander
 wie die Radien der aufeinander einwirkenden Zahnräder.
 
 Aufgrund der Zahnungen kann bei Zahnrädern kein Durchrutschen ("Schlupf")
-auftreten, d.h. die aufeinander einwirkenden Oberflächen legen stets den
+auftreten, die aufeinander einwirkenden Oberflächen legen also stets den
 gleichen Weg zurück. Dies hat zweierlei Konsequenzen:
 
 * Die Zahnungen von zueinander passenden Zahnrädern müssen stets gleich groß
   sein. Bei einem Zahnrad mit einem Vielfachen an Zahnungen muss somit auch der
-  Radius um ein entsprechendes Vielfaches größer sein. [#ZR1]_ Sind :math:`n_1`
+  Radius um ein entsprechendes Vielfaches größer sein. [#]_ Sind :math:`n_1`
   und :math:`n_2` die Anzahl an Zahnungen zweier Zahnräder aufeinander folgender
   Zahnräder und :math:`r_1` und :math:`r_2` die zugehörigen Radien, so gilt:
 
   .. math::
     :label: eqn-zahnräder-zahnungen
 
-      \frac{n_1}{n_2} = \frac{r_1}{r
-      _2}{\color{white}\,\;\ldots}
+      \frac{n_1}{n_2} = \frac{r_1}{r_2}{\color{white}\,\;\ldots}
 
   Die Anzahl der Zahnungen ist somit direkt proportional zum Radius der
   Zahnräder.
 
-* Kleine Zahnräder müssen sich in einem Getriebe entsprechend "schneller", d.h.
+* Kleine Zahnräder müssen sich in einem Getriebe entsprechend "schneller", also
   mit einer höheren Winkelgeschwindigkeit :math:`\omega` drehen als große
   Zahnräder. Sind :math:`\omega_1` und :math:`\omega_2` die
   Winkelgeschwindigkeiten zweier aufeinander folgender Zahnräder und :math:`r_1`
-  und :math:`r_2` die zugehörigen Radien, so gilt: [#ZR2]_
+  und :math:`r_2` die zugehörigen Radien, so gilt: [#]_
 
   .. math::
     :label: eqn-zahnräder-winkelgeschwindigkeiten
@@ -128,11 +128,10 @@ Riemens verschoben werden. Wird ein Riemen über zwei Riemenscheiben mit
 unterschiedlichem Durchmesser geführt, so lässt sich bei ausreichender Spannung
 des Riemens eine Kraft von der einen Riemenscheibe auf die andere übertragen.
 
-Die übertragene Kraft :math:`F` ist an allen Stellen des Riemens und auch an
-den Angriffspunkten der Riemenscheiben gleich groß; bei unterschiedlichen
-Radien :math:`r_1` und :math:`r_2` der Scheiben sind jedoch die
-wirkenden Drehmomente :math:`M_1` und :math:`M_2` verschieden
-groß.
+Die übertragene Kraft :math:`F` ist an allen Stellen des Riemens und auch an den
+Angriffspunkten der Riemenscheiben gleich groß; bei unterschiedlichen Radien
+:math:`r_1` und :math:`r_2` der Scheiben sind jedoch die wirkenden Drehmomente
+:math:`M_1` und :math:`M_2` verschieden groß.
 
 Erfolgt die Kraftübertragung von der kleineren Riemenscheibe auf die größere, so
 erfährt diese aufgrund ihres größeren Durchmessers auch ein entsprechend
@@ -179,7 +178,7 @@ werden, ohne dass ein Schlupf der Kette auftreten kann.
 
     .. rubric:: Anmerkungen:
 
-.. [#USV] Die Formel für das Übersetzungsverhältnis zweier Zahnräder kann
+.. [#] Die Formel für das Übersetzungsverhältnis zweier Zahnräder kann
     anhand der Formeln für die wirkenden Drehmomente :math:`M_1` und
     :math:`M_2` hergeleitet werden:
 
@@ -211,7 +210,7 @@ werden, ohne dass ein Schlupf der Kette auftreten kann.
         ..  \frac{M_1}{M_2} = \frac{r_1}{r_2}{\color{white}.}
 
 
-.. [#ZR1] Allgemein muss der Umfang eines Zahnrads stets einem Vielfachen der
+.. [#] Allgemein muss der Umfang eines Zahnrads stets einem Vielfachen der
     Länge :math:`l` einer einzelnen Zahnung entsprechen. Es gilt also:
 
     .. math::
@@ -220,11 +219,11 @@ werden, ohne dass ein Schlupf der Kette auftreten kann.
 
     Hierbei ist :math:`n` die Anzahl der Zahnungen eines Zahnrads.
 
-.. [#ZR2] Die aufeinander einwirkenden Zahnungen haben zwar eine gleiche
-    Bahngeschwindigkeit :math:`v`. Bei unterschiedlichen Radien :math:`r
-    _1` und :math:`r_2` der Zahnräder sind jedoch die
-    Winkelgeschwindigkeiten :math:`\omega_1` und :math:`\omega
-    _2` der beiden Zahnräder verschieden groß. Es gilt:
+.. [#] Die aufeinander einwirkenden Zahnungen haben zwar eine gleiche
+    Bahngeschwindigkeit :math:`v`. Bei unterschiedlichen Radien :math:`r_1` und
+    :math:`r_2` der Zahnräder sind jedoch die Winkelgeschwindigkeiten
+    :math:`\omega_1` und :math:`\omega_2` der beiden Zahnräder verschieden groß.
+    Es gilt:
 
     .. math::
 
@@ -232,14 +231,12 @@ werden, ohne dass ein Schlupf der Kette auftreten kann.
         v = \omega_1 \cdot r_1 \\[4pt]
         v = \omega_2 \cdot r_2
         \end{aligned} \; \right\}
-        \quad \Rightarrow \quad \omega_1 \cdot r_1 = \omega
-        _2 \cdot r_2
+        \quad \Rightarrow \quad \omega_1 \cdot r_1 = \omega_2 \cdot r_2
 
     Stellt man diese Gleichung mittels Division durch :math:`r_1` und
     :math:`\omega_2` um, so erhält man die Formel
     :eq:`eqn-zahnräder-winkelgeschwindigkeiten` für das Verhältnis der
     Winkelgeschwindigkeiten zweier aufeinander folgender Zahnräder.
-
 
 .. raw:: html
 

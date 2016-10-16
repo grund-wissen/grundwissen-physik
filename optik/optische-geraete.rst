@@ -422,10 +422,9 @@ Durchlaufen des Fernrohrs wiederum auf parallele Strahlen abgebildet.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu optischen
-    Geräten>`.
+    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben Optische
+    Geräte>`.
 
-..  Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche zu Lichtbrechung>` und
-..  :ref:`Übungsaufgaben <Aufgaben zu Lichtbrechung>`.
+..  Zu diesem Abschnitt gibt es :ref:`Versuche <Versuche Optische Geräte>` und
 
 

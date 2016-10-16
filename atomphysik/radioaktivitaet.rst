@@ -530,8 +530,8 @@ Ionendosis, Energiedosis und Äquivalentdosis
 Die durch Strahlung transportierte Energie ist sehr viel kleiner als
 :math:`\unit[1]{Joule}`; man verwendet daher als Energie-Einheit das so genannte
 Elektronenvolt :math:`(\unit{eV})`. Damit bezeichnet man diejenige Energiemenge,
-die ein Elektron beim Durchlaufen einer Spannungsdifferenz von
-:math:`\unit[1]{V}` aufnimmt. Für die Umrechnung gilt:
+die ein Elektron beim Durchlaufen einer Spannung von :math:`\unit[1]{V}`
+aufnimmt. Für die Umrechnung gilt:
 
 .. math::
 

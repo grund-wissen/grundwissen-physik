@@ -81,8 +81,8 @@ Arbeit>`.
       &= \unit[100]{kg} \cdot \unit[9,81]{\frac{N}{kg} } \cdot \unit[1]{m} =
       \unit[981]{N \cdot m} = \unit[981]{J}
 
-  Es ist somit eine Arbeit von :math:`\unit[981]{J}`, d.h. knapp
-  :math:`\unit[1]{kJ}`, nötig, um eine Masse von :math:`\unit[100]{kg}` einen
+  Es ist somit eine Arbeit von :math:`\unit[981]{J}` (also knapp
+  :math:`\unit[1]{kJ}`) nötig, um eine Masse von :math:`\unit[100]{kg}` einen
   Meter weit anzuheben.
 
   :ref:`Zurück zur Aufgabe <alea03>`
@@ -655,7 +655,7 @@ Energie>`.
 
       E_{\mathrm{kin, PKW,2}} = \frac{1}{2} \cdot m_{\mathrm{PKW}} \cdot v_2^2 &=
       \frac{1}{2} \cdot \unit[1\,000]{kg} \cdot \left(
-      \unit[27,78]{\frac{m}{s} } \right) ^2 \\ &= \unit[385\,864,2]{kg \cdot
+      \unit[27,78]{\frac{m}{s} } \right)^2 \\ &= \unit[385\,864,2]{kg \cdot
       \frac{m^2}{s^2} } = \unit[385\,864,2]{J} \approx \unit[385,9]{kJ}
 
   Durch den quadratischen Zusammenhang zwischen Geschwindigkeit und
@@ -703,7 +703,7 @@ Energie>`.
       \unit[9,81]{\frac{m}{s^2} }}  = \frac{\unit[400]{\frac{m^2}{s^2} }}{2
       \cdot \unit[9,81]{\frac{m}{s^2} }}  \approx  \unit[20,39]{m}
 
-  Ein Aufprall eines Fahrzeugs mit :math:`\unit[70]{\frac{km}{h} }` entspricht
+  Ein Aufprall eines Fahrzeugs mit :math:`\unit[70]{\frac{km}{h}}` entspricht
   somit einem ungebremsten Sturz aus etwa :math:`\unit[20]{m}` Höhe.
 
   :ref:`Zurück zur Aufgabe <alee03>`
@@ -734,8 +734,7 @@ Energie>`.
       \sqrt{\unit[98,1]{\frac{m^2}{s^2}}}  \approx  \unit[9,9]{\frac{m}{s}}
 
   Die Geschwindigkeit des Badegasts beim Eintauchen betraegt somit rund
-  :math:`\unit[9,9]{\frac{m}{s}}`, d.h. etwa
-  :math:`\unit[35,6]{\frac{km}{h}}`.
+  :math:`\unit[9,9]{\frac{m}{s}}`, also etwa :math:`\unit[35,6]{\frac{km}{h}}`.
 
   :ref:`Zurück zur Aufgabe <alee04>`
 

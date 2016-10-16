@@ -439,6 +439,10 @@ Das folgende Experiment bezieht sich auf den Abschnitt :ref:`Magnetismus
 .. :math:`\unit[2,0]{V}` Spannung anschließen und Stromstärke messen.
 .. Dann unter Spirale eine Kerze stellen, weiterhin Stromstärke messen!
 
+.. todo Zwei Eisendrähte als "Schienen" innerhalb eines Hufeisenmagnets, auf
+.. denen ein Metall-Stab entlangrollt, wenn eine elektrische Spannung angelegt
+.. wird (siehe Schmidt S.180)
+
 .. foo
 
 

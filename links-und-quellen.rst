@@ -33,18 +33,21 @@ Links und Quellen
 ..  * `Elektroniktutor <http://www.elektroniktutor.de/menue.html>`_
 ..  * `Electronicsplanet <http://www.electronicsplanet.ch/indexes/ix_schal.html>`_
 
+.. rubric:: Youtube-Videos
+
+* `Physik Videos von "Educational Videos and Lectures" <https://www.youtube.com/playlist?list=PLdId9dvaMGZPKd_QAinGKbCcRPx2jKRGH>`__
+* `The Simple Physics (en.) <https://www.youtube.com/user/TheSimplePhysics/playlists>`__
+
 
 .. rubric:: Lexika
 
 * `Technik-Lexikon <http://www.techniklexikon.net/>`_
-* `Schülerlexikon Physik (Duden, Sekundarstufe 1) <http://m.schuelerlexikon.de/mobile_physik/>`_
-* `Schülerlexikon Physik (Duden, Sekundarstufe 2) <http://m.schuelerlexikon.de/phy_abi2011/index.htm>`_
-
+* `Schülerlexikon Physik (Duden, Sekundarstufe) <https://www.lernhelfer.de/schuelerlexikon>`_
 
 .. rubric:: Versuchsbeschreibungen
 
 * `Versuchsbeschreibungen Physik (RWTH Aachen)
-  <http://web.physik.rwth-aachen.de/~hebbeker/lectures/versuche.html>`_
+  <https://web.physik.rwth-aachen.de/~hebbeker/lectures/versuche.html>`_
 * `Physikalische Experimente und Freihandversuche
   <http://www.ikg.rt.bw.schule.de/fh/schowalter/physik/experimente/exp.htm>`_
 * `Netexperimente Freihandversuche
@@ -66,7 +69,7 @@ Links und Quellen
         * `Eitech <http://www.eitech.de>`_
         * `Experimentis <http://experimentis-shop.de>`_
         * `Kids-and-Science <http://kids-and-science.rakuten-shop.de/>`_
-        * `Opitec <http://de.opitec.com/opitec-web/st/Home>`_
+        * `Opitec <http://de.opitec.com/>`_
 
 ..  http://www.hund-hersbruck.de/GAphysik_2.htm
 ..  auch Gwagglis
@@ -97,6 +100,12 @@ Links und Quellen
     ..  * `Reichelt <http://www.reichelt.de/>`_
     ..  * `Conrad <http://www.conrad.de/ce/>`_
     ..  * `ELV <http://www.elv.de/output/controller.aspx>`_
+
+.. rubric:: Chemie-Links
+
+* `Die Chemie-Schule <http://www.chemie-schule.de/index.php>`_
+* `ChemgaPedia (umfangreiche Chemie-Enzyklopädie mit Lehrgängen) <http://www.chemgapedia.de/vsengine/de/index.html>`_
+* `Netchemie Freihandversuche <http://netchemie.de/>`_
 
 .. _Quellen:
 
@@ -198,15 +207,15 @@ jeweiligen chemischen Elemente.
     :ref:`Schattenspiel 3 <Schattenspiel 3>` stammt aus [Barth1981]_ (Seite 27),
     ist jedoch auch in [Heepmann1987]_ (Seite 29) erläutert.
 
-    Eine ähnliche Aufgabe wie :ref:`Lichtstreuung-01 <Lichtstreuung-01>` findet
-    sich in [Heepmann1987]_ (Seite 12).
+.. Eine ähnliche Aufgabe wie :ref:`Lichtstreuung-01 <ore02>` findet
+.. sich in [Heepmann1987]_ (Seite 12).
 
 
 * Übungsaufgaben zur Mechanik:
 
-    Eine ähnliche Aufgabe wie :ref:`Dichte-04 <Dichte-04>` findet sich in
+    Eine ähnliche Aufgabe wie :ref:`kdi04 <kdi04>` findet sich in
     [Lindner1961]_ (Seite 12). Eine inhaltlich gleichartige Graphik wie bei der
-    Aufgabe :ref:`Energie-Erhaltung beim Trampolinspringen <Energie-06>` ist in
+    Aufgabe :ref:`Energie-Erhaltung beim Trampolinspringen <alee06>` ist in
     [DornBader1992]_ (Seite 56) abgedruckt.
 
 

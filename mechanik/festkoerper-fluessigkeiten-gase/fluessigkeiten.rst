@@ -1076,9 +1076,9 @@ der größte Teilwiderstand, bei einer Parallelschaltung geringer als der kleins
 Teilwiderstand.
 
 
-.. index::
-    single: Strömung; turbulente Strömung
-    single: Reynolds-Zahl
+.. index:: Reynolds-Zahl, Strömung; turbulente Strömung
+
+.. _Reynolds-Zahl:
 
 .. rubric:: Die Reynolds-Zahl
 

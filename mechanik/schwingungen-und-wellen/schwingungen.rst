@@ -107,7 +107,7 @@ Jede Schwingung kann durch folgende Größen beschrieben werden:
 * Die Schwingungsdauer :math:`T` gibt an, wie viel Zeit der schwingende Körper
   für eine vollständige Hin- und Herbewegung ("Periode") benötigt.
 
-.. index:: Frequenz, Hertz
+.. index:: Frequenz, Hertz (Einheit)
 
 Anstelle der Schwingungsdauer wird häufig auch mit der Frequenz :math:`f` einer
 Schwingung gerechnet. Sie gibt die Anzahl an Schwingungen :math:`n` an, die ein
@@ -137,7 +137,7 @@ Gedämpfte Schwingungen
 ----------------------
 
 Mechanische Schwingungen setzen sich, falls keine Reibungskräfte wirken,
-ungedämpft fort, d.h. ihre Amplitude bleibt zeitlich konstant. Reale
+ungedämpft fort; ihre Amplitude bleibt also zeitlich konstant. Reale
 Schwingungen hingegen kommen, sofern ihnen nicht regelmäßig Energie zugeführt
 wird, nach einer gewissen Zeit zum Erliegen. Einen Vorgang, bei denen die
 Amplitude stetig abnimmt, bezeichnet man als gedämpfte Schwingung.

@@ -3,7 +3,7 @@
 extensions = [
     'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
-    'sphinx.ext.pngmath',
+    'sphinx.ext.imgmath',
     ]
 
 templates_path = ['_templates']
@@ -13,8 +13,8 @@ master_doc     = 'index'
 project   = 'Grundwissen Physik'
 copyright = '2011-2016, Bernhard Grotz'
 
-version = '0.4.2b'
-release = '0.4.2b'
+version = '0.4.2d'
+release = '0.4.2d'
 
 pygments_style = 'sphinx'
 trim_footnote_reference_space = True
@@ -31,6 +31,8 @@ html_show_sourcelink = True
 html_show_copyright  = False
 html_show_sphinx     = False
 html_last_updated_fmt = '%d.%m.%Y'
+today_fmt = '%d.%m.%Y'
+
 html_favicon = 'favicon.ico'
 html_logo    = 'logo.png'
 html_search_language = 'en'
@@ -45,6 +47,7 @@ exclude_patterns = [
     ]
 
 latex_preamble = r'''
+\usepackage[T1]{fontenc}
 \usepackage[version=3]{mhchem}
 \usepackage{shadow}
 \usepackage{amsmath, units, cancel}
@@ -58,16 +61,30 @@ latex_preamble = r'''
 \clubpenalty  = 10000 % Disable single lines at the start of a page ("Schusterjungen")
 \widowpenalty = 10000 % Disable single lines at the end   of a page ("Hurenkinder")
 \displaywidowpenalty = 10000
+% Make '_' a mathrm macro:
+% \catcode`_=\active
+% \newcommand_[1]{\ensuremath{\sb{\mathrm{#1}}}}
+\usepackage{hyperref,url}
+\hypersetup{
+pdftitle={Grundwissen Physik},
+pdfsubject={Ein Lehrbuch über grundlegende physikalische Zusammenhänge},
+pdfauthor={Bernhard Grotz},
+pdfkeywords={Physik} {Lehrbuch} {Schule} {Übungsaufgaben} {Aufgaben} {Lösungen},
+}
 '''
 
+# https://tex.stackexchange.com/questions/9333/redefine-underscore-to-produce-roman-subscript
+
 latex_show_pagerefs = False
-pngmath_latex_preamble = latex_preamble
+
+imgmath_image_format='png'
+imgmath_latex_preamble = latex_preamble
 
 latex_elements = {
     'preamble': latex_preamble,
     'classoptions': 'oneside,openany',
-    'papersize': 'a4paper',
-    'pointsize': '12pt',
+    'papersize': 'a4paper,',
+    'pointsize': '12pt,',
     'fontpkg': '',
     'babel':    '\\usepackage[ngerman]{babel}',
     'fncychap': '',

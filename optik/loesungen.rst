@@ -18,10 +18,10 @@ des Lichts>`.
 .. _oau01l:
 
 * Licht breitet sich von der Sonne geradlinig in alle Richtungen unseres
-  Sonnensystems aus. Nur der schmale Lichtkegel, der dabei auf die Erde
-  trifft, wird von uns direkt wahrgenommen. Zusätzlich können wir das
-  Sonnenlicht wahrnehmen, wenn es auf andere Himmelskörper (v.a. Planeten und
-  Kometen) trifft.
+  Sonnensystems aus. Nur der schmale Lichtkegel, der dabei auf die Erde trifft,
+  wird von uns direkt wahrgenommen. Zusätzlich können wir das Sonnenlicht
+  wahrnehmen, wenn es auf andere Himmelskörper (vor allem Planeten und Kometen)
+  trifft.
 
   Da das übrige Sonnenlicht unser Auge nicht erreicht, erscheint uns das
   restliche Weltall als dunkel.
@@ -34,7 +34,7 @@ des Lichts>`.
 
 * Die Zeit, die Licht zum Durchqueren eines Zimmers benötigt, beträgt weniger
   als :math:`\unit[\frac{1}{10\,000\,000}]{s}`. Zwar wird Licht beim Durchqueren von
-  verschiedenen "optisch dichten" Stoffen (z.B. Wasser) etwas abgebremst, doch
+  verschiedenen "optisch dichten" Stoffen (beispielsweise Wasser) etwas abgebremst, doch
   ist es stets so schnell, dass es für eine konstante Beleuchtung ständig
   von einer Lichtquelle neu erzeugt werden muss.
 
@@ -148,9 +148,9 @@ Lichtbrechung>` zum Abschnitt :ref:`Lichtbrechung <Lichtbrechung>`.
 .. _obr03l:
 
 * Trifft ein Lichtstrahl von einem optisch dünnen Medium (Luft, :math:`n_1=1`)
-  auf ein optisch dichteres Medium (z.B. Glycerin, :math:`n_2 = 1,45`), so wird
-  er zur Senkrechten hin gebrochen. Als Zusammenhang zwischen den Winkeln des
-  einfallenden und gebrochenen Strahls gilt folgende Formel:
+  auf ein optisch dichteres Medium (beispielsweise Glycerin, :math:`n_2 =
+  1,45`), so wird er zur Senkrechten hin gebrochen. Als Zusammenhang zwischen
+  den Winkeln des einfallenden und gebrochenen Strahls gilt folgende Formel:
 
   .. math::
 
@@ -188,14 +188,16 @@ Lichtbrechung>` zum Abschnitt :ref:`Lichtbrechung <Lichtbrechung>`.
   der Sinus des Brechungswinkels :math:`\beta` ist um das :math:`1,16`-fache
   kleiner als der Sinus des Einfallswinkels :math:`\alpha`.
 
-  Ist der Einfallswinkel :math:`\alpha = 20 \degree`, so beträgt der Brechungswinkel
-  :math:`\beta` folglich:
+  Ist der Einfallswinkel :math:`\alpha = 20 \degree`, so beträgt der
+  Brechungswinkel :math:`\beta` folglich:
 
   .. math::
 
-      \sin{\beta} &= \frac{\sin{(\alpha)} \cdot n_1}{n_2} \quad \Leftrightarrow \quad \beta
-      = \text{asin}\left( \frac{\sin{(\alpha)} \cdot n_1}{n_2} \right)   \\[4pt]
-      \beta &= \text{asin}\left( \frac{\sin{(20 \degree)}}{1,16}\right) \approx 17\degree
+      \sin{\beta} &= \frac{\sin{(\alpha)} \cdot n_1}{n_2} \quad \Leftrightarrow
+      \quad \beta = \text{asin}\left( \frac{\sin{(\alpha)} \cdot n_1}{n_2}
+      \right) \\[4pt]
+      \beta &= \text{asin}\left( \frac{\sin{(20 \degree)}}{1,16}\right) \approx
+      17\degree
 
   Der Winkel :math:`\beta` des gebrochenen Lichtstrahls beträgt somit rund
   :math:`17\degree`.
@@ -216,9 +218,9 @@ Lichtbrechung>` zum Abschnitt :ref:`Lichtbrechung <Lichtbrechung>`.
       n_2 = \frac{\sin{\alpha}}{\sin{\beta}} \cdot n_1 =
       \frac{\sin{50,0}}{\sin{30,9\degree}} \cdot 1 \approx 1,49
 
-  Beim zweiten Übergang :math:`(\alpha_2 = 30,9\degree,\, \beta_2 = 33,6\degree)` wird
-  der Lichtstrahl von der Senkrechten weg gebrochen, folglich muss :math:`n_3 <
-  n_2` gelten. Mit :math:`n_2 \approx 1,49` folgt:
+  Beim zweiten Übergang :math:`(\alpha_2 = 30,9\degree,\, \beta_2 =
+  33,6\degree)` wird der Lichtstrahl von der Senkrechten weg gebrochen, folglich
+  muss :math:`n_3 < n_2` gelten. Mit :math:`n_2 \approx 1,49` folgt:
 
   .. math::
 
@@ -242,7 +244,8 @@ Lichtbrechung>` zum Abschnitt :ref:`Lichtbrechung <Lichtbrechung>`.
 
       \sin{\alpha_{\mathrm{max}}} &= \frac{n_2}{n_1} \quad \Leftrightarrow \quad
       \alpha_{\mathrm{max}} = \text{asin}\left( \frac{n_2}{n_1}\right) \\[4pt]
-      \alpha_{\mathrm{max}} &= \text{asin}\left( \frac{1}{2,4}\right) \approx 24,6\degree
+      \alpha_{\mathrm{max}} &= \text{asin}\left( \frac{1}{2,4}\right) \approx
+      24,6\degree
 
   Der Grenzwinkel :math:`\alpha_{\mathrm{max}}` beim Übergang eines Lichtstrahls
   von Diamant in Luft beträgt somit rund :math:`24,6\degree`. Trifft ein Lichstrahl

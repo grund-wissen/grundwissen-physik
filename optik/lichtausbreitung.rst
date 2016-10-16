@@ -216,10 +216,10 @@ Die Lichtdurchlässigkeit
 
 Licht durchlässige Gegenstände gibt es auf zweierlei Arten:
 
-* Durchsichtige Körper (z.B. Fensterglas) lassen Licht so hindurch, dass
-  Gegenstände hinter ihnen zu erkennen sind.
-* Durchscheinende Körper (z.B. Mattglas oder ein Blatt Papier) lassen Licht so
-  hindurch, dass Gegenstände hinter ihnen nicht zu erkennen sind.
+* Durchsichtige Körper (beispielsweise Fensterglas) lassen Licht so hindurch,
+  dass Gegenstände hinter ihnen zu erkennen sind.
+* Durchscheinende Körper (beispielsweise Mattglas oder ein Blatt Papier) lassen
+  Licht so hindurch, dass Gegenstände hinter ihnen nicht zu erkennen sind.
 
 .. figure::
     ../pics/optik/lichtdurchlaessigkeit.png
@@ -239,8 +239,8 @@ Die Lichtdurchlässigkeit eines Körpers hängt vom Stoff und von der Schichtdic
 ab. Wasser beispielsweise ist in dünnen Schichten Licht durchlässig, in dicken
 nicht. In großen Meerestiefen herrscht völlige Dunkelheit.
 
-Licht undurchlässige Körper (z.B. Metall, Karton usw.) lassen kein Licht
-hindurch, sie sind undurchsichtig.
+Licht undurchlässige Körper (beispielsweise  Metall, Karton usw.) lassen kein
+Licht hindurch, sie sind undurchsichtig.
 
 
 .. index:: Schatten
@@ -275,8 +275,7 @@ durch die Bündelachse und Randstrahlen dargestellt werden.
 
         :download:`SVG: Blende <../pics/optik/blende-lichtstrahlen.svg>`
 
-.. index::
-    single: Schatten; Schlagschatten
+.. index:: Schatten; Schlagschatten
 .. _Schlagschatten:
 
 .. rubric:: Der Schlagschatten
@@ -298,9 +297,7 @@ Schatten.
 
         :download:`SVG: Schlagschatten <../pics/optik/schatten-schlagschatten.svg>`
 
-.. index::
-    single: Schatten; Kernschatten
-    single: Schatten; Halbschatten
+.. index:: Schatten; Kernschatten, Schatten; Halbschatten
 .. _Kern- und Halbschatten:
 
 .. rubric:: Kern- und Halbschatten

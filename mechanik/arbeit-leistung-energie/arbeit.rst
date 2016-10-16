@@ -1,6 +1,6 @@
 .. meta::
    :description: Mechanische Arbeit
-   :keywords: Arbeit, Joule
+   :keywords: Arbeit, Joule (Einheit)
 
 .. index:: Arbeit
 .. _Mechanische Arbeit:
@@ -79,8 +79,7 @@ Arten mechanischer Arbeit
 Bei mechanischen Prozessen ist sind die folgenden Arten mechanischer Arbeit von
 entscheidender Bedeutung:
 
-.. index::
-    single: Arbeit; Hubarbeit
+.. index:: Arbeit; Hubarbeit
 .. _Hubarbeit:
 
 .. rubric:: Die Hubarbeit
@@ -106,8 +105,7 @@ Die Hubarbeit kann mit Hilfe der Formel für die Gewichtskraft
 g \cdot h` geschrieben werden.
 
 
-.. index::
-    single: Arbeit; Reibungsarbeit
+.. index:: Arbeit; Reibungsarbeit
 .. _Reibungsarbeit:
 
 .. rubric:: Die Reibungsarbeit
@@ -126,18 +124,17 @@ Reibungskraft eine gleich große Gegenkraft entgegenwirken.
 
     W_{\mathrm{Reib}} = F_{\mathrm{R}} \cdot s
 
-Beim gleichzeitigen Auftreten mehrerer Reibungskräfte (z.B. Rollreibung und
-Luftwiderstand) entspricht :math:`F_{\mathrm{R}}` der Summe aller auftretenden
-Reibungskräfte.
+Beim gleichzeitigen Auftreten mehrerer Reibungskräfte (beispielsweise
+Rollreibung und Luftwiderstand) entspricht :math:`F_{\mathrm{R}}` der Summe
+aller auftretenden Reibungskräfte.
 
 
-.. index::
-    single: Arbeit; Spannarbeit
+.. index:: Arbeit; Spannarbeit
 .. _Spannarbeit:
 
 .. rubric:: Die Spannarbeit
 
-Die Spannkraft, die ein elastischer Körper (z.B. eine Schraubenfeder) einer
+Die Spannkraft, die ein elastischer Körper (beispielsweise eine Schraubenfeder) einer
 Stauchung oder Streckung entgegensetzt, ist nicht konstant, sondern nimmt
 gleichmäßig mit der Auslenkung zu:
 
@@ -159,10 +156,11 @@ Dies gilt allgemein für elastische Verformungen.
 
 *Definition:*
 
-    Die zur Verformung eines elastischen Körpers (z.B. einer Schraubenfeder)
-    nötige Spannarbeit :math:`W_{\mathrm{Spann}}` ist proportional zur
-    durchschnittlichen Spannkraft :math:`\bar{F} _{\mathrm{S}} = \frac{1}{2}
-    \cdot F_{\mathrm{S}}` und der dazugehörigen Auslenkung :math:`s`:
+    Die zur Verformung eines elastischen Körpers (beispielsweise einer
+    Schraubenfeder) nötige Spannarbeit :math:`W_{\mathrm{Spann}}` ist
+    proportional zur durchschnittlichen Spannkraft :math:`\bar{F} _{\mathrm{S}}
+    = \frac{1}{2} \cdot F_{\mathrm{S}}` und der dazugehörigen Auslenkung
+    :math:`s`:
 
 .. math::
     :label: eqn-spannarbeit
@@ -176,8 +174,7 @@ Die Spannarbeit kann mit Hilfe der Formel für die Spannkraft
 experimentell zu bestimmende) Federkonstante des Körpers angibt.
 
 
-.. index::
-    single: Arbeit; Beschleunigungsarbeit
+.. index:: Arbeit; Beschleunigungsarbeit
 .. _Beschleunigungsarbeit:
 
 .. rubric:: Die Beschleunigungsarbeit
@@ -203,8 +200,7 @@ Beschleunigungsarbeit :math:`W_{\mathrm{B}} = \frac{1}{2} \cdot m \cdot (v_2^2 -
 v_1^2)`.
 
 
-.. index::
-    single: Arbeit; Rotationsarbeit
+.. index:: Arbeit; Rotationsarbeit
 .. _Rotationsarbeit:
 
 .. rubric:: Die Rotationsarbeit
@@ -215,7 +211,7 @@ Die zugehörige Arbeit heißt Rotationsarbeit.
 *Definition:*
 
     Die Rotationsarbeit :math:`W_{\mathrm{rot}}` eines zunächst ruhenden Körpers
-    mit :ref:`Trägheitsmoment <Trägheitsmoment>` :math:`J` ist proportional zum
+    mit :ref:`Trägheitsmoment <Traegheitsmoment>` :math:`J` ist proportional zum
     Quadrat der :ref:`Winkelgeschwindigkeit <Winkelgeschwindigkeit>`
     :math:`\omega`, die dieser erreicht:
 

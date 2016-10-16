@@ -52,6 +52,7 @@ im freien Fall gleich schnell zum Erdmittelpunkt hin beschleunigt.
 
 
 .. index:: Gravitation
+.. _Gravitation:
 
 Auf der Erdoberfläche gilt für den Ortsfaktor, wie sich aus dem allgemeinen
 Gravitationsgesetz ableiten lässt, näherungsweise :math:`g = |\vec{g}| =
@@ -335,7 +336,8 @@ näherungsweise folgende Formel: [#LW]_
 
 .. math::
 
-    F_{\mathrm{L}} = \frac{1}{2} \cdot c_{\mathrm{w}} \cdot \rho_{\mathrm{L}} \cdot A \cdot v^2
+    F_{\mathrm{L}} = \frac{1}{2} \cdot c_{\mathrm{w}} \cdot \rho_{\mathrm{L}}
+    \cdot A \cdot v^2
 
 Bei üblichen Straßenfahrzeugen kann der Widerstandsbeiwert im optimalen Falle
 :math:`0,09` betragen, bei Omnibusssen sind Werte bis zu :math:`0,6` üblich.
@@ -376,8 +378,7 @@ entsprechend höheren Dichte von Wasser :math:`(\rho_{\mathrm{Wasser}} =
 \unit[1000]{kg/m^3})` gerechnet werden.
 
 
-.. index::
-    single: Kraftarten; Spannkraft
+.. index:: Kraftarten; Spannkraft
 .. _Spannkraft:
 
 Die Spannkraft
@@ -425,8 +426,9 @@ Die Radialkraft
 Ein Körper bewegt sich aufgrund seiner Masse stets entlang einer geradlinigen
 Bahn, wenn keine Kraft auf ihn einwirkt. Eine :ref:`kreisförmige Bewegung
 <Kreisförmige Bewegung>` ist somit nur möglich, wenn eine Kraft den Körper auf
-der Kreisbahn hält, d.h. ihn kontinuierlich zum Kreismittelpunkt hin
-beschleunigt. Diese Kraft wird Radialkraft bzw. Zentripetalkraft genannt.
+der Kreisbahn hält, also ihn kontinuierlich zum Kreismittelpunkt hin
+beschleunigt. Diese Kraft wird Radialkraft beziehungsweise Zentripetalkraft
+genannt.
 
 ..
     Pic: Kreis Bahngeschwindigkeit links links oben, zeigt nach rechts oben,
@@ -466,13 +468,14 @@ Technisch wird die Radialkraft beispielsweise in Zentrifugen genutzt. Dabei wird
 ein zu trennendes Gemisch an Substanzen, die sich beispielsweise in einem
 Reagenzglas befinden, in eine Kreisbewegung mit hoher Winkelgeschwindigkeit und
 kleinem Bahnradius versetzt. Das Stoffgemisch wird dabei gemäß seiner
-Dichteanteile aufgetrennt, die "schwereren" Substanzen bewegen sich dabei
+Dichte-Anteile aufgetrennt, die "schwereren" Substanzen bewegen sich dabei
 aufgrund ihrer Trägheit nach außen und lagern sich so am Boden des rotierenden
 Gefäßes ab. Diese Schichtung bleibt auch nach einem Abschalten der Zentrifuge
 bestehen, da letztlich nichts anderes als ein Sedimentationsvorgang
 stattgefunden hat -- nur ein sehr schneller. Die durch die Radialkraft bewirkte
-Radialbeschleunigung kann mit Zentrifugen bzw. Ultrazentrifugen ein :math:`100`-
-bis :math:`250\,000`-faches der Erdbeschleunigung :math:`g` betragen.
+Radialbeschleunigung kann mit Zentrifugen beziehungsweise Ultrazentrifugen ein
+:math:`100`- bis :math:`250\,000`-faches der Erdbeschleunigung :math:`g`
+betragen.
 
 ..  Damit lassen sich auch hochmolekulare Stoffe (beispielsweise Eiweiße)
 ..  auftrennen.

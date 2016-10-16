@@ -14,10 +14,10 @@ Elektrische Arbeit und Energie
 Zur Bereitstellung einer bestimmten Menge an elektrischer Energie muss durch
 einen Stromgenerator ein entsprechender Betrag an Arbeit aufgewendet werden.
 
-Zur Herleitung einer Formel für die elektrische Arbeit :math:`W _{\rm{el}}` kann
-man die Definitionen der elektrischen Spannung :math:`U` und der elektrischen
-Stromstärke :math:`I` miteinander kombinieren. Aus der Definition der
-elektrischen Spannung folgt:
+Zur Herleitung einer Formel für die elektrische Arbeit :math:`W_{\mathrm{el}}`
+kann man die Definitionen der elektrischen Spannung :math:`U` und der
+elektrischen Stromstärke :math:`I` miteinander kombinieren. Aus der Definition
+der elektrischen Spannung folgt:
 
 .. math::
 
@@ -47,22 +47,23 @@ die elektrische Arbeit:
 .. math::
     :label: eqn-elektrische-arbeit
 
-    W _{\rm{el}} = U \cdot I \cdot t
+    W_{\mathrm{el}} = U \cdot I \cdot t
 
 Die aufgebrachte elektrische Arbeit kann entweder direkt genutzt oder als
-elektrische Energie :math:`E _{\rm{el}}` in Kondensatoren und Akkumulatoren
-gespeichert werden :math:`(E _{\rm{el}} = W _{\rm{el}})`. [#E1]_
+elektrische Energie :math:`E_{\mathrm{el}}` in Kondensatoren und Akkumulatoren
+gespeichert werden :math:`(E_{\mathrm{el}} = W_{\mathrm{el}})`. [#E1]_
 
 *Einheit:*
 
     Die elektrische Arbeit sowie die elektrische Energie wird in Joule
     :math:`(\unit[1]{J} = \unit[1]{W \cdot s})` oder gebräuchlicher in
-    Wattstunden :math:`(\unit[]{Wh})` bzw. Kilowattstunden
-    :math:`(\unit[]{kWh})` angegeben. Dabei gelten folgende Zusammenhänge:
+    Wattstunden :math:`(\unit{Wh})` bzw. Kilowattstunden
+    :math:`(\unit{kWh})` angegeben. Dabei gelten folgende Zusammenhänge:
 
 .. math::
 
-    \unit[1]{J} &= \unit[1]{W \cdot s} = \unit[1]{V} \cdot \unit[1]{A} \cdot \unit[1]{s} \\
+    \unit[1]{J} &= \unit[1]{W \cdot s} = \unit[1]{V} \cdot \unit[1]{A} \cdot
+    \unit[1]{s} \\
     \unit[1]{Wh} &= \unit[60 \cdot 60]{W \cdot s} = \unit[3\,600]{Ws}
 
 .. math::
@@ -75,19 +76,20 @@ gespeichert werden :math:`(E _{\rm{el}} = W _{\rm{el}})`. [#E1]_
 Elektrische Leistung
 --------------------
 
-Die elektrische Leistung, die ein Stromgenerator aufbringt oder ein Verbraucher
-benötigt, ist gleich der je Zeit verrichteten elektrischen Arbeit:
+Die elektrische Leistung :math:`P_{\mathrm{el}}`, die ein Stromgenerator
+aufbringt oder ein Verbraucher benötigt, ist gleich der je Zeit :math:`\Delta t`
+verrichteten elektrischen Arbeit :math:`\Delta W_{\mathrm{el}}`:
 
 .. math::
 
-    P _{\rm{el}} = \frac{W _{\rm{el}}}{t} = \frac{U \cdot I \cdot t}{t} = U
-    \cdot I
+    P_{\mathrm{el}} = \frac{\Delta W_{\mathrm{el}}}{\Delta t} = \frac{U \cdot I
+    \cdot \Delta t}{\Delta t} = U \cdot I
 
 Damit lässt sich die elektrische Leistung folgendermaßen definieren:
 
 *Definition:*
 
-    Die elektrische Leistung :math:`P _{\rm{el}}`, die von einem elektronischen
+    Die elektrische Leistung :math:`P_{\mathrm{el}}`, die von einem elektronischen
     Bauteil oder Stromkreis umgesetzt wird, ist proportional zu der am Bauteil
     anliegenden Spannung :math:`U` sowie der durch das Bauteil fließenden
     Stromstärke :math:`I`.
@@ -95,17 +97,16 @@ Damit lässt sich die elektrische Leistung folgendermaßen definieren:
 .. math::
     :label: eqn-elektrische-leistung
 
-    P _{\rm{el}} = U \cdot I
-
+    P _{\mathrm{el}} = U \cdot I
 
 *Einheit:*
 
     Ebenso wie die mechanische Leistung wird die elektrische Leistung in der
-    Einheit Watt :math:`(\unit[]{W})` angegeben. Dabei gilt: [#L1]_
+    Einheit Watt :math:`(\unit{W})` angegeben. Dabei gilt: [#L1]_
 
 .. math::
 
-    \unit[1]{W} = \unit[1]{A} \cdot \unit[1]{s}
+    \unit[1]{W} = \unit[1]{V} \cdot \unit[1]{A}
 
 Auf fast allen Elektro-Geräten findet sich neben der Angabe der zulässigen
 Betriebsspannung auch eine Angabe einer damit verbundenen elektrischen
@@ -114,6 +115,78 @@ bei der angegebenen Spannung gelten; da eine höhere Spannung in der Regel auch
 eine höhere Stromstärke zur Folge hat, nimmt die Leistung mit zunehmender
 Spannung überproportional zu.
 
+
+
+.. _Exkurs Belastbarkeit von elektrischen Bauteilen:
+.. _Belastbarkeit von elektrischen Bauteilen:
+
+.. rubric:: Exkurs: Belastbarkeit von elektrischen Bauteilen
+
+Mittels des Ohmschen Gesetzes :math:`U = R \cdot I` kann der obige Zusammenhang
+:math:`P_{\mathrm{el}} = U \cdot I` auch auf zwei weitere Arten ausgedrückt
+werden:
+
+* Setzt man für die Stromstärke :math:`I = \frac{U}{R}` in die
+  Leistungs-Gleichung :eq:`eqn-elektrische-leistung` ein, so erhält man:
+
+  .. math::
+      :label: eqn-leistung-spannungsabhaengig
+
+      P = U \cdot I = U \cdot \frac{U}{R} = \frac{U^2}{R}
+
+* Setzt man für die Spannung :math:`U = R \cdot I` in die Leistungs-Gleichung
+  :eq:`eqn-elektrische-leistung` ein, so erhält man:
+
+  .. math::
+      :label: eqn-leistung-stromabhaengig
+
+      P = U \cdot I = (R \cdot I) \cdot I = R \cdot I^2
+
+Bei beiden Darstellungen erkennt man, dass die Leistung bei konstant bleibendem
+Widerstand quadratisch mit einer zunehmenden Spannung beziehungsweise
+Stromstärke ansteigt.
+
+*Beispiel:*
+
+* Auf einem regelbaren Demo-Widerstand ist ein maximaler Widerstandswert von
+  :math:`R_{\mathrm{max}} = \unit[50]{\Omega}` angegeben und eine maximale
+  Belastbarkeit von :math:`P_{\mathrm{max}} = \unit[0,5]{W}`.
+
+  - Wie groß darf die am Widerstand anliegende Spannung :math:`U_{\mathrm{max}}`
+    eines regelbaren Netzgerätes maximal sein, wenn kein zusätzliches Bauteil im
+    Stromkreis eingebaut ist?
+
+  - Auf welchen Wert :math:`U` muss die Spannung gesenkt werden, wenn der
+    Widerstand auf :math:`R = \unit[25]{\Omega}` eingestellt ist?
+
+  Die jeweils maximal mögliche Spannung kann bei einem gegebenen Widerstand
+  und einer gegebenen maximalen Leistung berechnet werden, indem man die Formel
+  :eq:`eqn-leistung-spannungsabhaengig` nach :math:`U` auflöst. Man erhält für
+  :math:`P_{\mathrm{max}} = \unit[0,5]{W}` und :math:`R=\unit[50]{\Omega}`:
+
+  .. math::
+
+      P_{\mathrm{max}} = \frac{U_{\mathrm{max}}^2 }{R_{\mathrm{max}}} \quad
+      \Longleftrightarrow \quad U_{\mathrm{max}} = \sqrt{P_{\mathrm{max}} \cdot
+      R_{\mathrm{max}}} \\ U_{\mathrm{max}} = \sqrt{\unit[0,5]{W} \cdot
+      \unit[50]{\Omega}} = \unit[5,0]{V}
+
+  Die Einheit ergibt sich aus :math:`\unit{W} = \unit{V \cdot A}` und
+  :math:`\unit{\Omega} = \unit{\frac{V}{A}}`; als Produkt ergibt also die
+  Einheit :math:`\unit{W \cdot \Omega} = \unit{V^2}`.
+
+  Reduziert man den Widerstand auf :math:`R=\unit[25]{\Omega}`, so darf bei
+  einer gleichen maximalen Belastbarkeit nur folgende Spannung :math:`U` angelegt werden:
+
+  .. math::
+
+      U = \sqrt{P_{\mathrm{max}} \cdot R} = \sqrt{\unit[0,5]{W} \cdot
+      \unit[25]{\Omega}} \approx \unit[3,54]{V}
+
+  Bei einem geringeren Widerstandswert muss also auch die Spannung geringer
+  gewählt werden, um das Bauteil nicht zu überlasten.
+
+.. todo Leistungshyperbel?
 
 .. _Stromerzeugung und Stromverbrauch:
 
@@ -176,6 +249,6 @@ gleichermaßen von Bedeutung.
 
 .. hint::
 
-    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben zu elektrischer
+    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben Elektrische
     Arbeit, Energie und Leistung>`.
 

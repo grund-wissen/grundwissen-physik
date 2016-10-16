@@ -114,12 +114,12 @@ genannte "barometrische Höhenformel": [#]_
 .. math::
     :label: eqn-barometrische-hoehenformel
 
-    p = p_0 \cdot e ^{-\frac{h}{h _{\rm{s}}}}
+    p = p_0 \cdot e^{-\frac{h}{h_{\mathrm{s}}}}
 
-Hierbei ist :math:`p_0` der Luftdruck auf Meereshöhe und :math:`h _{\rm{s}}`
+Hierbei ist :math:`p_0` der Luftdruck auf Meereshöhe und :math:`h_{\mathrm{s}}`
 eine so genannte "Skalenhöhe", die angibt, ab wie vielen Metern der Druck auf
 :math:`1/e \approx 36,8\%` des ursprünglichen Werts :math:`p_0` abfällt. Auf der
-Erde ist :math:`h _{\rm{s}} \approx \unit[8,0]{km}`. Die Höhe, bei welcher der
+Erde ist :math:`h_{\mathrm{s}} \approx \unit[8,0]{km}`. Die Höhe, bei welcher der
 Luftdruck bzw. die Luftdichte nur noch halb so groß ist, liegt damit etwa bei
 :math:`\unit[5,5]{km}`.
 
@@ -128,12 +128,13 @@ Vakuumpumpen genutzt, mit deren Hilfe das zu evakuierende Luftvolumen
 schrittweise verdünnt wird; im umgekehrten Fall kann mittels Kompressoren oder
 Luftpumpen das Luftvolumen kontinuierlich verkleinert werden. Das Luftvolumen
 kann jedoch nicht unendlich vergrößert oder verkleinert werden. Die Grenzen für
-elektrische Vakuumpumpen liegen daher bei etwa :math:`\unit[10 ^{-2}]{mbar}`;
-mit mehrstufigen Hochvakuum-Pumpen können Drücke von rund :math:`\unit[10
-^{-3}]{mbar}`) erreicht werden, mit Ultrahochvakuum-Pumpen sind sogar Drücke von
-:math:`\unit[10 ^{-7}]{mbar}` möglich. [#]_ Im umgekehrten Anwendungsfall kann man mit
-Luftpumpen bis zu :math:`\unit[5]{bar}`, mit Kompressoren oder guten
-Stand-Luftpumpen bis zu :math:`\unit[12]{bar}` erreichen.
+elektrische Vakuumpumpen liegen daher bei etwa :math:`\unit[10^{-2}]{mbar}`;
+mit mehrstufigen Hochvakuum-Pumpen können Drücke von rund
+:math:`\unit[10^{-3}]{mbar}`) erreicht werden, mit Ultrahochvakuum-Pumpen sind
+sogar Drücke von :math:`\unit[10^{-7}]{mbar}` möglich. [#]_ Im umgekehrten
+Anwendungsfall kann man mit Luftpumpen bis zu :math:`\unit[5]{bar}`, mit
+Kompressoren oder guten Stand-Luftpumpen bis zu :math:`\unit[12]{bar}`
+erreichen.
 
 
 ..  Die Volumenveränderungsarbeit
@@ -159,27 +160,29 @@ Stand-Luftpumpen bis zu :math:`\unit[12]{bar}` erreichen.
 
 ..  einen Druck von :math:`p` und ein Volumen von :math:`V` hat,
 
+.. _Auftrieb in Gasen:
+
 Auftrieb in Gasen
 -----------------
 
-Für die (statische) Auftriebskraft :math:`F _{\rm{A}}` in Gasen gilt die gleiche
+Für die (statische) Auftriebskraft :math:`F_{\mathrm{A}}` in Gasen gilt die gleiche
 Formel wie für die :ref:`Auftriebskraft in Flüssigkeiten <Schwimmen, Sinken und
 Schweben>`:
 
 .. math::
     :label: eqn-auftriebskraft-gase
 
-    F _{\rm{A}} = \rho _{\rm{G}} \cdot g \cdot V _{\rm{K}}
+    F_{\mathrm{A}} = \rho_{\mathrm{G}} \cdot g \cdot V_{\mathrm{K}}
 
-Hierbei bezeichnet :math:`V _{\rm{K}}` das Volumen des Körpers, :math:`g =
-\unit[9,81]{\frac{N}{kg}}` die Erdbeschleunigung und :math:`\rho _{\rm{G}}` die
-Dichte des Gases. Da die Dichte von Luft :math:`\rho _{\rm{Luft}} \approx
-\unit[1,3]{\frac{kg}{m^3}}` unter Normalbedingungen rund
-:math:`1000`-mal kleiner ist als die Dichte von Wasser :math:`(\rho
-_{\rm{Wasser}} = \unit[1000]{\frac{kg}{m^3}})`, können in Luft nur Körper mit
-einer sehr geringen (durchschnittlichen) Dichte aufsteigen. Die Steighöhe
-beispielsweise von Ballonen wird zudem dadurch begrenzt, dass die Dichte der
-Luft mit zunehmender Höhe abnimmt.
+Hierbei bezeichnet :math:`V_{\mathrm{K}}` das Volumen des Körpers, :math:`g =
+\unit[9,81]{\frac{N}{kg}}` die Erdbeschleunigung und :math:`\rho_{\mathrm{G}}`
+die Dichte des Gases. Da die Dichte von Luft :math:`\rho_{\mathrm{Luft}} \approx
+\unit[1,3]{\frac{kg}{m^3}}` unter Normalbedingungen rund :math:`1000`-mal
+kleiner ist als die Dichte von Wasser :math:`(\rho_{\mathrm{Wasser}} =
+\unit[1000]{\frac{kg}{m^3}})`, können in Luft nur Körper mit einer sehr geringen
+(durchschnittlichen) Dichte aufsteigen. Die Steighöhe beispielsweise von
+Ballonen wird zudem dadurch begrenzt, dass die Dichte der Luft mit zunehmender
+Höhe abnimmt.
 
 
 
@@ -201,20 +204,20 @@ Luft mit zunehmender Höhe abnimmt.
     idealen Gases>` gilt :math:`p \cdot V = n \cdot R \cdot T`, wobei :math:`n`
     die (konstante) Stoffmenge in Mol und :math:`R = \unit[8,31]{\frac{J}{mol
     \cdot K}}` die allgemeine Gaskonstante ist. Die Stoffmenge :math:`n` ist
-    über die Beziehung :math:`n = \frac{m}{m _{\rm{Mol}}}` mit der Masse
-    :math:`m` des Gases verknüpft, wobei :math:`m _{\rm{Mol}}` die
+    über die Beziehung :math:`n = \frac{m}{m_{\mathrm{Mol}}}` mit der Masse
+    :math:`m` des Gases verknüpft, wobei :math:`m_{\mathrm{Mol}}` die
     stoffspezifische molare Masse des Gases angibt. Es gilt also:
 
     .. math::
 
-        p \cdot V = \frac{m}{m _{\rm{Mol}}} \cdot R \cdot T \quad
-        \Longleftrightarrow \quad p = \frac{m}{V} \cdot \frac{R \cdot T}{m
-        _{\rm{Mol}}}
+        p \cdot V = \frac{m}{m_{\mathrm{Mol}}} \cdot R \cdot T \quad
+        \Longleftrightarrow \quad p = \frac{m}{V} \cdot \frac{R \cdot
+        T}{m_{\mathrm{Mol}}} 
 
     Der Term :math:`\frac{m}{V}` auf der rechten Gleichungsseite gibt die Dichte
-    des Gases an. Da :math:`R` und :math:`m _{\rm{Mol}}` konstante Werte sind,
-    gilt bei konstanter Temperatur :math:`\frac{p}{\rho} = \text{konstant}`,
-    also :math:`\frac{p_1}{\rho_1} = \frac{p_2}{\rho_2}`.
+    des Gases an. Da :math:`R` und :math:`m_{\mathrm{Mol}}` konstante Werte
+    sind, gilt bei konstanter Temperatur :math:`\frac{p}{\rho} =
+    \text{konstant}`, also :math:`\frac{p_1}{\rho_1} = \frac{p_2}{\rho_2}`.
 
 .. [#] Bei der Herleitung der barometrischen Höhenformel wird vom
     :ref:`Schweredruck in Flüssigkeiten <Schweredruck>` ausgegangen; für den
@@ -244,7 +247,7 @@ Luft mit zunehmender Höhe abnimmt.
 
     .. math::
 
-        \Delta p = - \frac{p}{p_0} \cdot \rho _0 \cdot g \cdot \Delta h
+        \Delta p = - \frac{p}{p_0} \cdot \rho_0 \cdot g \cdot \Delta h
 
     Dividiert man beide Seiten dieser Gleichung durch :math:`p`, so folgt:
 
@@ -271,7 +274,7 @@ Luft mit zunehmender Höhe abnimmt.
     .. math::
 
         \int_{p_0}^{p} \frac{\mathrm{d} p}{p} = -\frac{\rho_0}{p_0} \cdot g
-        \cdot \int_{0}^{h} \mathrm{d}  h
+        \cdot \int_{0}^{h} \mathrm{d} h
 
     Das Integral auf der linken Seite kann ebenfalls unmittelbar berechnet
     werden, wenn man :math:`p(h)` als Funktion der Höhe auffasst. Auf der linken
@@ -289,12 +292,12 @@ Luft mit zunehmender Höhe abnimmt.
     \frac{p}{p_0}\right)}` geschrieben werden. Um die resultierende
     :ref:`Logarithmus-Gleichung <gwm:Lösen von Logarithmusgleichungen>`
     aufzulösen, kann man auf beiden Seiten der Gleichung :math:`e` mit den
-    jeweigen Termen potenzieren. Wegen :math:`e ^{\ln{(x)}} = x` folgt
+    jeweigen Termen potenzieren. Wegen :math:`e^{\ln{(x)}} = x` folgt
     schließlich:
 
     .. math::
 
-        p = p_0 \cdot e ^{- \frac{\rho_0}{p_0} \cdot g \cdot h}
+        p = p_0 \cdot e^{- \frac{\rho_0}{p_0} \cdot g \cdot h}
 
 .. [#] Dieser Druck ist erheblich, wird aber von uns Menschen kaum wahrgenommen,
     da wir einen gleich großen Druck auch in unseren Lungen haben und daher

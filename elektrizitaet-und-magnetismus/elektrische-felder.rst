@@ -185,8 +185,8 @@ _{\mathrm{el}} \cdot d = Q_{\mathrm{p}}\cdot E \cdot d` verrichtet werden, wobei
 :math:`d` den Plattenabstand bezeichnet. Befindet sich die Ladung anschließend
 an der positiven Seite, so besitzt sie eine ebenso große potentielle Energie
 :math:`E_{\mathrm{pot}}`. Als elektrische Spannung :math:`U` bezeichnet man eben
-diese potentielle Energie, bezogen auf die Größe :math:`Q_{\mathrm{p}}` der
-Probeladung:
+diese potentielle Energie gegenüber der negativen Plattenseite, bezogen auf die
+Größe :math:`Q_{\mathrm{p}}` der Probeladung:
 
 .. math::
     :label: eqn-definition-spannung
@@ -226,6 +226,7 @@ entlang der Oberfläche, da die zusätzlichen Elektronen ebenfalls frei
 beweglich sind und sich gegenseitig abstoßen.
 
 .. index:: Faradayischer Käfig
+.. _Faradayischer Käfig:
 
 Bringt am ein Stück Metall in ein elektrisches Feld ein, so bewirkt dieses eine
 Verschiebung der frei beweglichen Elektronen zur positiven Platte hin; an der
@@ -248,7 +249,6 @@ aber entgegengesetzt gerichtetes Feld einstellt.
         :download:`SVG: Elektrische Influenz
         <../pics/elektrizitaet-magnetismus/plattenkondensator-influenz.svg>`
 
-
 Im Inneren des Metalls überlagern sich das äußere und das induzierte
 elektrische Feld. Da beide Felder gleich groß, aber entgegengesetzt gerichtet
 sind, bleibt das Innere des Metalls somit feldfrei. Dies gilt nicht nur massive
@@ -256,6 +256,7 @@ metallische Körper, sondern auch für metallische Hohlkörper. In der Technik
 stellen beispielsweise Autokarosserien so genannte "Faradayische Käfige" dar,
 welche die Insassen vor elektrischen Feldern und damit auch vor Stromflüssen,
 beispielsweise Blitzen, schützen. [#]_
+
 
 .. index:: Orientierungspolarisation, Elektrischer Dipol
 .. _Orientierungspolarisation:
@@ -356,7 +357,6 @@ Dielektrikum gilt also allgemein:
     E = \frac{1}{\varepsilon_{\mathrm{r}} \cdot \varepsilon_0} \cdot \frac{Q}{A} =
     \frac{1}{\varepsilon_{\mathrm{r}}} \cdot \frac{U}{d}
 
-
 .. _Dielektrizitätszahl:
 
 Der Zahlenwert :math:`\varepsilon_{\mathrm{r}}` ist eine Materialkonstante, die als
@@ -392,13 +392,14 @@ Dielektrizitätszahl des Vakuums.
       - :math:`80`
 
 Wird ein Kondensator durch eine an die Platten angeschlossene Stromquelle
-aufgeladen, so erfolgt dies so lange, bis die Spannung :math:`U` im Kondensator
-genauso groß ist wie die anliegende äußere Spannung. Durch ein Einbringen eines
-Dielektrikum wird allerdings das elektrische Feld und somit auch die Spannung im
-Kondensator gesenkt; somit fließt weitere Ladung auf die Kondensatorplatten
-nach, bis erneut die Spannung im Kondensator (mit Dielektrikum) so groß ist wie
-die anliegende Spannung. Ein Plattenkondensator kann also mit Dielektrikum eine
-größere Ladungsmenge speichern als ohne.
+aufgeladen, so erfolgt dies so lange, bis die elektrische Spannung :math:`U`
+zwischen den Kondensator-Platten genauso groß ist wie die anliegende äußere
+Spannung. Durch ein Einbringen eines Dielektrikum wird allerdings das
+elektrische Feld und somit auch die Spannung zwischen den Kondensator-Platten
+gesenkt; somit fließt weitere Ladung auf die Kondensatorplatten nach, bis erneut
+die Spannung innerhalb des Kondensators (mit Dielektrikum) so groß ist wie die
+anliegende äußere Spannung. Ein Plattenkondensator kann also mit Dielektrikum
+eine größere Ladungsmenge speichern als ohne.
 
 
 .. index:: Kapazität
@@ -526,8 +527,8 @@ der kleinen Tröpfchengröße sind hierbei die statische Auftriebskraft
 
 Wird hingegen ein elektrisches Feld angelegt, so kann die (nur auf elektrisch
 geladene Öltröpfchen) wirkende elektrische Kraft :math:`F_{\mathrm{el}}` die
-Gewichtskraft ausgleichen; bei einer ausreichend großen Spannung können die
-geladenen Teilchen sogar wieder nach oben steigen.
+Gewichtskraft ausgleichen; bei einer ausreichend großen elektrischen Spannung
+können die geladenen Teilchen sogar wieder nach oben steigen.
 
 Für die wirkenden Kräfte gilt:
 
@@ -620,6 +621,7 @@ werden.
 Für technische Anwendungen ist insbesondere die Bewegung von Elektronen in
 elektrischen Feldern von Bedeutung.
 
+
 .. _Bewegung in Richtung des elektrischen Feldes:
 
 .. rubric:: Bewegung in Richtung des elektrischen Feldes
@@ -658,7 +660,7 @@ ist.
   :math:`\unit{V} = \unit{\frac{W}{A}}` zu :math:`\unit{C \cdot V} =
   \unit{\frac{W \cdot A \cdot s}{A}} = \unit{W \cdot s} = \unit{J}`.
 
-.. index:: Elektronenvolt
+.. index:: Elektronenvolt (Einheit)
 .. _Elektronenvolt:
 
 Da die Energiemengen bei einzelnen Elektronen ziemlich gering sind, ist es
@@ -754,7 +756,7 @@ elektrische Feld konstant beschleunigt. Somit muss gelten:
 .. math::
 
     v_{\mathrm{y}} &= a \cdot \Delta t \\
-    s_{\mathrm{y}} = \frac{1}{2} \cdot a \cdot t^2
+    s_{\mathrm{y}} &= \frac{1}{2} \cdot a \cdot t^2
 
 Die Beschleunigung :math:`a`, die ein geladenes Teilchen im elektrischen Feld
 erfährt, kann man wegen :math:`a = \frac{F_{\mathrm{el}}}{m}` als :math:`a =
@@ -765,7 +767,8 @@ ein freies Elektron, so ist :math:`q` gleich der Elementarladung
 .. math::
 
     v_{\mathrm{y}} &= \frac{q_{\mathrm{e}} \cdot E}{m} \cdot \Delta t \\
-    s_{\mathrm{y}} = \frac{1}{2} \cdot \frac{q_{\mathrm{e}} \cdot E}{m} \cdot t^2
+    s_{\mathrm{y}} &= \frac{1}{2} \cdot \frac{q_{\mathrm{e}} \cdot E}{m} \cdot
+    t^2
 
 Um die Geschwindigkeit beziehungsweise die Position des Teilchens nicht
 in Abhängigkeit von der Zeit, sondern in Abhängigkeit von der horizontalen
@@ -823,6 +826,8 @@ zweier Spannungssignale auf einem Schirm sichtbar zu machen.
     somit auf die anliegende Spannung hat. Wird die Spannung im Kondensator
     durch eine äußere Spannungsquelle aufrecht erhalten, kann :math:`U` während
     des Vorgangs als konstant angesehen werden.
+
+.. index:: Ionisierungsenergie
 
 .. [#] Auch die Bindungsenergien der Elektronen an den Atomkern werden in
     Elektronenvolt angegeben. Beispielsweise genügt bei den meisten chemischen

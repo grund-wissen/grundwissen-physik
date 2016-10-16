@@ -103,7 +103,7 @@ Spannung und Widerstand <Stromstärke, Spannung und Widerstand>`.
 .. _espw02:
 
 * (\*) Wie groß ist der elektrische Widerstand eines Kupferdrahts mit einem
-  Radius von :math:`r=\unit[8]{mm}` und einer Länge von
+  Radius von :math:`r=\unit[8,0]{mm}` und einer Länge von
   :math:`l=\unit[11,4]{km}`? Der spezifische Widerstand von Kupfer beträgt
   :math:`\rho_{\mathrm{Cu}} = \unit[0,0156]{\Omega \cdot \frac{mm^2}{m} }`.
   Welchen Widerstand hätte ein baugleicher Draht aus Aluminium
@@ -164,8 +164,9 @@ Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
 
 * (\*) Wie groß ist die Stromstärke, die durch eine
   :math:`\unit[40]{W}`-Glühbirne fließt, die mit :math:`\unit[230]{V}` Spannung
-  betrieben wird? Welche Energiemenge wird dabei bei einer Betriebsdauer von
-  :math:`t = \unit[6,0]{h}` verbraucht?
+  betrieben wird? Welche Energiemenge :math:`E` wird dabei bei einer
+  Betriebsdauer von :math:`t = \unit[6,0]{h}` benötigt? Welche Ladungsmenge
+  :math:`Q` fließt in dieser Zeit durch die Glühbirne? Q = I \cdot t
 
   :ref:`Lösung <eael01l>`
 
@@ -178,6 +179,17 @@ Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
   von :math:`\unit[230]{V}` ergibt?
 
   :ref:`Lösung <eael02l>`
+
+----
+
+.. _eael03:
+
+* (\**) Die an einem elektrischen Heizgerät anliegende Spannung :math:`U` soll
+  um :math:`25\%` erhöht werden. Um wie viel Prozent steigt dadurch die
+  elektrische Leistung des Heizgeräts, wenn der Heizwiderstand :math:`R` als
+  konstant angenommen werden kann?
+
+  :ref:`Lösung <eael03l>`
 
 ----
 

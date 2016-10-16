@@ -54,7 +54,7 @@ Gesetzmäßigkeit etwa so formuliert:
 .. epigraph::
 
     "Jeder Körper verharrt im Zustand der Ruhe oder der gleichförmigen Bewegung,
-    solange keine äußeren Kräfte an ihm wirken." [#N1]_
+    solange keine äußeren Kräfte an ihm wirken." [#]_
 
 Wenn sich ein Körper mit einer festen Geschwindigkeit geradlinig bewegt, dann
 bleibt der Betrag und die Richtung der Bewegung konstant, bis eine Kraft eine
@@ -129,7 +129,7 @@ usw.) benannt.
       - Betrag der Kraft in :math:`\unit[]{N}`
     * - Gewichtskraft eines Normalbriefes
       - :math:`0,2`
-    * - Gewichtskraft einre Tafel Schokolade
+    * - Gewichtskraft einer Tafel Schokolade
       - :math:`1`
     * - Gewichtskraft von einem Liter Wasser
       - :math:`10`
@@ -145,9 +145,7 @@ usw.) benannt.
       - :math:`2 \cdot 10^{20}`
 
 
-.. index::
-    single: Kraft; Gegenkraft
-    single: Newtonsche Gesetze; Kraft und Gegenkraft
+.. index:: Kraft; Gegenkraft, Newtonsche Gesetze; Kraft und Gegenkraft
 .. _Kraft und Gegenkraft:
 
 .. rubric:: Das 3. Newtonsche Gesetz ("Kraft und Gegenkraft")
@@ -190,9 +188,7 @@ können sich somit nicht gegenseitig aufheben.
 
 .. todo Ergänzung: Kein Antrieb ohne Kraft-und-Gegenkraft-Prinzip!
 
-.. index::
-    single: Kraft; Wirkungslinie
-    single: Kraft; Angriffspunkt
+.. index:: Kraft; Wirkungslinie, Kraft; Angriffspunkt
 .. _Betrag, Wirkungslinie und Angriffspunkt:
 
 Betrag, Wirkungslinie und Angriffspunkt
@@ -231,14 +227,13 @@ beliebig verschoben werden, ohne dass sich an der physikalischen Wirkung der
 Kraft etwas ändert.
 
 
-.. index::
-    single: Kraftübertragung
+.. index:: Kraftübertragung
 .. _Kraftübertragung mit Seil, Stange und Kette:
 
 .. rubric:: Kraftübertragung mit Seil, Stange und Kette
 
 In vielen Fällen ist es nützlich, eine Kraft "aus der Entfernung" wirken zu
-lassen, d.h. ihren Angriffspunkt entlang ihrer Wirkungslinie zu verschieben.
+lassen, also ihren Angriffspunkt entlang ihrer Wirkungslinie zu verschieben.
 
 * Mittels Seilen und Ketten lassen sich Zugkräfte auf einen anderen Körper
   übertragen,
@@ -259,21 +254,19 @@ Kräfte können neben der Geschwindigkeit auch die Form eines Körpers
 verändern. Je nach Material des Körpers sind Verformungen auf zweierlei Arten
 möglich:
 
-.. index::
-    single: Verformung; elastisch
+.. index:: Verformung; elastisch
 
 * *Elastische* Verformung:
 
     Bei einem elastischen Vorgang bildet sich die Verformung eines Körpers
     zurück, wenn die verformende Kraft nachlässt. Ein typisches elastisches
-    Material ist Gummi, doch auch viele Metalle (z.B. Stahl) wirken bei nicht zu
+    Material ist Gummi, doch auch viele Metalle (beispielsweise Stahl) wirken bei nicht zu
     großer Krafteinwirkung elastisch.
 
     *Beispiel:* Ein Gummiball nimmt, wenn keine Kräfte mehr auf ihn einwirken,
     wieder seine ursprüngliche Form ein.
 
-.. index::
-    single: Verformung; plastisch
+.. index:: Verformung; plastisch
 
 * *Plastische* Verformung:
 
@@ -285,7 +278,7 @@ möglich:
     Knetmasse bleibt bestehen.
 
 Es gibt keinen Stoff, der vollkommen elastisch oder vollkommen unelastisch ist.
-Wirken nur geringe Kräfte, so verhält sich z.B. Kupfer elastisch. Bei großen
+Wirken nur geringe Kräfte, so verhält sich beispielsweise Kupfer elastisch. Bei großen
 Kräften verhält es sich plastisch.
 
 
@@ -315,7 +308,7 @@ Federhärten und Skalen, die sich für verschiedene Messbereiche eignen.
         :download:`SVG: Federkraftmesser
         <../../pics/mechanik/dynamik/federkraftmesser.svg>`
 
-Bei sich bewegenden Körpern, z.B. Autos, kann man die Kraft anhand einer
+Bei sich bewegenden Körpern, beispielsweise Autos, kann man die Kraft anhand einer
 Geschwindigkeitsänderung des Körper bestimmen -- hierzu muss allerdings die
 Masse :math:`m` des Körpers bekannt sein. Misst man die Geschwindigkeitsänderung
 :math:`\Delta v` und die dafür benötigte Zeit :math:`\Delta t`, so kann man die
@@ -376,10 +369,10 @@ bei einer kreisförmigen Bewegung.
 
     .. rubric:: Anmerkungen:
 
-.. [#N1] In mathematischer Schreibweise bedeutet dies, dass der
+.. [#] In mathematischer Schreibweise bedeutet dies, dass der
     Geschwindigkeitsvektor :math:`\vec{v}` eines Körpers dann konstant bleibt,
-    wenn die Summe aller :math:`n` wirkenden Kräfte :math:`\vec{F} _{\mathrm{i}}`
-    gleich null ist:
+    wenn die Summe aller :math:`n` wirkenden Kräfte :math:`\vec{F}_{\mathrm{i}}`
+    gleich Null ist:
 
     .. math::
 

@@ -3,7 +3,7 @@
 Drehmoment und Gleichgewicht
 ============================
 
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben zu
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
 Drehmoment und Gleichgewicht>` zum Abschnitt :ref:`Drehmoment und Gleichgewicht
 <Drehmoment und Gleichgewicht>`.
 

@@ -334,7 +334,7 @@ An einem rotierfähigen Gegenstand treten Winkelbeschleunigungen immer dann auf,
 wenn ein resultierendes :ref:`Drehmoment <Drehmoment>` :math:`M_{\mathrm{res}}`
 auf den Gegenstand einwirkt; für die Winkelbeschleunigung gilt dabei
 :math:`\alpha = \frac{M_{\mathrm{res}}}{I}`, wobei :math:`I` für das
-:ref:`Trägheitsmoment <Trägheitsmoment>` des Gegenstands steht.
+:ref:`Trägheitsmoment <Traegheitsmoment>` des Gegenstands steht.
 
 
 .. raw:: html

@@ -52,7 +52,7 @@ Allgemein gilt für jedes chemische Element:
   betrachtet erscheint ein Atom deshalb als ein elektrisch neutrales
   Teilchen.
 
-.. index:: Coulomb
+.. index:: Coulomb (Einheit)
 .. _Coulomb:
 
 Alle in der Realität vorkommenden elektrischen Ladungsmengen setzen sich
@@ -168,6 +168,8 @@ auftreten können:  Elektronen "springen" dann in einem Sekundenbruchteil und mi
 hellem Leuchten von der kleinen, elektrisch negativen Kugel auf die große,
 elektrisch positiv geladene Kugel über. Dabei kommt es zu einem
 Ladungsausgleich, und beide Kugeln werden entladen.
+
+.. todo Ladungstrennung und Arbeit; Ionisierung von Atomen?
 
 
 .. index:: Erdung

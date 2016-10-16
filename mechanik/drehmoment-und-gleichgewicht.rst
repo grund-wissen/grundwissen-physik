@@ -98,9 +98,7 @@ wirkenden Drehmomente gegenseitig ausgleichen.
     Koordinatenursprung angesehen wird.
 
 ..
-    = \vec{s} _{\mathrm{1}} \times  \vec{F} _{\mathrm{1}} + \vec{s} _{\mathrm{2}} \times
-    \vec{F} _{\mathrm{2}} + \ldots
-
+    = \vec{s}_1 \times  \vec{F}_1 + \vec{s}_2 \times \vec{F}_2 + \ldots
 
 Ist ein anderes Koordinatensystem vorgegeben, so gilt für den Schwerpunkt
 :math:`\vec{s} _{\mathrm{S}}` eines Körpers:
@@ -117,6 +115,8 @@ Ist die Summe aller wirkenden Drehmomente bezüglich einem bestimmten Punkt als
 feste Drehachse nicht gleich Null, so führt der Körper eine Rotation um diese
 Drehachse aus.
 
+
+.. _Stabiles, labiles und indifferentes Gleichgewicht:
 
 .. rubric:: Stabiles, labiles und indifferentes Gleichgewicht
 
@@ -152,6 +152,7 @@ befindet sich der Schwerpunkt stets senkrecht unterhalb der Achse
 beziehungsweise des Aufhängepunktes. Sind Schwerpunkt, Aufhänge- und Drehpunkt
 identisch, so befindet sich der Körper in jeder Lage im indifferenten
 Gleichgewicht.
+
 
 .. _Schwerpunkt und Auflagefläche:
 
@@ -222,6 +223,7 @@ Die Standfestigkeit eines Gegenstands ist umso größer, je geringer seine Höhe
 :math:`h` ist, je größer seine Gewichtskraft :math:`F_{\mathrm{G}}` ist und je
 größer der senkrechte Abstand :math:`l` des Schwerpunkts zur Kippkante ist. [#]_
 
+
 .. _Trägheitsmoment:
 
 Das Trägheitsmoment
@@ -250,7 +252,7 @@ Es gilt also:
 * Für Rotationsbewegungen:
 
     .. math::
-        :label: eqn-drehmoment-und-trägheitsmoment
+        :label: eqn-drehmoment-und-traegheitsmoment
 
         \vec{M} = J \cdot \vec{\alpha}
 
@@ -267,8 +269,8 @@ einer Kreisbahn mit Radius :math:`r` rotiert, ein Trägheitsmoment von :math:`J 
 m \cdot r^2`.
 
 .. figure:: ../pics/mechanik/drehmoment-und-gleichgewicht/traegheitsmoment-punktmasse-auf-kreisbahn.png
-    :name: fig-trägheitsmoment-punktmasse-kreisbahn
-    :alt:  fig-trägheitsmoment-punktmasse-kreisbahn
+    :name: fig-traegheitsmoment-punktmasse-kreisbahn
+    :alt:  fig-traegheitsmoment-punktmasse-kreisbahn
     :align: center
     :width: 70%
 
@@ -282,9 +284,10 @@ m \cdot r^2`.
 
 Das Trägheitsmoment eines beliebig geformten Körpers kann rechnerisch bestimmt
 werden, wenn man ihn aus einer Vielzahl von einzelnen kleinen Massestücken
-:math:`m_{\mathrm{i}}` zusammengesetzt denkt, die jeweils im Abstand :math:`r
-_{\mathrm{i}}` von der Drehachse entfernt liegen. Das Trägheitsmoment des Körpers
-ist dann gleich der Summe der Trägheitsmomente aller einzelnen Teilstücke:
+:math:`m_{\mathrm{i}}` zusammengesetzt denkt, die jeweils im Abstand
+:math:`r_{\mathrm{i}}` von der Drehachse entfernt liegen. Das Trägheitsmoment
+des Körpers ist dann gleich der Summe der Trägheitsmomente aller einzelnen
+Teilstücke:
 
 .. math::
 
@@ -332,7 +335,7 @@ Rotationsvorgänge (insbesondere Rollbewegungen) in einfacher Weise auf
 Drehbewegungen um den Schwerpunkt zurückführen.
 
 
-.. _Experimentelle Bestimmung des Trägheitsmoments:
+.. _Experimentelle Bestimmung des Traegheitsmoments:
 
 .. rubric:: Experimentelle Bestimmung des Trägheitsmoments
 

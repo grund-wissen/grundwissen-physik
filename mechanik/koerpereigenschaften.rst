@@ -22,9 +22,9 @@ erkennen.
 
 *Einheit:*
 
-    Die Masse eines Körpers wird meist in Kilogramm :math:`(\unit[]{kg})`
+    Die Masse eines Körpers wird meist in Kilogramm :math:`(\unit{kg})`
     angegeben. Weitere gebräuchliche Einheiten sind die Tonne
-    :math:`(\unit[]{t})` und das Gramm :math:`(\unit[]{g})`.
+    :math:`(\unit{t})` und das Gramm :math:`(\unit{g})`.
 
     .. math::
 
@@ -38,21 +38,21 @@ erkennen.
 Das Volumen
 -----------
 
-Jeder Körper besitzt ein Volumen :math:`V`, d.h. eine räumliche Ausdehnung.
+Jeder Körper besitzt ein Volumen :math:`V`, also eine räumliche Ausdehnung.
 
 *Einheit:*
 
     Das Volumen :math:`V` eines Körpers wird meist in Kubikmeter
-    :math:`(\unit[]{m^3})` angegeben. Weitere gebräuchliche Einheiten sind der
+    :math:`(\unit{m^3})` angegeben. Weitere gebräuchliche Einheiten sind der
     Liter :math:`(\unit[1]{l} = \unit[1]{dm^3})` und der Kubik-Zentimeter
-    :math:`(\unit[]{cm^3})`:
+    :math:`(\unit{cm^3})`:
 
     .. math::
 
         \unit[1]{m^3} &= \unit[10 \times 10 \times 10]{dm^3} = \unit[1000]{l} \\
         \unit[1]{l} &= \unit[10 \times 10 \times 10]{cm^3} = \unit[1000]{cm^3}
 
-Ein Liter entspricht einem Kubik-Dezimeter, d.h. einem Würfel von
+Ein Liter entspricht einem Kubik-Dezimeter, also einem Würfel von
 :math:`\unit[10]{cm} \times \unit[10]{cm} \times \unit[10]{cm}` Kantenlänge.
 
 .. figure:: ../pics/mechanik/volumen-kubikzentimeter-und-liter.png
@@ -106,13 +106,13 @@ er bei einem bestimmten Volumen :math:`V` besitzt.
 *Einheit:*
 
     Die Dichte eines Körpers wird meist in Kilogramm je Kubikmeter
-    :math:`(\unit[]{kg/m^3})` angegeben. Eine weitere gebräuchliche Einheit ist
-    Gramm je Kubik-Zentimeter :math:`(\unit[]{g/cm^3})`.
+    :math:`(\unitfrac{kg}{m^3})` angegeben. Eine weitere gebräuchliche Einheit ist
+    Gramm je Kubik-Zentimeter :math:`(\unitfrac{g}{cm^3})`.
 
     .. math::
 
         \unit[1]{\frac{g}{cm^3} } = \unit[100 \times 100 \times
-        100]{\frac{g}{m^3}} = \unit[1 000 000]{\frac{g}{m^3}} =
+        100]{\frac{g}{m^3}} = \unit[1\,000\,000]{\frac{g}{m^3}} =
         \unit[1000]{\frac{kg}{m^3} }
 
 Besteht ein Gegenstand aus mehr als einem Material, so setzt sich seine
@@ -121,11 +121,13 @@ Volumenanteilen zusammen:
 
 .. math::
 
-    m _{\rm{ges}} &= m_1 + m_2 + \ldots \\
-    \rho _{\rm{ges}} \cdot V _{\rm{ges}} &= \rho_1 \cdot V_1 + \rho_2 \cdot V_2 + \ldots \\[6pt]
+    m_{\mathrm{ges}} &= m_1 + m_2 + \ldots \\
+    \rho_{\mathrm{ges}} \cdot V_{\mathrm{ges}} &= \rho_1 \cdot V_1 + \rho_2
+    \cdot V_2 + \ldots \\[6pt]
 
-    \Rightarrow \rho _{\rm{ges}} &= \frac{m_1 + m_2 + \ldots}{V _{\rm{ges}}}=
-    \frac{\rho_1 \cdot V_1 + \rho_2 \cdot V_2 + \ldots}{V_1 + V_2 + \ldots}
+    \Rightarrow \rho_{\mathrm{ges}} &= \frac{m_1 + m_2 +
+    \ldots}{V_{\mathrm{ges}}}= \frac{\rho_1 \cdot V_1 + \rho_2 \cdot V_2 +
+    \ldots}{V_1 + V_2 + \ldots}
 
 Da die Masse von Gasen gegenüber der von Festkörpern meist vernachlässigbar
 klein ist, kann die obige Formel beispielsweise genutzt werden, um den
@@ -141,7 +143,7 @@ Körpers.
     :widths: 50 50
 
     * - Stoff
-      - Dichte in :math:`\unit{kg/m^3}`
+      - Dichte in :math:`\unitfrac{kg}{m^3}`
     * - Aluminium
       - :math:`2700`
     * - Blei
@@ -177,7 +179,7 @@ kann die Dichte der Flüssigkeit somit direkt abgelesen werden.
     :widths: 50 50
 
     * - Stoff
-      - Dichte in :math:`\unit[]{kg/m^3}`
+      - Dichte in :math:`\unitfrac{kg}{m^3}`
     * - Ethanol
       - :math:`790`
     * - Glycerin
@@ -197,7 +199,7 @@ kann die Dichte der Flüssigkeit somit direkt abgelesen werden.
 
 Die Dichte von Gasen hängt stark vom Druck und von der Temperatur ab. Um die Dichten
 verschiedener Gase dennoch vergleichen zu können, werden die entsprechenden
-Werte für Normalbedingungen, d.h. Druck :math:`p = \unit[1]{bar}` und :math:`T =
+Werte für Normalbedingungen, also Druck :math:`p = \unit[1]{bar}` und :math:`T =
 \unit[0]{\degree C}`, angegeben.
 
 .. list-table::
@@ -205,7 +207,7 @@ Werte für Normalbedingungen, d.h. Druck :math:`p = \unit[1]{bar}` und :math:`T 
     :widths: 50 50
 
     * - Stoff (bei :math:`\unit[0]{\degree C }`)
-      - Dichte in :math:`\unit[]{kg/m^3}`
+      - Dichte in :math:`\unitfrac{kg}{m^3}`
     * - Chlor
       - :math:`3,21`
     * - Helium

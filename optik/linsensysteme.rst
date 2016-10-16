@@ -65,7 +65,7 @@ sondern durchlaufen es ohne Ablenkung.
 
 .. _Dioptrie:
 
-.. index:: Dioptrie
+.. index:: Dioptrie (Einheit)
 
 Die Brennweiten von Linsen lassen sich, wie im letzten Abschnitt gezeigt, nicht
 direkt addieren, sondern nur ihre Brennwerte. Aus diesem Grund wurde als
