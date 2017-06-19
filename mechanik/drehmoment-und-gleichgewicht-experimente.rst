@@ -31,7 +31,7 @@ Gleichgewicht <Drehmoment und Gleichgewicht>`.
     .. only:: html
 
         :download:`SVG: Gleichgewicht an Wand (Experiment)
-        <../pics/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.png>`
+        <../pics/mechanik/drehmoment-und-gleichgewicht/experiment-gleichgewicht-an-wand.svg>`
 
 *Durchführung:*
 

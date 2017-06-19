@@ -1,3 +1,4 @@
+.. _Elektrizität:
 .. _Elektrizität und Magnetismus:
 
 Elektrizität und Magnetismus

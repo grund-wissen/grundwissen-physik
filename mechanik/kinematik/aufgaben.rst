@@ -131,6 +131,18 @@ konstanter Geschwindigkeit>`.
 
 ----
 
+.. _kinz02:
+
+* (\**) Zwei als punktförmig anzusehende Objekte, die sich zunächst am gleichen
+  Ort befinden, bewegen sich in einem Winkel von :math:`90 \degree` mit
+  :math:`v_1=\unit[5]{\frac{m}{s}}` und :math:`v_2=\unit[3]{\frac{m}{s}}`
+  auseinander. Mit welcher Relativgeschwindigkeit :math:`\vec{v}_{\mathrm{r}}`
+  entfernen sich die beiden Objekte voneinander? Welche relative Ortsveränderung
+  ergibt sich nach :math:`t=\unit[15]{s}`, von einem der Punkte aus betrachtet?
+
+----
+
+
 
 .. _Aufgaben Bewegungen mit konstanter Beschleunigung:
 

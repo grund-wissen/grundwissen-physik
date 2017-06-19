@@ -12,6 +12,7 @@ Aggregatzustand des Gegenstands während der Wärmezufuhr nicht ändert, also ke
 :ref:`Phasenübergang <Phasenübergänge>` (Schmelzen, Verdunsten, Sublimieren)
 stattfindet.
 
+.. _Wärmekapazität:
 .. _Wärmemenge und Wärmekapazität:
 
 Wärmemenge und Wärmekapazität
@@ -23,7 +24,7 @@ benötigt für eine gleiche Erwärmung wesentlich weniger Energie als ein ganzes
 Schwimmbad. Die Menge an Wärme, die man einem konkreten Gegenstand der Masse
 :math:`m` zuführen muss, um ihn um :math:`\Delta T = \unit[1]{K}` zu erwärmen,
 wird als Wärmekapazität :math:`C` des Gegenstands bezeichnet; ihre Einheit ist
-:math:`\frac{J}{K}`. Für die zur Erwärmung nötige Wärmemenge :math:`Q` gilt:
+:math:`\unit{\frac{J}{K}}`. Für die zur Erwärmung nötige Wärmemenge :math:`Q` gilt:
 
 .. math::
 
@@ -155,9 +156,12 @@ und :math:`V = s^3`. Insgesamt ergibt sich also :math:`p \cdot \Delta V = F
 \cdot \Delta s`, was mit der Definition der :ref:`Arbeit <Mechanische Arbeit>`
 übereinstimmt.
 
-Allgemein gilt für beliebige Gase stets :math:`c_{\mathrm{p}} > c_{\mathrm{V}}`, da
-bei konstantem keine Energie für die Ausdehnung des Gases zugeführt werden muss.
-Bei konstantem Druck steht der Anteil der zugeführten Energie, der zur
+.. Enthalpie als Summe aus innerer Energie und Produkt aus Druck und Volumen:
+.. U + p \cdot V
+
+Allgemein gilt für beliebige Gase stets :math:`c_{\mathrm{p}} > c_{\mathrm{V}}`,
+da bei konstantem keine Energie für die Ausdehnung des Gases zugeführt werden
+muss. Bei konstantem Druck steht der Anteil der zugeführten Energie, der zur
 Verrichtung der Ausdehnungsarbeit benötigt wird, nicht für die Erwärmung des
 Gases zur Verfügung, es muss also mehr Energie für eine gleiche Erwärmung
 investiert werden.
@@ -177,11 +181,11 @@ bei Gasen, so dass hierbei häufig nur ein :math:`c`-Wert angegeben wird.
 Mischungsvorgänge
 -----------------
 
-Bei Mischungsvorgängen in einer isolierten Umgebung wird vom wärmeren
-Körper genauso viel Wärme abgegeben, wie vom kälteren Körper aufgenommen
-wird. Dies gilt für Festkörper, Flüssigkeiten und Gase gleichermaßen.
-Dieser Sonderfall des Energieerhaltungssatzes wird auch Richmannsche
-Mischungsregel bezeichnet:
+Bei Mischungsvorgängen in einer isolierten Umgebung wird vom wärmeren Körper
+genauso viel Wärme abgegeben, wie vom kälteren Körper aufgenommen wird. Dies
+gilt für Festkörper, Flüssigkeiten und Gase gleichermaßen. Dieser Sonderfall des
+Energieerhaltungssatzes wird auch `Richmannsche Mischungsregel
+<https://de.wikipedia.org/wiki/Richmann>`__  bezeichnet:
 
 .. math::
 
@@ -241,8 +245,11 @@ einer Verschiebung der Mischtemperatur in Richtung von :math:`T_1`. Sind die
 Wärmekapazitäten der gemischten Substanzen verschieden, so treten diese
 zusätzlich als Gewichtungsfaktoren auf.
 
-Sind mehr als zwei Körper am Mischungsvorgang beteiligt, so müssen die dabei
-umgesetzten Wärmemengen ebenfalls berücksichtigt werden. Allgemein gilt somit:
+.. _Kalorimeter:
+
+Sind mehr als zwei Gegenstände beziehungsweise Substanzen am Mischungsvorgang
+beteiligt, so müssen die dabei umgesetzten Wärmemengen ebenfalls berücksichtigt
+werden. Allgemein gilt somit:
 
 .. math::
     :label: eqn-mischungsformel
@@ -286,8 +293,7 @@ als Phasenübergange bezeichnet.
         <../pics/waermelehre/phasenuebergaenge.svg>`
 
 
-.. index::
-    single: Phasenübergang; Schmelzen und Erstarren
+.. index:: Phasenübergang; Schmelzen und Erstarren
 .. _Schmelzen und Erstarren:
 
 Schmelzen und Erstarren
@@ -310,8 +316,8 @@ Grundsätzlich gilt für beliebige Schmelz- und Erstarrungsvorgänge:
   Schmelzvorgangs stets konstant.
 
 * Die Schmelz- und Erstarrungstemperatur eines Stoffes sind identisch. Ebenso
-  sind die zum Schmelzen nötige bzw. die beim Erstarren frei werdenden
-  Wärmemengen (Schmelzenergie bzw. Erstarrungsenergie) identisch.
+  sind die zum Schmelzen nötige beziehungsweise die beim Erstarren frei werdenden
+  Wärmemengen (Schmelzenergie beziehungsweise Erstarrungsenergie) identisch.
 
 .. todo::
 
@@ -404,8 +410,9 @@ abgegeben.
     * - Zinn
       - :math:`60`
 
-.. index::
-    single: Phasenübergang; Sieden und Kondensieren
+.. index:: Phasenübergang; Sieden und Kondensieren
+.. _Sieden:
+.. _Kondensieren:
 .. _Sieden und Kondensieren:
 
 Sieden und Kondensieren
@@ -508,9 +515,9 @@ abgegeben.
     * - Zinn
       - :math:`2\,450`
 
-Geht bei Sublimations- bzw. Resublimationsvorgängen ein Stoff unmittelbar von
-der festen in die gasförmige Phase über (oder umgekehrt), so ist die
-spezifische Wärme gleich der Summe der Schmelz- und Verdampfungswärme des
+Geht bei Sublimations- beziehungsweise Resublimationsvorgängen ein Stoff
+unmittelbar von der festen in die gasförmige Phase über (oder umgekehrt), so ist
+die spezifische Wärme gleich der Summe der Schmelz- und Verdampfungswärme des
 jeweiligen Stoffs.
 
 .. figure:: ../pics/waermelehre/diagramm-waermezufuhr-phasenuebergaenge.png
@@ -534,8 +541,7 @@ Da sich die Temperatur während des Schmelzens und Siedens nicht ändert, nennt
 man die bei Phasenübergängen umgesetzte Wärmemenge auch "latente Wärme".
 
 
-.. index::
-    single: Phasenübergang; Verdunsten
+.. index:: Phasenübergang; Verdunsten, Luftfeuchtigkeit
 .. _Verdunsten:
 
 Verdunsten
@@ -563,6 +569,11 @@ Das Verdunsten einer Flüssigkeit kann folgendermaßen beeinflusst werden:
 
 Ebenfalls relevant für den Verdunstungsvorgang ist die Dampfmenge in der
 umgebenden Luft; im Fall von Wasserdampf spricht man von Luftfeuchtigkeit.
+
+.. _Hygrometer:
+.. _Luftfeuchtigkeit:
+.. _Absolute Luftfeuchtigkeit:
+.. _Relative Luftfeuchtigkeit:
 
 Die Menge an Wasserdampf, die ein bestimmtes Volumen an Luft maximal aufnehmen
 kann, ist stark abhängig von der Temperatur der Luft. Wie man an den Werten aus
@@ -614,11 +625,12 @@ diese so genannte "Sättigungsmenge" mit der Temperatur überproportional zu.
         <../pics/waermelehre/diagramm-saettigungsmgenge-von-wasser-in-luft.svg>`
 
 Die "absolute" Feuchtigkeit von Luft gibt an, wie viel Gramm Wasserdampf aktuell
-je Kubikmeter enthalten sind; die "relative Luftfeuchtigkeit hingegen gibt
+je Kubikmeter enthalten sind; die "relative" Luftfeuchtigkeit hingegen gibt
 diesen Wert im Verhältnis zur beschriebenen Sättigungsmenge an. Da die absolute
 Feuchtigkeit und der Sättigungsdruck jeweils in :math:`\unit{\frac{g}{cm^3}}`
 angegeben werden, ist die relative Luftfeuchtigkeit dimensionslos; sie wird
-üblicherweise in Prozent angegeben.
+üblicherweise in Prozent angegeben. Mit speziellen Messgeräten (so genannten
+"Hygrometern") wird meist die relative Luftfeuchtigkeit gemessen.
 
 *Beispiele:*
 
@@ -668,7 +680,7 @@ angegeben werden, ist die relative Luftfeuchtigkeit dimensionslos; sie wird
   diese Menge an Wasserdampf.
 
   Bei einer Temperatur von :math:`\unit[20]{\degree C}` beträgt die
-  Sättigungsmenge hingegegen rund :math:`\unit[17]{g}`. Die relative
+  Sättigungsmenge hingegen rund :math:`\unit[17]{g}`. Die relative
   Luftfeuchtigkeit der Luft beträgt nach dem Erwärmen somit etwa
   :math:`\frac{5}{17} \approx 29,4\%`.
 
@@ -682,11 +694,72 @@ gerechnet werden. In gefährdeten Räumen kann diesem durch häufiges, kurzzeiti
 Lüften und/oder durch kontinuierliches Lüften mit Wärmerückgewinnung
 ("Wärmetauscher") vorgebeugt werden.
 
-.. Phasendiagramme
+.. index:: Phasendiagramm
+.. _Phasendiagramme:
 
-.. Tripelpunkt: Wertepaar an Druck und Temperatur, bei dem alle drei
-.. Aggregatzustände (fest, flüssig, gasförmig) gleichzeitig nebeneinander
-.. existieren. Bei Wasser liegt er bei :math:`\unit[0,01]{\degree C}`. Druck?
+Phasendiagramme
+^^^^^^^^^^^^^^^
+
+Phasendiagramme werden üblicherweise in so genannten Phasendiagrammen
+dargestellt. In einem derartigen Diagramm werden die Existenzbereiche der
+einzelnen Phasen einer chemischen Substanz in Abhängigkeit von der (absoluten)
+Temperatur :math:`T` und dem vorherrschenden Druck :math:`p` für jeweils
+dargestellt.
+
+In einem Phasendiagramm sind die verschiedenen Bereiche, in denen jeweils nur
+ein Aggregatzustand existieren kann, durch Linien voneinander getrennt. Entlang
+der Linien kommt es zur so genannten Phasen-Koexistenz, in der jeweils zwei
+Phasen gleichberechtigt nebeneinander existieren. In jedem Phasendiagramm sind
+zudem zwei Punkte von besonderer Bedeutung:
+
+* Der so genannte "Tripelpunkt" gibt ein Temperatur-Druck-Wertepaar an, bei dem
+  alle drei Aggregatzustände (fest, flüssig und gasförmig) gleichzeitig
+  nebeneinander existieren. Bei Wasser beispielsweise liegt der Tripelpunkt bei einer
+  Temperatur von :math:`T=\unit[0,01]{\degree C}` und einem Druck von
+  :math:`p=\unit[0,06]{bar}`.
+
+* Der so genannte "Kritische Punkt" beschreibt das Ende der Siedepunktkurve,
+  also der Linie zwischen dem flüssigen und gasförmigen Aggregatzustand.
+  Oberhalb von diesem Punkt kann nicht mehr zwischen dem flüssigen und
+  gasförmigen Aggregatzustand unterschieden werden; man bezeichnet diesen
+  Zustand auch als "überkritisch". Bei Wasser beispielsweise liegt der kritische
+  Punkt bei einer Temperatur von :math:`T=\unit[374]{\degree C}` und einem
+  Druck von :math:`p=\unit[221]{bar}`.
+
+In der folgenden Abbildung ist links ein "typisches" Phasendiagramm für eine
+gewöhnliche Substanz (als Beispiel Kohlenstoffdioxid), rechts ist ein
+Phasendiagramm für Wasser dargestellt. Die Besonderheit an dem Phasendiagramm
+von Wasser liegt darin, dass die Schmelzkurve (die Linie zwischen festem und
+flüssigen Aggregatzustand) eine negative Steigung aufweist. Daran kann man die
+Anomalie des Wassers erkennen: Es dehnt sich, anders als alle anderen bekannten
+Substanzen, beim Gefrieren aus.
+
+.. figure:: ../pics/waermelehre/phasendiagramme.png
+    :name: fig-phasendiagramme
+    :alt:  fig-phasendiagramme
+    :align: center
+    :width: 70%
+
+    Schematische Phasendiagramme von Kohlenstoffdioxid (links) und
+    Wasser (rechts).
+
+    .. only:: html
+
+        :download:`SVG: Phasendiagramme
+        <../pics/waermelehre/phasendiagramme.svg>`
+
+Erhöht man vom Tripelpunkt ausgehend bei konstanter Temperatur den Druck
+beziehungsweise geht man im Diagramm vom Trippelpunkt aus senkrecht nach oben,
+so gelangt man gewöhnlich in die flüssige Phase; dies liegt daran, dass jedes
+physikalische System gern äußeren Zwängen ausweicht. Einem zunehmendem äußeren
+Druck weicht ein Stoff allgemein aus, indem er eine Phase annimmt, in der er
+weniger Volumen benötigt. Bei allen Substanzen außer Wasser wird durch einen
+hohen Druck somit das Erstarren begünstigt, bei Wasser hingegen das das
+Schmelzen.
+
+
+.. Annähern der Dichtewerte, keine Verflüssigung durch weitere Erhöhung des
+.. Drucks möglich.
 
 .. .. figure:: ../pics/waermelehre/maxwellverteilung-stickstoffmolekuele.png
 ..     :width: 80%
@@ -703,7 +776,13 @@ Lüften und/oder durch kontinuierliches Lüften mit Wärmerückgewinnung
 ..         <../pics/waermelehre/phasenuebergaenge.svg>`
 
 
-
+.. CO2-Druckgasflaschen enthalten flüssiges CO2 beziehungsweise komprimiertes Gas;
+.. wenn Gas und Flüssigkeit im Gleichgewicht vorliegen, beträgt der Dampfdruck bei
+.. 25°C immerhin 6,8 MPa. bei Ausströmen durch das Ventil kühlt sich das Gas
+.. infolge des Joule-Thompson-Effekts ab. Wenn der äußere Druck etwa 0,1 MPa (1
+.. bar) beträgt, kondensiert es dabei sofort zu einem feinverteilten,
+.. schneeähnlichen Feststoff. Dies wird häufig genutzt, um kleinere Mengen von
+.. Trockeneis im Labor herzustellen 
 
 .. raw:: html
 

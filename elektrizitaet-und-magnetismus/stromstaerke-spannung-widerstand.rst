@@ -101,6 +101,8 @@ Stromleiter ein stärkerer Strom fließen als in einem dünnen.
       - :math:`0,000\,1`
     * - Glimmlampe, Kopfhörer
       - :math:`0,001`
+    * - Industrielle Sensoren
+      - :math:`0,005 \text{ bis } 0,02`
     * - Glühbirne
       - :math:`\text{bis zu } 0,5`
     * - Bügeleisen
@@ -152,6 +154,31 @@ Dies mag physikalisch unkorrekt sein; entscheidend ist allerdings vielmehr, dass
 von der Polung abhängige Bauteile (beispielsweise :ref:`Dioden <gwe:Diode>` und
 :ref:`Transistoren <gwe:Transistor>`) immer nach dem gleichen Schema hergestellt
 werden. [#]_
+
+
+.. index:: Stromdichte
+.. _Stromdichte:
+
+.. rubric:: Stromdichte
+
+.. todo ELT S.20 pic
+
+Neben der Stromstärke :math:`I` wird in der Elektrotechnik bisweilen auch mit
+der so genannten Stromdichte :math:`j` gerechnet. Diese ergibt sich, wenn man
+die Stromstärke :math:`I` durch die Querschnittsfläche :math:`A` des Leiters
+dividiert:
+
+.. math::
+    :label: eqn-stromdichte
+
+    j = \frac{I}{A}
+
+Als Einheit für die Stromdichte wählt man üblicherweise aufgrund der gängigen
+Leiter-Querschnitte :math:`\unitfrac{A}{mm^2}`. Mittels der Stromdichte kann
+beispielsweise erklärt werden, weshalb der Draht in einer Glühbirne leuchtet,
+nicht jedoch die Zuleitungen: Obwohl die Stromstärke gleich ist, ist in dem
+wesentlich dünneren Draht im Inneren der Glühbirne die Stromdichte und somit
+auch die Wärme-Entwicklung höher.
 
 
 .. index:: Spannung (elektrisch)
@@ -233,6 +260,7 @@ Ladung und damit die elektrische Spannung.
       - :math:`\text{bis } 100\,000\,000`
 
 .. index:: Elektrisches Potential
+.. _Potential:
 .. _Elektrisches Potential:
 
 .. rubric:: Das elektrische Potential
@@ -324,6 +352,8 @@ Resultat ist in diesem Fall ein so genannter "pulsierender Gleichstrom".
 
 
 .. index:: Spannung (elektrisch); Wechselspannung
+.. _Effektive Spannung:
+.. _Effektive Stromstärke:
 .. _Wechselspannung:
 
 Die Wechselspannung
@@ -382,7 +412,8 @@ In einem idealen elektrischen Leiter können sich die Ladungsträger völlig
 frei bewegen. In einem reellen Leiter hingegen treten stets Wechselwirkungen
 zwischen den sich bewegenden Elektronen und den zurückbleibenden Atomrümpfen
 auf. Ähnlich wie bei der mechanischen Reibung wird dabei elektrische Energie in
-Wärmeenergie umgewandelt.
+Wärmeenergie umgewandelt (siehe auch Abschnitt :ref:`Wärmeentwicklung in
+elektrischen Bauteilen <Wärmeentwicklung in elektrischen Bauteilen>`).
 
 Bei schlechten Leitern (beispielsweise Eisen) ist die Wechselwirkung zwischen
 Elektronen und Atomen stärker als bei guten Leitern (beispielsweise  Kupfer).
@@ -434,10 +465,10 @@ auch heute noch die Widerstandsgleichung :eq:`eqn-elektrischer-widerstand` als
     U = R \cdot I
 
 Das Ohmsche Gesetz :eq:`eqn-ohmsches-gesetz` ist in seiner Gültigkeit auf
-homogene Materialien (beispielsweise Widerstände) begrenzt. [#]_ In zahlreichen
-Fällen kann es dennoch, beispielsweise bei :ref:`Reihen- und Parallelschaltungen
-<gwe:Reihen- und Parallelschaltungen>`, beim Ermitteln von Spannungen oder
-Stromstärken helfen, wenn die jeweiligen elektrischen Widerstände bekannt sind.
+homogene Materialien begrenzt. In zahlreichen Fällen kann es dennoch,
+beispielsweise bei :ref:`Reihen- und Parallelschaltungen <gwe:Reihen- und
+Parallelschaltungen>`, beim Ermitteln von Spannungen oder Stromstärken helfen,
+wenn die jeweiligen elektrischen Widerstände bekannt sind.
 
 Neben den beiden bisher genannten Formen :eq:`eqn-elektrischer-widerstand` und
 :eq:`eqn-ohmsches-gesetz` kann der Zusammenhang zwischen Stromstärke und
@@ -467,6 +498,29 @@ verläuft, desto niedriger der Widerstandswert :math:`R` ist.
 
         :download:`SVG: Ohmsches Gesetz
         <../pics/elektrizitaet-magnetismus/diagramm-ohmsches-gesetz.svg>`
+
+In der Elektronik bezeichnet man Bauteile, die zumindestens näherungsweise diese
+Charakteristik erfüllen, ebenfalls als :ref:`Widerstände <gwe:Widerstand>`.
+
+
+.. _Nicht-Ohmscher Widerstand:
+.. _Nicht-Ohmsche Widerstände:
+
+.. rubric:: Nicht-Ohmsche Widerstände
+
+In Halbleiter-Bauteilen (z.B. :ref:`Dioden <gwe:Diode>`, :ref:`Transistoren
+<gwe:Transistor>`, usw.) ist der Zusammenhang zwischen Stromstärke und Spannung
+nicht linear; vielmehr ist in diesen Bauteile erst ab einer bestimmten Spannung
+ein Stromfluss möglich, der bei einer weiteren Erhöhung der Spannung
+überproportional ansteigt (Abbildung :ref:`Kennlinie einer Diode in
+Durchlass-Richtung <gwe:fig-kennlinie-diode-durchlassrichtung>`).
+
+.. TODO Diagramm
+
+Das Ohmsche Gesetz kann in solchen Fällen (näherungsweise) genutzt werden,
+wenn die Widerstandswerte in Abhängigkeit von der Stromstärke oder Spannung
+bekannt sind, also als Diagramm oder in tabellarischer Form für bestimmte
+Werte vorliegen.
 
 
 
@@ -562,6 +616,30 @@ voneinander unterscheiden, lassen sich die Materialien in elektrische Leiter,
 Halbleiter und Isolatoren einteilen.
 
 
+.. _Temperaturabhängigkeit des spezifischen Widerstands:
+
+.. rubric:: Temperaturabhängigkeit des spezifischen Widerstands
+
+Bei metallischen Leitern hängt der spezifische Widerstand :math:`\rho` über
+einen weiten Temperaturbereich linear von der Temperatur ab:
+
+.. math::
+
+    \rho (T) = \rho_0 \cdot (1 + \alpha_{\mathrm{\Omega}} \cdot \Delta T)
+
+.. Todo Diagramm
+
+Hierbei bezeichnet man :math:`\alpha_{\mathrm{\Omega}}` als
+Temperaturkoeffizient von Ohmschen Widerständen. Für Metalle ist
+:math:`\alpha_{\mathrm{\Omega}} > 0`, der spezifische Widerstand nimmt somit mit
+steigender Temperatur zu. Halbleiter hingegen werden mit zunehmenden
+Temperaturen besser leitfähig, bei tiefen Temperaturen hingegen werden sie
+zunehmend zu Isolatoren.
+
+.. TODO \rho_0 bei welcher Temperatur normalerweise?
+
+.. todo Exkurs Wirkungen des elektrischen Stroms
+
 .. raw:: html
 
     <hr />
@@ -588,19 +666,6 @@ Halbleiter und Isolatoren einteilen.
     Faustregel merken, dass der Spitzenwert einer Wechselspannung stets um
     das :math:`1,41`-fache höher liegt als ihr Effektivwert.
 
-.. [#]  In Halbleiter-Bauteilen (z.B. :ref:`Dioden <gwe:Diode>`,
-    :ref:`Transistoren <gwe:Transistor>`, usw.) ist der Zusammenhang zwischen
-    Stromstärke und Spannung nicht linear; vielmehr ist in diesen Bauteile erst
-    ab einer bestimmten Spannung ein Stromfluss möglich, der bei einer weiteren
-    Erhöhung der Spannung überproportional ansteigt (Abbildung :ref:`Kennlinie
-    einer Diode in Durchlass-Richtung
-    <gwe:fig-kennlinie-diode-durchlassrichtung>`).
-
-    Das Ohmsche Gesetz kann in solchen Fällen (näherungsweise) genutzt werden,
-    wenn die Widerstandswerte in Abhängigkeit von der Stromstärke oder Spannung
-    bekannt sind, also als Diagramm oder in tabellarischer Form für bestimmte
-    Werte vorliegen.
-
 .. index:: Elektrischer Leitwert, Siemens (Einheit)
 
 .. [#] Der Kehrwert :math:`\frac{1}{R}` wird bisweilen auch als "elektrischer
@@ -625,9 +690,9 @@ Halbleiter und Isolatoren einteilen.
 
         \sigma = \frac{1}{\rho}
 
-    Die elektrische Leitfähigkeit wird meist in der Einheit :math:`\frac{S \cdot
-    m}{mm^2}` angegeben. Je größer die elektrische Leitfähigkeit eines Materials
-    ist, desto geringer ist sein elektrischer Widerstand bei gleicher
+    Die elektrische Leitfähigkeit wird meist in der Einheit :math:`\unit{\frac{S
+    \cdot m}{mm^2}}` angegeben. Je größer die elektrische Leitfähigkeit eines
+    Materials ist, desto geringer ist sein elektrischer Widerstand bei gleicher
     Querschnittsfläche und Länge.
 
 
@@ -640,4 +705,5 @@ Halbleiter und Isolatoren einteilen.
     Zu diesem Abschnitt gibt es :ref:`Experimente <Experimente Stromstärke,
     Spannung und Widerstand>` und :ref:`Übungsaufgaben <Aufgaben Stromstärke,
     Spannung und Widerstand>`.
+
 

@@ -5,6 +5,7 @@
 .. :description: Mechanische Energie
 
 .. index:: Energie, Joule (Einheit)
+.. _Energie:
 .. _Mechanische Energie:
 
 Mechanische Energie
@@ -157,11 +158,11 @@ Rotationsenergie im Körper gespeichert.
 *Definition:*
 
     Die Rotationsenergie :math:`E_{\mathrm{rot}}` ist gleich dem Produkt aus dem
-    :ref:`Trägheitsmoment <Traegheitsmoment>` :math:`J` eines Körpers und dem
+    :ref:`Trägheitsmoment <Trägheitsmoment>` :math:`J` eines Körpers und dem
     Quadrat seiner Winkelgeschwindigkeit :math:`\omega`:
 
 .. math::
-    :label: eqn-rotationsarbeit
+    :label: eqn-rotationsenergie
 
     E_{\mathrm{rot}} = \frac{1}{2} \cdot J \cdot \omega^2
 

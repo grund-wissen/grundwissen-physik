@@ -356,6 +356,61 @@ Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben
 
   :ref:`Zurück zur Aufgabe <kinz01>`
 
+----
+
+.. _kinz02l:
+
+* Im folgenden wird angenommen, dass sich das erste Objekt entlang der
+  :math:`x`-Achse bewegt. Dann gilt für :math:`\vec{v}_1` und :math:`\vec{v}_2`:
+
+  .. math::
+
+      \vec{v}_1 = \begin{pmatrix}
+          5 \\ 0
+      \end{pmatrix} \quad ; \quad
+      \vec{v}_2 = \begin{pmatrix}
+          0 \\ 3
+      \end{pmatrix}
+
+  Der Betrag dieses Vektors ist :math:`|\vec{v}| = \sqrt{5^2 + 3^2} \approx
+  \unit[5,83]{\frac{m}{s}}`. Nach :math:`\Delta t = \unit[15]{s}` gilt für die
+  Ortskoordinaten :math:`\vec{\mathrm{s}}_1` und :math:`\vec{s}_2`:
+
+  .. math::
+
+      \vec{s}_1 = v_1 \cdot t = \begin{pmatrix}
+          5 \cdot 15 \\ 0
+      \end{pmatrix} \quad ; \quad
+      \vec{s}_2 = v_2 \cdot t = \begin{pmatrix}
+          0 \\ 3 \cdot 15
+      \end{pmatrix}
+
+  Die Entfernung beider Objekte voneinander ergibt sich aus der Differenz der
+  beiden Ortsvektoren. Aus Sicht des ersten Gegenstands gilt:
+
+  .. math::
+
+      \Delta \vec{s}_{\mathrm{rel}} = \vec{s}_1 - \vec{s}_2 = \begin{pmatrix}
+          75 \\ -45
+      \end{pmatrix}
+
+  Der Betrag dieses Vektors ist:
+
+  .. math::
+
+      |\Delta \vec{s}_{\mathrm{rel}} | = \sqrt{75^2 + (-45)^2} \approx
+      \unit[87,5]{m}
+
+  ..
+      sq(75**2 + 45**2)
+
+  Die Objekte sind nach :math:`\unit[15]{s}` somit rund :math:`\unit[87,5]{m}`
+  voneinander entfernt.
+
+  :ref:`Zurück zur Aufgabe <kinz02>`
+
+----
+
 
 .. _Lösungen Bewegungen mit konstanter Beschleunigung:
 
@@ -441,17 +496,24 @@ Beschleunigung <Bewegungen mit konstanter Beschleunigung>`.
   ein Körper im freien Fall -- sofern die Reibung vernachlässigbar ist -- eine
   rund dreifach höhere Beschleunigung erfährt als im beschleunigenden Fahrzeug.
 
-  Die Wegstrecke :math:`s`, die das Fahrzeug für den Beschleunigungsvorgang
+  Die Wegstrecke :math:`\Delta s`, die das Fahrzeug für den Beschleunigungsvorgang
   benötigt, beträgt:
 
   .. math::
 
-      s = \frac{1}{2} \cdot a \cdot t^2 = \frac{1}{2} \cdot
-      \unit[3,3]{\frac{m}{s^2} } \cdot (\unit[5,0]{s})^2 = \frac{1}{2} \cdot
-      \unit[3,3]{\frac{m}{s^2} } \cdot \unit[25]{s^2} \approx \unit[41,25]{m}
+      \Delta s = \frac{1}{2} \cdot a \cdot \Delta t^2 + v_1 \cdot \Delta t &=
+      \frac{1}{2} \cdot \unit[3,3]{\frac{m}{s^2} } \cdot (\unit[5,0]{s})^2 +
+      \unit[20]{\frac{m}{s}} \cdot \unit[5,0]{s} \\[4pt] &= \frac{1}{2} \cdot
+      \unit[3,3]{\frac{m}{s^2} } \cdot \;\; \unit[25]{s^2} \;\; + \unit[100]{m} \approx
+      \unit[141,25]{m}
+
+
+  (Alternativ kann die für den Beschleunigungsvorgang benötigte Strecke auch
+  mittels der "Bremsformel" :math:`v_2^2 - v_1^2 = 2 \cdot a \cdot \Delta s`
+  berechnet werden.)
 
   Das Fahrzeug benötigt somit für den Beschleunigungsvorgang rund
-  :math:`\unit[41]{m}`.
+  :math:`\unit[141]{m}`.
 
   :ref:`Zurück zur Aufgabe <kinb03>`
 
@@ -601,18 +663,6 @@ Beschleunigung <Bewegungen mit konstanter Beschleunigung>`.
   :math:`\unit[79]{g}` und sind somit lebensgefährlich bzw. tödlich.
 
   :ref:`Zurück zur Aufgabe <kinb07>`
-
-----
-
-
-.. _Lösungen Zusammengesetzte Bewegungen:
-
-Zusammengesetzte Bewegungen
----------------------------
-
-Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
-Zusammengesetzte Bewegungen>` zum Abschnitt :ref:`Zusammengesetzte Bewegungen
-<Zusammengesetzte Bewegungen>`.
 
 ----
 

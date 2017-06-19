@@ -20,6 +20,8 @@ Links und Quellen
 * `Halbleiter-Infos <https://www.halbleiter.org/>`_
 * `Physik-Wikibooks <https://de.wikibooks.org/wiki/Regal:Physik>`_
 * `Grundlagen der Akustik Wikibook <https://de.wikibooks.org/wiki/Grundlagen_der_Akustik:_Inhaltsübersicht>`_ 
+* `PTB-Broschüre zu den Internationalen Einheiten (SI)
+  <https://www.ptb.de/cms/presseaktuelles/broschueren/zum-internationalen-einheitensystem.html>`__
 
 ..  .. rubric:: Elektronik-Anleitungen
 
@@ -88,7 +90,7 @@ Links und Quellen
         * `Cornelsen <http://www.corex.de/>`_
         * `Elwe <https://www.3bscientific.de/Physik,pg_83.html>`_
         * `Henschke <http://www.henschke-geraetebau.de/>`_
-        * `Leybold <http://www.ld-didactic.de/>`_
+        * `Leybold <https://www.ld-didactic.de/>`_
         * `NTL <http://shop.ntl.de/>`_
         * `Phywe <https://www.phywe.de/>`_
 
@@ -303,6 +305,9 @@ fehlende Werte durch die beiden Nachschlagewerke [Kuchling2001]_ und
 
 .. [Voelcker1988] Diethelm Völcker: Physik in der Mittelstufe 3. Mentor Verlag,
     München, 1988.
+
+.. [Zabel2011] Hartmut Zabel: Kurzlehrbuch Physik. Thieme Verlag,
+    Stuttgart, 2011.
 
 .. [Zeitler2007] Jürgen Zeitler, Günter Simon: Physik für Techniker. Hanser Verlag,
     München, 2007.

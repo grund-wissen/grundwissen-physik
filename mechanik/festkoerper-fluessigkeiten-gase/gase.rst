@@ -6,6 +6,7 @@ Mechanik der Gase
 In der Ärodynamik werden die mechanischen Eigenschaften von Gasen,
 insbesondere von Luft, untersucht.
 
+.. _Gasdruck:
 .. _Druck und Volumen:
 
 Druck und Volumen
@@ -29,6 +30,9 @@ Expansionsvorgangs konstant, so gilt: [#]_
 stets **absolute** Druckwerte eingesetzt werden; zu einem mittels eines
 Manometers gemessenen Druckwert muss also stets der Luftdruck (rund
 :math:`\unit[1]{bar}`) hinzu addiert werden.
+
+.. _Vakuum:
+.. _Vakuumpumpe:
 
 Die Volumina eines Gases verhalten sich sich also indirekt proportional zu den
 jeweils vorherrschenden Druckwerten. Grafisch kann dieser Zusammenhang
@@ -57,7 +61,6 @@ verbleibt. Mittels so genannten Vakuumpumpen, die im Gegensatz zu Kompressoren
 die Luft lediglich immer weiter verdünnen, kann somit kein echtes Vakuum erzeugt
 werden, sondern nur ein sich asymptotisch an :math:`p=\unit[0]{Pa}` annähernder
 Druckwert.
-
 
 .. _Luftdruck:
 .. _Barometrische Höhenformel:
@@ -159,6 +162,15 @@ erreichen.
 
 
 ..  einen Druck von :math:`p` und ein Volumen von :math:`V` hat,
+
+.. Zabel 62
+.. Der Luftdruck in der Lunge variiert von leichtem Unterdruck beim Einatmen von
+.. ca. –500 Pa bis zum exspiratorischen leichten Überdruck von 150 Pa. 
+
+.. Im Blutkreislauf wird durch die Herztätigkeit ein Druckunterschied von ca. 13
+.. kPa zwischen der arteriellen und venösen Seite aufgebaut. Allerdings muss bei
+.. allen biologischen Systemen berücksichtigen werden, dass die Wände nicht starr
+.. sind, sondern dehnbar.
 
 .. _Auftrieb in Gasen:
 

@@ -161,7 +161,81 @@ Hierbei wurde für die Einheit Pascal durch Newton je Quadratmeter und die
 Einheit Joule durch Newton mal Meter ersetzt. Der so berechnete Dichte-Wert von
 Luft stimmt mit experimentellen Messungen sehr gut überein.
 
-.. Reale Gase, Van-der-Waals-Gleichung
+.. index:: Partialdruck
+.. _Gasgemische:
+.. _Partialdruck:
+.. _Gasgemische und Partialdrücke:
+
+Gasgemische und Partialdrücke
+-----------------------------
+
+Bei Gasgemischen, wie beispielsweise Luft, kann die allgemeine Gasgleichung für
+jede einzelne Komponente aufgeschrieben werden:
+
+.. math::
+
+    p_{\mathrm{i}} \cdot V = n_{\mathrm{i}} \cdot R \cdot T
+
+In dieser Gleichung gibt :math:`n_{\mathrm{i}}` die Stoffmenge der :math:`i`-ten
+Komponente an. Die zu Grunde liegende Idee hierbei ist wiederum, dass sich die
+Gasteilchen nicht gegenseitig beeinflussen, die gleiche Temperatur haben sowie
+das gleiche Volumen einnehmen. Man kann die obige Gleichung auch so deuten, dass
+jede der :math:`i` Komponenten zu einem eigenen "Partialdruck"
+:math:`p_{\mathrm{i}}` führt:
+
+.. math::
+
+    p_{\mathrm{i}} = \frac{n_{\mathrm{i}} \cdot R \cdot T}{V}
+
+Der Gesamtdruck eines Gasgemisches ist dann die Summe aller Partialdrücke der
+einzelnen Komponenten. Dieses Prinzip wird nach ihrem Entdecker auch als Gesetz
+von `Dalton <https://de.wikipedia.org/wiki/John_Dalton>`_ bezeichnet:
+
+.. math::
+
+    p_{\mathrm{ges}} = \sum_{i=1}^{n} p_{\mathrm{i}} = p_1 + p_2 + \ldots
+
+Luft besteht beispielsweise zu :math:`78\%` aus Stickstoff :math:`(\ce{N2})`, zu
+:math:`20,95\%` aus Sauerstoff :math:`(\ce{O2})` und zu :math:`0,5\%` aus
+anderen Gasen (z.B. Argon und Kohlenstoffdioxid). Die Partialdrücke der
+einzelnen Gase entsprechen den Mol-Anteilen :math:`\frac{n_{\mathrm{i}}}{n}` der
+einzelnen Substanzen. Bei einem Normal-Luftdruck von :math:`\unit[1,01]{bar}`
+ergibt sich folglich ein Partialdruck von :math:`\unit[0,78]{bar}` für
+Stickstoff, ein Partialdruck von :math:`\unit[0,2095]{bar}` für Sauerstoff usw.
+
+Luft kann zudem Wasserdampf aufnehmen, die dem Sättigungs-Dampfdruck von Wasser
+entspricht -- dieser ist temperaturabhängig und beträgt bei
+:math:`\unit[20]{\degree}` etwa :math:`\unit[0,023]{bar}`.
+
+.. Partialdruck entspricht Molanteil \frac{n_{\mathrm{i}}}{n}!
+
+.. index:: Van-der-Waals-Gleichung
+.. _Van-der-Waals-Gleichung:
+
+Die Van-der-Waals-Gleichung
+---------------------------
+
+Die allgemeine Gasgleichung :eq:`eqn-allgemeine-gasgleichung` gilt in guter
+Näherung nur für Gase mit geringer Dichte. Bei großen Gasdichten, beispielsweise
+bei gesättigtem Dampf, können reale Gase nicht mehr als "ideale" Gase betrachtet
+werden. In diesem Fall muss einerseits die Wechselwirkung zwischen den
+Gasmolekülen, andererseits auch das Eigenvolumen der Gasteilchen berücksichtigt
+werden. Aus der allgemeinen Gasgleichung ergibt sich mit den entsprechenden
+Korrektur-Termen die so genannte Van-der-Waals-Gleichung, die für :math:`n` Mole
+eines Gases folgendermaßen lautet:
+
+.. math::
+
+    \left( p + \frac{a}{V^2} \right) \cdot \left( V  - b\right) = n \cdot R \cdot T
+
+Hierbei bezeichnet :math:`b` das Eigenvolumen der Gasteilchen; durch den
+Korrekturterm :math:`\frac{a}{V^2}` wird der durch die Wechselwirkungen der
+Gasteilchen verursachte Binnendruck berücksichtigt.
+
+In einem :math:`p(V)`-Diagramm verlaufen die Isothermen oberhalb einer
+bestimmten, als "kritisch" bezeichneten Temperatur :math:`T_{\mathrm{kr}}`
+ebenso wie die Isothermen von idealen Gasen.  Unterhalb von
+:math:`T_{\mathrm{kr}}` sind die Isothermen S-förmig gebogen.
 
 .. raw:: html
 
@@ -171,5 +245,4 @@ Luft stimmt mit experimentellen Messungen sehr gut überein.
 
     Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben Allgemeine
     Gasgleichung>`.
-
 

@@ -72,13 +72,13 @@ notwendig, um nahe liegende Gegenstände betrachten zu können.
 
 .. rubric:: Weit- und Kurzsichtigkeit
 
-Zu den häufigsten Sehfehlern zählen die so genannte Weit- bzw.
+Zu den häufigsten Sehfehlern zählen die so genannte Weit- beziehungsweise
 Kurzsichtigkeit.
 
 * Bei der Weitsichtigkeit ist der Augapfel "zu klein", das von der Augenlinse
   erzeugte Bild liegt also hinter der Netzhaut. In diesem Fall kann eine
   geeignete Sammellinse Abhilfe schaffen, welche die Brechkraft des sich
-  ergebenden Linsensystems erhöht bzw. seine Brennweite reduziert.
+  ergebenden Linsensystems erhöht beziehungsweise seine Brennweite reduziert.
 
 .. figure::
     ../pics/optik/auge-weitsichtigkeit.png
@@ -97,7 +97,7 @@ Kurzsichtigkeit.
 * Bei der Kurzsichtigkeit ist der Augapfel "zu groß", das von der Augenlinse
   erzeugte Bild liegt also vor der Netzhaut. In diesem Fall kann eine geeignete
   Zerstreuungslinse Abhilfe schaffen, welche die Brechkraft des sich ergebenden
-  Linsensystems herabsetzt bzw. seine Brennweite erhöht.
+  Linsensystems herabsetzt beziehungsweise seine Brennweite erhöht.
 
 .. figure::
     ../pics/optik/auge-kurzsichtigkeit.png
@@ -115,10 +115,10 @@ Kurzsichtigkeit.
 
 Beide Sehfehler können angeboren sein, wenn die Größe des Augapfels von der
 "normalen" Größe abweicht. Ebenso kann bei der Kurzsichtigkeit die Augenlinse zu
-stark bzw. bei der Kurzsichtigkeit zu schwach gekrümmt sein.
+stark beziehungsweise bei der Kurzsichtigkeit zu schwach gekrümmt sein.
 
 Bei der Weitsichtigkeit kann auch ein altersbedingtes Nachlassen des Ringmuskels
-bzw. einer Verhärtung der Augenlinse zu einer zu schwachen Brechkraft der
+beziehungsweise einer Verhärtung der Augenlinse zu einer zu schwachen Brechkraft der
 Augenlinse führen. In diesem Fall kann die Augenlinse nicht mehr stark genug
 gekrümmt ("akkomodiert") werden, um auch nahe Gegenstände scharf abbilden zu
 können; in diesem Fall spricht man von einer "Altersweitsichtigkeit". Sie kann
@@ -188,13 +188,21 @@ Abstand zwischen den Sinneszellen auf der Netzhaut beträgt etwa
 genannten deutlichen Sehweite :math:`s_0 = \unit[25]{cm}` üblicherweise zwei
 :math:`\unit[0,1]{mm}` voneinander entfernte Punkte noch getrennt wahrnehmen.
 
-Für kleine Sehwinkel :math:`\varepsilon` gilt näherungsweise:
+Der Sehwinkel kann über folgenden Zusammenhang bestimmt werden 
 
 .. math::
 
-    {\color{white}\ldots}\varepsilon = \frac{\text{Größe des Gegenstands}}{\text{Abstand zum
-    Gegenstand}}
+    {\color{white}\ldots}\varepsilon = \tan{\left( \frac{G}{g} \right)} =
+    \tan{\left(\frac{B}{b}\right)}
 
+Für kleine Sehwinkel :math:`(\varepsilon < \unit[5]{\degree})` gilt im Bogenmaß
+näherungsweise :math:`\tan{\left(\varepsilon\right)} \approx
+\sin{\left(\varepsilon\right)} \approx \varepsilon` und somit:
+
+.. math::
+
+    {\color{white}\ldots}\varepsilon \approx \frac{\text{Größe des
+    Gegenstands}}{\text{Abstand zum Gegenstand}}
 
 Eine Möglichkeit zur Vergrößerung des Sehwinkels besteht darin, den betrachteten
 Gegenstand an das Auge anzunähern oder umgekehrt. Ein normalsichtiges Auge kann
@@ -216,7 +224,7 @@ optischen Geräts folgendermaßen definieren:
 ..  Auge.
 
 ..  Die Vergrößerung einer Lupe hat man festgelegt als das Verhältnis der Sehwinkel,
-..  unter denen man den Gegenstand mit Lupe bzw. ohne Lupe und in 25 cm Entfernung
+..  unter denen man den Gegenstand mit Lupe beziehungsweise ohne Lupe und in 25 cm Entfernung
 ..  (Bezugssehweite) sieht; dies entspricht dem Verhältnis von 25 cm zur Brennweite
 ..  der Lupe (in cm). Die Vergrößerung wird also um so höher, je kleiner die
 ..  Lupen-Brennweite ist. Mit Lupen erreicht man eine Vergrößerung von maximal etwa
@@ -233,6 +241,10 @@ optischen Geräts folgendermaßen definieren:
 ..  Lichtsensoren.
 
 
+.. _Okular:
+.. _Objektiv:
+
+.. _Teleskop:
 .. _Kepler-Fernrohr:
 
 Das Kepler-Fernrohr
@@ -240,7 +252,7 @@ Das Kepler-Fernrohr
 
 Ein Kepler-Fernrohr ("Teleskop") besteht im Wesentlichen aus einer großen,
 schwach gekrümmten Sammellinse als Objektiv und einer verhältnismäßig kleinen,
-stärker gekrümmten Sammellinse als Okular.
+stärker gekrümmten Sammellinse als Okular. [#]_
 
 Gewöhnlich betrachtet man mit einem Kepler-Fernrohr sehr weit entfernte
 Gegenstände, die sich weit außerhalb der doppelten Brennweite des Objektivs
@@ -293,7 +305,7 @@ befindet.
 ..  Ein Spiegelteleskop hat die gleiche Vergrößerungseigenschaft wie ein
 ..  Kepler-Fernrohr, es kann allerdings durch die Verwendung von Spiegeln einen sehr
 ..  viel größeren Objektivdurchmesser besitzen. Dies is ein entscheidender Vorteil,
-..  da mit der Objektivgröße die Bildhelligkeit bzw. Lichtempfindlichkeit des
+..  da mit der Objektivgröße die Bildhelligkeit beziehungsweise Lichtempfindlichkeit des
 ..  Teleskops zunimmt.
 
 ..  Große Objektive mit Glaslinsen kann man nur bis zu einem Durchmesser von 1 m
@@ -302,6 +314,7 @@ befindet.
 ..  Teleskope verwendet man Parabolspiegel als Objektive.
 
 
+.. _Mikroskop:
 .. _Lichtmikroskop:
 
 Das Lichtmikroskop
@@ -326,7 +339,8 @@ seitenvertauschtes Bild des Gegenstands innerhalb des Tubus.
     :alt:  fig-lichtmikroskop
 
     Strahlengang in einem Lichtmikroskop. Die violetten Pfeile zeigen die
-    Größe des Bildes auf der Netzhaut bzw. den Sehwinkel ohne Mikroskop an.
+    Größe des Bildes auf der Netzhaut beziehungsweise den Sehwinkel ohne
+    Mikroskop an.
 
     .. only:: html
 
@@ -408,6 +422,9 @@ Durchlaufen des Fernrohrs wiederum auf parallele Strahlen abgebildet.
 
     Mittels einer so genannten "Umkehrbrille" kann die gegenteilige Erfahrung
     auch im späteren Lebensalter experimentell nochmals nachempfunden werden.
+
+.. [#] Die zum beobachteten Gegenstand (Objekt) hin gerichtete Linse bezeichnet
+    man als "Objektiv", die sich am Auge befindende Linse als "Okular".
 
 .. [#] Damit das Okular wie eine Lupe wirkt, muss sich das betrachtete
     Zwischenbild innerhalb der einfachen Brennweite, also zwischen der Linse und

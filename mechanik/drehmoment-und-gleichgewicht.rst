@@ -15,9 +15,10 @@ Drehmoment
 ----------
 
 Wirkt eine Kraft auf einen starren Körper, so kann sie sowohl eine Verschiebung
-als auch eine Drehung (Rotation) bewirken. Für die Drehbewegung des Körpers
-ist dabei nur derjenige Anteil der Kraft von Bedeutung, dessen Wirkungslinie
-senkrecht zur Linie zwischen Drehachse und Angriffspunkt der Kraft steht.
+(:ref:`Translation <Translation>` ) als auch eine Drehung (:ref:`Rotation
+<Rotation>`) bewirken. Für die Drehbewegung des Körpers ist dabei nur derjenige
+Anteil der Kraft von Bedeutung, dessen Wirkungslinie senkrecht zur Linie
+zwischen Drehachse und Angriffspunkt der Kraft steht.
 
 *Definition:*
 
@@ -85,8 +86,8 @@ wirkenden Drehmomente gegenseitig ausgleichen.
 *Definition:*
 
     Der Schwerpunkt ist der Punkt eines starren Körpers, bei dem sich alle durch
-    sein Gewicht wirkenden Drehmomente :math:`M_{\mathrm{i}} = s_{\mathrm{i}} \times F
-    _{\mathrm{i}}` zu Null addieren:
+    sein Gewicht wirkenden Drehmomente :math:`M_{\mathrm{i}} = s_{\mathrm{i}}
+    \times F_{\mathrm{i}}` zu Null addieren:
 
     .. math::
 
@@ -116,6 +117,9 @@ feste Drehachse nicht gleich Null, so führt der Körper eine Rotation um diese
 Drehachse aus.
 
 
+.. _Labiles Gleichgewicht:
+.. _Stabiles Gleichgewicht:
+.. _Indifferentes Gleichgewicht:
 .. _Stabiles, labiles und indifferentes Gleichgewicht:
 
 .. rubric:: Stabiles, labiles und indifferentes Gleichgewicht
@@ -159,15 +163,15 @@ Gleichgewicht.
 Schwerpunkt und Auflagefläche
 -----------------------------
 
-Ein frei stehender Körper, an dem keine äußeren Drehmomente wirken,  kippt nicht
+Ein frei stehender Körper, an dem keine äußeren Drehmomente wirken, kippt nicht
 um, solange sich sein Schwerpunkt oberhalb der Auflagefläche ("Standfläche")
-befindet. Der Grund dafür ist, dass  bei einer kleinen Auslenkung der
+befindet. Der Grund dafür ist, dass bei einer kleinen Auslenkung der
 Schwerpunkt des Körpers zunächst angehoben wird.
 
 Bei einer weiteren Auslenkung überschreitet die vom Schwerpunkt aus senkrecht
 nach unten gezeichnete Lot-Linie die Grenze der Auflagefläche. Sobald dies der
 Fall ist, kippt der Körper um und nimmt damit eine stabile Gleichgewichtslage
-mit tief liegendem Schwerpunkt ein.
+mit tiefer liegendem Schwerpunkt ein.
 
 .. figure:: ../pics/mechanik/drehmoment-und-gleichgewicht/kippen-eines-koerpers.png
     :name: fig-gleichgewicht-kippen-eines-körpers
@@ -317,7 +321,7 @@ besitzen kann.
 
 .. rubric:: Der Satz von Steiner
 
-Rotiert ein Körper mit einer Masse :math:`m` um ein Achse, die im Abstand
+Rotiert ein Körper mit einer Masse :math:`m` um eine Achse, die im Abstand
 :math:`a` parallel zum Schwerpunkt verläuft, so muss zum jeweiligen Wert
 :math:`J` des Trägheitsmoments noch der Term :math:`m \cdot a^2` hinzu addiert
 werden. Das lässt sich dadurch erklären, dass in diesem Fall der Schwerpunkt

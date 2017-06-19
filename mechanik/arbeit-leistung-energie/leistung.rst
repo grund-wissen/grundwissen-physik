@@ -30,7 +30,7 @@ wie schnell mechanische Arbeit verrichtet wird.
 
     \unit[1]{W} = \frac{\unit[1]{J}}{\unit[1]{s}}
 
-*Beispiele:*
+*Beispiel:*
 
 * Zwei Kräne ziehen jeweils eine Palette mit Steinen, die einer Gewichtskraft
   :math:`F_{\mathrm{G}} = \unit[4\,000]{N}` entspricht, auf ein :math:`\unit[5]{m}` hohes
@@ -50,11 +50,6 @@ wie schnell mechanische Arbeit verrichtet wird.
 
   Da der erste Kran die Arbeit in der halben Zeit verrichtet, ist seine Leistung
   (sein "Arbeitstempo") doppelt so hoch wie die des zweiten Kranes.
-
-* Die mechanische Leistung, die ein Mensch über einen langen Zeitraum aufrecht
-  erhalten kann, liegt bei etwa :math:`\unit[100]{W}`. Kurzzeitig kann ein gut
-  trainierter Mensch auch eine Leistung in der Größenordnung von
-  :math:`\unit[1\,000]{W}` erreichen.
 
 .. list-table:: Beispiele für Leistungen in Natur und Technik
     :name: tab-leistungen-in-natur-und-technik
@@ -86,9 +81,12 @@ wie schnell mechanische Arbeit verrichtet wird.
 ..
     D-Zug 1250 kW nach Gascha 61.
 
-
-Große Leistungsmengen werden nach wie vor häufig in Pferdestärken
-:math:`(\unit{PS})` anstelle in Kilowatt :math:`(\unit{kW})` angegeben.
+Die mechanische Leistung, die ein Mensch über einen langen Zeitraum aufrecht
+erhalten kann, liegt bei etwa :math:`\unit[100]{W}`. Kurzzeitig kann ein gut
+trainierter Mensch auch eine Leistung in der Größenordnung von
+:math:`\unit[1\,000]{W}` erreichen. Große Leistungsmengen werden nach wie vor
+häufig in Pferdestärken :math:`(\unit{PS})` anstelle in Kilowatt
+:math:`(\unit{kW})` angegeben.
 
 .. math::
 
@@ -106,7 +104,30 @@ Leistung :math:`P` gilt damit:
 
 Gemäß dieser Gleichung ist zum Beispiel eine höhere Leistung nötig, um einen
 Gegenstand bei einer konstant wirkenden Reibung mit höherer Geschwindigkeit zu
-ziehen.
+ziehen. 
+
+
+.. _Leistung von rotierenden Objekten:
+
+.. rubric:: Leistung von rotierenden Objekten
+
+Vorgänge, bei denen Verschiebungen (Translationen) oder Drehungen (Rotationen)
+von Objekten stattfinden, lassen sich durch mathematisch ähnliche Gleichungen
+beschreiben. Das Äquivalent zur Kraft :math:`F` ist bei Rotationen das
+:ref:`Drehmoment <Drehmoment>`  :math:`M`, das Äquivalent zur Geschwindigkeit
+:math:`v` ist die :ref:`Winkelgeschwindigkeit <Winkelgeschwindigkeit>`
+:math:`\omega`. Ersetzt man in der obigen Formel :eq:`eqn-leistung2` die
+jeweiligen Größen, so erhält man folgende Formel:
+
+.. math::
+    :label: eqn-leistung-rotation
+
+    P = M \cdot \omega
+
+Ein Motor kann somit eine bestimmte Leistung entweder durch eine große Drehzahl
+oder ein großes Drehmoment erreichen; ist die Winkelgeschwindigkeit
+:math:`\omega` gleich Null, so ist auch die mechanische Leistung des Motors
+gleich Null, egal wie hoch sein Drehmoment ist.
 
 .. raw:: html
 

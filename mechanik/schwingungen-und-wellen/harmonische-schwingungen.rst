@@ -12,9 +12,8 @@ Schwingungsgleichungen
 ----------------------
 
 Ein Körper führt genau dann eine harmonische Schwingung aus, wenn auf ihn eine
-eine Kraft wirkt, die proportional zu seiner Auslenkung ist und stets in
-Richtung der Ruhelage zeigt; die Dämpfung der Schwingung sollte vernachlässigbar
-gering ist.
+Kraft wirkt, die proportional zu seiner Auslenkung ist und stets in Richtung der
+Ruhelage zeigt; die Dämpfung der Schwingung sollte vernachlässigbar gering ist.
 
 
 .. index:: Federpendel
@@ -37,8 +36,8 @@ Die Kraft ruft im schwingenden Gegenstand eine Beschleunigung :math:`a` hervor,
 die nach dem Kraftgesetz als :math:`F = m \cdot a` beschrieben werden kann,
 wobei :math:`m` die Masse des Oszillators symbolisiert. Die Beschleunigung
 :math:`a` entspricht nun gerade der zeitlichen Änderung der Geschwindigkeit,
-welche wiederum einer zeitlichen Änderung des Ortes bzw. der Auslenkung
-entspricht.
+welche wiederum einer zeitlichen Änderung des Ortes beziehungsweise der
+Auslenkung entspricht.
 
 .. index:: Wellengleichung
 
@@ -273,7 +272,7 @@ ebenso folgender Zusammenhang:
 
     M = J \cdot \alpha = J \cdot \ddot{\varphi}
 
-Hierbei steht :math:`J` für das :ref:`Trägheitsmoment <Traegheitsmoment>` des
+Hierbei steht :math:`J` für das :ref:`Trägheitsmoment <Trägheitsmoment>` des
 schwingenden Gegenstands bezüglich dem Aufhängengepunkt und :math:`\alpha =
 \ddot{\varphi}` für die :ref:`Winkelbeschleunigung <Kreisförmige Bewegung mit
 konstanter Beschleunigung>`. Setzt man beide Terme gleich, erhält man folgende

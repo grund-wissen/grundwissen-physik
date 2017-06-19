@@ -1,4 +1,5 @@
 
+.. _Bewegung mit konstanter Beschleunigung:
 .. _Bewegungen mit konstanter Beschleunigung:
 
 Bewegungen mit konstanter Beschleunigung
@@ -19,6 +20,8 @@ zunächst für geradlinige, dann auch für zusammengesetzte Bewegungsvorgänge n
 beschrieben.
 
 
+.. _Geradlinige Bewegung mit konstanter Beschleunigung:
+.. _Eindimensionale Bewegung mit konstanter Beschleunigung:
 .. _Eindimensionale Bewegungen mit konstanter Beschleunigung:
 
 Eindimensionale Bewegungen mit konstanter Beschleunigung
@@ -285,11 +288,12 @@ Wegstrecke :math:`\Delta s`, der Beschleunigung :math:`a`, der
 Anfangsgeschwindigkeit :math:`v_0` und der Zeitdauer :math:`\Delta t` an. 
 
 
+.. _Allgemeine Bewegungsgleichung:
 .. _Die allgemeine Bewegungsgleichung:
 
 .. rubric:: Die allgemeine Bewegungsgleichung
 
-Die Gleichung eq:`eqn-allgemeine-bewegungsgleichung-wegstrecke` ist tatsächlich
+Die Gleichung :eq:`eqn-allgemeine-bewegungsgleichung-wegstrecke` ist tatsächlich
 eine Verallgemeinerung der bislang betrachteten Fälle:
 
 * Ist die Beschleunigung :math:`a=0`, so erhält man die Ortsgleichung für
@@ -334,13 +338,12 @@ beliebigen Zeitpunkt angeben zu können, sofern die Startwerte bekannt sind und
 die Beschleunigung konstant ist. [#]_
 
 
-.. index:: Bremsformel, Bremsweg
+.. index:: Bremsformel
 .. _Bremsformel:
-.. _Anhalteweg:
-.. _Bremsformel und Anhalteweg:
+.. _Die Bremsformel:
 
-Bremsformel und Anhalteweg
---------------------------
+Die Bremsformel
+---------------
 
 Insbesondere für Bremsvorgänge gibt es eine weitere nützliche Formel, die sich
 aus der obigen Gleichung :eq:`eqn-allgemeine-bewegungsgleichung-wegstrecke`
@@ -355,11 +358,19 @@ Zusammenhang zwischen :math:`v`, :math:`a` und :math:`\Delta s`:
 Diese Gleichung wird häufig "Bremsformel" genannt; im Fall :math:`v=0` lässt
 sich damit der Bremsweg :math:`\Delta s = \frac{v_0^2}{2 \cdot |a|}` bei
 bekannter Anfangsgeschwindigkeit und Beschleunigung unmittelbar berechnen.
+Die "Bremsformel" lässt sich allerdings auch allgemein auf Bewegungen mit
+konstanter Beschleunigung anwenden und erleichtert insbesondere dann das
+Rechnen, wenn in der Aufgabenstellung keine Zeitangabe enthalten ist.
 
-Die Gleichung :eq:`eqn-bremsformel` kann ebenso zur Beschreibung anderer
-Beschleunigungsvorgänge genutzt werden. Der Nutzen der Bremsformel liegt darin,
-dass sie den Zusammenhang zwischen Start- und Endgeschwindigkeit, der wirkenden
-Beschleunigung und der zurückgelegten Wegstrecke *zeitunabhängig* beschreibt.
+.. Der Nutzen der Bremsformel liegt darin, dass sie den Zusammenhang zwischen
+.. Start- und Endgeschwindigkeit, der wirkenden Beschleunigung und der
+.. zurückgelegten Wegstrecke *zeitunabhängig* beschreibt.
+
+.. index:: Bremsweg, Anhalteweg
+.. _Anhalteweg:
+.. _Reaktionszeit und Anhalteweg:
+
+.. rubric:: Reaktionszeit und Anhalteweg
 
 Um die gesamte Strecke zu berechnen, die ein Fahrzeug zum Anhalten benötigt,
 muss neben dem Bremsweg auch die Wegstrecke berücksichtigt werden, die der
@@ -396,7 +407,8 @@ Beschleunigungen treten allgemein dann auf, wenn eine resultierende :ref:`Kraft
 für die Beschleunigung gilt dabei :math:`a = \frac{F}{m}`, wobei :math:`m` für
 die Masse des Gegenstands steht. Kennt man also die auf einen Gegenstand
 einwirkenden Kräfte, so kann mittels der obigen Formeln auch dessen Bewegung
-vorhergesagt werden.
+vorhergesagt werden; umgekehrt können aus berechneten oder gemessenen
+Beschleunigungswerten auch die entsprechenden Kräfte abgeschätzt werden.
 
 .. raw:: html
 

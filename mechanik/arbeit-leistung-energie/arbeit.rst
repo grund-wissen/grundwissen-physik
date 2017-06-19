@@ -13,15 +13,17 @@ Beschleunigung oder ein Anheben des Körpers, so wird physikalische Arbeit
 verrichtet. Um die Größe der verrichteten Arbeit zu bestimmen, müssen der Betrag
 der Kraft und die Länge des Weges, entlang dessen die Kraft wirkt, bekannt sein.
 
+.. index:: Joule (Einheit)
+
 *Definition:*
 
     Die Arbeit :math:`W` ist das Produkt aus der in Richtung des Weges wirkenden
-    Kraft :math:`F` und der zurückgelegten Wegstrecke :math:`s`: [#]_
+    Kraft :math:`F` und der zurückgelegten Wegstrecke :math:`\Delta s`: [#]_
 
 .. math::
     :label: eqn-arbeit
 
-    W = F \cdot s_{\mathrm{\parallel}}
+    W = F \cdot \Delta s_{\mathrm{\parallel}}
 
 .. Wenn \alpha Winkel zwischen Kraftrichtung und Wegrichtung :math:`(0 < \alpha
 .. < 90 \degree)`, so W = F \cdot s \cdot \cos{\alpha}
@@ -40,7 +42,7 @@ der Kraft und die Länge des Weges, entlang dessen die Kraft wirkt, bekannt sein
     Die Einheit der Arbeit ist nach Gleichung :eq:`eqn-arbeit` das Produkt der
     Einheiten von Kraft und Weg. Sie wird nach `James Prescott Joule
     <https://de.wikipedia.org/wiki/James_Prescott_Joule>`_ kurzerhand Joule
-    :math:`\unit[]{(J)}` genannt.
+    :math:`\unit{(J)}` genannt.
 
 .. math::
 
@@ -68,7 +70,10 @@ Richtung wirkt, gilt:
 
 .. math::
 
-    W = F \cdot s \cdot \cos{\alpha }
+    W = \vec{F} \cdot \vec{s} = F \cdot s \cdot \cos{\alpha}
+
+Hierbei bezeichnet :math:`\alpha` den Winkel zwischen der wirkenden Kraft und
+der zurückgelegten Wegstrecke.
 
 
 .. _Arten mechanischer Arbeit:
@@ -76,7 +81,7 @@ Richtung wirkt, gilt:
 Arten mechanischer Arbeit
 -------------------------
 
-Bei mechanischen Prozessen ist sind die folgenden Arten mechanischer Arbeit von
+Bei mechanischen Prozessen sind die folgenden Arten mechanischer Arbeit von
 entscheidender Bedeutung:
 
 .. index:: Arbeit; Hubarbeit
@@ -117,12 +122,12 @@ Reibungskraft eine gleich große Gegenkraft entgegenwirken.
 
     Die Reibungsarbeit :math:`W_{\mathrm{Reib}}` ist proportional zur
     :ref:`Reibungskraft <Reibungskraft>` :math:`F_{\mathrm{R}}` und zur
-    zurückgelegten Wegstrecke :math:`s`:
+    zurückgelegten Wegstrecke :math:`\Delta s`:
 
 .. math::
     :label: eqn-reibungsarbeit
 
-    W_{\mathrm{Reib}} = F_{\mathrm{R}} \cdot s
+    W_{\mathrm{Reib}} = F_{\mathrm{R}} \cdot \Delta s
 
 Beim gleichzeitigen Auftreten mehrerer Reibungskräfte (beispielsweise
 Rollreibung und Luftwiderstand) entspricht :math:`F_{\mathrm{R}}` der Summe
@@ -139,18 +144,19 @@ Stauchung oder Streckung entgegensetzt, ist nicht konstant, sondern nimmt
 gleichmäßig mit der Auslenkung zu:
 
 * Die anfängliche Spannkraft der Feder in der Ruhelage ist Null.
-* Wird die Feder um eine Wegstrecke :math:`s` ausgelenkt, so beträgt die
-  :ref:`Spannkraft <Spannkraft>` der Feder :math:`F_{\mathrm{S}} = -k \cdot s`.
+* Wird die Feder um eine Wegstrecke :math:`\Delta s` ausgelenkt, so beträgt die
+  :ref:`Spannkraft <Spannkraft>` der Feder :math:`\Delta F_{\mathrm{S}} = -D \cdot
+  \Delta s`.
 
 
-Entlang der Strecke :math:`s` muss im Durchschnitt nur die Hälfte der
+Entlang der Strecke :math:`\Delta s` muss im Durchschnitt nur die Hälfte der
 (maximalen) Spannkraft :math:`F_{\mathrm{S}}` am Auslenkungspunkt aufgewendet
 werden. Für die durchschnittlich nötige Kraft :math:`\bar{F}_{\mathrm{S}}` gilt
 also:
 
 .. math::
 
-    \bar{F} _{\mathrm{S}} = \frac{1}{2} \cdot F_{\mathrm{s}}
+    \bar{F}_{\mathrm{S}} = \frac{1}{2} \cdot F_{\mathrm{s}}
 
 Dies gilt allgemein für elastische Verformungen.
 
@@ -158,8 +164,8 @@ Dies gilt allgemein für elastische Verformungen.
 
     Die zur Verformung eines elastischen Körpers (beispielsweise einer
     Schraubenfeder) nötige Spannarbeit :math:`W_{\mathrm{Spann}}` ist
-    proportional zur durchschnittlichen Spannkraft :math:`\bar{F} _{\mathrm{S}}
-    = \frac{1}{2} \cdot F_{\mathrm{S}}` und der dazugehörigen Auslenkung
+    proportional zur durchschnittlichen Spannkraft :math:`\bar{F}_{\mathrm{S}} =
+    \frac{1}{2} \cdot F_{\mathrm{S}}` und der dazugehörigen Auslenkung
     :math:`s`:
 
 .. math::
@@ -205,13 +211,13 @@ v_1^2)`.
 
 .. rubric:: Die Rotationsarbeit
 
-Zur Überwindung der Trägheit ist für eine Rotation eine Drehmoment notwendig.
+Zur Überwindung der Trägheit ist für eine Rotation ein Drehmoment notwendig.
 Die zugehörige Arbeit heißt Rotationsarbeit.
 
 *Definition:*
 
     Die Rotationsarbeit :math:`W_{\mathrm{rot}}` eines zunächst ruhenden Körpers
-    mit :ref:`Trägheitsmoment <Traegheitsmoment>` :math:`J` ist proportional zum
+    mit :ref:`Trägheitsmoment <Trägheitsmoment>` :math:`J` ist proportional zum
     Quadrat der :ref:`Winkelgeschwindigkeit <Winkelgeschwindigkeit>`
     :math:`\omega`, die dieser erreicht:
 
@@ -247,7 +253,7 @@ abgegebenen Arbeit (Reibung wird vernachlässigt):
 
 .. math::
 
-    F_1 \cdot s_1 &= F_2 \cdot s_2 \\[6pt]
+    F_1 \cdot \Delta s_1 &= F_2 \cdot \Delta s_2 \\[6pt]
     W_1 &= W_2
 
 Abgesehen von Reibungsverlusten bleibt das Produkt aus Weg und Kraft (entlang
@@ -304,7 +310,7 @@ der Kraftwandlung ("die goldene Regel der Mechanik") lautet daher:
 
     .. math::
 
-        W = \sum_{i}^{} F_{\mathrm{i}} \cdot s_{\mathrm{i}}
+        W = \sum_{i}^{} F_{\mathrm{i}} \cdot \Delta s_{\mathrm{i}}
 
     Im Fall einer sich kontinuierlich ändernden Kraft wird aus der Summe
     :math:`(\sum_{}^{})` ein Integral :math:`(\int_{}^{})`.

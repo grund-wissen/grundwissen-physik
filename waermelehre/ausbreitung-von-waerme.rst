@@ -115,26 +115,28 @@ _{\mathrm{Q}}` gilt also:
 
     I_{\mathrm{Q}} = \frac{\Delta Q}{\Delta t}
 
-Der Wärmestrom wird in Watt (Joule je Sekunde) gemessen. Der Wärmestrom durch
-eine bestimmte Fläche :math:`A` wird als Wärmestromdichte :math:`j_{\mathrm{Q}}`
-bezeichnet und in Watt je Quadratmeter gemessen:
+Der Wärmestrom wird in Watt (Joule je Sekunde) gemessen. 
 
-.. math::
-    :label: eqn-waermestromdichte-definition
+.. Der Wärmestrom durch eine bestimmte Fläche :math:`A` wird als Wärmestromdichte
+.. :math:`j_{\mathrm{Q}}` bezeichnet und in Watt je Quadratmeter gemessen:
 
-    j_{\mathrm{Q}} = \frac{I_{\mathrm{Q}}}{A}
+.. .. math::
+..     :label: eqn-waermestromdichte-definition
 
-Die Wärmestromdichte :math:`j_{\mathrm{Q}}` ist einerseits proportional zum
+..     j_{\mathrm{Q}} = \frac{I_{\mathrm{Q}}}{A}
+
+Der Wärmestrom :math:`I_{\mathrm{Q}}` ist einerseits proportional zum
 Temperaturunterschied :math:`\Delta T` zwischen der heißen und der kalten Seite
 des Wärmeleiters, andererseits auch proportional zur Wärmeleitfähigkeit
 :math:`\lambda` des Wärme leitenden Materials. Zusätzlich ist
-:math:`j_{\mathrm{Q}}` indirekt proportional zur Länge :math:`l` des
+:math:`I_{\mathrm{Q}}` direkt proportional zur Querschnittsfläche :math:`A` und
+indirekt proportional zur Länge beziehungsweise Schichtdicke :math:`l` des
 Wärmeleiters. Insgesamt gilt also:
 
 .. math::
-    :label: eqn-waermestromdichte
+    :label: eqn-waermeleitfaehigkeit
 
-    j_{\mathrm{Q}} = - \lambda \cdot \frac{\Delta T}{l}
+    I_{\mathrm{Q}} = - \lambda \cdot \frac{A}{l}\Delta T
 
 Das Minuszeichen gibt an, dass der Wärmestrom stets in Richtung der kälteren
 Materialseite stattfindet. [#]_
@@ -151,7 +153,7 @@ gleichen Flächen, aber unterschiedlichen Schichtdicken :math:`l_1 ,\, l_2 ,\,
 \lambda_2 ,\, \text{usw.}` durchlaufen, so handelt es sich um eine
 "Reihenschaltung" mehrerer Wärmeleiter.
 
-Um die Wärmestromdichte in diesem Fall zu berechnen, muss man -- wie beim
+Um den Wärmestrom in diesem Fall zu berechnen, muss man -- wie beim
 :ref:`Ohmschen Gesetz <Ohmsches Gesetz>` der Elektrizitätslehre -- die
 "Wärmewiderstände" der einzelnen Schichten addieren. Dazu definiert man den so
 genannten Wärmedurchlasswiderstand :math:`R = \frac{l}{\lambda \cdot A}`, mit
@@ -181,7 +183,7 @@ ausgeklammert werden. Allgemein gilt für den Wärmestrom :math:`I_{\mathrm{Q,RS
 bei einer Reihenschaltung:
 
 .. math::
-    :label: eqn-waermestromdichte-reihenschaltung
+    :label: eqn-waermestrom-reihenschaltung
 
     I_{\mathrm{Q, RS}} = \frac{1}{R_{\mathrm{ges}}} \cdot \Delta T =
     \frac{1}{\left( \frac{l_1}{\lambda_1 \cdot A_1} + \frac{l_2}{\lambda_2 \cdot
@@ -206,7 +208,7 @@ werden. Allgemein gilt für den Wärmestrom :math:`I_{\mathrm{Q,PS}}` bei einer
 Parallelschaltung:
 
 .. math::
-    :label: eqn-waermestromdichte-parallelschaltung
+    :label: eqn-waermestrom-parallelschaltung
 
     I_{\mathrm{Q,PS}} = \frac{1}{R_{\mathrm{ges}}} \cdot \Delta T = \left( \frac{A_1
     \cdot \lambda_1}{l_1} + \frac{A_2 \cdot \lambda_2}{l_2} + \ldots +
@@ -266,20 +268,20 @@ kann keine Wärmeströmung stattfinden.
 Quantitativ lässt sich die durch Wärmeströmung übertragene Wärmemenge nur
 schwer erfassen, da die mathematischen Zusammenhänge bei Strömungsvorgängen sehr
 kompliziert sind. In einem vereinfachten Modell kann jedoch angenommen werden,
-dass die Wärmestromdichte :math:`j_{\mathrm{Q,cv}}` bei auftretender Konvektion
-einerseits proportional zum Temperaturunterschied :math:`\Delta T` zwischen dem
-Fluid und der begrenzenden Kontaktfläche und andererseits proportional zu einem
-so genannten Wärmeübertragungskoeffizienten :math:`h_{\mathrm{cv}}` ist:
+dass der Wärmestrom :math:`I_{\mathrm{Q,cv}}` bei auftretender Konvektion
+proportional zur Oberfläche :math:`A`, zum Temperaturunterschied :math:`\Delta
+T` zwischen Fluid und begrenzender Kontaktfläche  sowie zu einem so genannten
+Wärmeübertragungskoeffizienten :math:`h_{\mathrm{cv}}` ist:
 
 .. math::
-    :label: eqn-waermestromdichte-konvektion
+    :label: eqn-waermestrom-konvektion
 
-    j_{\mathrm{Q,cv}} = h_{\mathrm{cv}} \cdot \Delta T
+    I_{\mathrm{Q,cv}} = h_{\mathrm{cv}} \cdot A \cdot \Delta T
 
 Der Wärmeübertragungskoeffizient :math:`h_{\mathrm{cv}}` wird in
 :math:`\unit{\frac{W}{m^2 \cdot K}}` angegeben. Multipliziert man diesen mit der
 Temperaturdifferenz :math:`\Delta T` der Kontaktflächen und ihrer Fläche
-:math:`A`, so erhält man den Wärmestrom bzw. die abgegebene Heizleistung in
+:math:`A`, so erhält man den Wärmestrom beziehungsweise die abgegebene Heizleistung in
 Watt. Für technische Anwendungen -- beispielsweise in der Bauphysik --  sind vor
 allem laminare Wärmeströmungen in Luft von Interesse. Für eine horizontal
 verlaufende warme Fläche kann hierbei näherungsweise :math:`h_{\mathrm{cv}} \approx
@@ -315,12 +317,12 @@ Anteile ergibt stets :math:`100\%`.
   durchdringen.
 
 Quantitativ kann die von einem heißen Gegenstand ausgestrahlte Wärmestrahlung
--- ähnlich wie bei den anderen Wärmetransportarten -- durch die
-Energiestromdichte :math:`j_{\mathrm{s}}` beschrieben werden:
+-- ähnlich wie bei den anderen Wärmetransportarten -- durch den
+Wärmestrom :math:`I_{\mathrm{Q,s}}` beschrieben werden:
 
 .. math::
 
-    j_{\mathrm{Q,s}} = \frac{\Delta Q}{\Delta t \cdot A}
+    I_{\mathrm{Q,s}} = \frac{\Delta Q}{\Delta t}
 
 Diese Größe wird bisweilen auch "Bestrahlungsstärke" genannt, ihre Einheit ist
 Watt je Quadratmeter. Beispielsweise kann in Mitteleuropa die Sonne an einem
@@ -331,12 +333,12 @@ wolkenlosen Sommertag eine Bestrahlungsstärke von rund
     single: Schwarzer Körper
     single: Stefan-Boltzmann-Gesetz
 
-Jeder Körper bzw. Gegenstand, der Wärmestrahlung absorbieren kann, emittiert
-diese in gleicher Weise emittieren. Ein idealer "schwarzer Körper", wie er in
-der Wärmelehre oft als vereinfachendes Modell angenommen wird, kann einerseits
-die auftreffende Wärmestrahlung zu :math:`100\%` absorbieren und andererseits
-die seiner Temperatur entsprechende Wärmestrahlung bestmöglich abstrahlen. Für
-einen solchen Körper gilt das nach den Entdeckern `Josef Stefan
+Jedes Objekt, das Wärmestrahlung absorbieren kann, emittiert diese auch
+entsprechend effizient. Ein idealer "schwarzer Körper", wie er in der Wärmelehre
+oft als vereinfachendes Modell angenommen wird, kann einerseits die auftreffende
+Wärmestrahlung zu :math:`100\%` absorbieren und andererseits die seiner
+Temperatur entsprechende Wärmestrahlung bestmöglich abstrahlen. Für einen
+solchen Körper gilt das nach den Entdeckern `Josef Stefan
 <https://de.wikipedia.org/wiki/Josef_Stefan>`_ und `Ludwig Boltzmann
 <https://de.wikipedia.org/wiki/Ludwig_Boltzmann>`_ benannte Strahlungsgesetz,
 wonach die Intensität der Wärmestrahlung proportional zur vierten Potenz der
@@ -345,16 +347,30 @@ absoluten Temperatur (gemessen in Kelvin) ist:
 .. math::
     :label: eqn-stefan-boltzmann-gesetz
 
-    j_{\mathrm{Q,s}} = \sigma \cdot T^4
+    I_{\mathrm{Q,s}} = \sigma \cdot A \cdot T^4
 
-Die dabei auftretende Konstante :math:`\sigma = \unit[5,670 \cdot 10
-^{-8}]{\frac{W}{m^2 \cdot K^4}}` wird dabei als "Stefan-Boltzmann-Konstante"
+Die dabei auftretende Konstante :math:`\sigma = \unit[5,670 \cdot
+10^{-8}]{\frac{W}{m^2 \cdot K^4}}` wird dabei als "Stefan-Boltzmann-Konstante"
 bezeichnet. Bei der Wärmestrahlung selbst handelt es sich -- wie auch bei Licht
 -- um elektromagnetische Wellen. Von einem heißen Körper wird allerdings nicht
 nur eine einzelne Wellenlänge, sondern vielmehr ein kontinuierliches Spektrum an
 unterschiedlichen Wellenlängen abgestrahlt. Die Verteilung der abgestrahlten
 Energiemengen bei einer bestimmten Temperatur ist dabei wiederum von der
 Wellenlänge :math:`\lambda` abhängig.
+
+Kann ein Objekt Wärmestrahlung nicht zu :math:`100\%` absorbieren oder
+emittieren, so muss in der obigen Formel :eq:`eqn-stefan-boltzmann-gesetz` auf
+der rechten Gleichungsseite noch ein Zahlenfaktor :math:`0 \le \varepsilon \le
+1` eingefügt werden, der den Emissions- beziehungsweise Absorptionsgrad des
+Objekts berücksichtigt:
+
+.. math::
+    :label: eqn-waermestrahlung
+
+    I_{\mathrm{Q,s}} = \varepsilon \cdot \sigma \cdot A \cdot T^4
+
+Der Emissions- beziehungsweise Absorptionsgrad :math:`\varepsilon` eines Objekts
+kann bei unterschiedlichen Wellenlängen unterschiedlich groß sein.
 
 .. figure:: ../pics/waermelehre/waermestrahlung-schwarzer-koerper.png
     :width: 60%

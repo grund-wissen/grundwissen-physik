@@ -120,6 +120,38 @@ Phasenübergänge <Wärmekapazität und Phasenübergänge>`.
 
 ----
 
+.. _wka02l:
+
+* Für die zum Erwärmen nötige Energiemenge für :math:`m = \rho \cdot V =
+  \unit[1,0]{\frac{kg}{dm^3}} \cdot \unit[3,0]{dm^3} = \unit[3,0]{kg}` Wasser
+  gilt:
+
+  .. math::
+
+      \Delta Q = m \cdot c \cdot \Delta T = \unit[3,0]{kg} \cdot
+      \unit[4,2]{\frac{kJ}{kg \cdot K}} \cdot \unit[80]{K} \approx  \unit[1008]{kJ}
+
+  Beträgt die Heizleistung :math:`P=\unit[2,0 \cdot 10^3]{W}`, so ist folgende
+  Zeit für das Erwärmen nötig:
+
+  .. math::
+
+      P = \frac{\Delta E}{\Delta t} \quad \Longleftrightarrow \quad \Delta t =
+      \frac{\Delta E}{P} = \frac{\unit[1008 \cdot 10^{3}]{J}}{\unit[2,0 \cdot 10^3]{W}}
+      \approx \unit[504]{s} \approx \unit[8,4]{min}
+
+  Zur Erwärmung sind somit (von Wärmeverlusten abgesehen) rund
+  :math:`\unit[8,4]{min}` nötig.
+
+  :ref:`Zurück zur Aufgabe <wka02>`
+
+..
+    3.0*4.2*80
+    3.0*4.2*80/2.0
+    3.0*4.2*80/2.0/60
+
+----
+
 
 .. _Lösungen Ausbreitung von Wärme:
 
@@ -271,8 +303,8 @@ Ausdehnung bei Erwärmung>` zum Abschnitt :ref:`Ausdehnung bei Erwärmung
 * Aluminium hat den größeren Längen-Ausdehnungskoeffizient als Stahl
   :math:`(\unit[0,024]{\frac{mm}{m \cdot K} } > \unit[0,010]{\frac{mm}{m
   \cdot K} })`; es dehnt sich somit bei Erwärmung stärker aus als Stahl. Soll
-  sich der Bimetall-Streifen nach oben verbiegen, muss somit das Aluminium
-  nach unten bzw. der Chrom-Stahl nach oben zeigen.
+  sich der Bimetall-Streifen nach oben verbiegen, muss somit sich das Aluminium
+  unten beziehungsweise der Chrom-Stahl oben befinden.
 
   :ref:`Zurück zur Aufgabe <wde02>`
 
@@ -282,19 +314,21 @@ Ausdehnung bei Erwärmung>` zum Abschnitt :ref:`Ausdehnung bei Erwärmung
 
 * Der Längen-Ausdehnungskoeffizient von Kupfer beträgt :math:`(\alpha
   _{\mathrm{Cu}} = \unit[0,0168]{\frac{mm}{m \cdot K} })`. Durch die Erwärmung um
-  :math:`\Delta T = \unit[40]{K}` dehnt sich der :math:`\unit[120]{m}` lange
+  :math:`\Delta T = \unit[50]{K}` dehnt sich der :math:`\unit[120]{m}` lange
   Draht somit um folgenden Betrag aus:
 
   .. math::
 
       \Delta l = \alpha \cdot l \cdot \Delta t = \unit[0,0168]{\frac{mm}{m
-      \cdot K} } \cdot \unit[120]{m} \cdot \unit[40]{K} = \unit[100,8]{mm} =
+      \cdot K} } \cdot \unit[120]{m} \cdot \unit[50]{K} = \unit[100,8]{mm} =
       \unit[10,08]{cm}
 
   Der Kupfer-Draht dehnt sich somit um rund :math:`\unit[10]{cm}` aus. Seine
-  neue Länge beträgt damit :math:`l + \Delta l \approx \unit[121,1]{m}`.
+  neue Länge beträgt damit :math:`l + \Delta l \approx \unit[120,1]{m}`.
 
   :ref:`Zurück zur Aufgabe <wde03>`
+
+.. 120*50*0.0168
 
 ----
 
@@ -320,13 +354,6 @@ Ausdehnung bei Erwärmung>` zum Abschnitt :ref:`Ausdehnung bei Erwärmung
   :ref:`Zurück zur Aufgabe <wde04>`
 
 ----
-
-* (\*) An einem Sommertag scheint die Sonne auf einen Tank mit einem Volumen von
-  :math:`V_0=\unit[50]{l}`; der Tank erhitzt sich dabei von
-  :math:`T_0=\unit[15]{\degree C}` auf :math:`\unit[50]{\degree C}`. Auf welches
-  Volumen dehnt sich der Tank aus? Um welches Volumen würde sich ein gleiches
-  Volumen an Benzin bei gleicher Temperaturdifferenz ausdehnen?
-
 
 .. _wde05l:
 
@@ -495,7 +522,7 @@ Ausdehnung bei Erwärmung>` zum Abschnitt :ref:`Ausdehnung bei Erwärmung
   .. math::
 
       p_1 \cdot V_1 = p_2 \cdot V_2 \quad \Longleftrightarrow \quad V_1 =
-      \frac{p_2}{p_1}\cdot V_2 \\ [5pt]
+      \frac{p_2}{p_1}\cdot V_2 \\[5pt]
       V_1 = \frac{\unit[9 \cdot 10^5]{Pa}}{\unit[4 \cdot 10^5]{Pa}} \cdot
       \unit[500]{l} = \unit[1125]{l}
 
@@ -531,6 +558,52 @@ Allgemeine Gasgleichung>` zum Abschnitt :ref:`Allgemeine Gasgleichung
 ----
 
 .. _wag01l:
+
+* Nach der allgemeinen Gasgleichung gilt:
+
+  .. math::
+
+      p \cdot V = n \cdot R \cdot T
+
+  Unter Normalbedingungen gilt für den Druck :math:`p=\unit[1,0 \cdot
+  10^{5}]{Pa}` und für die Temperatur :math:`T=\unit[0]{\degree C} =
+  \unit[273,15]{K}`. Somit ergibt sich für die im Volumen
+  :math:`V=\unit[1,0]{l}` enthaltene Luft folgende Stoffmenge :math:`n`:
+
+  .. math::
+
+      n = \frac{p \cdot V}{R \cdot T} = \frac{\unit[1,0 \cdot 10^{5}]{Pa} \cdot
+      \unit[1,0 \cdot 10^{-3}]{m^3}}{\unit[8,31]{\frac{J}{mol \cdot K}} \cdot
+      \unit[273,15]{K}} \approx \unit[0,044]{mol}
+
+  Die Einheit ergibt sich, wenn man :math:`\unit{Pa} = \unit{\frac{N}{m^2}}` und
+  :math:`\unit{J} = \unit{N \cdot m}` setzt:
+
+  .. math::
+
+      \unit{\frac{\frac{N}{m^2} \cdot m^3}{\frac{N \cdot m}{mol \cdot K} \cdot
+      K}} = \unit{mol}
+
+  Für die Anzahl :math:`N` an Teilchen ergibt sich aufgrund der Beziehung
+  :math:`N = n \cdot N_{\mathrm{A}}`:
+
+  .. math::
+
+      N = n \cdot N_{\mathrm{A}} = \unit[0,044]{mol} \cdot \unit[6,022 \cdot
+      10^{23}]{\frac{1}{mol}} \approx 2,7 \cdot 10^{22}
+
+  In einem Luft sind somit rund :math:`2,7 \cdot 10^{22}` Teilchen enthalten.
+
+
+  :ref:`Zurück zur Aufgabe <wag01>`
+
+..
+    1e5*1e-3/(8.31*273.15)
+    1e5*1e-3/(8.31*273.15)*6.022e23
+
+----
+
+.. _wag02l:
 
 * Nach der allgemeinen Gasgleichung gilt:
 
@@ -582,7 +655,7 @@ Allgemeine Gasgleichung>` zum Abschnitt :ref:`Allgemeine Gasgleichung
   In diesem "Laborvakuum" sind also immer noch rund :math:`25\,000` Luftteilchen
   je Kubikzentimeter enthalten.
 
-  :ref:`Zurück zur Aufgabe <wag01>`
+  :ref:`Zurück zur Aufgabe <wag02>`
 
 ----
 
@@ -591,8 +664,6 @@ Allgemeine Gasgleichung>` zum Abschnitt :ref:`Allgemeine Gasgleichung
 .. waermekraftmaschinen-loesungen.rst
 
 .. only:: html
-
-    .. rubric:: Anmerkungen:
 
 .. [#] Beim Aufpumpen eines Balles oder eines Fahrrad-Schlauches ist sich dieser
     Effekt gut spürbar, da in diesem Fall das Ventil erst öffnet, wenn der

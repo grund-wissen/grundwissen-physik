@@ -45,6 +45,11 @@ andernfalls nennt man sie anharmonisch (beispielsweise Wasserwellen).
         :download:`SVG: Formen mechanischer Wellen
         <../../pics/mechanik/schwingungen-und-wellen/formen-mechanischer-wellen.svg>`
 
+.. _Längswellen:
+.. _Longitudinalwellen:
+.. _Querwellen:
+.. _Transversalwellen:
+.. _Längswellen und Querwellen:
 
 .. rubric:: Längswellen und Querwellen
 
@@ -66,6 +71,7 @@ bei Erdbebenwellen oder bei Schallwellen in Flüssigkeiten und Festkörpern,
 treten Längs- und Querwellen gleichzeitig auf.
 
 
+.. _Phase:
 .. _Ausbreitung von Wellen:
 
 Ausbreitung von Wellen
@@ -172,8 +178,8 @@ des Wellenträgers ab. Beispielsweise gelten folgende Zusammenhänge:
   ihre Dichte steht.
 
 * Bei Longitudinalwellen in Gasen gilt :math:`v = \sqrt{\frac{\kappa \cdot
-  \pi}{\rho}}`, wobei :math:`\kappa` für den Adiabatenexponenten, :math:`p` für den
-  Druck im Gas und :math:`\rho` für dessen Dichte steht.
+  p}{\rho}}`, wobei :math:`\kappa` für den Adiabatenexponenten, :math:`p` für
+  den Druck im Gas und :math:`\rho` für dessen Dichte steht.
 
 * Bei Longitudinalwellen in festen Stäben gilt :math:`v =
   \sqrt{\frac{E}{\rho}}`, wobei :math:`E` für den Elastizitätsmodul des
@@ -205,12 +211,12 @@ Licht in Spektralfarben mittels eines Prismas genutzt.
 .. index:: Superpositionsprinzip
 .. _Superpositionsprinzip:
 
-Das Superpositionsprinzip
--------------------------
+Superpositionsprinzip
+---------------------
 
 Wellen können sich, ohne sich gegenseitig zu stören, zu einer resultierenden
-Welle überlagern. Sind die Frequenzen und Amplituden der einzelnen Schwingungen
-Wellen bekannt, so kann man daraus die resultierende Welle bestimmen.
+Welle überlagern. Sind die Frequenzen und Amplituden der einzelnen (Teil-)Wellen
+bekannt, so kann man daraus die resultierende Welle bestimmen.
 
 .. Die Ausbreitungsgeschwindigkeit einer Welle ist die Geschwindigkeit, mit der
 .. sich ein Schwingungszustand ("Wellenpaket") im Raum ausbreitet.
@@ -348,6 +354,7 @@ einzelnen Auslenkungszustand (Wellenberg bzw. Wellental, manchmal allgemein auch
 als Interferenz.
 
 .. index:: Kohärenz
+.. _Kohärenz:
 .. _Kohärenz und Gangunterschied:
 
 .. rubric:: Kohärenz und Gangunterschied
@@ -383,6 +390,7 @@ Wellentälern. Zusätzlich zur Mittelsenkrechten existieren noch weitere Linien,
 an denen es stets zu konstruktiver (oder auch destruktiver) Interferenz kommt.
 
 .. index:: Gangunterschied
+.. _Gangunterschied:
 
 Entscheidend dafür, ob es an einer Stelle zu konstruktiver oder destruktiver
 Interferenz kommt, sind die beiden Weglängen :math:`s_1` und :math:`s_2` von den
@@ -423,11 +431,14 @@ einer halben Wellenlänge bezeichnet, also :math:`\frac{1}{2},\, \frac{3}{2},\,
 
 .. index:: Stehende Welle, Oberschwingung
 
+.. _Oberton:
+.. _Oberschwingung:
+.. _Stehende Welle:
 .. _Stehende Wellen:
 
 .. rubric:: Stehende Wellen
 
-Eins Sonderfall von Interferenz ergibt sich, wenn eine Welle auf ein festes
+Ein Sonderfall von Interferenz ergibt sich, wenn eine Welle auf ein festes
 Hindernis oder das Ende des Wellenträgers trifft. Kann sich die Welle nicht
 weiter ausbreiten, so wird sie reflektiert und läuft mit gleicher
 Ausbreitungsgeschwindigkeit in die entgegengesetzte Richtung. Dabei überlagert
@@ -500,6 +511,7 @@ allerdings wegen :math:`v = \lambda \cdot f` beziehungsweise :math:`f =
 auf dem Wellenträger ab.
 
 
+.. _Phasenwinkel:
 .. _Mathematische Beschreibung von Wellen:
 
 Mathematische Beschreibung von Wellen
@@ -521,7 +533,7 @@ sie in der folgenden Abbildung dargestellt ist.
     .. only:: html
 
         | :download:`SVG: Ausbreitung einer Welle 1
-          <../../pics/mechanik/schwingungen-und-wellen/ausbreitung-von-wellen-1.png>`
+          <../../pics/mechanik/schwingungen-und-wellen/ausbreitung-von-wellen-1.svg>`
 
 In einer Entfernung von einem ganzzahligen Vielfachen der Wellenlänge
 :math:`\lambda` wiederholt sich jeweils das Wellenmuster. Die Welle hat aus
@@ -559,7 +571,7 @@ Wellenmuster in der Zeit :math:`\Delta t` um die Länge :math:`\Delta x` weiter.
     .. only:: html
 
         | :download:`SVG: Ausbreitung einer Welle 2
-          <../../pics/mechanik/schwingungen-und-wellen/ausbreitung-von-wellen-2.png>`
+          <../../pics/mechanik/schwingungen-und-wellen/ausbreitung-von-wellen-2.svg>`
 
 Für die "Verschiebung" der Welle um :math:`\Delta x` gilt:
 
@@ -596,7 +608,7 @@ die Wellenbeziehung :math:`v_{\mathrm{welle}} = \lambda \cdot f` einsetzt:
 
 Im zweiten Rechenschritt wurde der Faktor :math:`\frac{1}{\lambda}` in die
 innere Klammer hinein multipliziert. Schreibt man in dieser Form für die
-Frequenz :math:`f = \frac{1}{T}`, so wird die raümliche sowie zeitliche Periode
+Frequenz :math:`f = \frac{1}{T}`, so wird die räumliche sowie zeitliche Periode
 der Welle deutlich:
 
 .. math::

@@ -284,6 +284,7 @@ werden.
 
 
 .. index:: Optisches Gitter
+.. _Optisches Gitter:
 .. _Beugung und Interferenz an einem Gitter:
 
 .. rubric:: Beugung und Interferenz an einem Gitter
@@ -345,11 +346,6 @@ aufweisen, und somit einzelne Wellen gleicher Wellenlänge jeweils :ref:`kohäre
 spaltartige Blende vor dem Gitter weggelassen werden, da Laser aufgrund ihres
 besonderen Aufbaus bereits von sich aus kohärentes Licht erzeugen.
 
-.. index::
-    single: Spektrometer ; Gitterspektrometer
-    single: Gitterspektrometer
-
-
 .. figure::
     ../pics/optik/lichtbeugung-interferenz-gitter-spektrum.png
     :align: center
@@ -375,6 +371,8 @@ zur so genannten Spektralanalyse genutzt.
 
 
 .. index:: Lichtdispersion
+.. _Prisma:
+.. _Spektrum:
 .. _Lichtdispersion:
 
 Lichtdispersion
@@ -403,29 +401,21 @@ Prismas weißes Licht in seine Farbanteile aufteilen lässt. [#]_
 Technisch lässt sich dieses Prinzip der Spektralzerlegung auf zwei Arten
 nutzen:
 
-.. index:: Monochromator
-
 * Bei einem "Monochromator" wird anstelle eines Schirms eine Blende mit schmaler
   Öffnung angebracht. Dadurch wird nur ein schmaler Bereich (quasi eine einzelne
   Farbe) des Spektrums für weitere Versuchszwecke aus dem Lichtspektrum
   herausgefiltert.
 
-.. index::
-    single: Spektrometer ; Prismenspektrometer
-    single: Prismenspektrometer
+* Bei einem "ref:`Prismen-Spektrometer <Spektrometer>`" werden die Lichtanteile
+  des Spektrums anhand einer Skala mit den Lichtanteilen bekannter Lichtquellen
+  verglichen. Eine vergleichsweise einfache Kalibrierung wie bei einem optischen
+  Gitter ist jedoch nicht möglich, da die Dispersion nicht linear mit der
+  Lichtfrequenz bzw. der Wellenlänge zusammenhängt.
 
-* Bei einem "Prismen-Spektrometer" werden die Lichtanteile des Spektrums anhand
-  einer Skala mit den Lichtanteilen bekannter Lichtquellen verglichen. Eine
-  vergleichsweise einfache Kalibrierung wie bei einem optischen Gitter ist
-  jedoch nicht möglich, da die Dispersion nicht linear mit der Lichtfrequenz
-  bzw. der Wellenlänge zusammenhängt.
-
-.. index:: Spektrometer
-
-Bei einem Prismenspektrometer, dessen Funktionsprinzip auf der Dispersion des
-Lichts beruht, wird blaues Licht stärker von der ursprünglichen Richtung
-abgelenkt als rotes; genau umgekehrt ist es bei einem Gitterspektrometer. Ein
-weiterer Unterschied zwischen beiden Spektrometer-Arten besteht darin, dass ein
+Bei einem Prisma, dessen Funktionsprinzip auf der Dispersion des Lichts beruht,
+wird blaues Licht stärker von der ursprünglichen Richtung abgelenkt als rotes;
+genau umgekehrt ist es bei einem optischen Gitter. Ein weiterer Unterschied
+zwischen diesen beiden Arten der Spektralerzeugung besteht darin, dass ein
 Prisma im Gegensatz zu einem optischen Gitter nur *ein* Spektrum erzeugt, das
 allerdings lichtintensiver ist als die einzelnen Gitterspektren.
 

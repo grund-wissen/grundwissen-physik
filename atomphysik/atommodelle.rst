@@ -1,4 +1,6 @@
 .. index:: Atom, Atommodell
+.. _Atom:
+.. _Atommodell:
 .. _Atommodelle:
 
 Atommodelle
@@ -14,6 +16,7 @@ zusammengefasst.
 
 .. index::
     single: Atommodell; nach Demokrit
+.. _Demokrit-Modell:
 .. _Das Demokrit-Modell:
 
 Das Demokrit-Modell
@@ -46,6 +49,7 @@ Nachdenken.
 
 .. index::
     single: Atommodell; nach Dalton
+.. _Dalton-Modell:
 .. _Das Dalton-Modell:
 
 Das Dalton-Modell
@@ -86,6 +90,7 @@ Proportionen zu erklären.
 
 .. index::
     single: Atommodell; nach Thomson
+.. _Thomson-Modell:
 .. _Das Thomson-Modell:
 
 Das Thomson-Modell
@@ -98,6 +103,8 @@ Teilchen handeln müsse. Diese auf diese Weise entdeckten "Elektronen" ließen
 sich durch ein Magnetfeld ablenken und besaßen eine fast 2000 mal kleinere Masse
 als das leichteste bekannte Atom (Wasserstoff). [#]_
 
+.. _Ion:
+
 Da Thomson diesen "Elektronen"-Strahl aus jedem Metall durch Erhitzen gewinnen
 konnte, mussten diese Teilchen bereits im Metall enthalten sein; Atome konnten
 folglich nicht die kleinsten Bausteine der Materie bzw. unteilbar sein.
@@ -109,8 +116,9 @@ Thomson schlug daher im Jahr 1904 folgendes Atommodell vor:
   einem Kuchen.
 * Die Atome sind nach außen hin neutral. Sie können jedoch Elektronen abgeben
   oder zusätzliche aufnehmen.
-* Bei der Abgabe von Elektronen entstehen positiv geladene Ionen, bei der
-  Aufnahme von Elektronen entstehen negativ geladene Ionen.
+* Bei der Abgabe von Elektronen entstehen aus den ursprünglich neutralen Atomen
+  positiv geladene Ionen, bei der Aufnahme von Elektronen entstehen entsprechend
+  negativ geladene Ionen.
 
 .. figure::
     ../pics/atomphysik/atommodell-thomson.png
@@ -136,6 +144,7 @@ erklären.
 .. index::
     single: Atommodell; nach Rutherford
 .. _Rutherford-Modell:
+.. _Das Rutherford-Modell:
 
 Das Rutherford-Modell
 ---------------------
@@ -188,6 +197,7 @@ Bahnform der Elektronen und über ihre Energieverteilung treffen.
 .. index::
     single: Atommodell; nach Bohr
 .. _Bohr-Modell:
+.. _Das Bohr-Modell:
 
 Das Bohr-Modell
 ---------------
@@ -260,6 +270,8 @@ einen energiereicheren (weiter außen gelegenen) Zustand anheben.
 .. index::
     single: Atommodell; nach Sommerfeld
 .. _Sommerfeld-Modell:
+.. _Sommerfeld-Erweiterung:
+.. _Die Sommerfeld-Erweiterung:
 
 Die Sommerfeld-Erweiterung
 --------------------------
@@ -295,6 +307,9 @@ dennoch, wie sich später herausstellte, als sinnvoll erwiesen.
 
 .. index::
     single: Atommodell; Orbitalmodell
+.. _Orbital:
+.. _Orbitalmodell:
+.. _Orbital-Modell:
 .. _Das Orbitalmodell:
 
 Das Orbitalmodell
@@ -308,8 +323,7 @@ Erkenntnisse von `Erwin Schrödinger
 die unabhängig voneinander und mit verschiedenen mathematischen Zugängen die
 Quantenmechanik begründeten.
 
-.. index::
-    single: Orbital
+.. index:: Orbital
 
 Die Elektronenbahnen im Orbitalmodell werden als Lösungen der so genannten
 "Schrödinger-Gleichung" angesehen. Diese entspricht formal einer Wellengleichung
@@ -321,8 +335,8 @@ angegeben werden, innerhalb derer sich ein jeweiliges Elektron mit einer sehr
 großen Wahrscheinlichkeit :math:`(>90\%)` aufhält. Diese dreidimensionalen
 Aufenthaltsräume werden Orbitale genannt.
 
-.. index::
-    single: Quantenzahl
+.. index:: Quantenzahl
+.. _Quantenzahl:
 
 Die konkrete Form eines Orbitals hängt dabei von *vier* Quantenzahlen ab:
 
@@ -345,8 +359,10 @@ Jedes Elektron wird durch die obigen Quantenzahlen genau charakterisiert.
 Die vier Quantenzahlen :math:`n ,\, l ,\, m` und  :math:`s` können nur
 bestimmte, ganzzahlige Werte annehmen:
 
-.. index::
-    single: Quantenzahl; Hauptquantenzahl
+.. index:: Quantenzahl; Hauptquantenzahl
+.. _Hauptquantenzahl:
+.. _Haupt-Quantenzahl:
+
 
 * Für die Hauptquantenzahl :math:`n` gilt:
 
@@ -359,8 +375,9 @@ bestimmte, ganzzahlige Werte annehmen:
  unterschiedlich weit vom Atomkern entfernten "Planetenbahnen" des Bohrschen
  Atommodells.
 
-.. index::
-    single: Quantenzahl; Nebenquantenzahl
+.. index:: Quantenzahl; Nebenquantenzahl
+.. _Nebenquantenzahl:
+.. _Neben-Quantenzahl:
 
 * Für die Nebenquantenzahl `l` gilt:
 
@@ -374,8 +391,9 @@ bestimmte, ganzzahlige Werte annehmen:
   bestimmten Energieniveau :math:`n` treten entsprechend auch :math:`n`
   verschiedene Formen an Orbitalen auf.
 
-.. index::
-    single: Quantenzahl; Magnetquantenzahl
+.. index:: Quantenzahl; Magnetquantenzahl
+.. _Magnetquantenzahl:
+.. _Magnet-Quantenzahl:
 
 * Für die Magnetquantenzahl :math:`m` gilt:
 
@@ -389,8 +407,9 @@ bestimmte, ganzzahlige Werte annehmen:
   eine unterschiedliche räumliche Ausrichtung der jeweiligen Orbitale zur
   Folge.
 
-.. index::
-    single: Quantenzahl; Spinquantenzahl
+.. index:: Quantenzahl; Spinquantenzahl
+.. _Spinquantenzahl:
+.. _Spin-Quantenzahl:
 
 * Für die Spinquantenzahl :math:`s` gilt:
 
@@ -404,6 +423,7 @@ bestimmte, ganzzahlige Werte annehmen:
   :math:`s = - \frac{1}{2}` besitzen.
 
 .. index:: Pauli-Prinzip
+.. _Pauli-Prinzip:
 
 Nach dem im Jahr 1925 von `Wolfgang Pauli
 <https://de.wikipedia.org/wiki/Wolfgang_Pauli>`_ formulierten und nach ihm
@@ -411,6 +431,7 @@ benannten "Pauli-Prinzip" müssen sich alle Elektronen eines Atoms in mindestens
 einer Quantenzahl unterscheiden.
 
 
+.. _Orbitalform:
 .. _Orbitalformen:
 
 .. rubric:: Orbitalformen
@@ -418,8 +439,8 @@ einer Quantenzahl unterscheiden.
 Das Aussehen der Orbitale hängt von der Nebenquantenzahl :math:`l` sowie von der
 Magnetquantenzahl :math:`m` ab:
 
-.. index::
-    single: Orbital; s-Orbital
+.. index:: Orbital; s-Orbital
+.. _s-Orbital:
 
 * Orbitale mit der Nebenquantenzahl :math:`l=0` haben eine kugelförmige
   Raumstruktur. Sie werden aus historischen Gründen auch als
@@ -439,8 +460,8 @@ Magnetquantenzahl :math:`m` ab:
         :download:`SVG: s-Orbital
         <../pics/atomphysik/s-orbital.svg>`
 
-.. index::
-    single: Orbital; p-Orbital
+.. index:: Orbital; p-Orbital
+.. _p-Orbital:
 
 * Orbitale mit der Nebenquantenzahl :math:`l=1` haben eine hantelförmige
   Raumstruktur. Sie werden aus historischen Gründen auch als
@@ -463,8 +484,8 @@ Magnetquantenzahl :math:`m` ab:
         :download:`SVG: p-Orbitale
         <../pics/atomphysik/p-orbital.svg>`
 
-.. index::
-    single: Orbital; d-Orbital
+.. index:: Orbital; d-Orbital
+.. _d-Orbital:
 
 * Orbitale mit der Nebenquantenzahl :math:`l=2` haben eine rosettenförmige
   Raumstruktur. Sie werden aus historischen Gründen auch als
@@ -487,8 +508,8 @@ Magnetquantenzahl :math:`m` ab:
         :download:`SVG: d-Orbitale
         <../pics/atomphysik/d-orbitale.svg>`
 
-.. index::
-    single: Orbital; f-Orbital
+.. index:: Orbital; f-Orbital
+.. _f-Orbital:
 
 * Orbitale mit der Nebenquantenzahl :math:`l=3` haben ebenfalls eine
   rosettenförmige, noch weiter untergliederte Raumstruktur. Sie werden aus

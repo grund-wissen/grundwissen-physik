@@ -1,5 +1,6 @@
 
 .. _Ausbreitung des Lichts:
+.. _Licht:
 .. _Lichtausbreitung:
 
 Ausbreitung des Lichts
@@ -19,8 +20,8 @@ bis :math:`\unit[700]{nm}` (rot).
 Lichtquellen
 ------------
 
-Körper, die selbständig Licht erzeugen und aussenden, heißen selbstleuchtende
-Körper oder Lichtquellen. [#]_ Die meisten Körper (in der Optik meist
+Objekte, die selbständig Licht erzeugen und aussenden, heißen selbstleuchtende
+Objekte oder Lichtquellen. [#]_ Die meisten Objekte (in der Optik meist
 "Gegenstände" genannt) erzeugen selbst kein Licht, sind aber trotzdem sichtbar.
 Sie werfen einen Teil des auf sie fallenden Lichts zurück. Man nennt sie
 reflektierende oder beleuchtete Gegenstände.
@@ -44,12 +45,12 @@ Weltall erscheint uns deshalb schwarz).
 
 *Beispiele:*
 
-* *Selbstleuchtende* Körper:
+* *Selbstleuchtende* Objekte:
 
       Sonne, Sterne, Feuer, Glüh- und Leuchtstofflampen, Kerzen, Glühwürmchen,
       LEDs usw.
 
-* *Beleuchtete* Körper:
+* *Beleuchtete* Objekte:
 
       Erde und Mond, Planeten, Gegenstände (Satelliten, Reflektoren,
       Staubkörnchen usw.)
@@ -216,10 +217,11 @@ Die Lichtdurchlässigkeit
 
 Licht durchlässige Gegenstände gibt es auf zweierlei Arten:
 
-* Durchsichtige Körper (beispielsweise Fensterglas) lassen Licht so hindurch,
+* Durchsichtige Objekte (beispielsweise Fensterglas) lassen Licht so hindurch,
   dass Gegenstände hinter ihnen zu erkennen sind.
-* Durchscheinende Körper (beispielsweise Mattglas oder ein Blatt Papier) lassen
-  Licht so hindurch, dass Gegenstände hinter ihnen nicht zu erkennen sind.
+
+* Durchscheinende Objekte (beispielsweise Mattglas) lassen Licht so hindurch,
+  dass Gegenstände hinter ihnen nicht zu erkennen sind.
 
 .. figure::
     ../pics/optik/lichtdurchlaessigkeit.png
@@ -228,19 +230,22 @@ Licht durchlässige Gegenstände gibt es auf zweierlei Arten:
     :name: fig-lichtdurchlaessigkeit
     :alt:  fig-lichtdurchlaessigkeit
 
-    Eine Kerze hinter einer durchsichtigen bzw. durchscheinenden Scheibe.
+    Eine Kerze hinter einer durchsichtigen beziehungsweise durchscheinenden
+    Scheibe.
 
     .. only:: html
 
         :download:`SVG: Lichtdurchlässigkeit
         <../pics/optik/lichtdurchlaessigkeit.svg>`
 
-Die Lichtdurchlässigkeit eines Körpers hängt vom Stoff und von der Schichtdicke
+Die Lichtdurchlässigkeit eines Objekts hängt vom Material und von der Schichtdicke
 ab. Wasser beispielsweise ist in dünnen Schichten Licht durchlässig, in dicken
-nicht. In großen Meerestiefen herrscht völlige Dunkelheit.
+nicht; in großen Meerestiefen herrscht völlige Dunkelheit.
 
-Licht undurchlässige Körper (beispielsweise  Metall, Karton usw.) lassen kein
-Licht hindurch, sie sind undurchsichtig.
+Licht undurchlässige Gegenstände (beispielsweise  Metall, Karton usw.) lassen
+kein Licht hindurch, sie sind undurchsichtig -- vorausgesetzt, dass sie eine
+ausreichende Materialstärke aufweisen. Beispielsweise sind sehr dünne
+Papierschichten durchscheinend, obwohl Papier an sich undurchsichtig ist.
 
 
 .. index:: Schatten
@@ -249,7 +254,7 @@ Licht hindurch, sie sind undurchsichtig.
 Blenden und Schatten
 --------------------
 
-Durch Licht undurchlässige Körper kann die Ausbreitung des Lichts begrenzt
+Durch Licht undurchlässige Gegenstände kann die Ausbreitung des Lichts begrenzt
 werden.
 
 .. index:: Blende
@@ -280,9 +285,9 @@ durch die Bündelachse und Randstrahlen dargestellt werden.
 
 .. rubric:: Der Schlagschatten
 
-Wird ein undurchsichtiger Körper von einer kleinen (punktförmigen) Lichtquelle
-beleuchtet, so entsteht auf der von der Lichtquelle abgewandten Seite ein
-Schatten.
+Wird ein undurchsichtiger Gegenstand von einer kleinen (punktförmigen)
+Lichtquelle beleuchtet, so entsteht auf der von der Lichtquelle abgewandten
+Seite ein Schatten.
 
 .. figure::
     ../pics/optik/schatten-schlagschatten.png
@@ -302,10 +307,10 @@ Schatten.
 
 .. rubric:: Kern- und Halbschatten
 
-Wird ein undurchsichtiger Körper von zwei punktförmigen Lichtquellen
+Wird ein undurchsichtiger Gegenstand von zwei punktförmigen Lichtquellen
 beleuchtet, so bilden sich zwei Schattenzonen aus: Ein Kernschatten und ein
-Halbschatten. Eine ausgedehnte Lichtquelle erzeugt hinter einem
-Licht undurchlässigen Körper ebenfalls einen Kern- und einen Halbschatten. [#]_
+Halbschatten. Eine ausgedehnte Lichtquelle erzeugt hinter einem Licht
+undurchlässigen Gegenstand ebenfalls einen Kern- und einen Halbschatten. [#]_
 
 .. figure::
     ../pics/optik/schatten-kernschatten-halbschatten.png

@@ -68,6 +68,9 @@ Ohne wirkende Reibungskräfte wiederholt sich der Schwingungsvorgang
 ..  elektromagnetische Wellen innerhalb eines bestimmten Frequenzbereichs.
 
 .. index:: Amplitude
+.. _Amplitude:
+.. _Schwingungsdauer:
+.. _Frequenz:
 .. _Amplitude, Schwingungsdauer und Frequenz:
 
 Amplitude, Schwingungsdauer und Frequenz
@@ -183,6 +186,8 @@ beziehungsweise eine Vergrößerung der Schwingungsdauer.
 
 
 .. index:: Schwingung; erzwungen
+.. _Erzwungene Schwingungen:
+.. _Resonanz:
 .. _Erzwungene Schwingungen und Resonanz:
 
 Erzwungene Schwingungen und Resonanz
@@ -191,9 +196,9 @@ Erzwungene Schwingungen und Resonanz
 Wird ein schwingendes System einmalig angeregt und dann sich selbst überlassen,
 so führt es Schwingungen mit seiner Eigenfrequenz :math:`f_0` aus.  Wird die
 Energie jedoch über einen längeren Zeitraum hinweg periodisch zugeführt, so
-führt das schwingende System -- nach einer nach einer kurzen Übergangszeit -- so
-genannte "erzwungene" Schwingungen mit der Frequenz :math:`f_{\mathrm{a}}` des
-anregenden Systems aus.
+führt das schwingende System -- nach einer kurzen Übergangszeit -- so genannte
+"erzwungene" Schwingungen mit der Frequenz :math:`f_{\mathrm{a}}` des anregenden
+Systems aus.
 
 .. index::
     single: Schwingung; resonant

@@ -10,16 +10,164 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1052.3622"
-   height="744.09448"
+   width="1122.5197"
+   height="793.70081"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="druck-in-fluessigkeiten.svg">
+   inkscape:version="0.92.1 unknown"
+   sodipodi:docname="kolbendruck.svg"
+   viewBox="0 0 1052.3622 744.09448">
   <title
-     id="title7183">Druck in Fluessigkeiten</title>
+     id="title7183">Kolbendruck und Druckausbreitung in Fluessigkeiten</title>
   <defs
      id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker6264"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#d40000;stroke-opacity:1;fill:#d40000;fill-opacity:1"
+         id="path6262" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker6150"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#d40000;stroke-opacity:1;fill:#d40000;fill-opacity:1"
+         id="path6148" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5836"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5834"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#d40000;stroke-opacity:1;fill:#d40000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5710"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#d40000;stroke-opacity:1;fill:#d40000;fill-opacity:1"
+         id="path5708" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5614"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5612"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#d40000;stroke-opacity:1;fill:#d40000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5524"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#d40000;stroke-opacity:1;fill:#d40000;fill-opacity:1"
+         id="path5522" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5452"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5450"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#d40000;stroke-opacity:1;fill:#d40000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5386"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#d40000;stroke-opacity:1;fill:#d40000;fill-opacity:1"
+         id="path5384" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Send"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4746"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#d40000;stroke-opacity:1;fill:#d40000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4976"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4740"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#d40000;stroke-opacity:1;fill:#d40000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
     <marker
        style="overflow:visible"
        id="Arrow2Mend"
@@ -28,7 +176,7 @@
        orient="auto"
        inkscape:stockid="Arrow2Mend">
       <path
-         transform="scale(-0.6,-0.6)"
+         transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
          id="path4180"
@@ -37,15 +185,16 @@
     <marker
        inkscape:stockid="TriangleOutM"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="TriangleOutM"
        style="overflow:visible">
       <path
          id="path9059"
-         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
-         transform="scale(0.4)" />
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
     </marker>
     <linearGradient
        y2="311.43027"
@@ -209,31 +358,31 @@
        inkscape:collect="always" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_x="0 : 0.49999998 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_z="1 : 0.49999998 : 1"
+       inkscape:persp3d-origin="0.50000001 : 0.33333332 : 1"
        id="perspective15706" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_x="0 : 0.49999998 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_z="1 : 0.49999998 : 1"
+       inkscape:persp3d-origin="0.50000001 : 0.33333332 : 1"
        id="perspective15407" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_x="0 : 0.49999998 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_z="1 : 0.49999998 : 1"
+       inkscape:persp3d-origin="0.50000001 : 0.33333332 : 1"
        id="perspective15202" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_x="0 : 0.49999998 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_z="1 : 0.49999998 : 1"
+       inkscape:persp3d-origin="0.50000001 : 0.33333332 : 1"
        id="perspective15176" />
     <linearGradient
        y2="311.43027"
@@ -364,7 +513,6 @@
        xlink:href="#linearGradient2830"
        inkscape:collect="always" />
     <filter
-       color-interpolation-filters="sRGB"
        x="-0.25"
        y="-0.25"
        width="1.5"
@@ -372,7 +520,8 @@
        inkscape:menu-tooltip="Creates a black light inside and outside"
        inkscape:menu="Morphology"
        inkscape:label="Black hole"
-       id="filter10579">
+       id="filter10579"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          result="result1"
          in="SourceAlpha"
@@ -723,10 +872,10 @@
        y2="181.71951" />
     <inkscape:perspective
        id="perspective91415"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:persp3d-origin="0.50000001 : 0.33333332 : 1"
+       inkscape:vp_z="1 : 0.49999998 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_x="0 : 0.49999998 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        inkscape:collect="always"
@@ -794,24 +943,24 @@
        y2="181.71951" />
     <inkscape:perspective
        id="perspective91332"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:persp3d-origin="0.50000001 : 0.33333332 : 1"
+       inkscape:vp_z="1 : 0.49999998 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_x="0 : 0.49999998 : 1"
        sodipodi:type="inkscape:persp3d" />
     <inkscape:perspective
        id="perspective46851"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:persp3d-origin="0.50000001 : 0.33333332 : 1"
+       inkscape:vp_z="1 : 0.49999998 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_x="0 : 0.49999998 : 1"
        sodipodi:type="inkscape:persp3d" />
     <inkscape:perspective
        id="perspective46818"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:persp3d-origin="0.50000001 : 0.33333332 : 1"
+       inkscape:vp_z="1 : 0.49999998 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_x="0 : 0.49999998 : 1"
        sodipodi:type="inkscape:persp3d" />
     <linearGradient
        y2="311.43027"
@@ -847,10 +996,10 @@
        inkscape:collect="always" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_x="0 : 0.49999998 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_z="1 : 0.49999998 : 1"
+       inkscape:persp3d-origin="0.50000001 : 0.33333332 : 1"
        id="perspective2990" />
     <linearGradient
        id="linearGradient3701">
@@ -923,17 +1072,17 @@
        inkscape:collect="always" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_x="0 : 0.49999998 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_z="1 : 0.49999998 : 1"
+       inkscape:persp3d-origin="0.50000001 : 0.33333332 : 1"
        id="perspective4188" />
     <inkscape:perspective
        id="perspective4159"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04725 : 350.78738 : 1"
+       inkscape:vp_z="744.0945 : 526.18108 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_x="0 : 526.18108 : 1"
        sodipodi:type="inkscape:persp3d" />
     <marker
        style="overflow:visible"
@@ -1171,10 +1320,10 @@
        id="path-effect3238"
        effect="knot" />
     <inkscape:path-effect
-       bendpath4="m 235.50124,326.90532 0,16.19407"
-       bendpath3="m 235.50124,343.09939 294.79413,0"
-       bendpath2="m 530.29537,326.90532 0,16.19407"
-       bendpath1="m 235.50124,326.90532 294.79413,0"
+       bendpath4="m 235.50124,326.90532 v 16.19407"
+       bendpath3="M 235.50124,343.09939 H 530.29537"
+       bendpath2="m 530.29537,326.90532 v 16.19407"
+       bendpath1="M 235.50124,326.90532 H 530.29537"
        xx="true"
        yy="true"
        is_visible="true"
@@ -1199,10 +1348,10 @@
        id="path-effect3248"
        effect="construct_grid" />
     <inkscape:path-effect
-       bendpath4="m -131.52186,-237.36972 0,272.943206"
-       bendpath3="m -131.52186,35.573486 205.060961,0"
-       bendpath2="m 507.26058,307.08488 -60.46513,-15.08098 0.21175,9.82358 -105.96445,0.23296 0.23221,10.77281 105.96444,-0.23295 0.21174,9.82359 59.80944,-15.33901 z"
-       bendpath1="m 507.26058,307.08488 -60.46513,-15.08098 0.21175,9.82358 -105.96445,0.23296 0.23221,10.77281 105.96444,-0.23295 0.21174,9.82359 59.80944,-15.33901 z"
+       bendpath4="M -131.52186,-237.36972 V 35.573486"
+       bendpath3="M -131.52186,35.573486 H 73.539101"
+       bendpath2="m 507.26058,307.08488 -60.46513,-15.08098 0.21175,9.82358 -105.96445,0.23296 0.23221,10.77281 105.96444,-0.23295 0.21174,9.82359 z"
+       bendpath1="m 507.26058,307.08488 -60.46513,-15.08098 0.21175,9.82358 -105.96445,0.23296 0.23221,10.77281 105.96444,-0.23295 0.21174,9.82359 z"
        xx="true"
        yy="false"
        is_visible="true"
@@ -1212,7 +1361,7 @@
        vertical="false"
        scale_y_rel="false"
        prop_scale="3"
-       bendpath="m -131.52186,-100.89812 205.060961,0"
+       bendpath="M -131.52186,-100.89812 H 73.539101"
        is_visible="true"
        id="path-effect3321"
        effect="bend_path" />
@@ -1220,7 +1369,7 @@
        vertical="false"
        scale_y_rel="false"
        prop_scale="3"
-       bendpath="m 263.75083,87.192284 97.58074,0"
+       bendpath="m 263.75083,87.192284 h 97.58074"
        is_visible="true"
        id="path-effect3323"
        effect="bend_path" />
@@ -1228,7 +1377,7 @@
        vertical="false"
        scale_y_rel="false"
        prop_scale="2"
-       bendpath="m 638.39496,551.02347 12.60837,0"
+       bendpath="m 638.39496,551.02347 h 12.60837"
        is_visible="true"
        id="path-effect3333"
        effect="bend_path" />
@@ -1259,7 +1408,7 @@
     <inkscape:path-effect
        steps="5"
        equidistant_spacing="true"
-       trajectory="M 0,0 0,0"
+       trajectory="M 0,0 V 0"
        is_visible="true"
        id="path-effect3346"
        effect="interpolate" />
@@ -1268,7 +1417,8 @@
        teeth="20"
        is_visible="true"
        id="path-effect3363"
-       effect="gears" />
+       effect="gears"
+       min_radius="5" />
     <pattern
        inkscape:collect="always"
        xlink:href="#Wavy"
@@ -1293,9 +1443,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="305.75093"
-     inkscape:cy="356.16853"
+     inkscape:zoom="0.54090909"
+     inkscape:cx="686.30017"
+     inkscape:cy="487.49822"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1306,16 +1456,12 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="974"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
-    <sodipodi:guide
-       orientation="0,1"
-       position="330,612.14286"
-       id="guide2991" />
-  </sodipodi:namedview>
+     inkscape:window-maximized="1"
+     inkscape:snap-intersection-paths="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -1324,7 +1470,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Druck in Fluessigkeiten</dc:title>
+        <dc:title>Kolbendruck und Druckausbreitung in Fluessigkeiten</dc:title>
         <dc:date>2013-04-27</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -1349,13 +1495,14 @@
             <rdf:li>Mechanik der Fluessigkeiten und Gase</rdf:li>
             <rdf:li>Druck</rdf:li>
             <rdf:li>Kolbendruck</rdf:li>
+            <rdf:li>Stempeldruck</rdf:li>
           </rdf:Bag>
         </dc:subject>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -1379,7 +1526,7 @@
      id="layer1"
      transform="translate(0,-308.2677)">
     <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:6.00000048;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:6.00000048;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect7104"
        width="935.40125"
        height="276.7818"
@@ -1388,13 +1535,6 @@
        inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/druck-in-fluessigkeiten.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
-    <rect
-       style="fill:#afc6e9;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect4095"
-       width="223.05025"
-       height="224.84843"
-       x="286.1843"
-       y="-342.74796" />
     <g
        transform="matrix(-1.1692275e-8,-0.33101112,0.33101112,-1.1692275e-8,546.12812,595.92461)"
        id="g6851"
@@ -1403,7 +1543,7 @@
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;enable-background:accumulate"
          d="m -180.80298,396.19832 c 35.01335,0 70.0267,0 105.040055,0 0,0 7.350289,-7.33223 7.338097,-7.39062 l -7.338097,-7.39063 c -35.013355,0 -70.026705,0 -105.040055,0 z"
          id="path6853"
          inkscape:connector-curvature="0"
@@ -1429,7 +1569,7 @@
     </g>
     <path
        style="fill:#afc6e9;fill-opacity:1;stroke:none"
-       d="m 475.25181,610.60486 242.24955,0 0,56.56854 100.10517,0 10e-6,25.25382 -100.10517,0 0,56.56854 -242.94965,0 z"
+       d="m 475.25181,610.60486 h 242.24955 v 56.56854 h 100.10517 l 10e-6,25.25382 H 717.50137 v 56.56854 H 474.55172 Z"
        id="path5604"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -1438,7 +1578,7 @@
        inkscape:export-ydpi="150" />
     <path
        style="fill:none;stroke:#808080;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 476.42796,615.3062 0,130.01752"
+       d="M 476.42796,615.3062 V 745.32372"
        id="path2989"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/druck-in-fluessigkeiten.png"
@@ -1447,8 +1587,8 @@
     <path
        inkscape:connector-curvature="0"
        id="path2995"
-       d="m 140.60947,615.30619 0,130.01752"
-       style="fill:none;stroke:#808080;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 145.51167,615.30619 V 745.32371"
+       style="fill:none;stroke:#808080;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/druck-in-fluessigkeiten.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
@@ -1461,22 +1601,22 @@
       <path
          inkscape:connector-curvature="0"
          id="path2993"
-         d="m 220.56913,661.4224 326.40522,0"
+         d="M 220.56913,661.4224 H 546.97435"
          style="fill:none;stroke:#808080;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          style="fill:none;stroke:#808080;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 220.56913,649.4224 326.40522,0"
+         d="M 220.56913,649.4224 H 546.97435"
          id="path5606"
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
          id="path6987"
-         d="m 220.56913,655.4224 326.40522,0"
+         d="M 220.56913,655.4224 H 546.97435"
          style="fill:none;stroke:#808080;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <path
        style="opacity:0.3;fill:#e6e6e6;stroke:none"
-       d="m 323.30058,610.60486 393.39736,0 0,56.56854 100.90859,0 10e-6,25.25382 -100.90859,0 0,56.56854 -393.39737,0 z"
+       d="m 323.30058,610.60486 h 393.39736 v 56.56854 h 100.90859 l 10e-6,25.25382 H 716.69795 v 56.56854 H 323.30058 Z"
        id="path3774"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -1494,7 +1634,7 @@
        inkscape:export-ydpi="150" />
     <path
        style="opacity:0.5;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 323.30058,610.60486 0,138.3909"
+       d="m 323.30058,610.60486 v 138.3909"
        id="path3772"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/druck-in-fluessigkeiten.png"
@@ -1511,7 +1651,7 @@
          inkscape:connector-curvature="0"
          id="path11369"
          d="m 59.655182,144.41473 c 2.861083,5.96061 -6.539027,51.00116 5.165734,47.76628 5.504821,-1.52138 10.410325,-7.11955 13.349637,-12.44628 5.022207,-9.10144 5.829939,-30.6356 5.829939,-30.6356"
-         style="fill:#ffccaa;fill-opacity:1;stroke:#000000;stroke-width:0.86760914;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:#ffccaa;fill-opacity:1;stroke:#000000;stroke-width:0.86760914;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="scs"
          inkscape:connector-curvature="0"
@@ -1520,269 +1660,13 @@
          style="fill:#cccccc;stroke:#000000;stroke-width:0.5784061;stroke-linecap:round;stroke-miterlimit:4;stroke-dashoffset:0" />
     </g>
     <g
-       style="fill:#d40000"
-       id="g6845"
-       transform="matrix(-1.1692275e-8,-0.33101112,0.33101112,-1.1692275e-8,467.23084,602.69451)"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/druck-in-fluessigkeiten.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         sodipodi:nodetypes="cccccc"
-         inkscape:connector-curvature="0"
-         id="path6847"
-         d="m -180.80298,396.19832 c 35.01335,0 70.0267,0 105.040055,0 0,0 7.350289,-7.33223 7.338097,-7.39062 l -7.338097,-7.39063 c -35.013355,0 -70.026705,0 -105.040055,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <path
-         inkscape:transform-center-x="-3.0302635"
-         transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-         inkscape:transform-center-y="-0.00017641075"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.6179939"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="6.060915"
-         sodipodi:r1="12.121831"
-         sodipodi:cy="1607.946"
-         sodipodi:cx="-707.10675"
-         sodipodi:sides="3"
-         id="path6849"
-         style="fill:#d40000;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-         sodipodi:type="star" />
-    </g>
-    <g
-       style="fill:#d40000"
-       id="g6869"
-       transform="matrix(-0.23406021,-0.2340602,0.2340602,-0.23406021,424.12633,700.83324)"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/druck-in-fluessigkeiten.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         sodipodi:nodetypes="cccccc"
-         inkscape:connector-curvature="0"
-         id="path6871"
-         d="m -180.80298,396.19832 c 35.01335,0 70.0267,0 105.040055,0 0,0 7.350289,-7.33223 7.338097,-7.39062 l -7.338097,-7.39063 c -35.013355,0 -70.026705,0 -105.040055,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <path
-         inkscape:transform-center-x="-3.0302635"
-         transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-         inkscape:transform-center-y="-0.00017641075"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.6179939"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="6.060915"
-         sodipodi:r1="12.121831"
-         sodipodi:cy="1607.946"
-         sodipodi:cx="-707.10675"
-         sodipodi:sides="3"
-         id="path6873"
-         style="fill:#d40000;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-         sodipodi:type="star" />
-    </g>
-    <g
-       style="fill:#d40000"
-       id="g6863"
-       transform="matrix(-0.23406021,0.23406022,-0.23406022,-0.23406021,606.1335,833.80385)"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/druck-in-fluessigkeiten.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         sodipodi:nodetypes="cccccc"
-         inkscape:connector-curvature="0"
-         id="path6865"
-         d="m -180.80298,396.19832 c 35.01335,0 70.0267,0 105.040055,0 0,0 7.350289,-7.33223 7.338097,-7.39062 l -7.338097,-7.39063 c -35.013355,0 -70.026705,0 -105.040055,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <path
-         inkscape:transform-center-x="-3.0302635"
-         transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-         inkscape:transform-center-y="-0.00017641075"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.6179939"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="6.060915"
-         sodipodi:r1="12.121831"
-         sodipodi:cy="1607.946"
-         sodipodi:cx="-707.10675"
-         sodipodi:sides="3"
-         id="path6867"
-         style="fill:#d40000;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-         sodipodi:type="star" />
-    </g>
-    <g
-       transform="matrix(0.23406021,-0.2340602,-0.2340602,-0.23406021,767.72989,700.83324)"
-       id="g6875"
-       style="fill:#d40000"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/druck-in-fluessigkeiten.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m -180.80298,396.19832 c 35.01335,0 70.0267,0 105.040055,0 0,0 7.350289,-7.33223 7.338097,-7.39062 l -7.338097,-7.39063 c -35.013355,0 -70.026705,0 -105.040055,0 z"
-         id="path6877"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc" />
-      <path
-         sodipodi:type="star"
-         style="fill:#d40000;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path6879"
-         sodipodi:sides="3"
-         sodipodi:cx="-707.10675"
-         sodipodi:cy="1607.946"
-         sodipodi:r1="12.121831"
-         sodipodi:r2="6.060915"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="2.6179939"
-         inkscape:flatsided="false"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         inkscape:transform-center-y="-0.00017641075"
-         transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-         inkscape:transform-center-x="-3.0302635" />
-    </g>
-    <g
-       transform="matrix(-0.33101112,1.1692275e-8,-1.1692275e-8,-0.33101112,472.26491,809.01053)"
-       id="g6857"
-       style="fill:#d40000"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/druck-in-fluessigkeiten.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m -180.80298,396.19832 c 35.01335,0 70.0267,0 105.040055,0 0,0 7.350289,-7.33223 7.338097,-7.39062 l -7.338097,-7.39063 c -35.013355,0 -70.026705,0 -105.040055,0 z"
-         id="path6859"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc" />
-      <path
-         sodipodi:type="star"
-         style="fill:#d40000;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path6861"
-         sodipodi:sides="3"
-         sodipodi:cx="-707.10675"
-         sodipodi:cy="1607.946"
-         sodipodi:r1="12.121831"
-         sodipodi:r2="6.060915"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="2.6179939"
-         inkscape:flatsided="false"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         inkscape:transform-center-y="-0.00017641075"
-         transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-         inkscape:transform-center-x="-3.0302635" />
-    </g>
-    <g
-       transform="matrix(0.33101112,-1.1692275e-8,1.1692275e-8,0.33101112,719.59132,551.61772)"
-       id="g6881"
-       style="fill:#d40000"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/druck-in-fluessigkeiten.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m -180.80298,396.19832 c 35.01335,0 70.0267,0 105.040055,0 0,0 7.350289,-7.33223 7.338097,-7.39062 l -7.338097,-7.39063 c -35.013355,0 -70.026705,0 -105.040055,0 z"
-         id="path6883"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc" />
-      <path
-         sodipodi:type="star"
-         style="fill:#d40000;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path6885"
-         sodipodi:sides="3"
-         sodipodi:cx="-707.10675"
-         sodipodi:cy="1607.946"
-         sodipodi:r1="12.121831"
-         sodipodi:r2="6.060915"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="2.6179939"
-         inkscape:flatsided="false"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         inkscape:transform-center-y="-0.00017641075"
-         transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-         inkscape:transform-center-x="-3.0302635" />
-    </g>
-    <g
-       style="fill:#d40000"
-       id="g6887"
-       transform="matrix(0.23406021,0.2340602,-0.2340602,0.23406021,767.72986,651.79666)"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/druck-in-fluessigkeiten.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         sodipodi:nodetypes="cccccc"
-         inkscape:connector-curvature="0"
-         id="path6889"
-         d="m -180.80298,396.19832 c 35.01335,0 70.0267,0 105.040055,0 0,0 7.350289,-7.33223 7.338097,-7.39062 l -7.338097,-7.39063 c -35.013355,0 -70.026705,0 -105.040055,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <path
-         inkscape:transform-center-x="-3.0302635"
-         transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-         inkscape:transform-center-y="-0.00017641075"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="2.6179939"
-         sodipodi:arg1="1.5707963"
-         sodipodi:r2="6.060915"
-         sodipodi:r1="12.121831"
-         sodipodi:cy="1607.946"
-         sodipodi:cx="-707.10675"
-         sodipodi:sides="3"
-         id="path6891"
-         style="fill:#d40000;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-         sodipodi:type="star" />
-    </g>
-    <g
-       transform="matrix(-1.1692275e-8,0.33101112,0.33101112,1.1692275e-8,467.23089,757.93539)"
-       id="g6893"
-       style="fill:#d40000"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/druck-in-fluessigkeiten.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m -180.80298,396.19832 c 35.01335,0 70.0267,0 105.040055,0 0,0 7.350289,-7.33223 7.338097,-7.39062 l -7.338097,-7.39063 c -35.013355,0 -70.026705,0 -105.040055,0 z"
-         id="path6895"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc" />
-      <path
-         sodipodi:type="star"
-         style="fill:#d40000;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path6897"
-         sodipodi:sides="3"
-         sodipodi:cx="-707.10675"
-         sodipodi:cy="1607.946"
-         sodipodi:r1="12.121831"
-         sodipodi:r2="6.060915"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="2.6179939"
-         inkscape:flatsided="false"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         inkscape:transform-center-y="-0.00017641075"
-         transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-         inkscape:transform-center-x="-3.0302635" />
-    </g>
-    <g
        transform="matrix(1.5216555,0.82074467,0.82074467,-1.5216555,-129.7093,889.13659)"
        id="g6981"
        inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/druck-in-fluessigkeiten.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150">
       <path
-         style="fill:#ffccaa;fill-opacity:1;stroke:#000000;stroke-width:0.86760914;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#ffccaa;fill-opacity:1;stroke:#000000;stroke-width:0.86760914;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 59.655182,144.41473 c 2.861083,5.96061 -6.539027,51.00116 5.165734,47.76628 5.504821,-1.52138 10.410325,-7.11955 13.349637,-12.44628 5.022207,-9.10144 5.829939,-30.6356 5.829939,-30.6356"
          id="path6983"
          inkscape:connector-curvature="0"
@@ -1794,41 +1678,9 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="scs" />
     </g>
-    <g
-       transform="translate(367.95115,291.51461)"
-       id="g7834"
-       style="fill:#d40000"
-       inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/druck-in-fluessigkeiten.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150">
-      <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.77722263;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m -227.34168,396.19832 c 49.51329,0 99.02656,0 148.539854,0 0,0 10.394232,-7.33223 10.376992,-7.39062 l -10.376992,-7.39063 c -49.513294,0 -99.026564,0 -148.539854,0 z"
-         id="path7620"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc" />
-      <path
-         sodipodi:type="star"
-         style="fill:#d40000;stroke:#d40000;stroke-width:28.97162056;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path7622"
-         sodipodi:sides="3"
-         sodipodi:cx="-707.10675"
-         sodipodi:cy="1607.946"
-         sodipodi:r1="12.121831"
-         sodipodi:r2="6.060915"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="2.6179939"
-         inkscape:flatsided="false"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m -707.10675,1620.0679 -5.24891,-9.0914 -5.2489,-9.0914 10.49781,0 10.49781,0 -5.2489,9.0914 z"
-         inkscape:transform-center-y="-0.00017641075"
-         transform="matrix(1.6830123e-5,-0.5103719,0.5220071,1.645499e-5,-919.27901,27.88657)"
-         inkscape:transform-center-x="-3.0302635" />
-    </g>
     <path
        style="fill:none;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 323.30059,610.60486 393.39736,0 0,56.56854 100.90859,0"
+       d="M 323.30059,610.60486 H 716.69795 V 667.1734 H 817.60654"
        id="path2985"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -1844,7 +1696,7 @@
        inkscape:export-ydpi="150">
       <path
          style="fill:#4d4d4d;stroke:#4d4d4d;stroke-width:5.94044495;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 424.13323,728.10319 0,-137.03425"
+         d="M 424.13323,728.10319 V 591.06894"
          id="path7024"
          inkscape:connector-curvature="0" />
     </g>
@@ -1858,11 +1710,11 @@
       <path
          inkscape:connector-curvature="0"
          id="path6989"
-         d="m 400.5536,567.23643 0,-22.4759"
+         d="m 400.5536,567.23643 v -22.4759"
          style="fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:5.97008562;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          style="fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:5.9700861;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 400.5536,589.71232 0,-44.95178"
+         d="M 400.5536,589.71232 V 544.76054"
          id="path6993"
          inkscape:connector-curvature="0" />
     </g>
@@ -1875,23 +1727,68 @@
        inkscape:export-ydpi="150">
       <path
          style="fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:5.99999952;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 400.5536,567.23643 0,-22.4759"
+         d="m 400.5536,567.23643 v -22.4759"
          id="path7038"
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
          id="path7040"
-         d="m 400.5536,590.74159 0,-44.95178"
+         d="M 400.5536,590.74159 V 545.78981"
          style="fill:#4d4d4d;fill-opacity:0.50196078;stroke:#4d4d4d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <path
        inkscape:connector-curvature="0"
        id="path2987"
-       d="m 323.30059,748.99576 393.39738,0 0,-56.56854 100.90858,0"
+       d="M 323.30059,748.99576 H 716.69797 V 692.42722 H 817.60655"
        style="fill:none;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="cccc"
        inkscape:export-filename="/home/waldgeist/data/pics/physik/Own/mechanik/fluessigkeiten-und-gase/druck-in-fluessigkeiten.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Send);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 632.81145,658.91285 659.1147,632.6096"
+       id="path4711"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5382"
+       d="m 632.81145,699.3084 26.30325,26.30325"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker5386);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker5452);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 559.04474,699.28292 -26.30325,26.30325"
+       id="path5448"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5520"
+       d="M 559.04474,658.88737 532.74149,632.58412"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker5524);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker5614);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 595.94606,658.90508 10e-6,-37.19841"
+       id="path5610"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5706"
+       d="m 534.24324,680.29687 -37.19841,-10e-6"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker5710);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker5836);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 657.61299,680.3329 37.19841,-10e-6"
+       id="path5832"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6146"
+       d="m 595.94606,699.31617 10e-6,37.19841"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6150);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6260"
+       d="m 144.39409,680.36895 111.59523,-3e-5"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d40000;stroke-width:11.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6264);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
   </g>
 </svg>

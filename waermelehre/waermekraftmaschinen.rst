@@ -1,8 +1,43 @@
 
+.. _Wärmekraftmaschinen:
+
+Wärmekraftmaschinen
+===================
+
+Druck-Volumen-Diagramm Ein Druck-Volumen-Diagramm, auch Arbeitsdiagramm oder
+PV-Diagramm genannt, ist die grafi sche Darstellung der Beziehung zwischen Druck
+und Volumen, die zeitabhängig während der Motortakte im Zylinder eines
+Verbrennungsmotors abläuft. Diese Darstellung der Vorgänge in einem
+Verbrennungsmotor wird häufig dazu verwendet, die Auswirkung eines variablen
+Zündzeitpunkts auf die Druckverhältnisse im Zylinder darzustellen.
+
+1) Ansaugtakt: Das Einlassventil ist geöffnet, im Zylinder herrscht der
+Umgebungsluftdruck von ca. 1 bar. Da sich der Zylinder nach unten
+bewegt, wird das Volumen größer; ein leichter Unterdruck entsteht.
+
+2) Verdichtungstakt
+Alle Ventile sind geschlossen. Der Zylinder bewegt sich nach oben, das Volumen
+wird kleiner. Der Druck des Kraftstoff-Luft-Gemisches im Zylinder
+vergrößert sich.
+
+3a) Arbeitstakt
+Das Kraftstoff-Luft-Gemisch  wird  entzündet. Der Druck steigt stark an. Da
+sich der Kolben im oberen Totpunkt befindet, ist das Volumen noch sehr klein.
+
+3b) Arbeitstakt
+Das verbrennende Kraftstoff-Luft-Gemisch drückt den Kolben nach unten.
+Das Volumen vergrößert sich, der Druck sinkt.
+
+4) Auspufftakt
+Das Auslassventil wird geöffnet (a), das verbrannte Gasgemisch wird ausgestoßen.
+Das Volumen wird geringer (b) und der Druck in Zylinder fällt bis zum
+Umgebungsluftdruck ab. 
+
+
 .. _Kreisprozesse:
 
 Kreisprozesse
-=============
+-------------
 
 Der Zustand eines Gases kann durch die Angabe seines Druck :math:`p`, seines
 Volumens :math:`V` und seiner Temperatur :math:`T` beschrieben werden. Ändert
@@ -75,7 +110,7 @@ Der Carnot-Prozess
 .. Das erreicht man beim Verbrennungsmotor durch eine große Verdichtung. Es kann
 .. aber auch T min nicht beliebig tief liegen, nämlich maximal bei
 .. Umgebungstemperatur. Das ist der Grund, warum der Carnot-Prozess auch keinen
-.. Wirkungsgrad von 1 haben kann. 
+.. Wirkungsgrad von 1 haben kann.
 
 .. Ideal: Seiliger-Prozess
 

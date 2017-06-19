@@ -20,9 +20,7 @@ Der Impuls
 
 Der Bewegungszustand eines Körpers ist neben seiner Geschwindigkeit auch durch
 seine Masse gekennzeichnet. Der Impuls eines Körpers kennzeichnet die Wucht, die
-dieser Körper bei einer Translationsbewegung (:ref:`geradlinige <Geradlinige
-Bewegung>`, :ref:`kreisförmige <Kreisförmige Bewegung>` oder
-:ref:`zusammengesetzte <Zusammengesetzte Bewegungen>` Bewegung) hat.
+dieser Körper bei einer :ref:`Translationsbewegung <Geradlinige Bewegung>` hat.
 
 *Definition:*
 
@@ -282,13 +280,13 @@ Prozesses angibt.
 Der Drehimpuls
 --------------
 
-In ähnlicher Weise, wie sich bei die Definition des Impulses der Beschreibung
+In ähnlicher Weise, wie sich bei der Definition des Impulses der Beschreibung
 von Translationsbewegungen als hilfreich herausgestellt hat, so hat sich auch
 bei der Beschreibung von Rotationsbewegungen die Einführung eines so genannten
 Drehimpulses als nützlich erwiesen.
 
 Der Drehimpuls eines Körpers ist von seinem :ref:`Trägheitsmoment
-<Traegheitsmoment>` und von seiner :ref:`Winkelgeschwindigkeit
+<Trägheitsmoment>` und von seiner :ref:`Winkelgeschwindigkeit
 <Winkelgeschwindigkeit>` abhängig und kennzeichnet die Wucht, die dieser Körper
 bei einer Rotationsbewegung aufweist.
 

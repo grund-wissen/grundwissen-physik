@@ -4,6 +4,7 @@
 
 .. _Reflexion von Licht:
 .. _Lichtreflexion:
+.. _Reflexion:
 
 Reflexion von Licht
 ===================
@@ -17,8 +18,7 @@ Oberfläche unterscheidet man zwischen ebenen und gewölbten sowie zwischen glat
 und rauhen Spiegeln.
 
 
-.. index::
-    single: Spiegel; Ebener Spiegel
+.. index:: Spiegel; Ebener Spiegel
 .. _Ebener Spiegel:
 
 Der ebene Spiegel
@@ -61,12 +61,13 @@ lässt sich das Reflexionsgesetz damit folgendermaßen formulieren:
 
     \alpha = \alpha '
 
-Vertauscht man in den Abbildungen :ref:`Reflexionsgesetz
-<fig-reflexionsgesetz>` bzw. :ref:`Bildentstehung an einem ebenen Spiegel
+Vertauscht man in den Abbildungen :ref:`Reflexionsgesetz <fig-reflexionsgesetz>`
+beziehungsweise :ref:`Bildentstehung an einem ebenen Spiegel
 <fig-ebener-spiegel>` den Ort des Auges mit dem Ort der Lichtquelle, so ändert
 sich das Versuchsergebnis nicht. Allgemein gilt in der Optik: Jeder Lichtstrahl
 kann seinen Weg stets auch in umgekehrter Richtung durchlaufen.
 
+.. todo Lichtzeigerinstrumente / Drehbarer Spiegel: Reflexionswinkel
 
 .. _Bildentstehung am ebenen Spiegel:
 
@@ -184,6 +185,7 @@ Um die Entstehung der Bilder an einem gekrümmten Spiegel beschreiben zu können
 verwendet man folgende Begriffe:
 
 .. index:: Scheitelpunkt
+.. _Scheitelpunkt:
 
 * Scheitelpunkt:
 
@@ -199,6 +201,9 @@ verwendet man folgende Begriffe:
     optischen Achse verlaufen, werden Parallelstrahlen genannt.
 
 .. index:: Brennpunkt, Brennweite
+.. _Brennpunkt:
+.. _Brennweite:
+.. _Fokus:
 
 * Brennpunkt (Fokus):
 
@@ -244,6 +249,8 @@ unterscheidet man zwischen einem Wölb- und einem Hohlspiegel.
 
 .. index::
     single: Spiegel; Wölbspiegel
+.. _Wölbspiegel:
+.. _Konvexer Spiegel:
 .. _Bildentstehung an einem Wölbspiegel:
 
 .. rubric:: Bildentstehung an einem Wölbspiegel
@@ -288,6 +295,8 @@ der Kerze auf der Rückseite des Spiegels zu stammen.
 
 .. index::
     single: Spiegel; Hohlspiegel
+.. _Hohlspiegel:
+.. _Konkavspiegel:
 .. _Bildentstehung an einem Hohlspiegel:
 
 .. rubric:: Bildentstehung an einem Hohlspiegel
@@ -320,7 +329,8 @@ Spiegels ab:
   beachten, dass Brennpunktstrahlen zu Parallelstrahlen werden und
   Mittelpunktstrahlen stets senkrecht auf den Spiegel treffen und somit auf sich
   selbst abgebildet werden. Die Lage des Bildes entspricht dem Schnittpunkt des
-  verlängerten Parallel- bzw. Mittelpunktstrahls auf der Rückseite des Spiegels.
+  verlängerten Parallel- beziehungsweise  Mittelpunktstrahls auf der Rückseite
+  des Spiegels.
 
   Aufgrund ihrer vergrößernden Wirkung werden flache Hohlspiegel (mit einer
   großen Brennweite) unter anderem als Kosmetikspiegel verwendet.
@@ -346,8 +356,8 @@ Spiegels ab:
 
   Zur Konstruktion des Bildes genügen wiederum die von einem Gegenstandspunkt
   ausgehenden Brennpunkt- und Parallelstrahlen, die durch den Hohlspiegel
-  wiederum auf Parallel- bzw. Brennpunktstrahlen abgebildet werden. Der
-  Schnittpunkt der reflektierten Strahlen entspricht der Lage des Bildes.
+  wiederum auf Parallel- beziehungsweise Brennpunktstrahlen abgebildet werden.
+  Der Schnittpunkt der reflektierten Strahlen entspricht der Lage des Bildes.
 
 .. raw:: html
 

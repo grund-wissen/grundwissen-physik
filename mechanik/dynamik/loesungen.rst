@@ -127,7 +127,7 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
 .. _dynz02l:
 
-* Zeichnerisch findet man die Gesamtkraft :math:`\vec{F} _{\mathrm{Ges}}`, indem
+* Zeichnerisch findet man die Gesamtkraft :math:`\vec{F}_{\mathrm{Ges}}`, indem
   man ein Kräfteparallelogramm durch durch paralleles Verschiebung der beiden
   Kraftpfeile konstruiert. Die gesuchte Gesamtkraft entspricht der Diagonalen
   des Kräfteparallelogramms.
@@ -146,18 +146,18 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
                     <../../pics/mechanik/dynamik/kraftaddition-kinder-schlitten-loesung.svg>`
 
   Rechnerisch lässt sich die Aufgabe lösen, indem man den Kräfte
-  :math:`\vec{F} _{\mathrm{1}}` und :math:`\vec{F} _{\mathrm{2}}` mit Hilfe der
-  trigonometrischen Funktionen :math:`\sin{}` und :math:`\cos{}` in jeweils
-  eine :math:`x`- und eine :math:`y`-Komponente aufteilt.
+  :math:`\vec{F}_1` und :math:`\vec{F}_2` mit Hilfe der trigonometrischen
+  Funktionen :math:`\sin{}` und :math:`\cos{}` in jeweils eine :math:`x`- und
+  eine :math:`y`-Komponente aufteilt.
 
-  Für die Kraft :math:`\vec{F} _{\mathrm{1}}` gilt:
+  Für die Kraft :math:`\vec{F}_1` gilt:
 
   .. math::
 
       F_{\mathrm{1,x}} = \unit[40]{N} \cdot \cos{(30\degree)} \approx \unit[35]{N}\\
       F_{\mathrm{1,y}} = \unit[40]{N} \cdot \sin{(30\degree)} \approx \unit[20]{N}\\
 
-  Für die Kraft :math:`\vec{F} _{\mathrm{2}}` gilt:
+  Für die Kraft :math:`\vec{F}_2` gilt:
 
   .. math::
 
@@ -184,6 +184,46 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
 ----
 
 .. _dynz03l:
+
+* Bei einer Gleitreibungszahl von  :math:`\mu = 0,15` ergibt sich aus der
+  Gewichtskraft :math:`F_{\mathrm{G}} = \unit[500]{N}` folgende Reibungskraft
+  :math:`F_{\mathrm{R}}`:
+
+  .. math::
+
+      F_{\mathrm{R}} = \mu \cdot F_{\mathrm{G}} = 0,15 \cdot \unit[500]{N} = \unit[75]{N}
+
+  .. image:: ../../pics/mechanik/dynamik/kraftzerlegung-schlitten-loesung.png
+      :width: 60%
+      :align: center
+
+  .. only:: html
+
+      .. centered:: :download:`SVG: Kraftzerlegung beim Ziehen eines Schlittens (Lösung)
+                    <../../pics/mechanik/dynamik/kraftzerlegung-schlitten-loesung.svg>`
+
+  Wird der Schlitten mit konstanter Geschwindigkeit gezogen, so muss diese
+  Reibungskraft von der horizontalen Komponente der Zugkraft ausgeglichen
+  werden. Für die horizontale bzw. vertikale Komponente der Zugkraft gilt:
+
+  .. math::
+
+      \frac{F_{\mathrm{Z,y}}}{F_{\mathrm{Z}}} = \sin{(\alpha)} \quad
+      \Leftrightarrow \quad F_{\mathrm{Z,y}} = F_{\mathrm{Z}} \cdot
+      \sin{(\alpha)} \\
+      \frac{F_{\mathrm{Z,x}}}{F_{\mathrm{Z}}} = \cos{(\alpha)} \quad
+      \Leftrightarrow \quad F_{\mathrm{Z,x}} = F_{\mathrm{Z}} \cdot
+      \cos{(\alpha)}
+
+  Für den Betrag der Zugkraft gilt somit :math:`F_{\mathrm{Z}} = \frac{F
+  _{\mathrm{Z,x}}}{\cos{(\alpha)}} = \frac{\unit[75]{N}}{\cos{(10 \degree)}}
+  \approx \unit[76,2]{N}`.
+
+  :ref:`Zurück zur Aufgabe <dynz03>`
+
+----
+
+.. _dynz04l:
 
 * Wenn ein Kräfte-Gleichgewicht herrscht, so bilden die beteiligten Kräfte
   eine geschlossene Vektorkette; im Fall dreier Kräfte lassen sich die Vektoren
@@ -233,47 +273,6 @@ Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
   Für die Summe dieser Winkel gilt schließlich :math:`\alpha ^{*} + \beta ^{*} +
   \gamma ^{*} = 360 \degree`.
-
-
-  :ref:`Zurück zur Aufgabe <dynz03>`
-
-----
-
-.. _dynz04l:
-
-* Bei einer Gleitreibungszahl von  :math:`\mu = 0,15` ergibt sich aus der
-  Gewichtskraft :math:`F_{\mathrm{G}} = \unit[500]{N}` folgende Reibungskraft
-  :math:`F_{\mathrm{R}}`:
-
-  .. math::
-
-      F_{\mathrm{R}} = \mu \cdot F_{\mathrm{G}} = 0,15 \cdot \unit[500]{N} = \unit[75]{N}
-
-  .. image:: ../../pics/mechanik/dynamik/kraftzerlegung-schlitten-loesung.png
-      :width: 60%
-      :align: center
-
-  .. only:: html
-
-      .. centered:: :download:`SVG: Kraftzerlegung beim Ziehen eines Schlittens (Lösung)
-                    <../../pics/mechanik/dynamik/kraftzerlegung-schlitten-loesung.svg>`
-
-  Wird der Schlitten mit konstanter Geschwindigkeit gezogen, so muss diese
-  Reibungskraft von der horizontalen Komponente der Zugkraft ausgeglichen
-  werden. Für die horizontale bzw. vertikale Komponente der Zugkraft gilt:
-
-  .. math::
-
-      \frac{F_{\mathrm{Z,y}}}{F_{\mathrm{Z}}} = \sin{(\alpha)} \quad
-      \Leftrightarrow \quad F_{\mathrm{Z,y}} = F_{\mathrm{Z}} \cdot
-      \sin{(\alpha)} \\
-      \frac{F_{\mathrm{Z,x}}}{F_{\mathrm{Z}}} = \cos{(\alpha)} \quad
-      \Leftrightarrow \quad F_{\mathrm{Z,x}} = F_{\mathrm{Z}} \cdot
-      \cos{(\alpha)}
-
-  Für den Betrag der Zugkraft gilt somit :math:`F_{\mathrm{Z}} = \frac{F
-  _{\mathrm{Z,x}}}{\cos{(\alpha)}} = \frac{\unit[75]{N}}{\cos{(10 \degree)}}
-  \approx \unit[76,2]{N}`.
 
   :ref:`Zurück zur Aufgabe <dynz04>`
 
@@ -563,9 +562,9 @@ mechanischer Kräfte>`.
 
   .. math::
 
-      k = \frac{\unit[1]{N}}{\unit[0,33]{m}} = \unit[0,33]{\frac{N}{m} }
+      D = \frac{\unit[1]{N}}{\unit[0,33]{m}} = \unit[3,03]{\frac{N}{m} }
 
-  Die Federkonstante :math:`k` beträgt somit :math:`\unit[0,33]{\frac{N}{m}}`.
+  Die Federkonstante :math:`D` beträgt somit :math:`\unitfrac[3,03]{N}{m}`.
 
   :ref:`Zurück zur Aufgabe <dyna05>`
 
@@ -573,9 +572,9 @@ mechanischer Kräfte>`.
 
 .. _dyna06l:
 
-* Für den Betrag der zum Dehnen einer Feder nötigen Spannkraft :math:`F
-  _{\mathrm{S}}` gilt mit :math:`k = \unit[40]{N/m}` und :math:`s = \unit[12]{cm}
-  = \unit[0,12]{m}`:
+* Für den Betrag der zum Dehnen einer Feder nötigen Spannkraft
+  :math:`F_{\mathrm{S}}` gilt mit :math:`D = \unitfrac[40]{N}{m}` und :math:`s =
+  \unit[12]{cm} = \unit[0,12]{m}`:
 
   .. math::
 
@@ -592,7 +591,7 @@ mechanischer Kräfte>`.
 .. _dyna07l:
 
 * Die Dehnung :math:`s` einer Feder lässt sich anhand der bekannten
-  Federhärte :math:`D = \unit[650]{N/m}` und der wirkenden Kraft :math:`F =
+  Federhärte :math:`D = \unitfrac[650]{N}{m}` und der wirkenden Kraft :math:`F =
   \unit[20]{N}` wie folgt berechnen:
 
   .. math::
@@ -616,8 +615,8 @@ mechanischer Kräfte>`.
 
 * Damit das Fahrzeug nicht aus der Kurve gleitet, muss die Haftreibungskraft
   :math:`F_{\mathrm{H}}` zwischen der Straße und den Reifen mindestens genauso
-  groß sein wie die zum Durchfahren der Kurve nötige Radialkraft :math:`F
-  _{\mathrm{rad}}`, es muss also gelten:
+  groß sein wie die zum Durchfahren der Kurve nötige Radialkraft
+  :math:`F_{\mathrm{rad}}`, es muss also gelten:
 
   .. math::
 

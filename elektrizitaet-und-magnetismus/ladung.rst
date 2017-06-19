@@ -1,6 +1,8 @@
 
 .. index:: Ladung
+.. _Elektron:
 .. _Elektrische Ladung:
+
 
 Elektrische Ladung
 ==================
@@ -52,7 +54,7 @@ Allgemein gilt für jedes chemische Element:
   betrachtet erscheint ein Atom deshalb als ein elektrisch neutrales
   Teilchen.
 
-.. index:: Coulomb (Einheit)
+.. index:: Coulomb (Einheit), Elementarladung
 .. _Coulomb:
 
 Alle in der Realität vorkommenden elektrischen Ladungsmengen setzen sich
@@ -62,7 +64,12 @@ aus den Ladungen der Elektronen und Protonen zusammen.
 
     Man hat als Einheit der elektrischen Ladung :math:`Q` eine Ladungsmenge
     festgelegt, die so groß ist wie die elektrische Ladung von :math:`6,2 \cdot
-    10 ^{18}` Elektronen. Diese Einheit wird Coulomb :math:`(C)` genannt. [#]_
+    10 ^{18}` Elektronen. Diese Einheit wird Coulomb :math:`(C)` genannt.
+
+Mittels dieser Festlegung kann man ebenso sagen, dass ein Elektron eine Ladung
+von :math:`\unit[0,000\,000\, 000\, 000\, 000\, 000\, 16]{C}` besitzt. Diese
+Ladung ist gleichzeitig die kleinste Ladung, die frei in der Natur vorkommen
+kann -- man nennt sie daher auch "Elementarladung" :math:`e`.
 
 
 .. index:: Ladungstrennung
@@ -202,8 +209,8 @@ betrachtet werden. [#]_
 Experimentell nachweisen kann man Ladungen beispielsweise anhand der Kräfte, die
 zwischen geladenen Körpern wirken:
 
-* Gleichartig geladene Körper (Plus und Plus bzw. Minus und Minus) stoßen
-  einander ab.
+* Gleichartig geladene Körper (Plus und Plus beziehungsweise Minus und Minus)
+  stoßen einander ab.
 * Unterschiedlich geladene Körper (Plus und Minus) ziehen einander an.
 
 .. figure:: ../pics/elektrizitaet-magnetismus/ladung-kraftwirkung.png
@@ -333,18 +340,13 @@ geeigneten Steckern in einen Stromkreis eingebaut werden und als
 
     .. rubric:: Anmerkung:
 
-.. [#]  Genauso kann man sagen: Ein Elektron besitzt eine Ladung von
-        :math:`\unit[0,000\,000\, 000\, 000\, 000\, 000\, 16]{C}`. Diese Ladung
-        ist gleichzeitig die kleinste Ladung, die frei in der Natur vorkommen
-        kann -- man nennt sie daher auch "Elementarladung".
-
-.. [#]  Die enorme Ladungskapazität der Erde kann man sich anschaulich wie ein
-        großes Becken mit ruhendem Wasser vorstellen. Wird daraus beispielsweise
-        ein Eimer Wasser entnommen oder hinzu gegossen, so sinkt bzw. steigt der
-        Wasserspiegel nahezu unmerklich; die Oberfläche jedoch passt sich
-        zeitgleich so an, dass an jeder Stelle die gleiche Füllhöhe vorliegt.
-        Entsprechend ist auch die Ladungsmenge der  "Erdung" nahezu konstant und
-        an allen Stellen der Erde gleich.
+.. [#] Die enorme Ladungskapazität der Erde kann man sich anschaulich wie ein
+    großes Becken mit ruhendem Wasser vorstellen. Wird daraus beispielsweise
+    ein Eimer Wasser entnommen oder hinzu gegossen, so sinkt beziehungsweise
+    steigt der Wasserspiegel nahezu unmerklich; die Oberfläche jedoch passt sich
+    zeitgleich so an, dass an jeder Stelle die gleiche Füllhöhe vorliegt.
+    Entsprechend ist auch die Ladungsmenge der  "Erdung" nahezu konstant und an
+    allen Stellen der Erde gleich.
 
 .. raw:: html
 

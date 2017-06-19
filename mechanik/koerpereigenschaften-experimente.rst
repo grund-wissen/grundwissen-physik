@@ -6,7 +6,8 @@ Körpereigenschaften
 Die folgenden Experimente beziehen sich auf den Abschnitt
 :ref:`Körpereigenschaften <Körpereigenschaften>`.
 
-.. todo:: Höhenbestimmung mit Geodreieck und Entfernungsmesser!
+.. todo Höhenbestimmung mit Geodreieck und Entfernungsmesser!
+.. besser als Mathe-Übungsaufgabe
 
 ----
 
@@ -81,7 +82,7 @@ Die folgenden Experimente beziehen sich auf den Abschnitt
 .. only:: html
 
     .. centered:: :download:`SVG: Dichtebestimmung
-                <../pics/mechanik/experiment-dichtebestimmung-archimedes.png>`
+                <../pics/mechanik/experiment-dichtebestimmung-archimedes.svg>`
 
 .. :name: fig-experiment-dichtebestimmung-archimedes
 .. :alt:  fig-experiment-dichtebestimmung-archimedes

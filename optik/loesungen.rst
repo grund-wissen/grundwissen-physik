@@ -316,15 +316,14 @@ Linsensysteme>` zum Abschnitt :ref:`Linsensysteme <Linsensysteme>`.
 
   .. math::
 
-      D = \unit[1]{f} \quad \Leftrightarrow \quad f = \frac{1}{D}
+      D = \frac{1}{f} \quad \Leftrightarrow \quad f = \frac{1}{D}
 
   .. math::
 
       D = \frac{1}{f} = \frac{1}{\unit[-4]{dpt}} =
       \frac{1}{\unit[-4]{\frac{1}{m}}} = \unit[-0,25]{m}
 
-  Die Brennweite der Zerstreuungslinse beträgt also rund
-  :math:`\unit[-25]{cm}`.
+  Die Brennweite der Zerstreuungslinse beträgt also rund :math:`\unit[-25]{cm}`.
 
   :ref:`Zurück zur Aufgabe <oli02>`
 
@@ -397,8 +396,8 @@ Linsensysteme>` zum Abschnitt :ref:`Linsensysteme <Linsensysteme>`.
       \tilde{\beta} = \frac{b}{g} = \frac{\unit[0,3]{m}}{\unit[0,6]{m}} =
       \frac{1}{2}
 
-  Der Gegenstand wird bei der Abbildung durch die Linse somit um die Hälfte
-  verkleinert.
+  Der Gegenstand wird durch die Linse somit um die Hälfte verkleinert
+  abgebildet.
 
   :ref:`Zurück zur Aufgabe <oli04>`
 
@@ -414,7 +413,7 @@ Linsensysteme>` zum Abschnitt :ref:`Linsensysteme <Linsensysteme>`.
 
   .. math::
 
-      \frac{1}{f} = \unit[1]{b} + \frac{1}{g} \quad \Leftrightarrow \quad
+      \frac{1}{f} = \frac{1}{b} + \frac{1}{g} \quad \Leftrightarrow \quad
       \frac{1}{b} = \frac{1}{f} - \frac{1}{g}
 
   .. math::

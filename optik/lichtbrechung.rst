@@ -271,6 +271,8 @@ gilt.
 
 .. index:: Prisma
 
+.. _Doppelte Lichtbrechung an einem Prisma:
+
 .. rubric:: Doppelte Lichtbrechung an einem Prisma
 
 Fällt ein Lichtstrahl auf ein Prisma, so wird er ebenfalls zweimal gebrochen --
@@ -322,6 +324,8 @@ einfallender Strahlen zu erreichen.
 
 
 .. index:: Optische Linse
+.. _Sammellinse:
+.. _Zerstreuungslinse:
 .. _Optische Linsen:
 
 Optische Linsen
@@ -352,11 +356,14 @@ Um die Bildentstehung an einer optischen Linse zu erklären, verwendet man
 (weitestgehend) die gleichen Begriffe wie bei der Beschreibung von :ref:`gekrümmten
 Spiegeln <Gekrümmte Spiegel>`:
 
+.. _Optische Achse:
 
 * Optische Achse:
 
     Die Gerade, die durch die Mitte der Linse verläuft und senkrecht zur
     Linsenebene steht, heißt optische Achse.
+
+.. _Parallelstrahlen:
 
 * Parallelstrahlen:
 
@@ -370,11 +377,15 @@ Spiegeln <Gekrümmte Spiegel>`:
     :math:`f` genannt. Die Brennweite einer optischen Linse ist umso größer,
     desto flacher die Linse ist.
 
+.. _Brennpunkstrahlen:
+
 * Brennpunktstrahlen:
 
     Alle Strahlen, die durch einen Brennpunkt einer optischen Linse verlaufen,
     werden durch die Linse so gebrochen, dass sie hinter der Linse parallel zur
     optischen Achse verlaufen.
+
+.. _Mittelpunktstrahlen:
 
 * Mittelpunktstrahlen:
 
@@ -492,27 +503,27 @@ Mittelpunktstrahl zwischen dem Gegenstand und der Linse.
 
 .. [#] Manchmal wird die Brechzahl auch Brechungsindex genannt.
 
-    Für kleine Einfallswinkel :math:`\alpha`, d.h. annähernd senkrechten
-    Lichteinfall, kann die so genannte "Kleinwinkelnäherung"
-    :math:`\sin{\alpha } \approx \alpha` genutzt werden. In diesem Fall
-    gilt:
+    Für kleine Einfallswinkel :math:`\alpha`, also annähernd senkrechten
+    Lichteinfall, kann die so genannte "Kleinwinkelnäherung" :math:`\sin{\alpha}
+    \approx \alpha` genutzt werden (sofern :math:`\alpha` im :ref:`Bogenmaß
+    <gwm:Bogenmaß>`  angegeben wird). In diesem Fall gilt:
 
     .. math::
 
-        n = \frac{\sin{\alpha }}{\sin{\beta }} \approx \frac{\alpha }{\beta }
+        n = \frac{\sin{\alpha}}{\sin{\beta}} \approx \frac{\alpha}{\beta}
 
     Für steilere Einfallswinkel muss hingegen stets mit dem Brechungsgesetz
     in der allgemeinen Form :eq:`eqn-brechungsgesetz` gerechnet werden.
 
-.. [#] Stoffe mit einem hoher Brechzahl werden oftmals als "optisch dicht",
-    Stoffe mit einer niedrigeren Brechzahl entsprechend als "optisch dünn"
-    bezeichnet.
+.. [#] Transparente Materialien mit einem hoher Brechzahl werden oftmals als
+    "optisch dicht", Materialien mit einer niedrigeren Brechzahl entsprechend
+    als "optisch dünn" bezeichnet.
 
 .. [#] Exakt beträgt die Brechzahl laut `Wikipedia (Brechungsindex)
     <https://de.wikipedia.org/wiki/Brechungsindex>`_ von Luft bei
     Normalbedingungen :math:`1,000292`. Starke Temperatur- und
     Feuchtigkeitsschwankungen können zu Abweichungen führen und optische Effekte
-    verursachen (z.B. Fata Morgana).
+    verursachen (beispielsweise Fata Morgana).
 
 .. raw:: html
 

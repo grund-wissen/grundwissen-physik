@@ -40,6 +40,9 @@ klassischen Mechanik dar. Sie wurden in dieser Form erstmals im Jahre 1687 von
 
 .. index:: Newtonsche Gesetze; Trägheitsgesetz
 .. _Trägheitsgesetz:
+.. _1. Newtonsches Gesetz:
+.. _Das 1. Newtonsche Gesetz:
+.. _Erstes Newtonsches Gesetz:
 
 .. rubric:: Das 1. Newtonsche Gesetz ("Trägheitsgesetz")
 
@@ -70,6 +73,9 @@ und erfordert dementsprechend eine Kraft.
 
 .. index:: Newtonsche Gesetze; Kraftgesetz
 .. _Kraftgesetz:
+.. _2. Newtonsches Gesetz:
+.. _Das 2. Newtonsche Gesetz:
+.. _Zweites Newtonsches Gesetz:
 
 .. rubric:: Das 2. Newtonsche Gesetz ("Kraftgesetz")
 
@@ -93,11 +99,12 @@ einer mathematischen Gleichung beschreiben.
 
 *Einheit:*
 
-    Die Kraft wird in Newton :math:`(\unit[]{N})`  angegeben:
+    Kräfte werden in der Einheit Newton :math:`(\unit{N})` angegeben:
 
     .. math::
 
         \unit[1]{N} = \unit[1]{kg} \cdot \unit[1]{\frac{m}{s^2}}
+
 
 *Beispiele:*
 
@@ -115,6 +122,7 @@ einer mathematischen Gleichung beschreiben.
   Gewichtskraft von rund :math:`\unit[10]{N}`. Im freien Fall übt die Erde
   damit eine Beschleunigung von rund :math:`\unit[10]{\frac{m}{s^2}}`
   (genauer: :math:`\unit[9,81]{\frac{m}{s^2}}`) auf sie aus.
+
 
 Kräfte werden nach ihrer Ursache (Muskelkraft, Magnetkraft, Motorkraft, usw.)
 oder nach ihrer Wirkung (Zugkraft, Druckkraft, Antriebskraft, Verformungskraft,
@@ -147,6 +155,9 @@ usw.) benannt.
 
 .. index:: Kraft; Gegenkraft, Newtonsche Gesetze; Kraft und Gegenkraft
 .. _Kraft und Gegenkraft:
+.. _3. Newtonsches Gesetz:
+.. _Das 3. Newtonsche Gesetz:
+.. _Drittes Newtonsches Gesetz:
 
 .. rubric:: Das 3. Newtonsche Gesetz ("Kraft und Gegenkraft")
 
@@ -189,6 +200,8 @@ können sich somit nicht gegenseitig aufheben.
 .. todo Ergänzung: Kein Antrieb ohne Kraft-und-Gegenkraft-Prinzip!
 
 .. index:: Kraft; Wirkungslinie, Kraft; Angriffspunkt
+.. _Wirkungslinie:
+.. _Angriffspunkt:
 .. _Betrag, Wirkungslinie und Angriffspunkt:
 
 Betrag, Wirkungslinie und Angriffspunkt
@@ -228,6 +241,7 @@ Kraft etwas ändert.
 
 
 .. index:: Kraftübertragung
+.. _Kraftübertragung:
 .. _Kraftübertragung mit Seil, Stange und Kette:
 
 .. rubric:: Kraftübertragung mit Seil, Stange und Kette
@@ -244,7 +258,9 @@ In Getrieben werden üblicherweise :ref:`Zahnräder und Zahnstangen <Zahnrad und
 Zahnstange>` zur Kraftübertragung verwendet.
 
 
-.. index:: Verformung, Elastizität, Zugkraft, Druckkraft
+.. index:: Verformung, Elastizität
+.. _Verformung:
+.. _Elastizität:
 .. _Verformung und Elastizität:
 
 Verformung und Elastizität
@@ -320,17 +336,19 @@ Einsetzen in Gleichung :eq:`eqn-kraft` die wirkende Kraft :math:`F`:
     F = m \cdot a = m \cdot \frac{\Delta v}{\Delta t}
 
 
-.. index:: Scheinkraft
+.. index:: Scheinkraft, Inertialsystem
+.. _Inertialsystem:
+.. _Scheinkraft:
 .. _Scheinkräfte:
 
 Scheinkräfte
 ------------
 
-Mit Hilfe der Newtonschen Gesetze lässt sich die Bewegung eines Körpers
-in einem ruhenden oder sich mit konstanter Geschwindigkeit geradlinigen
-Bezugsystem hinreichend beschreiben. In einem beschleunigten Bezugsystem sind
-zur Beschreibung von Bewegungen jedoch so genannte "Scheinkräfte" zu
-berücksichtigen.
+Mit Hilfe der Newtonschen Gesetze lässt sich die Bewegung eines Körpers in einem
+ruhenden oder sich mit konstanter Geschwindigkeit geradlinigen Bezugsystem
+(einem so genannten "Inertialsystem") hinreichend beschreiben. In einem
+beschleunigten Bezugsystem sind zur Beschreibung von Bewegungen jedoch so
+genannte "Scheinkräfte" zu berücksichtigen.
 
 Befindet man sich beispielsweise in einem sich gleichmäßig bewegenden oder
 stehenden Eisenbahnwagen und wirft einen Ball senkrecht in die Luft, so landet dieser
@@ -354,12 +372,41 @@ Beschleunigung :math:`-a`:
 
 .. math::
 
-    \vec{F}_{\mathrm{Schein}} = - m \cdot a
+    \vec{F}_{\mathrm{T}} = - m \cdot a
 
 Eine wichtige Scheinkraft ist die Trägheitskraft :math:`F_{\mathrm{T}}`, die
 beispielsweise beim Beschleunigen oder Abbremsen von Fahrzeugen auftritt. Ein
 Sonderfall dieser Trägheitswirkung ist die :ref:`Zentrifugalkraft <Radialkraft>`
-bei einer kreisförmigen Bewegung.
+bei einer kreisförmigen Bewegung. Trägheitskräfte werden auch in technischen
+Anwendungen genutzt, wenn durch ein schnelles Abbremsen eines Objekts eine große
+Kraft erzielt werden soll, beispielsweise beim Hämmern, Pressen, usw.
+
+.. index:: Prinzip von D'Alembert
+.. _D'Alembertsches Prinzip:
+
+.. rubric:: D'Alembertsches Prinzip
+
+Befindet sich ein Beobachter gemeinsam mit dem beobachteten Objekt in einem
+beschleunigten Bezugsystem, so erfährt dieser die gleiche Beschleunigung
+:math:`a` wie das Objekt selbst. Aus Sicht dieses Beobachters befindet sich das
+Objekt in Ruhe oder bewegt sich mit konstanter Geschwindigkeit; die auf das
+Objekt wirkenden Kräfte addieren sich aus Sicht des mitbeschleunigten
+Beobachters somit zu Null.
+
+Aus Sicht eines ruhenden Beobachters unterscheidet sich die Dynamik des Objekts
+(gegenüber der Perspektive eines mitbeschleunigten Beobachters) lediglich um die
+Trägheitskraft :math:`F_{\mathrm{T}} = -m \cdot a`. Somit muss in einem ruhenden Bezugsystem
+für die am Objekt wirkenden Kräfte gelten:
+
+.. math::
+
+    \sum_{i=1}^{n} F_{\mathrm{i}} + F_{\mathrm{T}} = \sum_{i=1}^{n}
+    F_{\mathrm{i}} - m \cdot a = 0
+
+Diese Gleichung ist nach ihrem Entdecker benannt und wird allgemein als
+`D'Alembertsches <https://de.wikipedia.org/wiki/Alembert>`_ Prinzip bezeichnet.
+Es kann genutzt werden, um dynamische Vorgänge auf statische
+Gleichgewichtsbedingungen zurückführen und somit einfacher berechnen zu können.
 
 .. raw:: html
 

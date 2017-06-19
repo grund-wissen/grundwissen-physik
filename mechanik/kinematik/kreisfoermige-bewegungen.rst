@@ -2,6 +2,7 @@
 .. index::
     single: Bewegung; Kreisförmige Bewegung
     single: Kreisförmige Bewegung
+.. _Kreisförmige Bewegung:
 .. _Kreisförmige Bewegungen:
 
 Kreisförmige Bewegungen
@@ -11,7 +12,7 @@ Eine kreisförmige Bewegung ist die Bewegung eines Körpers auf einer Kreisbahn.
 einzelne Teile des Körpers dabei unterschiedlich lange Strecken zurücklegen,
 wird im Allgemeinen nur die Bewegung seines Schwerpunkts betrachtet.
 
-.. figure:: ../../pics/mechanik/kinematik/kreisbewegung-fahrzeug-inenspur-aussenspur.png
+.. figure:: ../../pics/mechanik/kinematik/kreisbewegung-fahrzeug-innenspur-aussenspur.png
     :name: fig-kreisbewegung-innenspur-aussenspur
     :alt:  fig-kreisbewegung-innenspur-aussenspur
     :align: center
@@ -23,7 +24,7 @@ wird im Allgemeinen nur die Bewegung seines Schwerpunkts betrachtet.
     .. only:: html
 
         :download:`SVG: Kreisbewegung Innen- und Außenspur
-        <../../pics/mechanik/kinematik/kreisbewegung-fahrzeug-inenspur-aussenspur.svg>`
+        <../../pics/mechanik/kinematik/kreisbewegung-fahrzeug-innenspur-aussenspur.svg>`
 
 
 .. index:: Rotation
@@ -104,9 +105,9 @@ in gleichen Zeitabschnitten einen jeweils gleichen Winkel.
 
 *Einheit:*
 
-    Die Winkelgeschwindigkeit :math:`\omega` wird in Radiant je Sekunde
-    :math:`(\unit{rad/s})` angegeben (:math:`\unit[1]{rad} \approx 57,3
-    \degree`).
+    Die Winkelgeschwindigkeit :math:`\omega` wird in :ref:`Radiant <gwm:Radiant>`
+    je Sekunde :math:`(\unit{rad/s})` angegeben (:math:`\unit[1]{rad} \approx
+    57,3 \degree`).
 
 Die Winkelgeschwindigkeit ist, wie auch die Bahngeschwindigkeit, eine
 vektorielle Größe. Da bei einer gleichmäßigen Kreisbewegung die
@@ -146,9 +147,7 @@ Zusammenhang:
     \omega = 2 \cdot \pi \cdot n
 
 Der Faktor :math:`2 \cdot \pi` ergibt sich daraus, dass eine vollständige
-Umdrehung einem Winkel von :math:`360 \degree = 2 \cdot \pi` entspricht
-(:ref:`Bogenmaß <Gradmaß und Bogenmaß>`).
-
+Umdrehung einem Winkel von :math:`360 \degree = 2 \cdot \pi` entspricht.
 Da Winkelangaben reine Zahlenwerte sind, wird eine Drehzahl von beispielsweise
 zehn Umdrehungen je Minute als :math:`n = \unit[10]{\frac{1}{min}}` geschrieben.
 Wenn allerdings nur :math:`\unit[10]{\frac{1}{min}}` als Bezeichnung angegeben
@@ -310,7 +309,7 @@ Winkelbeschleunigung an.
 
 Da sich bei einer Bewegung auf einer Kreisbahn der Radius :math:`r` nicht
 ändert, gibt es einen weiteren Zusammenhang zwischen der Winkelbeschleunigung
-und der gewöhnlichen tangentialen :ref:`Beschleunigung <Geradlinige Bewegung mit
+und der gewöhnlichen tangentialen :ref:`Beschleunigung <Eindimensionale Bewegung mit
 konstanter Beschleunigung>` :math:`a`:
 
 .. math::
@@ -334,7 +333,7 @@ An einem rotierfähigen Gegenstand treten Winkelbeschleunigungen immer dann auf,
 wenn ein resultierendes :ref:`Drehmoment <Drehmoment>` :math:`M_{\mathrm{res}}`
 auf den Gegenstand einwirkt; für die Winkelbeschleunigung gilt dabei
 :math:`\alpha = \frac{M_{\mathrm{res}}}{I}`, wobei :math:`I` für das
-:ref:`Trägheitsmoment <Traegheitsmoment>` des Gegenstands steht.
+:ref:`Trägheitsmoment <Trägheitsmoment>` des Gegenstands steht.
 
 
 .. raw:: html

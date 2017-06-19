@@ -189,7 +189,7 @@ deren elektrische Ladung jedoch positiv ist. Derartige Teilchen werden
 als "Positronstrahlung" oder :math:`\beta^{+}`-Strahlung bezeichnet.
 
 Bei einem Beta-Plus-Zerfall wird im Kern des ursprünglichen Atoms ein Proton in
-ein Neutron und ein Elektron umgewandelt:
+ein Neutron und ein Positron umgewandelt:
 
 .. math::
 

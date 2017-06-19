@@ -22,7 +22,7 @@ der Festkörper>`.
   Zugspannungen auftreten; ohne Stahl könnte der Beton auf der Unterseite
   auseinander brechen.
 
-  :ref:`Zurück zur Aufgabe <feb01>` 
+  :ref:`Zurück zur Aufgabe <feb01>`
 
 ----
 
@@ -59,6 +59,29 @@ Mechanik der Flüssigkeiten>` zum Abschnitt :ref:`Mechanik der Flüssigkeiten
 
 .. _flfd02l:
 
+* Der Schweredruck lässt sich mittels folgender Formel berechnen:
+
+  .. math::
+
+      p_{\mathrm{schwere}} = \rho_{\mathrm{Fl}} \cdot g \cdot h = \unit[1,0
+      \cdot 10^3]{\frac{kg}{m^3}} \cdot \unit[9,81]{\frac{N}{kg}} \cdot
+      \unit[10]{m} \approx \unit[98,1 \cdot 10^3]{Pa}
+
+  Zur Umrechnung der angegebenen Dichte wurde die Einheits-Beziehung
+  :math:`\unit{\frac{g}{cm^3}} = \unit{\frac{kg}{dm^3}} = \unit{\frac{t}{m^3}}`
+  verwendet und :math:`\unit[1]{t} = \unit[10^3]{kg}` gesetzt.
+
+  Die Einheit des Ergebnisses in der obigen Gleichung folgt aus der Beziehung
+  :math:`\unit{Pa} = \frac{N}{m^2}`. Da :math:`\unit[1]{bar} = \unit[100]{kPa}`
+  ist, kann man sagen, dass der Schweredruck im Wasser je :math:`\unit[10]{m}`
+  Eintauchtiefe um rund :math:`\unit[1]{bar}` zunimmt.
+
+  :ref:`Zurück zur Aufgabe <flfd02>`
+
+----
+
+.. _flfd03l:
+
 * Wasser hat eine Dichte von  :math:`\rho = \unit[1]{\frac{g}{cm^3}} = \unit[1
   \cdot 10^3]{\frac{kg}{m^3}}`. In einer Leitung kann es so weit steigen, bis
   der sich ergebende Schweredruck :math:`p_{\mathrm{st}} = \rho \cdot g \cdot h`
@@ -74,7 +97,7 @@ Mechanik der Flüssigkeiten>` zum Abschnitt :ref:`Mechanik der Flüssigkeiten
 
   Das Wasser kann somit rund :math:`\unit[61]{m}` hoch steigen.
 
-  :ref:`Zurück zur Aufgabe <flfd02>`
+  :ref:`Zurück zur Aufgabe <flfd03>`
 
 ----
 
@@ -171,6 +194,25 @@ Mechanik der Flüssigkeiten>` zum Abschnitt :ref:`Mechanik der Flüssigkeiten
   :ref:`Zurück zur Aufgabe <flfb01>`
 
 ----
+
+.. _flfb02l:
+
+* Im Extremfall wird der gesamte in der Wasserleitung herrschende statische
+  Druck in den dynamischen Druck des ausströmenden Wassers umgewandelt. Man
+  erhält damit als Gleichung:
+
+  .. math::
+
+      p = \frac{1}{2} \cdot \rho_{\mathrm{Fl}} \cdot v^2 \quad
+      \Longleftrightarrow \quad v = \sqrt{\frac{2 \cdot p}{\rho_{\mathrm{Fl}} }}
+      \approx \unit[14,14]{\frac{m}{s}}
+
+  Diese Geschwindigkeit entspricht rund :math:`\unit[50]{\frac{km}{h}}`.
+
+  :ref:`Zurück zur Aufgabe <flfb02>`
+
+----
+
 
 
 .. _Lösungen Mechanik der Gase:
@@ -297,6 +339,46 @@ Mechanik der Gase>` zum Abschnitt :ref:`Mechanik der Gase <Mechanik der Gase>`.
   :ref:`Zurück zur Aufgabe <flg02>`
 
 ----
+
+.. _flg03l:
+
+* Bei einer konstanten Sinkgeschwindigkeit müssen sich die wirkenden Kräfte -- die
+  nach unten gerichtete Gewichtskraft und die entgegengesetzt wirkende
+  Luftwiderstands-Kraft -- gegenseitig aufheben. Es muss also gelten:
+
+  .. Masse?
+
+  .. math::
+
+      m \cdot g = \frac{1}{2} \cdot \rho_{\mathrm{L}} \cdot c_{\mathrm{w}} \cdot
+      v^2 \cdot A \quad \Longleftrightarrow \quad A = \frac{2 \cdot m \cdot
+      g}{\rho_{\mathrm{L}} \cdot c_{\mathrm{w}} \cdot v^2}
+
+  Für die (runde) Fallschirm-Fläche gilt :math:`A = \frac{\pi}{4} \cdot d^2`;
+  für den Radius :math:`d` des Fallschirms ergibt sich somit:
+
+  .. math::
+
+      d = \sqrt{\frac{2 \cdot m \cdot g \cdot 4}{c_{\mathrm{w}} \cdot
+      \rho_{\mathrm{L}}\cdot \pi \cdot v^2 }} = \sqrt{\frac{8 \cdot
+      \unit[100]{kg} \cdot \unit[9,81]{\frac{N}{kg}}}{1,3 \cdot
+      \unit[1,2]{\frac{kg}{m^3}} \cdot \pi \cdot \left( \unit[8,0]{\frac{m}{s}}
+      \right)^2}} \approx \unit[5,0]{m}
+
+  Die Einheit ergibt sich, wenn man :math:`\unit{N} = \unit{kg \cdot \frac{m}{s^2}}` setzt:
+
+  .. math::
+
+      \unit{\sqrt{\frac{kg \cdot \frac{m}{s^2}}{\frac{kg}{m^3} \cdot
+      \frac{m^2}{s^2}} }} = \unit{\sqrt{m^2} }= \unit{m}
+
+  Der Fallschirm muss somit einen Durchmesser von rund :math:`\unit[5]{m}`
+  aufweisen.
+
+  :ref:`Zurück zur Aufgabe <flg03>`
+
+----
+
 
 .. foo
 

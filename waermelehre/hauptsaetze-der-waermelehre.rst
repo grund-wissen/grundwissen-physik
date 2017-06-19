@@ -52,6 +52,19 @@ Systems erhalten. Wird einem System Arbeit oder Wärme zugeführt, so erhalten d
 entsprechenden Mengen in den obigen Gleichungen üblicherweise ein positives,
 andernfalls ein negatives Vorzeichen.
 
+.. figure:: ../pics/waermelehre/erster-hauptsatz.png
+    :name: fig-erster-hauptsatz
+    :alt:  fig-erster-hauptsatz
+    :align: center
+    :width: 55%
+
+    Erster Hauptsatz: Energiebilanz eines thermodynamischen Systems.
+
+    .. only:: html
+
+        :download:`SVG: Erster Hauptsatz
+        <../pics/waermelehre/erster-hauptsatz.svg>`
+
 *Beispiele:*
 
 * Erhitzt man beispielsweise einen Topf mit Wasser auf einer elektrischen
@@ -104,9 +117,9 @@ Verringerung der inneren Energie :math:`U` des Systems einher.
 .. index:: Heizwert, Brennwert
 
 Die Energiemenge, die beim Verbrennen von Heizstoffen wie Holz, Benzin, Diesel,
-Kohle oder Erdgas freigesetzt wird, heißt Verbrennungswärme :math:`Q
-_{\mathrm{H}}`. Sie lässt sich anhand der Masse :math:`m` des Brennstoffs sowie
-dessen Heizwert :math:`H_{\mathrm{i}}` berechnen:
+Kohle oder Erdgas freigesetzt wird, heißt Verbrennungswärme
+:math:`Q_{\mathrm{H}}`. Sie lässt sich anhand der Masse :math:`m` des
+Brennstoffs sowie dessen Heizwert :math:`H_{\mathrm{i}}` berechnen:
 
 .. math::
 
@@ -131,13 +144,13 @@ Brennwert (ebenfalls in :math:`\unit{\frac{MJ}{kg}}`) angegeben wird.
     :name: tab-heizwert-beispiele
     :widths: 60 40 60 40
 
-    * - Feste und flüssige Brennstoffe 
+    * - Feste und flüssige Brennstoffe
       - Durchschnittlicher Heizwert in :math:`\unit[]{MJ/kg}`
-      - Gasförmige Brennstoffe 
+      - Gasförmige Brennstoffe
       - Durchschnittlicher Heizwert in :math:`\unit[]{MJ/m^3}`
     * - Benzin
       - :math:`41`
-      - Ammoniak 
+      - Ammoniak
       - :math:`14`
     * - Braunkohle
       - :math:`12`
@@ -192,7 +205,10 @@ verschiedene Arten formuliert worden, wobei sich herausgestellt hat, dass all
 diese verschiedenen Formulierungen gleichwertig sind.
 
 
-.. rubric:: Formulierung nach Clausius
+.. _Formulierung nach Clausius:
+
+Formulierung nach Clausius
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Der erste Hauptsatz der Wärmelehre schließt zwar die Existenz einer Maschine
 aus, die Arbeit ohne Energiezufuhr verrichten kann. Es wäre mit dem ersten
@@ -213,8 +229,8 @@ Ozean Wärme entzieht.
 
     .. only:: html
 
-        :download:`SVG: Wärmestrom (2. Hauptsatz)
-        <../pics/waermelehre/zweiter-hauptsatz-waermestrom.png>`
+        :download:`SVG: Zweiter Hauptsatz
+        <../pics/waermelehre/zweiter-hauptsatz-waermestrom.svg>`
 
 Der zweite Hauptsatz schließt die Existenz eines solchen "Perpetuum Mobiles"
 aus, indem er vorgibt, in welche *Richtung* eine Übertragung von Wärme
@@ -260,7 +276,8 @@ System fließt.
 .. index:: Carnot-Wirkungsgrad
 .. _Formulierung nach Carnot:
 
-.. rubric:: Formulierung nach Carnot
+Formulierung nach Carnot
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Bereits in früheren Jahren `Sadi Carnot
 <https://de.wikipedia.org/wiki/Nicolas_Léonard_Sadi_Carnot>`_ in ähnlicher Weise
@@ -306,7 +323,8 @@ kleiner als :math:`\eta_{\mathrm{max}}`.
 
 .. _Kältemaschinen und Wärmepumpen:
 
-.. rubric:: Kältemaschinen und Wärmepumpen
+Kältemaschinen und Wärmepumpen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Durch Zuführen von (mechanischer) Arbeit kann ein Prozess entgegen seiner
 natürlichen Richtung, also vom kalten zum heißen System hin, ablaufen.
@@ -351,6 +369,182 @@ In beiden Fällen sind die Leistungszahlen größer als Eins. Gute Wärmepumpen
 können Leistungszahlen von :math:`\approx 3` erreichen, bei Kältemaschinen sind
 die Leistungszahlen wegen  :math:`Q_{\mathrm{K}} < Q_{\mathrm{H}}` geringer.
 
+.. index:: Entropie
+.. _Entropie:
+
+Entropie
+^^^^^^^^
+
+Neben den oben beschriebenen Formulierungen von Clausius und Carnot gibt es eine
+dritte Möglichkeit, den zweiten Hauptsatz der Wärmelehre zu beschreiben; eine
+zentrale Bedeutung hat hierbei der Begriff der "Entropie".
+
+Als "Entropie" :math:`S` bezeichnet man den "Grad der Unordnung" eines
+thermodynamischen Systems. Der zweite Hauptsatz der Wärmelehre schließt hierbei
+aus, dass bei spontan (also ohne Energiezufuhr) ablaufenden Prozessen aus
+Unordnung plötzlich Ordnung entsteht. Ein Schreibtisch räumt sich beispielsweise
+auch nicht von selbst auf, sondern wird im Lauf der Zeit immer chaotischer, bis
+man selbst mal wieder Arbeit verrichtet und Ordnung herstellt; ebenso entstehen
+bei einem herunterfallenden Glas von selbst viele chaotisch verteilte
+Glasscherben, aber beim Herunterfallen von Glasscherben wird sich nicht von
+selbst wieder ein Glasgefäß bilden.
+
+.. todo pic
+
+Auf mikroskopischer Ebene kann man sich mechanische Arbeit als gezielte
+Verschiebung von Teilchen im Raum vorstellen -- Wärme hingegen stellt eine
+ungerichtete Bewegung von Teilchen dar. Es ist möglich eine gerichtete Bewegung
+in eine ungerichtete umzuwandeln (Arbeit -> Wärme), doch es ohne ein Verrichten
+von Arbeit nicht möglich, eine ungerichtete Bewegung vieler Teilchen eine
+vollständig gerichtete Bewegung zu erzeugen. Man sagt daher, dass bei einer
+Umwandlung von mechanischer Energie in Wärme-Energie diese "entwertet" wird.
+
+Ähnlich wie bei der potentiellen Energie ist es auch bei der Entropie :math:`S`
+nicht einfach, einen konkreten Wert anzugeben; es ist allerdings möglich, die
+*Änderung* :math:`\Delta S` der Entropie bei einem Prozess quantitativ
+anzugeben:
+
+.. math::
+    :label: eqn-entropie-aenderung
+
+    \Delta S = \frac{\Delta Q}{T}
+
+In dieser Formel beschreibt :math:`\Delta Q` die während des Prozesses
+umgesetzte Wärmemenge:
+
+* Ist :math:`\Delta Q > 0`, so wird dem System Wärme zugeführt (wodurch auch die
+  Entropie zunimmt).
+
+* Ist :math:`\Delta Q < 0`, so wird Wärme vom System abgegeben (wodurch sich
+  auch die Entropie wieder verringert).
+
+Mit :math:`T` wird die absolute Temperatur bezeichnet, bei welcher der Prozess
+abläuft. Ändert sich die Temperatur während eines Prozesses, so kann man
+näherungsweise mit der durchschnittlichen Temperatur (in Kelvin) rechnen. [#]_
+
+
+.. _Reversible und nicht reversible Prozesse:
+
+.. rubric:: Reversible und nicht reversible Prozesse
+
+Ist die Entropie-Änderung während eines Prozesses gleich Null, so bezeichnet man
+diesen als "reversibel": Er kann spontan in beide Richtungen ablaufen. Ein
+Beispiel für einen solchen Prozess ist das Schmelzen beziehungsweise Gefrieren
+von Eis:
+
+*Beispiel:*
+
+* Welche Entropie-Änderung ergibt sich insgesamt, wenn :math:`m=\unit[1,0]{kg}`
+  Eis schmilzt beziehungsweise gefriert?
+
+  Beim Schmelzen beziehungsweise Gefrieren bleibt die Temperatur konstant; bei
+  einem normalen Luftdruck liegt der Gefrierpunkt von Wasser bei
+  :math:`T=\unit[0]{\degree C} \approx \unit[273]{K}`. Für die zum Schmelzen
+  des Eises benötigte Schmelzwärme :math:`Q _{\mathrm{s}}` gilt:
+
+  .. math::
+
+      Q_{\mathrm{s}} = m \cdot q_{\mathrm{s}} = \unit[1,0]{kg} \cdot
+      \unit[334]{\frac{kJ}{kg}} = \unit[334]{kJ}
+
+  Für die Entropieänderung :math:`\Delta S_{\mathrm{Fl}}` des Wassers ergibt
+  sich somit:
+
+  .. math::
+
+      \Delta S_{\mathrm{Wasser}} = \frac{\Delta Q}{T} =
+      \frac{\unit[334]{kJ}}{\unit[273]{K}} \approx \unit[1,22]{\frac{kJ}{K}}
+
+  Im gleichen Maß, wie die Entropie des Wassers zunimmt, nimmt die Entropie der
+  Umgebung, welcher die Wärme entzogen wurde, ab:
+
+  .. math::
+
+      \Delta S_{\mathrm{Umgebung}} = \frac{\Delta Q}{T} =
+      \frac{\unit[-334]{kJ}}{\unit[273]{K}} \approx \unit[-1,22]{\frac{kJ}{K}}
+
+  Beide Wärme-Umsätze finden bei der gleichen Temperatur statt; da auch die
+  umgesetzten Wärmemengen :math:`\Delta Q` gleich sind, ist die
+  Gesamt-Entropie-Änderung des gesamten Systems (Wasser + Umgebung) bei beiden
+  Vorgängen gleich Null:
+
+  .. math::
+
+      \Delta S_{\mathrm{ges}} = \Delta S_{\mathrm{Wasser}} + \Delta
+      S_{\mathrm{Umgebung}} = \unit[1,22]{\frac{kJ}{kg}} -
+      \unit[1,22]{\frac{kJ}{kg}} = 0
+
+  Der Vorgang ist somit reversibel -- er kann spontan in beide Richtungen
+  ablaufen. Beim Gefrieren ist der Vorgang genau umgekehrt: Das Wasser gibt die
+  Schmelzwärme an die Umgebung ab, wodurch sich die Entropie des Wassers
+  verringert und die Entropie der Umgebung zunimmt; auch hier ist die
+  Entropie-Änderung insgesamt gleich Null.
+
+Andere Prozesse, bei denen sich die Entropie ändert, heißen irreversibel: Sie
+finden ohne eine externe Energiezufuhr stets nur in Richtung zunehmender
+Entropie statt.
+
+* Welche Entropie-Änderung ergibt sich insgesamt, wenn man in einem isolierten
+  Gefäß :math:`m_1=\unit[1,0]{kg}` Wasser mit einer Temperatur von :math:`T_1 =
+  \unit[10]{\degree C}` mit :math:`m_2=\unit[1,0]{kg}` Wasser mit einer
+  Temperatur von :math:`T_2=\unit[30]{\degree C}` vermischt?
+
+  Da die beiden zu vermischenden Flüssigkeiten die gleiche Masse und die gleiche
+  Wärmekapazität :math:`(c_{\mathrm{wasser}} = \unit[4,2]{\frac{kJ}{kg \cdot
+  K}})` haben, wird sich als Mischtemperatur der Mittelwert zwischen beiden
+  Ausgangs-Temperaturen einstellen, es muss also :math:`T_{\mathrm{M}} =
+  \unit[20]{\degree C}` sein.
+
+  Geht keine Wärme an die Umgebung verloren, so stammt die zur Erwärmung des
+  kalten Wassers nötige Wärmemenge :math:`\Delta Q` von der warmen Flüssigkeit.
+  Mit :math:`| \Delta T| = \unit[10]{K}` für beide Flüssigkeiten gilt also:
+
+  .. math::
+
+      |\Delta Q_1| = |\Delta Q_2| = m \cdot c \cdot |\Delta T| = \unit[1,0]{kg}
+      \cdot \unit[10]{K} \cdot \unit[4,2]{\frac{kJ}{kg \cdot K}} = \unit[42]{kJ}
+
+  Die aufgegebene beziehungsweise abgegebene Wärmemenge ist betraglich gleich;
+  allerdings ist :math:`\Delta Q_1` positiv, da dieses System Wärme aufnimmt,
+  und :math:`\Delta Q_2` negativ, da dieses System Wärme abgibt. Beide
+  Teilprozessen (Erwärmen beziehungsweise Abkühlen) finden allerdings bei
+  unterschiedlichen Durchschnitts-Temperaturen statt: Für die sich erwärmende
+  Flüssigkeit gilt:
+
+  .. math::
+
+      \bar{T}_1 = \frac{T_{\mathrm{1,start}} + T_{\mathrm{1,end}}}{2} =
+      \unit[\frac{10 + 20}{2}]{\degree C} = \unit[15]{\degree C}
+
+  Für die sich abkühlende Flüssigkeit gilt entsprechend:
+
+  .. math::
+
+      \bar{T}_2 = \frac{T_{\mathrm{2,start}} + T_{\mathrm{2,end}}}{2} =
+      \unit[\frac{30 + 20}{2}]{\degree C} = \unit[25]{\degree C}
+
+  Die gesamte Entropie-Änderung :math:`\Delta S_{\mathrm{ges}}` entspricht der
+  Summe der Entropie-Änderungen beider Teil-Systeme:
+
+  .. math::
+
+      \Delta S_{\mathrm{ges}} &= \Delta S_1 + \Delta S_2 \\[4pt]
+      &= \frac{\Delta Q_1}{\bar{T}_1} + \frac{\Delta Q_2}{\bar{T}_2} \\[4pt]
+      &= \frac{\unit[42]{kJ}}{\unit[(273+15)]{K}} +
+      \frac{\unit[-42]{kJ}}{\unit[(273+25)]{K}} \\[6pt]
+      &= \;\;\, \unit[0,1458]{\frac{kJ}{K}} \;\; - \;\; \unit[0,1409]{\frac{kJ}{K}} =
+      \unit[+4,894]{\frac{J}{K}}
+
+  Die Entropie des kälteren Teil-Systems nimmt stärker zu, als die des wärmeren
+  Teil-Systems abnimmt. Die gesamte Entropie-Änderung ist folglich positiv, was
+  auf einen irreversiblen Vorgang schließen lässt: Die vermischten Flüssigkeiten
+  werden sich also nicht wiederum spontan (also ohne Aufwenden von Arbeit) in
+  zwei unterschiedlich warme Teil-Flüssigkeiten aufteilen.
+
+Wie diese beiden Beispiele zeigen, erhöht sich durch Wärmezufuhr nicht zwingend
+die Temperatur, stets aber wegen :math:`\Delta Q = T \cdot \Delta S` die
+Entropie des erwärmten Systems.
+
 
 .. _Dritter Hauptsatz:
 
@@ -371,6 +565,21 @@ in Kurzform folgendermaßen formulieren:
 Durch den dritten Hauptsatz der Wärmelehre wird somit ein Wirkungsgrad einer
 Wärmekraftmaschine von :math:`100\%`, wie er für einen :ref:`Carnot-Prozess
 <Carnot-Prozess>` theoretisch denkbar wäre, explizit ausgeschlossen.
+
+Verwendet man den Begriff der Entropie, so lässt sich der dritte Hauptsatz der
+Wärmelehre gleichwertig auch folgendermaßen formulieren:
+
+.. epigraph::
+
+    "Am absoluten Nullpunkt ist die Entropie eines Systems gleich Null."
+
+Anschaulich kann man sich dies etwa so vorstellen: Eine Entropie von Null ist
+gleichbedeutend mit einer perfekten Ordnung. Um eine solche perfekte Ordnung zu
+erreichen, muss Arbeit verrichtet beziehungsweise Energie zugeführt werden. Eine
+Energiezufuhr bewirkt jedoch, dass die Temperatur nicht den absoluten Nullpunkt
+erreichen kann. Auch mit dieser Formulierung wird somit (implizit)
+ausgeschlossen, dass der absoulte Temperatur-Nullpunkt erreicht werden kann.
+
 
 .. Brennwert-Tabellen:
 .. http://www.heizung-direkt.de/UEBERSHO/brennwert.htm
@@ -414,4 +623,11 @@ Wärmekraftmaschine von :math:`100\%`, wie er für einen :ref:`Carnot-Prozess
     Wasserstoff-Atome des Brennstoffs mit dem Sauerstoff der Luft reagieren.
     Beim Brennwert wird dann die Wärmemenge mit einbezogen, die diese Menge
     Wasserdampf beim Kondensieren freisetzt.
+
+.. [#] Bei einer genaueren Betrachtung muss man den Prozess in kleine Abschnitte
+    unterteilen und jeweils die einzelnen Wärmeumsätze :math:`\Delta
+    Q_{\mathrm{i}}` bei der jeweiligen Temperatur :math:`T_{\mathrm{i}}`
+    aufsummieren; nutzt man die :ref:`Integralrechnung <gwm:Integralrechnung>` ,
+    so kann man die Entropieänderung während eines Prozesses mittels
+    :math:`\Delta S = \int_{}^{} \frac{\mathrm{d}Q}{T}` berechnen.
 

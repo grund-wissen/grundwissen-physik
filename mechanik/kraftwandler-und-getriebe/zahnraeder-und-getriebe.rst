@@ -47,7 +47,7 @@ Verhältnis der wirkenden Drehmomente, gilt die folgende Formel: [#]_
 
     \frac{M_1}{M_2} = \frac{r_1}{r_2}
 
-Die wirkenden Drehmomente stehen somit im gleichen Größenverhältnis zeinander
+Die wirkenden Drehmomente stehen somit im gleichen Größenverhältnis zuinander
 wie die Radien der aufeinander einwirkenden Zahnräder.
 
 Aufgrund der Zahnungen kann bei Zahnrädern kein Durchrutschen ("Schlupf")
@@ -56,14 +56,14 @@ gleichen Weg zurück. Dies hat zweierlei Konsequenzen:
 
 * Die Zahnungen von zueinander passenden Zahnrädern müssen stets gleich groß
   sein. Bei einem Zahnrad mit einem Vielfachen an Zahnungen muss somit auch der
-  Radius um ein entsprechendes Vielfaches größer sein. [#]_ Sind :math:`n_1`
-  und :math:`n_2` die Anzahl an Zahnungen zweier Zahnräder aufeinander folgender
+  Radius um ein entsprechendes Vielfaches größer sein. [#]_ Sind :math:`z_1`
+  und :math:`z_2` die Anzahl an Zahnungen zweier Zahnräder aufeinander folgender
   Zahnräder und :math:`r_1` und :math:`r_2` die zugehörigen Radien, so gilt:
 
   .. math::
     :label: eqn-zahnräder-zahnungen
 
-      \frac{n_1}{n_2} = \frac{r_1}{r_2}{\color{white}\,\;\ldots}
+      \frac{z_1}{z_2} = \frac{r_1}{r_2}{\color{white}\,\;\ldots}
 
   Die Anzahl der Zahnungen ist somit direkt proportional zum Radius der
   Zahnräder.
@@ -82,7 +82,7 @@ gleichen Weg zurück. Dies hat zweierlei Konsequenzen:
   Die Winkelgeschwindigkeiten sind somit umgekehrt proportional zu den Radien
   der Zahnräder.
 
-Wirken zwei Zahnräer direkt aufeinander ein, so kehrt sich die Drehrichtung
+Wirken zwei Zahnräder direkt aufeinander ein, so kehrt sich die Drehrichtung
 um (in Abbildung :ref:`Zahnrad-Getriebe <fig-zahnrad-getriebe>` ist dies
 anhand der gestrichelten blauen Pfeile zu erkennen). Ist eine Umkehrung der
 Drehrichtung nicht beabsichtigt, so kann ein drittes Zahnrad mit beliebiger

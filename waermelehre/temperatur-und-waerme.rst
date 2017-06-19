@@ -35,20 +35,23 @@ Bereich. Je nach Art der Grenzen eines Systems von seiner Umgebung unterscheidet
 man zwischen verschiedenen Arten von Systemen:
 
 .. index:: System; offen
+.. _Offenes System:
 
 * Ein offenes System kann sowohl Energie wie auch Materie mit seiner Umgebung
   austauschen. Beispiele hierfür sind der menschliche Körper oder ein
   Verbrennungsmotor eines Kraftfahrzeugs. Physikalische Vorgänge in offenen
-  Systemen sind meist schwierig zu berechnen, da hierfür die Materie- bzw.
-  Energieströme numerisch modelliert werden müssen.
+  Systemen sind meist schwierig zu berechnen, da hierfür die Materie-
+  beziehungsweise Energieströme numerisch modelliert werden müssen.
 
-.. index:: System; abgeschlossen
+.. index:: System; geschlossen
+.. _Geschlossenes System:
 
-* Ein abgeschlossenes System kann Energie, aber keine Materie mit seiner
+* Ein geschlossenes System kann Energie, aber keine Materie mit seiner
   Umgebung austauschen. Beispiele hierfür sind Sonnenkollektoren,
   Kühlschränke oder Wärmepumpen.
 
 .. index:: System; isoliert
+.. _Isoliertes System:
 
 * Ein isoliertes System kann weder Energie noch Wärme mit seiner Umgebung
   austauschen. In der Praxis lässt sich ein solches System kaum realisieren,
@@ -58,7 +61,8 @@ man zwischen verschiedenen Arten von Systemen:
 In den folgenden Kapiteln werden ausschließlich physikalische Eigenschaften von
 abgeschlossenen oder isolierten Systemen behandelt.
 
-
+.. _Prozessgröße:
+.. _Zustandsgröße:
 .. _Zustands- und Prozessgrößen:
 
 .. rubric:: Zustands- und Prozessgrößen
@@ -157,6 +161,10 @@ Temperaturbereich zwischen beiden Fixpunkten in gleiche Abschnitte unterteilt.
 Die wichtigsten drei Temperatur-Skalen sind:
 
 .. index:: Celsius (Einheit)
+.. _Celsius:
+.. _Celsius-Skala:
+.. _Fixpunkt:
+.. _Fixpunkte-Schmelzen-Verdampfen:
 
 * *Celsius*-Skala:
 
@@ -169,6 +177,8 @@ Die wichtigsten drei Temperatur-Skalen sind:
     :math:`(-)` gekennzeichnet.
 
 .. index:: Kelvin (Einheit)
+.. _Kelvin:
+.. _Kelvin-Skala:
 
 * *Kelvin*-Skala:
 
@@ -193,6 +203,8 @@ Die wichtigsten drei Temperatur-Skalen sind:
     Grad Celsius und Kelvin gleichwertig.
 
 .. index:: Fahrenheit (Einheit)
+.. _Fahrenheit:
+.. _Fahrenheit-Skala:
 
 * *Fahrenheit*-Skala:
 

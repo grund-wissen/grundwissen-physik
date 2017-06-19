@@ -2,6 +2,7 @@
     :description: Übungsaufgaben zur Mechanik
     :keywords:  Physik, Physik Aufgaben, Mechanik, Mechanik Aufgaben, Grundwissen, Schule, Lehrbuch
 
+.. _Aufgaben Mechanik:
 .. _Aufgaben zur Mechanik:
 
 Aufgaben zur Mechanik

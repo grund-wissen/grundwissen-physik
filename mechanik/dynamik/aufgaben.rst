@@ -110,35 +110,11 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
 .. _dynz03:
 
-* (\**) Welche Winkel :math:`\alpha`, :math:`\beta` und :math:`\gamma` müssen
-  drei an einem gemeinsamen Punkt angreifende Kräfte :math:`F_1 = \unit[50]{N}`,
-  :math:`F_2 = \unit[70]{N}` und :math:`F_3 = \unit[90]{N}` einschließen, damit
-  zwischen ihnen ein Kräftegleichgewicht herrscht?
-
-  :ref:`Lösung <dynz03l>`
-
-----
-
-..  .. _Zusammenwirken-mehrerer-Kräfte-03:
-
-.. TODO
-.. * Zwei Kräfte :math:`F_1 = \unit[105]{N}` und :math:`F_2 = \unit[80]{N}`
-..   greifen, wie in der folgenden Abbildung dargestellt, an einem gemeinsamen
-..   Punkt an; der Winkel zwischen den beiden Kräften beträgt dabei :math:`\gamma
-..   ^{*} = 145 \degree`.
-
-.. Wie groß muss die Kraft :math:`F_3` sein, wenn der Winkel zwischen
-.. :math:`F_1` und :math:`F_3` gleich :math:`110 \degree` ist?
-
-..  ----
-
-.. _dynz04:
-
 * (\*) Ein Schlitten mit Kind (Gesamt-Gewichtskraft: :math:`\unit[500]{N}`) wird
-  von einem Erwachsenen gezogen. Das Zugseil schließt dabei einen Winkel von
-  :math:`\alpha = 10 \degree` ein. Wie groß ist die nötige Zugkraft
-  :math:`F_{\mathrm{z}}`, wenn die Reibungszahl zwischen Schlitten und Schnee
-  :math:`\mu = 0,03` beträgt?
+  von einem Erwachsenen gezogen. Das Zugseil schließt dabei mit der Horizontalen
+  einen Winkel von :math:`\alpha = 10\degree` ein. Wie groß ist die nötige
+  Zugkraft :math:`F_{\mathrm{zug}}`, wenn die Reibungszahl zwischen Schlitten
+  und Schnee :math:`\mu = 0,03` beträgt?
 
   .. image:: ../../pics/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.png
       :align: center
@@ -149,10 +125,33 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
        .. centered:: :download:`SVG: Kraftzerlegung am Beispiel eines Schlittens
                       <../../pics/mechanik/dynamik/kraftzerlegung-schlitten-aufgabe.svg>`
 
-  :ref:`Lösung <dynz04l>`
-
+  :ref:`Lösung <dynz03l>`
 
 ----
+
+.. _dynz04:
+
+* (\**) Welche Winkel :math:`\alpha`, :math:`\beta` und :math:`\gamma` müssen
+  drei an einem gemeinsamen Punkt angreifende Kräfte :math:`F_1 = \unit[50]{N}`,
+  :math:`F_2 = \unit[70]{N}` und :math:`F_3 = \unit[90]{N}` einschließen, damit
+  zwischen ihnen ein Kräftegleichgewicht herrscht?
+
+  :ref:`Lösung <dynz04l>`
+
+----
+
+..  .. _Zusammenwirken-mehrerer-Kräfte-03:
+
+.. TODO
+.. * Zwei Kräfte :math:`F_1 = \unit[105]{N}` und :math:`F_2 = \unit[80]{N}`
+..   greifen, wie in der folgenden Abbildung dargestellt, an einem gemeinsamen
+..   Punkt an; der Winkel zwischen den beiden Kräften beträgt dabei :math:`\gamma
+..   ^{*}Õ[MaÕ[MaÕ[MaÏ[MaÏ = 145 \degree`.
+
+.. Wie groß muss die Kraft :math:`F_3` sein, wenn der Winkel zwischen
+.. :math:`F_1` und :math:`F_3` gleich :math:`110 \degree` ist?
+
+..  ----
 
 .. _dynz05:
 
@@ -177,9 +176,9 @@ mehrerer Kräfte <Zusammenwirken mehrerer Kräfte>`.
 
 * (\**) Eine Straßenlaterne mit einer Gewichtskraft von :math:`F_{\mathrm{G}} =
   \unit[50]{N}` wird asymmetrisch von zwei Stahlseilen. Der Aufhängepunkt der
-  Lampe befindet sich jeweils :math:`h=\unit[1]{m}` unterhalb der
+  Lampe befindet sich jeweils :math:`h=\unit[1,0]{m}` unterhalb der
   Befestigungsstellen der Seile an den tragenden Wänden; der Abstand der Lampe
-  zur linken Wand beträgt :math:`l_1 = \unit[5]{m}`, der Abstand zur rechten
+  zur linken Wand beträgt :math:`l_1 = \unit[5,0]{m}`, der Abstand zur rechten
   Wand :math:`l_2 = \unit[10]{m}`. Welche Beträge haben die Kräfte
   :math:`\vec{F}_1` und :math:`\vec{F}_2`, die entlang der Seilstücke auf diese
   einwirken?
@@ -240,9 +239,9 @@ Kräfte <Arten mechanischer Kräfte>`.
 .. _dyna04:
 
 * (\*) Eine :math:`\unit[50]{kg}` schwere Holzkiste aus Eichenholz soll auf
-  einem Holzboden verschoben werden. Die Haftreibungszahl beträgt :math:`\mu
-  _{\mathrm{H}} = 0,54`, die Gleitreibungszahl :math:`\mu_{\mathrm{G}} = 0,34`.
-  Welche Kraft ist nötig, um die Kiste aus der Ruhelage in Bewegung zu
+  einem Holzboden verschoben werden. Die Haftreibungszahl beträgt
+  :math:`\mu_{\mathrm{H}} = 0,54`, die Gleitreibungszahl :math:`\mu_{\mathrm{G}}
+  = 0,34`. Welche Kraft ist nötig, um die Kiste aus der Ruhelage in Bewegung zu
   versetzen, und welche Kraft ist nötig, um die Kiste weiter gleiten zu lassen?
 
   :ref:`Lösung <dyna04l>`
@@ -262,7 +261,7 @@ Kräfte <Arten mechanischer Kräfte>`.
 .. _dyna06:
 
 * (\*) Welche Kraft ist nötig, um eine Schraubenfeder mit einer Federkonstante
-  von :math:`D=\unit[40]{N/m}` um :math:`\unit[12]{cm}` auszudehnen?
+  von :math:`D=\unitfrac[40]{N}{m}` um :math:`\unit[12]{cm}` auszudehnen?
 
   :ref:`Lösung <dyna06l>`
 
@@ -271,7 +270,7 @@ Kräfte <Arten mechanischer Kräfte>`.
 .. _dyna07:
 
 * (\*) Wie weit dehnt sich eine Schraubenfeder mit einer Federkonstante von
-  :math:`\unit[650]{N/m}`, wenn man mit einer Kraft von :math:`\unit[20]{N}`
+  :math:`\unitfrac[650]{N}{m}`, wenn man mit einer Kraft von :math:`\unit[20]{N}`
   an ihr zieht?
 
   :ref:`Lösung <dyna07l>`
@@ -282,7 +281,7 @@ Kräfte <Arten mechanischer Kräfte>`.
 
 * (\**) Welchen Radius :math:`r` muss ein Kreisverkehr mindestens haben, wenn
   ein Fahrzeug der Masse :math:`m=\unit[1500]{kg}` ihn mit einer Geschwindigkeit
-  von :math:`v = \unit[36]{km/h}` ohne Wegrutschen durchfahren können soll? Als
+  von :math:`v = \unitfrac[36]{km}{h}` ohne Wegrutschen durchfahren können soll? Als
   Haftreibungszahl kann dabei :math:`\mu_{\mathrm{H}}= 0,8` angenommen werden.
 
   :ref:`Lösung <dyna08l>`

@@ -1,7 +1,8 @@
+.. _Experimente Dynamik:
 .. _Experimente zur Dynamik:
 
-Experimente zur Dynamik
-=======================
+Dynamik
+=======
 
 .. _Experimente Mechanische Kräfte:
 

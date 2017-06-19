@@ -20,7 +20,7 @@ Drehimpuls <Impuls und Drehimpuls>`.
 
 .. _imp02:
 
-* (\*) Ein Eisenbahnwagen koppelt mit :math:`v = \unit[3]{m/s}` an vier stehende,
+* (\*) Ein Eisenbahnwagen koppelt mit :math:`v = \unitfrac[3]{m}{s}` an drei stehende,
   Eisenbahnwagen gleicher Bauart an. Mit welcher Geschwindigkeit bewegen sich
   die Wagen anschließend weiter, wenn die Reibung vernachlässigt werden kann?
 
@@ -31,8 +31,8 @@ Drehimpuls <Impuls und Drehimpuls>`.
 .. _imp03:
 
 * (\**) Zwei Fahrzeuge mit :math:`m_1 = \unit[1000]{kg}` und :math:`m_2 =
-  \unit[2000]{kg}` prallen unelastisch mit :math:`v_1 = \unit[+50]{km/h}` und
-  :math:`v_2 = \unit[-50]{km/h}`  frontal aufeinander. Welche Beschleunigung
+  \unit[2000]{kg}` prallen unelastisch mit :math:`v_1 = \unitfrac[+50]{km}{h}` und
+  :math:`v_2 = \unitfrac[-50]{km}{h}`  frontal aufeinander. Welche Beschleunigung
   wirken auf die Fahrer der beiden Fahrzeuge ein, wenn für beide Fahrzeuge eine
   "Knautschzone" von :math:`s = \unit[0,5]{m}` angenommen werden kann?
 
@@ -41,7 +41,7 @@ Drehimpuls <Impuls und Drehimpuls>`.
 
 ----
 
-.. foo
+.. lol
 
 .. only:: html
 

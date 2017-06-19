@@ -59,14 +59,18 @@ Drehimpuls>`.
 
 * Vor dem (unelastischen) Zusammenprall haben die beiden Fahrzeuge mit
   den Massen :math:`m_1 = \unit[1000]{kg}` und :math:`m_2 = \unit[2000]{kg}` und
-  den Geschwindigkeiten :math:`v_1 = \unit[50]{km/h} = \unit[13,9]{m/s}` und
-  :math:`v_2 = \unit[-50]{km/h} = \unit[-13,9]{m/s}` folgenden Gesamtimpuls:
+  den Geschwindigkeiten :math:`v_1 = \unitfrac[50]{km}{h} =
+  \unitfrac[13,9]{m}{s}` und :math:`v_2 = \unit[-50]{km}{h} =
+  \unit[-13,9]{m}{s}` folgenden Gesamtimpuls:
 
   .. math::
 
       p = (m_1 \cdot v_2 + m_2 \cdot v_2) = \unit[1000]{kg} \cdot
       \unit[13,9]{\frac{m}{s}} + \unit[2000]{kg} \cdot
       (\unit[-13,9]{\frac{m}{s}}) = \unit[-13\,900]{\frac{kg \cdot m}{s}}
+
+  ..
+      50/3.6*1000   # pges
 
   Dieser Impuls bleibt nach dem Zusammenprall erhalten. Die Geschwindigkeit
   :math:`u`, mit der sich beide Fahrzeuge nach dem Stoß gemeinsam
@@ -82,44 +86,66 @@ Drehimpuls>`.
       m}{s}}}{\unit[1000]{kg} + \unit[2000]{kg}} \approx
       \unit[-4,63]{\frac{m}{s}}
 
-  Die beiden Fahrzeuge bewegen sich unmittelbar nach dem Stoß also mit rund
-  :math:`\unit[4,63]{m/s} \approx \unit[16,7]{km/h}` in Richtung des leichteren
-  Fahrzeugs.
+  ..
+      50/3.6*1000/3000  # vn
 
-  Der Fahrer des leichteren Fahrzeugs erfährt somit innerhalb eines "Bremswegs"
-  von :math:`\Delta s = \unit[0,5]{m}` (der Knautschzone) eine
-  Geschwindigkeitsänderung :math:`\unit[+50]{km/h}` auf
-  :math:`\unit[-16,7]{km/h}`, das heißt :math:`\Delta v_1 = \unit[-67,7]{km/h}
-  \approx \unit[18,5]{m/s}`. Entsprechend beträgt die Geschwindigkeitsänderung,
-  die der Fahrer des schweren Fahrzeugs erfährt, :math:`\Delta v_2 =
-  \unit[+16,7]{km/h} - \unit[50]{km/h} = \unit[33,3]{km/h} \approx
-  \unit[9,3]{m/s}`. Für die beiden Beschleunigungen :math:`a_1` und :math:`a_2`
-  gilt damit (vergleiche Aufgabe :ref:`"Gegen die Wand" <kinb07>`):
+  Die beiden Fahrzeuge bewegen sich unmittelbar nach dem Stoß also gemeinsam mit
+  rund :math:`\unitfrac[-4,63]{m}{s} \approx \unitfrac[16,7]{km}{h}` in Richtung des
+  ersten (leichteren) Fahrzeugs.
+
+  Der Fahrer des zweiten (schwereren) Fahrzeugs erfährt innerhalb des
+  "Bremswegs" :math:`\Delta s = \unit[0,5]{m}` (der Knautschzone) eine
+  Geschwindigkeitsänderung von :math:`|v_1| = \unitfrac[13,9]{m}{s}` auf
+  :math:`|v|=\unitfrac[4,93]{m}{s}`. Damit kann man mittels der :ref:`Bremsformel
+  <Bremsformel>` die wirkende Beschleunigung folgendermaßen berechnen:
 
   .. math::
 
-      - v_1^2 = 2 \cdot a_2 \cdot s \quad &\Leftrightarrow \quad a_1 =
-        \frac{-v_1^2}{2 \cdot s} \\[4pt]
-      a_1 =  \frac{-\left( \unit[18,5]{\frac{m}{s}} \right)^2}{2 \cdot
-      \unit[0,5]{m}} &\approx - \unit[343]{\frac{m}{s^2}} \approx 35 \cdot g
-      \\[10pt]
+      v^2 - v_2^2 = 2 \cdot a_2 \cdot \Delta s \quad \Longleftrightarrow \quad
+      a_2 = \frac{v^2 - v_2^2}{2 \cdot \Delta s}\\[6pt]
+      a_2 = \frac{\phantom{+}\unit[4,63^2]{\frac{m^2}{s^2}}  -
+      \unit[13,9^2]{\frac{m^2}{s^2}}}{2 \cdot \unit[0,5]{m}} \approx
+      \unit[-171,5]{\frac{m}{s^2}}
 
-      - v_2^2 = 2 \cdot a_2 \cdot s \quad &\Leftrightarrow \quad a_2 =
-        \frac{-v_1^2}{2 \cdot s} \\[4pt]
-      a_2 =  \frac{-\left( \unit[9,3]{\frac{m}{s}} \right)^2}{2 \cdot
-      \unit[0,5]{m}} &\approx - \unit[86]{\frac{m}{s^2}} \approx 9 \cdot g
+  ..
+      -(50/3.6)**2 + (50/3.6*1000/3000)**2
 
-  Werden beide Karosserien als gleich stabil angenommen, so erfährt der Fahrer
-  des schwereren Fahrzeugs beim Zusammenstoß somit etwa eine (noch überlebbare)
-  neunfache Erdbeschleunigung, der Fahrer des leichten Fahrzeugs hingegen eine
-  etwa (in den meisten Fällen tödliche) 35-fache Erdbeschleunigung.
+  Der Fahrer des ersten (leichteren) Fahrzeugs wird innerhalb des gleichen
+  Bremswegs :math:`\Delta s = \unit[0,5]{m}` (der Knautschzone des zweiten
+  Fahrzeugs) nicht nur von der Geschwindigkeit :math:`v_1 =
+  \unitfrac[+13,9]{m}{s}` bis zum Stillstand abgebremst, sondern zusätzlich
+  auf :math:`\unitfrac[-4,63]{m}{s}` beschleunigt. In der Bremsformel kann dies
+  explizit berücksichtigt werden, indem vor die Endgeschwindigkeit :math:`v` ein
+  Minus-Zeichen gesetzt wird:
 
-  Um den gleiche Beschleunigungsverhältnis zu erzielen, müsste das leichtere
-  Fahrzeug frontal mit einem gleich schweren, aber doppelt so schnellen Fahrzeug
-  frontal zusammenprallen. Leichtere Fahrzeuge sind also, obwohl sie meist
-  umweltfreundlicher sind, bei Verkehrsunfällen benachteiligt. Leider konnten
-  sich "Fair-Play"-Regelungen, wonach für schwere Fahrzeuge striktere Regeln
-  bezüglich Knautschzonen gelten müssen, bislang nicht durchsetzen..
+  .. math::
+
+      a_1 = \frac{\unit[-4,63^2]{\frac{m^2}{s^2}} -
+      \unit[13,9^2]{\frac{m^2}{s^2}}}{2 \cdot \unit[0,5]{m}} \approx
+      \unit[-214,3]{\frac{m}{s^2}}
+
+  ..
+      -(50/3.6)**2 - (50/3.6*1000/3000)**2
+
+  Die Bremsformel berücksichtigt aufgrund der Quadrierung der
+  Geschwindigkeitswerte nicht die ursprüngliche Richtung der Geschwindigkeiten,
+  sondern vergleicht lediglich die Beträge der Start- und Endgeschwindigkeit:
+  Ist die Endgeschwindigkeit geringer als die Startgeschwindigkeit, so ergibt
+  sich ein negatives Vorzeichen. Dies bedeutet hierbei nur, dass die
+  Beschleunigung entgegen der bisherigen Bewegungsrichtung verläuft; die
+  physikalische Interpretation, ob die Beschleunigung "nach links" oder "nach
+  rechts" gerichtet ist, muss man hingegen selbst treffen.
+
+  An den Beträgen der Beschleunigungen kann man erkennen, dass der Fahrer des
+  schwereren Fahrzeugs beim Zusammenstoß eine geringere Bremsbeschleunigung
+  erfährt der Fahrer des leichten Fahrzeugs; er hat also eine höhere
+  Überlebenswahrscheinlichkeit.
+
+  Leichte Fahrzeuge gefährden zwar andere Verkehrsteilnehmer nur in geringerem
+  Maße, sind aber bei Verkehrsunfällen gegenüber schweren Fahrzeugen
+  benachteiligt. "Fair-Play"-Regelungen, wonach beispielsweise für schwere
+  Fahrzeuge entsprechend striktere Regeln bezüglich Knautschzonen gelten
+  müssten, konnten sich politisch bislang leider nicht durchsetzen.
 
 .. Jeder Zentner Mehrgewicht kostet im Schnitt 0,2 Liter Kraftstoff auf 100
 .. Kilometer.

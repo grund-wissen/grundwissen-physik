@@ -10,7 +10,7 @@ Experimente, Übungsaufgaben und Lösungen
 .. find ./ -name "*loesungen*.rst"   | xargs grep -c "^\* "         | awk -F ":" '{sum+=$2} END {print sum}'
 .. find ./ -name "*experimente*.rst" | xargs grep -c ".. rubric:: " | awk -F ":" '{sum+=$2} END {print sum}'
 
-..  Now 2016-05-16 
+..  Now 2016-05-16
 
 .. *  68 Experimente, 17 Bilder
 .. * 141 Übungsufgaben
@@ -20,6 +20,21 @@ Experimente, Übungsaufgaben und Lösungen
 
 Experimente
 -----------
+
+.. only:: html
+
+    .. sidebar:: Hinweis
+
+        Eine Vorlage eines Versuch-Protokolls kann hier als
+        :download:`PDF-Dokument <versuchsprotokoll.pdf>` heruntergeladen werden.
+
+.. only:: latex
+
+    Eine Vorlage eines Versuch-Protokolls kann auf der `Grund-Wissen-Webseite
+    <file:///home/waldgeist/data/homepage/grund-wissen/physik/_build/html/experimente-aufgaben-loesungen.html>`__
+    als PDF-Datei heruntergeladen werden.
+
+
 
 ..  Experimente sind in der Physik von besonderer Bedeutung. Mit einem geeigneten
 ..  Versuchsaufbau können Ursache-Wirkungs-Zusammenhänge anschaulich und

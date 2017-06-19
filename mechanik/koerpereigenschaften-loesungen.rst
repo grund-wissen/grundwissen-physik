@@ -65,8 +65,9 @@ Volumen>` zum Abschnitt :ref:`Volumen <Volumen>`.
       V = A \cdot h = \unit[1,8]{m^2} \cdot \unit[0,000\,1]{m} =
       \unit[0,000\,18]{m^3} = \unit[0,18]{dm^3}
 
-  Zum Streichen der Fläche mit der angegebenen Schichtdicke sind somit rund
-  :math:`\unit[0,2]{dm^3} = \unit[0,2]{l}` Lack nötig.
+  Zum Streichen der Fläche mit der angegebenen Schichtdicke sind somit je Fläche
+  rund :math:`\unit[0,2]{dm^3} = \unit[0,2]{l}` nötig; für beide Seiten sind
+  entsprechend :math:`\unit[0,4]{l}` Lack notwendig.
 
   :ref:`Zurück zur Aufgabe <kvo02>`
 

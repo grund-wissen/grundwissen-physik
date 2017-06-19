@@ -1,6 +1,6 @@
-.. index::
-    single: Kraftwandler; Schiefe Ebene
+.. index:: Kraftwandler; Schiefe Ebene
 .. _Schiefe Ebene:
+.. _Schiefe Ebenen:
 
 Schiefe Ebenen
 ==============
@@ -94,7 +94,91 @@ Je kleiner also der Winkel :math:`\alpha` ist, desto länger ist bei einer
 bestimmten Steighöhe :math:`h` die horizontale Breite :math:`b` beziehungsweise
 wegen :math:`l = \sqrt{b^2 + h^2}` auch die Länge :math:`l` der schiefen Ebene.
 
-.. rubric:: Die Keilwirkung
+
+.. _Schiefe Ebene mit Reibung:
+.. _Schiefe Ebenen mit Reibung:
+
+.. rubric:: Schiefe Ebenen mit Reibung
+
+Wird ein Gegenstand auf eine schiefe Ebene gelegt, so wird er durch die
+Hangabtriebskraft :math:`F_{\mathrm{HA}}` entlang der schiefen Ebene nach unten
+beschleunigt. Kann die entgegengesetzt wirkende Reibungskraft zwischen dem
+Objekt und der schiefen Ebene nicht vernachlässigt werden, so muss sie
+folgendermaßen berücksichtigt werden:
+
+.. math::
+
+    F_{\mathrm{R}} = \mu \cdot F_{\mathrm{N}} = \mu \cdot F_{\mathrm{G}} \cdot
+    \cos{\alpha }
+
+Hierbei bezeichnet :math:`\mu` die :ref:`Reibungszahl <Reibungszahl>` für Haft-
+beziehungsweise Gleitreibung; zudem wurde für die wirkende Normalkraft
+:math:`F_{\mathrm{N}}` die obige Formel :eq:`eqn-schiefe-ebene-kraftanteile`
+verwendet.
+
+Befindet sich das Objekt auf der schiefen Ebene zunächst in Ruhe, so beginnt es
+dann zu gleiten, wenn die Hangabtriebskraft die maximale Haftreibungskraft
+übersteigt. Für den Grenzfall gilt:
+
+.. math::
+
+    F_{\mathrm{HA}} &= F_{\mathrm{R,max}} \\[6pt]
+    F_{\mathrm{G}} \cdot \sin{\alpha } &= \mu _{\mathrm{H}} \cdot F_{\mathrm{G}}
+    \cdot \cos{\alpha } \\[4pt]
+
+Bei dieser Gleichung kann auf beiden Seiten :math:`F_{\mathrm{G}}` gekürzt
+werden; man erhält somit:
+
+.. math::
+    :label: eqn-maximaler-boeschungswinkel
+
+    \mu _{\mathrm{H}} = \frac{\sin{(\alpha)}}{\cos{(\alpha)}} = \tan{(\alpha)}
+
+Ist die Haftreibungszahl für das Materialien-Paar (Objekt -- Schiefe Ebene)
+bekannt, so kann man also unmittelbar angeben, ab welchem Winkel :math:`\alpha`
+das Objekt anfangen wird zu rutschen:
+
+.. math::
+
+    \alpha_{\mathrm{max}} = \text{atan}(\alpha)
+
+Der Winkel :math:`\alpha_{\mathrm{max}}` wird auch "maximaler Böschungswinkel"
+genannt. Mit ihm kann beispielsweise ausgedrückt werden, bis zu welcher Steigung
+ein pulverartiges Schüttgut aufgehäuft werden kann, bevor ein Nachrutschen des
+Materials einsetzt.
+
+.. list-table:: Maximale Böschungswinkel (Quelle: `Wikipedia <https://en.wikipedia.org/wiki/Angle_of_repose>`__)
+    :name: tab-maximale-boeschungswinkel
+    :widths: 50 50 
+
+    * - Material
+      - Winkel in Grad
+    * - Asche
+      - :math:`\unit[40]{\degree}`
+    * - Erde
+      - :math:`\unit[30]{\degree}` bis :math:`\unit[45]{\degree}`
+    * - Holzrinde (klein gestückelt)
+      - :math:`\unit[45]{\degree}`
+    * - Kleie
+      - :math:`\unit[30]{\degree}` bis :math:`\unit[45]{\degree}`
+    * - Kies
+      - :math:`\unit[45]{\degree}`
+    * - Sand (trocken)
+      - :math:`\unit[34]{\degree}`
+    * - Sand (nass)
+      - :math:`\unit[45]{\degree}`
+    * - Schnee
+      - :math:`\unit[38]{\degree}`
+
+Bewegt sich ein Objekt mit einer konstanten Geschwindigkeit eine schiefe Ebene
+hinab, so ist die Hangabtriebskraft gleich der Gleitreibungskraft. Durch eine
+experimentelle Bestimmung des zugehörigen Winkels :math:`\alpha` kann somit die
+Gleitreibungszahl :math:`\mu_{\mathrm{G}}` zwischen dem Material des Objekts und
+dem Material der schiefen Ebene bestimmt werden.
+
+.. _Keilwirkung:
+
+.. rubric:: Keilwirkung
 
 Ein Keil, auf dessen Rückseite eine Kraft :math:`F` ausgeübt wird, kann das
 umliegende Material auseinander treiben. Diese spaltende Wirkung, die

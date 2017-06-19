@@ -3,6 +3,7 @@
     :keywords:  Physik, Physik Aufgaben, Wärmelehre, Wärmelehre Aufgaben, Grundwissen, Schule, Lehrbuch
 
 
+.. _Aufgaben Wärmelehre:
 .. _Aufgaben zur Wärmelehre:
 
 Aufgaben zur Wärmelehre
@@ -31,7 +32,7 @@ Wärme <Temperatur und Wärme>`.
 .. _wte02:
 
 * (\*) Ab einer Körpertemperatur von über :math:`\unit[40]{\degree C }` spricht
-  man bei einem Menschen von "hohem Fieber". Wie viel Kelvin bzw. Grad
+  man bei einem Menschen von "hohem Fieber". Wie viel Kelvin beziehungsweise Grad
   Fahrenheit entsprechen dieser Temperatur?
 
   :ref:`Lösung <wte02l>`
@@ -61,6 +62,23 @@ Phasenübergänge <Wärmekapazität und Phasenübergänge>`.
   :ref:`Lösung <wka01l>`
 
 ----
+
+.. _wka02:
+
+* (\**) Wie viel Energie ist mindestens notwendig, um :math:`V=\unit[3,0]{l}`
+  Wasser mit einer spezifischen Wärmekapazität von
+  :math:`\unit[4,2]{\frac{KJ}{kg \cdot K}}` zum Sieden zu bringen, wenn die
+  Temperatur des Wassers zunächst :math:`\unit[20]{\degree C}` beträgt? Wie
+  lange dauert dieser Vorgang mindestens, wenn die Heizleistung
+  :math:`\unit[2,0]{kW}` beträgt? 
+  (Wärmeverluste sollen bei dieser Aufgabe vernachlässigt werden.)
+
+
+  :ref:`Lösung <wka02l>`
+
+----
+
+
 
 
 .. _Aufgaben Ausbreitung von Wärme:
@@ -151,7 +169,7 @@ Erwärmung <Ausdehnung bei Erwärmung>`.
 
 * (\*) Wie lang wird ein :math:`l=\unit[120]{m}` langer Kupferdraht
   :math:`(\alpha_{\mathrm{Cu}} = \unit[0,0168]{\frac{mm}{m \cdot K} })`, wenn er
-  um :math:`\Delta T = \unit[40]{K}` erhitzt wird?
+  um :math:`\Delta T = \unit[50]{K}` erhitzt wird?
 
   :ref:`Lösung <wde03l>`
 
@@ -263,22 +281,37 @@ Gasgleichung <Allgemeine Gasgleichung>`.
 
 .. _wag01:
 
+* (\**) Wie viele Moleküle sind ungefähr in :math:`V=\unit[1,0]{l}` Luft unter
+  Normbedingungen enthalten?
+
+  :ref:`Lösung <wag01l>`
+
+----
+
+.. _wag02:
+
 * (\**) Wie groß ist die Dichte von Luft in einem Gefäß, wenn dieses bei einer
   Temperatur von :math:`T = \unit[20]{\degree C}` bis auf ein Ultrahochvakuum
   mit einem Restdruck von :math:`p = \unit[1 \cdot 10 ^{-10}]{Pa}` leergepumpt
   wird? Wie viele Teilchen befinden sich dabei in :math:`V = \unit[1]{cm^3}`
   dieses Restgases?
 
-  :ref:`Lösung <wag01l>`
+  :ref:`Lösung <wag02l>`
 
+----
 
 .. wärmekraftmaschinen-aufgaben.rst
 
-----
 
 .. foo
 
 .. only:: html
+
+    Weitere Aufgaben zur Physik von Gasen gibt es im Abschnitt
+    :ref:`Mechanik der Gase <Aufgaben Mechanik der Gase>`.
+
+    .. rubric:: Anmerkungen:
+
 
     :ref:`Zurück zum Skript <Wärmelehre>`
 

@@ -39,10 +39,10 @@ wird der Atomkern von einer nahezu masselosen Hülle aus Elektronen.
       - :math:`m_{\mathrm{n}} = \unit[1,008\,66]{u} = \unit[1,674\,93 \cdot 10^{-27}]{kg}`
 
 Mit :math:`\unit[1]{e} = \unit[1,6022 \cdot 10^{-19}]{C}` wird dabei die
-Elementarladung bezeichnet. Ein Proton bzw. Neutron ist jeweils um rund 1836 mal
-schwerer als ein Elektron; der Durchmesser des Atomkerns beträgt hingegen nur
-das :math:`1 / 10000`- bis :math:`1 / 100000`-fache des Durchmessers der
-Elektronenhülle.
+Elementarladung bezeichnet. Ein Proton beziehungsweise Neutron ist jeweils um
+rund 1836 mal schwerer als ein Elektron; der Durchmesser des Atomkerns beträgt
+hingegen nur das :math:`1 / 10000`- bis :math:`1 / 100000`-fache des
+Durchmessers der Elektronenhülle.
 
 .. index:: Atomhülle
 .. _Die Elektronenhülle:
@@ -124,6 +124,8 @@ diese ohnehin stets eine positive Ladung tragen, die ihrer Protonenzahl
 entspricht.
 
 
+.. index:: Isotop
+.. _Isotop:
 .. _Isotope:
 
 .. rubric:: Isotope
@@ -222,7 +224,7 @@ Bereits ein winziger Massendefekt entspricht einer gewaltigen Menge an Energie.
   \cdot 10 ^{-23}]{g}`. Die Differenz von :math:`m = \unit[1,66 \cdot
   10^{-25}]{g}` wird bei der Bildung aus den Kernbausteinen in Energie
   umgewandelt. Diese Masse entspricht einer Energie von :math:`\unit[1,494 \cdot
-  10^{-11}]{J}` je Atom bzw. :math:`\unit[7,5 \cdot 10^{11}]{J}` je Gramm
+  10^{-11}]{J}` je Atom beziehungsweise :math:`\unit[7,5 \cdot 10^{11}]{J}` je Gramm
   Kohlenstoff. Dies entspricht der 22-Millionen-fachen Energiemenge, die bei der
   Verbrennung von einem Gramm Kohle freigesetzt wird.
 

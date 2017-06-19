@@ -28,6 +28,7 @@ Auf nicht-ferromagnetische Stoffe zeigen Magnete (fast) keine Wirkung.
 
 
 .. index:: Elementarmagnet
+.. _Magnetpol:
 .. _Modell der Elementarmagnete:
 
 .. rubric:: Das Modell der Elementarmagnete
@@ -63,6 +64,9 @@ kleinster "Elementarmagnete" aufgefasst werden:
         :download:`SVG: Elementarmagnete
         <../pics/elektrizitaet-magnetismus/elementarmagnete.svg>`
 
+Anders als bei elektrischen Ladungen existieren bei Magneten keine "Mono-Pole",
+sondern nur "Di-Pole": Bei einem Magneten treten Nord- und Südpol niemals
+einzeln, sondern stets in Kombination miteinander auf.
 
 .. index:: Magnetische Influenz
 .. _Magnetische Influenz:
@@ -307,8 +311,8 @@ Elektromagnete haben gegenüber Permanentmagneten folgende Vorteile:
 .. index:: Magnetische Feldstärke
 .. _Magnetische Feldstärke und magnetische Flussdichte:
 
-Magnetische Feldstärke und magnetische Flußdichte
--------------------------------------------------
+Magnetische Feldstärke und magnetische Flussdichte
+--------------------------------------------------
 
 Quantitativ kann die Kraftwirkung eines Magnetfelds durch die so genannte
 magnetische Feldstärke :math:`\vec{H}` beschrieben werden.
@@ -338,7 +342,7 @@ mit einer Windungszahl :math:`N` und einer Länge :math:`l` gilt:
     H_{\mathrm{Spule}} = \frac{N \cdot I}{l}
 
 
-.. index:: Magnetische Flussdichte
+.. index:: Magnetische Flussdichte, Tesla (Einheit)
 
 Eine zweite wichtige Größe zur Beschreibung von magnetischen Feldern ist die so
 genannte magnetische Flussdichte :math:`\vec{B}`. Sie gibt anschaulich an, wie
@@ -500,17 +504,19 @@ Diese Gleichung kann auch folgendermaßen geschrieben werden:
 
 .. math::
 
-    \vec{F}_{\mathrm{L}} &= Q \times (\frac{\vec{s}}{t} \times \vec{B}) \\[4pt]
+    \vec{F}_{\mathrm{L}} &= Q \times \left(\frac{\vec{s}}{t} \times
+    \vec{B}\right)
 
 Das Verhältnis aus der Wegstrecke :math:`s` und der Zeit :math:`t` kann als
 Geschwindigkeit :math:`v` geschrieben werden. Somit ergibt sich für ein mit
 einer Ladung :math:`Q` geladenes Teilchen, das sich mit der Geschwindigkeit
-:math:`\vec{v}` durch ein Magnetfeld mit einer Flussdichte :math:`\vec{B}` bewegt:
+:math:`\vec{v}` durch ein Magnetfeld mit einer Flussdichte :math:`\vec{B}`
+bewegt:
 
 .. math::
     :label: eqn-lorentzkraft-geladene-teilchen
 
-    \vec{F}_{\mathrm{L}} &= Q \times (\vec{v} \times \vec{B}) \\[4pt]
+    \vec{F}_{\mathrm{L}} &= Q \times (\vec{v} \times \vec{B})
 
 Auch in diesem Fall ergibt das :ref:`Vektorprodukt <gwm:Vektorprodukt>` einen
 maximalen Wert, wenn sich das Teilchen senkrecht zum Magnetfeld bewegt;
@@ -524,9 +530,10 @@ geschrieben werden:
 
     \vec{F}_{\mathrm{L}} &= Q \cdot v \cdot B \cdot \sin{(\alpha)}
 
-Ist :math:`\alpha = 90 \degree`, so gilt :math:`\sin{(\alpha)} = \sin{(90 \degree)} = 1`, und die
-Lorentz-Kraft nimmt ihren maximalen Wert :math:`F_{\mathrm{L,max}} = Q \cdot v
-\cdot B` an.
+Ist :math:`\alpha = 90 \degree`, so gilt :math:`\sin{(\alpha)} = \sin{(90
+\degree)} = 1`, und die Lorentz-Kraft nimmt ihren maximalen Wert
+:math:`F_{\mathrm{L,max}} = Q \cdot v \cdot B` an.
+
 
 .. _Massen-Spektrometer:
 
@@ -621,7 +628,7 @@ Ein Hall-Sensor hat prinzipiell folgenden Aufbau:
   und dem Plattenabstand :math:`d` beschreibt. Im obigen Fall entspricht der
   Plattenabstand gerade der Breite :math:`b` des Plättchens.
 
-Die Elektronen in einem Hall-Sensor werden so lange durch die Lorentz-Kraft 
+Die Elektronen in einem Hall-Sensor werden so lange durch die Lorentz-Kraft
 abgelenkt, bis sich durch das sich aufbauende elektrische Feld eine gleich
 große, entgegengesetzt gerichtete Kraft einstellt. Ist dies der Fall, so
 herrscht folgendes Gleichgewicht:
@@ -663,6 +670,8 @@ bewirken, der mit einer geeigneten Mess-Schaltung registriert werden kann.
 .. Bildröhren von älteren Fernsehgeräten Anwendung. Gleichermaßen liefert sie eine
 .. Erklärung für den Vorgang der elektromagnetischen Induktion.
 
+.. index:: Induktion
+.. _Induktion:
 .. _Elektromagnetische Induktion:
 
 Elektromagnetische Induktion
@@ -674,16 +683,39 @@ Verschiebung der Elektronen senkrecht zur Bewegungsrichtung und ebenfalls
 senkrecht zur Richtung des Magnetfelds. Da sich nur die freien Elektronen,
 jedoch nicht die positiv geladenen Atomkerne bewegen, baut sich im Inneren des
 Metalls zwischen den beiden Enden ein elektrisches Feld beziehungsweise eine
-elektrische Spannung auf. 
+elektrische Spannung auf.
+
+.. figure::
+    ../pics/elektrizitaet-magnetismus/elektromagnetische-induktion-leiterschaukel.png
+    :width: 40%
+    :align: center
+    :name: fig-elektromagnetische-induktion-leiterschaukel
+    :alt:  fig-elektromagnetische-induktion-leiterschaukel
+
+    Elektromagnetische Induktion durch mechanisches Bewegen einer Leiter-Schaukel.
+
+    .. only:: html
+
+        :download:`SVG: Elektromagnetische Induktion (Leiterschaukel)
+        <../pics/elektrizitaet-magnetismus/elektromagnetische-induktion-leiterschaukel.svg>`
 
 Dieser Vorgang wird elektromagnetische Induktion genannt. Schließt man ein
 Messgerät oder einen Verbraucher (beispielsweise eine kleine  Glühbirne) an die
 Enden des Leiters an, so kann prinzipiell die induzierte Spannung gemessen
-beziehungsweise als Stromquelle genutzt werden; bei einem einzelnen kurzen
-Leiterstück ergeben sich jedoch nur sehr geringe Spannungswerte.
+beziehungsweise als Stromquelle genutzt werden. Bei einem einzelnen kurzen
+Leiterstück ergeben sich jedoch nur sehr geringe Spannungswerte im
+Milivolt-Bereich; größere Spannungs- beziehungsweise Stromwerte ergeben sich
+wiederum, wenn das einzelne Leiterstück durch eine Spule mit möglichst vielen
+Windungen ersetzt wird.
 
-Im Gleichgewichtsfall wird die Lorentz-Kraft, ebenso wie bei Hall-Sensoren,
-durch das sich aufbauende elektrische Feld ausgeglichen:
+In der obigen Abbildung ist auch die technische Stromrichtung eingezeichnet, die
+sich bei einer Bewegung der Leiterschaukel durch die angegebene mechanische
+Kraft  ergibt (Lorentz-Kraft beziehungsweise Drei-Finger-Regel). Ist kein
+Verbraucher beziehungsweise Messgerät angeschlossen, so baut sich in gleicher
+Richtung ein elektrisches Feld auf, bedingt durch Ladungsverschiebungen im
+Inneren der Leiterschaukel. Im Gleichgewichtsfall wird die Lorentz-Kraft, welche
+die Elektronen im Inneren des durch das Magnetfeld bewegten Leiterstücks
+erfahren, durch das sich resultierende elektrische Feld ausgeglichen:
 
 .. math::
 
@@ -691,7 +723,8 @@ durch das sich aufbauende elektrische Feld ausgeglichen:
     Q \cdot v \cdot B &= Q \cdot \frac{U_{\mathrm{i}}}{d}
 
 Die sich einstellende Spannung wird Induktionsspannung :math:`U_{\mathrm{i}}`
-genannt. Wird die obige Gleichung nach :math:`U_{\mathrm{i}}` aufgelöst, so
+genannt, :math:`d` bezeichnet die Länge des Leiterstücks, das sich im Magnetfeld
+befindet.  Wird die obige Gleichung nach :math:`U_{\mathrm{i}}` aufgelöst, so
 ergibt sich:
 
 .. math::
@@ -702,6 +735,130 @@ Es tritt nur dann eine Induktionsspannung auf, wenn der Leiter mit einer
 Geschwindigkeit :math:`v` senkrecht zum Magnetfeld bewegt wird. Hat die
 Geschwindigkeit den Wert Null oder verläuft die Bewegung parallel zu den
 Magnetfeldlinien, so ist die induzierte Spannung gleich Null.
+
+
+.. index:: Induktionsgesetz von Faraday
+.. _Magnetischer Fluss:
+.. _Induktionsgesetz von Faraday:
+.. _Faraday'sches Induktionsgesetz:
+.. _Das Faraday'sche Induktionsgesetz:
+
+Das Faraday'sche Induktionsgesetz
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Um eine allgemeinere Formel zur Beschreibung der einer elektromagnetischen
+Induktion auftretenden Spannung :math:`U_{\mathrm{i}}` aufstellen zu können, ist
+es sinnvoll, eine neue Größe :math:`\varPhi` zu definieren, die man als
+"magnetischen Fluss" bezeichnet:
+
+.. math::
+    :label: eqn-magnetischer-fluss
+
+    \varPhi = B \cdot A
+
+Zwischen dem magnetischen Fluss :math:`\varPhi` und der magnetischen Flussdichte
+:math:`B = \frac{\varPhi}{A}` besteht ein ähnlicher Zusammenhang wie zwischen
+der Stromstärke :math:`I` und der Stromdichte :math:`j = \frac{I}{A}`: Die
+letzteren Größen geben jeweils die Flächendichte der Bezugsgröße an. Bei der
+magnetischen Flussdichte geht es allerdings nicht um Ladungsträger, die durch
+eine bestimmte Fläche hindurch wandern, sondern um die Anzahl an Feldlinien,
+welche durch diese hindurchgehen. Der magnetische Fluss beschreibt entsprechend
+der Menge an Feldlinien, welche durch eine Fläche :math:`A` verlaufen.
+
+.. figure::
+    ../pics/elektrizitaet-magnetismus/magnetischer-fluss-leiterschleife.png
+    :width: 40%
+    :align: center
+    :name: fig-magnetischer-fluss-leiterschleife
+    :alt:  fig-magnetischer-fluss-leiterschleife
+
+    Magnetischer Fluss :math:`\varPhi` durch eine Leiterschleife.
+
+    .. only:: html
+
+        :download:`SVG: Magnetischer Fluss (Leiterschleife)
+        <../pics/elektrizitaet-magnetismus/magnetischer-fluss-leiterschleife.svg>`
+
+Ist der magnetische Fluss :math:`\varPhi` durch eine Fläche zeitlich konstant,
+so ist die induzierte Spannung :math:`U_{\mathrm{i}}` gleich Null. Ändert sich
+hingegen der magnetische Fluss :math:`\varPhi`, indem man wahlweise die Stärke
+:math:`B` der magnetischen Flussdichte und/oder die Größe der vom Magnetfeld
+durchfluteten Fläche :math:`A` ändert, so wird eine Induktionsspannung
+:math:`U_{\mathrm{i}}` erzeugt, die umso größer ist, je schneller diese Änderung
+erfolgt. Als Zusammenhang ergibt sich somit für die Induktionsspannung in einer
+Leiterschleife:
+
+.. math::
+    :label: eqn-induktionsgesetz-faraday
+
+    U_{\mathrm{i}} = - \frac{\Delta \varPhi}{\Delta t}
+
+Diese Gesetzmäßigkeit, wonach die in einer Leiterschleife induzierte Spannung
+gleich der zeitlichen Änderung des magnetischen Flusses ist, wurde als erstes im
+Jahr 1831 von `Michael Faraday <https://de.wikipedia.org/wiki/Michael_Faraday>`_
+entdeckt.
+
+*Beispiele:*
+
+* In einem homogenen und zeitlich konstanten Magnetfeld kann eine Änderung der
+  vom Magnetfeld durchfluteten Fläche :math:`A` einerseits durch ein Verschieben
+  der Leiterschleife in das Magnetfeld hinein beziehungsweise aus dem Magnetfeld
+  heraus bewirkt werden; andererseits kann der gleiche Effekt, wie in der
+  folgenden Abbildung zu sehen ist, auch durch eine Rotation der Leiterschleife
+  im Magnetfeld bewirkt werden.
+
+  .. figure::
+      ../pics/elektrizitaet-magnetismus/magnetischer-fluss-aenderung.png
+      :width: 60%
+      :align: center
+      :name: fig-magnetischer-fluss-aenderung
+      :alt:  fig-magnetischer-fluss-aenderung
+
+      Änderung des magnetischen Flusses durch eine Leiterschleife mittels
+      Rotation.
+
+      .. only:: html
+
+          :download:`SVG: Magnetischer Fluss (Änderung)
+          <../pics/elektrizitaet-magnetismus/magnetischer-fluss-aenderung.svg>`
+
+* Bewegt man durch eine ruhende Leiterschleife einen Stabmagneten, dessen
+  magnetische Flussdichte nicht homogen ist (sondern zu den Polen hin zunimmt), 
+  so spürt die Leiterschleife ein sich zeitlich änderndes Magnetfeld. Auch
+  hierbei wird also eine (wenn auch sehr geringe) Spannung induziert.
+
+Die beiden oben beschriebenen Möglichkeiten zum Erwirken einer
+Induktionsspannung können optimiert werden, indem man statt einer einzelnen
+Leiterschleife eine aus möglichst vielen Windungen bestehende Spule verwendet.
+Für die Induktionsspannung einer Spule mit :math:`N` Windungen gilt:
+
+
+.. math::
+    :label: eqn-induktionsgesetz-faraday-spule
+
+    U_{\mathrm{i}} = - N \cdot \frac{\Delta \varPhi}{\Delta t}
+
+
+.. index:: Lenzsche Regel
+.. _Lenzsche Regel:
+.. _Die Lenzsche Regel:
+
+.. rubric:: Die Lenzsche Regel
+
+In den obigen Gleichung :eq:`eqn-induktionsgesetz-faraday` und
+:eq:`eqn-induktionsgesetz-faraday-spule` zur Beschreibung der Induktionsspannung
+steht jeweils vor der zeitlichen Änderung :math:`\frac{\Delta \varPhi}{\Delta
+t}` ein Minus-Zeichen. Dies ist eine Folge einer von `Emil Lenz
+<https://de.wikipedia.org/wiki/Emil_Lenz>`_ entdeckten Gesetzmäßigkeit, wonach
+die Induktionsspannung stets ihrer Ursache entgegenwirkt.
+
+Die Ursache für die Induktionsspannung ist letztlich die Lorentz-Kraft, welche
+im Inneren der bewegten Leiterschleife(n) eine Verschiebung der Elektronen und
+somit ein elektrisches Feld bewirkt. Durch dieses Feld werden die Elektronen
+allerdings nicht weiter beschleunigt (was ein Perpetuum mobile zur Folge hätte),
+sondern vielmehr abgebremst.
+
+
 
 .. Beispiel?
 

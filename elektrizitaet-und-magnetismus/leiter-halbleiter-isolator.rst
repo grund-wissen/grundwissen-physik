@@ -282,9 +282,9 @@ damit auch seine elektrische Leitfähigkeit gezielt beeinflussen.
 * Verbindet man die :math:`n`-dotierte Schicht mit dem Plus- und die
   :math:`p`-dotierte Schicht mit dem Minus-Pol einer Stromquelle
   ("Sperr-Richtung"), so werden die Elektronen und Löcher von der Grenzschicht
-  weg bzw. an den Rand des Halbleiter-Kristalls hingezogen. Die neutrale
-  Raumladungszone wird dadurch vergrößert, der elektrische Widerstand steigt
-  stark an.
+  weg beziehungsweise an den Rand des Halbleiter-Kristalls hingezogen. Die
+  neutrale Raumladungszone wird dadurch vergrößert, der elektrische Widerstand
+  steigt stark an.
 
 .. figure::
     ../pics/elektrizitaet-magnetismus/halbleiter-n-p-uebergang-sperrrichtung.png
@@ -327,9 +327,11 @@ damit auch seine elektrische Leitfähigkeit gezielt beeinflussen.
 
 In der Elektronik werden :math:`n`-:math:`p`-Übergänge in
 Halbleiter-Bauelementen verwendet. Ein einzelner :math:`n`-:math:`p`-Übergang
-erfüllt die Funktion einer Diode. Zwei- bzw. dreifache
-:math:`n`-:math:`p`-Übergänge finden in :ref:`Transistoren <gwe:Transistor>`
-und Triacs Anwendung.
+erfüllt die Funktion einer Diode. Doppelte beziehungsweise dreifache
+:math:`n`-:math:`p`-Übergänge finden in :ref:`Transistoren <gwe:Transistor>` und
+Triacs  Anwendung.
+
+.. todo gwe Label setzen! :ref:`Triacs <gwe:Triac>`
 
 
 .. index:: Widerstand; Isolator
@@ -363,9 +365,34 @@ kurzzeitig Elektronen aus den Stoffbindungen entrissen werden. Die Folge ist ein
 "Durchschlag"-Strom (beispielsweise ein Blitz), bei dem in sehr kurzer Zeit sehr
 viel Energie transportiert wird. Da die Schäden für Menschen, Tiere, Pflanzen
 und elektronische Geräte entsprechend groß ausfallen können, werden
-beispielsweise hochgelegene Leitungen und Gebäude mit Überspannungs- bzw.
-Blitzableitern ausgestattet.
+beispielsweise hochgelegene Leitungen und Gebäude mit Überspannungs-
+beziehungsweise Blitzableitern ausgestattet.
 
+
+.. _Vakuum als Isolator:
+
+.. rubric:: Vakuum
+
+Normalerweise sind Elektronen in Molekülen oder metaillischen Festkörpern
+gebunden. Unter verschiedenen Bedingungen können Elektronen diese Bindungen
+allerdings verlassen:
+
+* Trifft ausreichend energiereiches Licht auf einen Festkörper, so können durch
+  die Lichteinwirkung Elektronen aus den Festkörper-Bindungen herausgelöst
+  werden ("Photo-Effekt").
+
+* Bei ausreichend hohen Temperaturen lösen sich Elektronen aus Metallen heraus
+  ("Glühemission").
+
+Die den Elektronen zugeführte Licht- beziehungsweise Wärme-Energie muss groß
+genug sein, um die Bindungsenergie der Elektronen zu überwinden; die restliche
+zugeführte Energie verbleibt als kinetische Energie bei den Elektronen.
+
+Im Vakuum erfahren freie Elektronen keine Stöße mit anderen Objekten.
+Beschleunigt man sie durch Anlegen einer elektrischen Spannung, so können sie in
+eine bestimmte Richtung gelenkt und auf hohe Geschwindigkeitswerte beschleunigt
+werden. Auf diesem Prinzip beruhen beispielsweise :ref:`Elektronenröhren
+<gwe:Elektronenröhre>`.
 
 .. index:: Driftgeschwindigkeit (von Elektronen)
 .. _Exkurs Driftgeschwindigkeit von Elektronen:
@@ -469,14 +496,14 @@ im Vergleich zur Ausbreitungs-Geschwindigkeit des elektrischen Feldes
     mal höher als die eines Halbleiters und rund 100 Billionen (:math:`10^{14}`)
     mal höher als die eines Isolators!
 
-.. [#]  Je deutlicher Halbleiter-Verbindungen von der elementaren IV-IV-Bindung
+.. [#] Je deutlicher Halbleiter-Verbindungen von der elementaren IV-IV-Bindung
     abweichen, desto größer wird auch der ionische Anteil an den kovalenten
     Bindungen. I-VII-Verbindungen (Salze) haben rein ionischen Charakter und
     zählen aufgrund der Festigkeit der Bindungen zu den elektrischen Isolatoren.
 
-.. [#]  Die fest verankerten Atomrümpfe und damit die Protonen der fünf- bzw.
-    dreiwertigen Donator- bzw. Akzeptor-Atome bleiben in den jeweiligen
-    Schichten zurück.
+.. [#] Die fest verankerten Atomrümpfe und damit die Protonen der fünf-
+    beziehungsweise dreiwertigen Donator- beziehungsweise  Akzeptor-Atome
+    bleiben in den jeweiligen Schichten zurück.
 
 .. raw:: html
 

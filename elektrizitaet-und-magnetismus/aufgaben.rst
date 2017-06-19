@@ -1,4 +1,6 @@
+
 .. _Aufgaben Elektrizität und Magnetismus:
+.. _Aufgaben zu Elektrizität und Magnetismus:
 
 Aufgaben zu Elektrizität und Magnetismus
 ========================================
@@ -127,6 +129,41 @@ Spannung und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
 ----
 
+.. _Aufgaben Elektrische Felder:
+
+Elektrische Felder
+------------------
+
+Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Elektrische Felder
+<Elektrische Felder>`.
+
+----
+
+.. _efel01:
+
+* (\*) Im Blitzgerät einer Foto-Kamera ist ein Kondensator mit einer Kapazität
+  von :math:`C=\unit[220]{\mu F}` als Energiespeicher eingebaut. Wie viel
+  Energie wird beim Auslösen des Blitzes beziehungsweise Entladen des
+  Kondensators freigesätzt, wenn der Kondensator mit einer Ladespannung
+  :math:`U=\unit[6,0]{V}` voll geladen war?
+
+  :ref:`Lösung <efel01l>`
+
+----
+
+.. _efel02:
+
+* (\*) Ein Strom mit einer konstanten Stärke von :math:`\unit[3]{mA}` fließt
+  durch einen Kondensator mit einer Kapazität von von :math:`\unit[470]{\mu F}`.
+  Welche Spannung hat sich nach 1, 2, 3, 4 beziehungsweise 5 Sekunden aufgebaut?
+  Welche Energiemenge sind zu den jeweiligen Zeitpunkten im Kondensator
+  gespeichert? [#]_
+
+  :ref:`Lösung <efel02l>`
+
+----
+
+
 
 .. _Aufgaben Magnetismus:
 
@@ -174,6 +211,17 @@ Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
 
 .. _eael02:
 
+* (\**) Eine Glühbirne wird mit einer Leistung von :math:`P=\unit[2,5]{W}` bei einer
+  Spannung von :math:`V=\unit[6,0]{V}` über eine Zeitdauer von :math:`\Delta t =
+  \unit[5,0]{min}` betrieben. Wie viele Elektronen fließen in dieser Zeit durch
+  die Glühbirne?
+
+  :ref:`Lösung <eael02l>`
+
+----
+
+.. _eael03:
+
 * (\*) Die Leistung eines Wasserkochers ist mit :math:`\unit[1\,800]{W}`
   angegeben. Wie groß ist die Stromstärke, die sich durch Anlegen einer Spannung
   von :math:`\unit[230]{V}` ergibt?
@@ -182,7 +230,7 @@ Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
 
 ----
 
-.. _eael03:
+.. _eael04:
 
 * (\**) Die an einem elektrischen Heizgerät anliegende Spannung :math:`U` soll
   um :math:`25\%` erhöht werden. Um wie viel Prozent steigt dadurch die
@@ -198,4 +246,15 @@ Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
 .. only:: html
 
     :ref:`Zurück zum Skript <Elektrizität und Magnetismus>`
+
+.. raw:: html
+
+    <hr />
+
+.. only:: html
+
+    .. rubric:: Anmerkungen:
+
+.. [#] Diese Aufgabe stammt aus Clifford Wolfs `Skript
+    <https://metalab.at/wiki/images/4/4e/Elektronik_Kurs_Skriptum.pdf>`__, Seite 33.
 

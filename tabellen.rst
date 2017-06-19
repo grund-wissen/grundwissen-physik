@@ -7,295 +7,14 @@ Tabellen
 
 .. rubric:: Lateinische und griechische Wortherkünfte
 
-Um etliche Fachwörter auch ohne Latein- und Griechisch-Kenntnisse nachvollziehen
-zu können, sind in den folgenden Tabellen einige Silben und Wortstämme
-aufgelistet.
+.. {{{
 
+.. Neben dem lateinischen Alphabet werden häufig auch
+.. griechische Buchstaben als Formelsymbole verwendet:
 
-.. list-table:: Fachbegriffe mit lateinischer Herkunft:
-    :widths: 20 20 60
-    :name: tab-fachbegriffe-lateinisch
-    :header-rows: 1
+.. raw:: html
 
-    * - Lateinisch
-      - Deutsch
-      - Fachbegriff(e)
-    * - absorbere
-      - verschlingen
-      - Absorption
-    * - adhaerere
-      - aneinander haften
-      - Adhäsionskraft
-    * - aggregare
-      - sich ansammeln
-      - Aggregatszustand
-    * - area
-      - Fläche
-      - Areal; area = Fläche (en.)
-    * - calor
-      - warm
-      - Kalorimeter, Kalorien
-    * - capacitas
-      - Fassungsvermögen
-      - Kapazität, Wärmekapazität
-    * - capillus
-      - Haar
-      - Kapillare
-    * - centrum
-      - Mittelpunkt
-      - konzentrisch
-    * - cohaerere
-      - zusammenhängen
-      - Kohäsionskraft
-    * - colligere
-      - (ein-)sammeln
-      - Kollektor
-    * - commutare
-      - umwechseln
-      - Kommutator
-    * - componere
-      - zusammensetzen
-      - Komponente (eines Vektors)
-    * - concavus
-      - hohl
-      - Konkavspiegel
-    * - condensare
-      - verdichten
-      - Kondensator, Kondensor, kondensieren
-    * - constans
-      - unveränderlich
-      - Konstante
-    * - convergere
-      - zueinander neigen
-      - Konvergenz, konvergieren
-    * - declinare
-      - abweichen
-      - Deklination
-    * - divergere
-      - auseinanderlaufen
-      - Divergenz
-    * - ducere
-      - führen
-      - Induktion
-    * - efficere
-      - bewirken
-      - Effektive Stromstärke, Effizienz
-    * - emittere
-      - aussenden
-      - Emitter (Transistor)
-    * - ex
-      - außerhalb
-      - extrahieren
-    * - fixus
-      - fest
-      - Fixpunkt
-    * - fugare
-      - fliehen
-      - Zentrifugalkraft
-    * - focus
-      - Brennpunkt
-      - Fokus
-    * - frequens
-      - häufig
-      - Frequenz
-    * - generare
-      - erzeugen
-      - Generator
-    * - gravis
-      - schwer
-      - Gravitation
-    * - inertia
-      - Trägheit
-      - Intertialsystem
-    * - impellere
-      - anstoßen
-      - Impuls
-    * - labilis
-      - unsicher
-      - labiles Gleichgewicht
-    * - minimum
-      - das Kleinste
-      - Minimum
-    * - molecula
-      - kleine Masse
-      - Molekül
-    * - oculus
-      - Auge
-      - Okular
-    * - orbitum
-      - (Bahn-)Gleis
-      - Orbital
-    * - petere
-      - zu erreichen suchen
-      - Zentripetalkraft
-    * - potentia
-      - Fähigkeit
-      - Potentielle Energie, Potential
-    * - pressum
-      - Druck
-      - Presskraft; pressure = Druck (en.)
-    * - quantum
-      - wieviel
-      - Quant
-    * - re
-      - zurück
-      - Reflektion
-    * - reflectere
-      - abwenden
-      - Reflex, Reflektion
-    * - sonare
-      - schallen, tönen
-      - Resonanz
-    * - spectrum
-      - Bild
-      - Spektrum
-    * - stare
-      - stehen
-      - Statik, Stativ
-    * - transformare
-      - umwandeln
-      - Transformator
-    * - vacuus
-      - leer
-      - Vakuum
-
-.. list-table:: Fachbegriffe mit griechischer Herkunft
-    :widths: 20 20 60
-    :name: tab-fachbegriffe-griechisch
-    :header-rows: 1
-
-    * - Griechisch
-      - Deutsch
-      - Fachbegriff(e)
-    * - akuein
-      - hören
-      - Akustik
-    * - ana
-      - auf
-      - Anode
-    * - anomal
-      - unregelmäßig
-      - Anomalie (des Wassers)
-    * - atmos
-      - Dunst
-      - Atmosphäre
-    * - atomos
-      - unteilbar
-      - Atom
-    * - baros
-      - schwer
-      - Barometer, isobar
-    * - chimeia
-      - [Kunst der] Gießerei
-      - Chemie
-    * - choros
-      - Raum
-      - isochor
-    * - di
-      - zwei
-      - Dipol
-    * - dia
-      - hindurch
-      - Diaprojektor, diagonal
-    * - dynamis
-      - Kraft
-      - Dynamik
-    * - elektron
-      - Bernstein
-      - Elektron, Elektrizität
-    * - energeia
-      - Wirksamkeit
-      - Energie
-    * - gramma
-      - Schrift
-      - Grammophon, Grammatik
-    * - graphein
-      - schreiben
-      - Phonograph, Graph, Graphit, Graphen
-    * - hodos
-      - Weg
-      - Anode, Kathode, Elektrode
-    * - homogen
-      - gleichartig
-      - Homogenität
-    * - hydragyrum
-      - Flüssigsilber
-      - Quecksilber (Hg)
-    * - hygros
-      - feucht
-      - Hygrometer
-    * - ion
-      - wandernd
-      - Ion
-    * - iris
-      - Regenbogen
-      - Iris
-    * - ísos
-      - gleich
-      - Isotop, isotherm, isobar, isochor
-    * - kata
-      - abwärts
-      - Kathode
-    * - kinesis
-      - Bewegung
-      - Kinematik
-    * - lyein
-      - lösen, zerlegen
-      - Elektrolyse
-    * - mechanikos
-      - kunstfertig
-      - Mechanik
-    * - meros
-      - Teil
-      - Monomere, Polymere
-    * - metron
-      - Maß
-      - Meter, Metronom
-    * - phasis
-      - Erscheinung
-      - (Mond-)Phase
-    * - phone
-      - Stimme, Ton
-      - Phon, Telephon, Mikrophon
-    * - phos
-      - Licht
-      - Photometrie
-    * - polos
-      - Achse
-      - (Magnet-)Pol
-    * - poly
-      - viele
-      - Polymere
-    * - qualitas
-      - Beschaffenheit
-      - Qualität, qualitative Erkenntnis
-    * - skopein
-      - sehen
-      - Mikroskop, Teleskop, Elektroskop
-    * - sphaira
-      - Kugel
-      - Atmosphäre, sphärisch
-    * - stereos
-      - körperlich
-      - Stereo
-    * - symbolon
-      - Merkmal
-      - Symbol
-    * - tachys
-      - schnell
-      - Tachometer
-    * - tele
-      - fern
-      - Telephon, Teleskop
-    * - thermos
-      - warm
-      - Thermometer
-    * - tópos
-      - Platz
-      - Isotop
-    * - tri
-      - drei
-      - Triode
+    <hr />
 
 .. _Griechische Symbole:
 
@@ -360,24 +79,345 @@ aufgelistet.
       - Omega
 
 
+.. raw:: html
+
+    <hr />
+
+.. Um etliche Fachwörter auch ohne Latein- und Griechisch-Kenntnisse nachvollziehen
+.. zu können, sind in den folgenden Tabellen einige Silben und Wortstämme
+.. aufgelistet:
+
+.. _Fachbegriffe lateinischer Herkunft:
+.. _Fachbegriffe mit lateinischer Herkunft:
+
+.. list-table:: Fachbegriffe lateinischer Herkunft
+    :widths: 20 20 60
+    :name: tab-fachbegriffe-lateinisch
+    :header-rows: 0
+
+    * - Lateinisch
+      - Deutsch
+      - Fachbegriff(e)
+    * - absorbere
+      - verschlingen
+      - :ref:`Absorption <Absorptionsspektrum>` von Licht
+    * - adhaerere
+      - aneinander haften
+      - :ref:`Adhäsionskraft <Adhäsionskraft>`
+    * - aggregare
+      - sich ansammeln
+      - :ref:`Aggregatzustand <Aggregatzustand>`
+    * - area
+      - Fläche
+      - Areal; area = Fläche (en.)
+    * - calor
+      - warm
+      - :ref:`Kalorimeter <Kalorimeter>`, Kalorien
+    * - capacitas
+      - Fassungsvermögen
+      - :ref:`Kapazität <Kapazität>`, :ref:`Wärmekapazität <Wärmekapazität>`
+    * - capillus
+      - Haar
+      - :ref:`Kapillare <Kapillare>`
+    * - centrum
+      - Mittelpunkt
+      - konzentrisch
+    * - cohaerere
+      - zusammenhängen
+      - :ref:`Kohäsionskraft <Kohäsionskraft>`
+    * - colligere
+      - (ein-)sammeln
+      - :ref:`Kollektor <gwe:Kollektor>` (:ref:`Transistor <gwe:Transistor>`)
+    * - commutare
+      - umwechseln
+      - Kommutator
+    * - componere
+      - zusammensetzen
+      - :ref:`Komponente <gwm:Komponente>`  (eines :ref:`Vektors <Vektor>`)
+    * - concavus
+      - hohl
+      - :ref:`Konkavspiegel <Konkavspiegel>`
+    * - condensare
+      - verdichten
+      - :ref:`Kondensator <Kondensator>`, :ref:`Kondensor <Sammellinse>` , :ref:`kondensieren
+        <Kondensieren>` 
+    * - constans
+      - unveränderlich
+      - :ref:`Konstante <Naturkonstanten>`
+    * - convergere
+      - zueinander neigen
+      - :ref:`Konvergenz <gwm:Konvergenz>`, :ref:`konvergierende Lichtstrahlen
+        <Sammellinse>` 
+    * - declinare
+      - abweichen
+      - Deklination
+    * - divergere
+      - auseinanderlaufen
+      - :ref:`Divergenz <gwm:Divergenz>`, :ref:`divergierende Lichtstrahlen
+        <Zerstreuungslinse>` 
+    * - ducere
+      - führen
+      - :ref:`Induktion <Induktion>`
+    * - efficere
+      - bewirken
+      - :ref:`Effektive Stromstärke <Effektive Stromstärke>`, :ref:`Effizienz
+        <Wirkungsgrad>` 
+    * - emittere
+      - aussenden
+      - :ref:`Emitter <gwe:Emitter>`  (:ref:`Transistor <gwe:Transistor>`)
+    * - ex
+      - außerhalb
+      - extrahieren
+    * - fixus
+      - fest
+      - :ref:`Fixpunkt <Fixpunkt>`
+    * - fugare
+      - fliehen
+      - :ref:`Zentrifugalkraft <Zentrifugalkraft>`
+    * - focus
+      - Brennpunkt
+      - :ref:`Fokus <Fokus>`
+    * - frequens
+      - häufig
+      - :ref:`Frequenz <Frequenz>`
+    * - generare
+      - erzeugen
+      - :ref:`Generator <Generator>`
+    * - gravis
+      - schwer
+      - :ref:`Gravitation <Gravitation>`
+    * - inertia
+      - Trägheit
+      - :ref:`Inertialsystem <Inertialsystem>`
+    * - impellere
+      - anstoßen
+      - :ref:`Impuls <Impuls>`
+    * - labilis
+      - unsicher
+      - :ref:`labiles Gleichgewicht <labiles Gleichgewicht>`
+    * - minimum
+      - das Kleinste
+      - :ref:`Minimum <gwm:Minimum>`
+    * - molecula
+      - kleine Masse
+      - Molekül
+    * - oculus
+      - Auge
+      - :ref:`Okular <Okular>`
+    * - orbitum
+      - (Bahn-)Gleis
+      - :ref:`Orbital <Orbital>`
+    * - petere
+      - zu erreichen suchen
+      - :ref:`Zentripetalkraft <Zentripetalkraft>`
+    * - potentia
+      - Fähigkeit
+      - :ref:`Potentielle Energie <Potentielle Energie>` , :ref:`Potential <Potential>`
+    * - pressum
+      - Druck
+      - Presskraft; pressure = :ref:`Druck <Druck>`  (en.)
+    * - quantum
+      - wieviel
+      - Quant
+    * - re
+      - zurück
+      - :ref:`Reflexion <Lichtreflexion>`
+    * - reflectere
+      - abwenden
+      - Reflex, :ref:`Reflexion <Lichtreflexion>`
+    * - sonare
+      - schallen, tönen
+      - :ref:`Resonanz <Resonanz>`
+    * - spectrum
+      - Bild
+      - :ref:`Spektrum <Spektrum>`
+    * - stare
+      - stehen
+      - :ref:`Stabiles Gleichgewicht <Stabiles Gleichgewicht>`, Statik, Stativ
+    * - transformare
+      - umwandeln
+      - :ref:`Transformator <gwe:Transformator>`
+    * - vacuus
+      - leer
+      - :ref:`Vakuum <Vakuum>`
+
+.. raw:: html
+
+    <hr />
+
+.. _Fachbegriffe griechischer Herkunft:
+.. _Fachbegriffe mit griechischer Herkunft:
+
+.. list-table:: Fachbegriffe griechischer Herkunft
+    :widths: 20 20 60
+    :name: tab-fachbegriffe-griechisch
+    :header-rows: 0
+
+    * - Griechisch
+      - Deutsch
+      - Fachbegriff(e)
+    * - akuein
+      - hören
+      - :ref:`Akustik <Akustik>`
+    * - ana
+      - auf
+      - :ref:`Anode <gwe:Anode>`
+    * - anomal
+      - unregelmäßig
+      - :ref:`Anomalie <Anomalie des Wassers>`  (des Wassers)
+    * - atmos
+      - Dunst
+      - Atmosphäre
+    * - atomos
+      - unteilbar
+      - :ref:`Atom <Atom>`
+    * - baros
+      - schwer
+      - Barometer, isobar
+    * - chimeia
+      - [Kunst der] Gießerei
+      - Chemie
+    * - choros
+      - Raum
+      - isochor
+    * - di
+      - zwei
+      - :ref:`Dipol <Elektrischer Dipol>`
+    * - dia
+      - hindurch
+      - Diaprojektor, diagonal
+    * - dynamis
+      - Kraft
+      - :ref:`Dynamik <Dynamik>`
+    * - elektron
+      - Bernstein
+      - :ref:`Elektron <Elektron>` , :ref:`Elektrizität <Elektrizität>`
+    * - energeia
+      - Wirksamkeit
+      - :ref:`Energie <Energie>`
+    * - gramma
+      - Schrift
+      - Grammophon, Grammatik
+    * - graphein
+      - schreiben
+      - :ref:`Graph <gwm:Graph>` , Phonograph, Graphit, Graphen
+    * - hodos
+      - Weg
+      - :ref:`Anode <gwe:Anode>`, :ref:`Kathode <gwe:Kathode>` , Elektrode
+    * - homogen
+      - gleichartig
+      - Homogenität
+    * - hydragyrum
+      - Flüssigsilber
+      - Quecksilber (:ref:`Hg <Periodensystem der Elemente>`)
+    * - hygros
+      - feucht
+      - :ref:`Hygrometer <Hygrometer>`
+    * - ion
+      - wandernd
+      - :ref:`Ion <Ion>`, :ref:`Ionisierungsenergie <Ionisierungsenergie>`
+    * - iris
+      - Regenbogen
+      - Iris
+    * - ísos
+      - gleich
+      - :ref:`Isotop <Isotop>` , isotherm, isobar, isochor
+    * - kata
+      - abwärts
+      - :ref:`Kathode <gwe:Kathode>`
+    * - kinesis
+      - Bewegung
+      - :ref:`Kinematik <Kinematik>`
+    * - lyein
+      - lösen, zerlegen
+      - Elektrolyse
+    * - mechanikos
+      - kunstfertig
+      - :ref:`Mechanik <Mechanik>`
+    * - meros
+      - Teil
+      - Monomere, Polymere
+    * - metron
+      - Maß
+      - :ref:`Meter <SI-Einheiten>` , Metronom
+    * - phasis
+      - Erscheinung
+      - :ref:`Phase <Phase>`  (einer Welle), Mond-Phase
+    * - phone
+      - Stimme, Ton
+      - :ref:`Phon <Phon>`, Mikrophon, Telephon
+    * - phos
+      - Licht
+      - :ref:`Photometrie <Photometrie>`
+    * - polos
+      - Achse
+      - :ref:`Magnetpol <Magnetpol>`, :ref:`Interpolation <gwm:Interpolation>`
+    * - poly
+      - viele
+      - Polymere
+    * - qualitas
+      - Beschaffenheit
+      - Qualität, :ref:`qualitative Erkenntnis <Qualitative Erkenntnis>`
+    * - skopein
+      - sehen
+      - :ref:`Mikroskop <Mikroskop>`, :ref:`Elektroskop <Elektroskop>`, :ref:`Teleskop <Teleskop>`
+    * - sphaira
+      - Kugel
+      - Atmosphäre, sphärisch
+    * - stereos
+      - körperlich
+      - :ref:`Stereometrie <Stereometrie>`, Stereo-Lautsprecher
+    * - symbolon
+      - Merkmal
+      - :ref:`Symbol <Symbole>`
+    * - tachys
+      - schnell
+      - Tachometer
+    * - tele
+      - fern
+      - Telephon, :ref:`Teleskop <Teleskop>`
+    * - thermos
+      - warm
+      - :ref:`Thermometer <Thermometer>`
+    * - tópos
+      - Platz
+      - :ref:`Isotop <Isotop>`
+    * - tri
+      - drei
+      - :ref:`Triode <gwe:Röhrentriode>`
+
+.. raw:: html
+
+    <hr />
 
 
 .. _Symbole und Einheiten:
 
+.. }}}
+
 Symbole und Einheiten
 ---------------------
 
-In Formeln und Tabellen werden physikalische Größen meist durch kursiv gedruckte
-Buchstaben aus dem lateinischen oder griechischen Alphabet dargestellt. Einige
-wichtige physikalische Größen und ihre Symbole sind in Tabelle :ref:`Größen und
-Symbole <tab-groessen-und-symbole>` aufgelistet. Ein Vektorpfeil über einem Symbol
-deutet dabei an, dass die entsprechende physikalische Größe stets eine
-eindeutige (Wirkungs-)Richtung besitzt.
+.. {{{
+
+.. In Formeln und Tabellen werden physikalische Größen durch kursiv gedruckte
+.. Buchstaben aus dem lateinischen oder griechischen Alphabet dargestellt. Einige
+.. wichtige physikalische Größen und ihre Symbole sind in der folgenden Tabelle
+.. aufgelistet. Ein Vektorpfeil über einem Symbol deutet dabei an, dass die
+.. entsprechende physikalische Größe stets eine eindeutige (Wirkungs-)Richtung
+.. besitzt.
+
+.. raw:: html
+
+    <hr />
+
+.. _Symbole:
+.. _Größen und Symbole:
 
 .. list-table:: Größen und Symbole
+    :name: tab-groessen-und-symbole
     :widths: 50 50 50 50
     :header-rows: 0
-    :name: tab-groessen-und-symbole
 
     * - Größe
       - Symbol
@@ -417,13 +457,21 @@ eindeutige (Wirkungs-)Richtung besitzt.
       - Zeit
       - :math:`t`
 
-Um die Ergebnisse physikalischer Messungen (auch international) vergleichen zu
-können, hat man für alle physikalischen Größen bestimmte Einheiten festgelegt.
-Die in Tabelle :ref:`Basiseinheiten <tab-si-einheiten>` aufgelisteten Einheiten
-lassen sich nicht auf andere physikalische Größen zurückführen und stellen somit
-die "Basis" für alle physikalischen Größen dar.
+.. Druck p
 
-.. list-table:: Die sieben Basiseinheiten
+.. Um die Ergebnisse physikalischer Messungen (auch international) vergleichen zu
+.. können, hat man für alle physikalischen Größen bestimmte Einheiten festgelegt.
+.. Die in Tabelle :ref:`Basiseinheiten <tab-si-einheiten>` aufgelisteten Einheiten
+.. lassen sich nicht auf andere physikalische Größen zurückführen und stellen somit
+.. die "Basis" für alle physikalischen Größen dar.
+
+.. raw:: html
+
+    <hr />
+
+.. _SI-Basiseinheiten:
+
+.. list-table:: SI-Basiseinheiten
     :widths: 50 20 50
     :header-rows: 0
     :name: tab-si-einheiten
@@ -453,14 +501,20 @@ die "Basis" für alle physikalischen Größen dar.
       - :math:`\unit{mol}`
       - Mol
 
-Alle weiteren physikalischen Größen lassen sich auf Zusammenhänge zwischen den
-Basisgrößen zurückführen. Sie besitzen jedoch oftmals auch eigene, in der Praxis
-meist häufiger gebrauchte Einheiten. In Tabelle :ref:`Größen und Einheiten
-<tab-größen-und-einheiten>` sind einige wichtige physikalische Größen, ihre
-üblichen Einheiten sowie die Zusammenhänge mit den sieben Basiseinheiten
-aufgelistet.
+.. Alle weiteren physikalischen Größen lassen sich auf Zusammenhänge zwischen den
+.. Basisgrößen zurückführen. Sie besitzen jedoch oftmals auch eigene, in der Praxis
+.. meist häufiger gebrauchte Einheiten. In Tabelle :ref:`Größen und Einheiten
+.. <tab-größen-und-einheiten>` sind einige wichtige physikalische Größen, ihre
+.. üblichen Einheiten sowie die Zusammenhänge mit den sieben Basiseinheiten
+.. aufgelistet.
 
-.. list-table:: Größen und Einheiten
+.. raw:: html
+
+    <hr />
+
+.. _Größen und ihre Einheiten:
+
+.. list-table:: Größen und ihre Einheiten
     :widths: 50 20 50 50
     :header-rows: 0
     :name: tab-größen-und-einheiten
@@ -550,163 +604,187 @@ aufgelistet.
       - Grad Celsius
       - :math:`\unit[1]{\degree C} = \unit[1]{K}` (nur bei Angabe von Celsius-Temperaturen)
 
+.. raw:: html
 
-.. _Zehnerpotenzen:
+    <hr />
 
-.. rubric:: Zehnerpotenzen
+.. _Tabelle Zehnerpotenzen:
 
-Je nach Untersuchungsgegenstand können sich die Zahlenwerte von Messergebnissen
-um etliche Größenordnungen unterscheiden -- beispielsweise besitzt ein Planet
-eine erheblich größere Masse als ein einzelnes Atom, und ein Isolator einen um
-ein Vielfaches größeren elektrischen Widerstand als ein Leiter. Um dennoch die
-üblichen Maßeinheiten nutzen zu können -- beispielsweise die Masse eines Körpers
-in Kilogramm anzugeben -- hat man der Übersichtlichkeit halber so genannte
-"Zehnerpotenzen" eingeführt.
+.. .. rubric:: Zehnerpotenzen
 
-.. list-table::
-    :widths: 50 50 50 50
+.. list-table:: Zehnerpotenzen
+    :widths: 30 30 50 30
     :header-rows: 0
 
     * - Vorsilbe
       - Kurzzeichen
       - Faktor
       - Kurzschreibweise
-    * - Deka-
-      - :math:`\unit[]{da}`
-      - :math:`10`
-      - :math:`1 \cdot 10^{1}`
-    * - Hekto-
-      - :math:`\unit[]{h}`
-      - :math:`100`
-      - :math:`1 \cdot 10^{2}`
-    * - Kilo-
-      - :math:`\unit[]{k}`
-      - :math:`1\,000`
-      - :math:`1 \cdot 10^{3}`
-    * - Mega-
-      - :math:`\unit[]{M}`
-      - :math:`1\,000\,000`
-      - :math:`1 \cdot 10^{6}`
-    * - Giga-
-      - :math:`\unit[]{G}`
-      - :math:`1\,000\,000\,000`
-      - :math:`1 \cdot 10^{9}`
-    * - Tera-
-      - :math:`\unit[]{T}`
-      - :math:`1\,000\,000\,000\,000`
-      - :math:`1 \cdot 10^{12}`
-    * - Peta-
-      - :math:`\unit[]{P}`
-      - :math:`1\,000\,000\,000\,000\,000`
-      - :math:`1 \cdot 10^{15}`
-    * - Exa-
-      - :math:`\unit[]{E}`
+    * - Yotta
+      - :math:`\unit{Y}`
+      - :math:`1\,000\,000\,000\,000\,000\,000\,000\,000{\color{white},}`
+      - :math:`1 \cdot 10^{24}`
+    * - Zetta
+      - :math:`\unit{Z}`
+      - :math:`1\,000\,000\,000\,000\,000\,000\,000`
+      - :math:`1 \cdot 10^{21}`
+    * - Exa
+      - :math:`\unit{E}`
       - :math:`1\,000\,000\,000\,000\,000\,000`
       - :math:`1 \cdot 10^{18}`
-
-.. list-table::
-    :widths: 50 50 50 50
-    :header-rows: 0
-
-    * - Vorsilbe
-      - Kurzzeichen
-      - Faktor
-      - Kurzschreibweise
-    * - Dezi-
-      - :math:`\unit[]{d}`
+    * - Peta
+      - :math:`\unit{P}`
+      - :math:`1\,000\,000\,000\,000\,000`
+      - :math:`1 \cdot 10^{15}`
+    * - Tera
+      - :math:`\unit{T}`
+      - :math:`1\,000\,000\,000\,000`
+      - :math:`1 \cdot 10^{12}`
+    * - Giga
+      - :math:`\unit{G}`
+      - :math:`1\,000\,000\,000`
+      - :math:`1 \cdot 10^{9}`
+    * - Mega
+      - :math:`\unit{M}`
+      - :math:`1\,000\,000`
+      - :math:`1 \cdot 10^{6}`
+    * - Kilo
+      - :math:`\unit{k}`
+      - :math:`1\,000`
+      - :math:`1 \cdot 10^{3}`
+    * - Hekto
+      - :math:`\unit{h}`
+      - :math:`100`
+      - :math:`1 \cdot 10^{2}`
+    * - Deka
+      - :math:`\unit{da}`
+      - :math:`10`
+      - :math:`1 \cdot 10^{1}`
+    * -
+      -
+      - :math:`1`
+      - :math:`1 \cdot 10^0`
+    * - Dezi
+      - :math:`\unit{d}`
       - :math:`0,1`
       - :math:`1 \cdot 10^{-1}`
-    * - Zenti-
-      - :math:`\unit[]{c}`
+    * - Zenti
+      - :math:`\unit{c}`
       - :math:`0,01`
       - :math:`1 \cdot 10^{-2}`
-    * - Milli-
-      - :math:`\unit[]{m}`
+    * - Milli
+      - :math:`\unit{m}`
       - :math:`0,001`
       - :math:`1 \cdot 10^{-3}`
-    * - Mikro-
-      - :math:`\unit[]{\mu }`
+    * - Mikro
+      - :math:`\unit{\mu }`
       - :math:`0,000\,001`
       - :math:`1 \cdot 10^{-6}`
-    * - Nano-
-      - :math:`\unit[]{n}`
+    * - Nano
+      - :math:`\unit{n}`
       - :math:`0,000\,000\,001`
       - :math:`1 \cdot 10^{-9}`
-    * - Piko-
-      - :math:`\unit[]{p}`
+    * - Piko
+      - :math:`\unit{p}`
       - :math:`0,000\,000\,000\,001`
       - :math:`1 \cdot 10^{-12}`
-    * - Femto-
-      - :math:`\unit[]{f}`
+    * - Femto
+      - :math:`\unit{f}`
       - :math:`0,000\,000\,000\,000\,001`
       - :math:`1 \cdot 10^{-15}`
-    * - Atto-
-      - :math:`\unit[]{a}`
+    * - Atto
+      - :math:`\unit{a}`
       - :math:`0,000\,000\,000\,000\,000\,001`
       - :math:`1 \cdot 10^{-18}`
+    * - Zepto
+      - :math:`\unit{z}`
+      - :math:`0,000\,000\,000\,000\,000\,000\,001`
+      - :math:`1 \cdot 10^{-21}`
+    * - Yokto
+      - :math:`\unit{y}`
+      - :math:`0,000\,000\,000\,000\,000\,000\,000\,001`
+      - :math:`1 \cdot 10^{-24}`
 
+.. raw:: html
+
+    <hr />
 
 .. _Naturkonstanten:
+
+.. }}}
 
 Naturkonstanten
 ---------------
 
-Naturkonstanten sind physikalische Größen, die bei verschiedenen experimentellen
-Messungen (mit vergleichbaren Messinstrumenten, jedoch in unterschiedlichen
-Umgebungen und zu unterschiedlichen Zeiten) erfahrungsgemäß stets gleiche
-Messwerte liefern und somit mit hoher Genauigkeit als konstant angesehen werden
-können.
+.. {{{
+
+.. Naturkonstanten sind physikalische Größen, die bei verschiedenen experimentellen
+.. Messungen (mit vergleichbaren Messinstrumenten, jedoch in unterschiedlichen
+.. Umgebungen und zu unterschiedlichen Zeiten) erfahrungsgemäß stets gleiche
+.. Messwerte liefern und somit mit hoher Genauigkeit als konstant angesehen werden
+.. können.
+
+.. raw:: html
+
+    <hr />
+
+.. _Tabelle Naturkonstanten:
+.. _Allgemeine Naturkonstanten:
 
 .. list-table:: Allgemeine Naturkonstanten
+    :name: tab-naturkonstanten
     :widths: 50 20 50
     :header-rows: 0
-    :name: tab-naturkonstanten
 
     * - Konstante
       - Symbol
       - Betrag und Einheit
     * - Avogadro-Konstante
-      - :math:`N _{\rm{A}}`
-      - :math:`\unit[6,0221367 \cdot 10 ^{23} ]{\frac{1}{mol} }`
+      - :math:`N_{\mathrm{A}}`
+      - :math:`\unit[6,0221367 \cdot 10^{23}]{\frac{1}{mol}}`
     * - Elektrische Feldkonstante
-      - :math:`\varepsilon _{\rm{0}}`
-      - :math:`\unit[8,8542 \cdot 10^{-12}]{\frac{C}{V \cdot m} }`
+      - :math:`\varepsilon_0`
+      - :math:`\unit[8,8542 \cdot 10^{-12}]{\frac{C}{V \cdot m}}`
     * - Elementarladung
-      - :math:`e _{\rm{0}}`
-      - :math:`\unit[1,60217733 \cdot 10 ^{-19} ]{C}`
+      - :math:`e_0`
+      - :math:`\unit[1,60217733 \cdot 10^{-19}]{C}`
     * - Eulersche Zahl
       - :math:`e`
-      - :math:`2,718281828459045\ldots`
+      - :math:`2,718281828459045...`
     * - Fallbeschleunigung auf der Erde (Norm)
       - :math:`g`
-      - :math:`\unit[9,80665 ]{\frac{m}{s^2} }`
+      - :math:`\unit[9,80665]{\frac{m}{s^2}}`
     * - Faraday-Konstante
       - :math:`F`
-      - :math:`\unit[96487,0 ]{\frac{C}{mol} }`
+      - :math:`\unit[96487,0]{\frac{C}{mol}}`
     * - Gravitationskonstante
       - :math:`\gamma`
-      - :math:`\unit[6,673 \cdot 10^{-11} ]{\frac{m^3}{kg \cdot s^2} }`
+      - :math:`\unit[6,673 \cdot 10^{-11}]{\frac{m^3}{kg \cdot s^2}}`
     * - Kreiszahl
       - :math:`\pi`
-      - :math:`3,141592653589793\ldots`
+      - :math:`3,141592653589793...`
     * - Lichtgeschwindigkeit (im Vakuum)
       - :math:`c`
-      - :math:`\unit[2,99792458 \cdot 10^{8} ]{\frac{m}{s} }`
+      - :math:`\unit[2,99792458 \cdot 10^{8}]{\frac{m}{s}}`
     * - Magnetische Feldkonstante
-      - :math:`\mu _{\rm{0}}`
-      - :math:`\unit[4 \cdot \pi \cdot 10^{-7}]{\frac{V \cdot s}{A \cdot m} }`
+      - :math:`\mu_0`
+      - :math:`\unit[4 \cdot \pi \cdot 10^{-7}]{\frac{V \cdot s}{A \cdot m}}`
     * - Planck-Konstante
       - :math:`h`
-      - :math:`\unit[6,6256 \cdot 10 ^{34} ]{J \cdot s }`
+      - :math:`\unit[6,6256 \cdot 10 ^{34}]{J \cdot s}`
     * - Stefan-Boltzmann-Konstante
       - :math:`\sigma`
-      - :math:`\unit[5,6705 \cdot 10 ^{-8} ]{\frac{W}{m^2 \cdot K^4} }`
+      - :math:`\unit[5,6705 \cdot 10 ^{-8}]{\frac{W}{m^2 \cdot K^4}}`
     * - Universelle Gaskonstante
       - :math:`R`
-      - :math:`\unit[8,314510]{\frac{J}{K \cdot mol} }`
+      - :math:`\unit[8,314510]{\frac{J}{K \cdot mol}}`
 
+.. raw:: html
+
+    <hr />
 
 .. _Astronomische Daten:
+.. _Tabelle Astronomische Daten:
 
 .. list-table:: Astronomische Daten der Sonne und Erde
     :widths: 50 50 50 50
@@ -717,34 +795,277 @@ können.
       - Erde:
       -
     * - Masse
-      - :math:`m _{\rm{S}} = \unit[1,99 \cdot 10^{30}]{kg}`
+      - :math:`m_{\mathrm{S}} = \unit[1,99 \cdot 10^{30}]{kg}`
       - Masse
-      - :math:`m _{\rm{E}} = \unit[5,972 \cdot 10^{24}]{kg}`
+      - :math:`m_{\mathrm{E}} = \unit[5,972 \cdot 10^{24}]{kg}`
     * - Radius
-      - :math:`{\color{white}1}r _{\rm{S}} = \unit[6,96 \cdot 10^8]{m}`
+      - :math:`{\color{white}1}r_{\mathrm{S}} = \unit[6,96 \cdot 10^8]{m}`
       - Radius (Durchschnitt)
-      - :math:`{\color{white}1}r _{\rm{E}} = \unit[6371]{km}`
+      - :math:`{\color{white}1}r_{\mathrm{E}} = \unit[6371]{km}`
     * - Oberflächentemperatur
-      - :math:`{\color{white}.}T _{\rm{S}} = \unit[5,78 \cdot 10^3]{K}`
+      - :math:`{\color{white}.}T_{\mathrm{S}} = \unit[5,78 \cdot 10^3]{K}`
       - Bahnradius (Durchschnitt)
-      - :math:`r _{\rm{EB}} = \unit[1,496 \cdot 10^8]{km}`
+      - :math:`r_{\mathrm{EB}} = \unit[1,496 \cdot 10^8]{km}`
     * - Leuchtkraft
-      - :math:`{\color{white}.}L _{\rm{S}} = \unit[3,85 \cdot 10 ^{26}]{W}`
+      - :math:`{\color{white}.}L_{\mathrm{S}} = \unit[3,85 \cdot 10^{26}]{W}`
       -
       -
 
+.. list-table:: Ortsfaktoren im Sonnensystem
+    :name: tab-ortsfaktoren
+    :widths: 70 30
 
+    * - Ort
+      - Ortsfaktor in :math:`\unit{\frac{N}{kg}}`
+    * - Sonne
+      - :math:`274`
+    * - Erde (Äquator)
+      - :math:`9,78`
+    * - Erde (Mitteleuropa)
+      - :math:`9,81`
+    * - Erde (Nordpol, Südpol)
+      - :math:`9,83`
+    * - Erde (:math:`\unit[300]{km}` über Meeresspiegel)
+      - :math:`8,96`
+    * - Erde (:math:`\unit[40\,000]{km}` über Meeresspiegel)
+      - :math:`0,19`
+    * - Mond der Erde
+      - :math:`1,60`
+    * - Jupiter
+      - :math:`24,79`
+    * - Mars
+      - :math:`3,69`
+    * - Merkur
+      - :math:`3,70`
+    * - Neptun
+      - :math:`11,15`
+    * - Pluto
+      - :math:`0,62`
+    * - Saturn
+      - :math:`10,44`
+    * - Uranus
+      - :math:`8,87`
+    * - Venus
+      - :math:`8,87`
+
+.. raw:: html
+
+    <hr />
 
 .. _Materialabhängige Größen:
+
+.. }}}
 
 Materialabhängige Größen
 ------------------------
 
-.. rubric:: Eigenschaften von Festkörpern
+.. {{{
+
+.. raw:: html
+
+    <hr />
+
+.. _Tabelle Dichte:
+.. _Tabelle Dichte-Werte:
+
+.. list-table:: Dichte von Festkörpern, Flüssigkeiten und Gasen (bei :math:`\unit[0]{\degree C}`)
+    :name: tab-dichtewerte
+    :widths: 60 40 60 40 60 40
+
+    * - Festkörper
+      - Dichte in :math:`\unitfrac{kg}{dm^3}`
+      - Flüssigkeit
+      - Dichte in :math:`\unitfrac{kg}{dm^3}`
+      - Gas
+      - Dichte in :math:`\unitfrac{kg}{m^3}`
+    * - Aluminium
+      - :math:`2,7`
+      - Ethanol
+      - :math:`0,79`
+      - Chlor
+      - :math:`3,21`
+    * - Blei
+      - :math:`11,34`
+      - Glycerin
+      - :math:`1,26`
+      - Helium
+      - :math:`0,18`
+    * - Eis
+      - :math:`0,9`
+      - Leichtbenzin
+      - :math:`0,7`
+      - Kohlenstoffdioxid
+      - :math:`1,98`
+    * - Glas
+      - :math:`\text{ca. } 2,5`
+      - Petroleum
+      - :math:`0,81`
+      - Luft
+      - :math:`1,29`
+    * - Gold
+      - :math:`19,3`
+      - Quecksilber
+      - :math:`13,6`
+      - Methan
+      - :math:`0,72`
+    * - Hartgummi
+      - :math:`\text{ca. } 1,3`
+      - Schmieröl
+      - :math:`0,9`
+      - Wasserstoff
+      - :math:`0,09`
+    * - Holz
+      - :math:`0,5 \text{ bis } 1,2`
+      - Schwefelsäure
+      - :math:`1,836`
+      - Xenon
+      - :math:`5,90`
+    * - Kork
+      - :math:`0,2`
+      - Wasser (bei :math:`\unit[4]{\degree C}`)
+      - :math:`1,000`
+      -
+      -
+    * - Kupfer
+      - :math:`8,9`
+      -
+      -
+      -
+      -
+    * - Schaumstoff
+      - :math:`0,15`
+      -
+      -
+      -
+      -
+    * - Silber
+      - :math:`10,5`
+      -
+      -
+      -
+      -
+    * - Stahl
+      - :math:`7,8`
+      -
+      -
+      -
+      -
+
+.. raw:: html
+
+    <hr />
+
+.. _Tabelle Reibungszahlen:
+
+.. list-table:: Haft- und Gleitreibungszahlen einiger Stoffe
+    :name: tab-reibungszahlen
+    :widths: 50 50 50
+
+    * - Stoffpaar
+      - Haftreibungszahl :math:`\mu_{\mathrm{H}}`
+      - Gleitreibungszahl :math:`\mu_{\mathrm{H}}`
+    * - Holz auf Holz
+      - :math:`0,5 \text{ bis } 0,6`
+      - :math:`0,2 \text{ bis } 0,4`
+    * - Stahl auf Stahl
+      - :math:`0,15`
+      - :math:`0,06`
+    * - Stahl auf Eis
+      - :math:`0,03`
+      - :math:`0,01`
+    * - Autoreifen auf Beton (trocken)
+      - :math:`1,00`
+      - :math:`0,60`
+    * - Autoreifen auf Beton (nass)
+      - :math:`0,50`
+      - :math:`0,30`
+    * - Autoreifen auf Eis
+      - :math:`0,10`
+      - :math:`0,05`
+
+.. raw:: html
+
+    <hr />
+
+
+.. _Tabelle cw-Werte:
+.. _Tabelle Luftwiderstands-Beiwerte:
+
+.. list-table:: Luftwiderstands-Beiwerte
+    :name: tab-luftwiderstandsbeiwerte
+    :widths: 50 50
+
+    * - Gegenstand
+      - :math:`c_{\mathrm{w}}`-Wert
+    * - Halbkugel (konkav), Fallschirm
+      - :math:`1,33`
+    * - Rechteckige Platte
+      - :math:`1,1` bis :math:`1,3`
+    * - Kreisförmige Platte
+      - :math:`1,11`
+    * - Mensch (stehend)
+      - :math:`0,78`
+    * - LKW
+      - :math:`0,6` bis :math:`0,9`
+    * - Fahrradfahrer (Mountainbike)
+      - :math:`0,5` bis :math:`0,7`
+    * - Kugel
+      - :math:`0,45`
+    * - Fahrradfahrer (Rennrad)
+      - :math:`0,4`
+    * - PKW
+      - :math:`0,25` bis :math:`0,45`
+    * - Halbkugel (konvex)
+      - :math:`0,34`
+    * - Tropfen (Stromlinienform)
+      - :math:`0,02`
+
+.. raw:: html
+
+    <hr />
+
+.. _Tabelle Viskosität:
+.. _Tabelle Viskositätswerte:
+
+.. list-table:: Viskositätswerte verschiedener Flüssigkeiten (bei :math:`\unit[20]{\degree C})`
+    :widths: 50 50
+    :header-rows: 0
+    :name: tab-viskositaeten
+
+    * - Substanz
+      - Viskosität :math:`\eta` in :math:`\unit{mPa \cdot s}`
+    * - Aceton
+      - :math:`0,32`
+    * - Benzol
+      - :math:`0,65`
+    * - Ethanol
+      - :math:`1,20`
+    * - Glycerin
+      - :math:`1480`
+    * - Olivenöl
+      - :math:`\approx 80`
+    * - Sirup
+      - :math:`\approx 1\,000 \text{ bis } 10\, 000`
+    * - Wasser (:math:`\unit[10]{\degree C}`)
+      - :math:`1,30`
+    * - Wasser (:math:`\unit[20]{\degree C}`)
+      - :math:`1,00`
+    * - Wasser (:math:`\unit[30]{\degree C}`)
+      - :math:`0,80`
+
+.. raw:: html
+
+    <hr />
+
+
+.. .. rubric:: Thermische Eigenschaften von Festkörpern
+
+.. _Tabelle Thermische Eigenschaften:
+.. _Tabelle Thermische Eigenschaften Festkörper:
 
 .. only:: html
 
-    .. list-table::
+    .. list-table:: Thermische Eigenschaften von Festkörpern
         :name: tab-eigenschaften-von-festkoerpern
         :widths: 50 50 50 50 50 50
 
@@ -867,15 +1188,15 @@ Materialabhängige Größen
 
     Material
     &
-    Schmelztemperatur $T _{\rm{S}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
+    Schmelztemperatur $T_{\mathrm{S}}$ in $\unit{\degree C}$ (bei $\unit[101,3]{kPa}$)
     &
-    Siedetemperatur $T _{\rm{V}}$ in $\unit[]{\degree C}$ (bei $\unit[101,3]{kPa}$)
+    Siedetemperatur $T_{\mathrm{V}}$ in $\unit{\degree C}$ (bei $\unit[101,3]{kPa}$)
     &
-    Längen-Ausdehnungs-koeffizient $\alpha$ in $\unit[10 ^{-6}]{\frac{1}{K}}$
+    Längen-Ausdehnungs-koeffizient $\alpha$ in $\unit[10^{-6}]{\frac{1}{K}}$
     &
-    Spezifische Wärmekapazität $c$ in $\unit[]{\frac{kJ}{kg \cdot K}}$
+    Spezifische Wärmekapazität $c$ in $\unit{\frac{kJ}{kg \cdot K}}$
     &
-    Spezifische Schmelzwärme $q _{\rm{s}}$ in $\unit[]{\frac{kJ}{kg}}$ \\
+    Spezifische Schmelzwärme $q_{\mathrm{s}}$ in $\unit{\frac{kJ}{kg}}$ \\
 
     Aluminium    & $660$  & $2450$ & $23,1$             & $0,90$ & $397$ \\
     Beton        & ---      & ---      & $12,0$             & $0,84$ & --- \\
@@ -900,11 +1221,11 @@ Materialabhängige Größen
     }
 
 
-.. rubric:: Eigenschaften von Flüssigkeiten
+.. _Tabelle Thermische Eigenschaften Flüssigkeiten:
 
 .. only:: html
 
-    .. list-table::
+    .. list-table:: Thermische Eigenschaften von Flüssigkeiten
         :name: tab-eigenschaften-von-fluessigkeiten
         :widths: 50 50 50 50 50 50
 
@@ -1008,12 +1329,11 @@ Materialabhängige Größen
     \end{tabulary}
     }
 
-
-.. rubric:: Eigenschaften von Gasen
+.. _Tabelle Thermische Eigenschaften Gase:
 
 .. only:: html
 
-    .. list-table::
+    .. list-table:: Thermische Eigenschaften von Gasen
         :name: tab-eigenschaften-von-gasen
         :widths: 50 50 50 50 50 50
 
@@ -1075,7 +1395,7 @@ Materialabhängige Größen
           - :math:`-112`
           - :math:`-108`
           - :math:`0,16`
-          - :math:`0,01`
+          - :math:`0,21`
           - :math:`96`
 
 .. raw:: latex
@@ -1103,7 +1423,7 @@ Materialabhängige Größen
     Ozon              & $-193$                             & $-113$                      & $0,57$  & $0,79$  & $316$ \\
     Propan            & $-190$                             & $-42,1$                     & $1,41$  & $1,59$  & $426$ \\
     Wasserstoff       & $-259$                             & $-252,8$                    & $10,17$ & $14,32$ & $461$ \\
-    Xenon             & $-112$                             & $-108$                      & $0,16$  & $0,01$  & $96$ \\
+    Xenon             & $-112$                             & $-108$                      & $0,16$  & $0,21$  & $96$ \\
 
     \hline
     \end{tabulary}
@@ -1111,11 +1431,72 @@ Materialabhängige Größen
 
     %\restoregeometry
 
+.. raw:: html
 
+    <hr />
+
+.. _Tabelle Heizwerte:
+
+.. list-table:: Heizwerte von Brennstoffen (unter Normalbedingungen)
+    :name: tab-heizwerte-fest-fluessig-gasfoermig
+    :widths: 60 40 60 40
+
+    * - Feste und flüssige Brennstoffe
+      - Durchschnittlicher Heizwert in :math:`\unit[]{MJ/kg}`
+      - Gasförmige Brennstoffe
+      - Durchschnittlicher Heizwert in :math:`\unit[]{MJ/m^3}`
+    * - Benzin
+      - :math:`41`
+      - Ammoniak
+      - :math:`14`
+    * - Braunkohle
+      - :math:`12`
+      - Butan
+      - :math:`124`
+    * - Diesel
+      - :math:`42`
+      - Methan
+      - :math:`36`
+    * - Ethanol
+      - :math:`27`
+      - Propan
+      - :math:`94`
+    * - Heizöl
+      - :math:`42`
+      - Stadtgas
+      - :math:`20`
+    * - Holz
+      - :math:`12`
+      - Wasserstoff
+      - :math:`11`
+    * - Petroleum
+      - :math:`42`
+      -
+      -
+    * - Steinkohle
+      - :math:`30`
+      -
+      -
+
+
+.. raw:: html
+
+    <hr />
+
+
+.. _Periodensystem:
 .. _Periodensystem der Elemente:
+
+.. }}}
 
 Periodensystem der Elemente
 ---------------------------
+
+.. {{{
+
+.. raw:: html
+
+    <hr />
 
 .. only:: html
 
@@ -1148,3 +1529,14 @@ Periodensystem der Elemente
 
 ..  http://www.formel-sammlung.de/physik/wertetabellen/schmelz-_siedetemperatur.htm
 ..  http://www.chemie.de/lexikon/Ausdehnungskoeffizient.html
+
+.. raw:: html
+
+    <hr />
+
+
+
+
+.. }}}
+
+

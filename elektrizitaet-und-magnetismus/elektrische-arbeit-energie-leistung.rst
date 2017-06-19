@@ -6,6 +6,8 @@ Elektrische Arbeit, Energie und Leistung
 .. index::
     single: Energieformen; Elektrische Energie
 
+.. _Generator:
+.. _Stromgenerator:
 .. _Elektrische Arbeit und Energie:
 
 Elektrische Arbeit und Energie
@@ -13,6 +15,7 @@ Elektrische Arbeit und Energie
 
 Zur Bereitstellung einer bestimmten Menge an elektrischer Energie muss durch
 einen Stromgenerator ein entsprechender Betrag an Arbeit aufgewendet werden.
+[#G1]_
 
 Zur Herleitung einer Formel für die elektrische Arbeit :math:`W_{\mathrm{el}}`
 kann man die Definitionen der elektrischen Spannung :math:`U` und der
@@ -20,19 +23,18 @@ elektrischen Stromstärke :math:`I` miteinander kombinieren. Aus der Definition
 der elektrischen Spannung folgt:
 
 .. math::
+    :label: eqn-spannung-definition
 
     U = \frac{W}{Q} \quad \Leftrightarrow \quad W = U \cdot Q
 
-..  :label: eqn-definition-spannung
 
 Die Ladung :math:`Q` kann wiederum mit Hilfe der Definition der Stromstärke
 folgendermaßen beschrieben werden:
 
 .. math::
+    :label: eqn-stromstärke-definition
 
     I = \frac{Q}{t} \quad \Leftrightarrow \quad Q = I \cdot t
-
-..  :label: eqn-definition-stromstärke
 
 Insgesamt ergibt die Kombination dieser beiden Gleichungen folgende Formel für
 die elektrische Arbeit:
@@ -116,15 +118,17 @@ eine höhere Stromstärke zur Folge hat, nimmt die Leistung mit zunehmender
 Spannung überproportional zu.
 
 
-
-.. _Exkurs Belastbarkeit von elektrischen Bauteilen:
 .. _Belastbarkeit von elektrischen Bauteilen:
+.. _Wärmeentwicklung in elektrischen Bauteilen:
+.. _Exkurs Belastbarkeit von elektrischen Bauteilen:
+.. _Exkurs Wärmeentwicklung in elektrischen Bauteilen:
 
-.. rubric:: Exkurs: Belastbarkeit von elektrischen Bauteilen
+.. rubric:: Exkurs: Wärmeentwicklung in elektrischen Bauteilen
 
 Mittels des Ohmschen Gesetzes :math:`U = R \cdot I` kann der obige Zusammenhang
-:math:`P_{\mathrm{el}} = U \cdot I` auch auf zwei weitere Arten ausgedrückt
-werden:
+:math:`P_{\mathrm{el}} = U \cdot I` zwischen der elektrischen Leistung
+:math:`P_{\mathrm{el}}` sowie der Spannung :math:`U` und der Stromstärke
+:math:`I` auch folgendermaßen ausgedrückt werden:
 
 * Setzt man für die Stromstärke :math:`I = \frac{U}{R}` in die
   Leistungs-Gleichung :eq:`eqn-elektrische-leistung` ein, so erhält man:
@@ -142,9 +146,9 @@ werden:
 
       P = U \cdot I = (R \cdot I) \cdot I = R \cdot I^2
 
-Bei beiden Darstellungen erkennt man, dass die Leistung bei konstant bleibendem
-Widerstand quadratisch mit einer zunehmenden Spannung beziehungsweise
-Stromstärke ansteigt.
+Bei beiden Darstellungen erkennt man, dass die elektrische (Heiz-)Leistung bei
+konstant bleibendem Widerstand quadratisch mit einer zunehmenden Spannung
+beziehungsweise Stromstärke ansteigt.
 
 *Beispiel:*
 
@@ -215,25 +219,33 @@ gleichermaßen von Bedeutung.
 
     .. rubric:: Anmerkungen:
 
+.. [#G1] Spannung erzeugende Geräte, die zur Energie-Gewinnung Treibstoffe
+    verbrennen, haben meist einen Verbrennungsmotor oder eine Gas-Turbine als
+    Antrieb; der eigentliche Generator wandelt dann die mechanische Energie in
+    elektrische Energie um.
+
+    Im verallgemeinerten Sinn bezeichnet man sämtliche Spannung erzeugende Geräte
+    als Generatoren, also beispielsweise auch Solarzellen oder Thermo-Elemente.
+
 .. [#E1] Streng genommen speichern Akkumulatoren die zugeführte elektrische
-        Energie in Form von chemischer Energie. Beide Energieformen lassen sich
-        allerdings (bis auf geringe Wärmeverluste) vollständig ineinander
-        umwandeln -- ein voll geladener Akkumulator stellt bei seiner Nutzung
-        wiederum elektrische Energie bereit.
+    Energie in Form von chemischer Energie. Beide Energieformen lassen sich
+    allerdings (bis auf geringe Wärmeverluste) vollständig ineinander
+    umwandeln -- ein voll geladener Akkumulator stellt bei seiner Nutzung
+    wiederum elektrische Energie bereit.
 
 .. [#L1] Für größere Leistungsangaben ist auch die Einheit Kilowatt
-        :math:`(\unit[]{kW})` gebräuchlich. Dabei gilt: :math:`\unit[1]{kW} =
-        \unit[1\,000]{W}`
+    :math:`(\unit[]{kW})` gebräuchlich. Dabei gilt: :math:`\unit[1]{kW} =
+    \unit[1\,000]{W}`
 
 .. [#L2] Die jeweils fehlende Angabe kann durch die beiden bekannten Größen
-        mittels Gleichung :eq:`eqn-elektrische-leistung` bestimmt werden.
+    mittels Gleichung :eq:`eqn-elektrische-leistung` bestimmt werden.
 
 .. [#E2] Auch in Speicheranlagen wie Pumpspeicherkraftwerken oder Akkumulatoren
-        wird zunächst elektrische Energie verbraucht, z.B. um eine große Menge
-        Wasser auf eine bestimmte Höhe zu pumpen oder bestimmte chemische
-        Reaktionen zu ermöglichen; umgekehrt können derartige Anlagen bei
-        Bedarf die gespeicherte Energiemenge mit nur geringen (Wärme-)Verlusten
-        wieder als elektrische Energie bereitstellen.
+    wird zunächst elektrische Energie verbraucht, z.B. um eine große Menge
+    Wasser auf eine bestimmte Höhe zu pumpen oder bestimmte chemische
+    Reaktionen zu ermöglichen; umgekehrt können derartige Anlagen bei
+    Bedarf die gespeicherte Energiemenge mit nur geringen (Wärme-)Verlusten
+    wieder als elektrische Energie bereitstellen.
 
 .. only:: html
 

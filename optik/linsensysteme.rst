@@ -4,8 +4,8 @@ Linsensysteme
 =============
 
 Häufig wird in optischen Geräten nicht nur eine einzelne, sondern vielmehr eine
-Kombination mehrerer Sammel- bzw. Zerstreuungslinsen genutzt. Einige wichtige
-Eigenschaften, die sich bei derartigen Anordnungen auftreten, werden im
+Kombination mehrerer Sammel- beziehungsweise Zerstreuungslinsen genutzt. Einige
+wichtige Eigenschaften, die sich bei derartigen Anordnungen auftreten, werden im
 folgenden Abschnitt näher beschrieben.
 
 
@@ -58,10 +58,10 @@ Zerstreuungslinsen negativ gezählt.
   einzelne (Zerstreuungs-)Linse mit :math:`f = -\unit[15]{cm}` Brennweite.
 
 Kombiniert man eine Sammellinse mit einer Zerstreuungslinse (betragsweise)
-gleicher Brennweite, so ergibt sich :math:`\frac{1}{f} = 0` bzw. :math:`f =
-\infty`. Ein solches System hat eine unendliche Brennweite, d.h. einfallende
-Lichtstrahlen werden durch diese Linsenkombination quasi nicht gebrochen,
-sondern durchlaufen es ohne Ablenkung.
+gleicher Brennweite, so ergibt sich :math:`\frac{1}{f} = 0` beziehungsweise
+:math:`f = \infty`. Ein solches System hat eine unendliche Brennweite, d.h.
+einfallende Lichtstrahlen werden durch diese Linsenkombination quasi nicht
+gebrochen, sondern durchlaufen es ohne Ablenkung.
 
 .. _Dioptrie:
 
@@ -107,10 +107,10 @@ Vorzeichen. Es gilt also:
 Linsenfehler und Abhilfen
 -------------------------
 
-Die Brechkraft einer Sammel- bzw. Zerstreuungslinse wird üblicherweise für
+Die Brechkraft einer Sammel- beziehungsweise Zerstreuungslinse wird üblicherweise für
 Lichtstrahlen angegeben, die nahe der optischen Achse auf die Linse treffen.
 Strahlen, die auf den Randbereich der Linse treffen ("Randstrahlen"), werden
-häufig stärker gebrochen. Einfallende Parallelstrahlen durchlaufen also keine
+stärker gebrochen. Einfallende Parallelstrahlen durchlaufen also keine
 gemeinsamen Brennpunkt und können somit durch die Linse nicht gemeinsam mit den
 achsennah einfallenden Strahlen in einem einzigen Punkt scharf abgebildet
 werden. Es gilt:
@@ -119,7 +119,7 @@ werden. Es gilt:
 
     f_{\mathrm{Rand}} < f_{\mathrm{Mitte}}
 
-Die Verschiebung des Brennpunkts bei Randstrahlen wird als sphärische Abberation
+Die Verschiebung des Brennpunkts bei Randstrahlen wird als sphärische Aberration
 bezeichnet. Um diesen Linsenfehler zu verhindern, gibt es grundsätzlich zwei
 Möglichkeiten:
 
@@ -130,20 +130,22 @@ Möglichkeiten:
 * Durch eine Kombination einer Sammel- und einer Zerstreuungslinse mit
   unterschiedlichen Brechkräften kann gemäß Gleichung
   :eq:`eqn-brennweite-linsensystem` ein Linsensystem mit der gewünschten
-  Brechkraft erzeugt werden, das zugleich die sphärische Abberation (nahezu)
+  Brechkraft erzeugt werden, das zugleich die sphärische Aberration (nahezu)
   auf Null reduziert. Derartige Linsensysteme werden beispielsweise in
   Objektiven von Fotokameras eingesetzt.
 
 Ein weiterer Linsenfehler entsteht dadurch, dass verschieden farbiges Licht beim
 Durchgang durch die Linse ungleich stark gebrochen wird; in der Regel wird rotes
 Licht am schwächsten, violettes Licht am stärksten gebrochen. Dieser Effekt
-wird als chromatische Abberation bezeichnet. Es gilt:
+wird als chromatische Aberration bezeichnet. Es gilt:
 
 .. math::
 
-    f_{\mathrm{rot}} < f_{\mathrm{violett}}
+     f_{\mathrm{violett}} < f_{\mathrm{rot}}
 
-..  Die chromatische Abberation kann nie vollstaendig
+Im Gegensatz zur sphärischen chromatische Aberration kann die chromatische
+Aberration nie vollständig durch geschickte Linsen-Kombinationen beseitigt
+werden.
 
 
 .. _Abbildungsmaßstab und Linsengleichung:

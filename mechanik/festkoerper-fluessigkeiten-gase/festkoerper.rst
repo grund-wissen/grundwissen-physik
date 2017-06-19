@@ -10,7 +10,7 @@ Salzen bestehen die einzelnen Bausteine des Kristallgitters aus Atomen, bei Eis
 und organischen Verbindungen aus Molekülen.
 
 Die Festigkeit eines Kristalls hängt sowohl von den Bindungskräften zwischen
-den Atomen bzw. Molekülen als auch von der räumlichen Anordnung ab:
+den Atomen beziehungsweise Molekülen als auch von der räumlichen Anordnung ab:
 
 * Diamant besteht beispielsweise ebenso wie Graphit aus reinem Kohlenstoff;
   die Kohlenstoffatome sind allerdings im Diamantkristall anders angeordnet.
@@ -37,6 +37,7 @@ Glas, Wachs, Teer und viele Kunststoffe -- haben keinen kristallinen Aufbau
 und werden daher als "amorphe" Stoffe bezeichnet. [#]_
 
 
+.. _Dehnung:
 .. _Dehnung und Stauchung:
 
 Dehnung und Stauchung
@@ -47,7 +48,7 @@ haben daher ein bestimmtes Volumen und lassen sich kaum komprimieren.
 Allerdings lässt sich die Gestalt eines Festkörpers ändern, beispielsweise kann
 ein Metalldraht unter Verwendung durch Einwirken einer Zugkraft gedehnt werden.
 Ob die Gestalt des Festkörpers in ihre alte Form zurück geht, wenn die
-einwirkende Kraft nächlässt ("elastische Verformung") oder ob sie bestehen
+einwirkende Kraft nachlässt ("elastische Verformung") oder ob sie bestehen
 bleibt ("plastische Verformung"), ist vom Material und der Größe der
 verformenden Kraft abhängig. [#]_
 
@@ -83,12 +84,15 @@ das :ref:`Hookesche Gesetz <Spannkraft>` in einer allgemeinen Form
 dargestellt werden:
 
 .. index:: Elastizitätsmodul, Zugspannung, Spannung (mechanisch)
+.. _Zugspannung:
 .. _Elastizitätsmodul:
+.. _Mechanische Spannung:
+.. _Sprödigkeit:
 
 *Formel:*
 
     Eine elastische Dehnung :math:`\varepsilon = \frac{\Delta l}{l}` ist
-    proportional zur einwirkenden Zugspannug :math:`\sigma`:
+    proportional zur einwirkenden Zugspannung :math:`\sigma`:
 
     .. math::
         :label: eqn-zugspannung
@@ -172,6 +176,8 @@ weichen Stahl unter tiefen Temperaturen denen eines härteren Stahls.
 
 .. index:: Querkontraktion, Poisson-Zahl
 .. _Querkontraktion:
+.. _Querkontraktionszahl:
+.. _Poisson-Zahl:
 
 .. rubric:: Querkontraktion
 
@@ -186,7 +192,7 @@ geringfügig zu.
 
 Diese so genannte Querkontraktion kann mittels der Querkontraktionszahl
 ("Poisson-Zahl") :math:`\nu` beschrieben werden, welche das Verhältnis der
-Läengenänderung in Querrichtung :math:`\frac{\Delta d }{d}` im Verhältnis zur
+Längenänderung in Querrichtung :math:`\frac{\Delta d }{d}` im Verhältnis zur
 Längenänderung in Zugrichtung :math:`\frac{\Delta l}{l}` angibt:
 
 .. math::
@@ -195,7 +201,7 @@ Längenänderung in Zugrichtung :math:`\frac{\Delta l}{l}` angibt:
     \nu = \frac{\Delta d / d}{\Delta l / l}
 
 Die Querkontraktionszahl ist dimensionslos. Für die Volumenänderung bei einer
-Zugspannung in Längsrichtung gilt damit näherungsweie für die Volumenänderung:
+Zugspannung in Längsrichtung gilt damit näherungsweise:
 
 .. math::
 
@@ -237,7 +243,17 @@ abhängig, ob die Zugspannung in Faserrichtung oder quer zur Faserrichtung
 wirkt. Bei Werten von :math:`\nu > 0,5` tritt bei einer Zugspannung eine Abnahme
 des Volumens auf; dies ist bei diversen porösen Materialien der Fall.
 
+.. Andere Darstellung:
+
+.. .. math::
+
+..     \frac{\Delta V}{V} = \frac{\sigma}{E} \cdot (2 \cdot \nu - 1)
+
+
+
 .. index:: Stauchung
+.. _Stauchung:
+.. _Presskraft:
 .. _Stauchung von Festkörpern:
 
 .. rubric:: Stauchung von Festkörpern
@@ -265,6 +281,7 @@ einwirkenden Gewichtskraft.
         <../../pics/mechanik/festkoerper-fluessigkeiten-und-gase/stauchung.svg>`
 
 .. index:: Druckspannung
+.. _Druckspannung:
 
 Auch bei einer Stauchung wird die Formänderung des Materials durch eine
 (Druck-)Spannung beschrieben. Die Druckspannung ist ebenso wie die Zugspannung
@@ -292,6 +309,7 @@ die maximalen Belastungen gegenüber Druckspannungen zudem wesentlich größer a
 die gegenüber Zugspannungen.
 
 .. rubric:: Biegung
+.. _Biegung:
 
 Eine Biegung, beispielsweise eines Balkens, entsteht durch eine Krafteinwirkung
 auf das eine Ende des Gegenstands, während das andere Ende fest eingespannt ist.
@@ -332,6 +350,7 @@ Querschnitt bleiben dabei unverändert.
 
 
 .. index:: Scherung
+.. _Scherung:
 .. _Scherung von Festkörpern:
 
 .. rubric:: Scherung von Festkörpern
@@ -360,6 +379,7 @@ von Scheren bewirken Scherungen im zu zerschneidenden Material.
 
 .. index:: Scherspannung, Schubmodul
 .. _Schubmodul:
+.. _Scherspannung:
 
 Das Symbol für die Scherspannung ist :math:`\tau`, die Einheit ebenfalls Pascal.
 Die Scherspannung ist wiederum definiert als Verhältnis der einwirkenden Kraft
@@ -374,7 +394,7 @@ Scherung gilt:
 Der Proportionalitätsfaktor :math:`G` wird Gleit- oder Schubmodul genannt und
 ist eine Materialkonstante. Die Einheit von :math:`G` ist wiederum Pascal; je
 größer der Wert des Schubmodul eines Materials ist, desto größer ist seine auch
-Steifigkeit. Allgemein sind ist der Schubmodul von Materials kleiner als der
+Steifigkeit. Allgemein ist der Schubmodul eines Materials kleiner als der
 Elastizitätsmodul, es gilt also :math:`G < E`; bei vielen Metallen beträgt der
 Schubmodul etwa ein Drittel ihres Elastizitätsmoduls. Scherspannungen führen
 somit schneller zu Brüchen als gleich große Zug- oder Druckspannungen.
@@ -407,6 +427,7 @@ Ist der Scherwinkel klein :math:`(< 5 \degree)`, so kann näherungsweise
 
 
 .. index:: Torsion
+.. _Torsion:
 .. _Torsion von Festkörpern:
 
 .. rubric:: Torsion von Festkörpern
@@ -441,6 +462,7 @@ Torsionswinkel. Der Proportionalitätsfaktor :math:`G` steht wiederum für der
 ..  wirkenden Drehmoment :math:`M` und dem Drehwinkel :math:`\varphi`: :math:`M = k
 ..  \cdot \varphi`.
 
+..  Näherungsweise keine Volumenänderung!
 
 ..  Aus dem Schubmodul oder auch Gleitmodul berechnet sich dann die
 ..  Torsionssteifigkeit der Torsionsbelastung eines Bauteils. Das Ganze passiert
@@ -468,29 +490,72 @@ Torsionswinkel. Der Proportionalitätsfaktor :math:`G` steht wiederum für der
 
 .. index:: Kompression, Kompressionsmodul
 .. _Kompression:
+.. _Kompressionsmodul:
 
 Kompression
 -----------
 
 Wird auf einen Körper zunehmend ein allseitiger Druck ausgeübt, beispielsweise
-durch hydrostatischen Druck in einer Flüssigkeit, so verkleinert sich
-entsprechend sein Volumen. Der Zusammenhang zwischen der auftretenden
-Druckänderung :math:`\Delta p` und der resultierenden relativen Volumenänderung
-:math:`\frac{\Delta V}{V}` kann mittels des so genannten Kompressionsmoduls
-:math:`K` beschrieben werden:
+durch den :ref:`hydrostatischen Druck <Hydrostatischer Druck>`  in einer
+Flüssigkeit, so verkleinert sich entsprechend sein Volumen. Der Zusammenhang
+zwischen der auftretenden Druckänderung :math:`\Delta p` und der resultierenden
+relativen Volumenänderung :math:`\frac{\Delta V}{V}` kann mittels des so
+genannten Kompressionsmoduls :math:`K` beschrieben werden:
 
 .. math::
+    :label: eqn-kompression
 
     \Delta p = - K \cdot \frac{\Delta V}{V}
 
 Die Einheit des Kompressionsmoduls :math:`K` ist Pascal, wie auch die Einheit
 des Drucks. Das negative Vorzeichen in der obigen Gleichung ergibt sich daraus,
 dass bei einem von außen einwirkenden, positiven Druck das Volumen kleiner wird,
-also in diesem Fall :math:`\Delta V` negativ ist. Je größer der Wert des
-Kompressionsmoduls :math:`K` ist, desto größer ist der nötige Druck, um eine
-bestimmte relative Volumenänderung zu erreichen. Die Werte von :math:`K` von
-Festkörpern und Flüssigkeiten sind üblicherweise um mehrere Größenordnungen
-höher als die von Gasen.
+also in diesem Fall :math:`\Delta V` negativ ist.
+
+Eine Abnahme des Volumens :math:`V` bei einer Kompression ist gleichbedeutend
+mit einer Zunahme der Dichte :math:`\rho` des Gegenstands. Dies kann man
+folgendermaßen herleiten:
+
+1. Die Masse :math:`m` des Objekts ändert sich während der Kompression nicht.
+   Somit ist die Änderung :math:`\Delta m` gleich Null:
+
+   .. math::
+
+       m = \text{konstant} \quad \Longleftrightarrow \quad \Delta m = 0
+
+2. Für die Masse kann man :math:`m = \rho \cdot V` schreiben. Für die zeitliche
+   Änderung der Masse ergibt sich nach der :ref:`Produktregel <gwm:Produktregel>`:
+
+   .. math::
+
+       \Delta (\rho \cdot V) = \rho \cdot \Delta + V \cdot \Delta \rho = 0
+
+   .. math::
+
+       \Rightarrow \rho \cdot \Delta V = -V \cdot \Delta \rho
+
+3. Die obige Gleichung kann folgendermaßen umgestellt werden:
+
+   .. math::
+
+        \frac{\Delta \rho}{\rho} = - \frac{\Delta V}{V}
+
+
+   Man kann für die obige Gleichung :eq:`eqn-kompression` folglich auch
+   schreiben:
+
+   .. math::
+
+       \Delta p = - K \cdot \frac{\Delta V}{V} = K \cdot \frac{\Delta
+       \rho}{\rho}
+
+   Während also das Volumen bei einer Kompression abnimmt (negatives
+   Vorzeichen), nimmt die Dichte zu.
+
+Je größer der Wert des Kompressionsmoduls :math:`K` ist, desto größer ist der
+nötige Druck, um eine bestimmte relative Volumenänderung zu erreichen. Die Werte
+von :math:`K` von Festkörpern und Flüssigkeiten sind üblicherweise um mehrere
+Größenordnungen höher als die von Gasen.
 
 .. list-table::
     :name: tab-kompressionsmodule
@@ -499,19 +564,20 @@ höher als die von Gasen.
     * - Material
       - Kompressionsmodul :math:`K` in :math:`\unit{Pa}`
     * - Diamant
-      - :math:`4,4 \cdot 10 ^{11}`
+      - :math:`4,4 \cdot 10^{11}`
     * - Glas
-      - :math:`3,5 \cdot 10 ^{10}` bis :math:`5,5 \cdot 10 ^{10}`
+      - :math:`3,5 \cdot 10^{10}` bis :math:`5,5 \cdot 10^{10}`
     * - Luft
       - :math:`1,0 \cdot 10^5` (isotherm) bis :math:`1,4 \cdot 10^5` (adiabatisch)
     * - Öl
-      - :math:`1,0 \cdot 10 ^{9}` bis :math:`1,6 \cdot 10 ^{9}`
+      - :math:`1,0 \cdot 10^9` bis :math:`1,6 \cdot 10^9`
     * - Stahl
-      - :math:`1,6 \cdot 10 ^{11}`
+      - :math:`1,6 \cdot 10^{11}`
     * - Wasser
-      - :math:`2,1 \cdot 10 ^{9}`
+      - :math:`2,1 \cdot 10^9`
 
 .. index:: Kompressibilität
+.. _Kompressibilität:
 
 Ist der Kompressionsmodul eines Materials hoch, so bedeutet dies, dass das
 Material einer Kompression einen hohen Widerstand entgegensetzt, sich also nur

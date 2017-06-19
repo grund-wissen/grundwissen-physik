@@ -71,8 +71,8 @@ Gesamt-Kräfte durch Addition der Teilkräfte ermitteln.
 .. index:: Elektrische Feldstärke, Feldlinien (elektrisch)
 .. _Elektrische Feldstärke:
 
-Die elektrische Feldstärke
---------------------------
+Elektrische Feldstärke
+----------------------
 
 Liegt eine kontinuierliche Verteilung vieler einzelner Ladungen vor, so wäre es
 zumindest sehr mühsam, die resultierende Wirkung auf eine weitere Probeladung
@@ -119,10 +119,11 @@ Pfeilrichtung der Feldlinien vertauscht vorstellt.
 
 .. index:: Plattenkondensator
 .. _Plattenkondensator:
+.. _Elektrisches Feld eines Plattenkondensators:
 .. _Das elektrische Feld eines Plattenkondensators:
 
-Das elektrische Feld eines Plattenkondensators
-----------------------------------------------
+Elektrisches Feld eines Plattenkondensators
+-------------------------------------------
 
 Ein elektrisches Feld mit gleichmäßig verteilten und in die gleiche Richtung
 zeigenden Feldlinien erhält man, wenn man zwei metallische, zueinander parallel
@@ -211,7 +212,7 @@ nimmt die elektrische Spannung im Kondensator von der positiven zur negativen
 Platte linear auf Null ab.
 
 
-.. index:: Elektrische Influenz, Influenz
+.. index:: Elektrische Influenz, Influenz, Verschiebungspolarisation
 .. _Elektrische Influenz:
 .. _Elektrische Influenz und Faradayischer Käfig:
 
@@ -253,12 +254,15 @@ Im Inneren des Metalls überlagern sich das äußere und das induzierte
 elektrische Feld. Da beide Felder gleich groß, aber entgegengesetzt gerichtet
 sind, bleibt das Innere des Metalls somit feldfrei. Dies gilt nicht nur massive
 metallische Körper, sondern auch für metallische Hohlkörper. In der Technik
-stellen beispielsweise Autokarosserien so genannte "Faradayische Käfige" dar,
-welche die Insassen vor elektrischen Feldern und damit auch vor Stromflüssen,
-beispielsweise Blitzen, schützen. [#]_
+stellen beispielsweise Autokarosserien so genannte "Faradayische Käfige" dar
+(benannt nach `Michael Faraday
+<https://de.wikipedia.org/wiki/Michael_Faraday>`__), welche die Insassen vor
+elektrischen Feldern und damit auch vor Stromflüssen, beispielsweise Blitzen,
+schützen.
 
 
 .. index:: Orientierungspolarisation, Elektrischer Dipol
+.. _Elektrischer Dipol:
 .. _Orientierungspolarisation:
 
 Orientierungspolarisation
@@ -307,6 +311,8 @@ richtet er sich parallel zur Feldrichtung aus. Für das dabei wirkende
 Das Drehmoment ist maximal, wenn der elektrische Dipol senkrecht zu den
 elektrischen Feldlinien ausgerichtet ist, und wird gleich Null, wenn beide
 Richtungen identisch sind.
+
+.. todo pic!
 
 Die Ausrichtung von elektrischen Dipolen durch elektrische Felder wird als
 Orientierungspolarisation bezeichnet. In realen Anwendungen verhindert die
@@ -403,10 +409,12 @@ eine größere Ladungsmenge speichern als ohne.
 
 
 .. index:: Kapazität
+.. _Kapazität:
+.. _Kapazität eines Plattenkondensators:
 .. _Die Kapazität eines Plattenkondensators:
 
-Die Kapazität eines Plattenkondensators
----------------------------------------
+Kapazität eines Plattenkondensators
+-----------------------------------
 
 Die Kapazität eines Plattenkondensators gibt an, wie viel die Ladungsmenge
 :math:`Q` ist, die der Kondensator bei einer anliegenden Spannung :math:`U`
@@ -476,7 +484,7 @@ Mit :math:`F_{\mathrm{el}} = Q \cdot E` und :math:`E = \frac{U}{d}` ergibt sich:
 .. math::
 
     W_{\mathrm{el}} = \bar{F}_{\mathrm{el}} \cdot d &= Q \cdot \bar{E} \cdot d
-    \\[8pt] 
+    \\[8pt]
     &= Q \cdot \frac{\bar{U}}{d} \cdot d = Q \cdot \bar{U} = \frac{1}{2} \cdot Q
     \cdot U
 
@@ -705,6 +713,14 @@ geringere Geschwindigkeitswerte als bei Elektronen.
       \unit[100]{V}}{\unit[9,1 \cdot 10^{-31}]{kg}}} \approx \unit[5,93 \cdot
       10^{6}]{\frac{m}{s}}
 
+  Die Einheit ergibt sich aus folgender Beziehung:
+
+  .. math::
+
+      \unit{\sqrt{\frac{V \cdot C}{kg}}} = \unit{\sqrt{\frac{V \cdot A \cdot s}{kg}}} =
+      \unit{\sqrt{\frac{J}{kg}}} = \unit{\sqrt{\frac{kg \cdot
+      \frac{m^2}{s^2}}{kg}}} = \unit{\frac{m}{s}}
+
 Trotz der *scheinbar* geringen Energiemenge von
 :math:`E_{\mathrm{pot}}=\unit[100]{eV} = \unit[1,602 \cdot 10^{-17}]{J}`
 erreicht das Elektron bereits eine Geschwindigkeit von über
@@ -713,6 +729,8 @@ der Lichtgeschwindigkeit. [#]_ Wird die Spannung, wie beispielsweise in
 Braunschen Röhren üblich, um einen Faktor :math:`100` auf
 :math:`\unit[10\,000]{V}` erhöht, so steigt die Geschwindigkeit beim Aufprall um
 den Faktor :math:`\sqrt{100} = 10` an.
+
+.. _Anode:
 
 In klassischen Oszilloskopen und Braunschen Röhren werden die freien Elektronen
 von einem spiralförmig aufgewickelten Heizdraht ausgesendet ("Glühelektrischer
@@ -816,9 +834,6 @@ zweier Spannungssignale auf einem Schirm sichtbar zu machen.
 .. [#] An den Rändern des Kondensators sind die Feldlinien zwar gekrümmt, doch
     im Inneren verlaufen die Feldlinien nahezu parallel.
 
-.. [#] Der Faradayische Käfig ist nach `Michael Faraday
-    <https://de.wikipedia.org/wiki/Michael_Faraday>`_ benannt.
-
 .. [#] Auf den Platten eines geladenen Kondensators befinden sich eine Vielzahl
     an Ladungsträgern. Beim obigen Ansatz wird daher angenommen, dass ein
     einzelnes Elektron, das von einer Seite des Kondensators auf die andere
@@ -828,6 +843,7 @@ zweier Spannungssignale auf einem Schirm sichtbar zu machen.
     des Vorgangs als konstant angesehen werden.
 
 .. index:: Ionisierungsenergie
+.. _Ionisierungsenergie:
 
 .. [#] Auch die Bindungsenergien der Elektronen an den Atomkern werden in
     Elektronenvolt angegeben. Beispielsweise genügt bei den meisten chemischen
@@ -836,4 +852,12 @@ zweier Spannungssignale auf einem Schirm sichtbar zu machen.
     weitere Elektronen aus der Atomhülle zu lösen, sind meist deutlich höhere
     Energiemengen erforderlich (siehe folgende `Tabelle auf Wikipedia
     <https://de.wikibooks.org/wiki/Tabellensammlung_Chemie/_Ionisierungsenergien>`__).
+
+.. raw:: html
+
+    <hr />
+
+.. hint::
+
+    Zu diesem Abschnitt gibt es :ref:`Übungsaufgaben <Aufgaben Elektrische Felder>`.
 

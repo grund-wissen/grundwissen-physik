@@ -47,10 +47,20 @@ Flüssigkeiten <Mechanik der Flüssigkeiten>`.
 
 .. _flfd02:
 
+* (\*) Welcher Schweredruck stellt sich in Wasser :math:`(\rho =
+  \unit[1,0]{\frac{g}{cm^3}})` bei einer Eintauchtiefe von
+  :math:`h=\unit[10]{m}` ein?
+
+  :ref:`Lösung <flfd02l>`
+
+----
+
+.. _flfd03:
+
 * (\*) Bis zu welcher Höhe kann Wasser in den Leitungen eines Gebäudes maximal
   steigen, wenn der Druck in Bodenhöhe :math:`p = \unit[6]{bar}` beträgt?
 
-  :ref:`Lösung <flfd02l>`
+  :ref:`Lösung <flfd03l>`
 
 ----
 
@@ -100,6 +110,16 @@ Flüssigkeiten <Mechanik der Flüssigkeiten>`.
 
 ----
 
+.. _flfb02:
+
+* (\*) Welche maximale Austrittsgeschwindigkeit :math:`v` kann sich maximal ergeben,
+  wenn ein Leck an einer Leitung auftritt, in der ein Wasserdruck von :math:`p =
+  \unit[1]{bar}` vorherrscht?
+
+  :ref:`Lösung <flfb02l>`
+
+----
+
 
 
 .. _Aufgaben Mechanik der Gase:
@@ -141,9 +161,27 @@ Gase <Mechanik der Gase>`.
 
 ----
 
+.. _flg03:
+
+* (\**) Ein Fallschirm hat einen Luftwiderstandswert von :math:`c_{\mathrm{w}} = 1,3`,
+  die Gesamt-Masse des Fallschirms und der angehängten Last soll maximal
+  :math:`\unit[100]{kg}` betragen. Wie groß muss in diesem Fall der Durchmesser
+  des Fallschirms sein, wenn bei einer angenommenen Luftdichte von
+  :math:`\rho_{\mathrm{L}} = \unit[1,2]{\frac{kg}{m^3}}` eine
+  Sinkgeschwindigkeit von :math:`v=\unit[8,0]{\frac{m}{s}}` nicht überschritten
+  werden soll?
+
+  :ref:`Lösung <flg03l>`
+
+----
+
+
 .. foo
 
 .. only:: html
+
+    Weitere Aufgaben zur Physik von Gasen gibt es im Abschnitt 
+    :ref:`Allgemeine Gasgleichung <Aufgaben Allgemeine Gasgleichung>`.
 
     :ref:`Zurück zum Skript <Mechanik der Festkörper, Flüssigkeiten und Gase>`
 

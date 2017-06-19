@@ -110,7 +110,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Mechanische Arbeit
 
 * (\**) Ein Fahrzeug mit einer Masse von :math:`m = \unit[750]{kg}` wird aus dem
   Stand :math:`t = \unit[10]{s}` lang mit einer konstanten Beschleunigung
-  :math:`a = \unit[2,5]{m/s^2}` beschleunigt. Wie groß ist die dabei verrichtete
+  :math:`a = \unitfrac[2,5]{m}{s^2}` beschleunigt. Wie groß ist die dabei verrichtete
   Arbeit?
 
   :ref:`Lösung <alea09l>`
@@ -248,7 +248,7 @@ Leistung <Leistung>`.
 
 .. _alel06:
 
-* (\*) Ein Fahrzeug der Masse :math:`m = \unit[1200]{kg}` wird beim Einfahren
+* (\**) Ein Fahrzeug der Masse :math:`m = \unit[1200]{kg}` wird beim Einfahren
   auf eine Autobahn in :math:`\unit[t=8]{s}` konstant von
   :math:`\unit[15]{\frac{m}{s}}` auf :math:`\unit[25]{\frac{m}{s}}`
   beschleunigt. Wie groß muss die Beschleunigungs-Leistung des Motors dabei
@@ -293,7 +293,7 @@ Die folgenden Aufgaben beziehen sich auf den Abschnitt :ref:`Mechanische Energie
 
 .. _alee03:
 
-* (\**) Angenommen, ein Fahrzeug würde mit :math:`v = \unit[72]{km/h}` gegen ein
+* (\**) Angenommen, ein Fahrzeug würde mit :math:`v = \unitfrac[72]{km}{h}` gegen ein
   festes Hindernis prallen. Aus welcher Höhe müsste das Fahrzeug stürzen, um
   -- bei Vernachlässigung des Luftwiderstands -- eine vergleichbare Wirkung
   zu erfahren?

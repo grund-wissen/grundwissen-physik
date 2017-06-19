@@ -139,6 +139,7 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
 ----
 
+.. _Lösungen Spezifischer Widerstand:
 
 .. rubric:: Spezifischer Widerstand
 
@@ -233,6 +234,115 @@ und Widerstand <Stromstärke, Spannung und Widerstand>`.
 
 ----
 
+
+.. _Lösungen Elektrische Felder:
+
+Elektrische Felder
+------------------
+
+Die folgenden Lösungen beziehen sich auf die :ref:`Übungsaufgaben <Aufgaben
+Elektrische Felder>` zum Abschnitt :ref:`Elektrische Felder <Aufgaben
+Elektrische Felder>`.
+
+----
+
+.. _efel01l:
+
+.. Idee: Schmidt2003 S.271
+
+* Für die im Kondensator gespeicherte Energie gilt:
+
+  .. math::
+
+      E = \frac{1}{2} \cdot C \cdot U^2 = \frac{1}{2} \cdot \unit[220 \cdot
+      10^{-6}]{F} \cdot \left( \unit[6,0]{V} \right)^2 = \unit[0,00396]{J}
+
+  Die Einheit ergibt sich aus folgender Beziehung:
+
+  .. math::
+
+      \unit{F \cdot V^2} = \unit{\frac{C}{V} \cdot V^2} = \unit{C \cdot V} =
+      \unit{A \cdot s \cdot V} = \unit{W \cdot s} = \unit{J}
+
+  Die beim Entladen des Kondensators freigesetzte Energie beträgt somit knapp
+  :math:`\unit[4]{mJ}`. Die Energiemenge ist zwar nicht groß, sie wird
+  allerdings in einer sehr kurzen Zeit umgesetzt. Nimmt man :math:`\Delta t =
+  \unit[0,1]{s}` an, so erhält man für die beim Blitzvorgang zur Verfügung
+  gestellte Leistung etwa :math:`P = \tfrac{\Delta E}{\Delta t} \approx
+  \unit[39,6]{W}`.
+
+  :ref:`Zurück zur Aufgabe <efel01>`
+
+----
+
+.. _efel02l:
+
+* Für den Zusammenhang zwischen der Kapazität :math:`C`, der Ladung :math:`Q`
+  und der Spannung :math:`U` gilt für einen Plattenkondensator:
+
+  .. math::
+
+      Q = C \cdot U \quad \Longleftrightarrow \quad U = \frac{Q}{C}
+
+  Setzt man zudem :math:`Q = I \cdot t` ein, so erhält man bei einer konstanten
+  Stromstärke :math:`I` für :math:`t=\unit[1]{s},\,\unit[2]{s},\,\ldots`:
+
+  .. math::
+
+      U(\unit[1]{s}) &= \frac{\unit[0,003]{A} \cdot \unit[1]{s}}{\unit[470 \cdot
+      10^{-6}]{F}} \approx \unit[\phantom{1}6,38]{V} \\
+      U(\unit[2]{s}) &= \frac{\unit[0,003]{A} \cdot \unit[2]{s}}{\unit[470 \cdot
+      10^{-6}]{F}} \approx \unit[12,76]{V} \\
+      U(\unit[3]{s}) &= \frac{\unit[0,003]{A} \cdot \unit[3]{s}}{\unit[470 \cdot
+      10^{-6}]{F}} \approx \unit[19,15]{V} \\
+      U(\unit[3]{s}) &= \frac{\unit[0,003]{A} \cdot \unit[4]{s}}{\unit[470 \cdot
+      10^{-6}]{F}} \approx \unit[25,53]{V} \\
+      U(\unit[3]{s}) &= \frac{\unit[0,003]{A} \cdot \unit[5]{s}}{\unit[470 \cdot
+      10^{-6}]{F}} \approx \unit[31,91]{V} \\
+
+  Die Einheit ergibt sich aus folgender Beziehung:
+
+  .. math::
+
+      \unit{\frac{A \cdot s}{F}} = \unit{\frac{Q}{\frac{Q}{V}}} = \unit{V}
+
+  Die gespeicherten Energiemengen können mittels dieser Ergebnisse anhand der
+  Formel :math:`E = \frac{1}{2} \cdot C \cdot U^2` berechnet werden:
+
+  .. math::
+
+      E(\unit[1]{s)} &= \frac{1}{2} \cdot \unit[470 \cdot 10^{-6}]{F} \cdot
+      \left( \unit[\phantom{1}6,38]{V} \right)^2 \approx \unit[0,0096]{J} \\
+      E(\unit[2]{s)} &= \frac{1}{2} \cdot \unit[470 \cdot 10^{-6}]{F} \cdot
+      \left( \unit[12,76]{V} \right)^2 \approx \unit[0,0383]{J} \\
+      E(\unit[3]{s)} &= \frac{1}{2} \cdot \unit[470 \cdot 10^{-6}]{F} \cdot
+      \left( \unit[19,15]{V} \right)^2 \approx \unit[0,0862]{J} \\
+      E(\unit[4]{s)} &= \frac{1}{2} \cdot \unit[470 \cdot 10^{-6}]{F} \cdot
+      \left( \unit[25,53]{V} \right)^2 \approx \unit[0,1532]{J} \\
+      E(\unit[5]{s)} &= \frac{1}{2} \cdot \unit[470 \cdot 10^{-6}]{F} \cdot
+      \left( \unit[31,91]{V} \right)^2 \approx \unit[0,2394]{J} \\
+
+  Die Einheit ergibt sich aus folgender Beziehung:
+
+  .. math::
+
+      \unit{F \cdot V^2} = \unit{\frac{C}{V} \cdot V^2} = \unit{C \cdot V} =
+      \unit{A \cdot s \cdot V} = \unit{W \cdot s} = \unit{J}
+
+  Üblicherweise ist jedoch -- anders als bei dieser Aufgabe -- die Stromstärke
+  beim Laden eines Kondensators nicht konstant (siehe :ref:`Ladekurve eines
+  Kondensators <Kondensator im Gleichstromkreis>`).
+
+  :ref:`Zurück zur Aufgabe <efel02>`
+
+..
+    0.003*1/470e-6
+    0.003*5/470e-6
+
+
+----
+
+
 .. _Lösungen zu Magnetismus:
 
 Lösungen zu Magnetismus
@@ -304,9 +414,8 @@ Arbeit, Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
       \cdot \Delta t = \unit[0,17]{A} \cdot \unit[6 \cdot 3600]{s} =
       \unit[3672]{C}
 
-  Es fließen somit innerhalb von sechs Stunden knapp \unit[3,7 \cdot 10^{3}]{C}
-  an elektrischer Ladung durch die Glühbirne.
-
+  Es fließen somit innerhalb von sechs Stunden knapp :math:`\unit[3,7 \cdot
+  10^{3}]{C}` an elektrischer Ladung durch die Glühbirne.
 
   :ref:`Zurück zur Aufgabe <eael01>`
 
@@ -314,8 +423,42 @@ Arbeit, Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
 
 .. _eael02l:
 
+* Aus der angegebenen Leistung :math:`P` und der Spannung :math:`U` kann man
+  zunächst die Stromstärke :math:`I` berechnen:
+
+  .. math::
+
+      P = U \cdot I \quad \Longleftrightarrow \quad I = \frac{P}{U} =
+      \frac{\unit[2,5]{W}}{\unit[6,0]{V}} \approx \unit[0,417]{A}
+
+  Für die Stromstärke gilt zudem die Beziehung :math:`I = \frac{\Delta Q}{\Delta
+  t}`; für die Ladungsmenge :math:`\Delta Q`, die in der Zeitspanne
+  :math:`\Delta t` durch die Glühbirne fließt, gilt somit:
+
+  .. math::
+
+      \Delta Q = I \cdot \Delta t = \unit[0,417]{A} \cdot \unit[(5 \cdot 60)]{s}
+      = \unit[125]{C}
+
+  Diese Ladungsmenge entspricht folgender Anzahl :math:`N` an Elektronen:
+
+  .. math::
+
+      Q = N \cdot e \quad \Longleftrightarrow \quad N = \frac{Q}{e} =
+      \frac{\unit[125]{C}}{\unit[1,6 \cdot 10^{-19}]{C}} \approx 7,8 \cdot
+      10^{20}
+
+  Es fließen in den fünf Minuten somit rund :math:`7,8 \cdot 10^{20}` Elektronen
+  durch die Glühbirne.
+
+  :ref:`Zurück zur Aufgabe <eael02>`
+
+----
+
+.. _eael03l:
+
 * Mit Hilfe der Definition der elektrischen Leistung :math:`P` lässt sich die
-  fließende Stromstärke :math:`I` folgendermaßen ausgedrücken:
+  fließende Stromstärke :math:`I` folgendermaßen ausdrücken:
 
   .. math::
 
@@ -332,11 +475,12 @@ Arbeit, Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
 
   Die Stromstärke im Wasserkocher beträgt somit rund :math:`\unit[7,83]{A}`.
 
-  :ref:`Zurück zur Aufgabe <eael02>`
+  :ref:`Zurück zur Aufgabe <eael03>`
 
 ----
 
-.. _eael03l:
+
+.. _eael04l:
 
 * Für die elektrische Leistung gilt :math:`P_{\mathrm{el}} = U \cdot I`. Für die
   Stromstärke :math:`I` kann wiederum aufgrund des Ohmschen Gesetzes :math:`U =
@@ -357,7 +501,7 @@ Arbeit, Energie und Leistung <Elektrische Arbeit, Energie und Leistung>`.
 
   Die elektrische Leistung nimmt somit um rund :math:`56\%` zu.
 
-    :ref:`Zurück zur Aufgabe <eael03>`
+    :ref:`Zurück zur Aufgabe <eael04>`
 
 ----
 

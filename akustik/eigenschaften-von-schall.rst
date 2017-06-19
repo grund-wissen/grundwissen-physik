@@ -144,6 +144,7 @@ zertrümmert werden.
 ..  Periode:          Zeit, nach der sich Schwingung wiederholt
 
 
+.. _Die Länge von Schallwellen:
 
 .. rubric:: Die Länge von Schallwellen
 
@@ -203,10 +204,10 @@ Schallwellen lassen sich in folgende drei Arten unterteilen:
 
     Als Ton bezeichnet man eine harmonische Schwingung, d.h. eine regelmäßige
     Sinusschwingung mit fester Frequenz. Verschiedene Töne lassen sich ihrer
-    Frequenz bzw. Tonhöhe nach anordnen. Beispielsweise besteht eine Tonleiter
-    aus acht Tönen (Oktave) mit bestimmten Frequenzverhältnissen, wobei der
-    letzte Ton der Oktave eine genau doppelt so hohe Frequenz besitzt wie
-    der erste  Ton der Oktave.
+    Frequenz beziehungsweise Tonhöhe nach anordnen. Beispielsweise besteht eine
+    Tonleiter aus acht Tönen (Oktave) mit bestimmten Frequenzverhältnissen,
+    wobei der letzte Ton der Oktave eine genau doppelt so hohe Frequenz besitzt
+    wie der erste  Ton der Oktave.
 
     Zur Stimmung von Instrumenten wird häufig der so genannte "Kammerton"
     :math:`{\color{white}_{|}}a'` mit einer Frequenz von :math:`\unit[440]{Hz}`
@@ -421,7 +422,7 @@ von circa :math:`\unit[60]{dB}`.
     :alt:  fig-schallpegel
 
     Schallpegel in Dezibel. Der Schallpegel hängt stets von der Entfernung
-    zwischen der Schallquelle und dem Ohr bzw. Messgerät ab.
+    zwischen der Schallquelle und dem Ohr beziehungsweise Messgerät ab.
 
     .. only:: html
 
